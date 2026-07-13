@@ -1,0 +1,73 @@
+CITICORP 
+ 
+ 
+ABOUT: 
+Multi National investment and financial banking service. 
+ 
+NUMBER OF ROUNDS: 3  
+DETAILS ABOUT THE ROUND: 
+Round 1: Technical interview  
+Round 2: Technical and managerial interview 
+Round 3: HR interview 
+ 
+QUESTIONS ASKED IN EACH ROUND: 
+ 
+Round 1: 2 members in the panel 
+ 
+1. Tell me about yourself 
+2. Area of technical interests (I told DataStructures and DBMS) 
+3. What is BST? 
+4. Compare the performance of operations like insertion, deletion in 
+Linked list, array, doubly linked list. 
+5. Realtime applications of stack and queue 
+6. Implement queue using stack ( I was asked to write the code in a 
+paper) 
+7. Given a table and a set of outputs, I was asked to write queries to get 
+the output that was mentioned.  
+8. Given a case and asked which datastructure can be used in that case 
+9. Questions from projects  
+10. What is your understanding about Machine learning and Artificial 
+intelligence? 
+11. Graph traversal methods 
+12. Questions on projects mentioned in the resume 
+ 
+I was directly taken to the next round by my interviewer. 
+  
+Round 2: 2 members in the panel  
+ 
+1. Tell me about yourself 
+2. Strenght and weakness 
+3. Activities in the college other than academics 
+4. Questions about academic projects 
+5. Explain OOPs(encapsulation, polymorphism,inheritance) concepts 
+with realtime example. 
+6. What is the use of garbage collector? 
+7. What is JDK,JRE,JVM? 
+8. Difference between Abstract class and Interface. 
+9. Some managerial questions like what if you have a short deadline, 
+would you focus on the quality of work or compromise the quality and 
+complete the work?  
+10. What are the scheduling algorithms?  
+ 
+Round 3: 1 HR Manager 
+ 
+1. Tell me about yourself  
+2. Why do you want to join Citi?  
+3. What is that one thing that you liked about citi from the Pre-Placement 
+talk? 
+4. Tell me about your extra curricular activities and your achievements in 
+that.  
+5. Do you have any questions regarding Citi? 
+ 
+ 
+TOPICS TO BE COVERED: 
+ 
+Data structures 
+DBMS 
+(Be strong in topics that you’ve mentioned in your resume) 
+ 
+With regards, 
+S.Kavya 
+kavyamsiva@gmail.com 
+  
+ 

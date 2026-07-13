@@ -1,0 +1,643 @@
+[
+  {
+    "source_file": "AASHIN A P-Appian.txt",
+    "candidate_name": "AASHIN A P",
+    "company": "Appian",
+    "role": "Software Development Engineer",
+    "package": "25.5 LPA",
+    "location": "Chennai",
+    "rounds": [
+      {
+        "round_name": "Online Test",
+        "duration": "1 hr",
+        "questions": [
+          {
+            "question_text": "Generating the Next Unique Booking Reference Code",
+            "question_type": "Coding",
+            "topics": [
+              "Permutations",
+              "Arrays",
+              "Logic"
+            ]
+          },
+          {
+            "question_text": "Mall Treasure Hunt",
+            "question_type": "Coding",
+            "topics": [
+              "BFS",
+              "DFS",
+              "Graph Traversal",
+              "Grid Traversal"
+            ]
+          },
+          {
+            "question_text": "Reorganize Queue with Multiple Team Assignment",
+            "question_type": "Coding",
+            "topics": [
+              "Data Structures",
+              "Arrays",
+              "Logic"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "Technical Round - 1",
+        "duration": "1 hr 30 mins",
+        "questions": [
+          {
+            "question_text": "Self-introduction and questions about Astrophysics (recent trends in space, countries trying to prove America hasn't reached space yet).",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "General Knowledge",
+              "Astrophysics"
+            ]
+          },
+          {
+            "question_text": "Given an array of intervals where intervals[i] = any integer, merge all overlapping intervals, and return an array of the non-overlapping intervals in the form of {start,end} that cover all the intervals in the input.",
+            "question_type": "Coding",
+            "topics": [
+              "Arrays",
+              "Intervals",
+              "Sorting",
+              "Stack"
+            ]
+          },
+          {
+            "question_text": "Questions based on intern experience at Amazon, tasks performed, team performance, and overall experience.",
+            "question_type": "Resume-based",
+            "topics": [
+              "Behavioral"
+            ]
+          },
+          {
+            "question_text": "Tech stack used in Amazon and how Artificial Intelligence was utilized during the internship.",
+            "question_type": "Project-based",
+            "topics": [
+              "Artificial Intelligence",
+              "Tech Stack"
+            ]
+          },
+          {
+            "question_text": "Discussion about the Railway DBMS project (personal favorite), inspiration, ER structure, and tech stack used.",
+            "question_type": "Project-based",
+            "topics": [
+              "DBMS",
+              "ER Diagrams",
+              "Tech Stack"
+            ]
+          },
+          {
+            "question_text": "Questions for the interviewer about work-life balance and career growth at Appian.",
+            "question_type": "HR/Behavioral",
+            "topics": [
+              "Company Knowledge"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "HR Round - 1",
+        "duration": "15 minutes",
+        "questions": [
+          {
+            "question_text": "What was implemented in the Railway DBMS project?",
+            "question_type": "Project-based",
+            "topics": [
+              "DBMS"
+            ]
+          },
+          {
+            "question_text": "How was the large amount of data stored for the railway project?",
+            "question_type": "Project-based",
+            "topics": [
+              "DBMS"
+            ]
+          },
+          {
+            "question_text": "Amazon or Appian - Choice?",
+            "question_type": "HR/Behavioral",
+            "topics": [
+              "Company Knowledge"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "HR Round - 2",
+        "duration": "15 minutes",
+        "questions": [
+          {
+            "question_text": "Introduction.",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "What do you know about Appian?",
+            "question_type": "HR/Behavioral",
+            "topics": [
+              "Company Knowledge"
+            ]
+          },
+          {
+            "question_text": "What is the meaning of your name?",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "What is your thought about Artificial Intelligence?",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "Artificial Intelligence"
+            ]
+          },
+          {
+            "question_text": "What AI tools have you used?",
+            "question_type": "Project-based",
+            "topics": [
+              "Artificial Intelligence"
+            ]
+          },
+          {
+            "question_text": "Regarding school and college CGPA and rankings?",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "What will you choose: Appian or Amazon?",
+            "question_type": "HR/Behavioral",
+            "topics": [
+              "Company Knowledge"
+            ]
+          }
+        ]
+      }
+    ],
+    "overall_difficulty": "Medium",
+    "topics_covered": [
+      "Data Structures",
+      "Algorithms",
+      "Arrays",
+      "Permutations",
+      "Graph Traversal",
+      "BFS",
+      "DFS",
+      "Sorting",
+      "Intervals",
+      "Stack",
+      "DBMS",
+      "SQL",
+      "Object-Oriented Programming",
+      "Artificial Intelligence",
+      "Resume-based",
+      "Project-based",
+      "Company Knowledge",
+      "Behavioral",
+      "Astrophysics"
+    ],
+    "general_tips": [
+      "Be consistent and stay positive.",
+      "Be clear in DSA concepts and other core concepts.",
+      "Practice DSA questions in Leetcode and HackerRank.",
+      "Have a good resume with clear understanding of all the terms you have put into it.",
+      "The way you present your approach matters -> Start with the brute force and then optimise the solution and accept feedbacks from the interviewer.",
+      "Don't feel disheartened if you get rejected by a company. You still got lot options coming. Put your 100% effort and stay consistent. Your effort would guide you to your company."
+    ]
+  },
+  {
+    "source_file": "ANSELM FLAVIAN P-SAP Labs.txt",
+    "candidate_name": "Anselm Flavian P",
+    "company": "SAP Labs",
+    "role": null,
+    "package": null,
+    "location": null,
+    "rounds": [
+      {
+        "round_name": "Online Assessment",
+        "duration": "60 mins",
+        "questions": [
+          {
+            "question_text": "Bank Transfers Simulation: Given a string R and an array V, if R[i] = 'A', transfer V[i] amount from Bank A to Bank B. If R[i] = 'B', transfer V[i] amount from Bank B to Bank A. Find the final balance of both banks after all transactions. Constraints were huge (N up to 100,000).",
+            "question_type": "Coding",
+            "topics": [
+              "Arrays",
+              "Logic",
+              "Efficiency"
+            ]
+          },
+          {
+            "question_text": "Balancing the Board: Given two strings (row1, row2) representing a board with 'R', 'W', or '?'. '?' could be replaced with 'R' or 'W'. Make the board “balanced” with the minimum replacements. If impossible, return \"not possible\", else return the count of replacements.",
+            "question_type": "Coding",
+            "topics": [
+              "Strings",
+              "Logic",
+              "Optimization"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "Technical Interview - 1",
+        "duration": null,
+        "questions": [
+          {
+            "question_text": "Self-introduction.",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "Questions about internship experience.",
+            "question_type": "Resume-based",
+            "topics": []
+          },
+          {
+            "question_text": "From the Employees table, find the top-most manager of a given employee.",
+            "question_type": "Coding",
+            "topics": [
+              "SQL",
+              "DBMS",
+              "Hierarchical Queries"
+            ]
+          },
+          {
+            "question_text": "From Orders and Restaurants tables, find the Top 5 restaurants with the maximum orders in the last 7 days.",
+            "question_type": "Coding",
+            "topics": [
+              "SQL",
+              "DBMS",
+              "Joins",
+              "Aggregation",
+              "Date Functions"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "Technical Interview - 2",
+        "duration": "1 hour 30 minutes",
+        "questions": [
+          {
+            "question_text": "Introduction.",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "Explain projects in detail, including how they were built and why certain approaches were chosen.",
+            "question_type": "Project-based",
+            "topics": []
+          },
+          {
+            "question_text": "Difference between a process and a task.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "Operating Systems"
+            ]
+          },
+          {
+            "question_text": "Internal working of compiler vs interpreter.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "Compilers",
+              "Interpreters"
+            ]
+          },
+          {
+            "question_text": "Implement a basic sorting algorithm on the spot.",
+            "question_type": "Coding",
+            "topics": [
+              "Algorithms",
+              "Sorting"
+            ]
+          },
+          {
+            "question_text": "Deep Operating Systems concepts: mutex, critical section, producer-consumer problem, explained with real-life examples.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "Operating Systems",
+              "Concurrency",
+              "Synchronization"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "Managerial Round",
+        "duration": "40 minutes",
+        "questions": [
+          {
+            "question_text": "Why do you want to join SAP?",
+            "question_type": "HR/Behavioral",
+            "topics": [
+              "Company Knowledge"
+            ]
+          },
+          {
+            "question_text": "Where do you see yourself in 5 years?",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "What are your strengths and weaknesses?",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "How are you working on improving your weaknesses?",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          }
+        ]
+      },
+      {
+        "round_name": "HR Round",
+        "duration": null,
+        "questions": [
+          {
+            "question_text": "How did I choose MIT?",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "My college journey so far.",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "Questions about the role and internship.",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          }
+        ]
+      }
+    ],
+    "overall_difficulty": "Hard",
+    "topics_covered": [
+      "Data Structures",
+      "Algorithms",
+      "Coding",
+      "SQL",
+      "DBMS",
+      "Operating Systems",
+      "Concurrency",
+      "Synchronization",
+      "Compilers",
+      "Interpreters",
+      "Sorting",
+      "Arrays",
+      "Strings",
+      "Logic",
+      "Optimization",
+      "Resume-based",
+      "Project-based",
+      "Behavioral",
+      "Company Knowledge"
+    ],
+    "general_tips": [
+      "Resume is everything – Every line will be questioned. Be honest and well-prepared. Don’t put something unless you are ready to defend it.",
+      "Simple questions matter – They’re not checking if you know “rocket science”. They want to see if you understand basics and can explain them clearly.",
+      "Use real-life examples – Whenever possible, connect your answers to real-world scenarios. It shows you really understand the concept.",
+      "Communication is key – Speak confidently but don’t bluff. If you don’t know, it’s okay to admit and move on."
+    ]
+  },
+  {
+    "source_file": "ARUN ULAGAPPAN-Appian.txt",
+    "candidate_name": "ARUN ULAGAPPAN",
+    "company": "Appian",
+    "role": "Software Engineer",
+    "package": null,
+    "location": null,
+    "rounds": [
+      {
+        "round_name": "Online Assessment",
+        "duration": "1 hour 30 minutes",
+        "questions": [
+          {
+            "question_text": "Insert Interval - Leetcode",
+            "question_type": "Coding",
+            "topics": [
+              "Arrays",
+              "Intervals",
+              "Sorting"
+            ]
+          },
+          {
+            "question_text": "Find first and last position of element in sorted array - Leetcode",
+            "question_type": "Coding",
+            "topics": [
+              "Arrays",
+              "Binary Search"
+            ]
+          },
+          {
+            "question_text": "Find missing and repeating – GeeksForGeeks",
+            "question_type": "Coding",
+            "topics": [
+              "Arrays",
+              "Hashing"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "Technical Round",
+        "duration": null,
+        "questions": [
+          {
+            "question_text": "Self-introduction.",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "Implement a list in a React functional component.",
+            "question_type": "Coding",
+            "topics": [
+              "Web Development",
+              "React"
+            ]
+          },
+          {
+            "question_text": "Discussion about projects mentioned in the resume, covering every single line in the descriptions.",
+            "question_type": "Project-based",
+            "topics": []
+          },
+          {
+            "question_text": "Explain what an API is.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "APIs",
+              "Networks"
+            ]
+          },
+          {
+            "question_text": "Types of API and their purposes.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "APIs",
+              "Networks"
+            ]
+          },
+          {
+            "question_text": "Explain about API fire/hit rate.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "APIs",
+              "Networks"
+            ]
+          },
+          {
+            "question_text": "Purpose of the project.",
+            "question_type": "Project-based",
+            "topics": []
+          },
+          {
+            "question_text": "What is the difference between schema and table? (Based on Oracle SQL credential)",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "DBMS",
+              "SQL"
+            ]
+          },
+          {
+            "question_text": "In DBMS, a many-to-many relationship can be resolved into how many tables? (Answer: 3 tables)",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "DBMS",
+              "SQL"
+            ]
+          },
+          {
+            "question_text": "Write an SQL query to select the highest CGPA from each department (given table schema).",
+            "question_type": "Coding",
+            "topics": [
+              "SQL",
+              "DBMS"
+            ]
+          },
+          {
+            "question_text": "Discussion about LeetCode experience: preferred language (C++), most interesting problem solved (constructing a binary tree from inorder and preorder traversals).",
+            "question_type": "Resume-based",
+            "topics": [
+              "Data Structures",
+              "Trees",
+              "Algorithms"
+            ]
+          },
+          {
+            "question_text": "Get non-duplicated elements from a given array containing integers (both duplicates and uniques). (Solution using unordered_map)",
+            "question_type": "Coding",
+            "topics": [
+              "Arrays",
+              "Hashing"
+            ]
+          },
+          {
+            "question_text": "What is polymorphism? Explained with a real-world example.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "OOP",
+              "Polymorphism"
+            ]
+          },
+          {
+            "question_text": "How did you encrypt the password during login in your project?",
+            "question_type": "Project-based",
+            "topics": [
+              "Security"
+            ]
+          },
+          {
+            "question_text": "Write the JSON format for an image.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "JSON"
+            ]
+          },
+          {
+            "question_text": "Explained about Firebase authentication email verification.",
+            "question_type": "Project-based",
+            "topics": [
+              "Firebase",
+              "Security",
+              "Web Development"
+            ]
+          },
+          {
+            "question_text": "A modified Two Sum problem (scenario-based).",
+            "question_type": "Coding",
+            "topics": [
+              "Arrays",
+              "Hashing",
+              "Two Pointers"
+            ]
+          }
+        ]
+      },
+      {
+        "round_name": "HR Round",
+        "duration": null,
+        "questions": [
+          {
+            "question_text": "Questions about projects.",
+            "question_type": "Project-based",
+            "topics": []
+          },
+          {
+            "question_text": "DBMS basics.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "DBMS"
+            ]
+          },
+          {
+            "question_text": "Academics.",
+            "question_type": "HR/Behavioral",
+            "topics": []
+          },
+          {
+            "question_text": "Many-to-many relationship table conversion.",
+            "question_type": "Conceptual/Theory",
+            "topics": [
+              "DBMS"
+            ]
+          }
+        ]
+      }
+    ],
+    "overall_difficulty": "Medium",
+    "topics_covered": [
+      "Data Structures",
+      "Algorithms",
+      "Arrays",
+      "Intervals",
+      "Binary Search",
+      "Hashing",
+      "Sorting",
+      "DBMS",
+      "SQL",
+      "OOP",
+      "Polymorphism",
+      "Web Development",
+      "React",
+      "APIs",
+      "Networks",
+      "Security",
+      "JSON",
+      "Firebase",
+      "Trees",
+      "Resume-based",
+      "Project-based",
+      "Behavioral"
+    ],
+    "general_tips": [
+      "Never lie in your resume — be prepared for any question based on it.",
+      "DSA + DBMS + OOPS are must-prepare topics.",
+      "Be ready to explain every project you mention.",
+      "Have knowledge of API concepts and real-world scenarios.",
+      "Solve LeetCode problems regularly — they may appear with slight modifications.",
+      "CGPA plays a vital role in the shortlisting process.",
+      "When asked \"Tell me about yourself\", speak clearly and confidently. Also, know about the company — their goals and the new steps they are taking.",
+      "While solving DSA problems, keep speaking continuously. Talk about your approach, explain whatever you are thinking, and share what is running through your mind about the problem. Don’t let the interviewer search for the next question — keep the conversation active.",
+      "Highlight the novelty of your project, its purpose, and the target consumers of your project. Have these points at your fingertips."
+    ]
+  }
+]

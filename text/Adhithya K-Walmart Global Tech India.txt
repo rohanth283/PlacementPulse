@@ -1,0 +1,105 @@
+Name: Adhithya K 
+Department: Computer Science and Engineering 
+Company placed: Walmart Global Tech India 
+Job Position: Software Engineer 2 
+ 
+Round 1: Online Test 
+Time Duration: 60 minutes 
+Platform: HackerEarth 
+Pattern: 
+1) 10 technical MCQs belonging to OOPS, OS, DBMS, Networks and SQL 
+2) 2 Coding questions of medium-hard level 
+ 
+Level of difficulty: Medium-Hard 
+ 
+Resources you referred to: GeeksforGeeks, Interviewbit. 
+How did you handle the questions: I read the entire question twice. Then I tried to rephrase 
+the questions and recalled the concepts related to it. By doing this I was able to answer all the 
+questions with good accuracy. 
+ 
+Tips you would suggest for your juniors to pass this round: This is the most important 
+round hence one should be strong in CS fundamentals and data structures. 
+Count of people shortlisted after this round: 20 students were shortlisted for the next round 
+ 
+Round 2 : Technical Interview 
+Time Duration: 50-60 minutes 
+Platform: Zoom 
+Level of difficulty: Medium-Hard 
+I was asked to introduce myself and then we went straight to the technical questions. 
+ 
+Coding questions asked: 
+1) Find if a number is prime number or not (I was asked to explain all possible solutions 
+with detailed time and space complexities). 
+2) Given a binary tree in which each node element contains a number. Find the maximum 
+possible path sum from one leaf node to another leaf node (I was asked to explain all 
+possible solutions with detailed time and space complexities). (Tree) 
+3) Max length Chain - You are given N pairs of numbers. In every pair, the first number is 
+always smaller than the second number. A pair (c, d) can follow another pair (a, b) if b < 
+c. Chain of pairs can be formed in this fashion. You have to find the longest chain which 
+can be formed from the given set of pairs. (DP) 
+ 
+4) I was given 3 aptitude questions based on speed-distance-time, LCM-HCF and Profit-
+Loss. 
+5) Various questions on Threading, Paging, Java fundamentals, OOPS, SQL were asked. 
+ 
+Tips: Prepare the CS core subjects very well as they are equally important as DSA. 
+ 
+Round 3: Technical Interview 2 
+Time Duration: 1.5 hours 
+Platform: Zoom 
+Level of difficulty: Medium-Hard 
+I was asked to introduce myself and then we went straight to the technical questions. 
+ 
+Coding questions asked: 
+1) Print the tree nodes in zigzag manner. (Tree DS) 
+2) Write a function to get the intersection point of two Linked Lists (I was asked to explain 
+all possible solutions with detailed time and space complexity analysis). (Linked List DS) 
+3) Binary Tree to Doubly Linked List (Tree and DLL) 
+4) Given a list of unique words, return all the pairs of the distinct indices (i, j) in the given 
+list, so that the concatenation of the two words (words[i] + words[j]) is a palindrome. (Trie 
+DS). 
+5) Various questions related to Java, OS, OOPS and Networks. 
+ 
+Tips: Always start answering the questions with Brute-Force approach, and then optimize the 
+solutions. 
+ 
+Round 4: HR Interview 
+Time Duration: 30 mins 
+Platform: Zoom 
+ 
+1) I was asked questions based on my resume. 
+2) We had a long discussion about Walmart, innovations at Walmart and technologies 
+which Walmart was working in. 
+ 
+List of HR questions asked: 
+1) Difference between Hardwork and SmartWork 
+2) I was given 2 scenarios and asked how would I react to them. 
+ 
+Your suggestions for juniors in cracking this round: 
+1) Always give honest answers and be confident while you answer. 
+ 
+Tips on resume preparation: 
+1) Update Your Contact Details (Add Linkedin, GeeksforGeeks, Leetcode, Github, 
+Codechef, Codeforces links if available). 
+2) Present Your Education Properly. 
+3) Layout and Format is important. 
+4) List your experiences in reverse chronological format. 
+5) Add experiences that are relevant to the job description. 
+6) Customize your resume to each company and each job position. 
+ 
+Overall tips how to ace the placements: 
+1) Don’t be nervous or stressed during interviews. Ask your friends or seniors to conduct 
+mock interviews. This will help you gain confidence. 
+2) Always be ready with your real life stories for the soft skills that you have mentioned in 
+your resume. 
+3) Be consistent in your preparations. 
+4) Take care of all the edge cases while writing code. You must know how to calculate time 
+and space complexities. 
+ 
+ 
+Contact Details: 
+Adhithya K 
+Linkedin: https://www.linkedin.com/in/adhithya-karthikeyan/ 
+8883018311 
+ 
+ 

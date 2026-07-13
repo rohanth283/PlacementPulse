@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+    <!-- iOS style rounded background rect -->
+    <rect width="32" height="32" rx="9" fill="#161617" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    
+    <!-- Gradient definition -->
+    <defs>
+        <linearGradient id="apple-blue-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#ffffff"/>
+            <stop offset="55%" stop-color="#0a84ff"/>
+            <stop offset="100%" stop-color="#0056b3"/>
+        </linearGradient>
+    </defs>
+    
+    <!-- Sparkle paths (lucide-sparkles style) -->
+    <!-- Large center sparkle -->
+    <path d="M16 5 C16 11 11 16 5 16 C11 16 16 21 16 27 C16 21 21 16 27 16 C21 16 16 11 16 5 Z" fill="url(#apple-blue-grad)"/>
+    
+    <!-- Mini accent sparkle -->
+    <path d="M26 8 C26 10 24 11 22 11 C24 11 26 12 26 14 C26 12 28 11 30 11 C28 11 26 10 26 8 Z" fill="#ffffff" opacity="0.8"/>
+</svg>

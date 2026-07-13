@@ -1,0 +1,62 @@
+ROYAL BANK OF SCOTLAND 
+Royal Bank of Scotland is a major retail and commercial bank in Scotland. It is one of the 
+retail banking subsidiaries of NatWest Group, together with NatWest and Ulster Bank. The 
+Royal Bank of Scotland provides a full range of banking and insurance services to personal, 
+business, and commercial customers. 
+ As well as traditional branches, phone, and internet banking, Royal Bank of Scotland has 
+operated "mobile branches" since 1946 using converted vans to serve rural areas. There are 
+currently 19 mobile branches. On 14 February 2020, it was announced that the holding company 
+of Royal Bank of Scotland (Royal Bank of Scotland Group plc) would be renamed NatWest 
+Group plc later that year, taking the brand under which the majority of its business is delivered. 
+There were 2 rounds for the entire selection process for the company. 
+Round 1 (Online Test): 
+ 
+This round was an online test with an overall duration of 2 hr maximum. 65 students 
+were allowed to attend this test after screening process based on CGPA and resume .The entire 
+set of questions in the test was of medium difficulty range. This round had 2 coding questions, 1 
+algorithm, 20 Tech MCQs, 10 Quants, 10 verbal questions, 10 logical reasoning questions and 
+Aptitude questions (Section 4). You could jump on to any questions there were no restrictions.      
+Solving Aptitude questions in Indiabix will be more than enough to solve aptitude questions in 
+any interviews you go. 
+Tech MCQs included questions from DBMS, OS, Data structures, C/C++ output based 
+questions.  
+After this round, 6 students were shortlisted. 
+Round 2 (Technical + HR round): 
+ 
+This was the final round –Technical + HR round with 2 interviewers. The following 
+questions were asked: 
+1. Tell me about yourself. 
+2. Projects in the resume (They asked me to explain one project in the resume which I loved 
+the most. The way you explain matters the most.) 
+3. Coding language which I am most familiar with (My answer was C++) and proceeded 
+with some basic tech questions in C++. 
+4.  Basic OOPS concept. 
+5. Why DBMS? 
+6. Difference between DELETE, TRUNCATE and DROP Table. 
+7. How to host a website? 
+8. Why not Masters? 
+9. Basic problem solving questions. 
+10. Situation based questions ( Eg: Company asks you to work in a new area of knowledge 
+which you are not familiar with. Will you work in the new area or ask the superior about 
+a change?) 
+11. Any questions to them. 
+The interviewers were so friendly and kind. For technical questions and coding, 
+GeeksForGeeks, tutorialspoint, etc can be followed. 
+Speak with confidence. Go through your resume thoroughly.      
+Finally, 3 of us were selected for accepting the offer  
+Topics to be focused: 
+ 
+Data structures 
+ 
+Database Management systems 
+ 
+Operating Systems 
+ 
+Networks 
+ 
+All the best : 
+ 
+ 
+Sujithra.R 
+sujithra200019@gmail.com 
+ 

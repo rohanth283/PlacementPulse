@@ -1,0 +1,197 @@
+NatWest Group Interview Experience (Internship) 
+ 
+About NatWest Group 
+National Westminster Bank commonly known as NatWest is a leading British banking 
+and financial services company headquartered in Edinburgh, Scotland. Formed in 1968 through 
+the merger of National Provincial Bank and Westminster Bank, it operates major subsidiaries 
+including NatWest, RBS, Ulster Bank, Coutts, and NatWest Markets. As one of the UK’s “Big 
+Four” banks, it serves millions of retails, commercial, and private customers, offering strong 
+digital solutions while focusing on innovation, customer experience, and sustainability with a net 
+zero commitment by 2050. 
+ 
+Eligibility Criteria 
+• 
+CGPA: 6.0 and above from 10th onwards 
+• 
+No Current Arrear 
+ 
+Selection Process 
+1. 
+Online Assessment (Offline @CUIC) 
+2. 
+Pre-Placement Talk (Offline @CUIC) 
+3. 
+Technical + HR Interview (Offline @CUIC) 
+ 
+Online Assessment 
+Online assessment was conducted on 25th August 2025 on the SHL Platform at CUIC. 
+It consisted of four sections which could be attempted in any order. 
+ 
+1. Coding (45 minutes, 2 questions, free navigation) 
+• 
+The questions were array-based and of easy difficulty level. 
+• 
+A driver code was provided; we only had to implement the required function. 
+• 
+Each participant was randomly assigned a different set of questions. 
+ 
+Question 1: 
+Given an array of integers and two values, start and end, return a new array containing only 
+the elements that lie between start and end (inclusive), while preserving their original order. 
+ 
+Input:  Array: [12, 76, 34, 98, 11, 54, 63, 45] 
+Start: 30 
+End: 60 
+Output: 
+Array: [34, 54, 45]  
+ 
+Question 2: 
+Given an n-digit number return the smallest possible n-digit number that can be formed using 
+its digits. 
+Input:  
+Number: 90018 
+Output:  
+Number: 10089 
+Although the questions were presented with additional filler context, the core expectation was 
+exactly as written here. 
+ 
+2. SQL (15 minutes, 10-12 questions, free navigation) 
+• The questions involving selecting the correct option that produced the given output, 
+determining the output of queries, and answering a few conceptual questions. 
+• This section was relatively easy and could be solved with basic SQL knowledge. 
+• It is recommended to be acquainted with SQL fundamentals and practice solving SQL 
+queries beforehand. 
+ 
+3. General Aptitude (36 minutes, 24 questions, no free navigation) 
+• 
+An optional practice test was available before the actual test. It is recommended to 
+attend it, as the questions were quite different from those in other OAs. Attending this 
+test also helps in becoming familiar with the platform. 
+• 
+The section was interactive, and the questions required scheduling meetings, adjusting 
+bar graphs/pie charts to reflect correct percentage values (calculated from the given 
+information), completing graphs based on node values, selecting dates, and assigning 
+rooms based on given criteria. 
+• 
+Overall, the questions were of medium difficulty but time-consuming. 
+ 
+4. 
+English Aptitude (15 minutes, 12 questions, no free navigation) 
+• 
+This section comprised reading comprehension, synonyms and antonyms, error 
+spotting, identifying the correct sequence of sentences. 
+ 
+23 Students were shortlisted after this round. The shortlist was announced a day before the 
+interview. 
+ 
+Technical Interview + HR Interview (25 to 30 minutes) 
+  
+A PPT session was held on 29th August 2025 at CUIC. Generally, there was only one round 
+of interview with two panel members. The interview for interns started at around 2.00 pm. The 
+entire interview was based on my Resume and the answers I provided. 
+Introduction 
+I was asked to introduce myself. It is important to keep the introduction short and crisp, and 
+be clear in advance about what you will share, as the panel may ask follow-up questions based 
+on your introduction. 
+ 
+Projects 
+I was asked to explain all the projects I had listed in my resume. I described: 
+• What the project was about, 
+• Why I chose to do it, 
+• The tech stack I used and the reasons for choosing it, and 
+• The impact of the project. 
+  
+SQL query 
+I was asked an SQL query related to one of my projects, It was an easy question involving 
+JOINs and multiple WHERE clauses, they began with a basic query and then added a few 
+follow-ups, and finally I was asked to explain my approach. I also provided an alternative 
+solution. 
+It is important to clearly explain your thought process and approach to the interviewers. 
+ 
+Technical Section: 
+• 
+What is the difference between map and hashmap? 
+• 
+I was asked about my preferred programming language, the reason for choosing it and 
+was also asked why I had learned four languages. 
+• 
+How strong am I in DSA? 
+• 
+What are the applications of linked list? 
+• 
+Since I had mentioned SDLC in my resume under coursework, they asked me to explain 
+what I knew about SDLC. 
+• 
+I was then asked to explain about Normalization in DBMS. 
+• 
+They asked why I had used Google Colab (as mentioned in my resume). I explained that 
+I had used it as part of my Gen AI coursework. 
+ 
+HR Section: 
+I was given a chance to ask questions—don’t miss this opportunity! 
+ 
+I asked the panel about their journey at NatWest, and they were quite invested in 
+sharing their experiences. I then asked about the involvement of AI at NatWest, their 
+expectations from a fresher, and the kind of work I would be doing there. Finally, I 
+asked for their suggestions on my resume. 
+ 
+Finally, 9 students were shortlisted for the internship, and I am glad to be one among them. 
+   
+Resources 
+ 
+For DSA:  
+• https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/  
+• https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-
+problems 
+• https://neetcode.io/practice?tab=neetcode150 
+• https://leetcode.com/studyplan/leetcode-75/ 
+• C.O.D.E series by ACM CEG. 
+ 
+For SQL: 
+• 
+https://sqlbolt.com/ 
+• 
+https://leetcode.com/studyplan/top-sql-50/ 
+• 
+https://www.geeksforgeeks.org/sql/sql-tutorial/ 
+ 
+For Technical subjects: 
+• 
+https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-
+interviews-sde-core-sheet/ 
+ 
+For Aptitude: 
+• 
+https://www.indiabix.com/aptitude/questions-and-answers/ 
+My Personal Experience 
+ 
+I started my preparation during the summer vacation of my second year. I used to solve 
+2–3 DSA problems each day on LeetCode and GeeksforGeeks (though I had solved problems 
+on LeetCode earlier, I wasn’t consistent back then). 
+I didn’t really feel the heat of the competition until I started receiving notifications about 
+internships and updates on selected candidates in WhatsApp groups. That’s when I sped up my 
+preparation. 
+For the OA, I brushed up on SQL concepts, revised general aptitude from IndiaBix, and 
+practiced a few problems on LeetCode. I also went through placement experiences and solved 
+problems similar to those. 
+Note: Don’t forget to bring your calculator. 
+For the interview, I would advise studying OS, DBMS, OOPS, and CN concepts in advance. 
+Don’t postpone this until the last moment (which is what I did). Even though I wasn’t asked 
+about OS, CN, and OOPS, many companies do ask them, so it’s better to be prepared. 
+Note: Be thorough with your resume, I was asked about SDLC because I had listed it. Make 
+sure you can explain your projects clearly: why you chose this project, its outcome, highlighted 
+features, the tech stack you used, why you used it, and be ready for follow-up questions.  
+ 
+General Advice 
+•   Maintain proper posture during the interview. 
+•   Communication is the key. 
+•   Start your preparation as early as possible, but remember it’s never too late to start. 
+•   Intern drives can be overwhelming but keep improving your skills and the results 
+will follow. 
+All our dreams can come true, if we have the courage to pursue them. ~ Walt Disney.  
+ 
+Personal Details: 
+Name: Suhasri S 
+Email: suhasri28@gmail.com 
+LinkedIn: www.linkedin.com/in/suhasri-sudhakar 
+All the very best! Feel free to reach out to me! 

@@ -1,0 +1,149 @@
+                    NATWEST INTERVIEW EXPERIENCE 
+                    (INTERN AND PLACEMENT DRIVE) 
+ 
+ABOUT THE COMPANY 
+ NatWest Group is a major British banking and financial services holding company 
+headquartered in Edinburgh, Scotland. It operates through well-known subsidiaries including 
+NatWest, National Westminster Bank, Royal Bank of Scotland (RBS), Ulster Bank, NatWest 
+Markets, and Coutts, serving both retail and private banking, investment, and commercial 
+sectors.  
+ Incorporated in 1968, initially as the holding entity merging National Commercial Bank of 
+Scotland and others, the group has gone through expansions, a prominent international 
+period, a serious financial crisis, and extensive restructuring.  
+ In 2020, the group rebranded from RBS Group to NatWest Group to align with its primary 
+customer-facing brand. 
+ 
+PROCEDURE: 
+1.ONLINE TEST(@CUIC) 
+2.INTERVIEW(TECHNICAL+HR) (@CUIC) 
+ 
+ONLINE TEST 
+The Online test consisted of four sections and was conducted on SHL platform at CUIC. It is a 
+proctored test where you need to keep your webcam on. The total duration was 1hr 51 
+minutes which was around 2hrs. 
+ 
+SECTION 1(CODING SECTION) 
+This section consisted of 2 coding questions which were easy to medium difficulty level 
+timed for 45 minutes. 
+Question 1: 
+This question was similar to finding number of non-repeating characters in a string. 
+I used an unordered map to solve this problem. 
+Question 2: 
+This question was described to sort in ascending order till k and after k ,we should sort it in 
+descending order and finally merge and print the result. 
+I used inbuilt functions like sort()  and reverse() to solve this problem as they did not 
+mention about restricting the use of inbuilt functions. 
+All test cases passed in both the questions. 
+ 
+SECTION 2 (SQL) 
+This section consisted around 13-15 MCQ questions regarding SQL which included queries, 
+SQL keywords and finding correct queries and so on. This section was timed for 15 minutes. 
+You can score full marks in this section as this only tested the basic knowledge in SQL. 
+ 
+SECTION 3 (APTITUDE) 
+This section actually took a lot of time to solve as there were 24 questions timed for 36 
+minutes. 
+The questions were from : 
+1.Numerical Reasoning(Graphs,percentages,profit,sales) 
+2.Logical Reasoning(Ranking,Ordering,Scheduling) 
+3.Abstract/Inductive Reasoning(Figure patterns,alphanumeric sequence) 
+They come under Cognitive Ability test and section had more weightage ,so try to solve as 
+many questions and there is no negative marking. 
+ 
+TIPS: 
+1.Read questions carefully because for five questions same question can be repeated. 
+2.Be fast in doing calculation when dealing with stock,profit,percentage related questions. 
+3.Learn shortcuts for pattern solving,percentages,etc… 
+4.Solve many questions from this section because it can boost your total marks in the overall 
+assessment. 
+ 
+SECTION 4(ENGLISH AND COMPREHENSION) 
+ 
+This section consisted of nearly 10-12 questions of MCQ type and  can be solved easily with 
+basic English grammar knowledge.You can score full marks in this section too.This section 
+was timed for 15 minutes. 
+The questions were like to choose appropriate words,synonyms,antonyms and error 
+spotting. 
+They gave a comprehension and asked 2-3 questions from that. 
+You can choose any section to work on and there is no restriction between navigating 
+questions and also you will have sufficient time to choose next section after you have 
+completed one section as the timer will stop and then starts once you enter the next section  
+and choose accordingly. 
+ 
+23 candidates including me were shortlisted for the next interview round. 
+ 
+INTERVIEW (TECHNICAL + HR) 
+ 
+We had only one round of interview which consisted of two interviewers per panel.There 
+were 5 panels and they started interviewing the final year grads first for placement and the 
+interview for interns was commenced around 2.00 P.M. 
+I went to panel 1 as the last person to be interviewed by the interviewers and went around 
+30-40 minutes. 
+ 
+There were a sir for HR questions and a mam for Technical questions and They started with 
+my resume and asked about : 
+1.My schooling 
+2.My area of interest(I mentioned Agile,NatWest Technologies,etc..) 
+3.Why did I learnt Japanese? 
+4.My projects (Which one I found Interesting) 
+5.Did I visit IIT library? 
+6.What did you find interesting in this campus? 
+ 
+And he switched me over to mam for technical questions ,she was keenly listening my 
+answers and started asking from that. 
+1.Tech stacks used in my project and why chose them? 
+2.How SQL table is integrated to my projects? 
+3.OOPS concepts(Abstract class,interface,constructors,static class,static methods and so on) 
+4.Difference between Java and Python. 
+5.SQL queries,SQL keywords,SQL functions(like aggregate 
+functions,DENSE_OVER(),ROW_COUNT()) 
+6.Difference between WHERE and HAVING clause in SQL. 
+ 
+She asked me to write the query on paper and explain actually I made a silly mistake and she 
+gave a hint to correct myself. 
+She was very friendly and they didn’t expect a perfect answer, they just want to know how 
+well you manage and how well you are in the known concepts. 
+Feel free to tell your interviewer that you are not comfortable in the particular topic and let 
+them know how much you know about the topic. Don’t lie to your interviewer and be 
+honest and tell them what you know instead. 
+ 
+Then again HR questions were shooted : 
+1.Why NatWest? 
+2.What you expect when you join? 
+3.Any questions to the interviewer? 
+Ask some questions when you are prompted to ask so that they know that you are actually 
+interested in the company and communication is the key factor. They asked line by line 
+questions from my Resume so be thorough with your Resume. 
+ 
+QUICK TIPS THAT ACTUALLY HELP: 
+1.Learn DSA,DBMS,OOPS,OS,CN and revise those before your interview 
+SOURCE: Refer GEEKSFORGEEKS for last minute prep. 
+2.Be confident and honest with your interviewer. 
+3.Admit that you are not comfortable in a particular topic and tell them instead you know 
+some other related concept. 
+4.Surf through GEEKSFORGEEKS previous year experience which actually helped me a lot. 
+5.Practice coding in Leetcode and hackerrank to improve problem solving skills. 
+6.Learn about company and make an impression that you are actually interested in the 
+company. 
+7.Prepare Aptitude from IndiaBix. 
+RESOURCE: 
+https://drive.google.com/drive/folders/1DOlcBKs8emhVHDKnnIAolVpPq5oIS-SF 
+ 
+Actually the result was like “EXPECT THE UNEXPECTED” because I told them frankly that I am 
+not comfortable with some topics but somehow I managed to tell some basic points I know . 
+9 Interns were selected including me.(The Happiest Part) 
+ 
+JUST GO WITH THE FLOW, EVERYTHING WILL BE ALIGNED AND HAPPEN IN THE RIGHT TIME. 
+KEEP PRACTICING , GIVE YOUR BEST AND DON’T WORRY ABOUT THE REST. 
+MAKE IT HAPPEN!!! 
+                                                    ALL THE BEST !!! 
+ 
+FEEL FREE TO CONTACT ME IN CASE IF YOU HAVE ANY QUERIES. 
+HARSIKA VETRIVEL(B.E CSE 2023-2027) 
+CONTACT NO: 8072619155 
+LINKEDIN : https://www.linkedin.com/in/harsikavetrivel88 
+EMAIL ID : harsikavetri@gmail.com 
+ 
+ 
+ 
+ 

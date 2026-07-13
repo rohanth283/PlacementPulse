@@ -1,0 +1,87 @@
+Amazon Interview Experience 
+ 
+About the company: 
+Amazon is a leading American multinational technology company with a primary focus on e-
+commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It is 
+recognized as one of the "Big Five" tech giants in the U.S. As a product-driven company, Amazon 
+is also part of the well-known MAANG group, representing the most influential companies in the 
+tech industry. 
+• Role Offered: SDE-2m Intern. 
+• Stipend: 1,10,000 INR + 400 USD per month. 
+• Selection Process: PPT, Online Assessment, Technical Interview. 
+Online Test: 
+The assessment included two coding questions and a work personality test. The online 
+Assessment was conducted in HackerRank platform. 
+• Coding Questions: 2 (Total time: 70 minutes) 
+• Personality Test: No time limit (Mandatory to complete) 
+ 
+Coding Question 1: 
+Given an integer x and a vector cost of integers. Your task is to count the number of pairs (i, j) 
+where i < j and the sum of cost[i] + cost[j] is divisible by x. 
+ 
+Approach:  
+I used modulo arithmetic to find pairs whose sum is divisible by a given integer x. By calculating 
+the remainder of each element in the array and using a hash map to track the frequency of these 
+remainders, we can efficiently find complement remainders that, when added to the current 
+element's remainder, result in a multiple of x. Then I counted the valid pairs by incrementing 
+based on the frequency of the complements. 
+Coding question 2: 
+Given a list of strings patterns, each consisting of characters and wildcard symbols (?), determine 
+the minimum number of columns where a character conflict occurs. A character conflict in a 
+column happens when different non-wildcard characters are found in that column. Wildcard 
+symbols are ignored in conflict checks. Return the count of such conflicting columns. 
+Approach: 
+For each column, we shall track characters seen so far, ignoring wildcard characters (?). If two 
+non-wildcard characters differ within the same column, it indicates a conflict, and we increment 
+the count of such conflicts. 
+Based on this Online Assessment, 52 people were shortlisted for the next round. 
+Technical Interview: 
+The interview took place on Amazon's Chime platform, with a link provided to join the 
+meeting. Two recruiters participated: one as the primary interviewer and the other as an 
+observer. Each of us introduced ourselves, and it was noted that there would be no separate 
+HR round. So make sure that  you showcase your technical strengths and relevant projects 
+during your introduction. Following this, you’ll be asked to share your screen and use 
+LiveCode to tackle the coding questions.  
+The interviewer will post the coding question on the platform. Be sure to read and 
+understand the question thoroughly. It’s a good idea to take a few minutes to consider your 
+approach before starting. If you have any questions about the problem, don’t hesitate to ask 
+the interviewer for clarification. 
+Begin by describing the brute force approach before moving on to the optimized solution. 
+Ensure you engage with the interviewer during the coding process and avoid being silent. 
+When discussing time and space complexities, provide a thorough explanation. 
+Coding Question 1: 
+Given a 2D array where each index represents a bomb with a specific detonation radius. 
+When a bomb detonates, it can set off other bombs within its radius. The task is to find the 
+maximum number of bombs that can be detonated starting from any single bomb, 
+considering the cascading effect of detonation. 
+Problem Link: https://leetcode.com/problems/detonate-the-maximum-
+bombs/description/ 
+First, the interviewer asked me to explain the brute force approach, which I did using DFS. 
+Then, she asked about the time and space complexities. After 5 to 10 minutes, she asked 
+me to code the function. She also wanted to know if there were any possible optimizations. 
+I thought about it for a few minutes, and then she moved on to the next question. 
+ 
+Coding Question 2: 
+Given an array of integers where each integer represents a ball of a specific color: 0 for white, 
+1 for red, and 2 for blue. The task is to sort this array in-place such that all balls of the same 
+color are grouped together. This problem is often referred to as the "Dutch National Flag 
+Problem." 
+Problem Link: https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/ 
+She directly asked for the optimized approach. Since I was familiar with the three-pointer 
+algorithm to solve the problem, I explained that method to her. I was then asked to code the 
+solution and perform a dry run with the provided sample input. Finally, she inquired about 
+the time and space complexities of the code. 
+The interview was scheduled to last exactly one hour. You are likely to be selected if you 
+solve both questions within the time limit. At the end, the interviewer asked if I had any 
+questions for her.  
+Be confident and explain your approach clearly. The interviewers are mostly interested in your 
+thought process rather than your code. 
+All the very best! 
+MATHUMITHA MA 
+CEG CSE’26 
+E-Mail: mathumithaa17@gmail.com 
+LinkedIn: https://www.linkedin.com/in/mathumitha-ma/ 
+Mobile: +91 7418953399 
+ 
+ 
+ 

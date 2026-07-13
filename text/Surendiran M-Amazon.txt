@@ -1,0 +1,260 @@
+Amazon SDE Intern(6M) Experience
+About the company:  Amazon, one of the MAANG companies, is a global
+leader in e-commerce, cloud computing, and AI. Known for its innovation and
+customer obsession, Amazon empowers engineers to build scalable, high-impact
+solutions that serve millions of users worldwide.
+Role Offered: Software Development Engineer Intern
+Stipend: 1,10,000 INR + 425 USD (Relocation Allowance) per month
+Duration: 6 Months
+Selection Process:
+1. Online Assessment (Virtual)
+2. Technical Interview (Virtual/In-Person)
+Amazon came for 2 roles, one is for SDE intern role another is for Non-SDE role intern. For Non-SDE  intern they shortlisted 
+the candidates by CGPA around 8.75.
+For SDE intern role, the online assessment happened on Oct 3,2025 on Virtual Mode. The assessment contains 3 Parts
+1. Coding round (2-DSA) - Timed for 70 mins
+2. Workstyle Assessment  - No Time restriction
+3. Work Simulation Assessment - No Time restriction
+There are a plenty of ways in which you can get into amazon. They conduct variety of events like Hackon, ML Challenge: 
+These 2 programs are Hackathons via this programs you can get opportunities to enter into amazon and can win prizes.
+ML Summer School: 1-Month Virtual Learning program via this you get into ML Scientist or related roles. 
+Usually these programs happen in between May- September, So Keep an eye on LinkedIn, unstop and Tech Influencers, 
+They’ll notify you about it. I participated in all these programs.
+OFF-CAMPUS EXPERIENCE:
+I got a Invitation for SDE Intern role through my performance in Amazon Hackon in July 2025. And then, I cleared the OA 
+then got an interview link before the campus placements started(Aug). But unfortunately I Couldn’t clear it. I was really 
+nervous since my  last attended  interview was in 5th sem Nov 2024 through On-campus.
+               The interviewer began by introducing himself and asked my introduction and my project for around 10 mins in 
+Amazon Chime Platform then I was asked to code and explain 2 DSA qns  although I correctly coded the soln, I couldn’t 
+explain it to the interviewer qns why I’m using BFS instead DFS then why 3D visited array instead of a 2D visited Array for 
+1st qn. 
+               Then the 2nd qn was a famous modified binary search question, I asked for testcases then asked for range of the 
+variable in that question, then I gave the binary search soln, He asked me what was the brute force approach I gave a 
+approach using backtracking by producing continuous subset sum within the threshold and the no of subsets is the no of 
+days. I haven’t seen the problem before, he was looking a for loop approach which was super-intuitive instead of while 
+loop(Binary search) he was expecting that, But i have a different, he couldn’t understand my backtracking approach i 
+guess.
+Then he asked if I have any question I asked 2-3 qns then the interview ended, within a week a got a mail that I was not 
+selected.  Key learning after this incident was to improve pattern-based learning for DSA although I knew the optimized 
+approach, I have to start with a brute-force soln and discuss it’s time and space complexity then I have to move the 
+optimized soln and code that soln out.
+Online Assessment: OA Question Link
+Amazon SDE Intern(6M) Experience
+1
+Interview Question: Interview Question Link
+ONLINE ASSESSMENT:
+Then days pass by on Oct 3, I wrote amazon OA through on-campus this time the DSA questions were tough. One of the 
+question was on DP another was a Simulation based question.
+Question 1 – Dataset Cleaning Cost You are given a string dataset of even length 
+consisting of lowercase English letters. You can remove any two characters in one 
+operation: 
+If both are the same → cost = matchCost
+If different → cost = mismatchCost 
+Your goal is to remove all characters while minimizing the total cost.
+Testcase 1:
+dataset = "ouio", matchCost = 2, mismatchCost = 4
+Here the matchCost is lower than mismatchcost so need to match as many chars as possible
+'o' - 'o' got matched cost=2  'u','i' left in the string
+'u' - 'i' got mistmatched so cost=cost+mismatchcost=2+4=6 string is now empty so return 6
+Testcase 2:
+s = "ouio", matchCost = 6, mismatchCost = 4 
+Here the matchcost> mismatchCost so try to mismatch chars as possible to reduce the cost
+'o'-'u' cost=4
+'i'-'o' cost=cost+mistmatch=4+4=8 so return 8
+Testcase 3:
+s='ooouio' matchcost=6 mismatchcost=4
+Here we have to match a 'o'-'o' no other way so ans would 14
+From the question I figured out we are trying out different possiblities and choosing 
+the minCost, So figured it as a Dp problem and coded a soln that passed 13/15 Testcases.
+Question2 - You have a pipeline string and a failedService character.
+Each second, every occurrence of failedService removes its preceding character (if any).
+All removals happen simultaneously.
+Continue until no more removals possible.
+Output = number of seconds until stabilization.
+TestCase 1:
+pipeline = "database", failedService = 'a'
+At second 1:'a' preceding chars are removed after that pipeline="aaase"
+At second 2:'a' preceding chars are removed pipeline="ase"
+now 'a' got no preceding so the string got stablished so return the no seconds which is 2
+I coded a O(n*m) soln which eventually got time limit execeeded for the last testcase.
+n - size of the string
+m - no of seconds
+I try to log the input that failed using print statements and the input was a 
+very large string, I tried to optimise it but couldn't.
+ WORKSTYLE ASSESSMENT:
+         They gave situation where I was new joinee in the company and i was asked a write documentation for codebase and
+the manager was not satisfied with my documentation. How would reply to various scenarios of question. Try to put 
+yourself there and select the options that defines responsibility ,ownership and curiosity.
+WORK  SIMULATION ASSESSMENT: 
+Amazon SDE Intern(6M) Experience
+2
+        Be consistent same type of question will be twisted in many ways you have to select the option which is more likely 
+your value  and be consistent throughout.
+For Example: 
+Completing a project within timeline  or   Enjoying Freetime
+You have to select 1st one: Completing a project within timeline 
+Then after some question: Do you like wear a watch for office or I like to read books
+Now select the 1st one Do you like wear a watch for office
+Both the questions implies that you value time which one of the principles of amazon.
+Select the option that more talk about team ownership, frugality, amazon’s core leadership principles. Try to read about it 
+online before the assessment.
+After a couple of days, the shortlist came and nearly 100+ student were shortlisted and after a week nearly 18 students 
+were selected. I was not shortlisted for interview.
+Yes, I was not shortlisted. But I already had experience of amazon interview and  know about the pattern what they focus 
+more. So helped my friend who were shortlisted for interview rounds to focus more on Binary search/Modified Binary 
+search Problems and graph problems especially the problems related to shortest path like Rotten orange and Connected 
+components problems and gave a list of almost must do 30 problems.
+And exactly on the interview he was asked a problem on connected components and Koko eating banana problems he 
+solved both the problem and after the interview he said both the problems were from the list of 30 problems which is said. 
+And he was selected.
+Then days passed, I was applying for other companies and hopeless. On Oct 27,Amazon again shortlisted 100+ candidates 
+for SDE intern role and the interview was scheduled on Nov 7 and Nov 8 on Sathyabama engineering College, Chennai and 
+it was an offline interview and I was shortlisted.
+Until oct 27, I have solved around 400+ DSA problem on Leetcode out of which 200 problems were done at my third year. 
+So I solved only 200+ problems during July - Oct during placement season.
+But within those 10 days prepration time, I solved around 120+ new problems and revised all those patterns and problem I 
+have solved already. Finished the graph, DP, Trie series of Take you Forward Playlist.
+OFFLINE INTERVIEW:
+On Nov 7, I went to the interview location and seriously I was expecting a Shortest path using Dijkstra Algorithm/BFS, 
+Topological sort, Minimum Spanning Tree, Trie-based string matching or Any Tree Based questions But Surprisingly I was 
+given Buy and Sell Stock problem, the interviewer explained the question like Amazon Stock’s daily fluctuating between 
+value and you have to buy and sell the stock and maximise the profit. I asked some clarifing question on the question since 
+there were many variations on Buy & sell stock which could be solved using DP, So I asked whether I could Buy and sell 
+only 1 time or multiple times and any codition for buying stocks since these were other variants. The interview said You 
+could buy and sell only once. So I confirmed that this is the variant one.
+int profit=0,buy=profit[0];
+for(int sell:stocks){
+    if(sell-buy>profit){
+       profit=sell-buy;   
+    }else
+    {
+        buy=min(sell,buy);  
+    }
+ }
+ return profit;
+ 
+ I explained the problem using a testcase, either we can buy or sell at point,so we have 
+ to buy at the min stock price and sell at the maximum profit.
+ 
+ Then discussed the Time & space complexity: I said Tc:O(n) and Sc:O(1)
+Amazon SDE Intern(6M) Experience
+3
+ then the interviewer asked how it is O(1) space since i was using 3 variable.
+ I explained even if the profit array contains 10 elements or 1 million elements the
+ 3 variables gonna remain the same so it is a constant space.
+ 
+ Time & Space complexity is a measure of how the variables gonna increase regarding as
+ the size of the input. Let's say I'm usign a array it gonna store all the (buy-sell) 
+ at every point and choosing the maximum profit iterating the array it gonna take 
+ O(n) space.
+ 
+ Both the interviwers were happy with my explanation and asked the 2nd question.
+The 2nd question was a LinkedList question were I was asked Reorder the List.
+I gave away 3 different approaches:
+  1. Creating a new list with the same copy of value and reversing it, then 
+  merging one from the given list and another from the reversed list.
+class Solution {
+public:
+    void reorderList(ListNode* head) {  //I Coded the soln in paper
+        ListNode* temp=head;
+        ListNode* revList=new ListNode(0);
+        ListNode* temp1=revList;
+        int n=0;
+        while(temp){
+            n++;
+            temp1->next=new ListNode(temp->val);
+            temp1=temp1->next;
+            temp=temp->next;
+        }
+        revList=reverse(revList->next);
+        ListNode* ans=new ListNode(0);
+        temp=head;temp1=ans;
+        for(int i=0;i<n;i++){
+            if(i>=ceil((double)n/2)){
+                break;
+            }
+            temp1->next=temp;
+            temp=temp->next;
+            temp1=temp1->next;
+            if((n & 1 && i!=n/2) || (n%2==0)){
+            temp1->next=revList;
+            revList=revList->next;
+            temp1=temp1->next;
+            }
+            
+        }
+        temp1->next=NULL;
+        head=ans->next;
+    }
+    ListNode* reverse(ListNode* p){
+        ListNode *q=nullptr,*r;
+        while(p){
+            r=q;
+            q=p;
+            p=p->next;
+            q->next=r;
+Amazon SDE Intern(6M) Experience
+4
+        }
+        return q;
+    }
+};
+Approach 2: Instead of creating a new list I gave an approach using stack which will 
+store the list in reverse order which is also of time complexity of O(n) and 
+space complexity of O(n).
+Approach 3: I gave an In-place technique where I use constant space.
+Using slow-fast pointer technique I will find the middle of the list and reverse the 
+2nd part alone.
+Then picking one from the start and another from the reversed list and merging it.
+TC:O(n) SC:O(1)
+After this approach, the interviewer seemed very happy and I took almost 30-40 mins to 
+solve both the question.then, I gave a copy of my resume and finished the interview.
+1 week later after completing my1st semester exam in KP, My frnd said that amazon shortlist came and there was no 
+internet connection in the 2nd floor, We rushed to the ground floor and saw the list, there were 25 candidates selected and 
+to my surprise my name was not there.
+Then after completion the semester exams, After Dec 5, the placements resumed, Companies registrations started, I got 
+shortlisted for Media.net  2nd Round for Site reliability Engineer role.
+On Dec 12, I was in Media.Net socket programming coding round, My frnd came in the middle of test  and laughed and 
+came to me and said “Come on, leave the test”. And then he showed the message that I was offered 6month Internship for 
+Amazon SDE Role. It happened in the most dramatic way Ever!
+                                             FINALLY,THE YOUNG SEAGULL MADE IT’S FIRST FLIGHT!
+KEY EXPERIENCE & LEARNINGS:
+Research about the company’s recent OA and hiring pattern, what they’re looking at. And what topics they’re focusing 
+more on.
+             For Eg : Amazon - DSA, Media.net - Computer networks + OS +  System Design , 
+                          Visa - Project Understanding(System Design) + Famous DSA problems,
+                           Nvidia - Low-level DSA like bit manipulation, pointers, C/Cpp
+Certain interviews will be different from the others, Media. net - 2nd round will be a Socket programming where we 
+have to implement client-server programs like group chat rooms, accessing folders, multiple client + one server 
+handling. 4th round will be system design round
+Visa - In the virtual coding rounds they ask us to implement code from the scratch, when I was attending the interview 
+for intern(2M) they asked to implement a height and depth of a tree, where I have to include the header files, tree 
+creation, Linkedlist creation etc… (Most of the candidates struggle here)
+Search experience in forums like Reddit, LeetCode discuss, GFG, Medium & Youtube etc… In Nvidia, They have been 
+asking the same qns in OA for almost 3 years, I saw it in a leetcode discuss post but didn’t practise the qn but for my 
+surprise the next day I got the same  qns.
+For DSA, Complete the Striver’s A-Z sheet Completely since 75% of interview question will be in that sheet, Some other 
+Imp questions that are not in striver’s sheet will be in NeetCode, for Best soln & famous problems  - Aryan Mittal
+Computer networks - IT K Funde Channel
+ OS qns related to Memory management - BitLemon
+Follow some famous influencers on Linkedin, Instagram & Youtube who will be posting about off-campus opportunites, 
+hackathons.
+Participate in coding/tech events in Kurukshetra, Sync, Itrix and also in Hackathons, You end up learning new things or 
+winning it which will be significantly become turning point in Interview and also open up new avenues like internships 
+opportunities etc…
+Amazon SDE Intern(6M) Experience
+5
+Try to store the dsa soln in digital form preferably Github, google sheets/Locally which will help us to revise pattern 
+wise - Constantly Revise concepts and pattern wise problems.
+Don’t worry about outcomes in life we are not playing a T20 match, we are playing a test match just hang in there is 
+always a second innings.
+  Must Visit CS Fundamentals & DSA preparation resources that I used: My resources
+                         If you want something you’ve never had, you have to do something you’ve never done!
+CONTACT:
+Surendiran M
+CEG CSE (2022-2026)
+LinkedIn Profile - If you need any help DM me, don’t hesitate I’ll be more happy to help
+Email: surendiran.m2004@gmail.com
+                                      Everything will be fine in the end, If it is not then it is not the End!
+Amazon SDE Intern(6M) Experience
+6

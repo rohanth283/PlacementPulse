@@ -1,0 +1,48 @@
+ 
+ 
+Visa Inc. (For internship) 
+ 
+ 
+Visa Inc. is an American multinational financial services corporation headquartered in Foster 
+City, California, United States. It facilitates electronic funds transfers throughout the world, most 
+commonly through Visa-branded credit cards, debit cards and prepaid cards. 
+ 
+ 
+There were two rounds for internship. The first round (coding round) consisted of four 
+classical algorithm application questions. The second round was a technical round in which HR 
+questions were also asked. 
+ 
+Coding round: 
+I only remember the topics of three questions. 
+1. Palindrome partitioning 
+2. A greedy approach question 
+3. Knapsack problem 
+ 
+Technical and HR round: 
+ 
+1. Explain how to optimize a database table such that data retrieval can be done efficiently. 
+Database indexing is a possible answer. Explained about DB indexes and how they work. 
+2. When a query is executed, explain what happens. Explained the general overview of query 
+processing. 
+3. Write a query to select the second highest mark in a student mark table. 
+4. Design a weather app. 
+5. Explain how blockchains work and why they are used? Explain the improvements you made. 
+I was asked this question since I mentioned it in my resume. 
+ 
+General HR questions like strength/weakness were asked. 
+ 
+Topics to be focussed: 
+ 
+⚫ Data structures 
+⚫ Database management systems 
+⚫ Operating system 
+⚫ Whatever you mention in your resume. 
+ 
+ 
+Take away: 
+Having a good knowledge of CS basics and coding will help to get placed in this company. 
+Be clear about whatever you mention in your resume. 
+ 
+Hope this helps. All the Best. 
+ 
+Sriram B 

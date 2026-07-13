@@ -1,0 +1,53 @@
+Western Digital – Internship 
+About the Company: 
+Western Digital Corporation (WDC), commonly known as Western Digital or WD, is an 
+American computer drive manufacturer and data storage company headquartered in San 
+Jose, California. It designs, manufactures, and sells data technology products, including data 
+storage devices, data center systems, and cloud storage services. Western Digital has a long 
+history in the electronics industry as an integrated circuit maker and storage products 
+company. It is one of the largest computer hard disk drive manufacturers and also produces 
+solid-state drives and flash memory devices. Its competitors include Seagate Technology and 
+Micron Technology. 
+Interview Process: 
+There was no coding round. I was shortlisted based on my resume, which includes an IoT 
+project that I completed in my 4th semester as part of the Naan Mudhalvan curriculum. In 
+total, 8 candidates were shortlisted for the technical interview, including 3 from CEG (2 from 
+CSE and 1 from ECE) and 5 from MIT. 
+Technical Interview: 
+• 
+Duration: 30 Minutes 
+• 
+Location: CUIC 
+During the technical interview, I began by introducing myself and elaborating on the 
+positions of responsibility and projects detailed in my resume. The interviewer then posed 
+two technical questions related to linked lists. The first question required me to explain the 
+logic for merging two linked lists, while the second focused on removing duplicates from a 
+sorted linked list. For both questions, I was asked to illustrate the logic on paper rather than 
+writing code. Following the technical discussion, the interviewer asked why I was interested 
+in joining Western Digital and inquired about my family background. The interview 
+concluded with an opportunity for me to ask questions. Out of the 8 students who 
+participated in this round, 3 were selected for the next stage. 
+HR Round: 
+• 
+Duration: 10 Minutes 
+• 
+Location: CUIC 
+During the HR round, the interviewer first asked me to describe my strengths. This was 
+followed by a question about why I chose Anna University for my bachelor’s degree. I was 
+then asked to discuss my weaknesses and provide an example of a situation where I worked 
+effectively as part of a team. The interview concluded after addressing these topics. 
+All 3 of us were selected for the 2-month summer internship. 
+Notes: 
+1. Answer confidently. Even if you don’t know the exact answer, take them through 
+your thought process. 
+2. Don’t fake your resume and be clear about what you include. 
+3. Review concepts in DBMS, OOP, OS, and DSA to excel in technical interviews. 
+4. Research the company thoroughly before the interview; it creates a good impression. 
+5. If you really want to join the company, mention relevant projects like DFCO or IoT 
+projects in your resume. 
+Thank you and all the best! 
+Shakith A 
+B.E. CSE (CEG’26) 
+LinkedIn 
+skshakith@gmail.com 
+ 

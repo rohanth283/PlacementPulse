@@ -1,0 +1,131 @@
+ 
+ 
+                          APPIAN INTERVIEW EXPERIENCE (SOFTWARE ENGINEERING ROLE) 
+Name: Roshni Banu S 
+Department: CSE 
+Mail: rigana0206@gmail.com 
+Contact: 7604985870 
+Batch: 2023 – 2027 
+ 
+Appian Corporation is an American cloud computing and enterprise software company 
+headquartered in McLean, Virginia, part of the Dulles Technology Corridor. The company 
+sells a platform as a service (Paas) for building enterprise software applications. It is 
+focused on low-code development, process mining, business process management, and 
+case management markets in North America, Europe, the Middle East, and Southeast Asia. 
+Appian offers a low-code platform with a visual Interface and pre-built development 
+modules. As with other low-code platforms, It enables businesses to create apps and 
+automations using little or no code. 
+There were four rounds of interviews. 
+1. Coding round 
+2. Technical Round 1 
+3. Technical Round 2 
+4. HR round 
+ 
+Coding Round:  
+                 Candidates were sent a link to attend the online coding round, which was held on 
+the glider.ai Platform. The platform was heavily proctored which included video, audio and 
+screen sharing. We had to solve three questions in 75 mins.  
+Qn.1:  
+We are given a list of player numbers from 1 to n that contains exactly one duplicate 
+and exactly one missing number. 
+We are also given a fixed set of teams, each containing certain players. 
+ 
+Our task is to: 
+1. Identify the duplicate number in the list. 
+ 
+ 
+2. Identify the missing number in the list. 
+3. Determine the team status: 
+ 
+"Valid" if both duplicate and missing players belong to the same team. 
+"Multiple Teams" if they belong to different teams. 
+"No Valid Team" if they are not in any team together. 
+ 
+Example Input: 
+Arr = [1, 2, 2, 3, 5, 6] 
+Teams = [ 
+    [1, 2], 
+    [3, 4], 
+    [5, 6] 
+] 
+Explanation: 
+       Numbers should be from 1 to 6. 
+       Duplicate → 2 (appears twice).     Missing → 4 (doesn’t appear). 
+ 
+Team membership: 
+                     2 is in [1, 2] (Team 1). 
+                     4 is in [3, 4] (Team 2). 
+              Different teams → “Multiple Teams” 
+Expected Output: 
+               2 
+4 
+Multiple Teams 
+ 
+Qn.2:   (Similar to Leetcode problem – Find first and Last Occurences of a number) 
+              We are given a sorted list of integers and a target value. 
+               Find the first and last positions (indices) of the target in the list . If the target is not 
+found, return [-1, -1]. 
+    Input: nums = [5, 7, 7, 8, 8, 10], target = 8 
+    Output: [3, 4] 
+ 
+ 
+ 
+Qn.3: (Similar to Leetcode problem – Insert interval) 
+        You are given a list of non-overlapping time intervals (the schedule) sorted by start time, 
+and a new time interval representing a new session to add. 
+Insert the new session into the schedule so that: 
+ The resulting schedule remains sorted by start time.Any overlapping intervals are merged 
+into one continuous interval. 
+Example :  Input 
+Existing schedule: {{9, 11}, {13, 15}} 
+New session: {10, 14} 
+Output:    Updated schedule after inserting and merging: 
+[9, 15] 
+ 
+Nearly 40 students from both CEG and MIT got shortlisted for the Technical rounds. 
+ 
+Technical Round 1:  
+             The interview began with my self-introduction, followed by questions on OOPs and 
+DBMS. I was given a real-time design problem to implement a parking space system with 
+constraints like availability status, charging sockets, and car size limits. I discussed DBMS 
+as my favourite subject, which led to questions on SQL commands, constraints, and 
+attributes, normalisation. We then moved to OOPs topics such as inheritance, 
+polymorphism, virtual functions, constructors/destructors, and Java concepts like JDK vs 
+JVM vs JRE, along with final, finally, and finalize, Interface. The round concluded with a 
+discussion on my projects, skills, and achievements from my resume. 
+For me the technical Round 1 happened for nearly  1hr 10mins 
+ Be thorough with Java and core subject concepts . 
+Be clear with your resume projects. 
+ 
+ 
+ 
+ 
+ 
+Technical Round 2:  
+                This round focused more on behavioural questions. I was asked about what 
+motivates me, what upsets me, why I chose Appian, and why I’m interested in the Software 
+Engineering Intern role, what if I wasn’t selected for the next rounds, One main reason why 
+do I need to join Appian? Then We discussed my projects in detail, including challenges 
+faced during group work and the reasons behind selecting our project ideas. 
+Duration – 25mins 
+ 
+HR Round: 
+        In the HR round, I was asked about my educational background (state board or 
+otherwise), 12th grade marks, CGPA, and family background. The session concluded with 
+an opportunity for me to ask questions to the interviewer. 
+Duration – 5mins  
+ 
+Finally, 12 of us got selected for the position of Software Engineer Intern. 
+ 
+Key takeaways 
+1. Try to provide optimal solutions 
+2. Time management (you need to code for 3 problems in 75 mins) 
+3. Focus on DSA and OOPS DBMS OS  
+4. Practice DSA problems on Leetcode and Geeks for Geeks  
+5. Answer the questions confidently 
+6. Questions are based on what you have provided in the resume. So have a clear 
+understanding of concepts mentioned in your resume. 
+ 
+Hope whoever reads this writes one just like I did. 
+All the best. 
+Roshni Banu S  

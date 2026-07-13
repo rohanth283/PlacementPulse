@@ -1,0 +1,124 @@
+Fidelity Investments 
+Interview Experience 
+ 
+About the Company 
+Fidelity Investments is a US-based organization, and one of the largest asset managers 
+in the world. It operates a brokerage firm, manages mutual funds, provides fund 
+distribution and investment advice, retirement services, index funds, wealth 
+management, securities execution and clearance, asset custody, and life insurance. It 
+offers brokerage clearing and back office support and software products for financial 
+services firms. It is one of the largest providers of 401(k) plans and manages employee 
+benefit programs for more than 28,800 businesses. 
+ 
+Role 
+2M Summer Internship 
+5M Internship & PPO based on performance 
+ 
+Process 
+1. Pre-Placement Talk 
+2. Online Assessment 
+3. Technical Interview 
+4. HR Interview 
+ 
+Pre-Placement Talk 
+A well-detailed introduction and discussion on the company. Took place online and 
+lasted for about an hour. 
+ 
+Online Assessment 
+The assessment was for a period of 90 minutes, and consisted of 3 different sections: 
+ 
+1. Coding – 40 minutes: 2 questions were asked. Requires basic DSA knowledge to 
+easily get through. Check if a brute force approach passes all the test cases, and go 
+for optimized solutions only if it doesn’t. 
+2. Aptitude – 20 minutes: The usual aptitude questions. MCQ and numerical type. 
+3. Algorithms – 30 minutes: 2 questions about relatively simple algorithms were 
+asked. Be thorough with the different algorithms you’ve learned in your Data 
+Structures and Design and Analysis of Algorithms classes. 
+ 
+Around 350 candidates took this assessment, and about 50 were shortlisted for the 
+interviews. 
+ 
+Technical Interview 
+The technical interview took place at CUIC, and lasted for about 60 minutes for me. 
+However, on average, it was probably around 30 minutes. 
+ 
+Tips 
+1. Be thorough with your projects. Most questions will be from your projects. 
+2. Any theoretical question asked will most probably be from a concept or tool that 
+you have or could have used in the projects mentioned in your resume, so when 
+answering the question, explain how you used the concept or tool in your project 
+and how it made your design better. 
+3. Have good understanding of the different concepts from core IT areas, mainly 
+DBMS, Software Engineering, OS, Web Design, OOPs, Networks, and Algorithms. 
+4. There is more importance given to system design and the understanding of core 
+OOPs and DBMS concepts. There will be DSA questions, but they will be relatively 
+simple, and mostly straightforward such that you can answer them on the spot. 
+5. Python, C++, or Java are good choices if any specific coding questions are asked. 
+ 
+Questions Asked to Me 
+1. Explain IPC. 
+2. What is the Critical Section problem? How do you solve it? 
+3. What is Indexing? Explain its types. Why did you use it in your project (I used it for a 
+simple project wherein the data was massive - around 500K records).  
+4. Construct an ER diagram for the given scenario (it was a pretty simple scenario and I 
+only needed 5 different entities to cover the requirements. A good balance of 
+normalisation and redundancies is expected). 
+5. Implement a stack using an array (my interviewer was familiar with C++, but any 
+language of choice was offered, so I went with Python and used lists). 
+6. Design the given circuit using HDL (the circuit was drawn in a paper, consisting of 
+AND, OR, NAND, and XOR gates; I think very few were asked HDL questions, so don't 
+worry much). 
+7. Explain the mathematics behind linear regression. 
+8. Provide a walkthrough of the OSI model and explain both top-down and bottom-up 
+approaches. 
+9. Explain the difference between TCP and UDP. 
+10. How did you use Inheritance in your project (it was a simple OOPs-focused 
+Supermarket System)? 
+11. Some HTML tag questions, Agile vs Waterfall, and other pretty straightforward 
+questions were asked.  
+ 
+As you can see, the questions were pretty straightforward, but you have to convince the 
+interviewer that you know what you're talking about. So just be strong with your basics. 
+Thorough foundational knowledge is pretty much enough. 
+HR Interview 
+Around 30 candidates were shortlisted from the 50 who took the technical interview. My 
+HR round lasted for about 20 minutes, which was the overall average as well. 
+ 
+Tips 
+1. Research the company.  
+2. Research yourself. Don't be confident that you can answer anything about yourself. 
+Sometimes, on the spot, you'll say something about yourself that is not true, and 
+when a follow-up is asked, you'll put yourself in a tight spot. So, understand your 
+strengths and weaknesses and focus primarily on your strengths whenever you're 
+introducing yourself.  
+3. Don't be too technical here. You can highlight that as your strength, sure, but this 
+round is to assess your suitability in a workplace environment, so look for other 
+strengths like communication, collaboration, etc. 
+4. Fit the vibes of the interviewer - if he/she is friendly, feel free to have a friendly but 
+respectful talk. If he/she is straight down to business, be crisp yet comprehensive 
+with your answers. 
+5. Some HR interviews may consist of technical questions, so be ready for that as well 
+and don't be too shocked. 
+ 
+Questions Asked to Me 
+1. Introduce yourself. 
+2. Suggest me a phone that I could buy, given I have an infinite budget (I said that I was 
+a phone fanatic in my introduction, hence the follow-up). 
+3. Why would you recommend this phone? 
+4. What do you think about AI? How much do you use it? 
+5. Have you read this book about AI? (I said that I loved reading) 
+6. What kind of books do you read? 
+7. Summarise your favourite book to me in one minute and convince me to read it. 
+8. What is one quality of yours that you think would be amazing for the workplace in 
+Fidelity? 
+ 
+My interviewer was a pretty chill guy, and allowed me to ask him a couple of questions 
+as well at the end, and he really liked the questions that I asked him, because they were 
+aimed at his personal experiences and how I could be ready for the company. 
+ 
+And that’s it! 12 candidates were selected after the HR round, and I was one of them. If 
+you have any specific questions, feel free to reach out to me! 
+ 
+Yuvaraj K 
+MIT IT 2022-2026 Batch 
+LinkedIn 

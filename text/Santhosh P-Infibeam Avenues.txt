@@ -1,0 +1,79 @@
+INFIBEAM AVENUES 
+About the company: 
+Infibeam Avenues Limited, founded in 2007 and headquartered in GIFT City, 
+Gandhinagar, is a leading Indian fintech company. It operates the popular payment gateway 
+CCAvenue and offers digital payment and e-commerce technology solutions to businesses, 
+governments, and financial institutions. The company serves clients across India and 
+internationally, with presence in the Middle East, USA, and Australia. Listed on the NSE and 
+BSE, Infibeam Avenues processes high transaction volumes daily and focuses on innovations 
+in digital payments, data security, and enterprise SaaS platforms, supporting India’s growing 
+digital economy. 
+ 
+Online Assessment: 
+• Section 1 comprised 20 multiple-choice questions covering pseudocode 
+output prediction, data structures and algorithms concepts, and computer 
+fundamentals. It tested candidates’ understanding of logic flow, problem-
+solving ability, and core topics such as operating systems, networking, and 
+DBMS, evaluating overall technical aptitude and analytical thinking skills. 
+• Section 2 contains two DSA questions. 
+ 
+➢ Problem 1: Calculate height of a binary tree but neglect if node’s 
+value is odd. 
+➢ Problem 2:  
+Input: Two integer inputs will be given. One integer says the value and 
+other integer says in how many digits the value should be expressed. 
+Output: String  
+ 
+▪ Example 1: 
+Input: Value: 999, Digits: 3 
+Output: “999” 
+▪ Example 2: 
+Input: Value: 1000, Digits: 3 
+Output: “A00” 
+ 
+Here A means 10, B means 11, ... goes till Z. 
+[Hint for Section2: Write logic/approach for the code as comments before 
+start coding and focus to score on Section 1] 
+I was able to solve only 1st problem half the testcases provided. I didn’t solve 
+the second one. 
+13 candidates were shortlisted for the interview. 
+Interview (Offline and Virtual mixed at CUIC): 
+All three rounds are technical. [No HR or managerial rounds] 
+• Round 1 - Offline: 
+The interview began with a self-introduction, followed by two Data Structures and 
+Algorithms (DSA) problems and a puzzle. 
+➢ Problem 1: A modified linked-list problem where each node had both a child 
+and a next pointer, resembling a tree structure. The task was to flatten this 
+structure into a linear linked list by traversing through child nodes first, then 
+next nodes. I initially solved it using a stack-based iterative DFS approach. 
+Upon being asked to optimize space complexity, I proposed a recursive DFS 
+solution. The interviewer later requested pseudocode, which I couldn’t provide 
+at that moment. 
+➢ Problem 2: Given a binary tree, the objective was to find the sum of the 
+maximum possible Binary Search Tree (BST) within it. Each leaf node was 
+considered a BST, and the goal was to compute the highest sum across all 
+possible BSTs. Only the logic was required, and the interviewer provided 
+guidance during the discussion. 
+➢ Puzzle: Sand Timer Puzzle with solution | PrepInsta. I was unable to solve it 
+during the interview. 
+4 out of 13 candidates were shortlisted for next round. 
+• Round 2 – Virtual: 
+I began with a self-introduction, followed by one puzzle and two data structures and 
+algorithms (DSA) problems. 
+➢ Puzzle: Puzzle | The Burning Candles - GeeksforGeeks. I initially struggled to 
+solve it on my first attempt, but with guidance from the interviewer, I was able 
+to arrive at the correct solution. 
+➢ Problem 1: Jump Game - LeetCode. I started with an O(n²) approach and then 
+optimized it to an O(n) solution. I was asked to implement the code in an 
+online compiler. 
+➢ Problem 2: Gas Station - LeetCode. I was required to explain the logic 
+without coding. 
+3 out of 13 candidates were shortlisted for next round. 
+• Round 3 – Virtual: 
+This round began with a self-introduction, followed by a DSA problem shared 
+through Codeshare, where code execution was not allowed. 
+➢ Problem: Given two sorted integer arrays, return the range [a, b] such that 
+|a - b| is minimal, where a and b represent one element from each array. 
+➢ Approach: I initially proposed an O(n log n) solution and, with guidance from 
+the interviewer, optimized it to an O(n) two-pointer approach. 
+At the end of this round, two candidates were offered positions. 

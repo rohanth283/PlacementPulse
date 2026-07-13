@@ -1,0 +1,65 @@
+About Arista Networks 
+Arista Networks is an industry leader in data-driven, client-to-cloud networking for large 
+data center, campus and routing environments. Arista is a well-established and profitable 
+company with over $5 billion in revenue. Arista’s award-winning platforms, ranging in 
+Ethernet speeds up to 800G bits per second, redefine scalability, agility, and resilience. 
+Arista is a founding member of the Ultra Ethernet consortium. We have shipped over 20 
+million cloud networking ports worldwide with CloudVision and EOS, an advanced network 
+operating system. Arista is committed to open standards, and its products are available 
+worldwide directly and through partners. 
+Online Round: 
+First, the students who had applied for the company were shortlisted, and only 83 students 
+were selected to attend the online test. Since it was conducted in the department, the 
+students wrote the exam using the department systems, not their personal laptops. 
+The test was conducted on HackerRank, and the password was provided by the company. 
+The test consisted of: 
+ 
+15 technical MCQs covering topics like pointers, twisted output-prediction 
+questions, and other programming-related concepts. 
+ 
+3 coding questions, each with a separate time limit. 
+You could access each section only during its allotted time, but if you completed a question 
+early, you were allowed to save and proceed but oyu have to wait until the time ends. 
+Next day the interview was in a hybrid mode which comprised of 2 rounds. 
+Interview Round 1: 
+Only nine students were shortlisted for the interview, and it was scheduled for the very next 
+day, so I had very little time to prepare. My first round was virtual. It began with a quick self-
+introduction, after which the interviewer explained the pair-coding process and asked me to 
+share my screen. I was allowed to choose the programming language. 
+First, he gave me an output-prediction question based on function overriding. I answered it 
+incorrectly, but he guided me to the right answer and then asked multiple output-based 
+questions by making small modifications to the same program. 
+Next, he asked me to code a function that takes a string as input and returns another string 
+sorted by the frequency of its characters. If two characters had the same frequency, they 
+had to be sorted lexicographically. He handled the input and main function himself, and he 
+asked me to explain my approach and use the assert function to test my implementation. 
+After that, he asked me to code the flattening of a linked list, which I was already familiar 
+with. Again, he took care of the main function and the printing of the linked list. 
+He then asked how vectors are implemented internally, and I was only able to answer 
+partially. 
+Finally, he asked if I had any questions. 
+Interview Round 2: 
+Only five students were shortlisted for the second round. Everyone had a different experience 
+in this round — some were asked technical questions again, while others faced project-based 
+discussions. For me, it was mostly HR-style questioning. 
+Since I was confident about my projects, I tried steering the conversation toward them. 
+However, the interviewer felt that I hadn’t done anything new or impactful through my 
+projects. He implied that I hadn't solved any real-world problem and even made me feel as 
+though I had wasted my college life. From his tone, I felt he had already decided not to select 
+me, but I didn’t lose hope. I kept trying to convince him that I was a good fit for the 
+company. 
+Eventually, the interview shifted into technical topics. He asked me what my strength was, 
+and I said Data Structures and Algorithms. He then mentioned the name of an algorithm and 
+asked if I knew it. I hadn't even heard of it before, so I said no. He then asked which 
+algorithms I do know. I asked if he wanted something simple or complex. After his response, 
+I first said Bubble Sort. He told me to choose a more optimal one, so I switched to Merge 
+Sort. 
+He then asked how I arrived at the time complexity of Merge Sort. I had forgotten the 
+explanation, so I just described how Merge Sort works instead of giving the actual 
+complexity derivation. 
+In the end, he advised me to participate in more hackathons and work on personal projects. 
+After two rounds only 2 members were selected for internship. 
+Name: Vishva Pranav 
+Mobile No. : 7010440318 
+Email : vishvapranav00@gmail.com 
+All the Best!! 

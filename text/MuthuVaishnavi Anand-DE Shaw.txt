@@ -1,0 +1,229 @@
+D E SHAW INTERNSHIP INTERVIEW EXPERIENCE 
+ 
+About the company- D. E. Shaw is a multinational investment management 
+firm founded in 1988 by David E. Shaw and based in New York City. The 
+company is known for developing complicated mathematical models and 
+computer programs to exploit anomalies in financial markets. 
+Role Offered- SDET Intern (For the Quality and Test Engineering team based in 
+Hyderabad) 
+Stipend- 1,50,000 INR per month 
+Selection process- 
+1. Online Assessment 
+2. Technical Interview 1 
+3. HR Interview 
+4. Technical Interview 2 
+ 
+Online Assessment 
+The Online Assessment was conducted on Hackerrank with a total duration of 95 
+minutes. The online assessment had 3 sections- 
+• Coding Questions (1st Question - 20 minutes & 2nd Question - 30 minutes) 
+• Technical MCQs (12 Questions - 17 minutes) 
+• Aptitude MCQs (14 Questions - 18 minutes) 
+Since each section had a separate time limit, it was necessary to complete the 
+test sequentially and the extra time would not be carried forward for the 
+remaining sections. The MCQs also had negative marks for incorrect answers. 
+ 
+Coding Question 1 
+Given an array of integers of size n, consider subarrays of a given size k. For 
+every possible subarray of size k within the given array, calculate the sum of the 
+absolute differences of all pairs of elements in that subarray and return the 
+maximum sum in that array. 
+Example input –  
+Array - [1,2,3,5] 
+k - 3 
+Output- 
+8 
+I solved this question with a Brute Force approach after finding all possible 
+subarrays of size k and finding sum of absolute differences for each subarray to 
+find maximum sum of absolute differences. However, I was able to pass all 
+example testcases without exceeding the time limit. 
+ 
+Coding Question 2 
+Given a string s and two empty strings pre and post, find the lexicographically 
+smallest post string that can be formed by using all characters of string s by 
+performing either of the two operations – removing an element from the 
+beginning of s and adding it to the end of pre or removing an element from the 
+end of pre and adding it to post. 
+Example input –  
+s – ‘cab’ 
+Output –  
+‘abc’ 
+I used a stack approach for moving characters in and out of the pre string and I 
+used the Greedy approach to ensure that the lexicographically smallest string is 
+the result. I was able to pass all example testcases with my approach. 
+ 
+Technical MCQs 
+The Technical MCQs were simple questions mostly based on DSA, DBMS, CN, 
+finding errors in programs, predicting the output of a program and completing a 
+portion of a given code. 
+ 
+Aptitude MCQs 
+The Aptitude related MCQs were a bit complex and included complex math 
+questions too with the time limit making it harder to answer. 
+ 
+Based on the results of the Online Assessment, 17 people were shortlisted for 
+the Interview. 
+ 
+Technical Interview Round 1 (1 hour) 
+The interview took place at CUIC. The interview started off with the panel having 
+a look at my resume. Since I had completed a few projects related to DBMS and 
+Data Science, they asked questions based on DBMS and to test my aptitude, 
+problem solving skills. 
+1) If we were to create a database system for the Indian voting system, what 
+tables should be included and with what form of normalization? 
+I was asked to write the relational schema of the tables on paper. After I gave 
+them my answer, they asked me to consider adding an element of security to 
+the database system. I told them about having an admin to control access. 
+However, they were not satisfied with my answer and asked for a more 
+secure database system. We moved on as I didn’t know the answer. 
+ 
+2) What is the need for normalization and what are the different forms of 
+normalization? 
+I told them the answer and gave them an example of when normalization 
+would be required. They also questioned me about the normalization of the 
+database I used in one of my projects. 
+ 
+3) You are tasked with using a water dispenser that can dispense cold, warm, 
+and hot water to fill cups. Each type of water (cold, warm, hot) corresponds 
+to an array position (amount[0], amount[1], and amount[2] respectively) 
+indicating how many cups of each type you need to fill. The machine has two 
+modes of operation-  
+• In one second, it can fill two cups of different types of water.  
+• In one second, it can fill one cup of any type of water.  
+The goal is to find the minimum number of seconds required to fill all the 
+cups as per the amount array. 
+I explained my approach of filling two maximum types at a point of time and 
+moving on to the next type after finishing off with atleast one type. They 
+were satisfied with my approach and I was asked to write the code on paper. 
+ 
+4) Given an increase in the number of IPL teams, it was decided to divide the 
+total number of teams in two groups and the matches played by each team 
+would be based on the following conditions- 
+• 1 match with every other team in the same group 
+• 2 matches with other teams in the other group 
+Given n number of teams, find the total number of matches conducted. 
+It was more of a mathematical aptitude question as they asked me to find 
+the answer for 10 teams. I gave the wrong answer at first but I was able to 
+correct myself later. I was asked to find a general formula for it considering n 
+number of teams and write the code for a function to implement the same 
+on paper. 
+ 
+5) Given a table with Employee name, ID, Job name, Job ID, State Code, State 
+with several repetitive values in all the attributes, I was asked to find a 
+suitable primary key, possible functional dependencies and the normal form. 
+I was also asked to normalize the table and write relational schemas of the 
+final normalized forms on paper. 
+ 
+We also had general discussions about the internship during the interview. At 
+the end of the interview, they asked me if I had any questions for them. I asked 
+them for any suggestions to improve my skills. They advised me to look for more 
+creative and unexpected solutions for coding questions instead of the usual 
+solutions. 
+ 
+HR Interview (15 minutes) 
+The interview was more of a friendly discussion with the HR. I was asked 
+questions like- 
+1) Why do you prefer an internship related to testing instead of developing? 
+2) What made you choose D. E. Shaw for an internship? 
+3) If given a better opportunity in another company, would you prefer to stay or 
+leave? 
+4) What are your plans for higher studies? 
+5) What do you know about D. E. Shaw and what did you get to know from the 
+Pre Placement Talk? 
+6) Would you prefer to work in a new environment far away from your friends 
+and family? 
+I told the HR about why I was interested in a FinTech related internship. I 
+explained how I believed testing and developing would require equal levels of 
+creativity and so it doesn’t matter whether it’s testing or developing. I also 
+told her that a Software related internship in a company would be a dream 
+come true and factors like a new work environment wouldn’t affect me 
+much. I also said that better opportunities, higher studies are all a part of a 
+future plan but I would like to gain some hands-on experience before making 
+any important life decisions. 
+ 
+After the first technical interview and the HR interview, few of us were asked 
+to attend the second technical interview in the evening. 
+ 
+Technical Interview Round 2 (45 minutes) 
+The interview started off with the panel asking me to introduce myself. After 
+the introduction, they moved on to the DSA questions. 
+1) Given a list of library books and a list of students with each student having 
+read a few books, find the minimal set of students that must have read 
+maximum/almost all the library books together. 
+I gave the wrong answer at first as I misunderstood the question. However, 
+the interviewer was able to correct me and I was able to give the right 
+answer eventually. I explained my logic of using the sliding window approach 
+considering the student roll numbers were in order and books read by each 
+student was stored in a dictionary with their roll numbers as keys. I also 
+explained another approach using Kadane’s algorithm as the interviewer was 
+looking for an optimized approach. I was questioned about the time and 
+space complexity of my approach and asked for a more optimized answer. 
+We moved on as I couldn’t think of a more optimized answer. 
+ 
+2) There are 3 repositories in a github account. Each repository has around 50 
+files and testing a file would require an enormous amount of time. 
+Considering the problem that raises an error involving a combination of one 
+file in each of the repository due to a bug in one of the files in the 3 
+repositories, suggest an approach to find the file with the bug without taking 
+much time. 
+I explained my approach of using binary search considering the fact that a 
+bug in a particular file will also affect the working of the subsequent files. I 
+was asked about the time complexity of my approach and they were satisfied 
+with my approach. 
+3) Given a m X n matrix with integers, find a path providing the maximum sum 
+from the top left corner to the bottom right corner by moving diagonally up 
+or diagonally down or towards the right and without returning to the same 
+spot more than once. 
+I gave them a backtracking approach considering movements in the 
+diagonally up, diagonally down and right directions. I was asked about the 
+time and space complexity. I had to write the code on paper and they were 
+satisfied with my approach. 
+ 
+4) The question was about ball collision similar to the asteroid collision available 
+on leetcode. 
+https://leetcode.com/problems/asteroid-collision/description/ 
+I explained a stack approach for it and wrote the code on paper. They were 
+satisfied with my answer after I explained the time and space complexities. 
+ 
+After the DSA questions, they had a look at my resume and inquired generally 
+about my achievements. As I had mentioned C++ and Python as my skills, 
+they asked me about the difference between the two languages. I explained 
+about the differences of the compiled and interpreted language. They also 
+asked me which language would be better in different situations involving 
+programs with time as an important factor, programs that need not be 
+precompiled again and again and so on. 
+ 
+At the end of the interview, they asked me about why I chose to dive deep 
+into a few specific languages instead of exploring more. They also advised me 
+to improve myself with newer technological skills. 
+ 
+The results were announced later at night and 2 of us from CEG were 
+selected for the internship. 
+ 
+General Tips- 
+It’s completely fine if you are not a great coder in the start. You always have 
+time to improve your skills. 
+• Practice coding in websites like Leetcode, Hackerrank as it helps improve 
+problem solving skills. 
+• Have a look at questions in Leetcode Premium for the company. 
+• Practice ACM CODE questions for an understanding of every single topic 
+in DSA. 
+• Learn from the experiences of seniors. 
+• Try practicing aptitude questions also as it has great importance in the 
+online assessment. 
+• Improve your speaking skills. The interview will be more of a discussion 
+rather than an oral test and the interviewer also notices your ability to 
+interact easily. 
+• The interviewer is more interested to know your creative answers to 
+their coding questions. So let your creativity flow while finding optimized 
+solutions. 
+• Keep revising old concepts while learning new ones. 
+Last but not the least…. Stay calm! 
+ 
+All the best! 
+ 
+MuthuVaishnavi Anand 
+CEG CSE 26’ 
+LinkedIn Profile - https://www.linkedin.com/in/muthu-vaishnavi-anand/ 
+Feel free to reach out to me at muthuvaishnavianand@gmail.com 
+ 

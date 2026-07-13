@@ -1,0 +1,101 @@
+ 
+ 
+ 
+ 
+ 
+ 
+TCS DIGITAL 
+ 
+ 
+Tata Consultancy Services is an IT services, consulting and business solutions organization 
+that delivers real results to global businesses, ensuring a level of certainty no other firm can match. 
+TCS offers a consulting-led, integrated portfolio of IT and IT-enabled infrastructure, engineering and 
+assurance services.  
+ 
+TCS Digital campus drive – conduct two tests. Aptitude and Coding. Based on the scores on 
+these two, we will be selected for interview. 
+ 
+Round 1: Aptitude, Verbal, (Technical or Pseudocode solving), Puzzles 
+ 
+Round 2: Two coding Question  
+ 
+We will have Time limit 1hr. 
+ 
+I have solved both questions. Make sure your code has to pass all the test cases given. So, I got 
+selected for the Interview. 
+ 
+Round 3: It consists of 3 Panels (Managerial, Technical and HR)  
+ 
+Managerial Round: 
+ 
+In this round, questions were asked on the extracurricular activities and interests which you have 
+mentioned in your resume. They will try to know how will be your approach at different situations 
+and your decision making skills.  
+ 
+1. What did you do in NSS? 
+ 
+2. Why do you want to join in TCS? 
+ 
+3. Suppose if you are joined in TCS, the project assignments will be provided to you. If you have any 
+doubts, whom you will ask?  
+a) managers                     b) friends                   c) or solve by your own 
+ 
+4. Why your CGPA is less compared to 10th and 12th? 
+ 
+Technical Round: 
+ 
+5. Programming languages mentioned in the resume.  
+ 
+6. Which one you feel easier : python or C language? Why? 
+ 
+7. How and when did you learn python? 
+ 
+8. What is the usage of pointer? 
+ 
+9. What are the Storage classes in C? Explain it.  
+ 
+10. Overview of your project ( Input, Algorithm used and Output ) 
+ 
+11. Explanation of projects.  
+ 
+                 I have mentioned three projects in my resume. ML based, Embedded based and DBMS 
+based. First, they asked me to explain embedded project. Questions will be like…why you used this 
+particular sensor? Why can’t you use other sensors? What will be the range of the used sensor?   
+After that they asked me to explain ML project (algorithm explanation) and relate it with embedded 
+one, if your projects are relatable.  
+ 
+HR: 
+ 
+The HR round was very casual as compared to other rounds. They are just trying to get to know more 
+about yourself 
+ 
+12. How do you want to see yourself after 5 years?  
+ 
+13. What are your hobbies? 
+ 
+14. About the relocation(yes/no)? I said Yes 
+ 
+15. Is your parents ok with your relocation?  
+ 
+ 
+These were the questions asked me in the Interview(about 45  mins). Overall it was a good experience. 
+ 
+ 
+Topics to be focussed: 
+ 
+◆ Data structures 
+◆ Database management systems 
+◆ Operating system 
+ 
+ 
+Take away: 
+ 
+ 
+Having a good knowledge of basics, coding and confidence will help you to be placed in this 
+company. Project explanation is very important in my case. Explain your project clearly. 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Name.   : SIVARANJANI B 
+Mail id. : sivaranjani23071999@gmail.com 

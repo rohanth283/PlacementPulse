@@ -1,0 +1,133 @@
+My SAP Labs Interview Experience  
+Total Rounds: 5 
+Date: 18th August 2025 
+Hi everyone! I wanted to share my SAP Labs interview journey because when I was 
+preparing, I used to read these kinds of experiences and they helped me a lot. So, here’s my 
+detailed story — from the online test to the HR round. Hopefully, it gives you some idea of 
+what to expect and how to prepare. 😊 
+ 
+🖥️ Round 1: Online Assessment (60 mins) 
+The very first hurdle was the online coding test, which was conducted in a virtual mode at 
+CUIC. We had to solve two coding questions in one hour. 
+🔹 Question 1: Bank Transfers Simulation 
+We were given: 
+ 
+A string R and an array V. 
+ 
+If R[i] = 'A', transfer V[i] amount from Bank A to Bank B. 
+ 
+If R[i] = 'B', transfer V[i] amount from Bank B to Bank A. 
+The task was to find the final balance of both banks after all transactions. 
+Constraints were huge (N up to 100,000), so efficiency was key. 
+🔹 Question 2: Balancing the Board 
+We had two strings (row1, row2) representing a board: 
+ 
+Cells contained 'R', 'W', or '?'. 
+ 
+'?' could be replaced with 'R' or 'W'. 
+We had to make the board “balanced” with the minimum replacements. If impossible, 
+return "not possible", else return the count of replacements. 
+This round tested both logic and optimization skills. After completing it, I felt quite 
+confident and fortunately, I cleared it. 
+ 
+ 
+ 
+ 
+⚙️ Round 2: Technical Interview – 1 
+From hundreds of students, 90 were shortlisted. 
+This round started casually with: 
+ 
+Self-introduction 
+ 
+A few questions about my internship experience 
+After this warm-up, we quickly moved to problem-solving. 
+💻 SQL Questions I faced: 
+1. From the Employees table, find the top-most manager of a given employee. 
+2. From Orders and Restaurants tables, find the Top 5 restaurants with the 
+maximum orders in the last 7 days. 
+This round was a mix of SQL + clarity of thought. I cleared it and was super excited to move 
+forward. 
+ 
+⚡ Round 3: Technical Interview – 2 
+Now things got serious. Out of 90, only 30 candidates moved ahead, and this round was the 
+most grilling one. 
+I was interviewed by two experienced professionals who really tested me. It started with 
+another introduction (yes, again 😅), and then they literally went line by line through my 
+resume. 
+Here’s what happened: 
+ 
+I had to explain my projects in detail — not just what I built, but also how I built 
+them and why I chose certain approaches. 
+ 
+Then came the conceptual questions: 
+o Difference between a process and a task. 
+o Internal working of compiler vs interpreter. 
+ 
+One coding task: Implement a basic sorting algorithm on the spot. 
+ 
+Some deep Operating Systems concepts: mutex, critical section, producer-consumer 
+problem — and I had to explain them with real-life examples (for example, producer-
+consumer like “chef cooking food and waiter serving customers”). 
+This round went on for almost 1 hour 30 minutes. Honestly, it was tough, but I stayed calm 
+and answered with examples whenever possible. Thankfully, I got through! 🙌 
+ 
+🧑💼 Round 4: Managerial Round 
+Now only 15 candidates were left. This round was more about my personality and 
+behavior rather than coding. 
+The panel was quite friendly (and luckily, one of them had already interviewed me in a 
+previous round, so I felt comfortable). 
+They asked: 
+ 
+Why do you want to join SAP? 
+ 
+Where do you see yourself in 5 years? 
+ 
+What are your strengths and weaknesses? 
+ 
+How are you working on improving your weaknesses? 
+This was more like a conversation than an interview. It went on for about 40 minutes and I 
+came out smiling. 
+ 
+👥 Round 5: HR Round 
+Finally, 13 candidates were shortlisted for this stage. 
+This was the most relaxed and informal round. It started with some storytelling questions 
+like: 
+ 
+How did I choose MIT? 
+ 
+My college journey so far. 
+After that, the HR explained the compensation details, the internship structure, and the job 
+location. I also got a chance to ask my own questions about the role and internship. 
+It ended smoothly, and after about 15 minutes of waiting… the results were out! 
+🎉 Out of 13, 10 were selected. I was thrilled to be the 4th person on the list. 
+ 
+ 
+ 
+ 
+ 
+ 
+💡 Suggestions 
+ 
+Resume is everything – Every line will be questioned. Be honest and well-
+prepared. Don’t put something unless you are ready to defend it. 
+ 
+Simple questions matter – They’re not checking if you know “rocket science”. They 
+want to see if you understand basics and can explain them clearly. 
+ 
+Use real-life examples – Whenever possible, connect your answers to real-world 
+scenarios. It shows you really understand the concept. 
+ 
+Communication is key – Speak confidently but don’t bluff. If you don’t know, it’s 
+okay to admit and move on. 
+ 
+📌 My Details 
+Name: Anselm Flavian P 
+Roll No: 2022506101 
+Batch: 2026 
+Department: Information Technology 
+College: Madras Institute of Technology (Anna University) 
+LinkedIn: linkedin.com/in/anselm1305 
+ 
+✨ That was my SAP Labs journey! If this experience helps you and you get placed at SAP, 
+do remember to thank me later 😉 
+ 

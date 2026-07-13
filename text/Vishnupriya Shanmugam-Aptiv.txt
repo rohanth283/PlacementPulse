@@ -1,0 +1,81 @@
+ 
+PLACEMENT EXPERIENCE  
+ABOUT THE COMPANY 
+ 
+ 
+Aptiv PLC is an Irish-American automotive technology supplier with headquarters 
+in Schaffhausen, Switzerland. Aptiv grew out of the now-defunct American company, Delphi 
+Automotive Systems, which itself was formerly a component of General Motors. 
+ 
+PROCESS 
+ 
+Total Rounds: 4 (Each round was an eliminatory round- Once a round was cleared by the 
+candidate, they received a link(with time slot mentioned) for the next round.) 
+ 
+Round 1 : ONLINE ASSESSMENT (HACKERRANK – 18th sep 2025) 
+ 
+This was a 90-minute round that consisted of both multiple-choice questions (18–20 questions 
+focused on DSA, OOPs, DBMS, CN, and OS) and two coding problems (listed below). 
+           1) First Lady of Software - You are given: n_processes: number of processes (for example, 2 
+processes — A and B), n_intervals: number of time intervals (for example, 3 intervals). At each time 
+interval, one process runs. You need to find how many different valid schedules are possible to assign 
+the processes to these intervals. 
+           2) Score of an array – You are given an array of integers. You can delete any elements                        
+you want in any order. After all deletions, the array reindexes (positions shift). The score is the 
+count of elements where the value equals its position (1-indexed). Find the maximum possible score 
+you can achieve after any number of deletions. 
+ 
+Round 2 : TECHNICAL INTERVIEW (MICROSOFT TEAMS – 29th sep 2025) 
+            The interview round commenced with a brief self-introduction from both the interviewer and 
+me. It then proceeded to a discussion of my projects, where I was asked to explain one in detail. The 
+interviewer subsequently evaluated my understanding of core subjects, focusing on intermediate-level 
+concepts. Following this, my programming proficiency was assessed through a coding problem 
+(stated below) in my preferred language, along with three subsequent modifications to the same 
+problem. The interviewer appeared satisfied with my responses (approaches) and concluded the 
+session by inviting me to ask any questions. 
+ 
+            Coding problem: Given an integer array a and an integer d, determine whether the array 
+contains two identical elements such that the distance between their indices is at most d. If such a pair 
+exists, return True; otherwise, return False. 
+            This round lasted for approximately 30 minutes. 
+Round 3 : TECHNO- MANAGERIAL ROUND (MICROSOFT TEAMS – 30th sep 
+2025) 
+       This round began with a self-introduction from both the interviewer and me. He then asked me 
+to provide an overview of each of my projects before moving on to the coding section. In this part, he 
+set a time constraint for solving four coding problems(stated below) but deliberately did not disclose 
+the duration, mentioning that he wanted to observe my problem-solving pace. Fortunately, I was able 
+to complete all four problems ahead of time (trick:I started coding as he began explaining the 
+problem). The interviewer appreciated my performance, informing me that I had finished the tasks in 
+nine minutes, whereas the allotted time was twenty minutes. He appeared quite impressed by this. 
+       Afterward, he asked a few personal questions about my hobbies, hometown, family background, 
+and some project-related managerial questions, along with a few about the company. The interviewer 
+maintained a friendly and engaging demeanor throughout the session, which made the interaction 
+smooth and enjoyable. Finally, he concluded the interview by asking if I had any questions for him. 
+      Coding questions : Missing Number , Prime factors of a number, Volume of sphere , cube and 
+cylinder,  Max Consecutive Ones. 
+      This round lasted for 30-40 minutes. 
+Round 4 : HR ROUND (MICROSOFT TEAMS – 1st  oct 2025) 
+     This round started with a self-introduction. I was then asked to explain my project in a non-
+technical manner, focusing on aspects such as teamwork, conflicts, and challenges. The interviewer 
+also asked in-depth questions about my contributions and experiences in each club, which were quite 
+challenging and required me to think critically and respond on the spot. Additionally, she asked a few 
+situational questions and asked me to share one piece of advice that I would give to my juniors or 
+siblings. She seemed delighted with my responses and communication skills(interaction). The 
+conversation concluded with her asking if I had any questions for her, followed by a discussion about 
+my location preferences. 
+     This round lasted for 20-30 minutes. 
+A Few Tips from My Experience: 
+       Be consistent in practicing Data Structures and Algorithms, and make sure to cover all core 
+subjects such as OOPs, DBMS, CN, OS, and System Design. Explain every concept with real-life 
+examples to build strong conceptual clarity. Keep revising them. Dive deep into your resume and 
+explore everything you’ve mentioned - be prepared to discuss any project, achievement, or experience 
+in detail. During interviews, keep the conversation engaging by maintaining good communication 
+with the interviewer. If you fail in any interview, don’t be disheartened - take it as motivation to 
+improve and keep moving forward. Never give up on this journey until you achieve your goals. Face 
+peer pressure with optimism and remain confident, consistent, and truthful to your preparation 
+process. Work hard, and trust that success will come to you at the right time. 
+                                        Don’t chase results - master the process. All the best! 
+Vishnupriya S (2022-2026)  CSE - Q 
+Feel free to reach out! 
+Email : vpshanmugam2005@gmail.com 
+Linkedin : Vishnupriya Shanmugam  

@@ -1,0 +1,44 @@
+BNY MELLON TECHNOLOGY( INTERNSHIP ) 
+ABOUT THE COMPANY 
+ 
+ 
+BNY Mellon Technology Private Limited, established in 2000, is a group 
+company of BNY Mellon operating in India, providing technology solutions to the bank.  
+SELECTION PROCESS 
+ONLINE TEST (CODING) 
+ 
+ 
+There was an online test with 4 coding questions. They were categorized as 
+easy, medium and hard. There were 2 medium questions and 1 each from easy and hard 
+categories. The easy question had a straight forward solution but involved large numbers. So 
+a simple solution in Python was accepted. Languages like C, C++ would have made the 
+solution a little complex. One of the medium questions was an array manipulation question 
+and the other question was based on graphs. The hard question was a Dynamic Programming 
+question. Candidates who solved the easy question and atleast one medium question 
+completely were shortlisted for the interview process. 
+TECHNICAL INTERVIEWS ( 3 ROUNDS) 
+ 
+ 
+The interview process had three rounds in total. In the first round, the 
+interviewer asked us to introduce ourselves and then tested my understanding of fundamental 
+data structures and their related concepts. Also the concepts of pointers were discussed in 
+detail. The interviewer also asked me to write and explain some algorithms like the quick sort 
+algorithm. Based on the performance in the first round, the candidates were shortlisted for the 
+next round. In the second round of the interview, I was asked to write down code snippets for 
+three coding questions. All questions were based on string manipulations and I was 
+specifically asked to give recursive solutions. Candidates were then shortlisted to round 3 of 
+the interview process. In round 3, I was asked about any extra project that I worked on apart 
+from that required by the academic curriculum. I talked about a cricket simulator program 
+that I wrote in C++ and there were further questions about the project. The final list of 
+selected candidates was shared with us on the next day. 
+INTERNSHIP EXPERIENCE  
+ 
+ 
+The summer internship was held virtually from May 2020 to July 2020. After 
+two weeks of general and technical training, we were assigned to separate teams. We were 
+also assigned individual mentors whom we could reach out to, at any time. I was given an 
+Angular migration project in which I worked on migrating a web application from Angular JS 
+to Angular. The overall experience was very pleasant and enriching. 
+FOCUS ON: Data structures fundamentals, basic algorithms and problem solving 
+ALL THE BEST! 
+Sathish Kumar S ( sathishpsbb@gmail.com) 

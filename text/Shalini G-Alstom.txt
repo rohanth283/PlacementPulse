@@ -1,0 +1,49 @@
+                                                       
+                                    ALSTOM TRANSPORT INDIA LIMITED 
+ 
+Alstom is a French multinational company operating worldwide in rail transport, passenger 
+transportation, signalling and locomotives, with products including the AGV, TGV, Eurostar, and 
+Pendolino high-speed trains, in addition to suburban, regional and metro trains, and Citadis trams. 
+ 
+Today, Alstom in India employs close to 5600 people and in line with Government of India’s ‘Make 
+in India’ initiative, Alstom has been investing heavily in the country in producing world class rolling stock, 
+components, design, research and development to not only serve the domestic market, but also rest of the world. 
+Alstom placement process consists of 4 rounds: 
+Round 1 : Aptitude , verbal Reasoning  , Logical Reasoning. 
+After completing the first round, students were selected for Group Discussion  Round. 
+Round 2: Group Discussion Round 
+A team of 8 members were participated in Group Discussion Round. Topics were  mostly about  current 
+Affairs, technologies and General topics. 
+Topic was given by the panel ; we h 5 minutes for preparation. 
+Round 3: Technical Interview 
+1. Introduce yourself 
+2. Project Explanations 
+      Briefly described about projects in the resume. 
+3. Solve two programming questions. (where  two programs were easy level) 
+1. Reverse linked list  
+2. Reverse the words in a string  
+ 
+4. Which subjects do you like the most ? and justify your answer. 
+5. Which programming language are you comfortable with? And Reason? 
+These were questions asked me in the Interview(about 30 mins).  
+Round 4 : HR 
+The HR round was very casual as compared to other rounds. They are just trying to get to know 
+more about yourself. Be confident throughout the process. 
+1 . Tell about Yourself 
+2. What do you think  you could  have done better in college ? 
+3 . What do you think  you could  have done best in college ? 
+4. Why do you choose Alstom? 
+Topics to be Focused: 
+• 
+Data Structures 
+• 
+Database Management Systems 
+• 
+Operating System 
+• 
+Aptitude 
+Hope this will helpful for your placements  
+Thank you and  All the best  
+ 
+Shalini G     
+shalinig2309@gmail.com 

@@ -1,0 +1,158 @@
+VEGROW - INTERVIEW EXPERIENCE 
+ 
+About the Company: 
+ 
+Vegrow is in the business of fresh fruits & vegetables with an addressable market size 
+of $43 Billion. They are a tech platform partnering with farmers, aggregating supply, and 
+selling to organized demand through partnerships. Their mission is to simplify farming, 
+increase land utilization, and improve farmer incomes. Vegrow is a VC-funded startup 
+founded by a group of IITians with deep experience in agri-input & agri-output 
+companies.  
+ 
+Eligible Branch: 
+UG: CS, IT & AIDS (Summer Internship for Pre-final Year)         
+ 
+Eligibility Criteria: 
+SSLC: 70% & above; HSC : 80% & above; UG: 8.0 & above, No current arrear 
+ 
+Selection Process:  
+●​ Online Test 
+●​ Technical Interview 
+●​ HR Interview 
+ 
+ONLINE ASSESSMENT:  
+ 
+Duration: 90 minutes  
+ 
+The test was conducted on the HackerRank platform with 3 coding questions and 1 
+SQL query based question.  
+1.​ A set of tables will be given and then we were asked to write a SQL query to join 
+all the tables and display all the distinct records of names who were employed as 
+a manager, senior manager, employee. (all these were part of the table) 
+2.​ A question based on dynamic programming was asked which was like we had an 
+array [ing,grading,pack] and each word had a cost to it. The string 
+“gradingpacking” was also given, we needed to check the minimum cost to obtain 
+the string. 
+3.​ A question based on graph which I didn’t even bother to read as I was running 
+out of time  
+4.​ A simple question based on heap/stacks where we consider the last 2 elements 
+of an array and compare them. If the 2nd last element was greater than push 
+them into a supply array and print the array  
+ 
+This round was purely based on ranking on the leaderboard on HackerRank. It was also 
+seen how we approach each question without AI tools.  
+ 
+TECHNICAL INTERVIEW:  
+ 
+Duration: 1 hour 
+ 
+13 people were selected for the interview rounds at CUIC 
+ 
+When my name was called out for the interview, I felt extremely anxious and nervous 
+but somehow managed to hide it as soon as I entered the interview room.   
+ 
+Firstly they asked for my resume and started of with the basic question of “Introduce 
+Yourself”  
+Next they went into technical and some of the questions they asked were:  
+1.​ Difference between ACS and AKS(Part of Amazon web services - I had put that 
+in my resume) 
+2.​ Explain docker and kubernetes  
+3.​ Do you know any python framework or any other framework 
+4.​ Isomorphic Strings - Leetcode Isomorphic Strings 
+5.​ Boundaries of a tree - I initially said we would just do post-order traversal but 
+they explained the question properly and I got the idea from a problem that I 
+solved earlier for my preparation. It was the right side view of tree and using that 
+I told my solution.  
+6.​ They asked a question on DBMS and SQL which I answered a bit unconfident 
+but they were happy about my approach 
+7.​ A query based on inner join  
+8.​ Finally, they ended with a binary search to find the element which is immediately 
+smaller to the target. Which I was able to come up with a solution and they 
+thought me a better way to do it and we were discussing about the solution for 
+sometime 
+ 
+ 
+ 
+ 
+ 
+ 
+HR INTERVIEW(TECHNICAL ROUND 2):  
+ 
+Duration: 60 min 
+ 
+Out of the 13 people only 5 got selected for the next round.  
+ 
+In Vegrow there were just 2 technical rounds and no HR round. I initially thought it was 
+for 20 min(based on seniors' experience) and was just browsing through my projects 
+and practising some pre-defined answers. I was the first one to go into the panel so I 
+really wasn’t expecting any questions, but however these were the questions asked to 
+me:  
+1.​ Tell me about yourself 
+2.​ Tell me about a project in my resume(They choose the project to talk about) 
+3.​ Did you host it? Show if you can.  
+4.​ They asked questions about my project and the stack I used.  
+5.​ I had put a project about NLP and ML and they asked questions based on NLP 
+and what model I used for NLP and how does it work 
+6.​ After that, they went into System Designing - which I had no clue about and didn’t 
+even expect those questions. They asked how the System design of a website 
+like Netflix look like. Some example questions were:  
+●​ If the video buffer time needs to be faster what would I use  
+●​ If too many people access the website what should I do 
+●​ The login API’s  
+●​ Hosting mechanism - where I explained about docker and EC2 instances.  
+ 
+  ​
+Some concepts on how to improve system efficiency was learnt from the AWS 
+course that I completed during my summer holidays. So I was able to answer to these 
+questions  
+7.​ Then the went into DSA round were I asked:  
+●​ Climbing Stairs - All the methods including space optimisation  
+●​ LCA of a binary tree - which I wasn’t able to do the entire solution but they 
+encouraged me to do so and told me I was on the right track.  
+8.​ They ended off with a simple DBMS concept based question on shared locking 
+and unlocking 
+ 
+Out of 5, 2 got selected for the Internship.  
+ 
+ 
+ 
+TIPS:  
+●​ Start your preparation as soon as possible on leetcode or any other platform.  
+●​ If you don’t have time, go through the leetcode blind 75 questions and once you 
+are done with that make sure to solve some extra questions based on the same 
+pattern - doing this you will get an idea on how each question is being 
+approached.  
+●​ If you are python developer I would strongly suggest you to go through neetcode 
+- NEETCODE QUESTIONS and solve as many questions as possible  
+●​ If you need a quick intro on how each concept works and some basic questions 
+to get you started then go with Youtuber - Greg Hogg. 
+●​ If you want to have good knowledge about DSA as a whole you can refer to the 
+STRIVER DSA COURSE. I’m telling you, he is the one who is going to save your 
+recursive, Dynamic Programming and Greedy. So don’t forget to check this out.  
+●​  Building a clean and presentable resume is very important so take time to build 
+a good resume. You can trust AI to get some catchy phrases, but do not use AI to 
+build your entire resume. It’s ok to allocate time and build your relationship with 
+your resume.  
+●​ A day before your interview, learn one good project thoroughly and make sure 
+you can answer any question about that one good project and keep answers 
+ready for known questions like ‘Tell me about yourself’, ‘Why did you choose this 
+role?’, etc. 
+●​ The most important part is to be confident in your interview. If you don’t feel 
+confident, prepare and practice for interviews with as much importance as you 
+prepare for DSA.  
+ 
+Keep pushing yourself as much as you can for the next 3-4 months of your internship 
+drive and always maintain a calm nature during your preparation and interviews.  
+ 
+ALL THE BEST FOR YOUR INTERVIEW AND PREPARATIONS!! 
+ 
+Always feel free to contact me at any time, I will be more than happy to help 
+you out!  
+ 
+Name: Ragotma Ragavendar 
+Contact: +91 9944689759 
+Email: ragotmaragavendar@gmail.com  
+Linkedin: Ragotma_LinkedIn 
+ 
+ 
+ 

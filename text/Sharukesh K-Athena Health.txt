@@ -1,0 +1,113 @@
+AthenaHealth Interview Experience 
+Athenahealth is a leading healthcare technology company that provides cloud-based solutions like 
+electronic health records, revenue cycle management, patient engagement, and telehealth services to 
+medical groups and health systems. With offices in Chennai, Pune and Bangalore, the company’s 
+vision is to create a thriving ecosystem that delivers accessible, high quality and sustainable healthcare 
+for all.  
+Role Offered: Product Engineer Intern 
+Sequence of Selection: 
+1. Online Test 
+2. Technical Interview  
+3. Technical + Managerial Interview  
+4. HR Interview  
+ 
+1. Online Test: 
+The online assessment was conducted on the HackerRank platform with a total duration of 80 
+minutes. The test began with 7 multiple-choice questions (MCQs) on Data Structures and 
+Algorithms (DSA) and Database Management Systems (DBMS). The questions were of easy 
+difficulty and covered topics such as the data structure used for level order traversal, postfix 
+evaluation, and identifying the sorting algorithm for a given array. 
+Following the MCQs, there were two coding questions of easy-to-medium difficulty: 
+1. Minimum Cost after Insertion 
+An array of integers is given, and the cost is defined as: 
+Cost=∑ (arr[i] − arr[i+1])2  
+The task was to insert one element anywhere in the array such that the overall cost is 
+minimized and return the minimum cost. 
+Example: 
+Input: [4, 7, 1, 4] 
+Initial Cost = (4−7)² + (7−1)² + (1−4)² = 54 
+By inserting 4 between 7 and 1, the array becomes [4, 7, 4, 1, 4], reducing the cost to 
+36. 
+Hint: For each pair, try inserting the middle element (e.g., for the pair (7, 1), the 
+middle is (7+1)/2 = 4). This can be solved efficiently in a single pass. 
+2. Minimum Subarray with K Distinct Integers 
+This problem was similar to LeetCode 992: Subarrays with K Different Integers, but 
+instead of counting all such subarrays, the requirement was to return the length of the 
+minimum subarray that contains exactly k distinct integers. 
+I was able to complete all the questions within 30 minutes, well ahead of the allotted 
+80 minutes. After completing the online assessment in the morning, the results were 
+announced by 1 PM, and the interviews were scheduled at 2 PM on the same day. A 
+total of 31 students were shortlisted for the interview round. 
+2. Technical Interview: 
+The first round began with a self-introduction, followed by a discussion on my projects. I 
+explained one of my projects in detail, and the interviewer asked several follow-up questions 
+based on it. My suggestion for future candidates would be to choose a project you are 
+confident about and know it thoroughly. 
+Next, I was asked a few fundamental DBMS concepts, including: 
+ 
+Explanation of ACID properties 
+ 
+Definition of Normalization and details of 1NF, 2NF, and 3NF 
+ 
+Difference between SQL and NoSQL databases, along with which I had used in my 
+projects and the reasons behind my choice 
+The interviewer also tested my understanding of Operating Systems concepts, such as 
+processes and threads. This was followed by a SQL problem: 
+Given two tables, find the employees whose total order amount is greater than 10,000. 
+I was able to write the query successfully. 
+Later, I was asked to solve and explain two coding problems: 
+1. Implement Stack using Queues 
+2. Remove Nth Node From End of List 
+I explained both the brute-force and optimized solutions and was able to write the code, which 
+satisfied the interviewer. The round concluded with me asking questions about Athenahealth’s 
+work culture and the role of AI within the organization. The interviewer was friendly, and the 
+interaction went smoothly. 
+After around 30 minutes, I was asked to join the second round.  
+3. Technical + Managerial Interview: 
+The second round began with a self-introduction and a brief discussion about my family 
+members. Although this was expected to be a managerial round, I was given two coding 
+problems instead. 
+1. Find the Missing Elements in an Array 
+o Initially, I explained the brute-force approach using a set to identify the 
+missing element. 
+o I then provided the optimized approach by applying the formula for the sum of 
+the first n natural numbers and subtracting the actual sum of the array 
+elements. 
+o As a follow-up, the interviewer asked how I would handle the case where two 
+numbers are missing. I suggested marking the indices of present elements with 
+negative values and then traversing again to identify the positive indices. 
+However, during the dry run, we identified that my approach failed in certain 
+edge cases. I attempted to resolve it but could not arrive at the complete 
+solution within the time. 
+2. Nuts and Bolts Problem 
+o The task was to match nuts and bolts of the same size. 
+o I first explained the brute-force approach of comparing each nut with every 
+bolt, resulting in O(n²) complexity. 
+o I then optimized it to O(n) using a hashmap, which satisfied the interviewer. 
+The round concluded with me asking the interviewer multiple questions about the role and the 
+company. My advice to future candidates is to be honest—if you cannot come up with the 
+optimal solution immediately, explain your thought process and mention that you would need 
+more time to refine it. 
+At the end of this round, 12 candidates were shortlisted for the HR round, which was 
+scheduled for the next morning 
+ 
+3. HR Interview: 
+This round primarily assessed how well I aligned with the role and the company culture. It 
+began with a self-introduction and a brief discussion about my family members. The 
+interviewer then asked me to explain one of my projects in depth, followed by questions on 
+why I chose Athenahealth, why I would be a good fit for the role, and a few follow-ups 
+based on my resume. The session lasted around 20 minutes and was smooth, as the 
+interviewer was very approachable and friendly. 
+Later, the results were announced, and six of us received offers. 
+For future candidates, I would suggest being well-prepared with your self-introduction, 
+internship experiences (if any), and project details. Communicate with clarity and 
+confidence. Even if you don’t know the answer to a question, stay calm, as interviewers 
+often guide you toward the right direction. Consistent preparation and strong core concepts 
+are key. This was my fifth interview, and my continuous efforts helped me succeed here. 
+Don’t be discouraged if you’re not selected—the right opportunity will come your way. 
+Wishing you all the best! 
+ 
+Sharukesh K, 
+CEG – CSE’ 26, 
+E-Mail: sharukeshkkvs@gmail.com 
+Mobile: +91 6381086085 

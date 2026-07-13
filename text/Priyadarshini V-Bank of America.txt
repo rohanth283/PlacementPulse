@@ -1,0 +1,87 @@
+BANK OF AMERICA  
+ 
+The Bank Of America Corporation (often abbreviated BofA or BoA) is an American Multinational 
+Investment bank and Financial services holding company. The interviews in our college were for the 
+GET (Graduate Engineer Trainee) roles. Bank Of America has its offices in Mumbai, Chennai, 
+Gurugram, Gandhinagar (GIFT), Hyderabad in India. 
+ 
+ONLINE TEST 
+It consisted of two sections: 
+• 
+2 coding questions (to test programming skills) on basic topics like arrays, strings. 
+• 
+3 video questions (to test communication skills): 
+o  Tell how you are the best fit for the role. 
+o  Explain your approach of solving the second coding question. 
+o  Explain the projects you have done so far. 
+ 
+INTERVIEW 
+Round 1 (around 30 mins): 
+This was a face-to-face interview round held at CUIC. This was a technical + HR round.  
+• 
+Introduction 
+• 
+OOPS concepts with code (Objects, classes, polymorphism, overriding, constructors). 
+• 
+DBMS (SQL queries- group by, joins, count function). 
+• 
+Coding (Finding max, min of given numbers, binary tree lowest common ancestor)-Brute, 
+better, optimal, time and space complexity. 
+• 
+HR - What would you do if you face any conflicts or difference of opinions in your team? How 
+do you resolve it? 
+• 
+Extra curricular from Resume (NSS in my case) - What all have you done at NSS? 
+• 
+Five languages mentioned in Resume (just short friendly talk on how I learnt them). 
+• 
+Asked me if I have any questions for them to answer. 
+ 
+Round 2 (25 - 30 mins): 
+This was also a face-to-face interview round held at CUIC. I was called immediately in five mins after 
+the first round. This was also a technical + HR round. 
+Completely on tech stack mentioned in Resume (both in skills and projects section from Resume): 
+• 
+First they asked me to give brief explanation of all the tech stacks I know. 
+• 
+API ( How did u fetch data from it , write code) 
+• 
+XML, HTML, CSS, React ( All basic questions with code, both from projects as well as general 
+questions on them). 
+After these questions, I was asked the following: 
+• 
+Questions on SQL again (All types of joins and for the given qn why do we use that particular 
+join). 
+• 
+DBMS - SQL - Why do we say it’s a relational DB? 
+• 
+With my project, since tech stacks like React or XML (JSX), or API cannot have relational 
+domains then how do u integrate with relational domain like SQL? 
+• 
+The interviewer gave two tables and asked why it was necessary to split them into two 
+instead of a single table. 
+I was then asked HR questions: 
+• 
+What would you do if a member of your team doesn't respond well or complete their work? 
+• 
+What would you do and how would you learn if a new tech is given to you in a project? 
+Then asked me if I have any questions for them to answer. 
+ 
+TOPICS TO BE FOCUSSED 
+Good knowledge in Coding, OOPS, DSA, OS, Reactjs, Nodejs, SQL. An in-depth understanding about 
+the projects listed on the resume and related concepts. 
+ 
+TAKEAWAY 
+The interviews went smoothly, and the interviewers were very supportive. Having a solid 
+understanding of all the projects listed on my resume and their related concepts proved invaluable. 
+Clear communication of my ideas played a crucial role, especially during the technical rounds when I 
+didn’t have precise answers. Be confident, interactive and share your thoughts throughout. 
+ 
+Best of Luck! 
+ 
+Regards, 
+Priyadarshini V 
+priyadarsh2106@gmail.com 
+ 
+ 
+ 

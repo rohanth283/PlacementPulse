@@ -1,0 +1,129 @@
+WELLS FARGO INTERVIEW EXPERIENCE 
+(INTERNSHIP) 
+ 
+About the company: 
+Wells Fargo & Company is an American 
+multinational financial services company with a 
+significant global presence. The company operates 
+in 35 countries and serves over 70 million 
+customers worldwide. Today, Wells Fargo India 
+operates in Hyderabad, Bengaluru, and Chennai. It 
+is considered one of the "Big Four Banks" in the 
+United States, alongside JPMorgan Chase, Bank of 
+America, and Citigroup. 
+ 
+ONLINE TEST 
+APTITUDE PART (20 mins) 
+This round happened to be in the Aspiring Minds (SHL) platform. The round 
+consisted of 3 sections namely verbal aptitude, business aptitude and coding. Both 
+aptitude sections had MCQs which had to be answered compulsorily and free 
+navigation was prohibited.  
+Verbal Aptitude: Consists of 12 MCQs to be solved in 15 minutes. They can be on 
+vocabulary (guessing the meaning of the word as per the use in the sentence), 
+comprehension, and some basic grammar corrections. It can be practised from 
+sample questions given on the SHL website or other websites with questions of a 
+similar pattern. 
+Business Aptitude: Consists of 15 MCQs to be solved in 20 minutes. Completely 
+observation-based and logic-based. Basic mathematics and understanding of profit-
+loss using pie charts and bar graphs is sufficient to answer completely. 
+ 
+ 
+CODING PART 
+Two set of coding questions were asked 
+Driver code or function declaration was given for all the coding questions. 
+SET-1(45 minutes) 
+1. Write a function to find the longest common prefix string amongst an array of 
+strings. 
+But the question wasn’t direct, it was stated as a scenario and we must interpret it 
+using the visible test cases. 
+Approach similar to:  https://leetcode.com/problems/longest-common-prefix/ 
+But some hidden test cases had spaces-which must be removed and the string was 
+case sensitive-conversion was also required to pass all test cases. 
+2. Given an array Arr [], write a program that segregates even and odd numbers. The 
+program should put all even numbers first in sorted order, and then odd numbers in 
+sorted order. 
+Same question as this was asked: Segregate Even and Odd numbers | Practice | 
+GeeksforGeeks 
+ 
+SET-2 (20 minutes) 
+1.Given an array of integers, return the sum of all integers using threads. 
+Similar to: Sum of an array using pthreads - GeeksforGeeks 
+ 
+Partial test cases do carry a weightage in score so try solving as much as test cases possible. 
+66 students were shortlisted for the physical interview held at CUIC 
+ 
+INTERVIEW 
+Pre-Interview Session: 
+Before the formal interview, a team of recruiters and HR professionals engaged 
+candidates in an interactive discussion instead of a traditional PowerPoint 
+presentation. The session focused on introducing the company and outlining 
+expectations for potential interns. 
+Round 1:  
+Duration: 30 minutes 
+ The interview started with the interviewer reviewing my resume. 
+ The first question was a classic "Tell me about yourself," where I 
+highlighted my CGPA, projects, interests, and expressed my passion for the 
+field. 
+ I was asked about a skill I had learned on my own outside the curriculum, 
+and I mentioned C++. 
+ The interviewer asked why I chose C++, and I explained that since C was 
+part of the curriculum, learning C++ was a natural progression. 
+ The interviewer inquired about the differences between C and C++. 
+ I was asked about the pillars of Object-Oriented Programming (OOP) 
+and to explain each. 
+ I elaborated on the concepts, showcasing my understanding. 
+ I was asked to write code for an abstract class and explain its purpose. 
+ The interviewer questioned me about data structures and how they are 
+implemented in real life. 
+ I provided examples such as Stacks-Browser History, Priority Queues-Lifts 
+and Graphs-Social Networking. 
+ He questioned me about static keyword in C++ and its associated data 
+structure 
+ I explained the concept of the static keyword in C++ and mentioned stack 
+is used to implement it. 
+ He asked me to discuss about various sorting techniques, and I was asked 
+about their time complexities. 
+ I was then prompted to write code for an efficient sorting technique; I 
+chose merge sort. 
+ He asked me to explain the Graph Traversal techniques, and I explained 
+them with an example. 
+ I was asked which is faster between Breadth-First Search (BFS) and Depth-
+First Search (DFS). 
+ I was asked to design and explain all the use cases involved in an ATM 
+machine. 
+ I demonstrated a comprehensive understanding of ATM functionalities 
+using diagrams and flow charts. 
+ Ended with the interviewer asking if I had any questions. 
+The round concluded with a positive note, advancing me to the next round. 
+Round 2: 
+Duration:20 minutes 
+ The interviewer began by asking about my aspirations and sought my 
+unique selling points. 
+ He presented real life scenarios that tested my thinking capabilities. 
+ One scenario involved making multiple transactions simultaneously using 
+UPI, ATM card, and a cheque. 
+ Asked how I would manage the multiple transactions and what the balance 
+would be afterward. 
+ I explained using a lock mechanism inspired by database management 
+system (DBMS) transaction concepts. 
+ Discussed achieving a tally and explained that it can be done using a log table 
+without accessing the original database. 
+ The round was characterized by a focus on learning and understanding 
+rather than solely assessing. 
+Outcome: Successfully cleared Round 2. 
+HR Round: 
+Duration:15 minutes 
+ Introduced myself and explained why I sought an internship at Wells Fargo. 
+ Highlighted strengths and weaknesses. 
+ Received insights into Wells Fargo's work culture. 
+ Interviewer shared personal experiences. 
+ Discussed stipend, workplace culture, and travel alliances. 
+ Gained information on these aspects. 
+Outcome: Successfully selected for the internship at Wells Fargo along with 20 students. 
+ 
+All the very best!!! 
+POOJAA S 
+CEG CSE’25 
+E-Mail: poojaakumar719@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ poojaa-kumar-476 
+Mobile: +91 7558121642 

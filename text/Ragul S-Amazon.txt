@@ -1,0 +1,179 @@
+ 
+ 
+      Amazon Interview Experience 
+ 
+Amazon is an American multinational technology company focusing on e-commerce, cloud 
+computing, online advertising, digital streaming, and artificial intelligence. It is considered one 
+of the Big Five American technology companies, alongside Alphabet (parent company of 
+Google), Apple, Meta (parent company of Facebook), and Microsoft. It is a product-based 
+company and one of the famous MAANG companies. 
+  
+Role Offered                   -            SDE – 6 months Intern (placement based on performance) 
+Stipend                           -            1,10,000 + 400 USD / Month 
+Number of Rounds       -            2 (Both Online). 
+  
+The Assessment pattern may change for every year. This year it was only coding round and 
+personality questions whereas they would also add debugging, Aptitude as well. 
+This year the selection was based on two rounds: one online coding round and an interview. 
+  
+Round 1: (ONLINE ASSESSMENT) 
+It consists of two phases: 
+• 
+ Coding. 
+• 
+Personality questions. 
+The online assessment consists of two coding questions, which have to be done in 70 minutes. 
+This round was held in HackerRank platform. 
+  
+Coding Question 1:  
+This question was based on regex pattern. 
+A regex pattern consists of lowercase English letters and some wildcard characters (“?”) with 
+any English character. Two patterns are called intersecting if the wildcard characters in the 
+respective string can be changed in a way to form the same string from both patterns. 
+  
+For Example: pattern p=”?cc?” and q = “dc??” intersect as we can form s = “dccx” from both 
+p and q. 
+  
+Given an array pattern of N regex strings, find the minimum number of “?” characters possible 
+in a pattern that intersects with all the patterns. 
+  
+Sample Input: 
+Given n = 2, m = 10, patterns = [“ha??rrank”, ”?a?ke?bank”] 
+Sample output: 
+So here the minimum number of wildcard characters that we need to generalize this array is 
+1. 
+  
+Coding Question 2: 
+Problem Statement 
+You are given: 
+• 
+An integer array of parcels, where each element represents the number of parcels 
+each agent currently has. 
+• 
+An integer extra_parcels representing the total number of extra parcels that need to 
+be distributed among the agents. 
+Distribute the extra parcels such that the maximum number of parcels any agent has 
+after distribution is minimized. You need to return this minimized maximum number. 
+Example: 
+Input: 
+parcels = [7, 5, 1, 9, 1] 
+extra_parcels = 25 
+  
+Output: 
+10  
+  
+Explanation: 
+One possible way to distribute the parcels is: 
+- Agent 1: 7 parcels + 3 extra = 10 parcels 
+- Agent 2: 5 parcels + 4 extra = 9 parcels 
+-Agent 3: 1 parcel + 9 extra = 10 parcels 
+- Agent 4: 9 parcels + 1 extra = 10 parcels 
+- Agent 5: 1 parcel + 8 extra = 9 parcels 
+  
+There could be other distributions, but the minimum possible maximum number of parcels is 
+10. 
+After the coding round you will be asked to answer some personality-based questions there 
+will be no marking for this round and there Is no time constraints too. In this round the same 
+questions may be repeated so ensure that you are thoroughly reading the questions and 
+answer the same for the repeated questions. This will evaluate your personality and how you 
+are thinking to solve some scenarios. 
+Based on this online assessment, around 85 people were shortlisted for the interview. 
+  
+Round 2: (TECHNICAL INTERVIEW) 
+Mode: ONLINE. 
+Before the interview, you will be allotted a slot (timing for the interview), and the link for the 
+meet and LiveCode link will be shared via email once you are registered on the Amazon 
+careers. 
+The interview was conducted in Amazon’s Chime platform. 
+For me there was two panels. 
+The interview started with the introduction of the interviewers and then I was asked to 
+introduce myself. Suggestion: (Keep your introduction short and crips since the interview 
+session will be 1 hour and the interviewer will have more time on questions.) And also, there 
+will be no questions based on the resume and your soft skills ensure that you add those points 
+when you introduce yourself). 
+Then you would be asked to share the screen and open the LiveCode session link you have 
+received on your email. 
+  
+The interviewer asked how strong I am in Heap data structure and asked me some questions 
+on HEAP. 
+1. What is Heap? 
+2. Types of Heaps? 
+3. How heap maintain its structure? 
+4. How heapify will happen if an element is deleted? 
+5. Time complexity for Heapify. 
+6. How you derive the time complexity for Heapify? 
+7. Given one tree and asked whether it is a heap or not? 
+  
+After answering all questions then he started with some questions on Tree 
+1. What is a binary tree? 
+2. Difference between a complete and full binary tree? 
+3. Asked about the time complexity for the traversal? 
+4. Given a number of nodes find the height for both complete and full binary tree? 
+5. Asked about how you derive the formula for finding the height of the tree. 
+  
+I answered all questions, and the interviewer was satisfied with my answers. 
+Then he moved on to the coding question. 
+  
+Question Asked: 
+Step-by-Step Directions from a Binary Tree Node to Another 
+You are given the root of a binary tree with n nodes. Each node is uniquely assigned a value 
+from 1 to n. You are also given an integer startValue representing the value of the start node s 
+and a different integer destValue representing the value of the destination node t. 
+Find the shortest path starting from node s and ending at node t. Generate step-by-step 
+directions of such path as a string consisting of only the uppercase letters 'L', 'R', and 'U'. Each 
+letter indicates a specific direction: 
+  
+Firstly, I was asked to explain my intuition and to code the solution. 
+Since there is no brute force approach for this problem, I directly gave the solution and coded 
+the same. 
+  
+After coding the solution for this question, the interviewer asked for some test cases since the 
+I was coded for all edge cases in the first attempt, I can answer the questions very easily and 
+the interviewer was satisfied with my solution. 
+Then asked for the time and space complexity. 
+Then some questions on the basics of programming from my code since I wrote the code in 
+CPP, he asked a few questions like 
+1. Why do you pass the argument as a reference? 
+2. Why not pointer, why reference? 
+3. Since I used some built-in functions, I was asked how this function will work and 
+explain the pseudocode for the same. 
+The interview ended with “is there any question for me”. This is the first time in an interview 
+I asked no question at the end I don’t know why? But the interviewer seemed happy. 
+But make sure you ask some questions at the end. 
+ 
+RESULT: 
+There were fifteen people offered six-month internships out of eighty-five, and I was one of 
+them. 
+ 
+Suggestions: 
+• 
+Amazon’s interview is different from all interviews they don’t ask any questions from 
+your resume. They mainly focus on your thought process for solving the problem. And 
+make the interview like a discussion explain all the things that you are thinking of the 
+question. Use the whiteboard that was shared with you to make the explanation clear. 
+You can use paper and pen but yet make sure you use that whiteboard. 
+• 
+Please go through Amazon’s leadership principles before the interview. Not only for 
+Amazon, but for all the companies, do the research before the interview. 
+General Suggestion: 
+• 
+Start your coding journey earliest and practice problems on a daily basis. Prefer quality 
+over quantity numbers doesn’t matter. 
+• 
+Don’t feel bad if the result doesn’t go on your way. Be confident and try until you 
+succeed. 
+• 
+Get strong fundamentals in DSA, OOPS, DBMS, OS, and CN and brush up some system 
+design concepts. 
+• 
+After the online assessment you may not have enough time to prepare for core 
+concepts so be ready beforehand. 
+ 
+ 
+ 
+ 
+Contact 
+Ragul S. 
+ragulsabarathinam@gmail.com 
+https://www.linkedin.com/in/ragul-s-301b40252/ 
++91 - 9361469631 

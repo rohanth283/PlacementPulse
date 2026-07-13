@@ -1,0 +1,78 @@
+Verizon Placement Experience: 
+Name : V.Shreya 
+Rollno : 2021103578 
+About the company: 
+Verizon - an American multinational telecommunications conglomerate, is a global leader in 
+next generation communications technology, including 5G and the Internet of Things. Verizon 
+India (Verizon Data Services India) is an extension of the global Verizon teams working on 
+varied systems, applications and initiatives to help deliver the digital experiences that are vital 
+to customers' lives and businesses' success. As an innovation-hub, Verizon India plays a critical 
+role in both the development of new technologies and the day-to-day operation of Verizon’s 
+business. Established in June 2001, Verizon India today has a 7000+ strong, diverse talent pool 
+that operates out of Chennai, Hyderabad and Bengaluru. 
+ 
+The company has been recognized for its innovation, people practices and culture of diversity 
+and inclusion, being featured amongst the top 10 in the 2024 Best Companies to Work list by 
+Great Place to Work Institute, bagging #3 rank among Inspiring Workplaces across Asia, by 
+the Inspiring Workplaces Group, receiving the NASSCOM GCC Award for Innovation 
+Excellence, one of the most Impactful GCCs in India by ETNow, winning six categories at the 
+recent DivHERsity Awards 2023, and being recognized as one of the Top 100 Best Companies 
+for Women in India (Working Mother and AVTAR rankings) to name a few. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interview Experience: 
+Round 1: Coding and Aptitude 
+The first round started with us writing a 190–224-word essay on the topic “How video games 
+help the teachers” this lasted around 25 mins. The next section consisted of 2 coding questions. 
+1) Find whether a number is a weird number or not  
+2) Given 2 arrays (arr,rep) of size m and n we need to maximize the digits in arr with the 
+elements of rep. If arr is empty return NULL else if rep is zero return arr itself. 
+Example: arr = [1,3,0,2,4,5] and rep = [6,9,7] we need to return arr= [9,3,7,6,4,5] 
+In the coding round we have extra bonus points for time and space optimization 
+Then this section was followed by verbal reasoning which consisted of 2 sections which lasted 
+1 min and 4 min. The pro tip here is to attend as many questions as possible. 
+The final section is the logical test which didn’t consist of the traditional quantitative aptitude 
+and numeric reasoning but instead, cut-e game (Refer YouTube). This includes puzzle 
+numbering games. 
+Round 2: Group discussion 
+Only 48 were shortlisted for the above round. We were divided into 4 groups. We weren’t 
+given a specific topic to speak about and the topic was our choice. We were evaluated on 5 
+criteria. 
+1)Fluency 
+2)Ability to lead the discussion 
+3) The way we were able to effectively convey our points 
+4) The validity and the value of points 
+5) Body Language and Attitude. 
+Out of this only 24 were shortlisted for the next round. 
+ 
+Round 3: Technical Interview 
+The interviewer was quite friendly. He just introduced himself and asked me to tell me about 
+myself. We had a basic discussion about the project I have done and why I did these projects. A 
+small discussion about my hobbies and extracurricular activities. This lasted about 30-40 
+minutes 
+ 
+Only 16 of us were shortlisted 
+Round 4: HR Interview. 
+This round was simple, where the interviewer asked me about my family background and 
+whether I had any questions for him. 
+ 
+And 15 of us got the offer.  
+ 
+Major Pro Tip: 
+Work hard and smart 
+Practise a lot of coding preferably from Leetcode , GFG, Hackerrank, CodeChef, HackerEarth etc 
+etc. 
+Befor you appear for the interview know a lot about the company (do a research) 
+Make sure you speak fluently without any filler words. 
+ 
+ALL THE BEST 
+Any Doubts, feel free to reach me out... 
+Phone number: 8056070363   
+LinkedIn: Shreya V | LinkedIn 
+ 
+ 

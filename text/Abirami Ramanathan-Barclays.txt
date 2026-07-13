@@ -1,0 +1,153 @@
+Barclays 
+Barclays is a British multinational banking and financial services company 
+headquartered in London, with a rich history dating back to 1690. It operates globally, 
+providing a wide range of banking, investment, and wealth management services to 
+individuals, businesses, and institutions. With a significant presence in the United 
+Kingdom and an international footprint, Barclays offers retail and corporate banking, 
+investment banking, asset management, and credit card services. The bank has been 
+involved in various philanthropic initiatives and is known for its commitment to 
+sustainability and environmental practices. 
+There were 3 rounds namely: 
+• Round 1: Online Assessment (Virtual) 
+- 
+This round mainly focused on fundamentals of Software Engineering(SDLC 
+lifecycle), OOPS, DBMS, finding outputs of  c/cpp/Java codes, debugging 
+programs, and Aptitude questions. 
+- 
+There were a total of 25 MCQs and 5 sql queries to be completed within 70 
+minutes. 
+- 
+The test was conducted on the Hacker Earth Platform. 
+- 
+Note: Out of around 400 students who applied for attempting the OA, only 
+around 200 were shortlisted for writing the test. 
+- 
+46 students proceeded further for the interview process conducted at CUIC. 
+ 
+ 
+• Round 2: Technical Interview (@ CUIC ) 
+- 
+This round started off with a brief introduction about myself, and I moved on 
+to explain about the project that I was most proud of, since I worked really 
+hard to deploy it as well. 
+- 
+The interviewer asked me why I chose MERN Stack and why MongoDB over 
+SQL. (I explained the difference between vertical and horizontal scaling here) 
+- 
+The interviewer was interested in knowing every nook and corner of how I 
+did the project and how I managed to deploy it within a month. 
+- 
+She asked me what motivated me to take up the projects I invested my time 
+in. 
+- 
+What were the key challenges I faced during my projects. 
+- 
+Major/Key Take-aways and Learnings made . 
+- 
+She asked me to give a brief explanation about Gen AI, since I mentioned the 
+certification (as part of our Naan Mudhalvan Syllabus) in my resume 
+- 
+Difference between GPT-5 and GPT-4 , which I couldn’t answer properly, but 
+managed to give some convincing differences. 
+- 
+What Data Structure is used in your phone gallery app? With reference to 
+how you can easily scroll the pictures in your gallery without having to wait 
+for each picture to load. Explain your choice. 
+- 
+Finally, she asked why I chose to study in CEG and how these 2 years have 
+changed me. 
+- 
+This round lasted for 1 hour and 15 mins 
+- 
+25 students proceeded for the HR round. 
+ 
+ 
+• Round 3: HR Round (@ CUIC ) 
+- 
+This round was entirely behavioural, where the interviewer presented me 
+with various scenarios to assess my crisis management skills and my 
+response in critical situations. Some questions include:  
+- 
+She asked me to elaborate on my hobbies, as I had mentioned them in my 
+resume. 
+- 
+Where do you see yourself in the next 4 years? 
+- 
+Imagine your team is going to release/deploy a project tomorrow. Today 
+night you realise that there is a bug in the code and that it was you who made 
+the mistake of creating the bug. What will you do? 
+- 
+Microsoft or Barclays? 
+- 
+Materialistic life or Work-Balance life? 
+- 
+Finally, she asked basic details about my parents and this round ended within 
+20 minutes. 
+- 
+Out of 25 students, 15 students (5 from our dept) were selected for the 2026 
+Summer Internship Programme at Barclays and I was lucky to be a part of it. 
+ 
+ 
+ 
+• Some Tips  
+- 
+Be confident while answering the questions. 
+- 
+Be truthful to your resume. You must be thorough with every nook and 
+corner of your resume, especially your projects. 
+- 
+Have a habit of solving DSA problems, and revising DBMS / OOPS concepts 
+regularly.  
+- 
+In Barclays interviews many were asked on concepts like ER Diagram, 
+Normalization, etc. 
+- 
+Try to maintain a CGPA of about 8+ , if otherwise, focus on other projects to 
+compensate. 
+- 
+Read the job description and you must do a research about the company.  
+- 
+ Refer to the company's website to learn about RISES. 
+• A little intro about myself 
+- 
+ Looking back, I realize I didn’t fully utilize my summer holidays. I did 
+practice a few easy-to-medium problems on LeetCode now and then, but 
+even after receiving this offer, I can clearly see that my problem-solving skills 
+still have a long way to go. 
+- 
+Most of my time went into working on projects, while I also made sure to 
+spend some leisure moments with my family. 
+- 
+The seriousness of internship preparation struck me only when internship 
+offers started flooding the CUIC WhatsApp group—it was a wake-up call. 
+- 
+In the end, I managed to make good use of the time I had during the final 
+stretch, but if there’s one piece of advice I’d give, it would be to start 
+preparing early, ideally from your 3rd or 4th semester itself. 
+- 
+I was shortlisted for interviews at Appian and Western Digital (the latter 
+being heavily focused on C programming, which wasn’t my strong area), but 
+my preparation at that stage wasn’t sufficient to clear them. 
+- 
+Barclays was my 3rd glow of hope, and I was determined to grab that 
+opportunity. 
+- 
+All the very best for your future internship opportunities!! 
+ 
+ 
+• Contact 
+- 
+Feel free to reach out to me, I’ll be more than happy to help you in whatever 
+way I can! 
+- 
+Name: Abirami Ramanathan 
+- 
+Reg. No: 2023103020 
+- 
+Graduation Year: 2027 
+- 
+Summer Intern Offered for year: 2026 
+- 
+Email: abiramiramanathan14@gmail.com 
+- 
+LinkedIn: Abirami- LinkedIn 

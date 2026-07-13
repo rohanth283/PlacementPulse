@@ -1,0 +1,79 @@
+ 
+ 
+ 
+ 
+     Barclays  
+ 
+Barclays is a British multinational investment bank and financial services 
+company, headquartered in London, England.  
+ 
+Note : This is an internship interview experience 
+ 
+Round 1: Online Test (Duration - 1 hour and 30 minutes) 
+ 
+This round had 30 Multiple choice Technical Questions. Major part of this 
+section had questions based on OS and Data Structures. A few questions were 
+based on DBMS, Computer networks and OOPS. Also there were two coding 
+questions, with difficulty level moderate and hard. One was based on Arrays 
+(moderate) and the other one was based on String (hard) 
+ 
+MCQs played a major role here, hence it is important to pay attention to the 
+concepts while preparing for the interviews. 
+ 
+Round 2 : Technical Interview 
+ 
+I was first asked to introduce myself followed by the technical questions. 
+1. A puzzle where I had to form two equations using the given scenario. The 
+two equations had to be solved to find the two unknowns. 
+2. Practical/Real life examples for certain OOP concepts 
+3. Questions on how and where to use exceptional handling 
+4. Certain questions that needed spontaneous answers (Ex: How many 9s are 
+there between 0 and 100) 
+5. Questions on SQL queries where the required tables and the output had been 
+provided. I was expected to come up with the query that results in the given 
+output 
+6. Questions from the projects mentioned in the resume (like any other 
+technical interviews) 
+7. Some scenario based questions (Ex: “What will you do when you are 
+working for a project which is about to reach the deadline but others in your 
+team are just leisuring around?”) 
+8. Any questions to the interviewer 
+ 
+ 
+Round 3 : HR Interview 
+ 
+I made it to the HR round and these were the questions asked  
+1. Tell me about yourself which is not in the resume 
+2. Why did you choose College of Engineering Guindy among all the colleges 
+in India? 
+3. Why Computer Science and Engineering among all branches? 
+4. What did you learn/take away from your college life in CEG? 
+5. Why do you want to work with Barclays? (There are certain things that are 
+unique to Barclays (Ex: 300+ years legacy, importance given to women in 
+the organizational structure), such unique things may help you answering 
+this question) 
+6. Do you know about the Five core values of Barclays? (which is called 
+“RISES”, you definitely have to look into it as you make it to the HR round) 
+7. Incidents in your life that you could relate to the core values of Barclays? 
+(Would be a little difficult to think then and there) 
+ 
+Topics to be focused: 
+ Database Management Systems 
+ Computer Networks  
+ Object Oriented Programming 
+ Project related detailed understanding and explanation 
+ 
+Take Away: 
+  
+Always do a little background research before attending any Company’s 
+interview. Sometimes interviewers may look at your flexibility to learn new 
+technologies rather than your knowledge, so being flexible might help. Be 
+confident and the interview is half done!!. 
+ 
+Thank you and All the very best 
+ 
+Raveena Rajagopal 
+rraveena2408@gmail.com 
+ 
+ 
+ 

@@ -1,0 +1,106 @@
+Verizon India – Engineer Role 
+Round 1 – Online Assessment 
+The test was divided into three sections, each designed to assess different skills. 
+Section 1: A timed write-up on the topic “The spending habits of today’s youth are quite 
+different as compared to the previous generation.” 
+Section 2: 30 multiple-choice questions to be completed in 30 minutes, covering AI/ML 
+concepts, Generative AI, AI usage ethics, and various techniques. The questions were a mix 
+of theoretical and practical knowledge. 
+Section 3: Coding round, which included two coding questions to be solved within 45 
+minutes. Time management was crucial here. 
+Coding Question 1: 
+A person needs to climb a staircase with N steps. In each climb, he/she can move either 1 step 
+or M steps. The task is to determine the minimum number of moves required to reach exactly 
+the N-th step. The input consists of two integers, N and M, and the output should be a single 
+integer representing the minimum number of moves. 
+Coding Question 2: 
+The task was to defeat your enemy by collecting at least T units of energy. There are N cities 
+arranged in a line, and each city i provides E[i] units of energy that can be collected in 1 hour. 
+You start at city 1 with 0 energy. 
+In each hour, you can perform one of the following actions: 
+1. Collect energy from your current city, gaining E[i] units. 
+2. Move to the next city (from city u to city u+1) by spending J[u] units of energy. 
+The goal is to determine the minimum number of hours required to collect at least T energy. 
+Section 4: The assessment included a cognitive test (gamified) and an English language 
+proficiency test. Each sub-section was timed, and there was no fixed number of questions. 
+candidates were expected to attempt as many questions as possible within the given time. 
+For the English language test, there was negative marking, so it was important to avoid 
+random guesses. If unsure about an answer, selecting the “Don’t know” option (or similar) 
+was safer, as it did not affect the score. 
+A total of 80 candidates were shortlisted for the next round 
+ 
+Round 2 – Group Discussion 
+Each GD team had around 9 students. The topic given to my team was related to the impact 
+and usefulness of online platforms such as Zomato, Swiggy, Myntra, and similar services. 
+The interviewer mentioned that we could discuss any aspect, including their benefits, 
+drawbacks, or influence on daily life. We were given around 2 minutes to think and note 
+down our points. 
+During the discussion, both the quality of points and active participation were important. It 
+was necessary to work as a team, stay respectful to others, and avoid dominating the 
+conversation. At the same time, being confident and assertive helped ensure your points were 
+heard, as the discussion was competitive. 
+Out of the 9 members from my group, 7 were shortlisted for the next round. For the next 
+round, a total of 55 students were shortlisted. 
+Round 3 – AI prompting round 
+In this round, we were asked to choose one problem statement from a list of four AI use cases 
+and provide a detailed response via a G-form. The options included Predictive Incident 
+Detection, Intelligent IT Resource Optimization, AI-based Marketing Personalization, and 
+Automated Cybersecurity Threat Detection. 
+The task required us to step into the role of an AI analyst and detail how we would design a 
+solution. I had to specify: 
+• 
+The AI tools I would use for the prompting exercise. 
+• 
+The AI prompts that would guide the solution development. 
+• 
+The prompting techniques and concepts applied. 
+• 
+Any previous AI tools, platforms, or projects I had worked on. 
+This round tested not only our technical knowledge of AI and ML but also our ability to think 
+critically and design practical solutions using AI prompting. It was a thought-provoking 
+exercise, as we had to justify our choices and showcase familiarity with AI tools and 
+techniques. 
+Round 4 – Technical Interview 
+The technical interview began with a self-introduction, after which the interviewer 
+immediately focused on my projects. I was asked about all four projects mentioned in my 
+resume. For each project, I had to draw the architecture diagram and write the pseudo-code 
+for the main functionality. The discussion around my projects lasted about 1 hour. 
+After that, the interviewer asked me to rate my technical skills (as listed in my resume) on a 
+scale of 1 to 10 and posed questions based on my self-assessment. This tested both my 
+conceptual knowledge and practical experience in those areas. 
+Subsequently, the interviewer asked several questions related to the previous AI prompting 
+round, including the types of prompts used and how I utilized AI to solve problems. Most of 
+the AI-related questions were aimed at understanding my hands-on knowledge and problem-
+solving approach. 
+The entire interview lasted around 1 hour 30 minutes. It was an intense and detailed 
+discussion, focusing on both my technical skills and practical application of AI/ML concepts, 
+which provided a comprehensive evaluation of my capabilities. 
+After the technical interview, 32 candidates were shortlisted for the next round. 
+ 
+Round 5 – HR interview 
+The HR interview was relatively short, lasting around 10 minutes for most candidates. The 
+questions were mostly general, such as: 
+• 
+Tell me about yourself. 
+• 
+What are your aspirations, and where do you see yourself in 2–3 years? 
+• 
+What did you learn from your college days? 
+• 
+Have you done any projects using AI? 
+• 
+Why did you choose to join Anna University? 
+• 
+What is your location preference? 
+The key to this round was to be confident and clear in your responses. 
+All 32 students who attended the technical interview and moved on to the HR round were 
+selected for the role at Verizon, and the confirmation email from the company was received 
+along with the result announcement. 
+All the best!! 
+Regards, 
+Jayavarshini R 
+MIT’26 - CT 
+Email: Jayavarshinirajamani17@gmail.com 
+Contact: 8300193304 
+LinkedIn: https://www.linkedin.com/in/jayavarshini-rajamani 
+ 

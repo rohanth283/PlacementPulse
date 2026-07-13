@@ -1,0 +1,66 @@
+‭FIDELITY INVESTMENTS‬
+‭About the company:‬
+‭Fidelity Investments is one of the largest and most well-known financial services companies in‬
+‭the world. Founded in 1946, Fidelity has grown to become a prominent player in the investment‬
+‭and asset management industry. Headquartered in Boston, Massachusetts, the company offers‬
+‭a wide range of financial products and services to individual investors, institutions, and‬
+‭employers.‬
+‭Number of rounds:‬
+‭The recruitment process consisted of 3 rounds:‬
+‭1.‬ ‭Online Test‬
+‭2.‬ ‭Technical Round‬
+‭3.‬ ‭HR Round‬
+‭Details about the rounds:‬
+‭Round 1: Online Test (04/09/2023)‬
+‭The online test consisted of MCQs based on English, technical MCQs, 2 coding questions of‬
+‭easy-medium difficulty, and 2 questions for which we were expected to write algorithms for. The‬
+‭test happened on the hirepro platform. Since the test happened around 20 days before the‬
+‭actual interview, I couldn’t recollect any of the questions that were asked, or the test duration.‬
+‭But here’s one of the coding questions:‬
+‭Given a pattern with missing digits, for example 1_2_5 (where ’_’ indicates missing digits), fill‬
+‭the missing digits in such a way that, the resulting number is the largest possible perfect square‬
+‭that can be formed from the given pattern. I used a brute force solution to solve this.‬
+‭The other coding question was way easier than this.‬
+‭Round 2: Technical Interview (27/09/2023)‬
+‭24 people were shortlisted for the interviews, and I was one among them.‬
+‭Firstly, the interviewer asked me to introduce myself. I gave a short intro on my academic‬
+‭background and highlighted my strengths. Then she asked me to explain about the most recent‬
+‭project I have worked on. Since that was based on DBMS, I gave an overview about the project.‬
+‭After that she asked some questions like what kind of database and data structures does‬
+‭Google search engine use. Along with the reply to this question, I added that Google uses AI to‬
+‭recommend search results based on previous search queries. She then asked me what‬
+‭knowledge I have in AI/ML. I started explaining in detail about the two ML projects that I had‬
+‭mentioned in my resume. After a few other brief questions like about my hobbies, the interview‬
+‭was over.‬
+‭I asked her a couple of questions, one was about her journey in Fidelity Investments, and the‬
+‭other was about the roles and responsibilities of an intern at the company. (Note: Do not forget‬
+‭to ask about the interviewer in case they don’t introduce themselves)‬
+‭Overall, the interview went smoothly and it was very comfortable talking with her. This round‬
+‭went on for 15-20 minutes and I was called for the HR round immediately.‬
+‭Round 3: HR interview (27/09/2023)‬
+‭Here again, I gave the same introduction about myself. The interviewer started off by introducing‬
+‭herself and asked me what I have been doing apart from academics at CEG. I explained to her‬
+‭about my roles in ACM-CEG and CTF. I also explained what kind of work I had done till then in‬
+‭those clubs. She actually wanted to know whether I had done any kind of certifications. I had‬
+‭completed the German course conducted on campus, so I mentioned that. I also said that I was‬
+‭planning to do a certification course in Professional Communication.‬
+‭She then asked me about what I knew about fidelity investments. Since I had done minimal‬
+‭research, I was not able to tackle the question confidently. She then explained what the‬
+‭company primarily does. She immediately followed up by asking, “What do you think an‬
+‭individual with a CS background would do in a company like this?”. After this and a few other‬
+‭questions, the interview got over.‬
+‭I asked her about the work culture in the company and feedback on how I performed in the‬
+‭interview. This round went on for 10-15 minutes.‬
+‭6 people were finally selected for the internship, and I was one among them.‬
+‭Key points to note:‬
+‭●‬ ‭Always be truthful to your resume.‬
+‭●‬ ‭Do a thorough research about the company before attending the interview.‬
+‭●‬ ‭Be thorough with the projects you mention in your resume from head to tail, and be‬
+‭ready for follow-up questions.‬
+‭●‬ ‭Practice coding in any of the available coding platforms (Leetcode, Hackerrank, etc.)‬
+‭●‬ ‭Concentrate on time management while attending Online tests.‬
+‭●‬ ‭Be thorough with DBMS, OS and DSA. Also try to concentrate on OOPS and Networks.‬
+‭All the best !‬
+‭Contact:‬
+‭Shiyam Ganesh T‬
+‭shiyamganesh.t@gmail.com‬

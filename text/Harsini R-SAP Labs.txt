@@ -1,0 +1,131 @@
+                                            SAP Labs 
+About the company : 
+        SAP stands for Systems, Applications, and Products in Data Processing .Originally known 
+for leadership in enterprise resource planning (ERP) software, SAP has evolved to become a 
+market leader in end-to-end enterprise application software, database, analytics, intelligent 
+technologies, and experience management. A top cloud company with 200 million users 
+worldwide, SAP helps businesses of all sizes and in all industries to operate profitably, adapt 
+continuously, and achieve their purpose. 
+        SAP Labs India drives SAP's product strategy and is responsible for SAP core solutions 
+and provides product localization and India specific solutions.  
+Online Coding Round 
+Number of questions : 2 coding + 10 mcqs  
+Duration : 1 hr      
+Platform : Hackerrank 
+Programming questions  
+1) Given a string and a wildcard pattern, find if the wildcard pattern matches with the 
+string. 
+2) Substring manipulations. 
+Note : Few were asked to code java based programming questions 
+Multiple choice questions ( 10 )  : Basic questions on data structures and algorithms. 
+15 students were short listed for the next round. (Those who solved both the programming 
+questions) 
+Technical Round I  [Pair coding round ] 
+Number of questions : 1    
+Duration : 45 minutes    
+Platform : Hackerrank codepair(Interviewer was on the other side and the online IDE was 
+screenshared) 
+Programming question : [ Dynamic Programming ] 
+Given a rod of length n inches and an array of prices that contains prices of all pieces of size 
+smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the 
+pieces. 
+Discussed about few of my projects mentioned in the resume. 
+Take aways : 
+- 
+Be interactive with the interviewer while coding 
+- 
+Voice out your approaches and logic. 
+- 
+Keep trying various approaches until you find the right one 
+- 
+Don’t hesitate to ask for help from the interviewers. 
+Technical Round II 
+Duration : 30 minutes   
+Platform : Microsoft Teams 
+This round was purely based on my resume. 
+Questions on my projects : (I mentioned 3-4 academic projects) 
+- 
+Technology used in each of the project and the reason behind me choosing that 
+particular framework or language. 
+- 
+Questioned if I had deployed any of these projects. 
+- 
+Asked few security related questions from the project 
+- 
+Was asked to explain the table structure and their relationships used in the database 
+projects. 
+Questions on the skill set mentioned in my resume: 
+- 
+What is Git and Github ? List few Git commands 
+- 
+Advantages of python. 
+- 
+Difference between python and other programing languages. 
+- 
+List the unique features of Django. Was asked to write a small code snippet 
+- 
+Discussed few tags in html and css. 
+- 
+What is CNN and explain it in detail?  
+- 
+Basic questions on datastructures, operating systems ,networks 
+Managerial Round I 
+Duration : 30 minutes     
+Platform : Microsoft Teams      
+No of interviewers : 2 
+- 
+Asked few scenario based questions. (Eg : The IRTC tatkal ticket booking server has 
+crashed. What are the steps that you would take to resolve as a developer and how 
+would you convince the customer?) 
+- 
+Explain the stages in product development. Which stage would you prefer to work in 
+and why? 
+- 
+Which programming language you are strong at and why do you prefer it? 
+- 
+Why have you not done any internships?  
+- 
+Would you prefer going for higher studies? 
+- 
+How do you balance both studies and extra-curricular activities? 
+- 
+Why the technology/language used in each of your projects is totally differnent?  
+- 
+What is your dream company? 
+- 
+Surfed through my linkedin profile and questioned my interests 
+(4 students were shortlisted for next round) 
+Managerial Round II 
+Duration : 15 minutes     
+Platform : Microsoft Teams 
+- 
+What are your strengths and weakness? 
+- 
+Who is your role model and why? 
+- 
+How do you manage stress ? 
+- 
+Who is your supporter and motivator? How do they motivate you? 
+- 
+The quality that your admire the most from your friend? 
+- 
+Why did you choose engineering and specifically why computer science? 
+- 
+Why SAP Labs? 
+(3 students were shortlisted for the next round) 
+HR round 
+Duration : 15 minutes     
+Platform : Microsoft Teams 
+This was just like a friendly discussion with the interviewer. I was asked to introduce myself. 
+Then, I was asked to describe my college life, my daily routine. Discussed my interests apart 
+from academics and the latest movies I have watched. Was asked to narrate my experience 
+about this virtual hiring process. Finally asked, if I had any questions for the interviewer.(It 
+was asked in all the rounds)  
+  (2 of us got selected from the overall hiring process.) 
+ 
+Be confident on what you speak. 
+Never take any opportunity for granted!! Give your best ;) 
+                                                                                          
+                                                                                        Harsini R (harsinirajavel@gmail.com)  
+ 
+ 

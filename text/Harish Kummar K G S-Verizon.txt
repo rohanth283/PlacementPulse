@@ -1,0 +1,73 @@
+VERIZON 
+Verizon is the #1 wireless provider in the U.S. and a global leader in next generation 
+communications technology, including 5G and the Internet of Things. It is the 8th best 
+workplace as ranked by LinkedIn in 2024 (9) LinkedIn . 
+ 
+The interview consisted of three rounds. 
+1. Online Assessment: 
+Online assessment was conducted on Online Assessments - Aon (cocubes.com). 
+ 
+i. Write an essay on “Wealth is not the same as happiness” (190-240 words) 
+ 
+ii. Coding Assessment (2 questions): 
+ 
+ 
+1. You are given two numbers N and K. Your task is to find the total number of weird 
+numbers in the range 1 to N. A number is weird if that number is not divisible by K but the 
+sum of digits of that number is divisible by K. 
+2. You are provided with a two-dimensional integer array of size m x n of integers as 
+input. Print the 2-D array after sorting each row of the array in ascending order. 
+ 
+iii. Language Proficiency: 
+ 
+Multiple assessments to check our language proficiency like spelling check, grammar 
+knowledge and so on. It will be like rapid fire. When you answer one question next will show 
+up until the time runs out. So try to attempt many questions as possible. 
+ 
+There were negative points for wrong answers and you can also prefer not to answer 
+(no negative marks). So choose wisely. 
+ 
+iv. Puzzle: 
+ 
+I was asked to solve puzzles(medium level). And it was the same as previous round 
+(rapid fire). Try to answer correctly. 
+After online assessment 48 students were shortlisted for Group discussion. 
+ 
+2. Group Discussion: 
+GD was conducted offline, with 12 in one panel(20 mins). The topic was GenAI’s effect on 
+creativity. 
+ 
+• Try to give valid point. Quantity is not important quality is what they expect. 
+• Don’t take so much time for a single point. 
+24 people were shortlisted for next technical round. 
+ 
+3. Technical Round: 
+It was a 30 min round. They asked questions only from the resume and my favourite 
+subjects. 
+• Some basics questions from DSA, DBMS, OS, ML(project) 
+• They asked every information you have provided on the resume. 
+• They asked all about my project and how much I know about my project. 
+ 
+The Interviewer asked me if I had any questions. 
+ 
+Even if you forgot some points be brisk and try to answer the question from what 
+you know. 
+16 people were shortlisted for HR round. 
+ 
+4. HR round: 
+They just asked about my family background and my hometown. 
+The HR asked me if I had any questions for him. 
+It’s very normal and no technical questions were asked. 
+They sent the offer mail within 10 minutes and a brief info about the company was given. 
+ 
+Make sure you are strong in fields you have used in the resume. 
+ 
+ 
+Everyone can get placed, Never lose hope. 
+ 
+Hope this helps. 
+Thank you and All the Best. 
+ 
+Name – Harish Kummar K G S 
+Mail id – harishkummar3210@gmail.com 
+Mobile number - 8667079932 

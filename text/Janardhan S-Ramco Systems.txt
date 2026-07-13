@@ -1,0 +1,123 @@
+Interview Experience – RAMCO Systems 
+Key Preparation Tips (Summary) 
+●​ Prepare all standard problems from LeetCode, especially data structures such as 
+linked lists, binary trees, stacks, and two-pointer/string problems.​
+ 
+●​ Prefer Striver’s SDE Sheet for structured DSA preparation.​
+ 
+●​ Understand all core Computer Science concepts including OS, DBMS, CN, OOPs, 
+and SQL thoroughly.​
+ 
+●​ Be confident and communicate clearly – strong articulation helps significantly during 
+both technical rounds.​
+ 
+●​ With proper preparation and confidence, the interview process is very crackable.​
+ 
+ 
+Introduction 
+This document summarizes my complete interview experience at RAMCO Systems, 
+including all rounds, questions asked, and my overall performance. The entire selection process 
+consisted of multiple filtering stages, including assessments, technical written tests, and two 
+in-depth technical interviews conducted at CUIC. 
+ 
+1. Online Assessment Round 
+The process began with an online assessment that focused mainly on coding and basic 
+aptitude.​
+ I was required to solve two coding problems, both heavily centered on Linked Lists 
+(operations, traversal, and edge-case handling). The round also included a set of MCQs related 
+to programming fundamentals, computer science concepts, and logical reasoning. I performed 
+well and progressed to the next stage. 
+ 
+2. Offline Written Technical Test 
+A total of 73 candidates were shortlisted for the Written Technical Test.​
+ We were given three coding problems, and ample time to write complete solutions, including 
+optimized logic and edge-case handling. 
+Questions Asked 
+1.​ Longest Non-Repeating Substring​
+ 
+2.​ Finding All Duplicate Subtrees in a Binary Tree​
+ 
+3.​ Longest Harmonic Subsequence​
+ 
+This round tested our ability to write structured, clean, and optimized code. My solutions were 
+well-received, and I was shortlisted for the first technical interview. 
+ 
+3. Offline Technical Interview – Round 1 (CUIC) 
+A total of 42 candidates advanced to Technical Round 1.​
+ This round involved detailed analysis of the answers written in the previous coding test as well 
+as conceptual depth in DSA and SQL. 
+Questions & Topics Covered 
+●​ Optimizing my written test solutions​
+ 
+●​ Checking whether two binary trees are identical​
+ 
+●​ Implementing a Queue using two Stacks​
+ 
+●​ Detecting a loop in a linked list​
+ 
+●​ Writing an SQL query using LIMIT and explaining execution order​
+ 
+●​ A detailed discussion about all my projects:​
+ 
+○​ Tech stacks used​
+ 
+○​ Architecture​
+ 
+○​ Challenges faced​
+ 
+○​ Problem-solving approach​
+ 
+●​ A short System Design task for a Vehicle Enterprise Management System​
+ 
+●​ Conversation about extracurricular activities and leadership roles​
+ 
+This round went very well, my explanations were strong, and I answered all the questions 
+confidently. I expected to progress to the next round—and I did. 
+ 
+4. Offline Technical Interview – Round 2 (CUIC) 
+Only 20 candidates were shortlisted for this deeper technical evaluation.​
+ This round primarily focused on project depth, CS fundamentals, and problem-solving 
+skills. 
+Topics Covered 
+Project Deep-Dive 
+They asked about: 
+●​ Complete project architecture​
+ 
+●​ Every tech stack I used​
+ 
+●​ “Why” questions such as: Why MongoDB over PostgreSQL?​
+ 
+●​ Data structures used in each module​
+ 
+●​ Future scope and improvements​
+ 
+●​ Real-world scalability considerations​
+ 
+Coding and Problem-Solving 
+1.​ A recursion program where I had to explain the output and derive time complexity​
+ 
+2.​ A Binary String problem requiring pattern analysis​
+ 
+Core CS Concepts 
+A thorough discussion of: 
+●​ OOPs Concepts (Inheritance, Polymorphism, Abstraction, Encapsulation)​
+ 
+●​ Operating Systems (deadlocks, scheduling, memory)​
+ 
+●​ DBMS (ACID, indexing, joins)​
+ 
+●​ Computer Networks (OSI layers, protocols)​
+ 
+This round was challenging but went smoothly. I answered confidently and showcased a strong 
+understanding of both my projects and CS fundamentals. 
+ 
+Final Shortlist 
+After all rounds, 10 candidates were finally selected for the final stage.​
+ The interviewers emphasized confidence, problem-solving approach, and conceptual 
+understanding as key differentiators. 
+ 
+ 
+Best Wishes,​
+Janardhan S​
+Mail : janardhansubramanian@gmail.com 
+Phone : 8610086885 

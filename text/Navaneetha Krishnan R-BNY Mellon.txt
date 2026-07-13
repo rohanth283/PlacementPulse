@@ -1,0 +1,241 @@
+BNY Mellon Chennai 
+About the company: 
+The Bank of New York Mellon Corporation, commonly known as BNY Mellon, is an American 
+investment banking services holding company headquartered in New York City. BNY Mellon was 
+formed from the merger of The Bank of New York and the Mellon Financial Corporation in 2007. It is 
+the world's largest custodian bank and securities services company.  The bank's primary functions 
+are managing and servicing the investments of institutions and high-net-worth individuals. Its two 
+primary businesses are Investment Services and Investment Management. The bank's clients include 
+80 percent of Fortune 500 companies. The Mumbai Representative Office of The Bank of New York 
+Mellon was set up in 1983 and continues to serve as BNY Mellon's main liaison point for Indian client 
+base. In 2013, Pershing India Operational Services Private Limited (Pershing India) was established in 
+Chennai. Currently, company have over 12,000 employees across our three locations: Mumbai, Pune 
+and Chennai. 
+My Interview Experience: 
+No of Rounds: 3 
+1) Online Test (Coding Round) 
+2) Technical Interview 
+3) Technical + HR Interview 
+Round 1: 
+Coding Round: 
+ 
+Conducted in Hacker rank Website 
+ 
+Test Duration is 90 mins 
+ 
+Camera On 
+ 
+1 easy, 2 medium and 1 hard question. 
+ 
+Only function not full code. 
+Coding questions: 
+First Question (Easy): 
+Given an array, find the efficiency of an array. To find the efficiency choose a pair such that all pair 
+sum should be equal and then eff+=pair.first+pair.second. Efficiency should be maximum.  
+Test case 1: 
+Input: 
+N=6 
+A=[4,3,2,3,1,5] 
+Output: 
+22 
+Explanation: 
+Eff=1*5+2*4+3*3 (Here 1+5==2+4==3+3) 
+Test case 2: 
+Input: 
+N=[1,2,2,7,2,4] 
+Output 
+-1 
+Explanation: 
+No pairs can be found such that sum is equal in all pairs. 
+Topics: Array, Sorting. 
+Second question (Medium): 
+Given two strings such that convert one string to another string with only two operations given 
+applying any number of times. 
+Return 1 if possible else 0. 
+Two operations: 
+1) You can swap str[i],str[i+1] 
+2) Substring of k (k>1) size with same elements (ASCII Value=K) in that substring can be 
+converted to next elements (ASCII Value=K+1). Example: “aaadcd” to “bbbdcd”. Here k=3 
+and with ‘a’ same element in that substring is converted to next element ‘b’. Note: ‘z’ can’t 
+be converted to next element. 
+Test case 1: 
+Input: 
+”caa” 
+“bbc” 
+Output: 
+1 
+Explanation: 
+Operations: 
+Swap s1[0],s1[1] => “aca”  
+Swap s1[1],s1[2] => “aac” 
+Then k=2 from 0-1 index with a element to next b element => “bbc” ==str2 
+So output 1: 
+Test case 2: 
+Input: 
+”abc” 
+“bcd” 
+Output: 
+0 
+Explanation: 
+We can’t convert str1 to str2 with those two operations. 
+Topics: Strings, HashMap. 
+Third Question (Medium): 
+Given a 2D matrix with 0 and 1 values in it. 0 -> you can go and 1 -> you can’t go. K value given. 
+K -> you can jump at most k steps in horizontal and vertical direction. We have to find minimum no 
+of steps required to go from (0,0) to (N-1, M-1). If not possible return -1. 
+Test case 1: 
+Input: 
+0 0 1 
+0 0 0 
+N=2 
+M=3 
+K=3 
+Output: 
+2 
+Explanation: 
+(0,0)[k=1]->(1,0)[k=2]->(3,0). There is no obstacle in the path. 
+Test case 2: 
+Input: 
+0 1 0 
+1 0 0 
+N=2 
+M=3 
+K=3 
+Output: 
+-1 
+Explanation: 
+We can’t move to any cell from (0,0). 
+Topics: DFS, DP, Backtracking. 
+Forth Question (Hard Problem): 
+Given an array. You have to apply operations in it 
+Operations:  
+1) 1 v w => change vth element to w 
+2) 2 v v => change every element in that array which are less than v to v. 
+These two operations are given in sequences. You have to apply and return the modified array. 
+Test case 1:   
+Input: 
+[7,2,5] 
+Operations: 
+2 6 6 
+1 3 9 
+2 8 8 
+Output: 
+[8,8,9] 
+Explanation: 
+2 6 6 => [7,6,6] 
+1 3 9 => [7,6,9] 
+2 8 8 => [8,8,9] 
+Topics: Array, 2D Array, Sorting, Searching, Priority Queue. 
+For me 1st question 15/15, 2nd question 5/15, 3rd question 7/15, 4th question – 10/15 test cases 
+passed.  
+25 students shortlisted for round 2 out of 150-200 students. I was one of them. 
+Round 2: 
+Technical Interview: 
+The interview was conducted in CUIC. Interview conducted in physical mode. First, he read my 
+resume and after that he started to ask questions. Interview took around 50 mins 
+Questions: 
+1) Project Related questions: 
+a) Tell about your DBMS project? 
+b) Draw tables. 
+c) Tell how they are connected (primary key and foreign key)? 
+d) He gave me some suggestions in my tables. 
+e) How will 1000 hotel details will be displayed in that website (My Project is hotel booking 
+system)? 
+f) How did you implement ACID properties in your project? 
+2) Technical questions: 
+a) Uses of operating systems 
+b) Deadlocks 
+c) Interpreter and Compiler 
+d) Why we are using binary systems in computers 
+e) Triggers and procedures differences 
+f) Condition for UNION in DBMS 
+g) Left, Right and Full Join 
+h) Transactions 
+i) 
+ACID Properties Transactions 
+j) 
+Commit, Rollback {If I didn’t commit and server crashed, what will happen}. 
+3) DSA question: 
+Given an array with characters. To store the frequency of characters (‘A’-‘Z’) .  
+Constraints: 
+a) Only Array (Not HashMap etc) 
+b) Time Complexity O(N) 
+Solution:  
+freq=[] 
+for i in range(0,26,1): 
+    freq.append(0) 
+arr="NAVANEETH" 
+for i in range(0,len(arr),1): 
+    freq[arr[i]-65]+=1 
+print(freq) 
+ 
+ 
+Topics: Array, ASCII values. 
+4) General Questions: 
+a) Which one you would prefer frontend or backend? 
+b) How will you debug the code? 
+c) Which IDE you use? 
+d) Why did you choose CEG instead of NIT’s? 
+5) Puzzle 
+https://www.geeksforgeeks.org/puzzle-bag-of-coins/ 
+Answer the questions confidently. Overall, the interview went very well and I was shortlisted for the 
+next round.  
+Round 3: 
+Technical and HR Interview: 
+First, she read my resume and after that she introduced herself and asked me to introduce myself. 
+This interview is combined like both technical and HR. She asked to design a project using C++. 
+Interview went around 45 mins - 1 hour 
+Questions: 
+1) What project you will choose (I told Chess Game) 
+2) Write some functions related to that game (No need to write full function only name and tell 
+what that function do. I did use OOPS (classes)) 
+3)  What is OOPS, explain in depth 
+4) Difference between Abstraction and Encapsulation. 
+5) How will you implement Abstraction and Encapsulation in your project. 
+6) What constraints you used in your project 
+7) How will you debug if you found any error 
+8) If you are submitting it to a professor, on that time your code is not working what will you 
+do? 
+9) If professor asks you to do improvement in your project, what improvements you will do 
+10) If professor asks you to do this project as team or individual which one you will prefer 
+11) (I told team) What kind of team you will choose 
+12) Tell about team conflicts anything happened in your life 
+13) How will you guide your team 
+14) If anyone of teammate is not contributing what you will do 
+15) Tell something interesting about BNY Mellon 
+16) What will you do after graduation 
+17) Why did you learn C++ and python instead of java 
+At last, she asked, do you have any questions. I asked what tech stacks are used in summer 
+internship. 
+16 students selected for internship. I was one of them.  
+Do check out past intern interview experiences from GFG and practice company specific question 
+sets too. 
+Points to remember: 
+ 
+Practice coding questions 
+ 
+Prepare “Introduce yourself”  
+ 
+Try to pass more testcases rather than concentrating only on one question in coding round. 
+TOPICS TO BE FOCUSSED: 
+• 
+Data Structure 
+• 
+Database management system 
+• 
+Operating system 
+• 
+Whatever you’ve put in your resume 
+• 
+OOPS 
+“ALL THE BEST” 
+About me: 
+Name: R Navaneetha Krishnan 
+Batch: 2020-2024 
+Department: CSE 
+Ph No: 9042142160 
+Email: r.navaneeth992@gmail.com 
+LinkedIn: https://www.linkedin.com/in/navaneetha-krishnan-r-38998420a/ 
+ 
+ 
+ 

@@ -1,0 +1,13 @@
+# Secret configurations
+.env
+
+# Local database caches
+*.db
+placement_chatbot.db
+
+# Python caches
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store

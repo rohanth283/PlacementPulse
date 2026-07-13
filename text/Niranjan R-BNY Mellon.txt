@@ -1,0 +1,180 @@
+BNY MELLON – INTERNSHIP INTERVIEW EXPERIENCE 
+ 
+BNY Mellon (The Bank of New York Mellon Corporation) is a global financial 
+services company headquartered in New York, formed in 2007 through the 
+merger of The Bank of New York and Mellon Financial Corporation. The firm 
+focuses on asset servicing, investment management, and treasury services, 
+supporting clients in more than 100 markets worldwide. With trillions of 
+dollars in assets under custody and management, BNY Mellon is a trusted 
+name in the financial industry. The company employs thousands of 
+professionals across the globe, with strong technology and operations hubs 
+in Pune and Chennai, where much of its innovation and digital 
+transformation is driven. 
+The Interview process consisted of 3 rounds: 
+1. Online Assessment 
+2. Technical Interview 
+3. Technical + HR Interview 
+ 
+Round-1: Online Assessment 
+The test was conducted in Hackerrank platform. There was a total of 4 
+questions and we were given 2hrs 45mins to solve them. 
+1. Maximizing the Redundancy 
+You are given n servers represented as a binary string, where 1 means 
+operational and 0 means not operational. At most one operation can be 
+performed: choose a consecutive segment and flip all values (1 → 0, 0 → 1). 
+The task is to find the maximum redundancy, defined as the number of 
+unique possible counts of operational servers after performing the 
+operation. 
+Sample Input: 0011 
+Sample Output: 4 
+ 
+2. Server Clusters 
+You are given an array serverProp representing the properties of n servers. 
+Two servers at indexes i and j are considered connected if the greatest 
+common divisor (GCD) of their properties, serverProp[i] and serverProp[j], is 
+greater than 1. Connected servers form clusters in the network. 
+You need to return an array of integers where the i-th value represents the 
+size of the cluster to which the i-th server belongs. 
+Sample Input: n = 3, serverProp = [1, 2, 4] 
+Sample Output: [1, 2, 2] 
+ 
+3. Minimum Cost 
+There are n points on the x-axis (1, 2, …, n), where each point i has a cost 
+associated with it cost[i]. 
+Starting from position 0, you can jump forward up to k steps at a time. 
+Whenever you land on a point, you incur its cost. The goal is to find the 
+minimum cost required to reach point n. 
+Sample Input: n = 5, cost = [4, 3, 9, 3, 1], k = 2 
+Sample Output: 7 
+ 
+4.Largest Subset 
+In a scheduling system, there are n events represented by two arrays, start 
+and finish, each of size n. 
+ The i-th event begins at start[i] and ends at finish[i]. 
+ A subset of these events is considered high-priority if there exists at 
+least one event in the subset that overlaps or intersects with every 
+other event in the subset. 
+Your task is to determine the maximum size of a high-priority subset of 
+events. 
+Sample Input: n = 4, start = [1, 2, 3, 4], finish = [2, 3, 5, 5]   
+Sample Output: 3 
+My performance: 
+1. 15/15 test cases ✅ 
+2. 14/15 test cases ✅ 
+3. 9/15 test cases ✅ 
+4. 10/15 test cases ✅ 
+ 
+Round-2: Technical Interview 
+The second round took place at CUIC. A total of 26 candidates were 
+shortlisted from the OA and we were split across 6 panels with an 
+interviewer in each.  
+The interviewer in my panel was very friendly and chill and it helped me 
+initially as I was nervous about the Interview. The interview went for about 
+30-40 mins. After settling in, the interviewer started browsing through my 
+resume and asked me to give an introduction. The interviewer then moved 
+on to the technical questions and asked me to choose any of the core 
+concepts I had mentioned in my resume for which I chose Object Oriented 
+Programming (OOP)  and he started asking some questions about OOP: 
+ What are the 4 pillars of OOP? 
+ Explain about any one of them with a real life example. 
+ Some questions related to relationships in Inheritance. 
+Then, he moved on to my projects and asked me to explain about the Real 
+Time Chat Application project which I had done using MERN stack. I 
+explained my part of the project which I worked with. After that he asked 
+me to explain about any one of the projects I had done as per my 
+preference, I explained about the Java project (Spaceship Game) in great 
+detail (use case, functionalities, etc.). Then he tested my knowledge in DSA 
+with a problem: 
+ I don’t remember the exact question but it went like this. How would 
+you design a parking lot by checking if a slot is free for the car to park 
+or not and assign them the free slot. 
+Initially, I was not really sure whether it was a coding question so I asked the 
+doubts I had and told him my approach and wrote it down in a paper. Even 
+though I made few mistakes in my solution, he corrected me and was trying 
+to test my thinking skills. Then he asked me to explain about any one sorting 
+technique of my choice. 
+Finally, he asked me if I had any doubts for which I asked “What kind of 
+work we would be assigned to during the Internship?” and “How well did I 
+perform in the interview?” for which he pointed out my strengths and 
+weaknesses of what he had seen of me in the Interview. I asked some other 
+questions as well. 
+I was one of the 14 candidates who got shortlisted for the next round. 
+ 
+Round-3: Technical + HR Interview 
+It took place sometime after the second round got over. I had a long 
+conversation for about an hour with the interviewer. The interview started 
+with self-introduction. During the very initial stages, the interviewer pointed 
+out and asked why I had mentioned programming languages in a random 
+order as he assumed it was in the order of my preference and told me most 
+of the people would read it in that way, I was told this in the previous round 
+also so avoid this mistake. 
+Then, the interviewer asked me various doubts regarding my MERN stack 
+project and asked various hypothetical questions while developing a project 
+and how I would handle the situation. To give a basic idea, the questions 
+were like: 
+ How would you deal with a customer when you have time constraints 
+on meeting the deadline of a project? 
+ How would you deal with a situation when your project members are 
+not available? 
+I told how I would handle the situations and he further complicated the 
+situation of the question and it went on like that. Then, he asked me to 
+name the aggregate functions and some inbuilt functions from DBMS. 
+Moving on to DSA he asked me 2 questions: 
+ 4 friends go to a restaurant and pay the bill in a disoriented ratio, how 
+would the split be between each of them and he added further more 
+which I don’t really remember much. 
+ A question related to obtaining a substring from a string. 
+For the first question, I wrote my approach in a paper logically explaining 
+him and he asked me write the code as well in a language of my preference 
+and I wrote in C++. Although my answer was not perfect, I gave the logical 
+idea with coding approach and he helped me further and taught me how to 
+solve the missing part. For the second question, I gave him a sliding window 
+approach for which he agreed with.  
+For major part of the interview, I was asked about my projects and many 
+hypothetical questions. The interviewer also asked me some practical 
+questions related to Software Engineering Concepts like SDLC. He also asked 
+me how well do I know Spanish as I had mentioned it in languages in my 
+resume. 
+Finally he asked me if I had any questions for him, and I questioned with 
+various questions like “How did he handle the situation when he was at my 
+place (candidate)?” and so on. It was a friendly and casual conversation 
+which went on for an extended duration. In the end, he mentioned to me 
+that he had a great time conversing with me and the interview ended. 
+ 
+The results were announced after a prolonged wait, and 6 of us were 
+selected for the Internship ( 4, 2 from MIT, CEG respectively). 
+Tips: 
+ Be 100% thorough with all things mentioned in your resume. 
+ Try not to be anxious and be as confident as possible during the 
+interviews. 
+ Don’t panic and stutter when you don’t know the answer for a 
+question, such questions are asked to test your decision making under 
+pressure and rather reply with similar things relevant to the question 
+(“I am not sure on that but I know about this”, “I will look into it”, etc.) 
+think for sometime and answer I DON’T KNOW only if you have no 
+idea about the question. 
+ Be honest with the interviewer. 
+ Respond with creative and thoughtful answers which come to your 
+mind at that moment. 
+ Present yourself showing your genuine interest for the job 
+opportunity. 
+ Be curious and ask the interviewer various questions when asked to 
+making the conversation interactive. 
+ Be thorough with the core concepts you have learned up until at the 
+time of interview especially DSA, DBMS, OOP. 
+ Be prepared on what you tell for self-introduction, this is crucial as the 
+interviewer gets keen and curious about the strengths, hobbies and 
+other things you mention. 
+ Create a habit of practicing DSA problems regularly in coding 
+platforms like LeetCode to become more familiar with DSA concepts. 
+ 
+Don’t get vexed if you are not hired, try your best and the good luck, results 
+will eventually find you in the future. 
+ 
+Best of luck! Please do feel free to reach out to me if you have any further 
+doubts, 
+Niranjan R 
+Email: nirranjan.ravichandran@gmail.com 
+Phone: +91 9840609137 
+Branch: CSE (2023-27) 
+ 

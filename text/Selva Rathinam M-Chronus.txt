@@ -1,0 +1,184 @@
+ 
+   
+ 
+ONLINE TEST: 
+ 
+The online test was conducted in the HackerEarth platform where 4 coding questions 
+were asked and we had to complete within 1.25 hours (1 hour 15 minutes). You can switch to any 
+questions during the test. 
+ 
+Coding questions: 
+1. There are n cars with arriving and departure times are given. These cars are 
+arriving to a parking lot where Rs. 50 is collected for each car. Only one car can be 
+parked at a time. You have to find the maximum amount that can be collected. 
+This question is little similar to https://leetcode.com/problems/non-overlapping-
+intervals/ 
+ 
+2. There are n buildings with no. of floors specified in an array. There are k builders. 
+We have to allot the buildings to builders such that they construct only consecutive 
+buildings. Each builder takes one month to complete one floor. We have a budget of 
+(Rs.) b initially. We spend (Rs.) 5 in each month. You have to find maximum profit 
+amount (budget b – amount spent). 
+ 
+E.g.: Consider there are 5 buildings with floors [5,10,35,10,15], there are 3 builders 
+and we have an initial budget of Rs. 200. 
+ 
+If we split as Builder 1 – 5,10; Builder 2 – 35; Builder 3 – 10,15; we will have a max. 
+month of 35 so profit = 200 – 5*35 = 25. 
+ 
+3. There was a music concert planned with given reserved seats in form of 
+coordinates as (x,y). There are speakers which covers only 90 degrees around it (in 
+any one of the quadrants). We can place speakers at any of these reserved seats. 
+Your task is to find minimum number of speakers needed such that it covers all the 
+audience (reserved seats). 
+ 
+      E.g.: The coordinates are (-2, -2), (-1, -1), (0, 0), (1, 1), (2, 2). Placing 1 speaker (-2, -2)  
+ 
+      can cover all remaining coordinates. 
+ 
+4. On a particular day, an employee can be ‘A’, ‘L’, ‘P’ where ‘A’ – Absent, ‘L’ – Late, ‘P’ – 
+Present. An employee can be rewarded with a bonus only if he is 
+  
+ 
+Only ‘A’ for two days. 
+ 
+ 
+Not ‘L’ for two days consecutively. 
+CHRONUS Interview EXPERIENCE 
+If there are n days, how many ways he can go to office such that he is rewarded a 
+bonus? 
+ 
+E.g.: Consider n = 2. Output: 8 
+Possible ways: [P, P], [P, A], [P, L], [A, A], [A, L], [A, P], [L, A], [L, P]. 
+ 
+8 students were shortlisted for the physical interview held at CUIC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Interview: 
+Technical Round 1: 
+ 
+This round completely consists of 2 DSA questions which went for nearly an hour. Initially the 
+interviewer asked me to introduce myself. After that the coding session started. 
+1. Given an array consists of number (integer, fraction, negative, zero), you can delete at most 
+one element in order to maximize the product. 
+ 
+First the interviewer asked me all possible cases along with output, then asked me to write 
+the code in whitepaper. 
+ 
+2. Given a puzzle, decode that and then write the code in whitepaper. 
+Sample:  
+Actual String:  R  E  B  U  S 
+Trial String: 
+R  O  U  T   E 
+Output:  
++   -   *  -   * 
+ 
+ 
+Logic is R is present in both strings at the same position and so + symbol is used, O 
+and T are not in actual string and so – symbol is used, U and E are in actual string but in 
+different positions and so * symbol is used. (Output is with respect to trial string). 
+ 
+Interviewer asked question about DBMS project that I have done and he gave me some 
+suggestions about it. 
+Finally, he asked if I had any questions for him. 
+ 
+ 
+Technical Round 2: 
+I was asked to give a brief description of the project and after that they went to the coding 
+part. 
+ 
+1. Given an array, we have to find the second largest element. 
+First the interview asked me to list out all the approaches that I came up with. After that he 
+asked me about the time complexities of each approach. At last, he asked me to write code for 
+any one of the approaches. He gave me an output and asked for the cases where will I get the 
+specified output. 
+2. 
+Given a number, we have to find the next largest number using the digits of the given 
+number. 
+ 
+E.g.: Given number 52394, The next greatest number will be 52439. 
+ 
+This is similar to the question https://leetcode.com/problems/next-permutation/ 
+ 
+Then he made a slight modification to the problem (to find the next smallest 
+ 
+element). He asked me to give approach alone and not to code. 
+ 
+3. 
+Given an array to find whether it is a rotated sorted array or not. 
+ 
+E.g.: [3,4,5,1,2] is a rotated sorted array (rotated in clockwise direction thrice). 
+ 
+He asked me to give the approach and to write the code in paper. 
+ 
+HR ROUND: 
+Firstly, the interviewer asked me to introduce myself, my family background and my interests.  
+ 
+Next, he asked me many questions like 
+1. Where I see myself in next five years? 
+2. What are the three important things to be followed and three things to be avoided to pursue 
+success in career? 
+3. What are my strengths and weaknesses? 
+ 
+The round went for nearly 45 minutes and completely full of friendly HR questions. 
+ 
+Out of 8, 2 got shortlisted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All the best!!! 
+ 
+Selva Rathinam M 
+Third Year, CSE (Orange tag) 
+Mobile: 8610120859 
+Email: selvarathinammurugesan@gmail.com 

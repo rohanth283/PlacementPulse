@@ -1,0 +1,195 @@
+SAP LABS INDIA– INTERVIEW EXPERIENCE 
+ 
+About the Company: 
+ 
+SAP (short for Systems, Applications, and Products in Data Processing) is one of the biggest 
+names in enterprise software, helping businesses around the world run smarter, whether it’s 
+managing their supply chains, handling finances, or making sense of their data. 
+ 
+SAP Labs India is a key innovation and R&D hub for SAP, with a global presence in five cities: 
+Bengaluru, Gurgaon, Pune, Mumbai, and Hyderabad. Bengaluru hosts the largest campus, 
+serving as a crucial center for driving AI solutions and enterprise technology development for 
+global customers. The labs focus on a customer-centric and agile approach to innovation, 
+covering user experience, business models, and cutting-edge technology.  
+Role Offered: Developer Associate 
+ 
+Selection Process: 
+ 
+1. Online Test 
+2. Technical Round 1 
+3. Technical Round 2 
+4. Techno-managerial Round 
+5. HR Round 
+ 
+For me, only four rounds were held including OA. I think they might have combined Tech 2 and 
+Techno-Managerial. I spent almost the whole day waiting for round one, and once it started, 
+the rounds blasted off like a rocket. 
+ 
+Online Assessment(@CUIC): 
+ 
+About 280 students made it to the online assessment round. The OA happened in the IT lab and 
+ran for a solid 100 minutes (yep, 1 hour 40 mins — long enough to question your life choices). 
+The test was on Codility, with both video and audio proctoring. 
+We got 2 DSA questions each, and everyone had their own mystery set with different kinds of 
+questions. One was supposed to be “easy”, and the other might fit in the “medium” zone. But 
+I’d say, I got a 1+1 offer!! both turned out to be mediums. 
+ 
+ 
+Questions asked for me: 
+1) Problem: Cover the Holes with Wood 
+You are given a table with holes at certain positions. Your task is to cover all the holes using 
+exactly two wooden planks of the same length. You have woods of infinite size and also the 
+table has infinite length, but you want to minimize the wooden plank size. 
+• An integer array holes[] representing the positions of holes on the table. 
+• 1 <= holes.length <= 10^5, 0 <= holes[i] <= 10^9(unique) 
+Eg: holes = [1, 3, 4, 7, 9], Output: 5 
+ 
+Explanation: One plank of length 5 can cover holes at positions [1,3,4], and other plank for the 
+remaining holes.  
+My thoughts: It is basically a medium-easy qns which can be solved using binary search. 
+ 
+2) Problem: Graph Disappearance Time 
+You are given a graph which may or may not be connected. Each second, any node with at most 
+one edge disappears, and all edges connected to it also disappear. Your task is to determine the 
+minimum time required for the entire graph to disappear. 
+Eg:  
+Input: n = 5, edges = [[1,2],[2,3],[3,4],[4,5]] 
+Output: 3 
+ 
+Explanation: 
+- Second 1: Nodes 1 and 5 disappear (each has 1 edge), edges [1,2] and [4,5] removed. 
+- Second 2: Nodes 2 and 4 now have 1 edge each, disappear, edges [2,3] and [3,4] removed. 
+- Second 3: Node 3 disappears. 
+Minimum time for full disappearance = 3 
+My thoughts:  This is a perfect medium qns, can be solved using topo-bfs in graph. 
+ 
+A total of 89 students were shortlisted for the interview. The results were announced just one 
+day before the interview giving me roughly 12 hours to cram a month’s worth of prep. 
+ 
+ 
+Round 1 (Technical round 1): 
+The interview kicked off with the usual self-intro. As expected, he dove straight into my resume 
+projects, skills, everything I had put down. The first part was basically a deep dive into my ML 
+project: 
+• What does it do? 
+• How did I implement it? 
+• Which model did I use and why? 
+• Why did u choose  this? 
+• And, of course, the results. 
+The interviewer didn’t stop there; he went through all my other projects with the same level of 
+curiosity. He also asked, how I implemented “Interest based pair pooling” which I have done in 
+my project (like pairing some anonymous users to interact based on interest, similar to omegle 
+but with filters). It was like a rapid-fire quiz: one question, one-line answer, bam, immediate 
+follow-up. But somehow, I survived. 
+Then came a simple DSA question: reverse the words in a sentence. Easy right? I went from 
+brute force to optimal solution, and he hit me with a follow-up: “Now reverse the letters inside 
+the words”. Literally twisting the whole string-reversal logic!! I answered that too. 
+Suddenly, the Tech round felt more like a funny HR one. He asked about my native place, MLA 
+there , obviously we discussed about TVK and some politics. Later, He asked about SAAS, which 
+I had on my resume. I ended up explaining  Techofes, Agni in detail ... felt like a proud moment 
+as an Organizer. We spent more time in this part. 
+Then context switching happened in real life HR qns again turned into Technical qns where it 
+was left off, he threw in some OS questions: system calls, CPU scheduling, scheduling types and 
+he asked me to explain FCFS, Priority and Round Robin Scheduling and other related concepts.. 
+He also asked some cool things about cpp, asked me to explain about pointers, its advantages 
+and its limitations. He also asked much more OS questions. 
+Finally, the round ended with a puzzle: I have three jugs => 5L, 8L, and 12L. How do I measure 
+exactly 6L with minimum swap operations? At the end, the interviewer asked: “Do you have 
+any questions for me?” I didn’t ask him any. But U guys Don’t skip it. Ask meaningful questions 
+(about role, team culture, learning opportunities, etc.). It creates a positive impression. 
+After this round, I was shortlisted for the next stage. Out of all the participants, around 25 
+students were shortlisted for Technical Round 2. 
+Round-2: 
+This round had two interviewers — one virtual, one physical. The round started with me  
+introduced myself. And then they asked 
+First questions: 
+• “Why CSE even though you were Bio-Math in 12th?”. 
+• “Do you like DBMS?” …uh, really? How else do they expect me to answer? I said yes. 
+Then came DBMS deep dive: 
+• He asked, “Have you backed up any DB data?”, I clearly said no, still he questioned 
+about DBMS backup, then asked about sharding, horizontal vs vertical sharding, shard 
+keys, how to shard and its usage and lot questions on these two topics. 
+• Then asked normalization, anomalies, why we need it, all normal forms with examples. 
+At 3rd normal form, he threw me a mini-SQL task: get student names studying CSE 
+across student and department tables. 
+▪ I did a join query; he tried to trick me: “Why are you joining the tables? Now 
+only you have split it! Still join requires? Then what is the need of that 
+splitting” 
+▪ I calmly explained: advantages and disadvantages of normalization and also 
+showed him a subquery version too. 
+Next, OS: 
+• He asked about multithreading, parallelism, concurrency, multiprocessing and plenty 
+of questions as follow - ups. 
+• He asked, “what would exactly happen at context switching", about PCB etc.,. 
+• He also asked, “You have pc of single core, and u want to run a program which requires 
+multiple core what your computer do?”, I answered with time-slicing, context switching, 
+multiprocessing also said “due to absence of parallelism the performance might be 
+poor”. 
+Next, DS: 
+• He asked about hashing, Open addressing, closed addressing, chaining, linear & 
+quadratic probing — basically my brain went on DSA overdrive. 
+• He asked, “You have arr of size 10, but record of 10000, how do u hash and handle 
+collision?” I explained chaining approach for that. 
+• Then comes the classic: “What’s the last DS you learned?” this is a tricky question, 
+knowing he would questions in that, I still answered  him as Trie, ended up explaining 
+what is trie and what 's its real-world application and simulated a search operation, 
+auto completion in trie. 
+• He also asked a binary tree real-world example. 
+• He asked me to Implement Calculator using tree. First, I have converted that infix to 
+postfix, constructed the expression tree, where leaves are operands and the inner 
+nodes are operators. And a simple modification of  postorder traversal can do the magic 
+for us! “Avada Kedavra.....”. 
+• He also asked me about heap and told me to explain its underlying concepts and told to 
+implement it. 
+• Later he gave me a missing number problem in range of 1 to n. 
+Next OOPS and CPP specific qns: 
+• He asked some questions about OOPS and he asked the classic Diamond inheritance 
+problem and asked me “How do I solve that?” and he asked me to explain virtual 
+keyword in detail. Also, he asked about overriding in both Java and CPP. 
+• Later they asked declaring array of size 5 and accessing arr[6] in both java and Cpp and 
+asked, "what will happen in both scenario?”. 
+HR + casual chat: 
+• Later some HR questions ,here too... SAAS helped me to tackle some HR classical 
+question like “How do I resolve team conflict?”. 
+• Found out the virtual guy was from MIT, He went on to share his college days 
+experience  and suddenly I realized this part of the interview was longer than all the 
+tough questions combined.  
+• At the end, the interviewers asked: “Do you have any questions?”, I flipped the script 
+and asked: “Where do I see myself at SAP in 5 years?”, they passionately answered 
+(good guy, right?). I literally asked three to four questions as  follow ups.  
+• And At last, I asked about growth opportunities at SAP, got some solid insights. 
+Fortunately, I was selected to the next round. 
+Round-3 HR Round: 
+Finally, the most awaited HR round happened. The guy was literally super chill. He started with 
+the usual family background and some personal questions. Then came the classic: “Why did you 
+switch from Bio-Math to CSE?” yep, third time today. I straight-up said, “Sir, this is the third 
+time I’m answering this today!” He just smiled… and of course, he asked the same qns anyway. 
+Then came the ultimate twister: He asked me, “From all your life experience, give me an idea 
+that will succeed right now, without any investment i.e no time, money, effort, or skills. That 
+must work at that second at that instant.”, I asked what he meant as success in that qns .He 
+said, “Anything!”. I was like “Wait!... what kind of trap is this?”, I tried some random answers, 
+but he is not satisfied, At that point, my brain officially tiried outsourced the question to 
+ChatGPT, but unfortunately, no internet access in interviews. My brain threw a 404: Idea Not 
+Found error. no more ideas clicked, just little more frustration.... Anyway, that question 
+basically owned the entire HR round. And at last, the round ended with me, completely 
+drained and spitting out random ideas, just trying to escape from that trap. 
+Finally, I got selected into that company. HURRAH!!!! 
+Disclaimer: 
+All the above has been toned down to a professional version, removing the humorous elements 
+of my interview. In reality, my interview was much more humorous. Honestly, it felt like all the 
+rounds were HR-oriented, from the very first technical round to the last. I think, it is up to us to 
+decide the flow and direction of the interview.  I cracked many jokes in this interview and 
+surprisingly that worked too.. Pls  Don’t try this at home, these kinds of stunts are depends 
+entirely on interviewers and their personalities, Thank God I had some cool guys. 
+My Advice: 
+My advice to juniors is to approach interviews with a calm and confident mindset. Be chill, 
+Don’t panic, interviews aren’t boss battles in Soul Games, they’re just conversations (well, 
+mostly). Avoid overthinking, and instead, focus on showcasing your passion and consistency, as 
+both are key to long-term success . Be thorough with your resume and ensure you are well-
+prepared to discuss every detail you have included. Confidence, clarity, and composure will 
+help you stand out. Finally, remember that not being selected is not the end there will always 
+be more opportunities ahead. Choose your company wisely. 
+All the best Guys!!! 
+Sakthipriyan V,  
+CEG – CSE’ 26, 
+E-Mail: sakthipriyan417@gmail.com 

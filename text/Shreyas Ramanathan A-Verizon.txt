@@ -1,0 +1,279 @@
+Page | 1 
+ 
+Verizon Data Services India Private Limited 
+Locations: Chennai / Hyderabad / Bangalore 
+Role: Engineer (This is a hiring process that spans across various domains within the 
+organization) 
+About Verizon: 
+Verizon is a global telecom leader driving innovation in 5G, IoT, and cloud 
+technologies. Established in 2001, Verizon Data Services India plays a key role in the 
+company’s global operations, focusing on tech development and business support. With 
+over 7,000 professionals across Chennai, Hyderabad, and Bengaluru, Verizon India is a 
+major innovation hub. 
+READ THIS FIRST!! 
+• 
+Please note that a formal Pre-Placement Talk (PPT) was not conducted for this 
+company. However, they held a connect session during the 6th semester, which is 
+highly recommended as it offers valuable insights into the company and hiring 
+process. 
+• 
+While topics like Generative AI and AI Prompting were mentioned during 
+interviews, I wasn’t asked any AI-specific questions. That said, it’s important to be 
+well-prepared for domain-specific questions, as interviews are based on the 
+domain the company is considering you for (which they will inform you about). 
+• 
+At the time of application, specific roles weren’t disclosed. When I asked during 
+the interview, I was told candidates may get to choose their preferred domain—
+such as SDE, Full Stack, AI/ML, etc. 
+• 
+If the Job Description (JD) doesn’t clearly mention the role, it’s a good idea to ask 
+your interviewer for clarification. It shows initiative and helps align your strengths 
+with the right opportunity. 
+Day 1: Online Assessment (13th Sept 2025) – Virtual Mode 
+Platform: AON 
+Section 1: Essay Writing (15 mins) 
+We were asked to write an essay on the topic: 
+“The spending habits of today's youth are quite different compared to previous 
+generations.” 
+There was a strict word limit — essays below the minimum word count were not 
+evaluated, and exceeding the limit by even one word was not allowed. The test platform 
+featured a real-time word counter, enabling us to monitor our word count as we wrote. 
+The best approach was to write naturally and let the word counter guide the length, rather 
+than stressing about the limit from the beginning. 
+ 
+ 
+Page | 2 
+ 
+Section 2: MCQs on AI (30 mins) 
+This section consisted of 30 multiple-choice questions; all related to Artificial Intelligence. 
+The questions were general and not overly difficult, covering basic AI concepts and 
+applications. 
+There was no negative marking, so I attempted all the questions. It’s advisable to do the 
+same, as there's no penalty for incorrect answers. 
+Section 3: Coding (45 mins) 
+This round consisted of 2 coding questions. 
+Question 1: Given an integer N, determine whether it is GOOGLY or NOT GOOGLY. 
+A number is considered GOOGLY if the sum of its digits is a prime number. 
+Constraints: 
+1 ≤ N ≤ 10^9 
+Examples: 
+Input: 21 
+Sum of digits = 2 + 1 = 3 → prime → Output: GOOGLY 
+Input: 13 
+Sum of digits = 1 + 3 = 4 → not prime → Output: NOT GOOGLY 
+Code: C++ 
+#include<iostream> 
+using namespace std; 
+int main() { 
+    long long N; 
+    cin >> N; 
+    bool primeIdx[82] = {false}; 
+    int primes[] = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 
+61, 67, 71, 73, 79} ; 
+    for( int p : primes ) { primeIdx[p] = true; } 
+    int sum = 0; 
+    while( N > 0 ) { 
+        sum += N % 10; 
+        N /= 10; 
+    } 
+    if( primeIdx[sum]) { cout << “GOOGLY”; } 
+    else { cout << “NOT GOOGLY”; } 
+    return 0; 
+} 
+ 
+Time Complexity: O(82) (for the primes array initialization)  + O(d) (for the while 
+loop)  ≈ O(d), where d is the number of digits in the given number. 
+Space Complexity: O(82) (for primeIdx array) + O(22) (for primes array) ≈ O(1) 
+Question 2: Given an array A of size N, you can perform the following operation any 
+number of times: Select any subarray and replace it with its sum. Your task is to maximize 
+the length of a non-decreasing array after performing such operations optimally. 
+Page | 3 
+ 
+Constraints: 
+3 ≤ N ≤ 10^5 
+1 ≤ A[i] ≤ 10^5 
+Examples: 
+Input: N = 7   
+A = [5, 1, 6, 3, 4, 2, 8] 
+Optimal merge: Merge [1, 6] → 7, [3, 4] → 7, [2, 8] → 10   
+Resulting array: [5, 7, 7, 10] → Length = 4 
+Another valid merge: [5+1] = 6, [3+4] = 7, [2+8] = 10   
+Resulting array: [6, 6, 7, 10] → Length = 4 
+Output: 4 
+Input: N = 5   
+A = [5, 4, 3, 2, 1] 
+Only option to make non-decreasing: Merge [4, 3, 2, 1] → 10   
+Resulting array: [5, 10] → Length = 2 
+Output: 2 
+This is similar to Maximize non decreasing Array size by replacing Subarray with sum in 
+GFG but can be solved using greedy approach. 
+Code: C++ 
+#include <bits/stdc++.h> 
+using namespace std; 
+int main() { 
+int N; 
+cin >> N; 
+vector<long long> A(N); 
+for (int i = 0; i < N; i++) { cin >> A[i]; } 
+long long last = 0, sum = 0; 
+int count = 0; 
+for (int i = 0; i < N; i++) { 
+sum += A[i];   
+if (sum >= last) { 
+count++; 
+last = sum; 
+sum = 0; 
+} 
+} 
+cout << count; 
+return 0; 
+} 
+Time Complexity: O(N)  
+Space Complexity: O(1) 
+Page | 4 
+ 
+Section 4: Vocabulary + Logical Reasoning (Rapid Fire) 
+This was a rapid-fire round designed to test both speed and accuracy. The section was 
+divided into four timed sub-sections: 
+• 
+Logical Reasoning 
+• 
+English Vocabulary 
+• 
+Sentence Completion (Choose the correct word) 
+• 
+Spelling (Identify the correct spelling) 
+Key Details: 
+• 
+Each sub-section had a fixed time limit with a rapid stream of questions. 
+• 
+Some sub-sections included negative marking for incorrect answers. 
+• 
+The number of questions was not fixed — the goal was to answer as many as 
+possible within the time limit. 
+Strategy & Tips: 
+• 
+Attempt all questions in sub-sections without negative marking. 
+• 
+In sub-sections with negative marks, answer only if you’re confident about the 
+correct answer to avoid penalties. 
+• 
+Speed and accuracy are both crucial — stay alert and manage your time wisely. 
+80 students were shortlisted for the next round. 
+ 
+Day 2: (16th Sept 2025) - Venue: CUIC – Offline mode 
+Round 1: Group Discussion 
+Topic: Impact of E-Commerce (Amazon, Flipkart, etc.) and Food Delivery Services 
+(Swiggy, Zomato, etc.) on Society 
+Evaluation Criteria: Fluency, Leadership, Clarity, Validity of Points, Body Language, and 
+Attitude. 
+80 students were divided into 9 teams, with 8 teams of 9 members each and 1 team of 8. 
+We had just 1 minute to prepare without using phones. There were 9 members in our GD, 
+and one recruiter evaluated us. This was an eliminatory round. 
+Tips: 
+• Even with limited prep time, the topics were easy to tackle.  
+• Focus on quality over quantity; ensure your points move the discussion forward.  
+• During our GD, one member’s point was slightly off-topic, but we quickly got it 
+back on track.  
+• It’s important to stay mindful of the discussion’s flow. We made sure everyone had 
+space to contribute, which helped foster good team dynamics. 
+Results were announced immediately. In our team, 7 were shortlisted for next round. 
+Overall, out of 80 students, 55 were shortlisted for next round.  
+Page | 5 
+ 
+Round 2: AI Prompting (Laptop is mandatory) 
+• Immediately after the GD, we were asked to participate in the AI prompting round, 
+which started while the GD for other teams was still ongoing. A Google Form link 
+was sent to our registered email addresses, where we were asked to fill in basic 
+details. 
+• Once we filled the details, we had to select a problem statement from a provided 
+set of options. For the chosen problem, we were required to craft a prompt that, 
+when given to an AI tool like ChatGPT, Gemini, or others, would generate a solution 
+to the problem. 
+• In essence, the task involved submitting both the prompt and the prompting 
+technique we would use to effectively retrieve the solution from the AI tools. 
+• This round was non-eliminatory, but the prompts we submitted would be 
+discussed in the technical interview round, where we would be asked questions 
+about the techniques used in our prompts. 
+• We were allowed to use any AI tools, such as ChatGPT, Claude, etc., to assist in 
+crafting our responses. 
+Round 3: Technical Interview (30 mins) 
+• After the AI Prompting round, I was called for the technical interview. I was lucky 
+to have a very relaxed and polite interviewer, which made the experience 
+enjoyable. 
+• We started with greetings and brief introductions. The interviewer then reviewed 
+my resume and began with the education section. After that, he moved on to 
+discuss my projects, paying particular attention to my Machine Learning project. I 
+explained it in detail, and he followed up with technical questions related to the 
+tech stack I mentioned in the projects. Questions like ReactJS vs. React Native and 
+MongoDB vs. Firebase were asked, and they were fairly easy to answer. 
+• Next, he asked about my skills, starting with my most familiar programming 
+language, to which I said C++. He asked several in-depth questions about C++, such 
+as the types of variables in C++, how to use functions from a class defined in 
+another file, what the Standard Template Library (STL) is, and why one would 
+choose C++ over C. 
+• We then moved on to Object-Oriented Programming (OOP) concepts. He asked 
+questions like the primary benefit of polymorphism and what object slicing is. 
+Afterward, he asked behavioral questions related to the soft skills I mentioned in 
+my resume. 
+• We also discussed my hobbies, which led to a really fun and engaging conversation. 
+• At the end of the interview, he said, “It was really good talking to you,” and asked if 
+I had any questions. I clarified the role I was being considered for and inquired 
+about the company culture. We exchanged goodbyes, and the interview concluded. 
+After waiting for over 4 hours, I was shortlisted for the next round. Out of 55 students, 
+32 were selected to move forward. 
+ 
+Page | 6 
+ 
+Round 4: HR Round (5 – 10 mins) 
+• The HR round felt more like a formality for me. The interviewer greeted me, 
+introduced himself, and instead of asking for a typical introduction, he asked me 
+to explain my resume in detail. 
+• After that, he asked a few questions about my Machine Learning project, followed 
+by why I chose Anna University for my studies and why I wanted to work at 
+Verizon. He then inquired about my family background and my willingness to 
+relocate. 
+• The conversation was quite straightforward, and we wrapped up with mutual 
+greetings, bringing the interview to a close. 
+ 
+After all 32 candidates completed the HR round, we were asked to gather in the mini 
+auditorium at CUIC for the results. While the interviewers discussed the selections, I 
+received an email saying, “Congratulations on your selection!” from Verizon. To my 
+surprise, all 32 of us received the same email. It turns out that everyone who participated 
+in the HR round was selected and offered the position. 
+Insights and Thoughts: 
+• As I mentioned earlier, I wasn’t asked any questions related to AI prompting or 
+Data Structures and Algorithms (DSA) during my interview. In fact, the interviewer 
+didn’t even bring up the AI Prompting round. However, many of my friends were 
+asked detailed questions on AI, prompting techniques, and were even given DSA 
+problems to solve. 
+• So, my strong recommendation is to be well-prepared for domain-related 
+questions, especially in AI, prompting, and DSA, regardless of how your 
+interviewer turns out to be. 
+• My HR interviewer was calm, friendly, and made the interview feel relaxed. It 
+lasted barely 10 minutes. But not everyone had the same experience—another HR 
+was much stricter, asked more intense and stress-inducing questions, and made 
+the interview quite pressurizing for some of my friends. 
+• Be ready to face any type of interviewer—whether they’re calm or challenging. 
+• The overall process was smooth, though the wait time for the final results was a 
+bit long. 
+ 
+Final Tip: 
+• Start preparing for your interviews as early as possible to avoid last-minute stress.  
+• A solid understanding of your resume, projects, technical concepts, and domain-
+related topics can make a big difference. 
+ 
+ 
+ 
+Page | 7 
+ 
+Hope this helps you :) 
+All the best for your interview! 
+Feel free to ping me if you have any questions, 
+Shreyas Ramanthan. A 
+CEG CSE’26 
+Mobile: +91 93456 06005 
+Email: shreyasramanathan2005@gmail.com 
+Linkedin: ShreyasRamanathanA 
+ 
+ 

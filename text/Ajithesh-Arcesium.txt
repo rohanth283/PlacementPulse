@@ -1,0 +1,113 @@
+ARCESIUM INTERNSHIP INTERVIEW EXPERIENCE 2021 – 22 
+Arcesium is a global financial technology and professional services firm, delivering 
+solutions to some of the world's most sophisticated financial institutions, including hedge funds, 
+banks, and institutional asset managers. 
+There were 4 rounds of  selection process, 1 online test (23/08/2021) and 3 technical 
+rounds (27/08/2021) . 
+Online Test :  (80 mins) 
+Platform : HackerRank 
+Section 1 : Aptitude – 15 MCQs (20 mins) : 
+Questions difficulty level ranged from medium to high. This section had negative marking. 
+Section 2 : Technical MCQs – 15 MCQs (15 mins) :  
+Questions were challenging and covered a variety of concepts. This section also had negative 
+marking. Concepts covered :  
+ Predict the output for C++ and java code snippets – based on pointer manipulation in C++, 
+inheritance based questions, interfaces in java. 
+ DBMS – SQL queries 
+ OS – process, memory management, etc. 
+Section 3 : Coding – 2 questions (45 mins) 
+1. Naruto Clan Curse – It is an application of level-order traversal on binary tree, where we 
+have to return the avg of all the unaffected node values from each level. Min value of the 
+extreme nodes of each level is calculated. A node is affected when its value is less than the 
+above min value.  
+2. ATM Change problem – It is a dynamic programming problem. A req amount, preferred 
+denomination and set of available denominations are given. We have to return the number 
+of  ways to make change. 
+Ex : Amount = 1200  Preferred denomination = 500  denominations = [ 100, 200, 500] 
+1. 1200 = 500 + 500 + 100 + 100 
+2. 1200 = 500 + 500 + 200 
+Output : 2 
+ 
+Solution : Modification of  https://www.geeksforgeeks.org/coin-change-dp-7/ 
+ 
+Technical Round 1 : (1 hour) 
+This round was a pair coding round. 
+I was given a backtracking question. First asked to write the pseudo code and optimize it. At last, 
+code it in the language of your choice. 
+Question : Given n x n matrix filled with 1, 2, 3 . Find the path with max reward from src to dest. 
+1 -> move one cell right 
+2 -> move one cell down 
+3 -> movie one step either right or down 
+1 2 1 2 
+3 3 1 2 
+1 2 1 2 
+3 1 1 2  
+Src = (0, 0) 
+Dest = (3, 3) 
+Max reward path = 1 -> 2 -> 3 -> 1 -> 2 -> 2 -> 2 = 13  
+ 
+Technical Round 2 : ( 1 hour) 
+This round assessed the technical skills and projects mentioned in the resume. 
+1. Asked to explain the database design of the DBMS project mentioned in my resume. 
+Discussed about the scalability and potential security issues of the project. 
+2. Several concepts of DBMS such as – Indexing, SQL queries, views – were also discussed as 
+a part of project discussion. 
+3. Brief discussion on several OOPs concepts and Java, as I mentioned Java in my resume, 
+on : 
+ JVM and platform independency of java 
+ Garbage collection in java 
+ Exception handling  
+ Finalize keyword 
+ Virtual functions 
+ Method overloading vs over-riding 
+ Inheritance 
+ Abstract , static in java 
+4. Questions from the following OS Concepts were asked : 
+ Interrupts 
+ Paging & Page fault 
+ Thrashing 
+ Deadlocks and its avoidance ( Banker’s algorithm) 
+ 
+ 
+ 
+Technical Round 3 : (1 hour) 
+I was given few coding questions and come up with an algorithm with specified time and space 
+complexities. 
+Note : Discuss all possible edge cases and efficiency of the algorithm in each case. 
+1. Given an array of n consecutive integers where one of the element is over-written by 
+another element in the array. Now this array is shuffled and find the element being over-
+written with minimum time as possible without any auxiliary space. 
+Ex: A[] = [51, 52, 53, 54, 55] -> [51, 52, 53, 52, 55] -> [52, 55, 51, 53, 52] 
+      Result = 54 , as 52 over-writes 54 
+ 
+2. Given a sorted array where all elements except one element is repeated twice. Find the 
+distinct element with minimum time and O(1) space. 
+Ex : A[] = [1, 1, 2, 2, 3, 4, 4, 5, 5]  Result = 3 
+ 
+3. Given an mathematical expression place the parenthesis such that value of the expression 
+is maximum. 
+Ex : 5*2-4/1+3 
+Ref : https://www.geeksforgeeks.org/all-ways-to-add-parenthesis-for-evaluation/ 
+ 
+Key takeaway and concepts to be covered : 
+1. Prepare “Tell about yourself” as attractive and concise, covering the key points of your 
+resume. Answer confidently and try the questions you don’t know, don’t leave them 
+unanswered. They’ll test your knowledge on the skills you mentioned in the resume, so be 
+clear on those concepts. 
+2. When given a coding question, first explain your intuition and analyze it’s time and space 
+complexities and try to optimize it as much as you can. Feel free to use a pen and paper to 
+solve and also try to approach the problem mathematically if possible. 
+3. DSA – Arrays, Trees, Sorting, Heaps, Backtracking and Dynamic programming – among 
+others. 
+4. DBMS – Database design and relation schema, Indexing and hashing, SQL, Views, Triggers. 
+5. OS – Basics of OS, Process and synchronization, deadlocks, memory management 
+(especially Paging) 
+6. OOPS – Fundamentals, Inheritance types, Polymorphism types, Singleton class 
+implementation (not asked to me, but worth learning). 
+7. Revise some common interview questions on the above mentioned concepts. 
+8. Company archives in GFG gives a prior idea on the online test and technical interviews. 
+Also practice the coding questions asked in the past from GFG Practice. 
+ 
+Regards, 
+Ajitesh M - BE (CSE) – CEG ’23 Batch 
+Contact :  https://www.linkedin.com/in/ajitesh-mahalingam/

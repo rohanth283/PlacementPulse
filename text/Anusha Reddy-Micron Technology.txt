@@ -1,0 +1,106 @@
+ 
+ 
+ 
+               MICRON TECHNOLOGY 
+ 
+Micron Technology, Inc. is an American producer of computer memory and computer data 
+storage including dynamic random-access memory, flash memory, and USB flash drives. It is 
+headquartered in Boise, Idaho. Its consumer products are marketed under the brands Crucial 
+and Ballistix. 
+Number of rounds: 3 
+Round 1: MCQs (Online Test) 
+I have applied for Test Solution engineer Role. 
+MCQs composed of various sections ex: Aptitude, Problem Solving, Semiconductors & 
+Electronics related which includes 8085 Microprocessor, Logic circuits, Gates, Latches, 
+Multiplexers, MOSFET etc. 
+Round 2: Technical Interview (30 min)  
+Two panels interviewed me, one for CSE related questions & other panel for ECE questions 
+1. Introduce yourself. 
+2. Which programming language do you prefer? (I preferred c++, c) 
+3. What’s the use of namespace in c++ programs? 
+4. Maximum length of identifier in C? 
+5. OOPS concepts. 
+6. Distinguish between abstract class and interface? 
+7. Explain the various type of access modifiers? 
+8. Distinguish between Method overloading and method overriding? 
+9. Write a program to print prime numbers up to N. 
+10. Factorial Program. 
+11. Given a code and I was asked to explain the logic (Method overloading) 
+12. Explain about working of PN junction Diode? 
+13. What’s p-type & n-type? 
+14. What do you know about semiconductors?  
+15. MOSFET basics? 
+16. Symbol of MOSFET? 
+17. What do you know about N-Channel & P-Channel? 
+18. Explain any 2 projects from your resume. 
+19. I mentioned an Embedded project in my resume, panel asked me to explain that too. 
+In this round they are about to check your technical knowledge on both programming & 
+electronics also the way of understanding of the given problem statement. 
+And some general questions like, you are from cse background & why Micron? Will you 
+manage electronics related work? What do you know about your role (TSE)? Explain? 
+Do you have any questions??? 
+ 
+Round 3: Managerial + HR (1 hour) 
+Again, two panels interviewed me. It went so long with lots of Technical, Managerial & Hr 
+related questions. 
+Technical: 
+1. Introduce yourself. 
+2. Which programming language do you prefer? (I preferred c++, c) 
+3. What do you mean by Deep copy & Shallow Copy? 
+4. What are Near, Far & Huge pointers? 
+5. Can we have recursive inline function? 
+6. Difference between c & c++? 
+7. Token in c++? 
+8. What is Diamond problem? 
+9. Explain OOPS concepts? 
+10. Explain the term Layman? 
+11. Explain Ohms law? 
+12. What are pentavalent & trivalent impurities? (with examples) 
+13. What is multimeter? 
+14. How to test voltage and power? 
+15. What do you know about DC power supply? 
+16. What are forward & reverse Voltages? 
+17. Explain Current, Voltage, Power in general terms? 
+Managerial: 
+1. Explain your Embedded project in detail? 
+2. How will you explain about voltage, power to your watchman? 
+3. Explain about your role TSE & what are your responsibilities? 
+4. Since my role includes testing, panel asked me some questions related to testing,  
+ex: How will you test working of your project? 
+5. Explain your embedded project code & modules? 
+HR: 
+1. Tell me about your family background? 
+2. Tell me about your interests? 
+3. What is the most challenging part of your life? 
+4. Some questions related to my achievements. 
+5. Do you want to pursue higher studies? I replied No, they motivated me to pursue 
+higher studies. 
+6. Why don’t you tried to join in IITs or NIT college? 
+7. Why Micron? 
+8. Do you have any questions??? 
+ 
+ 
+ 
+Topics to be focussed:  
+• Semiconductors, MOSFET, PN-junction etc 
+• Memories 
+• Basic ECE concepts 
+• Important CSE concepts 
+Take away: 
+Having a good knowledge on CSE & ECE concepts with good programming knowledge will 
+help to get placement in Micron Technology. 
+Be Honest and Confident about what you are saying. For any doubts feel free to contact me. 
+Thank you and All the Best. 
+ 
+Name: Anusha Reddy 
+Mail id: anusha.kota66@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

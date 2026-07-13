@@ -1,0 +1,133 @@
+EUCLOID INTERVIEW EXPERIENCE (Intern + FTE) 
+About the Company: 
+Eucloid is a premier Data/AI organization that leverages state-of-the-art AI and Data 
+Science technologies to deliver high-impact projects. It creates business-critical solutions for 
+Fortune-100 clients and industry leaders across various sectors, including Hi-tech, BFSI, D2C, 
+Healthcare, SaaS, and Retail. Their deep partnerships with leading platforms like Databricks, 
+Google Cloud Platform, and Adobe enables to build and deploy cutting-edge data products 
+and massive-scale data platforms. Their world-class team, composed of professionals from 
+top-tier institutes and leading global organizations, thrives in an environment that prioritizes 
+growth, innovation, and excellence 
+ 
+Total Rounds:  
+1. Online Assessment  
+2. Technical Interview  
+3. Interview with Leadership Team (Technical + HR) 
+ 
+ 
+1. Online Assessment - Virtual : 
+ 
+The first round was an online assessment consisting of 30 multiple-choice questions 
+and 2 coding problems, designed to evaluate candidates’ analytical, logical reasoning, 
+quantitative aptitude, and problem-solving skills. 
+ 
+ 
+• Logical reasoning 
+• Quantitative aptitude 
+• 2 Coding questions -String, Array manipulation -Easy level 
+2.Technical interview: 
+ 
+              All the candidates who attended the online test were invited to the pre-placement 
+talk, where the company representatives provided an overview of Eucloid Data Solutions. 
+The session also featured a virtual appearance by the founder, and we had the opportunity 
+to interact with our seniors currently working at Eucloid. 
+The list of shortlisted students for the technical round was announced at 11:45 AM 
+— out of 150 participants, 32 were selected. My technical interview was scheduled virtually 
+through CUIC at 12:30 PM. 
+The technical interview lasted for around 30 minutes. It began with a brief self-
+introduction followed by a detailed discussion about my projects. Since one of my projects 
+was deployed, the interviewer asked about the tech stack used, the purpose of using Docker, 
+and other related aspects. She then assessed my SQL knowledge with conceptual questions 
+such as: 
+• 
+What is the difference between RANK and DENSE_RANK? 
+• 
+What is the difference between DROP and TRUNCATE? 
+• 
+What is the difference between UNION and UNION ALL? 
+• 
+What is the difference between WHERE and HAVING clauses? 
+I explained each question with suitable examples. 
+Next, I was asked to solve a few SQL queries: 
+1. From the Employees table, find departments where the average salary is greater than 
+70,000. 
+2. Write queries to: 
+o Find the top 3 highest spending customers. 
+o Fetch product IDs without duplicates. 
+o Retrieve the 2nd highest purchase amount. 
+I wrote and explained my answers clearly to the interviewer. 
+The session then moved to the coding section, where I was asked to type and run two 
+programs using an online compiler with different test cases: 
+1. Majority Element – (Moore Voting Algo) 
+Input: [2,2,1,1,1,2,2] → Output: 2  
+2. Longest Substring Without Repeating Characters – (Sliding Window +Hashing) 
+ Input: "abcabcbb" → Output: "abc" 
+I explained my logic step-by-step and demonstrated the correct outputs. Towards the 
+end, I had the opportunity to ask a few questions about the role, and she responded with 
+detailed technical insights. 
+With that, the first round concluded, and a total of 10 candidates were shortlisted 
+for the next round. 
+ 
+3. Interview with Leadership Team (Technical + HR): 
+The final round took place after a day and was conducted by the Senior Director. He 
+began the interview by directly diving into my full-stack project and asked me to share my 
+screen since the project was deployed online. It was a great opportunity to demonstrate my 
+technical and presentation skills. 
+I walked him through each page of the project, explaining the purpose, design logic, 
+and technical reasoning behind every feature. He showed keen interest in the functionalities 
+and was particularly impressed by the customized features we had implemented. 
+After the project discussion, he gave me a Camel and Banana Puzzle. I used MS Paint 
+to illustrate my approach with a diagrammatic explanation. Before I could reach the final 
+answer, he mentioned that he was satisfied with my reasoning and problem-solving 
+approach. 
+Towards the end, he invited me to ask questions, and I took the opportunity to learn 
+more about the company’s operations, clients, and the type of data-driven solutions they 
+provide. 
+This round lasted for about 25 minutes and went very smoothly. 
+ 
+The results were announced two days later, 8 were selected. I’m delighted to share that I 
+was one among them. 
+ 
+RESOURCES: 
+• 
+A2Z DSA Sheet by Striver – for complete data structures and algorithms preparation. 
+• 
+NeetCode 150 – for practicing standard coding problems and improving problem-
+solving skills. 
+• 
+Core Subjects – DBMS, OOPS, Operating Systems, and Computer Networks (refer 
+from GeeksforGeeks). 
+• 
+Be prepared to explain your projects in depth, covering your technical stack, design 
+choices, and challenges faced. 
+• 
+Dry-run DSA questions using pen and paper to strengthen your conceptual clarity. 
+• 
+Maintain concise notes for last-minute revision before the interview day. 
+• 
+Conduct Mock interviews 
+• 
+Above all, stay confident and face every round with a positive mindset. 
+ 
+POINTS TO SAY: 
+This was my 10th interview, and the journey wasn’t easy. I faced several rejections 
+— sometimes because I couldn’t provide an optimal solution to a hard coding question, 
+sometimes due to topics outside my resume, and a few times for no clear reason at all. I’ve 
+been rejected in the first round, the second round, and even after clearing all rounds . 
+There were moments of disappointment, self-doubt, and frustration, but every 
+rejection taught me something valuable. 
+ 
+ 
+ 
+To everyone preparing — remember this: 
+“You didn’t come this far to only  come this far.” 
+Keep believing in yourself, trust the process, and never give up. 
+There’s always something greater waiting ahead  
+ 
+Reach out: 
+SANDHIP SURIYA K S, 
+2022506100, 
+Information Technology, 
+MIT-Anna University. 
+mailto:sandhipks@gmail.com 
+LinkedIn 

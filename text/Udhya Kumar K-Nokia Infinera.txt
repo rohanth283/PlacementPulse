@@ -1,0 +1,64 @@
+Nokia-Interview 
+ 
+Date : 21-08-2025(Thursday) 
+Place : CUIC, CEG 
+ 
+PPT – Congnizant Auditorium, CUIC 
+Online Test – Rusa Lab CUIC – 20-08-2025(Wednesday) 
+Round 1 – Technical Round 
+Virtual Interview Connected to a Interviewer via Teams.  
+How are you? 
+Tell me about yourself. 
+Asked me to send resume in chat box in team. (Always keep resume in lap and mobile) 
+Which language ? I know C,C++,Java. I am currently using C++ for DSA. So I am strong with C and C++. 
+(Always include Java . But tell him in which language you are most comfortable with) 
+What is OOPs( Short and Crisp answer is required) 
+Asked me to present screen but permission is not given I asked him to give permission. He asked me 
+to give request but in teams we can’t request permission. So I informed. Then I said shall I type and 
+send in Chat. He said ok. 
+DSA Question :  Reverse of Linked List (While typing explained him the logic – This is very very 
+important) 
+NOTE:- If the interviewer gave any DSA question and ask to code. First say the logic and then while 
+writing on paper or typing open your mouth and say what each line does.  
+Eg. ListNode *prev=nullptr, *curr=head, *next=nullptr.    => I am initializing pointer. Prev for storing 
+previous node’s address, curr for current node’s address and next for next node’s address. 
+What is polymorphism ? 
+What is virtual function in c++? 
+What is signal handlers? 
+ 
+Round – 2 Technical Face to Face  
+Do you know about Binary Tree? Ans: Yes 
+Asked me to implement Binary Search Tree as Class 
+(He asked me to define struct Node and then class BST (function need to declared only and definition 
+should be outside the class ) He helped me with syntax for writing function outside the class. ) 
+I explained first insert function . Then started to write. As I write I explained him the logic. I made 
+small small mistakes he corrected me. Then I explained delete fuction logic saying three cases. I 
+wrote little .He asked what will you for deleting node with two parent. I  explained like swap left 
+subtree bottom right node’s value with current node’s value or right subtree bottom left node’s 
+value with current node’s value and then delete that node.    
+He gave clue for getting the terms he expected, he asked what are traversal available . I said inorder 
+preorder postorder. Then I added in BST inorder traversal give sorted sort. So when deleted a node 
+with two parent swap Inorder predecessor or Inorder successor with curr node.  
+I wrote 5 to 7 lines he stopper as time was going. Saying I know you can write with little help. 
+What is size of pointers ? In 32-bit => 4 bytes    In 64-bit=>8bytes(learn reason also) 
+What is static typecasting and dynamic typecasting ( I know typecasting but not this) and some 
+question like auto keyword(answered half) 
+Interviewer: You know the concepts . You have to brush Up it. 
+ 
+Note:  
+In Pen paper round , write code explaining the logic also simultaneously. Then will be checking how 
+clear are you in logic and communication. Do not take the pad yourside sit write and show him. 
+ 
+HR Round:- 
+Tell me about yourself. 
+Background 
+How did you came to this college. Whether have you written any entrance exam? => I explained 
+about cutoff calculation in 12th mark. 
+About Hackathon experience. 
+What is the reason behind other team winning hackathon. 
+Will to relocate to Bengaluru?  
+Do you have question for me ? Yes (Always ask some question) 
+I asked how did you get this job 
+Thank (I gave her handsake ) 
+ 
+ 

@@ -1,0 +1,118 @@
+My SAP LABS Interview Experience: 
+About SAP LABS: 
+SAP (Systems, Applications, and Products in Data Processing) is a global leader 
+in enterprise software, best known for its ERP solutions that help businesses 
+integrate and manage core processes like finance, supply chain, HR, and 
+customer service. Headquartered in Germany, SAP operates in over 180 
+countries and enables organizations to run efficiently, sustainably, and 
+intelligently 
+Role:Developer Associate 
+ 
+ 
+1st Round – Online Test 
+The first round was an online coding assessment consisting of two questions: 
+1. An array-based problem 
+2. A tree-based problem 
+Both were of easy to medium difficulty level. 
+ 
+2nd Round – Technical Interview (Round 1) 
+From the test, about 90 candidates were shortlisted for the interviews. 
+My slot was late in the day, and I was called around 4:20 PM. The panel had 
+two members. 
+Flow of the Interview 
+• Self-Introduction 
+• Project Discussion 
+o Explained my project. 
+o Questions on which data structures I used and why. 
+o Asked to normalize an ER diagram from my DBMS project. 
+• DSA Questions: 
+1. 
+Merge point in a linked list 
+2. 
+Most frequent letter in a word 
+• Puzzle: 8-ball puzzle 
+• Club Activities: Questions about my involvement 
+• SQL Queries: 
+1. 
+Using subquery 
+2. 
+Using joins 
+• My Questions to Panel: 
+o What are the skills an intern can learn at SAP? 
+o How does a regular day look like at SAP? 
+  Duration: ~50 minutes 
+Takeaways: 
+• Communicate with clarity and confidence. 
+• Keep answers simple; don’t exaggerate (interviewers ask follow-ups 
+based on your words). 
+• Be thorough with your projects, as most questions revolve around them. 
+ 
+3rd & 4th Rounds – Technical + Behavioral Combined 
+Since my previous round ended late, my second technical and behavioral 
+rounds were combined into one long session (~90 minutes). 
+Panel 
+• Senior Architect 
+• Manager 
+Flow of the Interview 
+• Self-Introduction 
+• Project Discussion 
+o Explained workflow and security aspects. 
+o Asked to draw and normalize an ER diagram for another project 
+(not the one I had prepared). 
+• Technical Questions: 
+o API-related concepts 
+o One SQL query 
+o DoS attack 
+o SQL Injection 
+o OOPs concepts (4 pillars) 
+o Java (multithreading, garbage collection) 
+o Indexing 
+o Deadlock 
+• Behavioral Questions (by Manager): 
+o “You say you’re a quick learner and adaptable—can you share a 
+situation to prove this?” 
+o “Tell me about your journey so far.” 
+o Teamwork-related questions 
+o Work-life balance questions 
+Takeaways: 
+• Technical: Strong grasp of core concepts (DBMS – especially 
+normalization, CN, OOPs, SQL). 
+• Behavioral: Be honest and always back answers with real-life examples. 
+ 
+5th Round – HR Interview 
+The final round was the HR round, which lasted about 20 minutes. 
+Flow of the Interview 
+• Self-introduction 
+• Questions about extra-curricular activities 
+• “Why SAP?” 
+• “What is SAP?” 
+• Discussion on package 
+• “What will you do if we don’t select you?” 
+• Since I mentioned reading books, he asked: “What was the last book you 
+read?” 
+The HR ended with a friendly note: “Let’s cross our fingers and hope for the 
+best.” 
+Takeaways: 
+• Be genuine and positive in your responses. 
+ 
+Final Result 
+Out of 90 candidates, only 10 were selected—and I’m grateful to be one of 
+them.   
+ 
+Overall Key Learnings 
+1. Confidence + Communication are as important as technical skills. 
+2. Don’t overcomplicate or exaggerate—simple and clear answers work 
+best. 
+3. Be well-prepared with your projects and core subjects (DBMS, OOPs, 
+SQL, CN, DSA). 
+4. For behavioral rounds, answer honestly with examples from your 
+experiences. 
+My Details 
+Name: Tamilselvan V 
+Roll No: 2022506070 
+Batch: 2026 
+Department: Information Technology 
+College: Madras Institute of Technology (Anna University) 
+linkedin:  
+https://www.linkedin.com/in/tamilselvanv6070/ 
+ 

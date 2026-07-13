@@ -1,0 +1,78 @@
+CITI CORP 
+Citigroup Inc. or Citi is an American multinational investment bank and financial services 
+corporation . 
+Citicorp Finance (India) Limited (CFIL) is Citigroup's flagship non-banking finance entity 
+providing Commercial Vehicle Loans, Construction Equipment Loans, Loan Against Securities 
+and Trade Advances. 
+There are four domains for which the company usually hires .So the students get a chance to 
+attend all the domains’ interview so as to test his/her ‘s ability in that particular domain . 
+ 
+Students who had a cgpa of above 9.25 were shortlisted for the interview process for internships. 
+ 
+Domain : Enterprise Technology Solutions (Technical Domain ) 
+ 
+Round 1: 
+ 
+1) Tell me about yourself . 
+ 
+2) What are the programming languages you are familiar with ? 
+ 
+3) Tell me about your projects . 
+ 
+4) Given a scenario and asked to write a query .( Using JOIN ) 
+ 
+5) OOPS concepts . 
+ 
+6) How is a program complied ( OS ) 
+ 
+ 
+Round 2: 
+ 
+1) Given a program and asked to come up with a solution  .( Basic array program ) 
+Intersection of two arrays (All cases should be handled ) 
+ 
+2) Data structure used to get the rank’s of student . 
+I asked on what situation will this function be used and explained about the different Data 
+Structures .It’s Pros and cons ( Sorting , Heap  etc ) 
+ 
+3)Working of a heap with an example ( Not programmatically ) 
+ 
+4) Do you have any questions ? 
+ 
+HR : 
+ 
+1) Introduce yourself 
+ 
+2) Strength and weakness . 
+ 
+3) Questions from resume  ( Hobbies , About the events I participated ) 
+ 
+4) Do you have the plan of studying further ( Higher studies ) ? (NO) 
+ 
+5) Why Citi ? 
+ 
+6) Questions if any ? 
+Always be prepared with two or three questions to ask your interviewer . 
+ 
+ 
+Topics to be covered : 
+ Data Structures 
+ Operating Systems  
+ Database and Management Systems  
+ 
+Be thorough in your resume ( DO NOT LIE ) 
+ 
+Take away : 
+ 
+Once you are offered an internship you will be asked to work for two months and based on your 
+performance you will be given a Pre Placement Offer . 
+ 
+Get your basics strong and  be confident while talking to the interviewer .Stay confident . 
+ 
+All the best ! 
+ 
+Name : Divya S 
+E Mail : divyasaravanan0327@gmail.com 
+ 
+ 
+ 

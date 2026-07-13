@@ -1,0 +1,126 @@
+BANK OF NEW YORK MELLON 
+FTE INTERVIEW EXPERIENCE 
+ 
+ABOUT THE COMPANY: 
+ 
+The Bank of New York Mellon Corporation, commonly known as BNY Mellon, is an American 
+multinational investment banking services holding company headquartered in New York City. It is by 
+far the world's largest custodian bank and asset servicing company. It provides investment 
+management, investment services and wealth management helping institutions and individuals 
+succeed in markets all over the world. BNY Mellon Technology Private Limited, established in 2000, is a 
+group company of BNY Mellon operating in India, providing technology solutions to the bank. The 
+Technology division has over 13,000 professionals, working across nine innovation centres worldwide, 
+to deliver innovative technology solutions powering BNY Mellon business. 
+ 
+      You can know more about the company at this website:       https://www.bnymellon.com/in/en.html 
+ 
+ 
+Number of Rounds: 4 
+ 
+1. Online Coding Assessment (90 mins) 
+2. Technical Interview I (60 mins) 
+3. Technical Interview II (45 mins) 
+4. HR Interview (60 mins) 
+ 
+Round 1: Online Coding Assessment: (90 mins) 
+The online coding round consisted of 4 programming problems to be solved in 1 hour 30 mins. 
+The test was conducted on Hackerrank platform. The problems were of different difficulty levels(1 easy, 
+2 medium and 1 hard). The questions were as follows: 
+Easy problem: (Distinct digit numbers) 
+Print the numbers with unique digits in a given range (x, y) x and y inclusive. Time 
+complexity was a factor to note while solving this. I solved it partially (8/12 testcases passed). I 
+wasn’t able to optimize my solution and that’s why the 4 testcases got time limit exceeded. 
+ 
+Medium problem 1: (Slot machine 2.0) 
+ 
+I solved this completely. 
+ 
+Medium problem 2: 
+Given 3 coordinates (a, b, c) in a plane, check whether they form a triangle (It’s a 
+triangle if the following conditions hold...|ab + bc| > |ac|, |ac + ab| > |bc|, |bc + ac| > |ab|). 
+Check whether the points P and Q lie on the triangle formed. Return a number as per the 
+below mentioned conditions: 
+0 - If the points form a triangle and P, Q doesn't lie on the triangle 
+1 - If only P lies on the triangle 
+2 - If only Q lies on the triangle 
+4 - If both P and Q lies on the triangle 
+5 - If the triangle cannot be formed by (a,b,c) 
+ 
+ 
+I solved this completely. 
+ 
+ 
+Hard problem: (Bit profit) 
+ 
+I was not able to solve this but I identified an edge case and returned the 
+corresponding value for the same (2/15 testcases passed). 
+ 
+Candidates who solved at least 2.5 questions were shortlisted for the next round. (22 were shortlisted 
+for the next round) 
+All the interview rounds were Face to Face and held at CUIC. 
+  
+Round 2: Technical Interview I (60 mins) 
+ 
+The interview started with my self-introduction. And then the interviewer tested the 
+knowledge of my fundamental data structures and OOPs. Concepts from arrays, linked lists, stack, 
+queues and strings were asked. Then, the interviewer asked me to solve an easy level coding question 
+both iteratively and recursively. Then, the interviewer asked fundamental questions from DBMS. 
+Questions like, how APIs work and how Google search works were asked. The interview ended with 
+questions based upon projects listed in my resume. 
+ 
+Round 3: Technical Interview II (45 mins) 
+The interview started with my self-introduction as before. The interviewer tested the 
+knowledge of my fundamental data structure and OOPs. Then, the interviewer asked fundamental 
+concepts from DBMS and some queries for a given table. He gave me two tables and asked me to 
+write queries for the scenarios given. He asked me to explain my projects which I had put in my 
+resume and also asked me some questions about the projects. He asked to explain how I normalised 
+the tables of the database at each step in my project with diagrams. Couple of easy coding questions 
+were asked and I solved both.  
+ 
+ 
+Round 4: HR Interview (60 mins) 
+ 
+The interview started with questions based upon my skills listed in the resume. He asked what 
+skills I acquired as part of the curriculum and what I learnt at my own interest. He also asked how did I 
+learnt the skills which I listed as learnt at my own interest. Following this, typical HR questions were 
+asked. Some of them are: 
+ What challenges you faced in past 6 months and how did you overcome them? 
+ Did any conflict/misunderstanding arised between you and your teammate while doing the 
+project and how it was resolved? 
+ Are you praised by your surrounding people for your qualities? If so, what are those? 
+ What did you learn apart from your college curriculum and what made you to learn it? 
+ What do you do in your free time? 
+ What do you know about BNY and why BNY? 
+ 
+A behavioural question was asked after this. A hypothetical situation was given and he tested how 
+would I react for the same. The situation is described as, I am a fresher who is part of a team comprising 
+of 10-12 members. The team is so unresponsive that I wasn’t able to clear my doubts. None of them 
+listens to my grievances and if some listened, no proper response was coming from them. 
+After this a puzzle was asked to test my lateral thinking. The link to the puzzle is: 
+https://www.geeksforgeeks.org/puzzle-18-torch-and-bridge/ 
+ 
+ 
+12 people were given the FTE offer. 
+ 
+ 
+ 
+General Tips: 
+ Practice regularly on any of the coding platforms. 
+ Try to complete Must Do Coding questions from GFG. 
+ Familiarise with data structures and algorithms. 
+ Concentrate on DBMS and OS too. 
+ Have 2-3 solid projects. Self-Interest projects might be more helpful than subject related 
+projects. 
+ 
+Be ready to answer any type of questions based on your resume. 
+ 
+Explain your thoughts while solving problems in technical interviews. 
+ Try to give real life incidents as an example to the questions asked in HR interviews. 
+ 
+Do not over-familiarize yourself with standard problems. 
+ 
+ 
+ 
+This is Barathraj T from CSE, CEG (Batch 2023). If you have any queries, you can ping 
+me at https://www.linkedin.com/in/barathraj-t. 
+ 

@@ -1,0 +1,162 @@
+Citi CSC Intern Interview Experience ‘23 
+ 
+About the company: 
+Citigroup Inc., commonly known as Citi, is indeed an American multinational investment bank and 
+financial services corporation. Its headquarters are in New York City. Citi operates globally, offering a 
+wide range of financial products and services to individuals, corporations, governments, and 
+institutions. 
+ 
+Citi also has a presence in India and operates under the name Citi India. In India, Citi has established 
+Citi Solution Centres, which are specialized centres focused on technology, processing, analytics, and 
+financial processes. These solution centres play a crucial role in supporting Citi's operations and 
+providing various services to its customers. 
+ 
+Citi's presence in India reflects its commitment to leveraging global talent and resources to deliver 
+innovative solutions and efficient services to its clients worldwide. 
+ 
+Number of rounds: 3 (After shortlisting of candidates above 8.5 CGPA by CUIC)  
+1) Online Test  
+2) Technical Interview 
+3) HR Interview 
+ 
+ONLINE ASSESSMENT: 
+ 
+Platform: SHL AMCAT 
+The test has few basic requirements: 
+ 
+A Personal Computer / Laptop. 
+ 
+A Webcam connected with the System (Not required in case of Laptop with functional in-
+built Webcam) 
+ 
+Smooth and uninterrupted Internet connectivity (throughout the testing session) 
+ 
+Duration of Assessment: 2 Hrs 
+ 
+The online assessment had 2 sections: 
+ 
+APTITUDE SECTION 
+ 
+CODING SECTION 
+45 mins of Aptitude questions- 
+In my experience, the aptitude questions in the assessment ranged from easy to medium difficulty. I 
+found that calculating values and solving expressions took up a significant amount of time, making it 
+a time-consuming process. What I noticed was that logical-based questions required careful 
+attention because even though the question itself seemed easy; the answer options could be quite 
+tricky. 
+Do not spend too much time on a single question. It's crucial to manage time effectively and not get 
+stuck on challenging questions. Instead, make it a point to move on to the next question (Note You 
+can't come back to unmarked question again) 
+ 
+What surprised me was that the aptitude round carried equal weightage as the coding round, 
+highlighting its importance in the overall evaluation process. So, it's essential to prepare well for the 
+aptitude section to maximize the chances of success. 
+ 
+75 mins of coding questions- 
+This section contained 2 questions. We could choose to code them in our preferred languages (Java / 
+C++ is suggested) 
+ 
+1. Program to Print the Trapezium Pattern: Given ‘num’ which indicates number of lines. The task is 
+to print a trapezium pattern in num lines. (Program to Print the Trapezium Pattern - GeeksforGeeks) 
+2. Couldn't recollect the question: something related to map.  
+ 
+The questions were of easy difficulty, and I was able to pass all test cases in first question and 3-5 test 
+cases in second question using brute force approach. 
+ 
+TECHNICAL INTERVIEW: 
+In my experience, this round was a face-to-face interview conducted physically at CUIC and lasted for 
+30 minutes. From Anna University, a total of 48 students, including myself, were shortlisted for this 
+round. We were divided into four groups based on our domains: FXLM, Risk, Support, and TTS. I was 
+assigned to the FXLM domain interview. 
+ 
+The interview commenced with the standard question of introducing myself. I understood that the 
+answer I gave would create the first impression about me. Therefore, I decided to present my 
+introduction in the form of a short story. I explained how I ended up pursuing computer science 
+engineering at CEG after studying biology in school, why I chose this field, what I have learned from 
+it, and shared my interests. 
+ 
+During the interview, I was asked about how I managed to understand computer science concepts 
+and subjects despite having no prior knowledge before joining college. I shared my experience of 
+how my first year of college was quite challenging, and I had to find ways to grasp the concepts. I 
+explained that I sought guidance from seniors and actively engaged in projects for each subject, 
+which allowed me to gain a practical understanding of the topics. Implementing the concepts 
+practically helped me comprehend them better. 
+ 
+The interviewers also inquired about my projects, which I realized was an important question in the 
+Citi intern interview. They were not solely interested in assessing my technical skills but also wanted 
+to know about the innovation I brought to the projects and my knowledge of the languages, 
+frameworks, and stack used. They emphasized how I collaborated with my teammates and 
+showcased my leadership skills. I highlighted two high-quality projects that I could confidently 
+present on my resume and to the interviewers. 
+ 
+Additionally, I was asked about a few object-oriented programming concepts and database 
+management system concepts, although I couldn't recall the exact questions. Lastly, they presented 
+me with a puzzle to solve. The puzzle involved placing ten balls in five lines in a specific manner 
+(referring to the link: https://www.geeksforgeeks.org/puzzle-10-balls-in-5-lines/). 
+ 
+Towards the end of the interview, they gave me an opportunity to ask any questions I had, and then 
+the interview concluded. 
+ 
+HR ROUND: 
+ 
+I am unable to explain about this round cause I had only 2 minutes of HR Round. The 
+interviewer asked me to tell him about myself and asked me to leave : ). 
+ 
+IMPORTANT TIPS: 
+ 
+I have limited experience preparing for coding questions on coding platforms, and I consider 
+myself fortunate to have received an easy question in my coding round. You can refer to the 
+experiences of my other friends for more insights. 
+ 
+ 
+When it comes to the aptitude round, it's important to practice time management by 
+keeping track of the time taken to solve each question. Look for websites that offer aptitude 
+questions and try to understand the underlying logic behind the solutions. 
+ 
+ 
+Having a basic understanding of data structures, algorithms, computing complexities, and 
+related concepts is beneficial. 
+ 
+I recommend solving coding questions in Java or C++ rather than C or Python. It's often 
+helpful to initially attempt a brute force method for coding questions, as it can satisfy most 
+test cases. If you have no idea how to solve a problem, try hard coding specific solutions to 
+satisfy the test cases. 
+ 
+ 
+It's advantageous to have at least two solid projects that can enhance your resume. Ensure 
+you have an in-depth understanding of your projects, including the problem statement and 
+any novel aspects of your solutions. 
+ 
+ 
+When preparing your resume, aim for a minimalistic approach. Include details that you are 
+confident about and can answer during an interview. Order your projects and programming 
+languages based on your level of confidence and knowledge. Avoid lying about any 
+information on your resume and refrain from including things you are unsure about. 
+Additionally, include any relevant extracurricular activities. 
+(https://drive.google.com/file/d/1GxYBY-
+Wbn63foJq2PDWRysVOUvxCQv8Q/view?usp=sharing) 
+ 
+ 
+Before the interview, review last-minute preparation materials and frequently asked 
+questions on object-oriented programming, database management systems, operating 
+systems, data structures and algorithms, and popular puzzles. 
+ 
+ 
+In Citi, the right attitude matters more than just technical skills. Be confident and 
+demonstrate a willingness to learn and admit when you don't know something. Instead of 
+simply saying "I don't know" to unknown questions in an interview, try to respond in a 
+constructive manner. It's beneficial to have some knowledge about the company, the 
+domain, and the role you are interviewing for at Citi. 
+ 
+ 
+Lastly, it's worth noting that Citi is considered one of the easier companies to secure an 
+internship with. They don't solely focus on technical skills. Stay confident and relaxed 
+throughout the process. 
+ 
+Don’t worry too much about the intern drive or give up in the middle. Sometimes luck plays a crucial 
+role, and you will land up in a better place at right moment. All the best!! 
+ 
+Feel free to reach out: 
++91 9790925246 
+surendirabalaji.n@gmail.com  
+ 

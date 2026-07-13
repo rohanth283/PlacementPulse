@@ -1,0 +1,101 @@
+APPIAN INTERN INTERVIEW EXPERINCE 
+ 
+Appian (pronounced App-ian) Corporation is an American cloud computing and enterprise 
+software company headquartered in McLean, Virginia, part of the Dulles Technology Corridor. 
+The company sells a platform as a service (PaaS) for building enterprise software applications. 
+It is focused on lowcode development, process mining, business process management, and 
+case management markets in North America, Europe, the Middle East, and Southeast Asia. 
+Appian offers a lowcode platform with a visual interface and pre-built development modules. As 
+with other low-code platforms, it enables businesses to create apps and automations using little 
+or no code. 
+ONLINE ASSESSMENT: 
+The online assessment was held in glider.ai virtually and we had to solve 3 questions in 1 hr. 
+Question 1: 
+You will be given a set of paths where each path consists of a set of strings representing a path 
+to a particular page starting from the ‘Main’ (homepage) element. You need to construct a tree 
+representing every path given as input. The root node will be the ‘Main’ element. Finally print it 
+out as per the required format. (Breadcrumbs problem) 
+Sample input: 
+ arr = [[‘Main’, ‘Dashboard’, ‘Settings’], [‘Main’, ‘Profile’, ‘Uploads’], [‘Main’, ‘Dashboard’, 
+‘Products’], [‘Main’, ‘Profile’, ‘Remove], [‘Main’, ‘Manager, ‘Work’], [‘Main’, ‘Manager, ‘Review’]] 
+Expected Output: 
+Main 
+  -Dashboard 
+    -Settings 
+    -Products 
+  -Profile 
+    -Uploads 
+    -Remove 
+  -Manager 
+    -Work 
+    -Review 
+Question 2: 
+Tickets are sold to a concert in a particular order. The number of tickets, the step size, and the 
+offset will be given. Number of Tickets: This is the total count of tickets available for the concert. 
+Step Size: This is the number of tickets to skip before selecting the next ticket. For example, if 
+the step size is 3, every fourth ticket will be chosen. (It can also be a negative number.) Offset: 
+This is the starting position from which the ticket selection begins. It can be thought of as the 
+initial position in the sequence of tickets where the process starts. The challenge is to generate 
+a sequence of ticket numbers based on these parameters, reflecting the order in which tickets 
+are sold.  
+It is a variant of the famous Josephus problem but with negative step. 
+Question 3: 
+You are provided with a list of group names and a list of people belonging to each group. 
+Additionally, you are given an array of strings representing individuals standing in a line. The 
+task is to reorder the array such that:  
+1. If a person from a group is in the line, all other subsequent members of the same 
+group should move to stand next to each other in the order they appear. 
+ 2. Once all members of a group are adjacent, replace their names with the group name. 
+ 
+I was able to solve all 3 questions within 1hr. 22 people were selected for interview. 
+INTERVIEW: 
+Technical Round 1:  
+This was a pair programming kind of round that happened for all students from CEG, but it was 
+skipped for some students from MIT including me. 
+ 
+Technical Round 2:  
+This was a mix of technical and behavioral. As I had mentioned aspiring web developer in my 
+resume, I was asked about what happens when an URL is typed in the browser. Then to name 
+some data structures and their real-life examples completely away from computers. Then I was 
+asked what my favorite subject was in general and in computer science and why. I explained 
+why math was my favorite and why theory of computation was my favorite. Then, my favorite 
+programming language and why. I said Scala and I was asked to list out its characteristics and 
+about functional programming. Then, I was presented with a list of problems  
+●​ identify the odd ball among eight balls, where seven balls were of the same weight, and 
+one was either heavier or lighter. The challenge was to find the odd ball using a balance 
+scale with just two weighings.  
+●​ Pseudocode to distribute a total value according to weights in an array 
+●​ Bubble sort and its complexity 
+●​ Paranthesis matching 
+Following that I was asked about OOPS concepts and if I had used them in any of my projects. 
+And then I was asked to explain what was the favorite project I did and why I chose Appian. 
+Finally, I was given an opportunity to ask questions in general or about Appian. 
+Behavioral Round:  
+This round was with two interviewers. I was asked some basic questions regarding my 
+academics and personal background. Here too I was asked about favorite subject, programming 
+language and why. Here it was more in detail with multiple follow-ups to my responses. I was 
+then asked to compare Python and Scala. Then, I was asked what was my favorite project 
+(Turing Machine simulator) out of those I put in my resume and the motivation behind it. Then, I 
+was asked why I chose Appian. They remarked that I seemed more research-oriented and why I 
+wanted to get into software development. Finally, I was given an opportunity to ask questions. 
+ 
+In the end, 5 of us (4 of us from CEG and 1 from MIT) got selected for the position of Software 
+Engineer Intern. 
+ Tips: 
+●​  Enhance your problem solving skills so that when faced with any problem in the wild, 
+you can solve it without asking what species it is. 
+●​ Be sincere and honest. Don’t express interest in a topic either when asked or in the 
+resume because it would sound good. Mention what you really like so that you can 
+speak more confidently. 
+●​ Stay true to your interests. If your projects are aligned with your interests, it would give 
+the impression of genuine interest. 
+●​ In subjective questions like project related or favorite subjects, there is no right or wrong. 
+Be confident. 
+●​ Listen to the pre-placement talk carefully and try to learn as much as possible about the 
+company. This can help you answer why you chose the company.  
+●​ Prepare questions for the interviewers if possible. 
+ 
+All the very best, 
+C. V. Venkata Ramana Rao 
+venkatraocv2005@gmail.com 
+8072759704 

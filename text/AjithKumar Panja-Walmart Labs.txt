@@ -1,0 +1,71 @@
+WALMART LABS 
+ 
+Walmart Labs is the technology arm of Walmart reimagining retail for our 
+260 million daily shoppers. Our teams of engineers, designers, and product 
+leaders are experimenting for a smarter future—where online and in-store 
+shopping is an interconnected, consistent, and customer-first experience. 
+Round 1 (ONLINE CODING TEST) 
+• 25 MCQs 
+• 1 Coding Question - Maximum Absolute Difference 
+https://www.geeksforgeeks.org/maximum-absolute-difference-value-index-sums/ 
+ 
+Round 2 (TECHNICAL ROUND 1) 
+1) Array with both positive and negative numbers are given. 
+Arrange negative numbers to left and positive numbers to right in their order of 
+occurance 
+Eg: -3 4 -5 -7 2 3 6 
+Output: -3 -5 -7 4 2 3 6 
+ 
+2) Given a tree convert it to its Mirror Image. 
+Eg:  
+   1 
+  /  \ 
+ 3    2 
+     / \ 
+    5   4 
+Output: 
+    1 
+   /  \ 
+  2    3 
+ / \ 
+4   5 
+ 
+ 
+3) Puzzle: 
+3 Switches and 3 Bulb 
+https://www.geeksforgeeks.org/puzzle-7-3-bulbs-and-3-switches/ 
+ 
+Round 3 (TECHNICAL ROUND 2) 
+1) Define OOPS in Java 
+2) Write an example for Runtime Polymorphism 
+3) 2 SQL Queries for Tables given 
+4) Reverse Linked List in group of 3 
+https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/ 
+5) Merge two sorted Linked Lists 
+https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/ 
+6) 4 Tyres and 1 Spare Tyre Puzzle 
+https://www.geeksforgeeks.org/puzzle-29-car-wheel-puzzle/ 
+7) DFS of a Graph 
+https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/ 
+ 
+Round 4 ( MANAGERIAL ROUND) 
+1) Tell me about Yourself 
+2) Asked me about different parts of my Resume 
+ 
+Round 5 ( HR ROUND) 
+1) Asked me about my projects 
+2) Asked me what I would do if my teammates don't agree with my point 
+3) Location Preference 
+ 
+TOPICS TO BE FOCUSED 
+Data Structures, OOPS, DBMS, OS 
+ 
+ 
+ 
+TAKE AWAY 
+Read as many interview experience as possible for the particular company that you are 
+appearing. Geeksforgeeks is the Bible for Placements. 
+ 
+Name: AjithKumar Panja 
+Email: ajithkumarpanja@gmail.com 
+ 

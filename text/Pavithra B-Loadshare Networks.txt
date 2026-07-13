@@ -1,0 +1,126 @@
+LOADSHARE INTERVIEW EXPERIENCE 
+ 
+About the Company 
+LoadShare Networks is one of India’s fastest-growing logistics technology companies, founded in 
+2017 and backed by reputed investors such as Tiger Global, Matrix Partners, BII, Stellaris, and others. 
+The company provides scalable and tech-driven solutions across multiple domains including Quick 
+Commerce (Blinkit, Zepto, BBNow), Food (Swiggy, Zomato), Hyperlocal services (Apollo, Licious), 
+Grocery (Reliance, Spencers, ONDC), eCommerce (Flipkart, Amazon, Meesho, ShipRocket), and 
+Bike Taxi (Uber, Ola). 
+With coverage in over 500+ towns, handling ~500K orders per day, and a fleet of 20K+ riders, 
+LoadShare leverages a strong technology platform to optimize logistics across multiple use cases. The 
+company continues to innovate in supply chain SaaS platforms, powering over 1M+ shipments per 
+day. 
+ 
+Online Assessment (Virtual) 
+The selection process began with an online assessment consisting of two rounds: 
+1. Round 1: Aptitude and Technical MCQs (60 questions – 60 minutes) 
+o 
+This included questions on quantitative and analytical aptitude, logical reasoning, and 
+computer science fundamentals. 
+59 candidates were shortlisted for the next round of OA. 
+2. Round 2: Coding (2 problems – 40 minutes) 
+o 
+Two coding problems were given: 
+▪ 
+Problem 1: Find and print the most frequent vowel in a given string. 
+▪ 
+Problem 2: Given a string of digits, find the length of the longest even-length 
+substring such that the sum of the first half and second half digits are equal. 
+I was able to solve both problems successfully, and all test cases passed. 
+ 
+20 candidates were shortlisted for the interview. 
+ 
+Interview Rounds (Offline at CUIC) 
+Technical Round (1 hour) 
+• 
+Started with project discussion. I was asked to: 
+o 
+Explain the schema in the backend, 
+o 
+Describe the functionality and working of my project, 
+o 
+Additionally, I talked about the architecture patterns I used. I explained DAO and 
+MVC (which I applied in my projects).  
+• 
+SQL problem testing JOINS and UNIQUE constraint concepts, followed by a related query 
+question. 
+• 
+Two coding challenges: 
+▪ 
+Extract all substrings with non-repeating characters from a given string.(I 
+wrote the solution code for this and explained my approach) 
+▪ 
+Generate all valid IP addresses from a given string of digits (I explained the 
+approach and time/space complexity). 
+• 
+Questions on Java concepts like Garbage Collection and Wrapper Classes. 
+• 
+Difference between pass by value and pass by reference. (I explained and differentiated these 
+with an example) 
+He asked me if had any questions for him - I asked about the tech stacks used in LoadShare’s 
+projects. 
+ 
+After this, I was shortlisted for the HR round (totally 11 were selected out of 20) 
+ 
+HR Round 
+This round focused more on personal insights and situational questions: 
+1. Self-introduction 
+2. Why LoadShare? 
+3. My knowledge about the role 
+4. Why not big companies like Amazon or Google? 
+5. Future plans (M.Tech/MS) 
+6. Hackathon experience (as I mentioned in my resume) 
+7. AI tools workshop I attended (as I mentioned in my resume) 
+8. Location preference 
+9. CTC expectations 
+10. Whether this was my first interview: I explained that I had attended two interviews during 
+internship hiring but was not selected. This was my first interview in the placement season. 
+When asked about the possible reasons for rejection, I said I wasn’t sure, but I had stayed 
+consistent and focused on building my resume, doing personal projects, practicing regularly, 
+and participating in hackathons to gain experience. 
+ 
+ 
+ 
+ 
+Final Virtual Technical Round ( 5 out of 11 were shortlisted) 
+(15 minutes, next day) 
+• 
+Asked about my experience from the past two rounds. 
+• 
+My learnings in the past two months. 
+• 
+I was given a real-world problem and asked to give the approach (It was highly related to the 
+role) 
+• 
+Asked how I learn a new skill — he was impressed and appreciated my structured approach 
+• 
+I asked him what he likes the most about working at LoadShare, and he shared his personal 
+experience. 
+ 
+ 
+At around 12 PM, the results were announced. Out of 11 candidates who cleared the HR round, finally 
+4 candidates were selected for the role — I was one among them. 
+This process tested my problem-solving, SQL, and Java knowledge, as well as communication and 
+consistency. It was a challenging and rewarding experience that I am proud of. 
+ 
+Stay consistent with coding practice, projects, and hackathons — they really help during 
+interviews. Be clear in your thought process, confident in your answers, and curious enough to 
+ask questions. With patience and consistency, the right opportunity will definitely come your 
+way. 
+ 
+Best of luck! 
+ 
+ 
+ 
+Pavithra B 
+CEG CSE ‘26 
+E-mail: pavithracsb175@gmail.com 
+LinkedIn: https://www.linkedin.com/in/pavithra---08-/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

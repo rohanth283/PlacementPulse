@@ -1,0 +1,79 @@
+Amazon 
+Round 1: 
+It was an online test and consisted of 4 sections 
+1)  Debugging(7) 
+2)  Aptitude questions(16) 
+3)  Workstyle assessment 
+4)  Coding(2) 
+There were 2 random questions in the coding section from the following 
+1) Critical connections 
+2) Favourite genre 
+3) Clone a list with random pointer 
+4) Count pair with given sum in an array 
+5) Merge two sorted list 
+ 
+20 students shortlisted for interview.Interviews happened in Amazon Chime and coding in 
+Amazon live coding platform. 
+ 
+Round 2: 
+I was asked 2 coding questions 
+1) Given a game state of Tic-tac-toe as a matrix, you have to find the result of that state like 
+x won, o won, draw or game in progress. 
+2) Given a binary tree, connect nodes in a level 
+Asked about time and space complexities. 
+ 
+Round 3: 
+I was asked 2 coding questions 
+1) Given a binary tree, find the level in which the sum of the nodes is maximum. In case of 
+2 levels having the same maximum sum, return the lowest level. 
+2) Find number of islands 
+I was asked to explain time and space complexities and walk-through of the code using 
+example test cases.  
+ 
+Round 4: 
+I was asked to write production level for a coding question with good naming conventions. 
+Question : Design a data structure which supports the following operations 
+1) Insert an integer 
+2) Query with ingeter k - it should return the number of integers strictly less than k read so 
+far. 
+It can contain duplicates also. 
+I suggested using C++ ordered set and using the lower bound function. But he expected me to 
+design a binary search tree for this question. With a little help from the interviewer, I was able to 
+come up with the expected solution. 
+Then he asked questions from OS, DBMS, projects in resume. 
+1) Normalisation 
+2) SQL vs NoSQL 
+3) Types of databases 
+4) Deadlock 
+5) Critical section, semaphore, mutex 
+ 
+Round 5: 
+ 
+We had a deep discussion about my internship project for about 40 minutes. Then he gave a 
+coding question to solve. 
+Find the level in a binary tree upto which it is a complete binary tree. 
+ 
+Topics to be focused: 
+1) Data structures and algorithms 
+2) DBMS 
+3) OS 
+4) OOPS 
+5) Amazon leadership principles 
+ 
+Take away: 
+ 
+The interviews mainly focus on testing the coding knowledge. Prepare to code in 
+document and in a limited time. Be interactive and share your ideas throughout.  
+ 
+All the best! 
+ 
+Regards, 
+Abinayaa S K C 
+skcabinayaa299@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

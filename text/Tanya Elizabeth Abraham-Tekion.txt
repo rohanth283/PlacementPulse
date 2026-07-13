@@ -1,0 +1,91 @@
+Tekion 
+ 
+ 
+Tekion is a cloud-built platform focussed on transforming consumer experience in the 
+automotive industry. The company uses advanced machine learning and AI capabilities for a 
+personalised and seamless consumer experience. 
+ 
+Selection Process consisted of: 
+ 
+Round 1 - Online Test 
+• MCQ section- Around 15 or 20 questions related to data structures, DBMS, loop outputs and 
+other topics 
+• Coding section consisted of one easy question, two medium and one hard. 
+Below were my questions: 
+➢ Easy- Given an array of nine stocks, return the largest number of stocks lesser than or 
+equal to a number ‘n’. 
+➢ Medium 1- Given an integer ‘n’ and two arrays, check how many elements of second 
+array is present in first array. If number of common elements less than ‘n’, return -1, 
+else return the maximum number of common elements. 
+➢ Medium 2- Given two strings, how many characters needed to make a palindrome 
+with the second string (substrings from the first string can be used to make 
+palindrome)? 
+➢ Hard- Given a number ‘n’ and two strings, if a value equal to or less than ‘n’ is added 
+to each letter of the first string, is it possible to obtain the second string? 
+I solved 7/10 test cases for the easy question and 2/10 test cases for the hard question. 
+ 
+Round 2 - Technical Interview I 
+• What is Polymorphism? 
+• Difference between runtime polymorphism and compile time polymorphism. 
+• Implement two stacks using a single array. 
+• Implement three stacks using a single array. (I didn’t know the answer) 
+• To code: 1. Implement stack 2. Given an integer n, find pairs of numbers in a sorted array 
+equal to ‘n’ 
+Language used:  C++. 
+ 
+Round 3 - Technical Interview II 
+• What is Paging? 
+• What is Indexing? 
+• What is Hashing? 
+• What is an exception? What are the types of exceptions? 
+• What is a Singleton Class? 
+• To code: 1. Given linked list, point to nth last element. 2. Map data structure related question 
+3. Singleton class 4. Exception example 
+I coded the first two questions in C++. Interviewer asked if I was comfortable with Java. As 
+I agreed, the interviewer asked me to code the next two questions using Java. 
+ 
+Round 4: Managerial Interview 
+This was an informal round and only consisted of questions related to my resume. 
+The interviewer asked me about the projects mentioned in my resume, the programming languages I 
+knew and about the certificates I obtained through online courses. 
+  
+ 
+Round 5: HR Interview 
+This was also an informal round. Following questions were asked: 
+• What are your strengths and weaknesses? 
+• What was your favourite subject in school? 
+• If not in this field, which profession would you enjoy to work in? 
+• What are your hobbies? 
+ 
+Note: All above interviews began with the question ‘Introduce yourself’. (Helpful tip: Prepare your 
+introduction in advance. Try to mention points not already present in your resume like technical fields 
+you are interested in and in case you have done an internship, what you learnt during that internship. 
+Being well-prepared with your introduction will give you a huge confidence boost and will set a great 
+tone for the rest of your interview.) 
+ 
+Final Result: Selected :D 
+ 
+Topics to be focussed: 
+Data structures 
+Object Oriented Programming 
+Database Management Systems 
+ 
+Java Basics 
+ 
+What helped me through the placement process: 
+• Keeping a positive attitude- Even if you don’t get shortlisted or don’t make it through the 
+interviews, always remember these placement tests provide you invaluable experience in the 
+form of type of questions asked in job interviews and knowledge of what companies are 
+looking for. Know that the effort you are making is worth it and let this keep you motivated 
+throughout the placement process.   
+• Learning from mistakes- If there is a question you couldn’t answer in a test or interview, going 
+back to it later and understanding where you went wrong ensures you don’t make the same 
+mistake twice.  
+ 
+Hope this helps  
+ 
+ 
+All the Best! 
+ 
+Tanya Elizabeth Abraham 
+tanya.abraham@yahoo.co.in 

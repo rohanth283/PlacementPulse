@@ -1,0 +1,95 @@
+APPIAN INTERVIEW EXPERIENCE 
+ROLE: Software Engineer 
+About Appian 
+Appian Corporation is a leading American enterprise software company headquartered 
+in McLean, Virginia. It specializes in providing a low-code automation platform that 
+enables businesses to rapidly develop applications with minimal hand-coding. Appian’s 
+platform combines process mining, workflow automation, case management, and 
+artificial intelligence to streamline complex business operations across industries. 
+The interview process consisted of 4 rounds: 
+1.     Online Assessment 
+2.     Technical Interview – 1 
+3.     Technical Interview – 2 
+4.     HR Interview 
+Online Assessment: 
+The Online Assessment had been conducted in Glider AI platform, which had a strict 
+audio and video proctoring. It consisted of 3 coding questions focused on data 
+structures and algorithms. All the candidates were asked same questions 
+1. ​ First and Last occurrence of a given element in an array: Given a sorted array, 
+determine the starting and ending position of a target value. 
+2. ​ Insert new Interval: Merge a new interval into an existing list of sorted, 
+non-overlapping intervals. The result should remain sorted and merged if overlaps. 
+(Refer Insert New Interval in Leetcode) 
+3. ​ Find duplicate and missing elements and return the status of the team: An 
+array from 1 to n contains exactly 1 duplicate and missing number. A list of teams 
+will be provided, each team consists of team IDs return which team consists of both 
+the missing and duplicate number 
+A total of 42 candidates were shortlisted after this round. 
+Technical Round 1 
+The interviewer began by asking me to introduce myself, followed by a brief introduction 
+about himself. Then, we directly moved into a pair-coding session. This round was 
+more focused on logical problem-solving than pure DSA. 
+Problem 1 – Mobile Battery Drain Simulation 
+I was given an array representing properties of multiples phones in a chunks of four 
+elements each: 
+·   ​ Index 0 -> Mobile ID 
+·   ​ Index 1 -> Current Battery % 
+·   ​ Index 2 -> Battery Drain rate per minute 
+·   ​ Index 3 -> Relaxation time (in minutes) [Assume I use phone for 1 minute standardly 
+and take break for phone[3] mins] 
+This pattern continues for every phone. Determine which phone will get discharged first 
+considering its use-and-relax cycle. 
+Example: For [1,4,1,4,2,10,2,1] 
+For 4% battery drains 1% every minute you use. After 1 minute of use, rest for 4 
+minutes. So it would totally last for 16 minutes. For phone 2, 10% battery drains 2 per 
+minute and is used continuously without break. So it would last for 5 minutes. 
+I initially gave a wrong solution and simulated a few test cases. One of the cases failed, 
+I asked for more time, rethought my approach, and derived a new solution which 
+passed all the test-cases. 
+For each phone, calculate the time at which phone hits 0%. Track the minimum and 
+return the corresponding mobile ID. 
+Problem 2 – Longest Word based on ‘BIG’ characters. 
+Given a list of strings, find the one with the maximum number of characters from word 
+“BIG” irrespective of the order. Example length of ‘bible’ is 2 (since ‘b’ and ‘I’ 2 
+characters from “BIG” are present) and length of “bargain” is 3 (since all 3 characters 
+from “BIG” are present). 
+Project Discussion: I had listed AWS and a project involving AWS in my resume. The 
+interviewer asked multiple questions on 
+·       Specific AWS Services used 
+·       Deployment Architecture 
+·       AWS encryption techniques. 
+We discussed on some-other remaining projects from the resume. 
+Technical Round 2: 
+This round felt more like a hybrid between technical and HR. The questions were 
+focused on Achievements and Hackathons I participated in, What I learned from those 
+events, The subject where I scored the lowest and why, and what I could have done to 
+improve that performance.Also some questions on core CS DBMS were asked  
+He asked me to explain one of my favourite projects. I explained its goals, tech stack, 
+contributions and key takeaways. So the round ended with the interviewer asking 
+whether I did have some questions for him. I asked some questions related to the SE 
+role in Appian. 
+After round 2, 24 of us got shortlisted. 
+HR Round: 
+The final round was straightforward and more focused on my academic record. 
+Questions asked: 
+1. ​ CGPA (mine is 8.68), 12th grade score 
+2. ​ Whether I attended JEE or not (I didn’t) and the reason why 
+3. ​ What LLMS I use and my knowledge on Java and spring boot and resources I used 
+to learn them. 
+And again the interview ended with me asking questions to the interviewer. 
+Totally 12 students got selected as SE interns in Appian  
+Key Takeaways: 
+1. ​ The coding questions focused on logical thinking rather than algorithms. 
+2. ​ Follow Striver’s A-Z Sheet and C.O.D.E intern materials for DSA preparation. 
+3. ​ Be thorough with your resume and the projects you have included. 
+4. ​ Learn about the Company before the interview and their primary tech-stack. 
+5. ​ Before submitting the form, verify your details whether it’ s been entered correctly. 
+All the best!! 
+Feel free to reach out me: 
+E-mail: ysripramod@gmail.com 
+LinkedIn: linkedin.com/in/sripramod 
+Phone: +91 9042389740 
+Best Regards, 
+Sripramod Yogarajan 
+  
+ 

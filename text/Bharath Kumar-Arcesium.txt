@@ -1,0 +1,129 @@
+Arcesium(Internship): 
+ 
+Online Test: 
+1) Aptitude test- Questions were lengthy but involved basic concepts like Profit,Percentage and 
+Ratio. Need to practice to solve in time. 
+2) Technical MCQs- Questions related to Debugging, Find the Output for programs in C++,Java 
+were asked. OOPS, OS and DBMS were also asked. 
+3)2 coding questions- one was BFS traversal to find maximum in a level and other was a math 
+based question. 
+ 
+ 
+Interview 
+Round-1 
+1) One coding question: 
+Given an array of elements with duplicates, print all the distinct permutations of the array. 
+The interviewer expected the logic and wanted to know how I handle the duplicates in the 
+permutations produced. 
+I was asked to code and explain the flow with an example. 
+ 
+Round-2 
+Technical discussion: 
+1)Qns related to OS: 
+●    Windows vs Linux 
+● Steps from C program to a runnable executable 
+● Multithreading 
+● Memory,how processes are scheduled and about ready queue 
+● Can a programmer control threading options and make a program to run in specified 
+number of threads? What is the maximum number of threads that you can spawn? 
+● Diff bw process and threads 
+● Role of OS, how it provides security 
+2)DBMS 
+● Transactions 
+● Why Normalization 
+● Why we need DBMS,can’t OS do itself? 
+● How durability is ensured ? 
+ 
+Round-3 
+Technical discussion: 
+1)Qns related to OS again:(Your interested subject will be asked and most probably questions 
+will be asked from that) 
+● Deadlocks 
+● Page fault 
+● Demand paging 
+● File structure/INODEs 
+2)OOPS basic qns 
+● Virutal functions and what is its use 
+● Virtual constructor and destructor 
+● Use of Protected access modifier 
+● Friend functions 
+3) Given a file, the size of it is unknown, how will you access the last 50 lines of it? 
+Optimized single traversal approach was expected.(Check 2 pointer approach of singly linked 
+list) 
+4)DBMS 
+● 2 different database tables, how a single transaction works across tables? 
+● What commands to use to work with Transactions? TCL -commit,rollback,savepoint 
+ 
+There was no HR round. 
+ 
+Tips: 
+● Focus on the approach and the way you start with a problem. 
+● Keep interacting with interviewer and keep telling your thoughts,they need to understand 
+how you think and how the solution evolves in your mind. 
+● Use whiteboard or the editor itself to explain,if you want to explain your logic. 
+● Be confident on your approach and its fine even if you aren’t sure of the answers,just tell 
+them that you aren’t very sure of the concept. 
+ 
+ 
+D.E Shaw 
+ 
+Online Test: 
+1)Aptitude section - simple aptitude problems, Indiabix problems should suffice. Age,blood 
+relation,directions 
+2)Tech MCQs- mostly Code outputs and Debugging. They didn’t stick with any programming 
+language and gave just the pseudocode. 
+Questions from OS/DBMS and DSA were asked. 
+3)2 coding questions  
+ 
+ 
+Interviews: 
+Round 1: 
+1) Given a function that’ll output 1 and 0 with equal probability(50-50), design a function 
+that will output 1 ,75% of the times and 0 ,25 % times. 
+I suggested OR ing the outputs of the function. 
+2) Given a binary string (01001), find contingous subarray with equal no.of 0s and 1s.The 
+1s and 0s should be contiguous as well. 
+Ex:01,0011 etc 
+ 
+     3)Given 2 tables as 2D arrays,with first row as column headers, design an algorithm to 
+compare the given tables are identical. 
+Variations: 
+If the rows are shuffled. If both rows and cols are shuffled. 
+ 
+4)Questions about Scheduling and various types of Normalization types. 
+5)Given a binary tree,give its pre,post and inorder traversal. 
+ 
+ 
+Round 2: 
+Tech discussion: 
+1) A 3x3 array is given and a rules to traverse the array left to right were specified. We can 
+start from any element in the first column and traverse till the rightmost column summing 
+the elements along the path.We need to find the path with maximum sum. Time was 
+given to try out possibilites and they allowed me to experiment before starting to code. 
+2) An array with only one duplicate number is given and i need to find the number. Different 
+approaches were discussed and they asked the Complexity of each. 
+ 
+ 
+ Questions related to OS and DBMS were also asked. 
+OOPS- Virtual functions, Abstract classes, and their necessity. 
+ 
+ 
+I had No HR round. 
+ 
+Suggestions: 
+1)DE shaw followed a rigorous process and each round had 2 Interviewers and they were ready 
+to spend time and listen to all our ideas and thoughts before coding. 
+2)They wanted you to be sure of the role you are applying for. They asked at the start of each 
+round about the role and made sure I was clear about it. 
+3) Rounds were conducted in Hackerank pair coding site and it is good to use the whiteboard or 
+the editor to explain your ideas. 
+4)Be strong on your Problem-solving skills and that can help when you encounter a new 
+problem. 
+ 
+ 
+All the very best !! 
+ 
+- 
+Bharath Kumar D P 
+bharath292001@gmail.com 
++91 99520 49834 

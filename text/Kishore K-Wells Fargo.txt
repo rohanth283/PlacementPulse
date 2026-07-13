@@ -1,0 +1,159 @@
+Wells Fargo Interview Experience 
+About the Company: 
+ Wells Fargo is one of the largest financial services companies in the United States, 
+headquartered in San Francisco. It provides banking, investment, mortgage, and consumer 
+and commercial finance services. With operations in more than 30 countries, Wells Fargo 
+serves millions of customers worldwide. 
+It is also among the top 4 banks in the U.S., alongside JPMorgan Chase, Bank of America, and 
+Citigroup. 
+Selection Process: 
+    The selection process consisted of four rounds in total.  
+1. Online Assessment 
+2.  Technical Round 
+3. Techno-behavioural round 
+4. HR Round 
+1.Online Assessment: 
+       The assessment had four sections. 
+ Section 1: 
+                          There was only one DSA question to solve. This section had different sets. We 
+were given 1 hour to solve this. We were asked to type the code from scratch. The problem 
+statement was as follows, we are given an array of 10 numbers. Each index value (1-indexed) 
+represents kilometers, and the value at that index represents the fare for traveling that 
+particular distance. 
+For example, if we have an array: 
+prices = [12, 34, 56, 32, 90, 34, 78, 45, 33, 89] 
+• 
+The cost for traveling 1 km is 12 
+• 
+The cost for traveling 2 km is 34 
+• 
+…and so on. 
+The total distance to be covered is given as input. Our task is to find the minimum cost to 
+travel that distance among all possible combinations. A key point is that the same ticket can 
+be purchased multiple times. For example, you can travel 10 km twice to cover 20 km. 
+I initially used recursion with dynamic programming (DP) to solve this, but my solution didn’t 
+work correctly because it failed to handle multiple ticket purchases (reusing the same ticket 
+more than once). Another important note: only Java was allowed for this section. 
+ 
+Example Test Case 
+prices = [12, 34, 56, 32, 90, 34, 78, 45, 33, 89]   
+totalDistance = 20 
+Possible Combinations: 
+• 
+10 km + 10 km = 89 + 89 = 178 
+• 
+5 km + 5 km + 10 km = 90 + 90 + 89 = 269 (worse) 
+• 
+2 km × 10 times = 34 × 10 = 340 (worse) 
+• 
+1 km × 20 times = 12 × 20 = 240 (still worse) 
+• 
+8 km + 6 km + 6 km = 45 + 34 + 34 = 113 (best so far) 
+So, the minimum cost = 113. 
+Section 2:  
+                  The second section consisted of English aptitude questions. These included: 
+• 
+Reading comprehension 
+• 
+Questions on tenses 
+• 
+Filling in the correct sentence or word for the underlined portion 
+A basic understanding of English grammar and comprehension was sufficient to perform well 
+in this section. 
+Section 3:  
+                    The third section consisted of business aptitude questions. These included 
+analyzing bar charts and graphs, interpreting candlestick charts, and applying some basic 
+knowledge of stocks and shares. There were also scenario-based questions, such as 
+suggesting the most suitable investment in a given situation. A basic understanding of 
+stocks, shares, and simple mathematics was sufficient to solve this section. Overall, it 
+primarily tested our analytical skills. 
+ 
+ 
+Section 4: 
+                   The fourth section was coding once again. The questions were relatively easy, 
+with two problems in total. This section also had different sets, meaning different candidates 
+received different set of questions. In my set, one of the questions was to remove vowels 
+from a given string. The other was to find the kth smallest element in an array, with both the 
+array and the value of k provided as input.  
+ 
+2.Technical Interview: 
+                    This interview was conducted virtually through a video call, and it went for 1 hour 
+and 15 minutes. The interviewer began by asking me to introduce myself and then moved on 
+to discuss my project. He focused on the technical aspects, pointed out some logical flaws, 
+and asked me to suggest ways to improve and handle those issues. 
+After this discussion, he gave me a SQL query problem and asked me to share my screen, 
+open Notepad, and type the solution. The question was: find the second highest salary in 
+each department of an employee table. I initially solved it using LIMIT and OFFSET, but he 
+was not satisfied. He expected a solution using the RANK() function in SQL. 
+Next, he asked me to open a compiler and implement a sorting algorithm. I first attempted 
+merge sort, but my code didn’t work as expected. I then switched to quick sort, which 
+worked correctly. After that, he asked me to perform a binary search on the sorted array. I 
+implemented the code, and he tested it with multiple edge cases to ensure it worked for all 
+scenarios. 
+Finally, he wrapped up the interview by asking if I had any questions for him. Always prepare 
+a set of questions to ask the interviewer so that they know that you care about the 
+company. Since I had prepared beforehand, I asked a thoughtful question to show my 
+interest. The interview concluded positively, and I was selected for the third round. 
+3. Techno-Behavioural round: 
+This was a short session, lasting about 15 minutes, and it was conducted in person. The 
+interviewer began by asking me to introduce myself. He then asked which subject I was most 
+interested in, and I mentioned DBMS. It’s important to highlight the subject in which you are 
+technically strong. 
+He proceeded with DBMS-related questions, such as: 
+• 
+What is a table? 
+• 
+How do you store data? 
+• 
+What is the use of databases? 
+• 
+How do you uniquely identify a row in a table? 
+• 
+How do you establish relationships between tables? 
+• 
+What is referential integrity? 
+After this, he shifted to Java since I had mentioned being comfortable with it. I explained 
+that I primarily use Java for solving DSA problems. He asked about the data structures 
+available in Java and how I use them. 
+Finally, he gave me the opportunity to ask questions. After I did, the round concluded. I was 
+selected for the fourth and final round. Along with technical knowledge, he was also 
+assessing my communication skills throughout the session. 
+4.HR Round:  
+                    This round was casual and felt more like a conversation. It was conducted in 
+person. The interviewer began by asking me to introduce myself. She then asked about my 
+project, and I explained it in detail. 
+Next, she asked why I would be the best fit for the company. I highlighted both my technical 
+expertise and soft skills, explaining how they aligned with the company’s values and 
+requirements. She also asked me to explain the difference between an AI-based project and 
+a regular project like a web application, but in a way that even a layperson could understand. 
+Afterward, she provided me with some tips for improving my communication and shared 
+insights about the work culture at Wells Fargo. Toward the end, I asked her a few questions, 
+to which she responded thoroughly. 
+Fortunately, I was selected, along with nine other candidates, for the intern role. 
+ 
+Tips: 
+• 
+Practice and solve DSA questions regularly on platforms like LeetCode, HackerRank, 
+and GeeksforGeeks. 
+• 
+Be thorough with core concepts such as DBMS, OOPs, DSA, Operating Systems, and 
+Computer Networks. 
+• 
+Keep your resume clean, simple, and well-structured. 
+• 
+Know your resume inside out, as most of the questions will be based on it. 
+• 
+Always answer clearly and concisely. 
+ 
+Wishing everyone the best in their preparation. I’ll be happy to connect on LinkedIn for any 
+guidance 
+My details: 
+Kishore K 
+CEG CSE’27 
+Mobile: 7358445442 
+Email: kishorekselvan2005@gmail.com 
+LinkedIn: www.linkedin.com/in/kishore-k-100648368 
+ 
+ 
+              
+ 

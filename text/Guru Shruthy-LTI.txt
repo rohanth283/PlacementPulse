@@ -1,0 +1,74 @@
+                                                                  LTI 
+ 
+ 
+Larsen & Toubro Infotech Limited (LTI) is a Indian global Information technology 
+solutions and services company based in Mumbai, India. In 2017, NASSCOM ranked LTI as 
+the sixth-largest Indian IT services company in terms of export revenues.  
+ 
+ 
+ 
+Round 1: Online Round 
+ 
+level 1-Quantitative aptitude, Logical Reasoning, Verbal, Technical 
+ 
+In level one all are MCQ types. In Technical MCQs, the questions were from oops, programming, 
+pseudocode/algorithm, SQL ,operating systems and HTML. 
+ 
+level 2-Programming 
+ 
+One programming question was asked and time allotted was 45 minutes. 
+ 
+Round 2: Technical Interview 
+ 
+1.Introduce Yourself 
+ 
+2.Programming languages you are comfortable with? 
+ 
+3.What is the difference between tuples and list? 
+ 
+4.What are the oops concepts? 
+ 
+5.Difference between encapsulation and abstraction. 
+ 
+6.How many instances can be created for an abstract class? 
+ 
+7.What is overloading and overriding? 
+ 
+8.Tell about Singleton class? 
+ 
+9.Will you be able to work with any programming languages? 
+ 
+Round 3: HR Round 
+ 
+1. Introduce yourself? 
+ 
+2.Talk about the financial growth of India 
+ 
+3. What is the Software Development lifecycle? Explain it with an example. 
+ 
+4.Is the bonding time of 2 years ok for you? 
+ 
+5.Are you ok with any places we put to work? 
+ 
+ 
+ 
+Topics to be focussed: 
+ 
+• Data structures 
+• Database management systems 
+• Operating system 
+• OOPS 
+• Software Development 
+ 
+ 
+Take away: 
+ 
+ 
+Having a good knowledge of basics, coding is necessary for online rounds and for interviews 
+reply with confidence and positivity. Don’t lose hope and try your best in everything. 
+ 
+Hope this helps. 
+All the Best. 
+ 
+Name: Guru Shruthy G 
+Mail id: shru2017.g@gmail.com 

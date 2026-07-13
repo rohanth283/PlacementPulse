@@ -1,0 +1,156 @@
+NATWEST INTERN INTERVIEW EXPERIENCE 
+ 
+ABOUT NATWEST : 
+NatWest Group plc, headquartered in Edinburgh, Scotland, is one of the leading banking and financial 
+services organizations in the United Kingdom. Established in 1968 through the merger of National 
+Provincial Bank and Westminster Bank, NatWest has grown to offer a wide range of services including 
+retail banking, commercial and business banking, private banking, and wealth management. Known 
+for its strong digital presence and customer-focused approach, the bank provides innovative mobile 
+and online solutions while also emphasizing sustainability by committing to achieve net zero climate 
+impact by 2050. With its long history, strong brand recognition, and dedication to responsible banking, 
+NatWest plays a major role in the UK’s financial sector. 
+ 
+POSITION : Software Engineering Intern 
+ 
+SELECTION PROCESS : 
+• 
+Step 1 : Qualify preliminary criteria 
+• 
+Step 2 : Online Test 
+• 
+Step 3 : Competency based Interview 
+ 
+1. PRELIMINARY CRITERIA 
+• 
+Degree : BTech ( Intern) 
+• 
+Branches eligible : Computer Science, Information Technology, Electronics & Communication 
+Engineering, Electrical & Electronics, Mathematics & Computing, Mathematics & 
+instrumentation 
+• 
+Xth : minimum 70% 
+• 
+XIIth : minimum 70% 
+• 
+Grad : minimum 65% aggregate as per the recent mark sheet / semester. 
+ 
+2. ONLINE ASSESMENT 
+ 
+It consists of the following sections: 
+1. Verbal Aptitude (15 mins) 
+This section includes reading comprehension, identifying the correct tense form, and 
+synonyms and antonyms. If you are good at grammar, you can clear this with ease. 
+2. General Aptitude (30–40 mins) 
+This section covers: 
+• 
+Representing given data in a pie chart 
+• 
+Pattern finding 
+• 
+Logical thinking 
+• 
+Calendar scheduling 
+• 
+Profit and loss problems 
+• 
+Percentages 
+The interface showed the number of questions solved and unsolved in one corner for this 
+section, but I wasn’t focusing on it. Because of this, I wasn’t sure how many questions I had 
+attempted or left unanswered, and I couldn’t complete all of them within the given time. 
+PS: Don’t forget to carry a calculator. 
+3. Technical MCQs (15 mins) 
+This section mainly focuses on SQL and Database concepts. Some questions were based on 
+choosing the correct query, while others tested SQL fundamentals. If you are thorough with 
+SQL basics, this part will be manageable. 
+4. Coding Questions (30 mins) 
+I was given two simple scenario-based questions on strings: 
+• 
+Finding the count of consonants 
+• 
+Returning a string with no vowels 
+Basic coding knowledge is enough to crack this section. 
+I believe the General Aptitude section carried more weightage in this round, as many of us 
+performed on a similar level in the other three sections. 
+From this round, 23 of us were shortlisted for the interview. 
+ 
+3. TECHINICAL AND HR INTERVIEW : (25-30 mins) 
+The interview was scheduled the next day after the announcement of shortlisted candidates. We first 
+attended the PPT session, which was followed by the interview. The panel consisted of two 
+interviewers, and the discussion mainly revolved around my resume. Both interviewers had a copy of 
+it. 
+Introduction 
+They began by asking if I would like to introduce myself. Never miss this opportunity if given, because 
+you can guide the interviewers about yourself. A short and crisp introduction that defines you always 
+makes a strong impression. 
+Projects 
+They started with my projects and asked me to explain one of the projects mentioned in my resume. 
+Technical Questions 
+Before diving into the details, I had mentioned the following technical skills in my resume: 
+1. Programming Language – Java 
+2. Database Management – SQL 
+3. Core Concepts – Data Structures and Algorithms 
+They asked me how strong I was in SQL, and I confidently said I was pretty strong. I was then asked to 
+write queries for two moderately difficult problems involving JOINS, UNIONS, and AGGREGATE 
+FUNCTIONS. For the second one, I made a small syntactical mistake, which I realized only after 
+handing over the paper. However, I understood that ‘what matters is not just what you write on 
+paper, but how clearly you explain your approach’. My explanation greatly convinced them, and they 
+moved on to test my programming knowledge. 
+When asked which language I was most comfortable with, I answered Java. They gave me a problem: 
+Given an array of Strings, retrieve unique strings that do not have all letters in lowercase. 
+I first suggested using a Set collection, but they added that the result should be ordered. I then 
+answered that I would use a List and check on each update, but they expected me to use a 
+LinkedHashSet, which I wasn’t aware of at that time. On realizing this, they asked me to explain my 
+approach using a List. Here, they were testing how well I knew the language, since they repeatedly 
+asked me about built-in functions to support my explanation. 
+Later, they asked me to explain a sorting algorithm of my choice. I chose Merge Sort and explained 
+what it is, why it is used, its time and space complexities, and also drew its working process. They 
+were particularly interested in checking whether I truly understood the concept or had just 
+memorized it. 
+With this, the technical interview came to an end. 
+HR Questions 
+Next, they asked me how I would handle team conflicts. I struggled a bit to put it into words but 
+made sure my answer reflected honesty and my willingness to handle situations positively. I also 
+related it to my experiences working in projects and clubs. 
+At the end, they asked if I had any questions for them. This step is as important as your self-
+introduction—it’s always good to ask thoughtful questions that show you are genuinely interested in 
+the role. 
+(For some panels, candidates were also asked DSA problems and puzzles.) 
+The results were announced the same evening. Out of the shortlisted candidates, nine were selected 
+for the internship, and I am truly grateful to be one among them. 
+ 
+PERSONAL TIPS : 
+• 
+Make it a habit to practice DSA regularly. I would recommend choosing at least 1 DSA 
+problem + 1 SQL problem each day, with the difficulty level adjusted to your schedule. 
+Practice coding on platforms like LeetCode, HackerRank, and GeeksforGeeks. 
+• 
+Also practice aptitudes on platforms like IndiaBIX. 
+• 
+Also, be comfortable coding from scratch, since some companies may ask you to write code 
+starting from the main function itself. 
+• 
+During interviews, maintain good body language and avoid panicking, as it creates a positive 
+impression. Always stay optimistic, greet the interviewers, and acknowledge them at the 
+right moments—this leaves a lasting impact. 
+• 
+Before your interview, go through GeeksforGeeks archives, CSEA or other placement 
+experiences to get a clearer idea of what to expect. Keep in mind that not all interviewers 
+will be friendly or make it easy for you; some might intentionally test how you handle 
+pressure, similar to dealing with difficult clients. 
+• 
+Do thorough research on the company beforehand—it shows genuine interest in the role 
+and will definitely work in your favor. 
+• 
+Be honest about everything you have mentioned in your resume. As you can see from my 
+experience, my interview was almost entirely tailored to what I had listed in mine. 
+• 
+Most importantly, don’t lose hope if you don’t get through a particular company—the best is 
+yet to come.  
+• 
+Avoid self-doubt. Remember, all candidates are at a similar level. Confidence and presenting 
+the best version of yourself is already halfway to success. 
+ 
+Best wishes!! 
+Feel free to contact me at any point in your preparation. 
+Email : renukadevi1803@gmail.com 
+LinkedIn : Renukadevi_A_C  

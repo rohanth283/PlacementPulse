@@ -1,0 +1,150 @@
+AMAZON – INTERVIEW EXPERIENCE 
+About the Company: 
+Amazon is one of the world’s largest and most innovative multinational 
+technology companies. With a strong customer-first approach, Amazon is 
+renowned for revolutionizing online shopping through services like fast delivery, 
+Amazon Prime, and Alexa-enabled smart devices. Its diverse business operations 
+and commitment to innovation make it a dream workplace for professionals 
+worldwide, offering unparalleled learning opportunities and a dynamic work 
+environment. 
+Role: Support Engineer 
+Stipend : 50,000 + 400 USD per month 
+During the month of November, Amazon conducted a hiring drive for the role of 
+Support Engineer. It was the second time after August that Amazon conducted a 
+drive, having previously recruited candidates for the role of Software 
+Development Engineer. 
+Overall Process: 
+Online Test, Technical Interview I, Technical Interview II 
+Online Test: 
+69 of us who applied were allowed to sit for the online test comprising 14 
+sections covering DBMS, OOPS, Programming, Networking, Error 
+Handling, Software Engineering, Data Visualization, and more. It was all in 
+MCQ format. We had one DSA question to solve (easy-level question). 
+Technical Interview I: 
+17 of us made it to Round 1, i.e., Technical Interview I. 
+The virtual interview happened on the AWS Chime platform, and I had two 
+interviewers. 
+ Initially, they asked me to introduce myself. 
+ In my resume, I had projects in Machine Learning, Full Stack 
+Development, and Front-End Development. 
+Question 2: You have done projects in several domains. How did you manage 
+this? 
+I answered: 
+“Yes, sir, of course, we developed projects in several domains. The thing is, we 
+would focus on a specific domain during each semester. For example, during 
+our second semester, we focused on front-end development. In our fourth 
+semester, we focused on back-end development and the database part. So, it was 
+like a cumulative process, building on everything we learned. Therefore, it 
+wasn’t that hard.” 
+ Question 3: Explain your Machine Learning project. 
+(Note: In all three interviews I attended, the interviewers never skipped 
+asking about the ML project. Since AI/ML is everywhere, be thorough with 
+your ML project if you include one in your resume.) 
+I explained my project, Android Malware Detection System, and the 
+algorithm I used. 
+ Question 4: What was the reason behind choosing this specific project? 
+What was the problem statement you had in mind? 
+I answered with a real-life example I had faced. 
+They tested my knowledge in DBMS asking 
+How will you apply any condition in a query ? 
+What keyword will be used to fetch unique values from a column ? 
+Next, they moved on to DSA. 
+A live coding link was shared where the interviewer and I could view and edit on 
+the same platform. 
+ 
+DSA Question 1: How will you find the occurrence of a character in a given 
+string? 
+https://www.geeksforgeeks.org/program-count-occurrence-given-character-
+string/ 
+I explained the approach using a hash map. They then asked me to code it (the 
+logic function alone). Afterward, I dry-ran the code with an example and tested it 
+against a test case. 
+Even though the time complexity was O(N), the interviewer asked me to reduce 
+it to O(N/2). At that moment, I came up with the idea of using a two-pointer 
+approach along with a hash map. The interviewer was satisfied. 
+ Scenario-based Question: 
+What if I want the same alphabet in upper or lower case to be considered 
+the same (e.g., ‘a’ and ‘A’)? How will you modify your code? 
+I suggested converting all the characters in the string to a specific case 
+(either upper or lower) before counting occurrences. 
+DSA Question 2: Given an array, place the odd-indexed elements first and the 
+even-indexed elements next. 
+I gave an approach with O(N) complexity, typed the logic, and dry-ran it. 
+Finally, they asked me if I had any questions for them. I asked for feedback on 
+my performance, and they provided some. The two interviewers were very 
+encouraging and appreciated every answer I gave. The process was smooth, and 
+the interview lasted around an hour. 
+Key Takeaways: 
+ Practice DSA. 
+ While coding, explain your approach. 
+ Take care of edge cases. 
+ 
+Technical Interview II: 
+9 of us made it to Round II (Technical Interview II). 
+Like Round 1, this interview happened on AWS Chime with a live coding link. 
+Introduction: 
+I introduced myself, and the interviewers introduced themselves. 
+DSA Questions: 
+1. Find the missing number. 
+https://leetcode.com/problems/missing-number/ 
+2. Loop in a linked list. 
+https://leetcode.com/problems/linked-list-cycle/ 
+I was asked to code and dry-run these with a test case. I solved and explained 
+both questions. 
+Linux Commands: 
+1. How will you find a specific word in a given text file? 
+2. What is the command used to edit a text file? 
+3. One more similar question. 
+I couldn’t answer all three correctly, but I attempted to think of and try 
+something. 
+OS Questions: 
+1. What is a deadlock? What are the necessary conditions for a deadlock? 
+2. Explain CPU scheduling algorithms with examples. 
+I took four processes, assumed their arrival time and burst time, and 
+explained how SJF (Shortest Job First), SRJF (Shortest Remaining Job 
+First), RR (Round Robin), PS (Priority Scheduling), and FCFS (First Come 
+First Serve) would work. 
+Project Questions: 
+They asked me to explain a project close to my heart, the tech stack used, and 
+where JavaScript was used in my project and why. 
+The interview lasted just half an hour and happened on November 14th. 
+Key Takeaways: 
+Be confident. 
+It’s not about answering all the questions right. Give what you can. 
+As I said , Virtual Interview happened on November 14th, 
+All my friends departed for our national industrial visit (IV). I stayed back in 
+college to attend the virtual interview, while a friend of mine attended an in-
+person interview on campus the same day. After completing the interview, four 
+of us somehow caught up with our friends in Bangalore and managed to join the 
+IV. 
+On the last day of the IV (November 18th), I got the result: 
+Three of us, two from Computer Science and one from Information Technology, 
+got selected. 
+I was one of the two Computer Science candidates. 
+ 
+ 
+A Personal Note: 
+I am not a pro coder or anything, and I come from a bio-math background in 
+HSE. I joined college with no prior knowledge of what Computer Science 
+actually was. Of course, I felt inferior at times, thinking, “Coding isn’t meant for 
+us.” But I realized that Computer Science isn’t just about typing and printing 
+something on the screen. It’s about understanding the things that happen behind 
+the scenes. It’s not merely about coding; it’s about understanding the concepts. 
+Best of Luck! 
+Resources I Followed: 
+ DSA: Striver’s SDE Sheet, Nikhil Lohia’s and Striver’s YouTube videos 
+(Personal suggestion : Nikhil Lohia’s explanations are top-notch). 
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-
+problems/ 
+https://www.youtube.com/@nikoo28/featured 
+ OS, DBMS, OOPS, C++: Career Ride YouTube channel. Their 20–25 
+minute videos cover every important topic. You can still explore those 
+topics in-depth. https://www.youtube.com/results?search_query=careerride 
+ CN, Linux: GFG, Interview Bit, and similar online platforms. 
+Feel Free to reach out if you have any queries 
+Email : tharaniarumugam514@gmail.com 
+Phone: 6382033914 
+LinkedIn : https://www.linkedin.com/in/tharani-
+arumugam?utm_source=share&utm_campaign=share_via&utm_content=profile
+&utm_medium=android_app 
+ 

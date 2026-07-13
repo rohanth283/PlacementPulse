@@ -1,0 +1,96 @@
+Appian Interview Experience
+(Quality Engineering Intern)
+Abhijith.M
+About Appian Corporation
+Appian Corporation is an American cloud computing and enterprise software company
+headquartered in McLean, Virginia, part of the Dulles Technology Corridor. The com-
+pany sells a Platform as a Service (PaaS) for building enterprise software applications.
+It focuses on:
+• Low-code development
+• Process mining
+• Business process management
+• Case management markets in North America, Europe, the Middle East, and South-
+east Asia
+Appian offers a low-code platform with a visual interface and pre-built development
+modules, enabling businesses to create apps and automations using little or no code.
+Interview Rounds
+The selection process consisted of four stages:
+1. Online Assessment
+2. Technical Round 1
+3. Technical Round 2
+4. HR Round
+A total of 149 students appeared for the assessment.
+After the assessment, 18
+students were shortlisted for the interview process.
+1. Online Assessment
+Held on the Glider platform. This stage consisted of:
+• Multiple-choice questions on:
+– Analytical and logical reasoning
+– Software testing fundamentals
+– Basic quality concepts
+• One coding question:
+– Problem: Remove duplicate strings from a string array.
+– Languages allowed: Java and Python.
+– Note: The program had to accept manual input from the user during execu-
+tion; there were no predefined inputs or automatic test cases.
+1
+2. Technical Round 1
+This round included:
+• A puzzle: There are nine coins, one heavier than the other eight. Using a two-pan
+balance and only two weighings, find the heavier coin.
+• A coding question: Write a program to check whether a given string is a palindrome.
+– Discussed edge cases such as empty strings, whitespace-only strings, and var-
+ious input formats.
+– Performed a dry run of the code.
+• Discussion of my internship in the CSE Department Internal Automation
+Project.
+• Discussion of my contributions to the Web Development Team of the CUIC
+Portal.
+• Questions on the projects listed in my resume.
+3. Technical Round 2 (Techno-cum-Behavioural)
+This round combined technical testing knowledge and behavioural questions:
+• Questions on different types of testing:
+– Unit testing
+– Integration testing
+– System testing
+– Acceptance testing
+– Regression testing
+– White box testing
+– Black box testing
+• Behavioural questions such as:
+– Why Appian?
+– Why do you want the QE role?
+4. HR Round
+The HR round covered:
+• Academic details: marks in 10th, 11th, 12th, CGPA (8.29 at the time), and JEE
+Mains percentile.
+• Motivation: why I want the QE role.
+After all the rounds, only 3 out of the 18 interviewees were selected — 2 from CEG
+and 1 from MIT. I am fortunate to be one of the three selected candidates for the role of
+Quality Engineering Intern.
+Key Takeaways
+1. Your communication skills matter — express your thoughts clearly.
+2. Be genuinely curious to learn. Even if you do not know about something, show
+eagerness to understand and explore it.
+3. Start your preparation early, and know your resume inside out — every single
+point should be explainable.
+4. DSA is important for all roles; learning puzzles and aptitude too is important.
+2
+5. Maintain a good CGPA from the first semester itself; it really does give you
+an advantage.
+If you have a low CGPA, compensate with relevant experience such as internships
+(even short-term or unpaid), open-source contributions, maintaining club or depart-
+ment websites, or projects in the CSE department. These activities demonstrate
+teamwork, initiative, and practical exposure.
+6. Finally, have hope rather than rigid expectations. Keep the mindset: “Whatever
+happens, happens,” because luck can also be a factor.
+Overall Experience
+The interview process was an enriching experience that tested my analytical skills, coding
+abilities, testing knowledge, and communication skills.
+Contact
+Name: Abhijith.M
+Email: abhijithmeleppat@gmail.com
+Phone: +91 80788 08266
+LinkedIn: linkedin.com/in/abhijith-m-a3541b278
+If you have any doubts, feel free to reach out - happy to help!
+3

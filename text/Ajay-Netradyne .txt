@@ -1,0 +1,115 @@
+NETRADYNE INTERVIEW EXPERIENCE 2024 
+ 
+ 
+ 
+ 
+ABOUT THE COMPANY: 
+              Since its inception in 2015, Netradyne has pioneered fleet safety with cutting-edge 
+A.I. and data solutions. With over 275 patents, Netradyne combines AI and video to 
+revolutionize vehicle telematics by detecting and analyzing driving events. They empower 
+drivers through positive reinforcement, enhancing safety and performance. Their Driver•i 
+solution reduces accidents, improves safety scores, and lowers insurance costs, driving fleet 
+success. Netradyne is transforming the future of fleet safety and performance. 
+ 
+ 
+ 
+ 
+Total Rounds: 
+1. Online Assessment 
+2. Technical Interview -1 
+3. Technical Interview -2 
+4. Technical Interview -3(Based on Perfomance)[ I did not have this round] 
+5. HR interview 
+ 
+1. Online Assessment (30th October)[CUIC lab]: 
+• 
+Aptitude: Standard level of difficulty. 
+• 
+Coding Questions: There were three questions, varying from moderate to high 
+difficulty. While none were standard questions, they were quite understandable. I 
+managed to solve one question fully and partially address the other two. 
+My Department IV was on the 31st. I thought it would be great if I got selected and could 
+go for the IV. Hopefully, I got selected for the next round. 
+2. Technical Interview Round 1 (31st October): 
+• Introduction: Standard introductory questions. 
+• Project Discussion: Detailed discussion on all my projects, with a focus on my 
+network and machine learning project. 
+• Debugging: Was given a code snippet with an infinite loop and asked to debug it. I 
+did it easily. 
+• SQL Question: A medium difficulty question that I wasn’t able to answer correctly. 
+• Coding: A question related to my machine learning project. 
+Despite the SQL question and not providing an optimized solution to the coding 
+question initially, the interviewer was trying to guide me toward a better solution. 
+With the guidance of the interviewer, I provided an optimal solution. 
+I was not confident that I would be selected for the next round because I made a 
+mistake in SQL and did not provide an optimized solution initially. But, I got 
+selected. 
+3. Technical Interview Round 2: 
+• Introduction: Standard introductory questions. 
+• DBMS Project: Discussed my DBMS project, including the ER diagram, with in-
+depth questions. 
+• Technical Questions: 
+o Sorting Algorithms: Discussed merge sort and its efficiency with time 
+complexity comparisons. Asked to write down the merge sort code fully and 
+explain it with an example. The interviewer seemed satisfied after my 
+explanation. 
+o OOP Concepts: Initially used standard examples but later provided a tailored 
+example that satisfied the interviewer. When I first mentioned GFG examples, 
+the interviewer noted, “The earlier person said the same thing!” I laughed and 
+said it is a standard example and provided a real-life example. He looks 
+impressed after providing a real life example. 
+ 
+• System Design: Initially asked to design the system for Book My Show, which was 
+later simplified to just the structure and functioning of the system. 
+o Storing user data in Book My Show. 
+o Asked to Draw ER diagram for book my show with required entities and 
+Asked questions about primary key, super key etc… 
+o How do you Differentiate between booked and non-booked seats in Book My 
+Show?. 
+o The interviewer asked many ques5ons related to data handling and data ﬂow, 
+and I was able to provide sa5sfactory answers. 
+ 
+• Time Complexity and Space Complexity Questions: These were kind of tricky, but 
+the interviewer guided and involved me well. Asked, "When does O(x) complexity 
+exceed o(y) where x & y are some values?". 
+At the end of this round, the interviewer wished me well and said they would meet me again, 
+which gave me a positive feeling about my performance. 
+I was sure that I would be selected for the next round, but some of the candidates had one 
+more technical round and were rejected. So, I was slightly scared. But I got selected directly 
+to the HR round. 
+ 
+4. HR Round: 
+• 
+Basic HR Questions: Covered typical HR topics. 
+• 
+Company Roles: Explained various roles in the company and based on my interview 
+performance, suggested the Biz System role. Initially unsure about this role, I was 
+provided with a real-life example that helped me understand and accept the Biz 
+System role. 
+Overall, the process was intense but engaging, and I’m optimistic about the outcome based on 
+the feedback I received. The experience was both challenging and rewarding, and I look 
+forward to the next steps. 
+ 
+ 
+Verdict : Selected 
+ 
+P.S : Throughout the interview, I balanced my stress with the thought of the 
+departmental IV on the same day. I joked to myself, “If I don’t pass the round, 
+at least I can pack my dress for IV and still be ahead!” My stress-free attitude 
+in Technical Interview Round 2 helped me pass it. Don’t lose hope ,it’s my 10th 
+interview after getting clearing the online round. All the best for your 
+interviews.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact: 
+AJAY S, 
+CSE-CEG’24, 
+ajaysaravanan1911@gmail.com, 
+9626415957. 
+ 

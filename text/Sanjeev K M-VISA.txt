@@ -1,0 +1,152 @@
+ 
+VISA INTERNSHIP – 2021 
+BATCH  2019 - 2023 
+ 
+When said VISA we see them as debit/credit card issuer. But what is VISA for engineers – they 
+facilitate electronic funds transfers throughout the world in safe and secure manner. 
+ 
+VISA’s intern interview process consists of 2 rounds – Online coding round and 1 technical interview. 
+ 
+1st Round – Online coding test (2 coding questions): 
+ 
+Test took place in Hackerrank, and consists of 2 questions. One was easy and another one was a 
+medium-easy question. 
+1) In 1st question I was asked to return the sum of the count of common prefix between 2 strings in 
+which the 2nd string is formed by popping off the first char from the given string, we have to 
+continue this process until the second string becomes empty. 
+For Eg) 
+ 
+Let the given string be “abcab”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sum   =   7 
+ 
+ 
+Code should return the output 7. 
+ 
+ 
+Sum of similarities of string with all of its suffixes - GeeksforGeeks 
+2) Problem statement for the 2nd question was same as given in the link: 
+(8) Mathworks - LeetCode Discuss 
+ 
+I was able to do 1st question completely and in the second question 12/13 testcases were passed. 17 
+were shortlisted for the next/final round. 
+PREPARATION: 
+ 
+Have a good knowledge on the questions given in CODE-ACM pdfs (Base material for coding 
+interview), then repeatedly practice problems in Leetcode, GFG. Also have a look on top interview coding 
+questions on Leetcode and GFG. For DP watch YouTube tutorials if you didn’t understand any problems (I 
+prefer techdose and B to B SWE), also refer InterviewBit for standard problems on backtracking and DP. For 
+DP and backtracking concentrate more on standard problems, questions will be mostly from the variation of 
+standard one. 
+ 
+Solving a number of problems won’t help. You have to get the logic behind the problems 
+implementation and why this idea is used (most importantly for DP and backtracking problems). Try to 
+classify between problems, like why it is different from others. 
+ 
+The day before online test go through the questions asked in 1st round of Visa internship experience 
+at Geeks for Geeks. 
+String 1 
+String 2 
+Count of common prefixes 
+“abcab” 
+“abcab” 
+5 
+“abcab” 
+“bcab” 
+0 
+“abcab” 
+“cab” 
+0 
+“abcab” 
+“ab” 
+2 
+“abcab”  
+“b” 
+0 
+“abcab” 
+“” 
+0 
+ 
+2nd Round – Technical Interview (Final round for Internship): 
+In second round, the Interviewer asked me to explain about myself. And at next he gave me a 
+question to code on linked list.  
+• 
+Given a linked list he asked me to delete a node in the liked list, with a given key value (Delete node 
+in linked list) 
+He asked me to write the driver code and implement it. After that he asked me to explain the code. 
+Whenever the interviewer asks you to explain the code/ algorithm, never look at your code and explain 
+the code, you will be lost in the middle. Instead try to explain the algorithm that you thought before you 
+actually start to code the program. 
+Next, he moved on asking questions from DBMS, OOPS. The questions were 
+➢ What is inheritance? 
+➢ What is dequeue? 
+➢ Any real-world application of dequeue. 
+➢ Intersection and Union in DBMS. 
+➢ Difference btw primary key and foreign key. 
+➢ Relations in DBMS. 
+➢ Any real-word use case of one-to-many relationship. 
+➢ What is indexing (in DBMS)?  
+➢ What do you know about triggers? 
+➢ Given a situation like after inserting a data in one table how will you modify the row in another 
+table. 
+I answered all of the questions except 1-2, he was ok with that. Later he asked do I have any 
+question to him. At last, 10 were offered internship. 
+ 
+The interviewer was so calm and made me feel comfortable, just like you see in movies interviewers 
+are not the ones who will try make you fail, in fact they will look to explore what you are capable of, they 
+remain always calm and will make you comfortable.  
+ 
+PREPARATION: 
+ 
+For coding questions asked during interviews, what you have prepared for the 1st round is enough. 
+Go through DBMS, OS, OOPS and other theoretical topics you mentioned in your resume.  
+For DBMS concepts refer tutorials point and during the day before interview google out the top 
+interview DBMS questions and refer it. Also familiarize yourself in writing SQL queries. For OS GFG’s last 
+minute notes is enough. For OOPS refer prepinsta, which will be under C++. 
+The day before interview go through the questions asked in 2nd round of Visa internship experience 
+at Geeks for Geeks.  
+Once you enter into the interview you will forget the fear of attending interview, so relax yourself 
+before interview and don’t let the fear to enter into your head. 
+ 
+➢ Aim not to solve many problems, rather you should grasp the idea behind the implementation to 
+solve the problem. 
+➢ Start your preparation process at least 2 months before the drive starts, if you have enough time 
+never think that we have long way to go, start practicing by yourself on easy problems on arrays, 
+strings, etc. And be familiar with C++/ Java along with their STL functions. Other programming 
+languages are not preferable.  
+➢ If you are in short of time, it’s never too late start practicing problems, just don’t go through bits and 
+pieces of each topic, try to complete a topic as a whole, most importantly be strong in arrays, 
+strings, DP (standard probs), Backtracking (standard probs), again this is for those who are in short of 
+time, questions may or may not come under this topic, always prepare all the topics if you have 
+time. 
+➢ Again, pdfs from CODE-ACM will be really helpful never miss the program. 
+➢ Try to combine and study with your friend under mutual consent, it will be a great learning for both 
+of you unless you both never distract from preparation.  
+➢ Most of the companies test your aptitude skills. Aptitude questions from the most companies will be 
+easy. If you are in lack of confidence visit careerride and for problem practice and formulas visit 
+IndiaBix. Most companies test on topics like: 
+Problems on trains, Time and Distance, Time and Work, Simple and Compound Interest, 
+Profit and Loss, Partnerships, Permutation and Combination, Probability, Ratios and Percentages. 
+➢ For HR round, be strong in what you have mentioned in our resume like projects, skills, etc. Never 
+ever mention what you are not familiar with in your resume. Prepare yourself an answer for basic 
+and commonly asked HR questions. 
+Summary: 
+Practice coding problems daily, and make sure that you have done mostly all the questions from CODE-ACM.  
+The night before your interview, visit past-internship experience from GFG. 
+Go through the theoretical subjects DBMS, OS and OOPS.  
+Be strong in your resume. 
+ 
+Wishing you all the best to ace in your Interviews. 
+Sanjeev K M 
+9965165651 
+er.sanjeev.au@gmail.com 
+SANJEEV KM | LinkedIn 
+ 

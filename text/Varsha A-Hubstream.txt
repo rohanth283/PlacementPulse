@@ -1,0 +1,104 @@
+ 
+ 
+ 
+ 
+ 
+Hubstream 
+ 
+ 
+It is a USA based Software Company started in 2013. It provides software platform for 
+investigating crime. Adopted globally by law enforcement and corporations. Integrated workflows 
+to improve productivity. Hubstream India incorporated in Oct 2018 and operational from first july 
+2019 in Chennai. For more details, visit www.hubstreamsoftware.com 
+ 
+Number of rounds: 
+ 
+Online test 
+ 
+Group Discussion 
+ 
+Technical interview 
+ 
+HR 
+ 
+Technical interview 
+ 
+Online test: 
+ 
+The online test conducted in Google forms with proctoring consists of Logical Reasoning, 
+Analytical, Coding section and a general passage writing.  
+ 
+For logical reasoning, many puzzles were asked. For this refer Geeks for Geeks Puzzle 
+section, Interview puzzles and riddles by Logically yours in youtube for better understanding. 
+ 
+Time : 1 hour 
+ 
+Group Discussion: 
+ 
+Title: Pros and cons of artificial intelligence and machine learning 
+ 
+Time: about 20 minutes. 
+ 
+Technical Interview: 
+ 
+In this round, the following questions were asked. 
+ 
+Introduce yourself 
+Hobbies 
+Given a string, find whether it is anagram or not. (explained the code with workflow) 
+Given two strings and have to find ons string is palidrome to another string or not(in efficient way. 
+This is solved by using dynamic programming) 
+Given an array, find the first positive missing number (two cases: The array contains only positive 
+numbers. 
+The array contains both positive and negative numbers) 
+ 
+Time: about 1 hour. 
+ 
+HR: 
+ 
+Introduce yourself 
+ 
+How do you spend time in lockdown 
+ 
+Questions from my resume (I have mentioned, I organised Deadlock opener event in our 
+symposium. So questions like what is deadlock opener event and its rounds and real time example 
+for deadlock were asked) 
+ 
+Explain about any machine learning project that you have done so far. 
+ 
+Any questions for you? 
+ 
+Time: about 15minutes 
+ 
+Technical Interview: 
+ 
+This round is conducted with the CTO of Hubstream. 
+ 
+ 
+Introduce yourself and about family 
+ 
+ 
+Queue implementation using array with workflow and constraints( I have mentioned 
+area of interest as data structures in my resume, so queue implemetation is asked) 
+ 
+ 
+Any questions 
+ 
+Time: about 1 hour 
+ 
+Topics to be focussed: 
+ 
+Basic coding and its workflow 
+ 
+Data structures 
+ 
+Projects mentioned in resume 
+ 
+Having a good knowlege of basics, coding and confidence will help to be placed in this company. 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best!!. Feel free to ask any doubts! 
+ 
+Varsha.A 
+varshaanandavel@gmail.com 

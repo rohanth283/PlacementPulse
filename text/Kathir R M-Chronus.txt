@@ -1,0 +1,77 @@
+ONLINE TEST: 
+Do refer Girish’s experience regarding the online assessment(Everyone had the same questions). 
+The interviews took place at CUIC , and the interviewers came in person so we were not required to 
+bring our laptops. We wrote the code in paper. 
+Technical interview 1: 
+1. Given a array , check if the array elements can be made consecutive or not.  
+Example : For array [ 5 , 2 , 1 , 3 , 4] our function must return the answer as true and for [ 1 , 
+2 , 3 , 3, 4,5] we must return false ( all the elements of the array must be included while 
+making them consecutive) . 
+Initially the interviewer asked me what is the easiest approach you could think of , for which 
+I said we can sort the array and then check if every element is one more than the previous 
+element. He was satisfied with the answer and asked me to write the code for it. Then he 
+asked about the time and space complexity of the code. And asked me to reduce the time 
+complexity of the code. So I proposed an approach using hashmap and was again asked to 
+write the code for it and we discussed about the time and space complexity of the code. 
+Then he asked for a approach that is O(n) time and O(1) space complexity.  I asked if we can 
+use the formula for the sum of first n natural numbers , the interviewer was surprised (no 
+idea why) and modified the problem saying the array can have negative values and zeroes. 
+So after a few seconds I gave an approach where we modify the input array ( Place the 
+minimum element in the 0th index , min + 1 in the 1st index and so on) . He asked how this 
+was different from sorting . In sorting we don’t know the position where an element would 
+end up , it is relative to other elements whereas in this method I know the position to place 
+an element. Then I was asked to write the code for this , I had some difficulty writing the 
+code and the interviewer helped me a lot while writing the code. 
+The question link 
+https://www.geeksforgeeks.org/check-array-elements-consecutive-time-o1-space-handles-
+positive-negative-numbers/ 
+A leetcode question on which my last approach was based (modifying the input array) 
+ 
+https://leetcode.com/problems/first-missing-positive/ 
+2. The second question was very easy compared to the first one. 
+https://www.geeksforgeeks.org/count-1s-sorted-binary-array/ 
+I was not asked to write the code for this, the interviewer just asked of the various 
+approaches I could think of.  He was not interested in binary search O(logn) or iterating 
+through the array and counting the number of one’s. He was satisfied only after, I said that 
+the sum of the array will be equal to the number of one’s in it. 
+        This round went on for 45 minutes or so and I was immediately asked to shift to the next room 
+for round two. 
+Technical Round 2: 
+The interviewer started off with my DBMS project.  I was asked to draw the database tables used in 
+our project and draw the relationships among them, and write the primary key for each table. I 
+hadn’t normalised the tables in my DBMS project, and there were some redundant data in the 
+tables. He asked on how to reduce the redundancy and gave me some advices regarding normalising 
+tables. Then we moved on to DSA questions. 
+1. Check if a linked list is circular or not. 
+2. For this I was not given the direct question and was instead given a sample input and output 
+and was asked to guess what the question might be. The first question was some 
+modification of twoSum problem. But I was asked to write code for regular two sum , for 
+which I wrote the brute , time optimized(using hashmap) and space optimized(sorting) 
+solutions.  
+3. Again for the third question a sample input and output were given. The question was given 
+two arrays find out what element to swap between them so that both the arrays have the 
+same sum. I took a long time to find out the question from the sample input and outputs so 
+the interviewer himself said what the question was. I wrote the brute force approach for the 
+problem and was just asked on how to optimise it . 
+This round went on for an hour. 
+HR ROUND 
+The HR round was very short and nothing much happened there. I was asked to introduce myself , 
+my family background and my interests. The one question which I think was important was “How do 
+you rate yourself for the first two technical rounds”.  
+Key Takeaways 
+• 
+Practice DSA regularly, refer ACM Code questions they are really helpful and practice 
+leetcode and interviewbit. 
+• 
+Prepare your projects before appearing for the interview, especially your DBMS project. 
+Develop your project with the utmost importance to the backend. 
+• 
+Never get disheartened if  you were not selected for an interview ( the online coding 
+assessment) 
+• 
+Have a good grasp of the core concepts of DBMS and OS. 
+ 
+Contact: 6385396678 
+ 
+ 
+ 

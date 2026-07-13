@@ -1,0 +1,197 @@
+BNY MELLON – INTERNSHIP INTERVIEW EXPERIENCE 
+The Bank of New York Mellon Corporation (BNY Mellon), founded in 2007 through 
+the merger of The Bank of New York (1784) and Mellon Financial Corporation 
+(1870), is a leading global financial services company headquartered in New York 
+City. It operates in over 35 countries and serves clients in more than 100 markets, 
+focusing on asset management, asset servicing, treasury services, and wealth 
+management rather than traditional retail banking. With over $46 trillion in assets 
+under custody and approximately $2 trillion in assets under management, BNY 
+Mellon is one of the largest and most trusted names in the financial industry. The 
+company has around 50,000 employees worldwide and a strong presence in 
+India, especially in Pune and Chennai, where its Global Capability Centres drive 
+technology development, operations, and innovation. 
+The interview process consisted of 3 rounds: 
+1. Online Assessment 
+2. Technical Interview  
+3. Technical & HR Interview  
+First Round – Online Assessment 
+The first round was an online coding assessment. It consisted of 4 coding 
+questions 2 medium and 2 hard and the total time given to solve them was 2 hours and 
+45 minutes. 
+ Question 1: Optimal Team Selection (Medium) 
+You are given n developers with unique skill levels and two arrays: lowerSkill and 
+higherSkill. 
+lowerSkill[i] shows how many teammates with lower skill a developer can work 
+with. 
+higherSkill[i] shows how many teammates with higher skill a developer can work 
+with. 
+You need to find the largest possible team where every developer’s limits are 
+satisfied. 
+Sample Input: n = 6, lowerSkill = 1,1,2,2,3,5, higherSkill = 5,4,3,2,1,0 
+Sample Output: 5 
+Explanation: The largest team that satisfies everyone’s limits has 5 developers. 
+ Question 2: Maximum Redundancy of Servers (Medium) 
+You are given a binary string where 1 means the server is working and 0 means it 
+is not. You can choose one continuous segment of servers and flip them (0 to 1 
+and 1 to 0). 
+You need to find the maximum number of different possible counts of working 
+servers after flipping at most once. 
+Sample Input: servers = 010 
+Sample Output: 3 
+Explanation: After flipping the best segment, there are 3 possible counts of working 
+servers. 
+Sample Input: servers = 111 
+Sample Output: 4 
+Explanation: Flipping one segment can give 4 different possible counts of working 
+servers. 
+ Question 3: Largest High-Priority Subset of Events (Hard) 
+You are given n events with start and finish times. A high-priority subset is a group 
+of events where at least one event overlaps with every other event in the group. 
+Find the largest size of such a subset. 
+Sample Input: n = 4, start = 1,2,3,4, finish = 2,3,5,5 
+Sample Output: 3 
+Explanation: The largest subset where one event overlaps with all others has 3 events. 
+ Question 4: (Hard) 
+I don’t remember the exact problem statement. 
+Performance in the Round: 
+Question 1 – 15/15 test cases passed 
+Question 2 – 10/15 test cases passed 
+Question 3 – 10/15 test cases passed 
+Question 4 – 9/15 test cases passed 
+After this, a total of 26 students were shortlisted for the next round. 
+ 
+Second Round – Technical Interview 
+The second round was a technical interview conducted in CUIC. A total of 26 
+students were split across 6 panels, and I was called second in my panel. Each panel 
+had one interviewer. My panel was very friendly and chill, which helped me feel 
+comfortable initially. 
+After settling in, the interview started with a resume discussion: 
+ 
+He saw my name and said that he has a friend with the same name 
+ 
+He asked where I was from. 
+ 
+Seeing that I mentioned I know Kannada, he asked how I knew it and whether I 
+was fluent. 
+ 
+We had some small talk before moving to technical questions. 
+Next, I was asked to: 
+ 
+Introduce myself. 
+ 
+Explain one project mentioned in my resume. 
+ 
+Draw the schema and relationships among tables in another project. 
+ 
+Explain how I normalized my tables. 
+ 
+Write SQL queries on the given tables. 
+ 
+Answer why I used MySQL in one project and MongoDB in another. 
+ 
+List SQL inbuilt functions I knew, such as aggregate, date, and string functions. 
+Then, the interview moved to DSA concepts: 
+ 
+I was asked about data structures like stack and queue, including functions like 
+push, pop, empty. 
+ 
+After explaining, the interviewer asked me to assume the listener doesn’t know 
+coding and explain the concept again. I took some time and explained it clearly. 
+After that, I was asked to choose a programming language I’m comfortable with. I chose 
+C++, and they gave me an easy coding problem: 
+ 
+Three people are investing in one product: A = 1200, B = 800, C = 1000. 
+ 
+Total = 3000, so each person’s share = 1000. 
+ 
+Calculate how much extra or less each contributed and return an array like [200, 
+-200, 0]. 
+ 
+While writing the code, I explained my logic. Even if it was wrong, I did this 
+because interviewers want to understand your thinking process, so always 
+speak your logic while coding. 
+Finally: 
+ 
+I was asked if I had any questions for them, and I asked them “Do interns need 
+any prior knowledge to perform well in the role?”  and “What challenges would 
+an intern face during the internships?” 
+ 
+The interview went very well. 
+Out of 26 students, 14 were selected for the next round, and I was one of them. 
+Third Round – Technical + HR Interview 
+The third round was conducted on CUIC. This time, each student had a different panel. I 
+was interviewed individually. 
+The interview started with self-introduction. 
+ After that: 
+ 
+The interviewer asked about my project, and I explained it. 
+ 
+She asked about my role, and I said I worked on frontend, database, and 
+understood backend logic. 
+ 
+She asked how API calls work? 
+ 
+I explained that we used OpenAI for summarization. 
+ 
+She asked how I implemented it and what model I used, I said GPT-4o mini, and 
+she asked why that model. she asked me to write backend code 
+ 
+She asked what I would do if an API call failed. I said we could display a user-
+friendly message. 
+ 
+She asked how to improve that functionality, and I suggested using a backup API 
+if the first one fails. 
+ 
+She asked what if the backup API also fails. 
+ 
+She asked me to write all code on paper. I explained that since I worked in 
+frontend, I didn’t know exact backend syntax, but I tried to implement the logic, 
+and if both APIs fail, I said I would use a frontend library for summarization, but 
+she insisted on backend implementation, which I managed. 
+ 
+JWT – why it was used and write code to generate a JWT token. 
+ 
+Role-based rendering – how pages render for student, faculty, admin, writing the 
+code for role-based access. 
+ 
+Handling wrong registration – e.g., if a student tries to register as faculty. I 
+explained the verification process by admin. 
+ 
+Why the functionality was developed – to implement course enrolment logic 
+since our department didn’t have it. 
+She also gave a coding problem: 
+ 
+Write a program from scratch to find the second largest element in an array. I 
+implemented it from input to output. 
+She asked some HR questions like: 
+ 
+Challenges faced while working on the project. 
+Finally, the interviewer asked, “Any questions for me?” and I asked them “What 
+challenges did you face when working for BNY?” and “What feedback would you give me 
+and if I can improve in any areas?” 
+ 
+After this round, 6 students were selected for the internship from CEG and MIT. 
+ 
+Key Takeaways: 
+ Problem Solving & DSA: Start solving problems as early as you can. In interviews, 
+start with a brute-force approach first and then gradually optimize to an efficient 
+solution. 
+ Have a clear understanding and hands-on experience with all the projects you 
+have worked on. This plays a crucial role in interviews. 
+ Be ready to answer all kinds of questions from your resume confidently. 
+ Be strong in DBMS, OOPs, and other core subjects, as technical questions can 
+cover these areas. 
+ If you don’t know the exact answer, don’t just say “I don’t know.” Try to reason it 
+out or provide a logical approach, even if it’s not fully correct, interviewers want 
+to see your thinking process. 
+ 
+Don’t get discouraged if you don’t get shortlisted. Keep putting your best efforts, stay 
+consistent, and never lose hope. The right opportunity will come to you, just keep trying 
+and trust your journey! 
+ 
+All the very best!!! 
+Feel free to reach out me: 
+Email: s4tech1234@gmail.com 
+Phone: +91 9962767447 
+Best Regards, 
+Saravana Kumar B 

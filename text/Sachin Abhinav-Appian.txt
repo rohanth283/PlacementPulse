@@ -1,0 +1,149 @@
+APPIAN INTERVIEW EXPERIENCE (INTERNSHIP) 
+ 
+NAME: Sachin Abhinav 
+DEPT: CSE 
+MAIL: sachinabhinavjb27@gmail.com 
+CONTACT: 7418356711 
+Batch: 2022 – 2026 
+ 
+Round 1: Online Assessment Test 
+ 
+The test was conducted on an online platform Glider AI platform. There were three 
+coding questions. 
+ 
+Question 1: Josephus Problem  
+ 
+Given start person and  k, you have to print the order in which people die. Refer to the 
+geeksforgeeks page. 
+ 
+Question 2: Make Queue 
+Inputs: 
+ 
+You are given a group name with persons in each group. You are also given an array of 
+strings with name of persons standing in a line. 
+Output: 
+You should return an array of strings (name of persons).  Array is constructed using 
+following rules: 
+i) 
+If a person belonging to a group is standing in the line, then all other persons 
+in that line belonging to the same group move behind him. Basically just 
+making the people of same group adjacent to each other in the order in which 
+the input line is. 
+ii) 
+After arranging using rule i), if you find all the persons belonging to a group is 
+present then you have to replace all the person’s name with their group. 
+Question 3: 
+Given breadcrumbs for a website as an array of array of strings, Make a tree out of it. 
+Sample input: 
+arr = [[‘Main’, ‘Dashboard’, ‘Settings’], [‘Main’, ‘Profile’, ‘Uploads’], [‘Main’, 
+‘Dashboard’, ‘Products’], [‘Main’, ‘Profile’, ‘Remove], [‘Main’, ‘Manager, ‘Work’], [‘Main’, 
+‘Manager,  ‘Review’]] 
+make a tree out of it by linking as follows: 
+Main 
+ 
+-Dashboard 
+ 
+ 
+-Setting 
+ 
+ 
+-Products 
+ 
+-Profile 
+ 
+ 
+-Uploads 
+ 
+ 
+-Remove 
+ 
+-Manager 
+ 
+ 
+-Work 
+ 
+ 
+-Review 
+ 
+I was able to solve Question 2 and Question 3 (partial). I along with 21 candidates was 
+shortlisted for next round 
+ 
+ 
+Interview Phase 
+ 
+The interview was conducted in CUIC. It consist of 3 rounds. 
+ 
+Round1 (Technical – 25 mins): 
+ 
+The interview starts with my self intro. Then he asked me how I would choose 
+candidates, I were in the role of selecting candidates. I say, “I would check the candidates 
+Computer fundamentals and his aptitude along with problem solving abilities”. Then he tested 
+me on OOPS, DBMS and web technology. 
+ 
+ 
+He asks me to find the object with less weight out of 8 similar looking objects but to 
+use the balance weighing scale only twice. 
+ 
+He then asked me Two sum problem (first problem of leetcode)  
+ 
+He also tested my sorting algorithm techniques 
+ 
+Round 2 (More like a HR – 10 mins): 
+ 
+This interview is more like a HR round. Only technical question asked was the time 
+complexity of Quick sort. He also questioned me whether I would do Masters or not. 
+ 
+Round 3 (HR – 5mins): 
+ 
+This round lasted for less than 7 minutes. He asked me why he should hire me. Then 
+some questions on my family background was put up. Finally he asked questions on my project 
+in the resume. 
+ 
+In the eve results were announced. I was one of the 5 selected candidates. 
+ 
+Tips: 
+ 
+Learn basics of OOPS and your 4th semester DBMS concepts 
+ 
+Know whatever in your resume 
+ 
+General Tips: 
+ 
+Be Confident 
+ 
+Be Honest with yourself 
+ 
+Don’t think about results, keep working on it… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 

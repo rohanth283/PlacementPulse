@@ -1,0 +1,134 @@
+              Fidelity Investments 
+About Fidelity Investments 
+Fidelity Investments was founded in 1946 by Edward C. Johnson II and is 
+headquartered in Boston, USA. It began as a small investment firm and has 
+grown into one of the world’s largest financial services companies. Fidelity 
+offers services like mutual funds, retirement planning, and wealth management. 
+The company is known for its focus on technology, customer service, and 
+helping investors achieve long-term financial goals. It serves millions of clients 
+across the globe. 
+Number of rounds 
+ 1. Online Test 
+ 2. Technical Round  
+3. HR Round 
+Round 1: Online Test 
+The online assessment was conducted on the HirePro Platform and lasted for 
+about 1 hour and 30 minutes. It consisted of 3 sections, each with a time limit. 
+1. Section 1 – English Language and Verbal Ability 
+Included questions on Sentence Arrangement, Fill in the Blanks, and 
+other grammar-based exercises. 
+2. Section 2 – Technical Aptitude 
+Covered core CS topics such as Data Structures & Algorithms (Sorting, 
+Graphs, Heaps), Database Management Systems (SQL queries), Object-
+Oriented Programming, Networking, and output-based coding problems. 
+It also included basic-level questions on Prompt Engineering and 
+Generative AI. The difficulty ranged from easy to medium. 
+3. Section 3 – Coding Questions (Easy Level) 
+The section had two programming problems focused on arrays and 
+strings: 
+o Problem 1 – Transform a String by Custom Shifting 
+Read a string of lowercase letters and shift even-indexed characters 
+two steps forward and odd-indexed characters one step backward 
+in the alphabet (with wraparound). 
+Example: Input: abcdef → Output: caeceg 
+o Problem 2 – Product of Digit Sums with Digital Root 
+Read two integers, compute the sum of digits of each, reduce them 
+to a single-digit number if necessary, and print the product of those 
+sums. 
+Example: Input: 58 97 → Output: 28 
+4. Outcome 
+A total of 75 students were shortlisted for the next round. 
+ Round 2:   Technical Interview 
+The Technical Interview was conducted at CUIC at 9:00 AM. The session 
+began with a brief introduction to the company, highlighting its services, 
+values, and areas of expertise. 
+The interviewer first asked, “What question do you expect first?” I replied 
+“Introduction,” and was then invited to proceed. I gave a brief introduction 
+about myself, covering my background and interests. 
+The interviewer then reviewed my resume and asked questions related to the 
+technologies and skills I had listed. I answered the questions confidently and 
+explained my experience. He further asked about real-world applications of 
+data structures, including: 
+• Where arrays are used in real life: I explained examples such as storing 
+student records, managing inventory in e-commerce platforms, and 
+handling images in computer graphics. 
+• Which data structure is used in a railway ticket booking system: I 
+explained that structures like queues and linked lists are commonly used 
+to manage bookings, reservations, and waiting lists efficiently. 
+• The interviewer asked which programming language I prefer, and I 
+replied C++. He mentioned that he was interested in Java, and I 
+responded that I am comfortable working with Java as well and can easily 
+switch if required. He then asked a few output-based technical questions 
+in java (try catch exception) which I was able to answer correctly. 
+• The interviewer also asked about compile-time and run-time errors by 
+writing a small piece of code and requesting me to identify whether it 
+would produce a compile-time or run-time error, and to explain why. I 
+provided the correct explanation. 
+• Additionally, he asked questions on key programming concepts such as 
+abstraction, inheritance, and other object-oriented principles, to which I 
+answered confidently. 
+• After that, he asked me to explain a project I liked the most. I briefly 
+described the project, the technologies I used, how it was implemented, 
+the challenges I faced during development, and the steps I took to 
+overcome those issues. 
+• After discussing the project, the interviewer asked, “Why Fidelity?” 
+This question aimed to understand my motivation and interest in joining 
+the organization. 
+• At the end of the interview, the interviewer asked if I had any questions. I 
+inquired about his experience at the company and the types of projects 
+interns would work on. The interview session lasted for 45 minutes. 
+ 
+Round 3: HR Interview 
+After the technical round, I was called for the HR Interview within 5 
+minutes. The session began with the interviewer introducing himself and 
+asking about my personal background, including: 
+• Family details 
+• Hobbies and interests 
+• Academic performance, specifically my percentage in 12th standard 
+He asked why I chose to apply to Fidelity and inquired about my knowledge 
+of mutual funds. I explained what I knew, and he provided further details 
+about mutual funds and their workings. 
+The interviewer also asked about software development methodologies and 
+reviewed my project, asking why I chose that particular project and how I 
+managed team collaboration during its development. 
+Furthermore, he asked about my strengths and how I would handle a 
+situation if a teammate was unable to contribute to the project. I responded 
+positively, explaining how I would adapt, support the team, and ensure the 
+project’s progress 
+ 
+The HR interview lasted for 30 minutes. Afterward, around 25 to 30 students 
+awaited the results. 
+Finally, 12 students were selected for the internship, and I was delighted to be 
+one of them. 
+Key Takeaways: 
+• Follow structured preparation resources like the Strivers Sheet. 
+• Build a strong foundation in basics of programming and computer 
+science. 
+• Always have clear knowledge of data structures, how they are used in 
+code, and their real-world applications. 
+• If you do not know the answer, start with a brute-force approach and 
+gradually optimize. 
+• Do not hesitate to ask questions or clarify doubts during interviews. 
+• Maintain confidence and a positive attitude throughout the process. 
+ 
+Resources and Preparation Tips: 
+Focus on one language and practice problem-solving regularly on platforms like 
+LeetCode, HackerRank.  
+Be ready to explain your projects end-to-end, as technical questions often 
+revolve around them. 
+Platforms like GeeksforGeeks and LeetCode are excellent for quick revisions 
+and brushing up on key concepts. 
+Understand the company’s background and prepare meaningful questions to ask 
+the interviewer 
+Always be truthful about the skills and experiences listed in your resume. Be 
+prepared to explain every point in detail, providing examples wherever possible 
+to demonstrate your understanding and experience. 
+Be well-prepared in OOPs, DBMS, and also cover important topics from 
+Operating Systems and Computer Networks. 
+                                       ALL THE BEST!!! 
+If you have any doubts or need further clarification, feel free to reach out to 
+me. 
+Contact: 
+Divya Shree K 
+divyashreedivi28@gmail.com 
+ 

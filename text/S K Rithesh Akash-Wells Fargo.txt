@@ -1,0 +1,120 @@
+Wells Fargo Interview Experience
+About the company:
+Wells Fargo is an American multinational banking company that operates in 35 countries
+and is considered one of the big four banks in the United states. They provide banking,
+investment and mortgage products and services, as well as consumer and commercial
+finance through more than 7,200 locations, more than 13,000 ATMs, the internet
+(wellsfargo.com) and mobile banking.
+Interview process:
+The entire process consisted of 4 rounds
+●
+Online test
+●
+Technical Interview
+●
+2 rounds of HR interview
+Online test:
+The test was conducted on the amcat platform and consisted of 3 sections: verbal aptitude,
+business aptitude and coding section.
+The verbal aptitude section had questions on reading comprehension and interpreting and
+understanding given passages to answer questions.
+The business aptitude section contained questions involving interpreting and understanding
+various graphs and some analytical questions.
+The coding section consisted of three questions:
+1.
+First question: Given a string and a character find the frequency of the character in
+the given string.
+2.
+Second question: Given an array and a position k, sort the elements from 0th position
+to k - 1th position in ascending order and elements from kth till end in descending
+order.
+3.
+Third question: Given an adjacency matrix representing a graph and a start vertex,
+check whether it is possible to visit all nodes in the graph exactly once (check
+whether Hamiltonian cycle exists).
+The questions were on the easier side in all the three sections.
+A total of 22 students were shortlisted for the second round.
+Technical Interview:
+The interview was held at MIT campus the day after the online test and it went for about 30 -
+40 minutes.
+The interview started with me giving an introduction about myself. Then the interviewer
+asked which is my favourite/comfortable data structure and I answered stack. He then
+proceeded to ask about the implementation of stack and how to store and retrieve
+information in a stack.
+The next question was “Given an array of strings, sort them with respect to the first
+character, if they are equal, sort wrt second character and so on”. I gave a modified version
+of bubble sort as the answer and he immediately asked about all sorting algorithms that I
+knew. He then asked me to illustrate the merge sort with the help of an example.
+Next question was “given a node of a binary tree, find its inorder predecessor and
+successor”. I was able to give a satisfactory answer and he accepted it.He then asked me
+about the time complexity and space complexity of my algorithm.
+He then asked me questions related to DBMS concepts like what is a primary key, foreign
+key, various normal forms a database can be in. I answered all the questions and he seemed
+happy about it. He then asked me to write a SQL query to display a column in ascending
+order of its values and I was able to write it.He then gave me a situation and asked me to
+design the database and relations for it and asked me how to store the information of a
+particular column more optimally. I was not able to come up with an answer which he
+expected so he helped me to answer it.
+He then went on to ask me about the projects i mentioned in my resume and questioned
+about some competitions which i had in my resume. He also asked me why I preferred
+python more (as I had mentioned I was more comfortable with it) and also asked me the
+differences between Node.js and regular javascript.
+Finally the interview got over and I was asked to wait.
+HR Round 1:
+This round went more like a conversation rather than an interview. The interviewer talked in a
+jovial manner and told me about his career and stuff. He then asked me why I chose Wells
+Fargo and I answered that I was interested and excited about learning how we as software
+engineers can help a finance/banking company and he was pleased with my answer.
+He then wanted me to ask a few questions and I asked him about 3-4 questions including
+“how will an intern spend his time in Wells Fargo?” and “What does the company expect from
+an intern like us?”. I also asked about what kind of security features were in place if a data
+breach was to occur in the company.
+Overall it went for about 25 minutes and I was confident in whatever I talked and asked
+which seemed to work with the interviewer.
+HR Round 2:
+This round went for about 5 minutes. The interviewer asked me how my day was and how I
+felt about the company. She then went to ask about my projects in my resume and asked
+about whether I liked working in a team or individually. I talked about both of them and talked
+about what I like and don't like in both situations.
+She then asked me about my skills and strengths as a person. After that she wanted me to
+ask a question and I asked about the projects we as interns would be working on in Wells
+Fargo.
+The results were announced in the evening of the same day and 12 people including me
+were selected.
+Tips and Insights:
+●
+Practice dsa questions on a daily basis from leetcode,geeks for geeks and
+hackerrank or other platforms. Even if you end up solving less number of questions
+make sure you completely understand whatever questions you solve.
+●
+The resources provided by CODE-ACM were really good and covered all topics that
+could be asked in technical and coding rounds.Start your preparations around 2-3
+months before to give yourself time to be strong in basics.
+●
+Prepare DBMS,OS and OOPS concepts along with dsa preparation as you won't have
+time before the interview.
+●
+The aptitude part of the online test contained easy but lengthy questions. So take
+your time, read the question and answer it. Try to answer as many aptitude questions
+as you can to boost your chances.
+●
+Be confident and convincing and whatever you answer in the interviews. The
+interviewer assesses how you answer and come up with solutions and not whether
+you are correct in your answer. They always try to help you, so be confident and
+maintain a cool head.
+●
+Your resume is very important as half of the questions in the interview will be from it.
+So make sure to only include stuff that you know and can answer any kind questions
+on it.
+●
+Also make sure to add 2-3 of your best projects and take a look at them before the
+interview as a lot of questions will be asked about your projects.
+●
+Always prepare a few interesting and different types of questions to ask the
+interviewer which shows your genuine interest in the company.
+ALL THE BEST!!!
+S K Rithesh Akash
+CEG CSE’26
+Mobile: 9962046121
+Email: ritheshakash.sk@gmail.com
+LinkedIn: https://www.linkedin.com/in/rithesh-akash-5b35252a7/

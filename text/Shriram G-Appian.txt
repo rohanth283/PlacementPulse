@@ -1,0 +1,84 @@
+APPIAN INTERVIEW EXPERIENCE (INTERNSHIP) 
+NAME: Shriram 
+DEPT: CSE 
+MAIL: shriramgg24@gmail.com 
+CONTACT: +91 97909 97992 
+Batch: 2022 – 2026 
+ 
+Round 1: Online Assessment Test 
+The test was conducted on an online platform and consisted of three coding questions that 
+evaluated my problem-solving and technical skills. 
+Question 1: 
+Given a set of breadcrumbs for a website represented as an array of arrays of strings, 
+construct a hierarchical tree structure from it. 
+Sample Input: 
+arr = [['Main', 'Dashboard', 'Settings'], ['Main', 'Profile', 
+'Uploads'], ['Main', 'Dashboard', 'Products'], ['Main', 'Profile', 
+'Remove'], ['Main', 'Manager', 'Work'], ['Main', 'Manager', 
+'Review']] 
+Expected Output: 
+Main 
+ -Dashboard 
+  -Settings 
+  -Products 
+ -Profile 
+  -Uploads 
+  -Remove 
+ -Manager 
+  -Work 
+  -Review 
+ 
+Question 2: 
+Solve the Josephus Problem. 
+ 
+Question 3: 
+You are provided with a group name and a list of people belonging to that group. 
+Additionally, you are given an array of strings representing individuals standing in a line. The 
+task is to reorder the array such that: 
+1. If a person from a group is in the line, all other members of the same group should 
+move to stand next to each other in the order they appear. 
+2. Once all members of a group are adjacent, replace their names with the group name. 
+I was able to solve Question 1 fully and Question 3 partially, which demonstrated my 
+problem-solving abilities and technical knowledge, helping me progress to the next round. 
+ 
+Interview Phase 
+The interview process consisted of three rounds, two being technical and one HR. 
+Round 1 (Technical – 30 mins): 
+The interviewer began by asking me to introduce myself, including my interests, the projects 
+I had listed on my resume, and how I approached learning new skills. He also inquired about 
+my experience with platforms like LeetCode and other coding practice tools. 
+After discussing these topics, he presented me with a logical reasoning problem: I had to 
+identify the odd ball among eight balls, where seven balls were of the same weight, and one 
+was either heavier or lighter. The challenge was to find the odd ball using a balance scale 
+with just two weighings. 
+Following this, I was asked to write pseudocode for a simple coding problem involving 
+arrays. The task tested my ability to break down a problem logically and present a clear, 
+step-by-step solution. The focus was on understanding my thought process and how I 
+approached problem-solving in coding scenarios. 
+ 
+Round 2 (Technical & Behavioral – 15 mins): 
+This round was more relaxed and focused on my favorite and least favorite subjects. The 
+interviewer asked technical questions related to the languages I was comfortable with, 
+testing my in-depth knowledge. I was also asked about the time complexity of Quick Sort. 
+ 
+Round 3 (HR – 10 mins): 
+This round was a standard HR interview where I was asked about my background, goals, 
+and why I wanted to join Appian. The interviewer inquired about my future plans, including 
+whether I intended to pursue a Master's degree, and discussed my resume in detail. 
+ 
+ 
+ 
+Tips: 
+● Be Honest: If you don’t know the answer to a question, take a moment to think about 
+it. If after 5 or 6 minutes you still can’t solve it, it’s better to be upfront about it. 
+● Time Management: Don’t spend too much time on questions you are unsure of. 
+Focus on answering what you know well. 
+● Be Prepared: Have some questions ready for the interviewers, as this can leave a 
+positive impression. 
+● Research: Make sure to research the company before attending the interview. This 
+helps in answering questions related to your interest in the company and its work 
+culture. 
+ 
+ 
+ 
+ 

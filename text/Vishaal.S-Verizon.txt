@@ -1,0 +1,133 @@
+Verizon Interview Experience 
+Verizon is a leading global communications and technology company, ranked as the #1 
+wireless provider in the United States and a global leader in next-generation technologies 
+such as 5G and the Internet of Things (IoT). Verizon is recognized for its innovation, 
+advanced network technology, and enterprise solutions. In 2024, Verizon was ranked as the 
+8th Best Workplace Worldwide by LinkedIn, highlighting its strong culture, employee 
+development, and leadership in technology. Working at Verizon provides opportunities for 
+professional growth, exposure to cutting-edge tools, and being part of a globally respected 
+brand. 
+Recruitment Process 
+1. Online Assessment (Aon Cocubes) 
+The online assessment evaluated multiple skills: 
+• 
+Coding Round (2 Questions): 
+1. Check if the sum of digits of a number N is prime  
+2. Given N, T, energy gains , and jumps  calculate the minimum hours required 
+to reach or exceed target energy. 
+• 
+Essay Writing: Tested critical thinking and writing skills. 
+• 
+Language Proficiency: A 4-minute rapid-fire section to answer as many grammar, 
+spelling, and vocabulary questions as possible. Wrong answers had negative marks, 
+but skipped questions carried no penalty—speed and accuracy were key. 
+• 
+Puzzle Section: Medium-level puzzles in a rapid-fire format tested logical reasoning 
+and problem-solving speed. 
+Outcome: 82 candidates were shortlisted for the GD round. 
+2. Group Discussion (GD) 
+• 
+Topic: How India Serves as a Consumer Base for Global Market Industries 
+• 
+Format: 9 participants per panel, 20 minutes. 
+Tips: 
+• 
+Focus on quality points, not quantity. 
+• 
+Don’t dominate but participate meaningfully. 
+• 
+Use examples or data to support your ideas. 
+• 
+Acknowledge and build on others’ points politely. 
+• 
+Maintain confident body language and show active listening. 
+ Outcome: 50 candidates were shortlisted for the next round. 
+3. AI Prompting Round 
+This round was not preliminary but a key part of the process. Candidates solved problem 
+statements (Realtime System failure concepts, Marketing Solution)using Prompt Engineering 
+techniques such as one-shot prompting, role-based prompting, and structured prompts. 
+Tips: 
+• 
+Understand the problem clearly before writing your prompt. 
+• 
+Use concise instructions with context. 
+• 
+Experiment with role-based prompts for better results. 
+• 
+Practice different prompting strategies in advance. 
+• 
+Stay updated on advancements in AI tools and methods. 
+ Outcome: No eliminations took place in this round. 
+4. Technical Interview 
+My technical interview lasted 45 minutes, but durations can vary. If the panel finds you 
+reliable and knowledgeable, they may extend the questioning. 
+Key Areas Covered: 
+• 
+Programming Languages: Be thorough in the languages you mention. 
+• 
+Java Concepts: Core Java, OOP principles, and sometimes interface-related coding 
+tasks. 
+• 
+Generative AI and Prompt Engineering: Questions on GenAI models, use cases, and 
+prompt strategies. 
+• 
+Projects: Detailed discussions on project schemas, architecture, challenges, and 
+contributions. 
+• 
+Panel Variation: Questions may vary depending on the panel. 
+Tips: 
+• 
+Know your resume inside-out—anything you list can be asked. 
+• 
+Be well-prepared for programming fundamentals and AI advancements. 
+• 
+Understand your project schema and architecture in detail. 
+• 
+Revise Java basics, data structures, DBMS, and OS. 
+• 
+Be honest if unsure—explain your thought process. 
+• 
+Connect your experiences to Verizon’s technologies and values. 
+ Outcome: 32 candidates advanced to the HR round, and all were finally selected. 
+5. HR Round 
+The HR round was casual and friendly, focusing on cultural fit. 
+Questions Asked: Family background, hometown, interests, and flexibility for relocation. 
+Tips: 
+• 
+Be genuine and confident. 
+• 
+Show enthusiasm for Verizon’s culture and opportunities. 
+• 
+Prepare thoughtful questions about growth and company culture. 
+Outcome: Confirmation mails and shortlisted names were shared after HR—not immediate 
+offer letters. 
+ 
+Additional Tips for Success 
+• 
+Coding: Practice competitive programming, focus on time complexity and edge 
+cases. 
+• 
+GD: Stay informed on current affairs and global market trends, especially India’s role 
+in global trade. 
+• 
+AI Prompting: Learn few-shot, zero-shot, and role-based prompting. 
+• 
+Technical: Be thorough with programming languages, project schema, and AI tool 
+advancements. Expect extended questioning if you’re deemed reliable. 
+• 
+General Advice: Stay calm, answer confidently, and maintain a positive attitude—
+confidence matters as much as correctness. 
+Summary 
+Verizon’s recruitment process was smooth and transparent, testing coding skills, 
+communication, 
+AI 
+prompting 
+techniques, 
+and 
+technical 
+expertise. 
+ 
+Contact me: 
+Candidate: Vishaal S 
+LinkedIn: www.linkedin.com/in/vishaal-vishaal 
+ 

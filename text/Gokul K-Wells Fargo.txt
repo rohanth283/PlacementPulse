@@ -1,0 +1,179 @@
+Wells Fargo EGS 
+Number of Rounds: 4 
+Role: Associate Engineer 
+Batch: 2017-2021 (CSE) 
+Mode: Online 
+ 
+Round 1: Online Round – AMCAT Platform 
+There were totally 5 sections. Each section is time restricted. I think for each MCQ, 
+1 minute is allotted. If you completed the questions earlier you can skip to the next 
+section but the remaining time in the previous section was not carried away. Once you 
+move to the next section/question, you were not able to go back to previous one except 
+coding section questions which is on the last section. 
+1. General Aptitude 
+2. Technical aptitude 
+3. Verbal and comprehension  
+4. Business Analytics 
+5. Coding question 
+General Aptitude: 
+ 
+General aptitude MCQs (refer Indiabix site). It covers topics like profit and loss, 
+time and work, find the next number in the series, finding pattern using alphabets, 
+logical questions, etc.., 
+Technical aptitude: 
+ 
+Technical MCQ questions from various domain of computer science like dbms, 
+OS, Computer organization, debugging and some simple coding questions. 
+Verbal and Comprehension: 
+ 
+It consist of English verbal MCQ like selecting the appropriate word for the 
+sentence, synonyms, ordering of sentence and questions based on English 
+comprehension. 
+ 
+Business Analytics: 
+It’s something similar to English comprehension but instead of giving a 
+passage, a graph and chart (Stocks, gain & loss,…) was given. The questions were 
+asked in such a way to interpret from the given picture for answers. 
+Coding question: 
+ 
+Two coding questions were asked. One based on max heap and one on DP. 
+Though the first question was bit easy, one given test case was wrong. So, the 
+question was not passing all the given test cases, not sure about the hidden cases. 
+The Second question is bit tough for me. I tried, but only one given test case was 
+passed. 
+1. Given an N mikes and M group of singers and an array consist of 
+number of singers in each group. We have to distribute the mikes 
+such that maximum group should be divide into two. Return the 
+number of singers in the maximum group.  
+2. Graph-DP based questions 
+I hadn’t done the coding part well as I had not completed any one of the coding 
+questions fully. I had a satisfaction of business analytics section.  
+Round 2: Face-to-Face Technical Round – Zoom meetings – 1 Hour 
+ 
+It’s really a fun part. I hadn’t checked my mail in the morning. I called my friend 
+who done both the coding questions well with all test cases passed on one question 
+and another one with one case failed. He told me sadly that he was not shortlisted for 
+next round. So, I thought how can I shortlist if he itself didn’t. For this company, we 
+were not supposed to receive the shortlists through our placement group (WhatsApp) 
+because they sent the mail personally to all the shortlisted candidates. I was watching 
+film by having a call with my friend. Around 10.40 am, I got a call from an unknown 
+number. As I activated a call waiting option and my data was turned on, there shows 
+Wells Fargo with HR name because of one call identifier application, I was bit shocked 
+and thought why they called me. Then I switch on to the call. He asked to join in the 
+meeting as the business was waiting. I asked what meeting. He said that I got 
+shortlisted for next round of interview and interview got scheduled at 10:30 am. What 
+an embarrassing moment it was, I apologized him as I didn’t notice the meet invite. 
+Then he gave me meet ID and password. He asked me to join the meet immediately. 
+I suddenly wore formals and joined the meet. It was around 10.45 am. I joined the 
+meet, unfortunately there was no business in the meeting. Then I called HR again and 
+he assigned an interviewer. I apologized him for joining late and the interview get 
+started. 
+ “Tell me about Yourself” 
+ Asked about the projects in my resume 
+ Asked in detail regarding my compiler project, as I mentioned in resume. 
+(Code optimizer project - Lex & Yacc - explanation and working) 
+ Asked me to write a code for words recommendation (say for example, If 
+we type ‘Go’, it had to recommend Gokul, Gopal, Govind,…) 
+ Asked 3 logical puzzles - water boat to cross bridge question, color ball in a 
+bucket, min distance using umbrella in rain. 
+I felt very bad for not joining the meet on time as it would create the bad first 
+impression. Kindly read the Take away for the reason of telling this story. 
+Round 3: Face-to-Face Second Round – Zoom meetings – 1 Hour 
+ 
+HR called me for the next round. For this time I joined on time. But unfortunately 
+my Interviewer haven’t joined on time. I waited for 10 minutes. Then I called HR and 
+informed him. Then later, my interviewer joined and he apologized me for joining late. 
+What a great culture, and that time I felt ‘Karma is a boomerang’ as I was waited lol. 
+The interview began, 
+ “Tell me about yourself” 
+ He asked me the favorite subject of mine – I answered DSA 
+ Data structures used in elevator – I told that that depends on the purpose of 
+the lift. Then based on his constrains, I suggested priority queue 
+ Data structures used in ATM Dispenser – I said again the priority queue and 
+explained why I chose that one. 
+ String based questions. Given the two strings, we have to print the strings 
+in the ‘+’ format, one on vertical and one on horizontal with center as first 
+matching character. I had an O(n^2) approach. While explaining that one, I 
+got with an another approach of O(n). He was not convinced with my O(n) 
+approach. I strongly supported my approach. He asked me to convince him 
+though how much time it took. Then I convinced him at last with some 
+pictorial representations. He got impressed and he told so. 
+ Data structures used in google maps - based questions 
+ Gave one application, I won’t remember and asked what algorithm we could 
+use for that. 
+The interview got over and he told me that he would pass me on to next level 
+of the process and suggested few tips for the next round ie., HR round. What a great 
+person he is. 
+Round 4: Face-to-Face HR Round – Zoom meetings – 30 min 
+ “How was your day” 
+ How was the online round, any difficulties I had faced? 
+ About my family and background 
+ “Any Questions for me?” – use this opportunity to show the HR that you 
+have done some research on company and you are interested to join in it. 
+ She signed off with an indirect positive message. 
+Topics to be focused: 
+ Data Structures - mainly focus on arrays, strings, heap, graph, trees, dp 
+ Operating Systems, DBMS 
+ Technical Areas of interest mentioned in your resumes. 
+ Any one programming language (C++ or Java preferable) 
+Take Away: 
+ After the completion of coding round, check your mail and WhatsApp group. 
+Though your friends got selected, give them your greetings. 
+ Attend the interviews without any preconditions though you are late, not 
+answered the previous questions or whatever. Answer the questions 
+confidently and pitch your ideas/approach if you feel it is correct. If interviewer 
+says any better approach, accept it and move on to next one. 
+ Be punctual to the interviews. 
+ Be clear on what you mentioned in your resumes. 
+ Speak confidently with some good gestures and expressions. 
+ Mostly interviewers are friendly and they will help you to arrive a solution. Just 
+keep on trying. They will focus more on your approach than the solution. 
+ For general questions, don’t let the answers be too short or too long. 
+General suggestions: 
+ Build your resume of only one page – may use 2 columnar – companies expect 
+1 page resume from beginners – It’s up to your choice either to choose your 
+unique template or predefined one but one page is preferred. 
+ Go through the applied company and its Job Description (JD) and I personally 
+suggest you to modify your resumes by adding or removing your skills/projects 
+according to the company’s JD. 
+ “Tell me about yourself” should cover a bit about your family, academics, and 
+try to demonstrate your technical (internship or project experience) and 
+management skills (positions held, any responsibilities etc.,) and an 
+achievement/proud moment (if any). Don’t make it too short/long. Suggest to 
+cover around 2 to 4 minutes. 
+ In some companies, interviewer may ask your favourite projects or topics. Tell 
+them the one, you are more confident off and explain them why that one? 
+ Once you know that you got shortlisted, have a good sleep the previous day 
+and be brisk on interview. 
+ Attend the interview freely. Don’t be nervous and stressful. Though it’s easy to 
+suggest you, I know how hard it is. Do some home works for the interviews like 
+practice yourself in front of mirror, asking your seniors/friends to conduct some 
+mock interviews,... If you well prepared your first question, “Tell me about 
+yourself” then you will gain some confidence.  
+ For the soft skills mentioned in your resume – be ready with a situations where 
+it helped you a lot (your story). 
+ Though you have prepared answers for some questions, don’t let the 
+interviewer know it is prepared. Go with the natural flow. You will make it 
+through practice. 
+ While doing coding questions, try to complete a question fully and then move 
+on to next one. You have to choose the question in that manner.  
+ “Consistent is the key to success”, a well-known quote. If you haven’t selected 
+or move to further rounds in interviews – learn from it and practice consistently 
+and try to avoid those mistakes in upcoming one. 
+ I suggest you to prepare along with your friends of same mindset to keep you 
+motivated and discuss with them regarding the questions and experiences and 
+I strongly suggest you to connect with any known seniors, so that you can get 
+some clear picture. 
+ You must develop yourself to face rejections.  
+ “Hard work never fails”, of course hard work never fails until you work hard 
+whenever it fails. 
+ Last but not least, “Friends” – What a beautiful relationship. If you got an offer 
+from any companies, try helping your friends and take care of them. 
+ 
+ALL THE VERY BEST! 
+WISH YOU ALL SUCCESS!! 
+ 
+Contact: 
+Name: Gokul K 
+Mail id: kgokulceg@gmail.com 
+Linked in: linkedin.com/in/gokulk03  

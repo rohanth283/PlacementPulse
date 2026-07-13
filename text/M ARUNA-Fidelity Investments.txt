@@ -1,0 +1,97 @@
+ARUNA M – Computer Science And Engineering  
+             
+Intern at Fidelity Investments 
+About the Company: 
+Fidelity is one of the leading financial investment companies in the U.S., 
+known for promoting a perfect work-life balance. It fosters an 
+environment where there's ample opportunity to learn and explore, with 
+innovation and curiosity being key drivers for success. 
+Overview of the Process: 
+     The overall process consisted of: 
+ An Online coding contest. 
+ Interview Round 1 (Technical) – at CUIC 
+ Interview Round 2 (HR) – at CUIC 
+ 
+Coding Test: (Hirepro Platform)  
+This round had four sections. 
+ 
+ Section 1: Multiple-choice questions on English. 
+ 
+ Section 2: Multiple-choice technical questions covering topics such as 
+Computer Networks, Operating Systems, OOP, C++, and Data Structures 
+& Algorithms (DSA), Database Management Systems. 
+ 
+ Section 3: Coding questions: There were two problems, one of medium 
+difficulty and another of a hard level, focused on Arrays and Strings.  
+1. Write a program to read a string of uppercase letters and transform 
+it by shifting even-indexed characters one step backward and odd-
+indexed characters two steps forward in the alphabet (with 
+wraparound). 
+2.  program to read two integers, find the sum of digits of each, and 
+print the product of those sums. 
+ 
+ Section 4: Algorithm: We were asked to write algorithm for two 
+problems. The time for this section was more limited compared to the 
+others. (10 minutes) 
+                  1. Infix to prefix. 
+                  2. Generate combinations. 
+ 
+ 
+75 students were shortlisted for the next round 
+ 
+Interview Round 1 –Technical (60 minutes): 
+ 
+ Group Anagram, Reverse Each Word (leetcode problem) 
+ Multiprocessing vs Multithreading – difference. 
+ Is multiple inheritance possible in Java? Explain the diamond problem.. 
+ Explain method overloading vs overriding. 
+ When variables and pointers are declared, where are they stored in 
+memory, how many bytes does a pointer take, and where does it point to? 
+ Garbage Collector – how it works and how to minimize its impact. 
+    25 students were selected. 
+ 
+Interview Round 2–HR (45 minutes): 
+ 
+ Some discussion company service and culture. 
+ Some discussion about my project. 
+ What is  spring boot . 
+ Discussion on previous attended coding competition. 
+ Some general family related questions. 
+ Struggle faced on first semester and how I overcomed. 
+And more. 
+12 students were selected. 
+ 
+Preparation Strategy: 
+ 
+ Competitive programming: 
+     I used materials of  strivers topic wise playlists. 
+     I used to watch destination faang  youtube channel videos 
+ 
+ DBMS, OS, OOP: 
+    These are covered in the curriculum. For revision I used ‘Last minute 
+notes’ of Geeks for Geeks. 
+ 
+ 
+Tips from my side: 
+ 
+ Get to know the optimised solution even after all the test cases passes. 
+ Be strong in the fundamentals of OS, DBMS, OOP,DSA. 
+ Good to have projects relevant to the company in your resume. 
+ Read the previous interview experiences of the company from Geeks for 
+Geeks interview archives. 
+ If your interests align with the company’s work, make sure to include it in 
+the conversation to increase the chances of getting selected. 
+ Research about the company before going to the interview ,also prepare 
+question to ask the interview. 
+ Be confident and use hand gesture while explain a answer. 
+ The types of questions varied across panels. Most panels asked about the 
+projects listed on the resume, while some focused on fundamental 
+concepts of DBMS, OS,DSA and OOP. 
+ If you didn’t know the answer for any question, don’t panic. Tell the 
+interviewer that you are not sure about it now, but will definitely be able 
+to learn it. 
+ Make your interview feel that  you are so passionate to work . 
+ 
+ 
+ 
+ 

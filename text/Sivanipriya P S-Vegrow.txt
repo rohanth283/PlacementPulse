@@ -1,0 +1,80 @@
+  
+VEGROW INTERVIEW EXPERIENCE  
+(INTERNSHIP)  
+Vegrow, India's leading B2B fruits marketplace was established in 2020 by IIT 
+alumni. Vegrow has established a strong presence in the fruits segment in 
+India, which is a large, unorganised market that is poised for tech-led 
+disruption due to its fragmented and localised operational structure and is 
+characterised by the involvement of multiple intermediaries facilitating 
+transactions.  
+The company maximises farmers’ income, by accurately grading produce and 
+efficiently matching it with the most suitable demand channel. This creates a 
+virtuous cycle, attracting more farmers through competitive pricing as well as 
+more buyers, who seek consistency in both price and quality.  
+ROUND 1:  
+Online Hackerrank Test :  
+It consists of three coding questions and an sql query to be written.  
+0/1 Knapsack Problem  - The objective was to maximize the profit from 
+selecting artifacts for a caravan with a strict weight limit. Given the profit 
+values and weights of the artifacts, I needed to determine the maximum profit 
+achievable without exceeding the weight capacity  
+Best Time to Buy and Sell Stock - The task was to determine the maximum 
+profit that can be achieved by buying a crop on one day and selling it on a later 
+day, given an array of prices representing the crop prices over several days.  
+Candy Distribution problem -  To calculate the minimum number of rewards 
+(or candies) to distribute among fields based on their productivity ratings, 
+ensuring that higher-rated fields receive more rewards than their adjacent 
+lower-rated fields.  
+SQL - SQL query problem where I needed to retrieve the names of students 
+who scored higher than 75 marks. The results were ordered by the last three 
+characters of their names, and if there were ties, they were further sorted by 
+the student ID.  
+  
+From the test 10 students were shortlisted and eligible for the Interview 
+Conducted at CUIC and there are 2 Technical interviews.  
+  
+ROUND 2:  
+TECHNICAL INTERVIEW-1 : (1 hour)  
+1. Introduce Yourself  
+2. Can you write the pseudocode for the knaspsack problem using 
+recursive method.  
+3. The syntax of SUBSTR which I used to write my sql query on coding 
+round.  
+4. They asked about my project.  
+5. What are the frameworks you know in both frontend and 
+backend.  
+6. Gave Laptop and told to write merge two sorted linked lists 
+program in Hackerrank.  
+7. How do you find whether a number is  an exponent of 2 using bits.  
+8. There are 12 balls. 11 balls are of same weight and there is one 
+odd ball which may be either lighter or heavier when compared to 
+other 11 balls. You have a weighing scale and you can use it 3 
+times. How do you find the ball and also specify whether it is 
+lighter or heavier than others.  
+9. What is Ternary Search and write its pseudocode.  
+10. Any idea to study Higher Studies.  
+11. They asked some questions on my Resume. 
+From this round 5 students got shortlisted for the next round.  
+TECHNICAL INTERVIEW-2: (20mins)  
+1. Tell me about yourself.  
+2. There was a Scientist and he has 4 bottles, of which 3 are chemicals 
+and 1 with poison . He has 1 rat alone which dies when it consume 
+poison. The result of the poison make the rat die after 10 hours.  
+ 
+ 
+What is the minimum time required for the scientist to find the 
+poison bottle.   
+ For the same question if it takes 10 +/-  2hours to affect the   rat 
+what is the minimum time required for the scientist to find the poison 
+bottle.  
+3. Write the pseudocode to print the boundary of the tree.  
+4. How do you find the loop in linked list.   
+5. Why fast pointer is moved two nodes from the current why can’t it 
+can move three nodes while finding the loop in linked list.  
+6. Did you host any website? Show it.  
+And finally 3 students got selected for the internship.  
+ALL THE BEST!  
+ 
+Details: 
+Name : SIVANIPRIYA P S 
+Email: sivanipriyasenthilkumar@gmail.com 

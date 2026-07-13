@@ -1,0 +1,89 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Citicorp Services  
+ 
+Citigroup Inc. or Citi is an American multinational investment bank and financial services 
+corporation headquartered in New York City. Citicorp Services is a part of Citigroup. Citicorp 
+Services India Private Limited provides financial services. The Company offers commercial vehicle 
+and construction equipment lending, trade advance, loan against securities, and consumer loan 
+services. Citicorp Services India serves customers in India.  
+ 
+Position : Summer Technical Analyst (Internship) 
+                 Technical Analyst ( PPO) 
+ 
+Internship hiring consisted of following rounds: 
+ 
+Round 1: Technical and Managerial 
+ 
+1. Tell me about yourself. 
+ 
+2. They asked questions in the programming languages mentioned in resume.They specifically 
+asked questions in Python. 
+ 
+3. They asked me to explain about the Java project in resume. 
+ 
+4. Why Citi? 
+ 
+I replied that I liked finance and told about how my school finance club taught me about shares and 
+investment. They asked me to explain about the club and its functioning. 
+ 
+Round 2: Technical 
+ 
+1. Array based programming question where we have to remove the duplicate elements in array. 
+ 
+I was asked to write the pseudocode in paper. The interviewer suggested me some special 
+constraints and I modified the code accordingly. 
+ 
+2.  Questions on semaphores, mutex and general OS concepts. 
+ 
+3. Had to write a SQL query for a use case that required JOIN operation. 
+ 
+It was a bit tricky. I wrote a simple solution. The interviewer helped me to arrive at an optimal 
+solution. Make sure to communicate your thought process to the interviewer while trying. 
+ 
+I was able to solve all of them and proceed to the next round. 
+ 
+Round 3: HR 
+ 
+The HR round was very casual as compared to other rounds. They are just trying to get to know 
+more about yourself 
+ 
+1. Tell me about yourself. 
+ 
+2. Why Citi? 
+ 
+3. What are your interests? 
+ 
+4. What are your strengths and weaknesses? 
+ 
+Topics to be focussed: 
+ 
+ Data structures and Algorithms 
+ Database management systems 
+ Operating system 
+ Good knowledge of projects in resume 
+ Java ( favourable) 
+ 
+Take away: 
+ 
+ 
+Having a good knowledge of basic computer science domains, programming helped me to get 
+placed in this company. Interviewers focused on our calm composure and confidence. Remember to 
+ask questions and know more about the company whenever the interviewer asks you “Any more 
+questions?”. 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Nishaali M 
+m.nishali2011@gmail.com 
+ 

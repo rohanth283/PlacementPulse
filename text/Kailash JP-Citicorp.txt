@@ -1,0 +1,78 @@
+CITICORP SERVICES INDIA PRIVATE LIMITED 
+ 
+CitiCorp Services India Private Limited deals with financial services. It provides 
+investment and commercial banking services like consumer loans, trade advance etc. 
+ 
+Round 1: Online Assessment 
+ 
+This round consisted of MCQs and 2 coding questions. The MCQs included aptitude, 
+logical, mathematical and verbal questions each in different sections. Time 
+management is crucial while solving this MCQ’s as each section has a seperate timer. 
+All these questions where ranging from easy to medium level. The coding questions 
+are in easy and medium level mostly. Practice in Leetcode and Geeks for geeks 
+website for coding. 
+ 
+Round 2: Technical , Managerial and HR Interview 
+ 
+The technical round is for about 25-30 minutes. The questions were as follows. 
+1. 
+Tell me about yourself 
+2. 
+Question on array. 
+3. 
+Questions on projects mentioned in the resume. 
+4. 
+Asked to tell an idea which I would like to implement in Citicorp  
+5. 
+If your manager refuses to listen to your ideas,will you quit the job or will you 
+ 
+try any other alternatives? 
+6. 
+What do you consider important, Listening or Speaking? 
+7. 
+What is your short term and long term goals?. 
+8. 
+Suppose after joining Citicorp, if you are getting a lucrative offer from  
+ 
+Google, what will you do? 
+9. 
+Any questions regarding the company 
+ 
+Be bold in answering these questions and don’t be in a hurry to answer the questions, 
+think properly before telling your answers. 
+ 
+ 
+ 
+ 
+ 
+Round 3: HR Interview 
+ 
+This round is for about 5-10 minutes. The following questions were asked. 
+1. 
+Tell me about yourself ? 
+2. 
+Why Citicorp? 
+ 
+For the last question, do some background research on the company if you are about 
+to ask questions on the company’s culture and stuff. Other questions can be about the 
+learning process or you can pick up topics from the company’s presentation. 
+ 
+Topics to be focused: 
+ Data Structures and Algorithms 
+ Prepare answers for common HR questions and ‘about yourself’ question prior. 
+ 
+ 
+Take Away: 
+Be bold and though if you are not able to answer a question properly do not worry too 
+much about it and let it affect your interview. Try to keep a calm head throught and 
+respond in a positive manner. 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Kailash JP 
+Kailashjp977@gmail.com 
+ 
+ 
+ 

@@ -1,0 +1,54 @@
+Company: Samsung R&D Institute India-Bangalore (SRI-B) 
+ 
+Internship: 2 months (Virtual) – last week on campus 
+(Bengaluru) 
+ 
+Online Test:  
+contained 3 questions  
+1)Bitwise operator question 
+2)sum up alternative nodes - 
+https://www.geeksforgeeks.org/print-alternate-nodes-from-all-
+levels-of-a-binary-tree/ 
+3)array based question – it was easy but optimal solution was 
+expected (Time – O(N) and space – O(1)) 
+ 
+Interview (Virtual): around 1 hr 
+1)No questions asked regarding projects, was asked about 
+introduction and then the interview directly asked what’s my 
+favorite data structure and started asking questions . 
+ 
+2)questions asked – LinkedList : reverse a linkedlist , inserting 
+a node in a sorted linkedlist , deletion of a node , finding the 
+intersection point of two linkedlist ( 
+https://leetcode.com/problems/intersection-of-two-linked-
+lists/description/) 
+Searching a node in binary tree 
+ 
+3)OS concepts – Threading, Multi – threading , Memory 
+Management techniques  
+ 
+4)OOPS concept – 4 pillars (abstraction, encapsulation 
+,polymorphism , inheritance ) 
+ 
+5)Testing your ability to think and approach a problem – 
+Interviewer gave a sample use case and asked me to give a 
+solution.  
+ 
+The question was something like:  
+There is an array which has memory spaces allocated to it, 
+when a program utilizes the CPU the spaces in the array are 
+allocated to each program from the array. Write an algo to 
+optimize the memory allocation efficiently.  
+Sol: Use a Boolean variable ,Mark the used index(Utilized 
+spaces) of array as false and keep track of free spaces and 
+check for adjacent index which is also free and expand the 
+available free places to make it as a big chunk of available 
+memory to avoid segmentation . 
+ 
+Last year they asked Dp – egg drop question and Graph as 
+well so it’s better to be prepared with all the DSA topics 
+(especially LinkedList , Tree, Graph and DP) it all depends on 
+the interview ! 
+ 
+GOODLUCK ! 
+ 

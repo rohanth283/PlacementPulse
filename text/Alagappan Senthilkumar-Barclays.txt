@@ -1,0 +1,98 @@
+Barclays 
+ 
+Barclays is a British multinational banking and financial services company 
+headquartered in London, with a rich history dating back to 1690. It operates globally, 
+providing a wide range of banking, investment, and wealth management services to 
+individuals, businesses, and institutions. With a significant presence in the United 
+Kingdom and an international footprint, Barclays offers retail and corporate banking, 
+investment banking, asset management, and credit card services. The bank has been 
+involved in various philanthropic initiatives and is known for its commitment to 
+sustainability and environmental practices. 
+ 
+Hiring Role: HTD Intern 
+ 
+There were 2 Rounds: 
+ 
+ Online Test 
+ Technical + HR Round 
+ 
+Online Test: 
+ 
+Duration: 45 minutes 
+ 
+There were around 24 MCQs, 3 Programming Questions and 5 SQL based questions. 
+It was conducted in HackerEarth platform. The MCQs were based on Java, C, C++, 
+DBMS, SQL, OOPS and to find the output for a given pseudocode. Having a strong 
+knowledge of CS fundamentals and DBMS will be sufficient to clear this round. 
+ 
+The SQL queries were also basic and straightforward. 
+ 
+Technical + HR Round:  
+ 
+Duration: 30 minutes 
+ 
+The interviewer first greeted me and asked for my introduction. He then went through 
+my resume and asked me some basic questions about C++ and OOPS concept. 
+ 
+The questions included:  
+ What is the need for a class? 
+ Difference between object and class? 
+ What is encapsulation? 
+ What is Data Abstraction and how to achieve it? 
+ 
+Later, he also tested my knowledge on Ethical hacking and how banks incorporate the 
+necessary safety measures. He asked me about the static method, its uses and how 
+it can be used in a program. I had mentioned some certificates that I had got in my 
+resume. Some questions were also based on my certificates. 
+ 
+ 
+ 
+Project: 
+ 
+This is the backbone of your resume. You need to be thorough with your projects and 
+most importantly your Resume.  
+ 
+Some questions he asked me were, 
+ What are the security features? 
+ The tech stack that you used for this project? 
+ Why did you choose this project? 
+ 
+Add your projects to your GitHub account since some interviewers might check your 
+profile and it might give a good impression about you. 
+ 
+In my HR Round and some basic questions like the following were asked. 
+ Why do you want to work here? 
+ Where do you see yourself in 5 years? 
+ Tell me about your strengths and weaknesses? 
+ 
+In the end, he asked me if I had any questions for him. I had asked him about the work 
+culture and the advice that he would give me as an Intern. 
+ 
+Around 15 students were selected and I was lucky to be one among them. 
+ 
+Tips: 
+ 
+1. Be confident while answering the questions. 
+2. Be thorough and keep revising subjects like DSA, OS and most importantly 
+DBMS. 
+3. Be truthful to your resume. Mostly questions will be based on what you mention 
+in your resume. 
+4. Read the job description and you must do a research about the company. 
+5. Refer to the company's website to learn about RISES. 
+ 
+ 
+All the Best!! 
+ 
+Contact: 
+ 
+Alagappan Senthilkumar 
+ 
+Email: skalagappan03@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

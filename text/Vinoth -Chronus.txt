@@ -1,0 +1,47 @@
+ 
+ 
+ 
+ 
+CHRONUS 
+ 
+Round 1: 
+● 2 Coding questions of moderate difficulty hosted on hackerearth. One was on binary 
+search similar to the famous https://www.spoj.com/problems/AGGRCOW/ and the 
+other was on strings. 
+Round 2: 
+● Platform : Hackerrank codepair 
+● https://www.geeksforgeeks.org/majority-element/(Moore’s Voting Algo) 
+● And questions related to my internship experience in Samsung Semiconductor. 
+● A few standard puzzles.(Ample time was given) 
+Round 3: 
+● A variation of https://www.geeksforgeeks.org/count-ways-reach-nth-stair/ 
+● Few HR questions 
+● A wonderful question that needed spot thinking based on random number 
+generation. 
+● Couple of puzzles and briefly touched on rest apis 
+Round 4: 
+● Completely friendly HR questions 
+ 
+ 
+My piece of advice: 
+ 
+● Practice regularly on leetcode and hackerrank or even gfg. 
+● Complete 
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-
+amazon-microsoft-adobe/ 
+●  
+● Concentrate on OS and DBMS too.(You will have to know the code for thread creation in a 
+language of your choice and code for JDBC connectivity. Boomer interviewers ask stupid 
+questions like these) 
+● Develop an intuition for recursion 
+● Dynamic programming might be a bit counterintuitive but you will love it once you get a 
+knack of it. Start with a recursive solution ,then formulate top down dp approach then 
+proceed to bottom up dp.(My way of doing dp. Not sure if it's perfect). 
+● Have 2-3 solid projects (Atleast) 
+● Do not over-familiarize yourself with standard problems .Try competitive programming .Try 
+doing long challenges on codechef. 
+ 
+ 
+Btw, I’m Vinoth 
+Contact me on whatsapp @9629160571(Anytime bro!) 
+All the best ! Chill out and enjoy the preparation! 

@@ -1,0 +1,107 @@
+MICROSOFT INTERVIEW EXPERIENCE 
+ 
+Microsoft Corporation is an American multinational corporation and technology company 
+headquartered in Redmond, Washington.[2] Its best-known software products are the Windows 
+line of operating systems, the Microsoft 365 suite of productivity applications, the Azure cloud 
+computing platform and the Edge web browser. Its flagship hardware products are the Xbox 
+video game consoles and the Microsoft Surface lineup of touchscreen personal computers. 
+ 
+Role Offered: Software Engineer 
+Stipend:  1,25,000 INR per month 
+Sequence of Selection: Online Test, Technical Interview 1, Technical Interview 2 
+(Completely Virtual) 
+  
+Online Test: 
+It consisted of two problems. 
+ 
+ 
+First Problem:  
+Given two very long numbers in a linked list, how many swaps do you need to make the 
+absolute difference between the number’s minimum. 
+You can only swap corresponding indices. That is A[i1] can only be swapped with B[i2]. 
+ 
+Example Test Case:  
+ 
+A = “9 8 6 5” 
+ 
+B = “2 3 4 5” 
+ 
+ 
+Output: 1; 
+Explanation: We can swap 8 with 3 and 6 with 4 and the answer would be 2 swaps with a 
+minimum value of 6480 (9345-2865). But this is not the minimum. The minimum is swap is 
+1 because 9345-2865 is also 6480. 
+ 
+Second Problem: 
+Given a string of directions consisting of “N” (North), “E” (East) and “W” (West). Find the 
+shortest path from the end point to the initial point by using only “E”, “S”, and “W”. The 
+extra note given was to that the first and last move will be North for all testcases. 
+Example Testcase:  
+ 
+S = “NENWN” 
+This would look like, (The black stroke) 
+ 
+ 
+End point: 
+ 
+     
+ 
+ 
+ 
+ 
+Start point: 
+The output would be, 
+ 
+Output: “WSSSE” (The red stroke) 
+ 
+My Experience: 
+The text editor was like, we can run testcases and custom inputs. But after submission we 
+cannot modify the submitted solution. So, I did submit after thinking of a solution. It was a 
+greedy approach. I think personally think the right answer would be in dp. For the second 
+question I was able to come up with a right solution. We can also use bfs also. I did an 
+iterative solution directly. 
+ 
+The result was declared after one hour. Only 5 candidates were chosen out of the whole 
+college. 
+Technical Interview 1: 
+This was 36 hours later. 
+9:30 am 
+First, I had to install teams in my system to attend the interview. 
+Then for the whole interview, I had to keep my camera ‘on’ and also share my screen. He 
+also gave a common link for us both to code at the same time. 
+Then the first question the interviewer asked me was that if I was familiar with linked lists. I 
+answered Yes. 
+He asked me the question, that I have to delete any nodes that has than more than one 
+occurrence. The given list was also sorted. So, for example, if the given list was 1->2->2->3, 
+the result should be 1->3. The deletion should be in-place. So, the head should be returned.  
+I was able to talk to him and also come up with a working solution. 
+ 
+Then we moved on to the next question. The question was to print all the prime numbers until 
+500. I used Sieve of Eratosthenes algorithm to come up with an efficient solution.  
+Takeaway:  
+In my opinion, the questions were easy. The critical factor in the interview was the way you 
+solve it. 
+Your approach only matters. If you can talk and do the solution parallelly, it shows the 
+interviewer your thinking process. So, be sure to talk during the interview. 
+Technical Interview 2: 
+3 hours later (Same day) 
+The same initial setup with sharing my screen with my camera. 
+The interviewer first asked me not to be nervous and asked me to explain my thought at each 
+step. Then the question asked to me was https://leetcode.com/problems/restore-ip-
+addresses/description/ . I never solved this question at leetcode but I was able to come up 
+with a solution during the interview. I coded the entire solution in notepad. 
+The interview lasted for an hour.  
+Takeaway: 
+As I said talking out your solution is what matters the most. The solution I came up with was 
+not very efficient at all but I still explain my though process. 
+Conclusion: 
+After 2.5 hours (Same day)  
+I got the message that I was selected for their internship. (Completely over the moon).  
+Always try to explain your thoughts. The interviewer helps you to come to the right solution. 
+Don’t panic, stay calm and try to code your answer.  
+ 
+All the very best. 
+Hariharan Alexander, 
+CEG CSE’26 
+E-Mail: hariharanvirum@gmail.com 
+Mobile: +91 7708462392 

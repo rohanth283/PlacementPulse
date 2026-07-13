@@ -1,0 +1,93 @@
+AMAZON SDE 2 MONTH INTERNSHIP EXPERIENCE
+2022
+About the company:
+Amazon is a product based company. It has a lot of divisions like e-commerce,
+cloud computing (AWS), digital streaming, AI (Alexa), ECHO and so on. It’s
+one of the MAANG companies.
+Experience:
+Amazon isn’t a regular visit to our college. They approached our college for
+internship 2 years back and left without picking any interns. But in recent
+trends, Amazon is taking a good count of interns from all the colleges around
+India.
+They held two rounds for selection. The first one was online assessment.
+They asked 2 coding questions and then a work personality test. The
+questions were very easy, it was more of practical and implementation
+oriented. Most of us were able to attend both of them. The personality test
+was kept to check your work ethics and whether you are a fit for their work
+culture. It is almost like other usual personality test where you would be
+provided with a situation and you must either agree or disagree. We still don’t
+know whether it is taken as a metrics for evaluation.
+OA: (HackerRank)
+The question pattern for the online assessment would change for every year.
+This year it was only coding round whereas previously they would ask coding
+questions along with code debugging (i.e semantic and syntax errors) and
+some technical questions sections. So prepare yourself for both coding and
+also technical questions.
+Interview:
+Then for the interview, they selected around 74 students (both MIT and CEG).
+The interview is one of the crucial part in selection for Amazon.
+Interview Format: Code pair
+“I’d rather interview 50 people and not hire anyone than hire the wrong
+person” - Jeff Bezos.
+In the interview, we had an introduction where each of us took a turn
+introducing ourselves. In this interview, you wouldn’t have any HR round to
+talk about your strengths. So when you introduce yourself, tell them your
+technical strengths and what projects you have worked on. Present yourself in
+a pleasing way. Then you would be asked to share your screen and use
+LiveCode to code your questions.
+You will be provided with a question. Even if you already know the answer,
+start with brute force because the entire interview will be testing your
+communication with the interviewer and your approach to problems.
+When providing your approach, go in hand with the time and space
+complexity and also why you are going with it. And then, after the approach,
+you will be asked to code. When doing so, explain the code when you are
+typing and what that snippet would work as.
+If time permits, the interview would go for another question. In some cases, 3
+questions could be asked. It depends on the interviewer. In the end, you will
+be allowed to ask a few questions. Ask appropriate questions that help them
+understand how much you are interested in working for the company.
+Round 1 - Online Assessment
+The Online Assessment was split into two sections. One being the coding
+round and other being the work-personality round.
+The coding round was really easy. The question were like real life problems of
+the basic question.
+1. Optimize arranging the letters in a button cell phone.
+For each string given as test case, we have to find the optimized way to
+arrange the letters in the 9 button such that minimum number of clicks should
+be performed to type the text.
+Sol: use Priority Queue
+2. Find the grayest area in a given screen ( matrix ) .
+Each cell in a matrix/ screen may be black which is represented as -1 and
+white as 1. To calculate grayness for each cell you would have to find the
+difference between no of black area and no of white areas in the cell’s
+identified row and col. The one with maximum value (absolute) is the answer.
+Sol: Calculate row_sum and col_sum for each row and col. Then using that,
+find the maximum absolute sum of row_sum[i] and col_sum[i].
+Round 2 - Code pair interview
+1. Run-length-encoding
+https://www.geeksforgeeks.org/run-length-encoding/
+The task is to convert a string “aaabbcccc” to “a3b2c4”
+Questions asked
+- Condition in which a string could be “aaaabbaaa”
+- Reduce space complexity
+- Does the length of the solution string is always less than original
+2. Happy Strings
+https://leetcode.com/problems/longest-happy-string/
+The task is you will be given 3 characters ‘a’, ‘b’, ‘c’ that has a, b, c
+occurrences. The substring of the resultant string generated shouldn’t have
+three consecutive same characters (like “aaa”). Generate the longest string
+Question asked
+- The same question when instead of three characters infinite number of
+numbers would be provided with any number of occurrences.
+Tips:
+Prepare well on these topics
+- Strings
+- Linked List
+- Trees
+- Arrays
+The online assessment needs practice on coding. Prepare using LeetCode,
+GeeksForGeeks. The interview shortlist process might need a bit of luck. But
+when you enter the interview, you should be able to tackle the trick questions
+posed by the interviewer. In the end, after all the preparation go through the
+14 leadership requirements from Amazon (just in case, interviewer may check)
+and STAR approach.

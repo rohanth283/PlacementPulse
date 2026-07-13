@@ -1,0 +1,166 @@
+CITI SUMMER INTERNSHIP INTERVIEW EXPERIENCE 
+Company & Role Overview 
+• 
+Company: Citi (Citigroup) is a leading global financial services company 
+headquartered in New York. Founded in 1812, it offers a wide range of services 
+including banking, investment banking, and wealth management to individuals, 
+corporations, and governments in over 100 countries. 
+• 
+Role Offered: International Clients Group (ICG) Technology 
+• 
+Other Role: Personal Banking & Wealth Management Technology (PBWMT) 
+• 
+Stipend: ₹75,000 per month 
+• 
+Internship Duration: 8 weeks 
+Selection Process 
+1. Online Assessment 
+2. Technical Interview 
+3. HR Interview 
+Round 1: Online Assessment (September 27, 2024) 
+The online test was 90 minutes long and consisted of four sections. 
+Important Note: It was not possible to switch between sections; they had to be completed in 
+the order they were presented. 
+Test Structure: 
+• 
+Coding: 2 questions (45 minutes) 
+• 
+SQL MCQs: 12 questions (15 minutes) 
+• 
+React MCQs: 12 questions (15 minutes) 
+• 
+Angular MCQs: 12 questions (15 minutes) 
+Section Details: 
+• 
+Coding Questions - The questions were considered easy and were based on arrays. 
+• 
+SQL Questions 
+o The difficulty level was easy to medium. 
+• 
+React & Angular JS Questions 
+o These multiple-choice sections included questions about finding missing terms 
+and identifying correct code statements. 
+Following the online assessment, 28 candidates were shortlisted for the next round of 
+interviews for the ICG Technology role. 
+Round 2: Technical Interview (Duration: 1 hour) 
+The interview began with my introduction. I structured it to highlight my favourite subjects 
+and fields of interest, specifically mentioning my proficiency in Database Management 
+Systems (DBMS). This led the interviewer to start with questions about my DBMS project. 
+Project 1: DBMS & Backend 
+• 
+Project Explanation: I spent about 10 minutes clearly explaining my project. Since I 
+mentioned handling the backend and database, the interviewer asked for more details. 
+I gave him an overview of the backend operations, including how my PHP scripts 
+worked and interacted with the database. 
+• 
+Database Schema: He then asked me to explain my database schema. I detailed the 
+structure of each table and explained the reasoning behind my normalization choices. 
+This was followed by a question about the foreign key relationships I had 
+implemented. 
+• 
+On-the-Spot Database Design: The interviewer then proposed a new project idea 
+and asked me to design a database for it. 
+o I started by asking clarifying questions to understand the project's 
+requirements and finalize the necessary tables. 
+o I designed each table with relevant columns and constraints, periodically 
+checking in with the interviewer to ensure my understanding was correct. 
+o After structuring the tables, he asked me to normalize the design. I explained 
+my normalization strategy and justified my decisions. 
+o Finally, he asked me to add foreign key relationships where needed, and I 
+identified and included one. 
+• 
+SQL Queries: To conclude this section, he asked me to write several SQL queries for 
+the database we had just designed. The queries primarily involved the use of JOINs 
+and subqueries. 
+Frontend & Other Technologies 
+• 
+React/Angular: The interviewer asked if I knew React or Angular. I was honest and 
+stated that I was not very familiar with them. 
+• 
+HTML/CSS Task: He then roughly sketched a webpage design and asked me to 
+write the basic HTML and CSS for it, which I did. 
+Project 2: Python (DSA) 
+• 
+The discussion moved to my second project, which was written in Python and 
+involved data structures and algorithms. 
+• 
+Shortest Path Algorithm: The project used a shortest-path algorithm. He asked 
+which one I implemented, and I replied that I used Dijkstra's algorithm. 
+• 
+He followed up by asking why I chose Dijkstra's over other algorithms. I explained 
+my reasoning and then named other shortest-path algorithms I knew, such as 
+Bellman-Ford, explaining each one briefly. 
+General CS Fundamentals 
+• 
+Java: He asked about my experience with Java. I explained that I was currently 
+learning it as part of my semester coursework but was not yet proficient. 
+• 
+Sorting Algorithms: He then asked if I knew sorting algorithms. I said yes, and he 
+specifically asked me to explain Radix Sort. I told him I was more familiar with 
+Merge Sort and Quick Sort. He then asked me to explain Quick Sort, which I did with 
+a diagram and an example. 
+• 
+Data Structures: The interviewer presented a scenario and asked which data 
+structure I would use to solve it. I suggested a Queue, explained my reasoning, and 
+compared it with other data structures to justify why it was the most suitable choice. 
+• 
+Object-Oriented Programming (OOP): Finally, he asked if I knew OOP concepts. I 
+had prepared a concise, 10-minute explanation with a strong example, which I 
+delivered clearly. He was impressed and appreciated how well I explained it. 
+Conclusion & Feedback 
+At the end of the interview, he asked if I had any questions for him. I had prepared two in 
+advance: 
+1. "How did I perform in the interview?" 
+o He responded, "You are strong in what you know, and you know your 
+strengths." 
+2. "What areas should I improve on?" 
+o He answered, "There is nothing you should improve; you are good. However, 
+it would be helpful for your career in the industry to get to know more 
+technologies like React and Angular." 
+Round 3: HR Interview 
+This was the final stage. Although it felt like a casual conversation, it was also an elimination 
+round. The interview lasted for about 15-20 minutes. 
+To my surprise, I was called in 9th out of the 11 candidates, even though I was second on the 
+shortlist. When I entered, the HR manager mentioned he did this intentionally to see if 
+waiting would make me nervous. 
+Interview Discussion & Questions 
+The conversation covered a mix of standard HR questions and personal topics: 
+• 
+Knowledge about Citi: He asked what I knew about the company. I shared 
+information I had gathered from a senior who currently works there. He then asked if 
+I had attended the Pre-Placement Talk (PPT). I answered honestly that while I had 
+joined the session, I was traveling and couldn't pay full attention. 
+• 
+Motivation: He asked the classic question, "Why do you want to work at Citi?" 
+• 
+Future Aspirations: He asked, "Where do you see yourself in the future?" 
+• 
+Personal Interests: My resume mentioned an award in football. As a fellow football 
+enthusiast, the HR manager started a friendly discussion about the sport, which helped 
+build a good rapport. 
+Conclusion & Feedback 
+As the interview concluded, the HR manager gave me two key pieces of feedback: 
+1. He advised that I should research a company more thoroughly before an interview. 
+2. He shared that my technical interviewer had given "great feedback" on my 
+performance. I asked him to pass on my thanks. 
+I left the interview a little worried that my answer about the company wasn't strong enough. 
+However, the results were announced an hour later. 
+Final Result 
+Out of the 11 candidates who made it to the final round, 7 were selected for the internship, 
+including me.  
+General Tips 
+1. Be strong in DSA, DBMS, OOP, and OS. 
+2. Create a clear resume and know every detail on it. 
+3. Prepare explanations for your projects and a short pitch for each skill. 
+4. Be honest and show them you are a capable candidate. 
+ 
+All the very best!! 
+* * * 
+ 
+ 
+ 
+Contact 
+Bharath Harihara Sudhan (2022506116), 
+IT, MIT. 
+LinkedIn: https://www.linkedin.com/in/bharath-harihara-sudhan-144908216/ 
+Email: h.bharath1506@gmail.com 

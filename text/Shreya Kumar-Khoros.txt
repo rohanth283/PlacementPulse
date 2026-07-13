@@ -1,0 +1,72 @@
+ 
+ 
+ 
+ 
+ 
+ 
+KHOROS 
+ 
+ 
+Khoros is a global customer engagement software company that provides online community 
+management, social media marketing, social media analytics, digital care, and content management 
+software and services to enterprise brands and agencies. 
+ 
+Totally, there were 4 rounds.  
+ 
+Round 1: 
+ 
+We were given 40 logical questions and had to solve those questions in 20 minutes. Depending on 
+how many you answer correctly, you will be shortlisted. 20 students were shortlisted after this 
+round. 
+ 
+Round 2 (Technical Round): 
+ 
+I was asked to code (white boarding) 2 questions and they were of moderate level. 
+1) Delete Duplicate numbers from a linked list. 
+2) The same question as above, but with slight modification. 
+The interviewer might see how your approach to the problem is, your code need not be entirely 
+correct. My interviewer gave me some ideas while I was coding to see how I would handle them. 
+ 
+Round 3 (Managerial Round): 
+ 
+I was asked some questions based on my resume. 
+1) To explain the most challenging project from my resume. 
+2) Scope of my Final Year Project. 
+3) How I would manage a team. 
+..and a few other basic questions. 
+ 
+Round 4 (HR Round): 
+ 
+HR round was very basic and the interviewer wanted to see how we interacted. General 
+questions like “Why should we hire you?”, “Why Khoros?”, etc. were asked. 
+After all the rounds, 4 people were selected and I was one among them. 
+ 
+ 
+ 
+ 
+ 
+ 
+Topics to be focussed: 
+ 
+ Data structures 
+ 
+ 
+Take away: 
+ 
+ 
+Be strong in your data structures concepts. Almost everyone were asked questions related to 
+data structures only.  
+ 
+Hope this helps. 
+I have also posted my experience on geeksforgeeks:  
+https://www.geeksforgeeks.org/khoros-interview-experience-for-fte/ 
+ 
+All the best!  
+ 
+Shreya Kumar 
+shreyakumar603@gmail.com 
+ 
+ 
+ 
+ 
+ 

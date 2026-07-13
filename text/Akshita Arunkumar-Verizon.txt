@@ -1,0 +1,91 @@
+ 
+ 
+ 
+VERIZON DATA SERVICES INDIA Pvt Ltd 
+ 
+ 
+Verizon is the #1 wireless provider in the U.S. and a global leader in next generation com-
+munications technology, including 5G and the Internet of Things. IT teams in India play a critical 
+role in both the development of new technologies and the day-to-day operation of business. They 
+build systems and work on initiatives to help deliver unmatched digital experiences to consumers 
+and businesses. In short, they are obsessed with everything the digital world has to offer. 
+ 
+ 
+Round 1: Platform - AMCAT 
+ 
+Round 1 was conducted on AMCAT platform. The test was of 2 hours, and a time limit imposed on 
+every section. 
+ 
+Quantitative aptitude- This section was mostly basic math problems. They were quite easy but 
+a few needed lot of calculation ,so had to be done fast . 
+ 
+Verbal - You can do this section well with a decent English knowledge . A few tricky questions 
+based on grammar, were asked. A few synonyms and antonyms were also asked.  
+ 
+Logical Reasoning- General logical reasoning questions like pattern , number series ,logical 
+deduction, etc were asked. With a good practise , most of these questions can be answered fast. 
+ 
+Technical MCQ-  C, C++, Java and general programming questions. Need to be strong in the 
+basics to do well in the section. 
+ 
+Coding section: There were two questions -One easy and one Medium level, based on arrays 
+and strings. 
+ 
+All the sections can be attended well with practise. There are a lot of websites for that. Coding part 
+can be done well only with practise. Make sure at least one coding question is done completely and 
+all the test cases are passed.  
+ 
+ 
+Round 2: Technical 
+I was asked to introduce myself . Since I said I am interested in Machine Learning ,most of my 
+questions were based on that. 
+ 
+Questions: 
+ 
+1. What is machine learning? 
+2. Difference between ML and AI? 
+3. Real time application in which ML is used. 
+4. How that application uses ML? For what purpose? 
+5. How does Amazon Shopping App use ML? 
+6. How can we fetch data faster from a large database ? 
+7. What are data structures?Name a few? 
+8. Real time applications for the data structures. 
+9. How will you choose the right data structure for a project? 
+10. 
+What the programming languages you know? 
+ 
+I was not asked anything from my Resume. All the questions were being asked from the answers I 
+gave to the previously asked questions. So try not to tell about something you aren’t quite familiar 
+ 
+ 
+with. Also do have a good knowledge about the projects and the technologies you have used that 
+you have mentioned in your CV/Resume.  
+ 
+ 
+HR: 
+ 
+ It was a really easy round which was a phone call interview. 
+ 
+1. Tell me about yourself. 
+2. A situation in which you have performed well . 
+3. Do you have any preference for the place of work? 
+4. Are you ready to do any kind of work given? 
+ 
+ 
+Topics to be focussed: 
+ 
+◆ Data structures 
+◆ OOPS 
+◆ Database management systems 
+◆ At least two programming languages very well and the basics of a few other languages. 
+ 
+ 
+Talk confidently and be cool while answering the questions. Try to answer all the questions but it’s 
+also okay if you don’t know the answer to a few.  
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Akshita Arunkumar 
+akshinishi@gmail.com 

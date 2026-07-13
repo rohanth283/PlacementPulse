@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlacementPulse AI | RAG Chatbot & Explorer</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Highlight.js for Code Highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+    <!-- Marked.js for Markdown Parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Chart.js for Insights Dashboard -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Custom Style -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Authentication Screen Overlay -->
+    <div class="auth-overlay" id="auth-overlay">
+        <div class="auth-card">
+            <div class="auth-header">
+                <div class="auth-logo">
+                    <i data-lucide="sparkles"></i>
+                </div>
+                <h2>PlacementPulse</h2>
+                <p id="auth-subtitle">Log in to access candidate experiences & placement chat</p>
+            </div>
+            
+            <div class="auth-toggle">
+                <button class="toggle-btn active" id="btn-toggle-login">Log In</button>
+                <button class="toggle-btn" id="btn-toggle-signup">Sign Up</button>
+            </div>
+            
+            <form id="auth-form" class="auth-form-fields">
+                <div class="form-group">
+                    <label for="auth-username">Username</label>
+                    <input type="text" id="auth-username" placeholder="Enter username" required autocomplete="username">
+                </div>
+                <div class="form-group">
+                    <label for="auth-password">Password</label>
+                    <input type="password" id="auth-password" placeholder="Enter password" required autocomplete="current-password">
+                </div>
+                <div class="auth-error-msg" id="auth-error"></div>
+                <button type="submit" class="auth-submit-btn" id="auth-submit-btn">Log In</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Main App Container -->
+    <div class="app-container">
+        <!-- Sidebar Navigation (ChatGPT style) -->
+        <aside class="sidebar">
+            <div class="logo-area">
+                <div class="logo-icon">
+                    <i data-lucide="sparkles"></i>
+                </div>
+                <div class="logo-text">
+                    <h1>PlacementPulse</h1>
+                    <span>Prep AI Dashboard</span>
+                </div>
+            </div>
+            
+            <!-- ChatGPT style New Chat button -->
+            <button class="new-chat-btn" id="btn-new-chat">
+                <i data-lucide="plus"></i>
+                <span>New Chat</span>
+            </button>
+            
+            <!-- Conversation History List (ChatGPT style) -->
+            <div class="sidebar-section-title">Recent Chats</div>
+            <div class="chat-history-list" id="sidebar-chat-history">
+                <!-- Populated dynamically -->
+            </div>
+            
+            <div class="sidebar-section-title">Navigation</div>
+            <nav class="nav-menu">
+                <button class="nav-item active" data-tab="chat">
+                    <i data-lucide="message-square"></i>
+                    <span>Prep Chatbot</span>
+                </button>
+                <button class="nav-item" data-tab="explorer">
+                    <i data-lucide="search"></i>
+                    <span>Experiences Explorer</span>
+                </button>
+                <button class="nav-item" data-tab="insights">
+                    <i data-lucide="bar-chart-3"></i>
+                    <span>Insights Dashboard</span>
+                </button>
+            </nav>
+            
+            <!-- Settings & Profile Footer -->
+            <div class="sidebar-footer">
+                <div class="user-profile-bar">
+                    <div class="user-avatar" id="user-initials">U</div>
+                    <div class="user-info">
+                        <span id="user-display-name">Username</span>
+                        <span>Candidate</span>
+                    </div>
+                    <button class="logout-btn" id="btn-logout" title="Log Out">
+                        <i data-lucide="log-out"></i>
+                    </button>
+                </div>
+                <div class="system-status">
+                    <span class="status-dot"></span>
+                    <span>RAG Engine Ready</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="content-header">
+                <div class="header-title">
+                    <h2 id="tab-title">Prep Chatbot</h2>
+                    <p id="tab-desc">Ask questions about interview rounds, coding topics, and packages.</p>
+                </div>
+                <div class="header-actions">
+                    <div class="help-dropdown-wrapper">
+                        <button class="help-btn" id="btn-help" title="Contact Support">
+                            <i data-lucide="help-circle"></i>
+                            <span>Help</span>
+                        </button>
+                        <div class="help-dropdown-menu" id="help-menu">
+                            <p>If you encounter any bugs or issues, please reach out to:</p>
+                            <a href="mailto:rohanths@gmail.com">rohanths@gmail.com</a>
+                        </div>
+                    </div>
+                    <div class="api-indicator">
+                        <i data-lucide="cpu"></i>
+                        <span>Gemini 2.5 Flash</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Tab Content: Chat -->
+            <section class="tab-panel active" id="panel-chat">
+                <div class="chat-layout">
+                    <div class="chat-messages-container" id="chat-messages">
+                        <!-- Welcome message -->
+                        <div class="message system">
+                            <div class="avatar"><i data-lucide="bot"></i></div>
+                            <div class="message-wrapper">
+                                <div class="message-content markdown-body">
+                                    <p>Hi there! I am **PlacementPulse AI**. I have indexed 250+ candidate placement experiences across top tech companies.</p>
+                                    <p>Ask me anything about the selection process, coding questions asked, SQL tasks, interview durations, packages, or preparation tips. I will answer based *only* on actual candidate transcripts and provide citations.</p>
+                                </div>
+                                <div class="message-meta">System • Just now</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Quick Suggestions -->
+                    <div class="suggestion-chips">
+                        <button class="suggestion-chip">What coding questions did Amazon ask?</button>
+                        <button class="suggestion-chip">What is the selection process at Appian?</button>
+                        <button class="suggestion-chip">Give me tips for Wells Fargo</button>
+                        <button class="suggestion-chip">Which companies asked DBMS questions?</button>
+                    </div>
+
+                    <!-- Input Area -->
+                    <div class="chat-input-container">
+                        <div class="filter-bar-mini">
+                            <div class="filter-label"><i data-lucide="sliders-horizontal"></i> Filter Context:</div>
+                            <select id="chat-company-filter" class="mini-select">
+                                <option value="">All Companies</option>
+                                <!-- Populated dynamically -->
+                            </select>
+                        </div>
+                        <form id="chat-form" class="chat-input-form">
+                            <input type="text" id="chat-input" placeholder="Ask about packages, rounds, coding questions..." required autocomplete="off">
+                            <button type="submit" class="send-btn" id="send-button">
+                                <i data-lucide="send"></i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab Content: Explorer -->
+            <section class="tab-panel" id="panel-explorer">
+                <div class="explorer-toolbar">
+                    <div class="search-box">
+                        <i data-lucide="search"></i>
+                        <input type="text" id="search-input" placeholder="Search candidates, questions, or topics...">
+                    </div>
+                    <div class="filter-controls">
+                        <div class="select-wrapper">
+                            <i data-lucide="building-2"></i>
+                            <select id="filter-company">
+                                <option value="">All Companies</option>
+                                <!-- Populated dynamically -->
+                            </select>
+                        </div>
+                        <div class="select-wrapper">
+                            <i data-lucide="bar-chart"></i>
+                            <select id="filter-difficulty">
+                                <option value="">All Difficulties</option>
+                                <option value="Easy">Easy</option>
+                                <option value="Medium">Medium</option>
+                                <option value="Hard">Hard</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="explorer-grid" id="experiences-grid">
+                    <!-- Cards populated dynamically -->
+                </div>
+            </section>
+
+            <!-- Tab Content: Insights -->
+            <section class="tab-panel" id="panel-insights">
+                <!-- Stats Overview -->
+                <div class="insights-stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon purple"><i data-lucide="users"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-total-experiences">0</span>
+                            <span class="stat-label">Total Candidate Experiences</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon pink"><i data-lucide="building-2"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-total-companies">0</span>
+                            <span class="stat-label">Companies Represented</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon blue"><i data-lucide="award"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-avg-rounds">4.2</span>
+                            <span class="stat-label">Avg. Interview Rounds</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon orange"><i data-lucide="trending-up"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-top-package">25.5 LPA</span>
+                            <span class="stat-label">Highest Package Mentioned</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts Area -->
+                <div class="insights-charts-grid">
+                    <div class="chart-card">
+                        <h3>Top Companies by Experience Submissions</h3>
+                        <div class="chart-container">
+                            <canvas id="companyChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Interview Difficulty Distribution</h3>
+                        <div class="chart-container">
+                            <canvas id="difficultyChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Insights text summary -->
+                <div class="insights-summary-card">
+                    <div class="summary-header">
+                        <i data-lucide="lightbulb" class="lightbulb-icon"></i>
+                        <h3>Key Trends & General Candidate Tips</h3>
+                    </div>
+                    <div class="summary-body">
+                        <ul>
+                            <li><strong>Resume Veracity:</strong> Candidate transcripts heavily stress that interviewers go line-by-line through the resume. Bluffing is easily caught.</li>
+                            <li><strong>Speak Your Mind:</strong> In coding rounds, interviewers value communication. Explain your approach while coding and start with a brute-force before optimizing.</li>
+                            <li><strong>Core Foundations:</strong> DSA, DBMS (specifically joins, aggregation, normalisation), and Operating Systems (mutex, critical sections) are tested across almost all technical rounds.</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Slide-over panel for viewing full candidate experience -->
+        <div class="slide-panel-overlay" id="panel-overlay"></div>
+        <div class="slide-panel" id="detail-panel">
+            <div class="panel-header">
+                <div class="panel-title-area">
+                    <span class="panel-company" id="panel-company-badge">Company</span>
+                    <h3 id="panel-candidate-name">Candidate Name</h3>
+                    <p class="panel-meta-info">
+                        <span id="panel-role-info"><i data-lucide="briefcase"></i> SDE</span>
+                        <span id="panel-package-info"><i data-lucide="banknote"></i> 25.5 LPA</span>
+                    </p>
+                </div>
+                <button class="close-panel-btn" id="close-panel-btn">
+                    <i data-lucide="x"></i>
+                </button>
+            </div>
+            <div class="panel-body">
+                <div class="meta-pills">
+                    <div class="meta-pill"><span class="label">Difficulty:</span> <span id="panel-difficulty-badge" class="badge">Medium</span></div>
+                    <div class="meta-pill"><span class="label">File:</span> <span id="panel-filename">filename.txt</span></div>
+                </div>
+                <hr class="panel-divider">
+                <div class="experience-text-content markdown-body" id="panel-experience-text">
+                    <!-- Text content loaded here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script Entry -->
+    <script src="app.js"></script>
+</body>
+</html>

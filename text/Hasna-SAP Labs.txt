@@ -1,0 +1,78 @@
+ 
+ 
+ 
+ 
+ 
+ 
+SAP LABS 
+ 
+ 
+  
+Rounds and domains for the interns selection. 
+ 
+ 
+Round 1: Technical & coding questions 
+ 
+Consisted of a select number of technical questions and two coding questions of varying difficulty 
+on OOPS concepts, Data Structures like arrays, trees, linked lists and also focussed on DBMS. 
+ 
+Round 2: It consists of 3 Panels(Technical 1,Technical 2, HR)  
+ 
+Technical Round 1: 
+ 
+1. Introduce yourself? 
+ 
+2. Gave a scenario e.g., Student teacher online assessment system and asked to draw an ER diagram 
+on it and asked questions based on what I drew. Then asked me to write queries [Keen on small 
+details ]. 
+ 
+3. Gave 3-4 questions on arrays and linked list after he made a note of what languages I was good 
+in. 
+ 
+Overall he focussed mainly on basic technical concepts and quizzed on them. 
+ 
+ 
+Technical Round 2: 
+ 
+In this round, the interviewer focussed on what projects I did and the domain I was interested in 
+exploring. He then asked me basic questions on machine learning[what I said], and then 2-3 
+technical questions to solve[with  and questions like what data structure would be suitable for 
+different scenarios and how it is currently implemented and how we can upgrade that. 
+ 
+ 
+HR: 
+ 
+The HR round was very casual as compared to other rounds. They are just trying to get to know 
+more about yourself and also wanted to have a slight idea about our communication and team skills. 
+ 
+1.Why Sap Labs? 
+ 
+2. About the relocation(yes/no)? I said Yes 
+ 
+3. Hobbies, personal interests, etc. 
+ 
+4. How to work in harmony with the company etc. 
+ 
+5.Team building skills etc. 
+ 
+ 
+ 
+Topics to be focussed: 
+ 
+◆ Data structures 
+◆ Database management systems 
+◆ Basic Concepts like OOPS, pointers etc. 
+ 
+ 
+Take away: 
+ 
+ 
+Having a good knowledge of basics, coding and confidence will help to be placed in this 
+company. 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Hasna 
+Hasnak23757@gmail.com 

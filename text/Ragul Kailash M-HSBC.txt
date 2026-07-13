@@ -1,0 +1,192 @@
+HSBC Interview Experience 
+ 
+About HSBC: 
+HSBC (Hong Kong and Shanghai Banking Corporation) is one of the world’s largest banking and 
+financial services organizations, founded in 1865. It operates in over 60 countries, serving millions of 
+customers through retail, commercial, and investment banking. It is the largest Europe-based bank by 
+total assets, and the 3rd largest non-state owned bank in the world. HSBC is known for its global 
+reach, strong digital transformation initiatives, and focus on sustainable finance. With its headquarters 
+in London, it plays a significant role in bridging Eastern and Western markets. 
+ 
+Role offered : Trainee Software Engineer 
+ 
+Selection Process: Simulate, Online coding Assessment, Technical Interview, HR Interview. 
+The Selection Process: 
+ 
+370 candidates applied for the role and 295 people were eligible to appear for the Online 
+Assessments. 
+Note : 75 candidates were excluded since they hadn’t registered in HSBC website or provided the 
+wrong mail-id for registration. We were instructed to provide our college mail id for registration. So, 
+make sure you register using the specified mail-id. There wasn’t any resume-based shortlisting 
+process. 
+1. Simulate Assessment: 
+  
+The Simulate assessment was conducted on 2nd September 2025 at IST department lab and it 
+was the first filtering round in HSBC’s selection process. It was more like a personality assessment, 
+where candidates are tested on how well they adapt to the work culture of HSBC. The round’s 
+duration is 70 minutes. The round consisted of many sections including 
+ 
+Situational Judgement Questions. 
+ 
+Personality Questions. 
+ 
+Formal / Informal Questions. 
+ 
+Aptitude Questions. 
+ 
+Basic English Questions. 
+ 
+The results were declared after a few minutes and out of the 295 candidates, 9 candidates were 
+selected for the next round. 
+Tip: The simulate assessment is the most crucial part of the filtering process at HSBC than the coding 
+round. There were probably 8 sections, and I would recommend to give your best in at least 3 or 4 
+sections especially the numerical aptitude section, the English section and the section in which 
+candidates were given a scenario and 5 actions or responses. Based on the scenario, the candidate 
+must rank the 5 actions. Also, We were allowed to use scientific calculator for the numerical based 
+questions. I would also recommend referring the following links, so that you can prepare yourself for 
+the Simulate assessment: 
+ 
+How I would prepare for the HSBC Simulate Assessment 
+ 
+HSBC Practice Zone 
+2. Coding Assessment: 
+ 
+The second round was conducted on the same day, right after the first round and it was a 
+comparatively easy assessment. The assessment took place on Codility platform and candidates were 
+tested on 3 questions of easy to medium difficulty. 
+1. Find the largest 2 digit substring : 
+Given a string consisting of numbers, return the substring with largest 2 digit number. 
+Examples: 
+1. S = “12345” return 45. 
+2. S = “79361” return 93. 
+3. S = “00009” return 9. 
+ 
+2. Dictionary usage :  
+Given 2 strings dictionary and message, modify message such that if a word in message is not 
+present in dictionary, replace the word with “###”, else use the same word. 
+ 
+ 
+Example: 
+1. Dictionary = “Footballer Ronaldo best Messi the earth in leo” 
+Message = “Leo messi is the best footballer in the world” 
+Return “Leo messi ### the best footballer in the ###” 
+      3.    Latest Date Possible: 
+Given a string of  5 characters and the first 2 characters represent the month of a year and the 
+last 2 characters represent the date. The string might contain the character “?” in those 4 
+positions. Return the maximum date that is possible by replacing the “?”, while also ensuring 
+the date is logically correct. If a valid date isn’t possible, return “xx-xx”. 
+ 
+Example: 
+1. Date = “1?-31” return “12-31” 
+Here the “?” mark can be replaced by 0,1,2. If you replace it with , the string 
+becomes “11-31” but that is invalid, since the month November(11) has only 30 
+days. So, the options now available are 0 and 2. Here, Even though replacing with 
+0 is a valid argument, One should select 2, since we need to return the latest valid 
+date. 
+ 
+2. Date = “31-04” return “xx-xx” 
+Here “04” represents the month April, which has only 30 days, and the date 
+represents “31”, which isn’t correct. hence the result must be “xx-xx”. 
+3. Date = “0?-?9” return “09-29” 
+I was able to solve the first 2 problems completely and partially solve the 3rd question. The results 
+were declared on 10th September 2025. Out of the 9 candidates, 8 were shortlisted for the interview 
+process and fortunately, I was one of them. 
+Interview Process 
+The interview was scheduled on 18th September 2025 at SSN College of Engineering. The interview 
+consisted of 2 rounds – a technical round and a HR round. Almost 80 candidates from 4 colleges 
+attended the interview process. 
+3. Technical Interview : 
+ 
+There were 10 interview panels and all the candidates from Anna university were interviewed 
+in the first panel. The questions were fully based on resume and hence the questions for each 
+candidate were different. The interview started with an introduction about the interviewer and he also 
+asked me to introduce myself. I clearly expressed my strong interest in problem-solving, and 
+mentioned I have solved over 600+ problems on geeksforgeeks and leetcode combined. This was 
+important because the interviewer was very much interested in assessing how well-versed you are in 
+your specific area of interest. He asked me about my favorite programming language and I mentioned 
+Python. Then, He asked me to solve one DSA question: 
+ 
+Validate Parenthesis in a string containing letters, symbols and parenthesis 
+At first, I jumped straight into writing the solution. I would recommend not to jump right in 
+and to first explain your approach to the interviewer thoroughly and proceed on writing your 
+solution.  
+He first asked me to explain my approach and I also asked some questions so that I could get 
+better clarity regarding the question, this indirectly made a good impression about me for the 
+interviewer and he instructed me to write down the solution in python. I wrote down my 
+approach of using a stack (a list in python) and showed him a dry-run of my approach. He 
+added some edge-cases and tested whether my approach would work well for those too. I was 
+very confident about my approach and explained that it would satisfy all the test-cases. 
+He was satisfied and started questioning about other topics. 
+Other questions asked: 
+1. How do you handle exceptions in python? 
+2. Explain me about one of your project. 
+3. Explain about the google - drive project.(I mentioned that project in my resume) 
+4. What was your role in all these project? 
+I explained the projects briefly and mentioned I worked on the frontend part in all the projects. The 
+round concluded after I asked some questions regarding HSBC. 
+My Questions: 
+1. What’s the best way to develop knowledge and skill in finance? 
+  
+He mentioned that HSBC being a fintech organization, an employee would get a lot 
+of exposure on cyber security and authentication systems. He also added, working on various 
+projects will automatically result in developing the skill-set that one should require to grow in 
+their professional career. 
+Since he mentioned cyber security, I framed my next question based on cyber security. 
+2. What are some resources that I can refer to gain knowledge in cyber security domain? 
+He instructed me to read some articles and mentioned some forums and communities 
+that I can refer to know more about it. 
+       These questions show that you are genuinely interested in joining the organization. This is one 
+important aspect I would recommend to everyone. 
+The results were declared after 2 hours and Overall 21 people were shortlisted for the final round. 
+4. HR Interview: 
+ 
+Fortunately and unfortunately, I was the first one to be called for the HR round. The 
+interviewer congratulated me for entering the final round and asked how I feel at that moment. We 
+had a normal conversation and officially the round started after sometime. This round was more like a 
+rapid fire round. Questions were immediately fired once you end your response for the current 
+question. The round was conducted for only 3 to 5 minutes, and the questions included: 
+1. What’s your CGPA? 
+2. Are you willing to relocate to Pune? 
+3. What’s your favorite subject in Computer Science? 
+4. Where do you see yourself in 5 years? 
+5. Are you planning on doing masters? 
+6. What are your strengths? 
+7. Have you ever worked in pressure situations on meeting the deadlines? 
+8. What are 3 areas or aspects that you would like to improve on yourself? 
+Even though these are typical HR questions, the way he asked made it a fast-paced interview and I 
+answered all questions with my best effort. The interviewer also assessed my fluency in answering the 
+questions and Even though, I was able to answer well, I struggled with last question and the 
+interviewer calmed me and advised me to stay cool. The interview was hence concluded. 
+The results were announced after an hour and I was extremely elated to know that I was one among 
+the 18 people selected and the only one selected from Anna University. 
+ 
+ 
+PREPARATION TIPS: 
+I chose Python for solving DSA problems. But feel free to choose a language, you are comfortable 
+with. And for core concepts preparation, I would recommend the following: 
+DSA: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2 
+OS: https://www.geeksforgeeks.org/operating-systems/operating-systems-interview-questions/ 
+DBMS:  https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/ 
+OOPS: https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/ 
+Last minute revision questions: https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-
+os-interviews-sde-core-sheet/ 
+Be confident on what you mention in your resume. Try to completely understand the question and 
+come up with a solution. It’s completely normal to get stuck in a question, feel free to admit it to the 
+interviewer and move on to the next question. Try to score better in the next question. Try to 
+showcase your strengths in your self introduction, since it can set-up a perfect foundation and helps 
+guide the interview in a way, where you could give your best performance. Try to be more articulate 
+(think out loud) and express things so that the interviewer can better understand your thought-process. 
+ 
+Cheers and All the very best!!! 
+My Personal Details: 
+Name: Ragul Kailash M 
+Mobile: +91 86678 20060 
+Email: ragulkailash12@gmail.com 
+Linkedin: https://www.linkedin.com/in/ragul-kailash-m/ 
+CEG CSE’26 
+ 
+“There is a 1% chance and sometimes that chance is good enough” 
+- Virat Kohli. 
+ 
+           
+      Feel free to ping me if you have any further queries…..  

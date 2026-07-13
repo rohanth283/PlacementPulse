@@ -1,0 +1,123 @@
+BARCLAYS 
+Barclays is a British multinational bank headquartered in London, founded in 1690. It 
+is one of the UK’s "Big Four" banks and operates in over 40 countries with  80,000 
+employees. Barclays has two main divisions: Barclays UK (retail and business banking) 
+and Barclays International (investment banking, corporate banking, and wealth 
+management).It is known for innovations like introducing the world’s first ATM (1967) 
+and has a strong global presence, especially in the US and India. While it has faced 
+controversies like the LIBOR scandal, it remains a major player in finance, offering 
+careers in banking, technology, and investment services. 
+ 
+The selection process consisted of 3 rounds: 
+1)Online Assessment 
+2)Technical Interview 
+3)HR Interview 
+ 
+1. Online Assessment (Virtual – 70 minutes) 
+ 
+The test had 25 questions in total: 20 MCQs and 5 SQL queries. 
+ 
+MCQs were focused on OOP concepts, debugging, and output prediction of 
+C/C++/Java codes. 
+ 
+SQL queries covered basics such as string operations, arithmetic operations, 
+aggregate functions, and queries involving date and time extraction. 
+ 
+The assessment was conducted on the HackerEarth platform. 
+ 
+Out of  200 students, 46 were shortlisted for the interview. 
+ 
+2. Technical Interview (@CUIC) 
+ 
+The interviewer primarily assessed knowledge of Data Structures, OOP, and 
+DBMS. 
+ 
+My interview lasted 1 hour 20 minutes. The more confidently and clearly you 
+answer, the more engaged the interviewer becomes. 
+ 
+Resume and self-introduction played a major role. Ensure your resume only 
+contains skills and experiences you are comfortable discussing. 
+ 
+I was asked about my responsibilities, certifications, and highlighted that I had 
+solved 300+ LeetCode problems focused on data structures, which impressed 
+the interviewer. 
+ 
+My projects were discussed in detail. The interviewer checked for real 
+involvement, asking about technologies used, risks faced, and team 
+management in my startup idea. 
+ 
+I was asked to explain the steps involved from clicking a URL to rendering a 
+webpage (basic networking knowledge). 
+ 
+I was asked to share a challenging problem which took a lot of time to figure 
+out the concepts .I shared the Seven Bridges of Königsberg algorithm from 
+LeetCode—which sparked interest. 
+ 
+I was also asked to suggest features for a photo gallery app and explain which 
+data structure I would use and why. I compared Linked List and TreeMap for 
+the solution. 
+ 
+At the end, I asked the recruiter about their expectations from interns, which 
+left a positive impression. 
+ 
+From this round, 25 students advanced to the HR interview. 
+ 
+3. HR Interview (@CUIC) 
+ 
+This round focused on confidence, mindset, and alignment with core values 
+of Barclays (RISES: Respect, Integrity, Service, Excellence, Stewardship). 
+ 
+I was asked five scenario-based questions related to these values: 
+1. You are working on project which misleaded from the path , how would 
+you  react to this and what will be your solution? 
+2. How will you assist your team with the your potential impact on the 
+project or some feature you are working on? 
+3. How will you ensure the idea you proposed reaches the user who could 
+be an individual or the group of peoples? 
+4. How would you ensure continuous improvement in your product, even 
+without your direct involvement? 
+5. How would you handle a situation where a teammate disagrees with 
+you? 
+ 
+This round lasted about 30 minutes. 
+ 
+Out of 25 students, 15 were selected for the Barclays 2026 Summer 
+Internship Programme, including 5 from our CSE department—and I was one 
+of them. 
+ 
+ 
+ 
+Tips for Future Candidates 
+ 
+Be careful and accurate in every stage, including test registration and resume 
+preparation. 
+ 
+For DBMS-related questions, start with an ER diagram, then explain the 
+schema and write queries. 
+ 
+Be thorough with DBMS concepts: normalization, ER diagrams, keys, and SQL 
+fundamentals. 
+ 
+Keep your resume concise and ensure you can confidently answer any 
+question based on it. 
+ 
+Maintain a CGPA of at least 8.0+ (8.5+ is ideal) to secure eligibility for the 
+online assessment. 
+ 
+Be confident, clear, and engaging in your answers to keep the recruiter 
+interested. 
+ 
+Remember, your resume and projects are the backbone of your interview 
+performance. 
+ 
+Be confident with your answers and try to give your best in every answer. 
+                Wishing you the very best in all your future endeavors 
+ 
+ 
+Contact :Feel free to reach out to me 
+ Name: SASI KIRUTHIK P 
+ Reg. No: 2023103514 
+Graduation Year: 2027 
+ Summer Intern Offered for year: 2026  
+Email: kiruthiksasi2408@gmail.com 
+LinkedIn: Sasi Kiruthik-LinkedIn 

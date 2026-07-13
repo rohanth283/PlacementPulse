@@ -1,0 +1,87 @@
+BATCH: 2019-2013 
+FOR: Internship 
+NAME OF THE COMPANY:  VISA Inc, Bangalore 
+ABOUT: 
+Visa Inc. is an American multinational financial services corporation headquartered in Foster 
+City, California, United States. It facilitates electronic funds transfers throughout the world, 
+most commonly through Visa-branded credit cards, debit cards and prepaid cards. They are a 
+global payments technology company working to enable consumers, businesses, banks, and 
+governments to use digital currency. 
+ 
+NUMBER OF ROUNDS:  2 
+1. Online Coding Round 
+2. Interview (Technical + HR) 
+ 
+ONLINE ROUND: 
+This round consists of two coding questions, given a duration of 60 minutes to solve it. 
+General tip: Since there are no MCQs, try to solve both the questions completely and focus 
+more on corner cases. 
+The questions I was asked: 
+1. An investor has some money and wants to ivest it in stock market. The number of stocks 
+were given, and he can buy at most one share in any company. The total he invests 
+should not exceed the funds available. A friend helps him make the maximum profit. 
+Determine the maximum profit that can be earned. 
+Given: savings, currentValue array, futureValue array 
+Solution: same approach as 0-1 Knapsack. Here, n will be length of currentValue array, 
+weights are the values of currentValue array, profits will be (futureValue – currentValue) 
+and capacity is savings. 
+Reference link: https://practice.geeksforgeeks.org/problems/0-1-knapsack-
+problem0945/1 
+ 
+2. A scenario of defect product were given, solved similar to the following problem: 
+https://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-
+matrix/ 
+A total of 17 students were shortlisted. 
+INTERVIEW: 
+The interview was 75 minutes long. Started with “introduce yourself” following which he told 
+me about him, his achievements and a brief about VISA.  Further I was asked about my projects 
+and told to reason out my soft skills with examples. 
+After bringing me to the environment, we further moved to the coding pair of the interview. 
+We use hacker rank pair coding platform. I was asked to code two questions namely, reversing 
+a linked list and implementation of a stack using two queues. Both the questions were told to 
+be coded from scratch by defining structures and classes on our own and not the normal 
+function definition we practice. 
+After implementing the code and running it for the told test cases, I was told to include 
+constructors, destructors, and inheritance in my second question i.e., implement a stack using 
+queues, to produce a working code and again the code was tested against given test cases. 
+With this the technical part was over and he further moved on to ask me DBMS questions. The 
+questions I was asked include: 
+1. Writing simple SQL queries 
+2. Out of SQL, NoSQL, and Oracle databases, which is best and why 
+3. For RDBMS, which database would fit best? 
+4. Explain referential integrity 
+5. Explain the concept of indexing and its advantages 
+6. Difference between triggers and stored procedures 
+After this he asked me about critical section problems and the difference between threads and 
+processes. With this the subject related questions were over and moved to product-based 
+question. 
+The produce-based question alone went to a discussion of 40 mins where I was asked to build 
+an application like redBus. I was first asked to draw a layout for the app considering it to be a 
+huge app, following which he told me to explain my ideas on implementation and building the 
+app. The interviewer told me to assume him to be the customer and hence correctly split the 
+application into three modules and give him one module at a time, further discussing about his 
+requirements and making necessary changes before giving him the next module.  
+As the answer to the above I drew an ER diagram on the whiteboard and spoke about 
+serverless architecture, AWS services such as lambda, S3 buckets and DynamoDB. I further 
+included mailer functions, tokenization, and payments gateways. After presenting to him a 
+consolidated layout I was asked to reduce the cost for which I removed transaction older than 5 
+days, removed unnecessary payment gateways and reduced number of tables used. 
+Lastly I was asked why I should be hired and with this the interview conclude. 
+At the end you will be asked if you have any questions, please do not say no, instead ask a 
+question related to the company’s achievement or new products. 
+ 
+ 
+TOPICS TO BE FOCUSSED: 
+• Data Structure 
+• Database management system 
+• Operating system 
+• Whatever you’ve put in your resume 
+• OOPS 
+ 
+TAKE AWAY: 
+Having a good knowledge in CS basics and coding along with creative approaches for product-
+based questions will help in getting an internship in VISA. 
+ 
+Wishing you all the very best! 
+ 
+Shruthi Gopalakrishnan 

@@ -1,0 +1,84 @@
+Arista Networks Interview Experience
+Company Overview:
+Arista Networks is a computer networking company specializing in software-driven
+cloud networking for large-scale data centers, cloud computing, and campus en-
+vironments. The company is known for its high-performance, scalable networks
+that incorporate Ethernet speeds up to 800G, enabled by its Arista EOS (Extensi-
+ble Operating System). Founded in 2008 by networking pioneers, Arista provides
+solutions for artificial intelligence (AI), high-performance computing, and high-
+frequency trading, focusing on availability, agility, automation, analytics, and
+security.
+Rounds:
+1. Coding Round
+2. Technical Round 1
+3. Technical Round 2
+4. Technical + HR Round
+Coding Round
+For the coding round only 80 students were shortlisted by the company. We did
+our test in the computer system in our lab, not using our own laptop. It consists
+of 3 coding questions along with 15 MCQs related to C, C++, and some DSA.
+All three questions were given a time slot of 20, 25, and 30 min, respectively, and
+for 15 MCQs in total, 15 min is given.
+Qn1:
+An array of size n will be given where adjacent elements are connected to each
+other. Along with that, two points were given that imply an additional edge
+connection between those points.
+Now I need to return an array of length n
+where the first index has the number of connections with a single hop, the second
+with a double hop, and so on.
+Qn2:
+Two arrays, say arr1 and arr2, were given. We can assume that arr1[i] is the
+parent of arr2[i] or vice versa. Create an undirected graph so that we can fulfill
+1
+our assumption. Now a 2D array was given called queries. Each query indicates
+the ordered traversal of the graph. The traversal starts from 1, then visits all
+children nodes, then their children, and so on. The output is a string where 1
+says the query is correct; else, 0.
+Qn3:
+It’s a LeetCode problem that I mentioned below; the only difference is that they
+asked for the largest value instead of the smaller one.
+LeetCode 2462 - Total Cost to Hire K Workers
+Focus on your problem-solving approach to provide an optimal solution.
+Out of 80, 3 of us got selected for the next round.
+Technical Round 1
+It was an offline interview, and I was asked to code on the CoderPad platform
+(pair programming interview).
+Q1: LeetCode 71 - Simplify Path
+Q2: Find the sum of the largest path in a binary tree; if we have more than one
+largest path, return the maximum sum among those.
+Then he started to ask about basic questions related to C, like about pointers,
+the difference between char arr[] and char *arr[], and more, and also related to
+Linux and OS, like ”What will happen if I type the ’ls’ command?” He expected
+me to explain the internal working of the shell.
+This round mainly focused on problem-solving skills as well as basic under-
+standing of C, Linux, and OS.
+Technical Round 2
+This round was held online, and I started by introducing myself, and then he
+straight away asked me to explain about the project that I consider the best.
+He asked some cross questions about my project related to networks, and then,
+similar to the first round, we discussed C programming in more detail. This time
+we focused more on dynamic and static allocation and 1D and 2D arrays. Finally
+he asked me if I got some questions.
+This round mainly focused on in-depth understanding of my project.
+2
+Technical + HR Round
+This round was also held online, and I was asked both technical and personal
+questions. Technical questions were like some simple DSA coding questions and
+also a scenario-based question on designing that involves giving an optimized
+design to log data from some IoT devices. Finally he asked me if I got some
+questions to answer.
+Make sure your question is impressive.
+Result
+I am the only one selected for the position of Software Engineer FTE.
+Key Takeaways
+1. Try to provide optimal solutions.
+2. You may start with a different approach but try to meet their expectation.
+3. Focus more on DSA, OS, CN, Linux(shell), C, and C++.
+4. Answer questions confidently.
+5. Have a clear understanding of all concepts mentioned in your resume.
+6. Maintain a CGPA of 8.5 or above.
+7. Refer GFG to know more about this company.
+Name: Sri Rama Pandian H U
+Email: sriramapandian147@gmail.com
+Phone: 7200321853
+3

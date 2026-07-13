@@ -1,0 +1,56 @@
+                                               Wells Fargo (Intern Drive) 
+ 
+Name     :  T Nathin Kishore  
+Batch      :  2022 – 2026 
+Contact  :  7339362808 
+ 
+Online test : 
+        The online test was conducted in the SHL platform.  It was a proctored test and we were 
+asked to attend  the test in IST dept labs. The test consisted of four sections. The first section 
+consisted of verbal questions. It had twelve questions which had to be completed within 15 
+minutes which could be answered pretty easily if you had basic English knowledge. You can’t 
+move between sections. 
+         The second section consisted of 14 business aptitude questions with a time limit of 25 
+minutes. Questions were based on stocks and shares, data interpretations based on pie 
+charts, bar charts, graphs. You should be able to solve those easily with basic maths. Just 
+don’t spend too much time on a question and try to complete all the questions. There is no 
+negative marking and you can’t navigate between questions of a section.   
+        The third round consisted of two easy to medium level coding questions with a time limit 
+of 40 minutes. In this section you can navigate between questions. Driver code will be given. 
+The first question is  https://www.geeksforgeeks.org/area-of-intersection-of-two-circles/ . 
+You have to return the answer rounded up to six decimals.  
+The second question was simple. You have to return a lexicographically sorted list of repeated 
+words in a given string. You could see how many test cases you code has passed. It was clearly 
+stated that they are expecting a solution which passes all the test cases rather than an 
+efficient code which is partially passing the test cases. 
+         The fourth section consisted of one question which has to be solved in 10 minutes. The 
+question was based on königsberg seven bridges. I could solve 2 of the 3 coding questions. 
+More weightage was given to aptitude and verbal than coding questions. You can solve the 
+coding problems in the language of your choice. 
+22 students got selected for the interview. 
+ 
+Technical round 1 : 
+         The round started with standard tell me about yourself question. This round revolved 
+mostly around oops, dbms and os for me while others had questions which included sql 
+queries, garbage collection etc..,. They asked us to write any sorting of your choice. It is better 
+to know quick, merge, heap sorts. It’s okay if you don’t know answers for some questions. At 
+last, the interviewer asked me if I had any questions for him. Be prepared with some 
+questions. Some candidates were eliminated after this round. 
+Round 2: 
+         My experience of this round will be different from my peers. They had technical and  
+questions based on their resume. This round was completely me asking questions to him. He 
+mentioned in his intro that he had run a startup before joining Wells Fargo. So I asked mostly 
+about his startup like where he went wrong etc..,. In this round he was just observing how 
+curious I am.  
+ 
+Round 3: 
+         This was a typical HR round. The interviewer asked me questions like why do want to 
+intern at Wells Fargo, what are the challenges faced while doing my dbms project as a team, 
+how I handled it etc.., You just needed to let them know that you are a good team player. 
+After this, 12 candidates were selected out of the initial 22 for internship. 
+ 
+TIPS: 
+• Be thorough with basics of core subjects like os, dbms, oops  
+• Commmunicate your thoughts with confidence. There were observing how well you 
+are communicating your thoughts. 
+• With regard to online test try to solve almost all the aptitude and verbal questions  

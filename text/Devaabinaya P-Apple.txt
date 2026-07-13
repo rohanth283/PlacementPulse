@@ -1,0 +1,95 @@
+APPLE – INTERVIEW EXPERIENCE 
+About the Company: 
+Apple Inc. is one of the world’s leading technology companies, headquartered in 
+Cupertino, California. Founded in 1976, Apple has transformed the tech industry with 
+revolutionary products like the iPhone, Mac, iPad, and Apple Watch, along with a powerful 
+ecosystem of software and services. Known for its innovation, premium design, and 
+global impact, Apple is consistently ranked among the most valuable and admired 
+companies. For many aspiring engineers, Apple is a dream company—a place where 
+cutting-edge technology meets creativity and excellence. 
+Role: Software Development Engineering Intern 
+Interview Process: 
+The selection process comprised the following stages:  
+1. Online Test (Eliminatory) 
+2. Resume Shortlisting  
+3. Interview Round 1: Technical & Eliminatory (Eliminatory)  
+4. Interview Round 2: Techno-Managerial 
+Online Test: 
+The first stage was an online test designed to filter candidates based on problem-solving 
+ability and core technical knowledge. It included both coding challenges and concept-based 
+questions. Only shortlisted candidates moved forward. 
+Coding problems: 
+1. Restaurant Gain Calculation 
+Problem Statement: 
+A restaurant has a fixed number of seats (nbSeats). Each guest is associated with an 
+amount they are willing to pay (payingGuests[id]). The sequence of guestMovements 
+represents guests entering and leaving the restaurant. 
+o The first appearance of an ID → arrival. 
+o The second appearance of the same ID → departure. 
+o The task is to calculate the total gain of the restaurant for the day, ensuring that at 
+any given time the number of seated guests does not exceed nbSeats. 
+ 
+2. Tennis Game Scoring Simulation 
+Problem Statement: 
+Implement the logic for scoring in a tennis game based on standard rules. 
+ 
+o Scores progress as: 0 → 15 → 30 → 40. 
+o When both players have ≥3 points and are tied → Deuce. 
+o When both have ≥3 points but one leads by 1 → Advantage (Player X). 
+o A player wins if they have at least 4 points and a lead of 2 → Win (Player X). 
+o The task is to simulate the game and correctly output the score/state after each 
+point. 
+Technical Concept Questions: 
+The test also had objective type of questions from core CS domains such as: 
+o Programming fundamentals 
+o Operating Systems  
+o Databases  
+o Data Structures & Algorithms  
+o Time Complexity & Analysis 
+o Computer Networks  
+Interview Round 1: 
+This round tested my problem-solving skills, how effectively I communicated and explained 
+my approach, and how well I articulated my thoughts.  Since the interviewer had knowledge 
+about the models (that were used in my project) mentioned in my resume, the discussion 
+started with questions related to my project work after I had introduced myself: 
+ Project-related Questions: 
+o Basics of Natural Language Processing (NLP). 
+o Tools and techniques like spaCy, transformers, and lemmatisation. 
+o Understanding of tokenization, embeddings, and NLP pipelines. 
+ Coding Problem: 
+o Merge Two Sorted Arrays: Given two sorted arrays, merge them into a single 
+sorted array without using extra space. This tested both algorithmic thinking 
+and in-place array manipulation skills. 
+This round was eliminatory, so solving the coding problem efficiently and explaining the 
+project concepts clearly was crucial to move to the next round. 
+In the evening of the same day, I received an email and a call from Apple confirming that I 
+had cleared the first round and would be appearing for the next round the following day. 
+Interview Round 2: 
+This round was a mix of behavioral, managerial, and technical questions designed to evaluate 
+not only technical depth but also communication, teamwork, and problem-solving approach 
+in real-world scenarios. 
+ The interviewer started with her introduction and asked me to introduce myself, 
+which set the tone for the discussion. 
+ The conversation then moved to my internship experience, including the projects I 
+worked on, challenges I faced, and how I overcame them. More than half of the 
+discussion focused on these experiences, testing collaboration, adaptability, and 
+conflict-resolution skills. 
+ Some behavioral questions included: 
+o What are your strengths? 
+o How would you handle a situation where a teammate is struggling to keep up 
+with the pace of a project? 
+o Scenario-based technical questions, e.g., “What would you do if a search takes 
+more time?”—testing knowledge of indexing, query optimization, and caching 
+strategies. 
+This round assessed how well I could articulate my approach, reflect on past experiences, 
+and apply learning from real projects, combining both behavioral insight and technical 
+understanding. 
+After completing all the rounds, 10 students were selected for the role. 
+I hope my experience gives you some insights into the Apple recruitment process and helps 
+you prepare better for such opportunities. 
+ 
+All the very best! 
+Devaabinaya P    
+CEG CSE’26 
+devaabinaya1510@gmail.com 
+www.linkedin.com/in/devaabinaya-p-62111628a 

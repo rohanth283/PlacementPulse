@@ -1,0 +1,182 @@
+GOLDMAN SACHS INTERVIEW 
+EXPERIENCE 
+ 
+About Company and role : 
+Goldman Sachs is a global investment banking and financial services company, 
+headquartered in New York City. It was founded in 1869 and offers a wide range of services 
+including investment banking, securities, investment management, and other financial 
+services to corporations, financial institutions, governments, and individuals.  
+Eligible Branches:  
+UG: AE, AU, AIDS, BM, CE, CS, EE, EC, EI, GI, IE, IT, MN, MS, ME, MI, PT, PE, RP & RA   
+Eligibility Criteria: 6 & above; No current arrears 
+Title: Engineering Analyst 
+Office Location:  Bengaluru and Hyderabad 
+Internship Duration:  8 weeks 
+Graduation Year: 2027 
+About Me : 
+My name is Vijay Anandan J M, and I have maintained a CGPA of 8.56. I began learning Data 
+Structures and Algorithms (DSA) during my first-year summer holidays and started solving 
+basic problems on topics such as arrays and strings on LeetCode from my third semester. 
+But during my 4th semester I left that habit, since we had full stack development course  and 
+were fully concentrating on that and making projects and also we had Design and analysis of 
+algorithms subject which  introduced us to advance problem solving techniques like 
+recursion, backtracking, Dynamic programming and Greedy methods which helped me a lot 
+during intern preparation. 
+Then I started my preparing for intern from mid of our 2nd year summer  holidays, just one 
+month before our 3rd year starts.I followed only strivers A-Z dsa sheet and solved problems on 
+my own and at the time of interview I have completed around 75% of that sheet.I used C++ for 
+solving problems. That’s all about me. 
+About Online Assessment and Interview:  
+Goldman Sachs was the first company that visited our campus and also the first to Keep 
+online assessment. 
+Online Assessment: 
+About OA, it was conducted on HackerRank platform. The  topics that OA had are, Output 
+guessing from oops both Java and C++ , and about sorting algorithms that is basically theory 
+side of dsa, and had about 3 to 5 Aptitude Questions( just maths problems that we solved 
+during our school days) and one Hr question was also asked, like what you will do in this 
+situation, then finally three coding questions. 
+Coding Question – 1: 
+It was based on sorting.  
+Given an array, e.g., [12, 13, 6], sort it in ascending order according to the number of factors of 
+each element in the array. The output of the question is [13,6,12].  
+Explanation:  
+12 → Factors: 1, 2, 3, 4, 6, 12 → 6 factors 
+13 → Factors: 1, 13 → 2 factors 
+6 → Factors: 1, 2, 3, 6 → 4 factors 
+Sorting them by the number of factors (ascending order): 
+13 → 2 factors 
+6 → 4 factors 
+12 → 6 factors 
+Hence, the output is [13, 6, 12]. 
+Actually this was an very very simple question, our only task was to write optimal algorithm for 
+finding the No. of factors of an element. I wrote that algorithm that finds the factors in O(root 
+N) time where N is the  element for which factors are need to be found.  
+After writing a function for finding the No. of factors, then I used In- build Sort function in C++, 
+and just passes an input array, and an Custom Comparator where the element are compared 
+according to the factors. I used that factors function in this custom comparator. 
+Hence, within five minutes I was able to solve this problem and all the 15 test cases passed.  
+Coding Question-2:  
+I don’t exactly remember the question now, It was like N organic substances will be given, 
+each organic substance will have two values like growth factor and additive factor. Our goal 
+was to find the minimum absolute difference Between growth factor and additive factor 
+across all possible combinations of organic substances.  How the growth factor and additive 
+factor was calculated for combination of organic substances is the multiplication of all the 
+growth factors in that combination is the new growth factor for that whole combination and 
+similarly the addition of the  additive factors in that combination is the new additive factor for 
+that combination. 
+ 
+I solved that problem using Recursion first, like just finding all the possible subsequences  
+While finding itself will multiply the growth factor and add additive factor and then finding the 
+minimum once end index is reached. But that solution was not accepted for some test cases. 
+Then later I solved this using power set algorithm which is used for finding subsequences. 
+Both take same time c but space c differs since  power set doesn’t use recursion stack space 
+just uses bit manipulation and loops.  
+Then for this problem also all the 15 test cases was passed after using that power set algo. 
+Actually I didn’t read this question, I directly went to sample input and output and I was able 
+to understand what we have to do and find.  
+Anyone who solved subset sum problem can solve this problem to.  
+Coding Question – 3:  
+In this question , we will be given with new employees and their work experience and skill 
+score as string [][3] format  like, 
+E 1 2  
+like this will be given in string format, [x][0] will be either E or Q, E stands for employee.  
+And [x][1] ,[x][2] represents score and work exp respectively for that employee. These 
+employees can be assigned ids from 1 and goes on just have to assume like that. After that, Q 
+stands for query, it will be also present in that string[][3] itself, like 
+E 1 2 
+E 2 3 
+E 3 4 
+Q 2  
+E 5 6  
+Q 3 
+This Q 2 means that the employee 2 that E 2 3 needs  a mentor for him and our task is to find 
+the employee among the employees given using the criteria like, skill and exp should be 
+greater than the employee who needs a mentor. If multiple employees satisfy the condition, 
+return the employee who has least diff of skill score and work exp between the employee who 
+needs a mentor and the employee who can be assigned as a mentor. 
+Was asked to return the ans in vector of strings.  
+I coded this problem for nearly 20 min and was able to pass only 7 test cases.  
+Then I just submitted and started solving MCQs and aptitude questions.  
+ 
+After few the days, the results were announced, around 28 students were selected for 
+interview and I was one among them. 
+ 
+Interview Round- 1 : 
+This is my first interview, and it was held at CUIC, and I was also very nervous. But the 
+interviewer spoke well and was good. 
+ 
+First, he asked me to give a brief introduction about myself. Then he started with a basic 
+aptitude math question, like when two dice that have 6 faces are rolled, what is the probability 
+of the sum of the faces being prime? I wrote the sample space on the paper, I was explaining 
+the answer, and he was satisfied with that answer. Then the follow-up question was, if we roll 
+dice with N faces for M times, what will be the probability of the sum of faces after the dice 
+are rolled for M times  being prime? I was asked to solve it in a programmatic way and was 
+also asked to write the pseudocode. I wrote the code and also explained my approach. I just 
+solved that problem using recursion, that is brute force, just trying out all the possible ways, 
+and while finding, I would just add the sum, and after we reach M+1 times, I would stop and 
+check whether the sum is prime or not. And after counting, I would just divide that count by all 
+the possible combinations, which is N^M, to find the probability. I just explained this and 
+wrote the pseudo code. 
+ 
+He was satisfied with my answer. And in the follow-up question, he asked the time and space 
+complexity of the code I wrote and I also said that, and he was satisfied with those answers 
+too. 
+ 
+Then he asked me whether I had any questions for him. I just asked about the tech stack they 
+use, since many of our seniors also asked this same question (I read it in the placement 
+experiences PDF). That’s all about round 1. Overall It went well.  
+Out of 28 people, nearly 18 were eliminated in this round itself. 
+Interview Round -2:  
+Immediately after I had lunch around 1 o clock, I was called for Round 2. Since I had already 
+attended Round 1, I was a bit more confident. 
+ 
+First, he asked me to give a brief introduction about myself, and then he directly started diving 
+into my projects. He took one of my projects and asked me to explain what we did, etc. He 
+asked me to write the tables that we created in the database for that project and to explain 
+the difficulties we faced, as well as how I normalized that table. I explained everything. 
+After that, from one of the tables I explained, I was asked to write a query. That query was of 
+medium difficulty, involving GROUP BY, ORDER BY, and selecting the first 10 rows. I did that, 
+and then again, a simple programming question based on the sliding window concept was 
+given. I was asked to write the pseudocode and also explain the time and space complexities. 
+I did that too, and overall, he was satisfied. And I was sure that will get selected for round 3 
+and also started preparing for it.  
+ 
+ 
+Interview Round – 3: 
+After round 2, within 10minutes I was called for next round. In this round, one mam was there, 
+actually this was also an technical round , I thought It would be an HR round.  I was asked to 
+explain only about the projects I did. She asked all the possible questions that can be asked 
+from my projects. I actually prepared for those questions before the interview( like I asked 
+LLMs like what are all the possible questions that can be asked for these projects, and also 
+asked that itself to give answers) I just read that once and Luckly she also asked only those 
+questions that LLM’s said, I answered for every questions. This round went round 45 minutes 
+and At last she asked me whether I have any questions and I asked what is the recent 
+challenge that your team faced and how you solved them. She was answering to my question, 
+which I didn’t listen. And then just said thank you and left. My round 3 interview was 
+completed at around 2.30 and I was asked to wait. 
+I was asked to wait till 6.15 and after 6.15, the students who were asked to wait were called 
+by the HR and the team and they just said that we are selected and congratulated us.  
+After round 2, only 3 people was called for round 3 and those three were selected. 
+Out of 28 students, 3 were selected and I was one among them, and remaining two were from 
+MIT campus.  
+Preparation tips: 
+• I referred Abdul Bari on Udemy for theory concepts of DSA. 
+• I completely followed only the strivers A-Z dsa sheet for problem solving and 
+practiced on Leetcode and in GFG and also participated in C.O.D.E series contest to 
+test my skills. Sheet link: 
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2 
+• Do projects on your own during your 3rd and 4th semesters , even if you didn’t, just learn 
+the project well that’s enough to crack interview. 
+• Try to solve problems on your own, just don’t directly see the solution, even if it takes 
+more time just try until you can.  
+• Participate in C.O.D.E series by ACM, attend the meeting conducted by them, listen to 
+their advices. 
+• Make use of summer holidays given after 2nd yr. 
+• In that summer holidays, itself spend atleast one to two hours for aptitude too. Anyone 
+can solve aptitude questions but the one who solves first matters, hence practice that 
+too. I spent 2 hrs for aptitude and 4 to 6 hrs for coding daily. 
+• Don’t lose hope at any moment. Believe in persistency. 
+Hope anyone who is reading this, Will write like me one day. All the best, Guys. 
+For any doubts, feel free to contact,  
+7871648764,  
+https://www.linkedin.com/in/vijayanandanjm/. 

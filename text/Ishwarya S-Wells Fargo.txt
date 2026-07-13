@@ -1,0 +1,58 @@
+WELLS FARGO & COMPANY 
+ 
+Wells Fargo & Company is an American multinational financial services company. It is a 
+provider of banking, mortgage, investing, credit card, and personal, small business, and 
+commercial financial services. The interviews in our college were for the SDE roles. Wells 
+Fargo has its offices in Bengaluru, Hyderabad and Chennai in India. 
+ 
+Round 1: Online Test 
+The online test was hosted on the AMCAT platform. It consisted of 3 sections. 
+ English and Verbal: It had some comprehension and vocabulary-based questions. 
+ Data Analysis: Questions were based on interpretation of charts and graphs.  
+ Coding: Two coding questions were asked. They were of medium-hard difficulty.  
+Round 2: Technical Round -1 (60 mins) 
+This was a face-to-face interview round.  
+I was asked to introduce myself and tell a bit about my projects. The interviewer then started 
+asking questions about the android app I had developed.  
+ What are the security features built into the app? 
+ SQL Injection and DDoS attack prevention methods 
+ How to handle heavy loads in servers? 
+ Do you know about microservices? 
+ Questions related to load balancer. 
+After these questions, I was given two coding questions. 
+ A manager-employee scenario and I was asked to use OOPs concepts to design the 
+classes. 
+ Given an array of numbers choose the 3 numbers that give the maximum sum. 
+The coding was done on a normal text editor and I could use any language of my choice. 
+The interviewer then asked if I had any questions for him. 
+Round 3: Technical Round -2 (30 mins) 
+This was also a face-to-face interview round. 
+I was asked to introduce myself. The interviewer started with my projects and internship and 
+then asked about some general system design questions. 
+ Explain about the intern project. 
+ How does a CNN work? (I had worked on Image Processing projects and had listed 
+them on my resume) 
+ Design a database management system. How do you increase the speed of fetching 
+the records? How do you make it fault tolerant? (There weren’t any constraints for 
+designing the system.) 
+ Design a processor that can detect if a code has been modified after compilation.  
+He then asked if I was open to working anywhere and, in the end, asked if I had any 
+questions for him. 
+Round 4: HR Round (20 mins) 
+This was also a face-to-face interview round. 
+I was asked to introduce myself and was also asked about my family and background. The 
+interviewer then asked if I had any questions for her regarding the company and the job. Then 
+she asked why I will not be pursuing Masters and why I am choosing Wells Fargo. 
+Topics to be focussed 
+Good knowledge about Data Structures and Algorithms, analytical thinking and problem-
+solving skills. An in-depth understanding about the projects listed on the resume and related 
+concepts.  
+Takeaway 
+The interviews were smooth and interviewers were really supportive. I had a good knowledge 
+about all the projects that I had listed on my resume and the related concepts and this helped 
+me a lot. It was also important to communicate my ideas clearly to the interviewer as this 
+helped me in the technical rounds when I didn’t know the exact answers. 
+ 
+Name: Ishwarya S 
+Email: ish23.siva@gmail.com 
+ 

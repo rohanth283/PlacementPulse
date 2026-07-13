@@ -1,0 +1,100 @@
+ASTRAZENECA INTERVIEW EXPERIENCE 
+(SUMMER INTERNSHIP) 
+ 
+About the Company: 
+     AstraZeneca is a British-Swedish multinational pharmaceutical and 
+biotechnology company headquartered in Cambridge, England. It is one of the 
+world’s leading pharmaceutical companies, focusing on the research, 
+development, manufacturing, and marketing of prescription medicines across a 
+wide range of therapeutic areas.  AstraZeneca played a crucial role in the global 
+response to COVID-19 by developing the Oxford-AstraZeneca vaccine 
+(Vaxzevria) in collaboration with the University of Oxford. 
+ 
+Number of Rounds: 3 
+1. Online Test 
+2. Technical Round 
+3. HR Round 
+ 
+Online Test: 
+    This round was conducted in Mettl platform for about 45 minutes. It was 
+conducted in offline mode at CUIC mini auditorium.  The round consists of 5 
+sections namely verbal ability, business aptitude, visual reasoning, logical 
+reasoning, quantitative reasoning. Each section had a time constraint of 8-9 
+minutes.  All the sections had MCQs which had to be answered compulsorily 
+and free navigation was allowed only within the sections and it was prohibited 
+between the sections.  
+ 
+Verbal Aptitude:  Questions like choose the meaning, fill in the blank with 
+appropriate words were asked, find the error in the sentence, reading 
+comprehension and general English grammar were asked. 
+Business Aptitude:  Questions were largely based on  graph interpretations(bar 
+graphs, line graphs), data analysis, basic Mathematics and profit-loss. 
+Visual Reasoning:  Questions were based on  identifying the  recurring patterns, 
+sequences in a set of images, predicting the outcome of a folded or cut piece of 
+paper. 
+Logical Reasoning:  Questions like word encryption, determining the  direction 
+based on given instructions were asked. 
+Quantitative Reasoning:  Questions based on probability & statistics, ratios and 
+percentage were asked in this section. 
+ 
+Technical Round: 
+The technical round lasted approximately for 20-30 minutes and I was 
+interviewed by a panel of two members. Initially, the interviewer was keen to 
+understand my reasons for choosing Computer Science and why not some other 
+circuit branches.  Then they started asking questions on my projects I’ve 
+mentioned in my resume.  Most of the questions asked were based on my 
+resume. 
+The panel asked me to explain the projects I’ve mentioned in my resume. They 
+also asked about the reason behind choosing those projects. Questions based on 
+the tools and tech stack used in the projects were asked like why did u choose 
+this tool and tell something about this tech stack.  They also asked  me to tell 
+any 3 challenges faced during my DBMS project.  
+ He then gave me a scenario where I was given a dataset and then he 
+asked what will I do with that data like what are all the possible ways 
+to remove the missing values , what will I infer from those data.   
+ He also asked some questions on Microsoft (excel – formulae, 
+Power Bi), whether I am aware of Microsoft teams and what I am 
+using it for. 
+ He also asked me to rate myself on my proficiency in  Microsoft 
+excel. 
+ He then asked about the roles in various clubs and asked the most 
+favourite role.  Since I said TechOps role in CTF, he then started 
+asking questions based on that role and questioned about my works. 
+ The panel also asked about my time management skills and how do 
+I prioritize and manage academics and  roles in various clubs. 
+ 
+Finally he asked if I have any questions.  I inquired about the company’s 
+approach for the development and advancement for an employee. 
+I suggest to prepare well about the things that have been mentioned on your 
+resume and also if you are unsure about your answer admit it rather than giving 
+incorrect answers. 
+HR Round: 
+ This round lasted for about 7-10 minutes. 
+ The interviewer asked me to explain about my projects. 
+ He then asked why I had applied for Astrazeneca. 
+ Then he asked how will I manage several tasks in a day after saying that 
+the day would be hectic in Astrazeneca as many tasks will be given. 
+ He then asked being Computer Science student what made me to apply 
+for this role  
+ He also asked whether I did any internship before. 
+ At last, he asked me whether I have any questions for him. I asked what 
+is the level of AI usage in AstraZeneca. 
+ 
+ 
+Overall, the interview process was quite easy. All you have to do is prepare 
+some basic concepts. Also, you need to be strong in the topics mentioned on 
+your resume and articulate them properly. 
+ 
+ 
+ 
+ 
+All the very best! 
+ 
+ 
+ 
+ 
+My details 
+DEVAABINAYA P 
+CEG CSE’26 
+E-Mail: devaabinaya1510@gmail.com 
+Mobile: 7010379656 

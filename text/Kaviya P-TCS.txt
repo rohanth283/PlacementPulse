@@ -1,0 +1,44 @@
+TCS NINJA 
+Tata Consultancy Services is an Indian multinational technology company that specializes in 
+information technology services and consulting, headquartered in Mumbai, Maharashtra, 
+India. 
+PREPARATION SITES: 
+• Prepinsta 
+• Faceprep 
+• Freshers world 
+ROUND 1: 
+Aptitude  and Coding 
+Aptitude includes  
+• Numerical ability-Data Interpretation ,Time and Work,  Number System, Time, Speed 
+and Distance,  Ratio and Proportions,  Simple Interest and Compound Interest, 
+Percentages,  Profit and Loss 
+• Verbal ability-Basic Grammar 
+• Logical ability-Blood relation, Venn diagrams ,Encoding and decoding , Syllogism 
+• Programming Logic-Array ,OOPS ,Data structure 
+Coding 
+Fundamentals of programming. 
+ROUND 2: 
+Technical + HR round 
+Technical round may consist of questions about 
+• Projects 
+• Things mentioned in resume 
+• OOPS concepts 
+• DBMS 
+• C++/PYTHON/JAVA basics 
+Some sample questions are 
+• Introduce yourself 
+• Tell about your projects 
+• What is the use of final keyword? 
+• What is runtime polymorphism? 
+• Difference between function overloading and function overriding 
+• What is a foreign key? 
+• Difference between array and stacked list  
+ 
+HR round may consist of questions like 
+• Tell me about yourself? 
+• What are your strength and weakness? 
+• Why should we hire you? 
+Topics to be focussed: 
+Aptitude ,Basic coding, Project details ,OOPS concepts.  
+Hope this helps! 
+Kaviya P 

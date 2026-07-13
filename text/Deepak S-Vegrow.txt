@@ -1,0 +1,85 @@
+VEGROW INTERVIEW EXPERIENCE 
+(INTERNSHIP) 
+ 
+Vegrow, India's leading B2B fruits marketplace was established in 2020 
+by IIT alumni. Vegrow has established a strong presence in the fruits segment 
+in India, which is a large, unorganized market that is poised for tech-led 
+disruption due to its fragmented and localized operational structure and is 
+characterized by the involvement of multiple intermediaries facilitating 
+transactions. 
+The company maximizes farmers’ income, by accurately grading produce 
+and efficiently matching it with the most suitable demand channel. This 
+creates a virtuous cycle, attracting more farmers through competitive pricing 
+as well as more buyers, who seek consistency in both price and quality. 
+ROUND 1: 
+Online Hackerrank Test: 
+It consists of three coding questions and a SQL query to be written. 
+ 0/1 Knapsack Problem - The objective was to maximize the profit from 
+selecting artifacts for a caravan with a strict weight limit. Given the profit 
+values and weights of the artifacts, I needed to determine the maximum 
+profit achievable without exceeding the weight capacity. [ 60 points] 
+ Best Time to Buy and Sell Stock - The task was to determine the maximum 
+profit that can be achieved by buying a crop on one day and selling it on a 
+later day, given an array of prices representing the crop prices over several 
+days. [ 20 points] 
+ Candy Distribution problem - To calculate the minimum number of 
+rewards (or candies) to distribute among fields based on their 
+productivity ratings, ensuring that higher-rated fields receive more 
+rewards than their adjacent lower-rated fields. [ 40 points] 
+ SQL - SQL query problem where I needed to retrieve the names of 
+students who scored higher than 75 marks. The results were ordered 
+by the last three characters of their names, and if there were ties, they 
+were further sorted by the student ID. [ 10 points]
+ 
+From the test 10 students were shortlisted and eligible for the Interview 
+Conducted at CUIC and there are 2 Technical interviews. 
+ 
+ 
+ROUND 2: 
+TECHNICAL INTERVIEW - 1: (1 hour) 
+1. Tell me about yourself. 
+2. Explain your project. 
+3. Tech stacks used. 
+4. Give me an overview of your database that you used in your 
+project and explain me with an ER diagram. 
+5. He asked me how would you modify your table. He asked me to 
+normalize it. 
+6. Write a query to find the privileges offered for a particular user 
+(with reference my table). 
+7. Sort an array containing the numbers 1, 2 and 3 in linear time 
+complexity. 
+8. He modified the question that the number in the array can be of 
+any range restricting the time complexity to be O(n). I replied 
+that it is not feasible. Then he restricted the range to the 
+numbers [1, 10000]. I suggested the solution using hash array. He 
+asked me what if the array contained so many duplicates. I 
+suggested using Sorted Hashmap. (map in C++, TreeMap in java). 
+9. You are left in desert with a bag containing 2 red and 2 blue pills. 
+You must eat exactly one blue and one red to survive. How will 
+you survive. [ Hint: Think of breaking the pills] 
+10. Tell me about Docker. 
+ 
+From this round 5 students got shortlisted for the next round. 
+ 
+ 
+ 
+TECHNICAL INTERVIEW-2: (20mins) 
+1. Tell me about yourself. 
+2. Tell me about project. 
+3. Explains tables. 
+4. A simple SQL join query. 
+5. Integer to Roman conversion 
+6. Factorial of a number. 
+7. Majority element in const space complexity [Use Moore’s voting 
+algorithm]. 
+8. Minimum number of insertions to make a string palindrome. [ Note: 
+insertion can be done only at the beginning of the string.] 
+Finally 3 students got selected for the internship. 
+                               
+                                            MY BEST WISHES FOR YOU 
+ 
+ 
+Details: 
+Name: Deepak Sridhar 
+Contact: 6380156548 
+Email: spdeepaksri@gmail.com 

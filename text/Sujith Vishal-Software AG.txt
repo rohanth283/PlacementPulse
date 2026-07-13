@@ -1,0 +1,149 @@
+SOFTWARE AG INTERVIEW EXPERIENCE 2023 
+ 
+ 
+About the Company: 
+ 
+Software AG is a German multinational software corporation that 
+develops enterprise software for business process management, 
+integration, and big data analytics. Founded in 1969, the company is 
+headquartered in Darmstadt, Germany, and has offices worldwide. 
+ 
+ 
+Total Rounds: 
+1. Online Assessment 
+2. Written Coding 
+3. A) Technical Interview -1  
+B) Technical Interview -2  
+4. HR interview 
+ 
+1. Online Assessment 
+ 
+Questions: 3 coding questions 
+ 
+Time: 1 hour 
+ 
+ 
+1. Detect and print cycle in an undirected graph 
+2.  Given two arrays, heights and weights, of n persons, where heights[i] 
+represents the height of the ith person and weights[i] represents the weight 
+of the ith person, we want to find the maximum number of persons who 
+can stand one above another.  
+Solution: Sort the values in increasing order according to one parameter, 
+either height or weight, and then apply the longest increasing subsequence 
+algorithm to that sorted order to find the solution. You can further optimize 
+this process using dynamic programming (DP). 
+ 
+3. https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-
+numbers-to-form-the-biggest-number/ 
+ 
+2. Written Coding: 
+  
+Venue: CUIC  
+ 
+Questions: 1 coding and 1 debugging 
+ 
+Time: 40 minutes  
+ 
+ 
+ 
+1. https://leetcode.com/problems/trapping-rain-water/ 
+2. Given a code snippet, identify the output for the given input and explain 
+the code. 
+ 
+ 
+3. 
+A) Technical Interview -1 
+ 
+Tell me about yourself 
+I was asked to choose one of the projects mentioned on my resume 
+I was told to design that project (System design approach) 
+Questions after designing: 
+• What would you do if server is overloaded? 
+• How do you optimize database performance? 
+• Can you design microservice architecture? 
+I was asked a dsa problem 
+• Write code to allocate N objects to M slots equally 
+• Write a function to add and remove list of objects from slots 
+• How would you reallocate such that each slot contains equal number 
+of objects? 
+• Explain shortest path algorithm in graph 
+Then, interviewer asked questions from DBMS 
+• Explain normalization? 
+• How would you change the data type of existing column in database? 
+I was asked some questions about the work I have done in my internship 
+He asked me whether I know full text search in NOSQL (elastic module) 
+ 
+B) Technical Interview -2 
+ 
+The first question the interviewer asked was bit tricky which is, I need to choose a 
+correct data structure for the given requirement. The requirement is similar to 
+hashmap. Let’ say  
+ K1 -> v1,v2,v3 
+K2-> v4,v3 
+K3-> v6,v4 
+ 
+Sample input: k1   sample output: v1, v2, v3 
+Sample input: v3   sample output: k1, k2   (fetching keys for the given values) 
+ 
+It can be done using another hashmap by storing all the values as key but you 
+cannot this additional space. So, think of another data structure. 
+Solution: Graph 
+ 
+ 
+The second question was 1 card will be taken from the deck of 52 cards and you 
+will be given remaining 51 cards. You need to find that missing card. Think in a 
+programmatic way. Also, you cannot use additional space. I gave two solutions, 
+interviewer was satisfied with my solution. 
+I was also asked some managerial questions 
+• What have you learnt in the college so far? 
+• How do you keep yourself updated? 
+ 
+4. HR Interview 
+ 
+ 
+Tell me about yourself 
+ 
+He asked some questions about my project 
+I mentioned some ML projects in my resume. So, he asked me some ML 
+concepts. 
+ 
+Some general questions like 
+• What is you great weakness? 
+• How is college going? 
+• How do you keep yourself updated? 
+ 
+ 
+Verdict : Selected 
+ 
+ 
+ 
+ 
+TIPS: 
+ 
+Solve DSA problems regularly in Leetcode,HackerRank etc. 
+ 
+Give importance to aptitude as well. 
+ 
+Prepare the projects you have mentioned in your Resume 
+ 
+Prepare well on topics like, 
+▪ OOPS 
+▪ DBMS 
+▪ OS 
+▪ System Design (basics) 
+ 
+Prepare for HR questions as well. 
+ 
+ 
+ 
+ 
+Contact: 
+ 
+Sujith Vishal V, 
+CEG’24 batch, 
+Sujithvishal003@gmail.com 
+8056908993. 
+ 
+ 
+ 
+ 

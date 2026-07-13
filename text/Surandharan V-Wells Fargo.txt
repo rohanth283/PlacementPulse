@@ -1,0 +1,96 @@
+WELLS FARGO (PLACEMENTS)  
+Role: Program Associate 
+Batch: 2020 – 2024 
+Mode: Offline 
+Number of Rounds: 4 
+About the Company: 
+Wells Fargo is a prominent multinational financial services company based 
+in San Francisco, USA. They offer a wide range of services including banking, 
+investments, credit cards, mortgages, as well as consumer and commercial 
+finance. In India, they have offices in Chennai, Hyderabad, and Bangalore. 
+Round 1: Online Assessment 
+The online test was conducted on the SHL AMCAT platform and 
+consisted of three sections: 
+1. Verbal Aptitude 
+2. Business Aptitude 
+3. Coding Section 
+This format is typical for Wells Fargo's online assessments. The verbal 
+aptitude section tested vocabulary and comprehension. The business 
+aptitude section focused on data interpretation from pie charts, bar charts, 
+graphs, and stocks & exchanges. While these sections weren't particularly 
+difficult, the time constraints made quick reading and analysis essential. 
+The coding section featured three problems. The first two were quite 
+easy, and most candidates could pass all test cases. The third problem was 
+of medium difficulty, but the challenge was compounded by the use of an 
+older C++ version, which didn’t support vectors. It was a graph-based 
+problem with only two test cases. My code passed one of them, which 
+turned out to be sufficient. 
+Out of all candidates, 59 were selected for the next round, with 22 being 
+added just an hour before the interviews through an additional shortlist. 
+Tip:  
+The aptitude section seemed to carry more weight than the coding 
+part. I recommend starting to practice aptitude questions on platforms like 
+IndiaBix and PrepInsta about a month before placements begin. For coding, 
+LeetCode and GeeksforGeeks should be sufficient, but it's best to start 
+learning DSA at least three months in advance, as online tests are becoming 
+increasingly challenging. 
+ 
+Round 2: Technical Interview 1 
+In this round, the interviewer was friendly and helped me feel at ease, 
+knowing it was my first interview. He started with a real-life problem that 
+required sorting as a solution. I explained Merge Sort in detail, as it’s a good 
+algorithm for in-depth discussion. He asked a few follow-up questions as 
+well. 
+We then discussed the differences between C++ and Java, and the 
+interviewer dug deeper into this topic. Next, he moved on to system design 
+and posed the problem statement: "Consider you're storing data about all 
+Indians in a database. How would you design such a database? What factors 
+would you consider?" I suggested a few solutions to improve access time, 
+reduce latency, and enhance scalability. 
+I felt I didn’t do well on the system design part, but the interviewer gave 
+a positive response. 
+ 
+Round 3: Technical Interview 2 
+This round began with a basic question: "What is your favorite data 
+structure?" I chose graphs and explained traversal algorithms. The 
+interviewer asked several real-life questions, and I answered them using 
+concepts like cycle detection, shortest path, and weighted graphs. 
+The conversation then shifted to my projects. I walked him through the 
+entire process, and he asked about alternatives to the stack I used and the 
+innovations I implemented. We also covered some HR questions, like where 
+I see myself in 3-5 years, handling conflicts within a team, and task 
+assignments. 
+Overall, this round went smoothly. The interviewer seemed pleased, 
+and his feedback was positive. 
+Tip:  
+To succeed in technical interviews, it’s important to clearly explain 
+your ideas and solutions. Don’t let anxiety or nerves get the best of you; 
+mock interviews can help build confidence. Be thoroughly familiar with 
+everything on your resume, as most questions will be asked from it. 
+ 
+Round 4: Behavioral + HR Round 
+This round was more like a conversation than a formal interview. I was 
+expecting the usual HR questions, but the interviewer seemed genuinely 
+interested in getting to know me. She asked about my passions and how my 
+college experience has shaped my character. Since she was also involved 
+in the pre-placement talk, I asked her a few questions based on that, and 
+she seemed impressed with my attentiveness. 
+The HR round lasted about 20 minutes and ended on a positive note. 
+In total, 20 students were selected. 
+ 
+ 
+ 
+Key topics to focus on include: 
+o DSA (for Online Assessments and Interviews) 
+o Aptitude 
+o Core Subjects 
+o Projects 
+o System Design 
+o Puzzles 
+ 
+Don’t hesitate to get in touch if any support is needed ! ALL THE BEST ! 
+ 
+Surandharan V 
+9042429031 
+surenphoenix13@gmail.com 
+Linkedin : https://www.linkedin.com/in/surandharan-v/ 

@@ -1,0 +1,122 @@
+Aptiv Interview Experience 
+(Intern+FTE) 
+ 
+Role: Software Engineer 
+Pre-requisites – C/C++ 
+Online Assessment (mix of MCQ & Subjective questions around technology, 
+aptitude & basics of coding)-Online 
+The interview process consisted of three rounds(online) 
+Technical Interview 
+Techno Managerial Interview 
+HR Interview 
+(All the above 3 rounds are eliminatory) 
+ 
+About the Company 
+Aptiv is a global automotive technology company focused on building safer, 
+greener, and more connected mobility solutions. It develops advanced software 
+and hardware systems like autonomous driving tech, electrical architectures, and 
+connected vehicle platforms. Headquartered in Switzerland, Aptiv operates in 
+49+ countries with major tech centers including India. The company aims for zero 
+accidents and zero emissions, playing a key role in shaping future mobility. 
+ 
+140 members were shortlisted for Round1(Technical) 
+Meeting links were shared to respective mails and was conducted in TEAMS. 
+ 
+Round 1- Technical Interview (30 min) 
+ 
+1) Self-Introduction. 
+2) Tell about one of your best projects. 
+3) Questions about projects. 
+4) Networks-http vs https, how does DNS works, TCP and UDP and some other 
+questions related to networks. 
+5) DBMS-Normalization, Primary Key, Foreign Key. 
+6) OS-Thread vs Process, Deadlock and its conditions, Deadlock Avoidance. 
+7) Some of the git commands were asked as I mentioned in my resume. 
+(eg. Fetch vs Pull) 
+8) He asked about my preferred domain to work in. I said AI, since it is an 
+evolving field and my projects are aligned with it. 
+9) Cloud-based questions were asked as the interviewer works in the cloud 
+domain. (I didn’t know all the answers, so I shared what I knew and honestly 
+said that I’m not aware of some, but expressed my interest in learning more 
+about them)  
+10) Asked about my responsibilities as I mentioned in my resume. 
+11) Any questions for him. 
+ 
+Round 2- Techno Managerial Interview (30 min) 
+(Around 45 members attended this interview) 
+ 
+The interviewer asked about the project I am going to do in my final semester-
+what algorithms I am going to use, how I approach the problem, and how I am 
+going to implement it. He also asked which programming language I used to code 
+and how I would rate my skills in those languages. There were some situational 
+questions too, like how I would handle a team if other members were not working, 
+or how I would deal with a new algorithm that no one knew. He asked about the 
+IDE I use for Python and also asked about my extracurricular activities, 
+responsibilities, and certifications. And asked any questions for him. 
+ 
+In both rounds of my interview, it was fairly easy. Some panelists asked basic 
+coding questions and about Aptiv protocols, along with other company-related 
+topics. 
+Overall, be confident in your answers, even if they are not completely correct. 
+Share your thoughts honestly if you are unsure. 
+ 
+Tip: Answer questions practically, not just theoretically. Use examples of your 
+work to explain your points.  
+ 
+Round 3- HR Interview (20 min) 
+(Around 30 members attended this interview) 
+The interviewer was very relaxed. He asked me to tell my college journey from 
+the first year to the final year as a story. He also asked where I come from and 
+the challenges I faced. He asked about my area of interest and what inspired me 
+from the company’s presentation. 
+Then he asked how others would describe me. I said they would call me a good 
+motivator. After that, he gave me a situation: he said he got rejected by 5 
+companies, has no more on-campus placements, and is feeling depressed. He 
+asked to motivate him. I motivated him by saying that everything will happen at 
+the right time, that one should prepare persistently and give their full effort, and 
+the rest will fall into place. The discussion went around for about 5 minutes. He 
+was very curious and listened to me carefully. Finally, he asked if I had any 
+questions for him. 
+ 
+25 members got selected finally including me. 
+8 members from CS, 7 from IT, 10 from ECE. 
+ 
+Key Takeaways: 
+• Focus on DBMS, Computer Networks, OS (mainly), and OOPS. 
+• Be thorough about everything you mention, especially the projects. 
+• I followed the TakeUForward YouTube channel and regularly solved 
+problems on LeetCode or GeeksforGeeks. 
+• Focus on patterns, not quantity: Understand problem-solving patterns 
+instead of just solving a large number of problems. 
+• Research about the company and its domain before the interview. 
+ 
+It was my second interview, and I felt really happy when I got selected! The 
+interview process spanned two days, but I was lucky to complete all my rounds 
+on the first day itself. Some candidates had to wait for the second round results 
+until the next day. I was also the first one from the CS department to move on 
+to the HR interview. The final results were announced after a week, right after 
+the Pooja holidays. 
+During placement drive, I noticed that many people attend multiple interviews 
+and feel upset if they aren’t selected. It can be disappointing, but I believe 
+whatever is meant for you will come at the right time. There’s no use in feeling 
+low-talk to your friends when you’re down, and take care of your health, and go 
+out to get some fresh air. With consistent preparation, the right opportunity will 
+come. Everyone has talent, and you’ll get a chance to showcase yours! 
+ 
+All the Best!!! 
+ 
+ 
+Dhivya S, CEG CSE’26  
+For any motivation or insights, feel free to reach out to me! :) 
+E-Mail: dhivyasiva825@gmail.com 
+ LinkedIn: linkedin.com/in/dhivyas03/ 
+Mobile: +91 8778119032 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

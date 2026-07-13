@@ -1,0 +1,88 @@
+Infinera Placement Interview Experience   
+  
+Role: Software Developer  
+Number of Rounds: 4 offline  
+Job Location: Bengaluru   
+Job Description: Infinera India Private Limited is a leading provider of intelligent 
+optical communication networks, where you'll work on cutting-edge technologies 
+like photonic integrated circuits, software-defined networking, and machine learning 
+to develop innovative solutions for high-performance networking, long-haul optical 
+transport, and data center interconnects. You'll be involved in optimizing global data 
+transfer, building scalable, high-capacity networks, and driving next-generation 
+advancements using diverse platforms such as C/C++, FPGA, Python, and Linux. At 
+Infinera, you'll contribute to creating sustainable, efficient communication systems 
+that power the global internet and connect businesses worldwide.  
+   
+1st Offline Round:    
+MCQs: Aptitude, OS, CN and OOPs  
+Difficulty Level: Easy   
+Coding Questions: 1 coding question was asked.   
+1. Given a string (sentence), return the word with second highest frequency. If 
+there are multiple words with same frequency, return the lexicographically 
+smaller string   
+  
+Totally 18 candidates were selected for next round.   
+   
+Technical Round 1 (45mins):   
+Difficulty Level: Easy  
+After the initial introduction, the interviewer asked me some questions about 
+objectoriented programming (OOP) concepts, followed by a request to implement 
+them using Java. We then discussed my internship experience and the work I had 
+done there. To assess my C++ skills, I was given two straightforward coding 
+questions: one to generate Fibonacci numbers and another to check if two strings 
+are anagrams. I had to write the code in notepad and explain my approach to the 
+interviewer. We also had a brief discussion about the projects I had highlighted on 
+my resume.  
+  
+Technical Round 2 (1 hr):   
+Difficult Level: Medium   
+Computer Networks (CN):  
+The questions covered various protocols such as HTTP, FTP, and SFTP, as well as the 
+differences between UDP and TCP protocols. We also discussed the OSI and TCP/IP 
+network layers, and I was asked to explain how a message is transmitted using these 
+models.  
+Operating Systems (OS):  
+The interviewer then focused on operating system concepts. We discussed virtual 
+memory and its purpose, the difference between paging and segmentation, and 
+deadlock prevention techniques. I was also asked about various CPU scheduling 
+algorithms and some application-based questions, such as how memory can be 
+efficiently utilized if two users are running the same web browser simultaneously. I 
+explained the memory layout of a process, which includes code, text, stack, and heap 
+segments. While I could describe the layout, I initially could not identify that the code 
+and text segments could be shared between both instances of the web browser.  
+Logical Problem:  
+Finally, I was given a logical problem: how to compute the average of two integer 
+numbers without causing overflow. I proposed several solutions, such as using (a/2 + 
+b/2), handling edge cases for overflow, and type casting the calculation to double 
+and converting it back to integer. However, the expected solution was a + (b - a) / 2.  
+5 people were shortlisted after this round.   
+   
+HR Round (10-15 minutes):   
+This HR round was mostly a formality. I was asked what I liked about the company 
+where I interned and why I would prefer Infinera over that company. We also 
+touched on some of the soft skills mentioned in my resume and had a casual 
+conversation about the company's work and culture. The interviewer even inquired 
+about my family background.   
+Finally, 5 people were selected.   
+ My advice:   
+• 
+Always prepare based on the company's focus areas. Knowing that the 
+company emphasized operating systems (OS) and computer networks (CN), I 
+tailored my preparation accordingly.  
+• 
+Be honest in your answers because they will always cross question based on 
+your answer.  
+• 
+Communication is key—it is important to clearly share your thought process, 
+whether or not you are confident in the answer.  
+• 
+Since the interview was mostly theoretical, there were some concepts I was 
+not fully familiar with, but instead of saying "I don't know," I made an effort to 
+provide relevant answers based on my understanding.  
+  
+Aravind D 
+CSE CEG 2025 Batch 
+ 
+Contact Info:   
+Phone: 9884989217  
+Email: aravindd2003@gmail.com   

@@ -1,0 +1,73 @@
+Batch: 2017 - 2021 
+Name of the Company: Wells Fargo 
+About: 
+Wells Fargo & Company is an American multinational financial services company with 
+corporate headquarters in San Francisco, California, operational headquarters in 
+Manhattan, and managerial offices throughout the United States and overseas. 
+Number of Rounds: 4  
+1. Online (Aptitude and Coding) 
+2. Technical round 
+3. Managerial round with Vice President  
+4. HR round 
+Online Round: 
+The online round consisted of Multiple-choice Questions and Coding Round. 
+MCQ - Aptitude, Reasoning, Logical thinking and English comprehension. 
+General Tip: Be a little fast in answering these MCQs. Try to use elimination techniques 
+among choices. Don’t spend too much time in one particular MCQ. Make sure there are no 
+negative markings before start. 
+The coding round consisted of 2 questions. One from greedy algorithm (similar to N-
+meetings in one room problem) and other was from Trees. Time for coding question – 45 
+minutes 
+General Tip: In coding round, always try to solve questions with all test cases. For example, if 
+there are 2 questions, instead of solving 50 % of test cases in both questions, try to solve 1 
+question with all test cases 
+I concentrated on the first question and was able to pass 50 % of the test cases in first 
+question. Fortunately, I got selected for the next round. Though I didn’t excel much in 
+coding questions, I did my MCQ very well. 
+General Tip: Never consider MCQ questions of less weightage. Most banking and FinTech 
+companies give higher priorities for Aptitude questions. (Indiabix for Aptitude questions) 
+Out of around 300 students, 40 got shortlisted. 
+Technical Round: 
+It went around 45 minutes. Started with “Tell me about yourself”, then I explained my 
+summer internship at SAP Labs and the project that I did there. The interviewer had many 
+questions in my project and I explained them.  
+General Tip: When you say about a project in an interview, make sure you know every bit of 
+your project and also the base domains that your project is related to. 
+The interviewer then told me to open a WordPad and write a code for automatic word 
+suggestions. Like if you have words like deer, dear, deep and deaf and if you type de, it 
+should show all the words as suggestions. I used C++ for coding and explained my logic. 
+Finally, he asked me to explain about my machine learning projects. 
+Managerial Round: 
+ 
+At first the interviewer asked me to draw an ER diagram for an E-commerce site like 
+Amazon and then normalize them. 
+Then he asked me about some of the java features. 
+Also, I had some application questions like,  
+1. What data structure can be used for an ATM denomination 
+2. What data structure can be used for a lift in an apartment. 
+For these questions, I tried to explain them using the possible data structures for that 
+particular question and then tried to use the optimal one as the answer. I also explained 
+them to the interviewer and he appreciated about my approach.  
+Finally, he asked me whether I had any questions for him. I asked about the carrier growth 
+opportunities in Wells Fargo.  
+At the end of this round, he appreciated my confidence in answering the questions and 
+greeted all the best for my next round. 
+HR Round: 
+This round was a short 20 minutes round.  
+It had some general HR questions.  
+How was the day, my strengths and weakness, how was my internship in SAP Labs etc. 
+This round primely tested my communication skills and my confidence. 
+General Tip: Be honest in this round. Speak confidently and project yourself as a person who 
+is willing to learn new things. 
+Finally, I was one of the 11 students who got placed in Wells Fargo in our batch. 
+Topics to be focussed: 
+Data structures, DBMS, OS and be strong in any one of the coding languages (preferably C++ 
+or JAVA)  
+Take Away: 
+Be confident in your answers, be humble enough during interviews, never lose hope and 
+keep trying. Also make sure you read about the company and their requirements prior. 
+ 
+ALL THE BEST! 
+Name: Pothikkannan G  
+Mail Id: pothikkannan1@gmail.com   
+Linked In: Pothikkannan G 

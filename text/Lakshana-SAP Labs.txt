@@ -1,0 +1,108 @@
+SAP Labs - Interview experience
+Batch: 2020-24
+Selection for: 3rd year Summer Internship
+About the company
+	
+SAP Labs is a German multinational company that provides business solutions 
+for the customers. It is the world’s leading Enterprise Resourcing Planning (ERP) 
+organisation. It additionally focus on selling database software and technology, 
+cloud engineered systems and many more ERP based products.
+Selection process
+	
+Around 15 students were shortlisted directly for the interview rounds based 
+on their resumes. All the rounds were online and conducted on Microsoft Teams.
+Interview - Technical Round 1 (45 min) (15 students)
+	
+1)  Introduction and projects 
+❖I was first asked to introduce myself and to explain my projects. I 
+explained both my ADP and DBMS projects. 
+❖Why have you preferred using the respective tech stack in your projects? I 
+had to explain my reasons for using mySQL, React, JavaScript and so on.
+	
+2)  DBMS and Coding
+❖A simple SQL insert query based on my project itself. I was asked to 
+present my screen and type out the query. 
+❖Coding question - Find the second largest element in an array. I had to type 
+the pseudocode version and explain the logic.
+❖What is meant by relational database?
+	
+
+	
+3)  Object-Oriented Programming
+❖What are the pillars of OOPs?	
+
+❖What is meant by inheritance?
+Interview - Technical Round 2 (35 min) (around 12 to 13 students)
+	
+1)  Introduction and projects
+❖I was asked to introduce myself and explain any one project. Following 
+this, I was asked lot more questions pertaining to the tech stack such as 
+MySQL version, compatibility of my project with other database programs 
+etc,
+	
+2)  Technical knowledge
+❖I was asked what I knew about cloud computing. I was only aware of the 
+basic idea of what it was, so I told the interviewer about that. 
+❖Following this, I was asked questions on Computer Networks, such as - 
+• What is meant by a network?
+• How is data even sent across a network? (Transport protocols)
+• What are the different Transport protocols? (TCP/UDP and I 
+explained a bit about them)
+• How is a message actually sent across the network ? (In the form of 
+bytes of data)
+❖I was asked generally what I knew about Machine Learning, AI and Data 
+Science.
+	
+3)  About the company
+	
+	
+	
+I was then asked what I knew about SAP Labs. I spoke about 	 	
+	
+what I knew about the company. I was then asked if I had questions, and I 	 	
+	
+asked him a few questions about the programming languages that the 	
+	
+	
+company makes use of.
+Interview - HR round (15 min) (8 to 9 students)
+	
+I was asked to introduce myself, and I was asked a few HR-related questions 
+such as - What is your greatest achievement till date? And so on. 
+Finally, 7 students were selected. 
+Resources for preparation 
+❖Data Structures and Algorithms - 
+• https://leetcode.com/discuss/general-discussion/665604/
+Important-and-Useful-links-from-all-over-the-LeetCode
+• YouTube channels such as Striver, NeetCode.
+❖Database Management Systems - GFG
+❖Object-Oriented Programming - https://prepinsta.com/c-plus-plus/ 
+❖Operating Systems - https://www.geeksforgeeks.org/last-minute-notes-
+operating-systems/
+❖Computer Networks - foundational knowledge for this would be enough. I 
+did not prepare for network-based questions, so I was able to answer from 
+what was taught in our CN course in semester 5. 
+❖GFG company-based archives - VERY important. 
+Key takeaways
+❖Code regularly on platforms like Leetcode and HackerRank. 
+❖Participate in coding contests if possible, such as the ACM intern 
+preparation contests. This will help you learn to code under time pressure, 
+which is what actually matters in the selection process.
+❖The interviewer may sometimes ask for the brute-forced approach as well, 
+so be prepared.
+❖Know your projects very well, especially the goal behind your application 
+and the reasons as to why you chose a specific tech stack for 
+implementation.
+❖Generally while preparing for the interview process, focus on projects, read 
+well about the company and prepare good questions to ask the interviewer. 
+These are the areas that if prepares well for, will surely go well in the 
+interview.
+❖Even if you feel that the interview is not going as well as expected, keep 
+calm, maintain your focus on the interview itself and do not worry about 
+your performance or the outcome of the interview. 
+All the best!
+Lakshana Ravishankar
+B.E. CSE (CEG ’24)
+Feel free to connect - 
+❖lakshravi23@gmail.com
+❖https://www.linkedin.com/in/lakshrav/

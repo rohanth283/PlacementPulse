@@ -1,0 +1,207 @@
+ 
+TEKION INTERVIEW EXPERIENCE 
+About the Company: 
+Tekion, founded in 2016 by former Tesla CIO Jay Vijayan, is a fast-growing cloud 
+technology company revolutionizing the automotive retail industry. Headquartered in Pleasanton, 
+California with major tech hubs in India, Tekion serves over 2,000 dealerships and 52 OEM brands 
+worldwide through its flagship Automotive Retail Cloud (ARC) platform. 
+ 
+Number of Rounds: 4 
+1. Online Assessment 
+2. Technical Interview - 1 
+3. Technical Interview - 2 
+4. HR Interview 
+ 
+Online Assessment: 
+MCQ - 20 Questions (DBMS, OS, OOPS, DSA) 
+DSA: 
+Problem 1: 
+You are given two arrays, marie and annie, which represent the face cards of two players, and a 
+string flip that contains either "Even" or "Odd". The game is played in rounds, where each index i 
+of the arrays represents one round. 
+• 
+If flip = "Even", then the players calculate their scores as: 
+o Marie’s score for this round = abs(marie[i] – annie[i]) 
+o Annie’s score for this round = abs(annie[i] – marie[i]) 
+• 
+If flip = "Odd", both players skip their cards for that round (no score is added). 
+After each round, the value of flip toggles (i.e., "Even" becomes "Odd", and "Odd" becomes 
+"Even"). 
+Your task is to find the final score of Marie and Annie after all rounds. 
+ 
+Example: 
+Input: 
+marie = [4, 5, 6, 7]   
+annie = [1, 2, 3, 4]   
+flip = "Even" 
+Process: 
+• 
+Round 1 (flip = "Even"): 
+Marie = |4 – 1| = 3 
+Annie = |1 – 4| = 3 
+• 
+Round 2 (flip = "Odd"): skipped 
+• 
+Round 3 (flip = "Even"): 
+Marie = |6 – 3| = 3 
+Annie = |3 – 6| = 3 
+• 
+Round 4 (flip = "Odd"): skipped 
+Final Scores: 
+Marie = 3 + 3 = 6   
+Annie = 3 + 3 = 6 
+ 
+Problem 2: Bandwidth Allocation (0/1 Knapsack Variant) 
+You are given: 
+• 
+An array bandwidthNeeded[ ], where bandwidthNeeded[i] represents the amount of 
+bandwidth required to process the i-th process. 
+• 
+An array requestsProcessed[ ], where requestsProcessed[i] represents the number of 
+requests that can be processed if the i-th process is allocated its required bandwidth. 
+• 
+An integer totalBandwidth, which represents the maximum total bandwidth available. 
+You need to allocate the available bandwidth to processes in such a way that: 
+• 
+A process is either fully allocated its required bandwidth or not allocated at all (no partial 
+allocation). 
+• 
+The total allocated bandwidth does not exceed totalBandwidth. 
+• 
+The total number of requests processed is maximized. 
+Your task is to determine the maximum number of requests that can be processed with the given 
+total bandwidth. 
+Example 
+Input: 
+bandwidthNeeded = [2, 3, 4, 5]   
+requestsProcessed = [3, 4, 5, 6]   
+totalBandwidth = 5 
+Explanation: 
+• 
+If we choose processes 1 and 2: bandwidth used = 2 + 3 = 5 → requests processed = 3 + 4 
+= 7 
+• 
+If we choose processes 3: bandwidth used = 4 → requests processed = 5 
+• 
+If we choose process 4: bandwidth used = 5 → requests processed = 6 
+The optimal allocation is processes 1 and 2 → 7 requests. 
+Output: 
+Maximum requests processed = 7 
+We took the online assessment on the HackerRank platform at CUIC. I managed to solve the first 
+question completely and the second question partially, and I did well in the MCQ section. A total of 
+30 students from CSE were shortlisted for the next round. 
+ 
+Technical Interview 1 (50 minutes) 
+This round mainly focused on DSA and Core subjects. 
+• 
+The interviewer first went through my resume and asked about my projects and the tech 
+stacks I had worked with. 
+• 
+Since I had mentioned NSS under campus involvements, he asked about that as well. 
+• 
+He then asked me about my favorite subject. I answered DBMS, so he followed up with 
+several DBMS-related questions. 
+ 
+DBMS Questions 
+1. What is replication, sharding, and partitioning? 
+2. What is the CAP theorem? 
+3. What is a transaction? 
+4. What are the ACID properties? 
+5. What are the different types of joins? 
+6. What is functional dependency? 
+7. What is a read/write conflict? 
+8. What is copy-on-write? 
+DSA Problems 
+He then moved on to DSA and asked me three problems: 
+1. Given an array and integer k, left shift the array by k times. 
+2. Find the parent node of a given node in a binary tree. 
+3. Find the intersection node of two linked lists. 
+I provided both brute-force and optimal approaches for all the problems and wrote the pseudo-
+code as requested. The interviewer was satisfied with my solutions. 
+In the middle of the interview, I was also asked to introduce myself. 
+OS Questions 
+Later, the interviewer asked if I was familiar with OS concepts. Since I said yes, he asked the 
+following questions: 
+1. What are semaphores? 
+2. What is a mutex? 
+3. What is a process? 
+4. What is a thread? 
+5. What are paging and segmentation? 
+6. What is a page fault? 
+7. What is thrashing? 
+8. What is a deadlock? 
+Finally, the interviewer asked whether I had any questions. I asked two questions in return. 
+ 
+Technical Interview 2 (45 minutes) 
+For the first 10 minutes, the interviewer introduced himself and spoke about the company. After 
+that, I was asked to introduce myself. 
+This round was mainly focused on projects. 
+• 
+He asked about my favorite project, and I explained my CIP project. 
+• 
+He asked several follow-up questions, such as: 
+o What tech stack did I use? 
+o Why did I choose that particular stack? 
+o Have I worked with AWS, and what services do I know? 
+• 
+He also gave me a few scenarios and asked how my application would behave in those 
+cases. 
+• 
+I was then asked to design an algorithm for a scenario related to my project and explain its 
+time complexity. 
+The interviewer also asked a DSA problem: 
+Problem: 
+Given an array of strings, remove all the strings that have a permutation of themselves present in 
+the array. 
+I provided both a brute-force and an optimal approach and discussed the time complexity for each. 
+Towards the end, he asked a few questions from Operating Systems (OS) as well. 
+Finally, the interviewer asked whether I had any questions, and I asked a couple of questions in 
+return. 
+ 
+HR Interview (15 minutes) 
+This round was more of a casual conversation. 
+• 
+The interviewer first introduced herself. 
+• 
+She then asked me to introduce myself. 
+• 
+I was asked whether I had attended the pre-placement talk. 
+• 
+She asked what I think about the company and what makes me a good fit for the role. 
+• 
+I was also asked about the key takeaways from my projects and to explain all of them 
+briefly. 
+• 
+She asked me to share any conflicts I had faced with my teammates and how I managed 
+them. 
+• 
+Finally, she asked whether I had any questions, and I asked a couple in return. 
+At the end of the process, 9 students from CSE were selected, and I was one of them. 
+ 
+Key Notes: 
+• 
+Revise your core subjects like DBMS, OS, Computer Networks, and DSA thoroughly before 
+the interview. 
+• 
+Practice solving coding problems and be prepared to explain both brute force and optimal 
+approaches. 
+• 
+Always mention the time and space complexity when explaining your solutions. 
+• 
+Be confident in your projects and clearly explain the technologies used, design choices, and 
+outcomes. 
+• 
+Communicate your answers in a structured and confident manner. 
+• 
+Prepare for behavioral questions such as teamwork, conflict management, strengths, and 
+weaknesses. 
+• 
+Stay calm during the interview and admit honestly if you don’t know something, while trying 
+to reason it out. 
+• 
+Show genuine interest in the company by asking thoughtful questions at the end of the 
+interview. 
+ 
+Feel free to reach out: 
+LinkedIn: https://www.linkedin.com/in/vigneshh00/ 
+ 

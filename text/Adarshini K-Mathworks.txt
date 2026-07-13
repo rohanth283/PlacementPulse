@@ -1,0 +1,86 @@
+MathWorks Internship  
+Batch: 2019-2023 
+About the company: 
+MathWorks is an American privately held corporation that specializes in mathematical 
+computing software. Its major products include MATLAB and Simulink, which support data 
+analysis and simulation. 
+Number of Rounds:  4 
+1) Online Coding Round + Mcqs 
+2) Group Discussion 
+3) Managerial Round 
+4) HR Round 
+ONLINE ROUND: 
+Platform: HackerRank 
+This round consists of 10 Multiple choice questions from DSA, C,OS ,DBMS and 2 coding 
+questions one of easy level and the other with medium difficulty. The total time given for 
+both the sections  was 60 mins. 
+Questions Asked: 
+1) Make all the array elements equal. 
+2) This was a medium level question related to arrays. 
+A total of 11 students were shortlisted for the next rounds. 
+The next day we had a PPT(Pre placement talk) at 8:30 a.m. 
+Note: Listen to the PPT carefully as many questions were asked from that. 
+Group Discussion: 
+Platform: Zoom 
+All the shortlisted students participated in this round.  
+TOPIC: Which is more important? Higher Education or Work Experience. 
+From 11 students only 2 of us were selected for the further rounds. 
+ 
+Note:   
+• I started the conversation which I think gave me an upper hand over my other 
+friends. 
+• It is always necessary to stand on your point and not get manipulated by the opinion 
+of others. 
+• My key point with which I proceeded in this GD - Both higher education and work 
+experience are inter-dependent and they are not mutually exclusive. 
+Managerial Round: 
+This round lasted for about 30 -35 mins. 
+Platform: Zoom 
+The interview started with questions like 
+• Which is your favourite subject and why? 
+• My favourite project and what did I explore newly while doing that project? 
+• I was asked many questions from the PPT like , Name the products of MathWorks? 
+• Tell us something about the EDG program and many more 
+• What are your strengths and weakness? 
+• How are you improving your weakness? 
+• The interviewer then asked me a coding question related to stacks. I wasn’t asked to 
+code it . I gave my approach and then he asked me an optimized approach, I 
+managed to give my approach. 
+• Finally the interviewer asked me to choose a branch for work 
+(Bangalore/Hyderabad). 
+Note: 
+• Talk with utmost confidence. 
+• Have a nice big smile and positive attitude. 
+HR Round: 
+This round lasted for 10 – 15 mins. 
+Platform: Zoom 
+The  interviewer greeted me and asked me general questions like tell me about yourself , 
+Why MathWorks?, What do you know about MathWorks EDG program?, Which location did 
+you select for your internship and why? And a few more questions. Finally she asked me if I 
+had any questions. I asked her how did I perform and where should I improve as it was my 
+first HR interview. She said that I  have attentively listened to the PPT and I was well 
+prepared. She bid goodbye by saying looking forward to working with you. 
+Final Result: 
+On the same day around 8 p.m. I got to know that I was the only person from our batch 
+selected for the internship at MathWorks. 
+ 
+To keep in mind: 
+• Prepare an introduction and speak clearly. 
+• Try to maintain a good rapport with the interviewer and show them that your 
+excited to be there. 
+• Never lie in the resume. 
+• Have a thorough knowledge of what you’ve put in the  resume. 
+• For coding practice from leetcode explore, gfg. 
+• Don’t lose hope . Keep practicing and surely you will be selected by one of the 
+companies. 
+• Read GFG’s archives of internship experiences of that particular companies which 
+will give us an insight of how the process flow will be. 
+ 
+ 
+Adarshini.K 
+https://www.linkedin.com/in/adarshini-k-1264781b0/ 
+  
+ 
+ 
+ 
+ALL THE BEST ! 

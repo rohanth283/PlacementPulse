@@ -1,0 +1,64 @@
+Barclays 
+Barclays is a British multinational investment bank and financial services company, 
+headquartered in London, England. Apart from investment banking, Barclays is organised 
+into four core businesses: personal banking, corporate banking, wealth management, and 
+investment management. 
+It consists of two rounds 
+Round 1 : Online test ( Duration : 1 hrs 30 mins). 
+The assessment was conducted online in HackerEarth. 
+It consists of 30 Technical MCQs (related to DBMS, Operating system, JAVA) and two 
+coding questions. 
+I solved both the coding questions and tried my best to answer the technical MCQs. 
+After one week, they shortlisted around 30 students and I’m also one of them. 
+Tip : Try to pass the maximum test cases in both the coding questions. 
+Round 2 : Technical and HR interview ( Duration : 30 mins). 
+1. Tell me about yourself ? 
+2. Why do you want to study at this university and how would you feel it? 
+3. Do you know the OOPS concepts and tell me a brief about it? 
+4. Difference between overloading and overriding. 
+5. Types of polymorphism in java. 
+6. How will you achieve multiple inheritance in java? 
+7. Tell me about any one of your favourite academic projects. ( I said my DBMS project 
+for which I used Netbeans for frontend and Oracle for backend ) 
+8. Give an overview of your project. 
+9. Steps to connect the netbeans and oracle. Explain it? 
+10. What are the different types of statements in JDBC and explain its function? 
+11. What are the other functionalities and usage of netbeans ? 
+12. How will you run the java code? 
+13. How will you combine more tables together (SQL joins and some queries related to 
+SQL)? 
+14. Did you help your neighbours in your area ? (I said yes and explain it with an 
+example) 
+15. What is your role in your house? 
+16. Did you help your classmates by clearing their doubts in subjects during examination? 
+(I said yes and explain it with an example) 
+17. How do you feel about working in a team environment? 
+18. Do you have any questions for me?  
+These are the questions asked in the interview round. There are also some of the questions 
+(nearly 3-4), I couldn’t answer. I just told the interviewer that I am not aware of those topics 
+and I also made a small mistake while answering a technical question related to project, he 
+just smiled at me and corrected those mistakes. It was really a good experience. 
+At last the next day around 12:00 pm results were announced and I was happy to be one to be 
+selected.   
+Topics to be focussed: 
+ Data structures 
+ Database management systems 
+ Operating System 
+ Java 
+ 
+Take away: 
+Having a sound knowledge of basics, coding and confidence will help to be placed in 
+this company. Hope for the best. 
+Hope this helps! Achieve greate heights!. 
+Thank you and Best of luck. 
+Name       : Prethiga Devi G 
+Mail id     : gpd2999@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

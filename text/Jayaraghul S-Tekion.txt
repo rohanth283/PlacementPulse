@@ -1,0 +1,144 @@
+TEKION INTERVIEW EXPERIENCE 
+About the Company:  
+Tekion, founded in 2016 by ex-Tesla CIO Jay Vijayan, is a rapidly growing SaaS company 
+transforming automotive retail with its flagship product, the Automotive Retail Cloud 
+(ARC), the industry’s first cloud-native dealer management system.  
+Read this First: 
+Tekion mainly focuses on your problem-solving skills and willingness to learn new things. 
+If you don’t know something, they don’t expect you to be fully updated; instead, they 
+want to see whether you are trainable or not. Their evaluation is centered around DSA 
+problems, core CS fundamentals, and the creative projects you have mentioned in your 
+resume. They are not much concerned about which new technologies, frameworks, or 
+languages you have used in your projects — though having them is, of course, a plus. 
+The company mainly focuses on candidates from the CS branch, though it also hires 
+from IT. Being a CSE student definitely gives you an advantage. (14 people were selected 
+in total) 
+All Different Rounds: 
+1. Online Test (Offline) 
+2. Technical Round – 1 (Offline) 
+3. Technical Round –2 (Offline) 
+4. HR Round (Offline) 
+Online Test: 
+1.The problem requires finding integer coefficients a and b for each query z from a 
+queries array, such that ax + by = z, where x and y are elements from a given arr of 
+integers. Additionally, the sum a + b must be less than a given integer m. 
+ If such a and b exist and satisfy the condition, the value a + b is added to a result array; 
+otherwise, -1 is added. This problem can be approached by iterating through all possible 
+pairs of x and y from arr and attempting to solve for a and b for each z in queries. (You 
+may find better test cases in AI do check) 
+Arr = [2, 3] m = 5 queries = [7, 8, 5]:-  Result = [3, 3, 2]. 
+I managed to solve around 8 test cases for this problem. 🥲 
+2. You are given two arrays of equal length: process[] and state[].The process 
+[] array contains alphanumeric process identifiers such as "A1", "B102", etc., while 
+the state [] array contains only "Login" or "Logout", indicating the corresponding 
+action for each process at the same index. A process’s activation counts increases by 1 
+whenever it logs in, and decreases by 1 whenever it logs out, but the count can never go 
+below 0. After processing all the events in order, you are given an integer m, and your 
+task is to determine which processes remain active in the system with an activation 
+count strictly less than m. 
+process = ["B1", "A1", "B1", "B1", "A1"] state   = ["Login", "Login", "Login", "Login", 
+"Logout"] m = 2 
+Result :- ["A1"] 
+I solved this question fully, with all test cases passing. 
+3. We had 15 MCQs (Java OOPs, DBMS, OS) and the two coding questions above, all on 
+Hacker Rank. 
+Interview Preparation: - 
+Honestly, I was not fully prepared for the interview. I thought I wouldn’t even get 
+shortlisted since I couldn’t solve the first coding problem completely. But to my surprise, 
+the results were announced around 9:30 PM, and I got through. I am strong in DSA and 
+SQL, so I didn’t even practice a single problem that day. Instead, I started brushing up 
+DBMS and OS from GeeksforGeeks, going through only the topics I already knew. I also 
+just revised the overview of my projects rather than going in-depth. So, my last-minute 
+preparation was mainly on core subjects like OOPs, DBMS, and OS. 
+A kind piece of advice: don’t do this! Try to prepare your core concepts well in advance, 
+ideally during your semester leave, so you won’t have to rush at the last moment. My 
+interview process started the next day around 11:50 AM, right after the online test. 
+Technical round-1: - (1hr) 
+In the first technical round, the interviewer mainly focused on DSA problems. He quickly 
+went through my resume, asked about the languages and tech stacks I had used in my 
+projects, and then gave me three DSA problems. 
+Problem 1: 
+Sort the array in descending order of frequency of elements. If two numbers have the 
+same frequency, sort them in ascending order by value. 
+arr = [9, 9, 1, 1, 1, 2, 3, 3] result= [1, 1, 1, 3, 3, 9, 9, 2] 
+Problem 2: 
+ You are given a matrix (graph) represented with edges. For a given src (source node) 
+and target (destination node), return true if there exists a path from src to target, 
+otherwise return false.  
+n = 5 (nodes 0 to 4), edges = [ [0,1], [1,2], [2,3], [3,4]],  src = 0 target = 4 
+Ans :- true 
+ 
+Problem 3: 
+Two sum problem in which we must return each pair which satisfies the sum=k. 
+I have solved all these problems with the help from the interviewer, and he was satisfied 
+with all my solutions 🥲 
+Technical round-2: -(1hr 15 mins) 
+This round was completely focused on CS fundamentals. The interviewer went topic by 
+topic and checked how strong I was in the basics. 
+OOPs: 
+ What is polymorphism? 
+ What is static and dynamic binding? 
+ Explain abstract classes. 
+ Difference between coupling and cohesion. 
+DBMS: 
+ What are transactions? 
+ Explain ACID properties. 
+ What is serializability in DBMS? 
+ Indexing concepts, difference between B-tree and B+ tree. 
+ What is query optimization and its techniques? 
+ Sharding, partitioning, and replication. 
+ Locks in DBMS transactions. 
+Operating System (OS): 
+ What is a context switch and why is it important? 
+ Explain threads and multithreading. 
+ (Some more OS-based questions I can’t recollect). 
+Computer Networks (CN): 
+ Difference between IPv4 and IPv6. 
+ Basics of routing. 
+SQL: 
+ Write queries using aggregate functions with joins. 
+ Implement outer join without using outer join syntax (by using left, right, inner, 
+and cross joins). 
+DSA: 
+ Explain Kadane’s algorithm. 
+ Kadane’s algorithm in binary tree (maximum path sum in a binary tree). 
+Projects: 
+ I explained the motivation behind my projects, why I chose them, and some interesting 
+achievements mentioned in my resume. The interviewer was very friendly here and 
+wanted to know more about my thought process and contributions. 
+ 
+🥲 I did answer around four questions incorrectly, but I solved the DSA problem much 
+faster than the interviewer expected, which really impressed him. He appreciated me 
+for that, and it showed that I was very strong in the areas I mentioned at the beginning 
+(DSA and DBMS). This was the main reason I got shortlisted for the next round. 
+ 
+ 
+HR Round: - (25 mins) 
+This round was mainly to evaluate how well I fit into Tekion’s culture and whether I 
+would be a good team player. The interviewer started by asking general questions like 
+“What is Tekion?” and “Why do you want to join us?” and then moved on to some 
+personal and experiential topics. 
+She asked about the struggles I had faced so far and how I overcame them. I made sure 
+to highlight both my technical skills and soft skills during the discussion. She also went 
+through my resume and asked me to explain my projects — for which I gave a brief 
+overview. 
+At one point, I spoke in detail about my role in a club position I had mentioned in my 
+resume. She was interested in knowing about the club and the contributions I had 
+made, which gave me a chance to share some of my leadership and teamwork 
+experiences. 
+Overall, the experience was very positive and smooth. Although I felt nervous initially, 
+my anxiety faded after the first few minutes of conversation because the interviewer 
+was extremely friendly and supportive. 
+ 
+Finally, the overall interview experience was really good. For students with a CGPA of 
+around 7, don’t lose hope — focus on studying the CS fundamentals. I am the first 
+student with a 7-pointer CGPA and a history of arrears in CS to get placed within the 
+very first month of the placement drive. So, keep preparing and wait for the right 
+opportunity, your time will come! 
+Name: Jayaraghul 
+Phone: 9659340274 
+If you have any doubts, please feel free to ask me. 
+ 
+ 
+ 
+ 

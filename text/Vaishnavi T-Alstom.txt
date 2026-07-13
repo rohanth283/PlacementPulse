@@ -1,0 +1,47 @@
+ALSTOM 
+ 
+Alstom is a French multinational rolling stock manufacturer operating worldwide in rail transport 
+markets, active in the fields of passenger transportation, signalling, and locomotives, with products 
+including the AGV, TGV, Eurostar, Avelia and New Pendolino high-speed trains, in addition to 
+suburban, regional and metro trains, as well as Citadis trams. 
+ 
+Round 1: 
+It was an online mcqs test around one hour. This round consists of 3 sections: Verbal Ability, 
+Logical Reasoning, Quantitative ability. After completing this round , students were selected for Group 
+Discussion  Round. 
+ 
+Round 2 : 
+It was a Group Disscussion round and it went for around 20 minutes. A team of  8 members 
+participated in this round. Topics were  mostly about  current Affairs ,technologies and General topics. 
+Topic was given by the panel. We  had 2-3 minutes for preparation. 
+ 
+Round 3: 
+It was a Technical Interview round around 30 minutes. 
+1. Introduce yourself 
+2. which subjects do you like the most ? and justify your answer. 
+3. Projects:  Briefly described about projects in the resume. 
+4. solve two programming questions. (where  two programs were easy level) 
+1. Insertion and Searching in BST 
+2. Check whether a Linked list having loop 
+5. Questions based on Sql query. 
+ 
+Round 4: 
+It was an HR round around 15 minutes 
+1)Introduce yourself 
+2)What do you know about Alstom? 
+3)Can you tell about the time when you demonstrated your leadership skills? 
+4)what is your strength and development? 
+ 
+Topics to be focused: 
+➔ Data Structures 
+➔ DBMS 
+➔ OOPS 
+ 
+Take away: 
+Continuous Practice of problems from websites like geeksforgeeks, hackerearth, hackerrank will 
+help you to crack the coding section in the online round.  
+All the best. 
+ 
+Vaishnavi T 
+vaishnavi25nov@gmail.com 
+ 

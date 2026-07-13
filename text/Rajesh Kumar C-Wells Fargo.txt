@@ -1,0 +1,74 @@
+ 
+Wells Fargo Interview Experience  
+Wells Fargo is an American multinational financial services company that offers a wide range 
+of banking, investment, and mortgage products and services.  
+Role Offered: Technology Program Analyst  
+Sequence of Selection:  
+1. Online Test 
+2. Technical Interview (Virtual) 
+3. Technical + HR Interview (Offline) 
+4. HR Interview (Offline) 
+ 
+1. Online Test:  
+1. Coding Question – Level Medium - Minimum Length of Anagram Concatenation  
+2. Coding Question – Level Easy - Count Vowel Substrings of a String  
+3. SQL Question – Level Medium - Given 2 tables users and transactions, find the total 
+transactions and total amount of users for the year 2023. 
+Ans: select u.email, count(t.id) as total_transactions, round(sum(t.amount), 2) as 
+total_amount from users u join transactions t on u.id = t.user_id where t.dt like '2023%' 
+group by u.id, u.email order by u.email;  
+The test was conducted on the HackerRank platform with a duration of 60 minutes. I completed 
+it in 30 minutes since the questions were fairly easy and standard. 
+The results were declared after 4 days, and 20 candidates were shortlisted. I was not part of that 
+list. However, on the day of the interview, an additional list of 6 candidates was released, and 
+I was included in it. 
+ 
+2. Technical Interview (Virtual):  
+The first round was a virtual interview conducted on Microsoft Teams. It began with a self-
+introduction. The interviewer asked me which programming language I was most proficient in, 
+and I said Python. The questions were related to general Python concepts, including decorators, 
+lists, sets, loops, and OOP concepts. 
+ There were also basic questions from Operating Systems (deadlocks), Computer Networks 
+(DNS), and DBMS (an SQL query for the second most frequent item in a table). 
+One question was about how to handle too many requests to an API. I attempted it but didn’t 
+know the exact answer, so I admitted it. The interviewer then explained the solution. She also 
+asked about my internship experience at IIT Madras as a research intern in cryptography. 
+At the end of the interview, I asked her about her transition from her previous company to Wells 
+Fargo, and she explained it clearly. The results were announced after 10 minutes, and I was 
+selected. 
+ 
+3. Technical + HR Interview (Offline):  
+Although it was described as a technical + HR interview, only technical questions were asked, 
+except for one: “Why Wells Fargo?” 
+The interviewer wrote the questions on paper and handed it to me to answer. It began with a 
+DSA application question on which data structure to use and how to approach it. I initially 
+suggested a data structure with higher time complexity and then moved to a more efficient one. 
+The interviewer also guided me toward the most effective data structure. 
+Next, a question on time complexity was asked. I gave the correct answer at first, but when the 
+interviewer said it was incorrect, I changed my answer. Later, he mentioned that my first answer 
+was actually correct, so I explained why I had changed it. 
+After that, there were questions on strings, lists, the range function, and generators in Python. 
+Towards the end, I asked him about how code migrations to Java take place at Wells Fargo, and 
+he explained it in detail. The results were announced immediately, and I was selected. 
+ 
+4. HR Interview (Offline):  
+The interview started with a self-introduction, followed by questions from my resume. I was 
+asked to explain in detail about my internship on cryptography, which focused on verifiable 
+SQL queries on outsourced databases. I was also asked about one of my projects, where I 
+explained it clearly along with the tools that were used. 
+Next, there were questions on Java vs. Python, where I gave a general comparison of both. The 
+interviewer then asked whether Java is a completely object-oriented language. Questions also 
+covered strings in Java, their immutability, and mutable alternatives such as StringBuffer and 
+StringBuilder. Further, I was asked about OOP concepts like inheritance and polymorphism. 
+At last, I asked him if he had any advice for me. He said that I had done well. I was the last 
+candidate for the interview, and the results were announced after 10 minutes. I was delighted 
+to be selected for the role. 
+ 
+Be ready with your self-introduction, internship experience (if any), and project details. 
+Communicate with clarity. Even if you don’t know the answer, stay calm, as the interviewer 
+will help guide you to the right solution. Wishing you all the best! 
+ 
+Rajesh Kumar C, 
+CEG – CSE’ 26, 
+E-Mail: rajesh.cos179@gmail.com  
+Mobile: +91 8248447085 

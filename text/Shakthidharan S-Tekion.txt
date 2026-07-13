@@ -1,0 +1,161 @@
+TEKION INTERVIEW EXPERIENCE 
+About the company: 
+Tekion Corp is a cloud-native technology company founded in 2016 by Jay Vijayan 
+(former CIO of Tesla). Headquartered in Pleasanton, California (USA), Tekion builds 
+next-generation, cloud-based platforms for the automotive industry. Its flagship 
+product is the Automotive Retail Cloud (ARC) – a comprehensive SaaS platform that 
+helps automotive dealerships, OEMs (Original Equipment Manufacturers), and 
+customers manage everything from sales and service to finance and customer 
+engagement. 
+Rounds: 
+• Online Assessment 
+• Technical Round 1 
+• Technical Round 2 
+• HR Round (online) 
+Online Assessment: 
+It consisted of 2 DSA problems and 20 MCQ’s which was based on Core concepts like 
+DBMS,OOPS,CN,OS and basic Javascript, React. 
+DSA Problems: 
+1. The first problem was more of like a 0/1 Knapsack problem but given in 
+different wordings like there are X API requests and the available bandwidth is 
+Y like that. Basically it was Knapsack given in other words. 
+2. The second problem was given like 
+There is an array of size n. We need to find the number of triplets in the array 
+such that the indexes of the three numbers( i<j<k) and the sum of the elements 
+at those indices must be divisible by K. 
+n = 5, K = 3 
+arr = [2, 1, 3, 4, 6] 
+Output:4 
+(2, 1, 3) → sum = 6 → divisible by 3 
+(2, 1, 6) → sum = 9 → divisible by 3 
+(2, 3, 4) → sum = 9 → divisible by 3 
+(2, 4, 6) → sum = 12 → divisible by 3 
+ 
+I tried to do optimal solution but I was not able to pass all the test cases. So I 
+used Brute force and all the test cases were passed. 
+Tip: 
+ 
+Check for the constraints in the question for the input size. If it seems that can 
+be solved in brute force try it. It may also result in passing all the test cases like me.  
+Something is better than nothing.   
+Around 30  people from CSE were shortlisted for the interview at CUIC on the next 
+day. The company came separately for CS-Developer role that mainly selected 
+candidates from CSE department of CEG and MIT. 
+Technical Round 1(40 min): 
+ 
+The first round started at 10.30 am and I was the first candidate for the panel. 
+The interviewer greeted me and asked for my resume. He asked me to introduce 
+myself about the things that are not on my resume. Be prepared for it. I expressed my 
+interest in problem solving and my leetcode profile. He asked me how many problems 
+I have completed and asked me to explain a problem that I recently solved and its 
+solution. 
+ 
+If such questions are asked make sure you tell him the problem that you know 
+well. Tell him all the possible edge cases and why use this approach. The interviewer 
+focuses on how you approach the problem rather than deriving a direct correct 
+solution. 
+ 
+Then he gave me one DSA problem, 
+1. You are given an array of strings. Your task is to return an array of strings such 
+that if a particular string is present in the array then all of its permutation 
+should be eliminated from the array. 
+ 
+arr = ["abc", "bca", "cab", "xyz", "zyx", "foo", "ofo", "bar"] 
+ 
+ 
+ 
+ 
+Output: 
+ 
+["abc", "xyz", "foo", "bar"] 
+• Group 1: ["abc", "bca", "cab"] → keep only one (say "abc") 
+• Group 2: ["xyz", "zyx"] → keep only one (say "xyz") 
+• Group 3: ["foo", "ofo"] → keep only one (say "foo") 
+• Group 4: ["bar"] → keep it (no permutations) 
+ 
+Keep thinking of various solutions that may solve the problem if asked to optimize. 
+This gives a good impression about you and your problem solving skill. They don’t 
+expect you to provide correct solution at the beginning. They see your way of 
+thinking. They may also give clues. 
+I came up with brute(check all permutation) and better solution(sorting strings).He 
+gave me a clue and I told my optimal approach. Keep thinking of various approaches 
+because that is what they want. He asked if I don’t know just tell him but I tried to 
+bring up a solution. Don’t give up because you must have prepared a lot and a 
+solution will strike at the time if you think. 
+Then he asked about my internship experience and my projects. 
+Then he asked for any questions and I asked 2 questions based on Tekions cloud 
+platform. Be prepared with question beforehand. 
+The interview lasted for 40 min. He confirmed me that I will have further rounds and 
+after 5 min the HR confirmed it. 
+Tip: 
+Develop a good connection with the interviewer. Greet them and talk to them as if 
+you had met them earlier and you have a good connection with them. 
+Communication is also a most important part in interviews. 
+Around 18 members were shortlisted for the 2nd round in the afternoon session. 
+Technical Round 2 (1 hr 10 min): 
+In this round the interviewer asked about my internship experience my role. I 
+did an off-campus internship at a startup as I did not get selected during my 3rd year 
+through CUIC. I explained my role as an AI/ML intern. 
+Then he gave me 2 DSA Problems: 
+• MinStack 
+• LRU cache 
+Both the problems are available in leetcode. The same strategy, explain why 
+you use that particular data structure for the task. Explain the edge cases. If 
+they give hints like “that’s all or do you miss something” then check your logic, 
+if you missed something then mention it or else explain why it is not necessary. 
+Question in OS on process synchronization and its solution were 
+asked(semaphores and mutex locks). 
+The interviewer asked me to write code in pen and paper for the above codes. Then I 
+was asked whether there are any questions and I asked about the opportunity for 
+learning in Tekion. After the round I was immediately called for the HR round which 
+was online. 
+Around 13 people were selected for HR round in CSE. 
+ 
+HR Round(30 min): 
+ 
+HR round focusses on whether you align with the companies work culture. The 
+HR had my resume. Typical HR questions were asked like 
+• Tell me about yourself? 
+• Tell me about your projects? 
+• How did you come up this idea ? (give real life scenario on the need of your 
+project) 
+• Which real world problem did it solve? 
+• I was a team leader in my project team, so questions were asked on my 
+leadership qualities and team work. 
+• Strength and Weakness ? 
+• What is your goal in 5 years? 
+HR round will be mostly in a fun manner. Don’t be stressed, be calm and speak with a 
+smile in face. Greet them and talk to them as if you are in tekion team. 
+ 
+After 3 hours the final results were announced and 9 people were selected for CS 
+Developer role and I was glad to be one of them. 
+ 
+Preparation: 
+• Start your preparation during semester holidays(before it will be more better but 
+alteast start from semester holidays) and be strong in all of the DSA concepts. 
+Practice problems in leetcode daily and keep revising. 
+• Be strong in core concepts like OS,DBMS,OOPS,CN. Know your resume in and out. 
+All the questions will be asked from your resume. Don’t fake it , they will know 
+whether you are lying. 
+• Know your projects well and the reason for using each tech stack. There may 
+questions based on the tech stack you used be prepared. It is all based on the 
+interviewer. 
+ 
+ALL THE BEST ! 
+ 
+Name: Shakthidharan S 
+Mobile: 9585277099 
+Linkedin: www.linkedin.com/in/shakthidharan-s-2351a5261 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

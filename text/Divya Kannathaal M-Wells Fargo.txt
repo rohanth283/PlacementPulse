@@ -1,0 +1,119 @@
+Wells Fargo Interview Experience 
+ 
+Role: Technology Program Analyst 
+Round 1: Online Assessment (90 minutes) 
+The online assessment was conducted virtually on the Hackerrank platform, 
+supporting C++, Java, and Python. 
+Duration: 90 minutes 
+It consisted of 3 coding questions that tested problem-solving, logical reasoning, 
+and implementation skills. 
+Question 1: Energy Barrier Optimization 
+You are given an array representing the initial energy levels of particles and a 
+threshold value. Each particle’s energy is reduced by a barrier value, and 
+negative values become zero. You need to determine the maximum possible 
+barrier such that the total remaining energy of all particles is still greater than or 
+equal to the given threshold. 
+ 
+This can be efficiently solved using binary search. 
+Question 2: Optimal Stock Investment 
+An investor has limited funds and can buy at most one stock from each 
+company. Given two arrays representing the current and future values of each 
+stock, and the available savings, you must determine the maximum profit that 
+can be earned after one year without exceeding the budget. 
+ 
+This is a classic 0/1 Knapsack problem, solvable using Dynamic Programming. 
+Question 3: Process Execution Report (SQL) 
+You are given two tables — tasks and processes. 
+Each process belongs to a task and has start and end timestamps. 
+You must write an SQL query to return each task’s hash along with the total 
+execution time (in seconds) of all its processes. 
+The result should be sorted in descending order by total execution time. 
+ 
+This can be done using joins, aggregation (SUM), and DATEDIFF() in SQL 
+Server. 
+ 
+I was able to solve all three questions successfully within the given time limit. 
+20 students were shortlisted  
+ 
+Round 2: Technical Interview (45 minutes) 
+The second round was a technical interview conducted online through Microsoft 
+Teams at CUIC. I was asked to join the meeting via a shared Teams link. There 
+was one interviewer present. 
+The interview began with the interviewer asking me to share my resume. After 
+that, I was asked to introduce myself and mention the programming languages I 
+am familiar with. Then, the discussion moved on to Object-Oriented 
+Programming (OOP) concepts. I was asked if I knew OOP principles and to 
+explain them. I explained all four principles — Encapsulation, Abstraction, 
+Inheritance, and Polymorphism. 
+Next, I was questioned about Data Structures and Algorithms (DSA). The 
+interviewer asked which data structures I was familiar with and then moved on 
+to searching algorithms. They gave me an array and asked which searching 
+algorithm would be the most suitable and to explain its time complexity. 
+Following that, we discussed sorting algorithms, where I was asked to explain 
+the approach of Quick Sort and how it works. 
+Finally, the interviewer moved to SQL, asking about DDL, DML, and DQL 
+commands, and the differences between them. I was also asked to write queries 
+for some of the SQL-based questions they provided. 
+Overall, the round focused on my conceptual understanding and problem-
+solving skills in OOP, DSA, and SQL. 
+ 
+Round 3: Technical Interview (45 minutes) 
+The third round was an in-person technical interview, conducted with one 
+interviewer. The session started with a self-introduction, after which the 
+interviewer asked me about the subjects I had studied during my coursework 
+and what topics were covered in them. 
+He then asked me to mention my favourite subject, to which I replied Database 
+Management Systems (DBMS). He asked why it was my favourite and followed 
+up with questions about the databases I have worked with. I mentioned SQL and 
+MongoDB, after which he asked about the differences between them and which 
+one is better suited for different situations. 
+Next, the discussion moved to Object-Oriented Programming (OOP). I was 
+asked to explain the four principles of OOP, and he specifically questioned why 
+inheritance is needed, stating that “copy-paste seems easier nowadays.” I 
+explained that inheritance helps reduce code redundancy, makes debugging and 
+maintenance easier, and supports code reusability and scalability. He also asked 
+me to give real-life examples for the OOP principles, which I explained. 
+After that, the interviewer asked me to explain my project. I described my 
+LLM-based project in detail, explaining its objective, working process, and 
+technologies used. 
+Towards the end, he asked if I had any questions for him. I asked, “How does 
+Wells Fargo continue to remain among the top three banks in the U.S.?” We had 
+a brief and insightful conversation about it before concluding the interview. 
+ 
+Round 4: HR Interview (30 minutes) 
+The fourth round was the HR interview, which started with the interviewer 
+asking me to introduce myself. After that, he asked about my hobbies that I had 
+mentioned in my resume. 
+He then moved on to some technical questions, starting with what I knew about 
+the OOPs concept and the difference between overloading and overriding in 
+polymorphism. He also wrote a small code snippet and asked me to explain how 
+overloading works. 
+Next, I was asked to briefly explain all my projects, followed by a short 
+discussion about my LLM project, where I explained its purpose and 
+implementation. 
+Towards the end, he asked if I had any questions for him. I asked about the 
+technology stack we would be working with if selected, to which he replied that 
+it would be mostly Java. I also asked about how work-life balance is maintained 
+at Wells Fargo, and we had a short, pleasant conversation before the interview 
+concluded. 
+ 
+ 
+Finally 6 of us were selected ! 
+Tips: 
+1. Be strong in OOPs, DSA, and SQL — they form the core of all rounds. 
+2. Practice coding problems regularly, especially on arrays, strings, and 
+BFS/DFS. 
+3. Understand the concepts behind algorithms and mention time 
+complexities. 
+4. Revise the 4 OOPs principles with real-life examples. 
+5. Be confident with SQL queries involving joins and aggregates. 
+6. Know your projects thoroughly — explain your role and tech stack 
+clearly. 
+7. Communicate your thought process and stay calm under pressure. 
+8. Ask meaningful questions to show genuine interest in the company. 
+ 
+All The Best!!! 
+Regards, 
+Divya Kannathaal M 
+mdivyakannathaal@gmail.com 
+Contact: 8056744461 

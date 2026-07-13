@@ -1,0 +1,238 @@
+ Amazon SDE Interview Experience 
+About the company:  Amazon, one of the MAANG companies, is a global 
+leader in e-commerce, cloud computing, and AI. Known for its innovation and 
+customer obsession, Amazon empowers engineers to build scalable, high-impact 
+solutions that serve millions of users worldwide. 
+Role Offered:  Software Development Engineer Intern 
+Stipend:  1,10,000 INR + 425 USD (Relocation Allowance) per month 
+Duration:  6 Months 
+Location:  Bengaluru, Hyderabad, Chennai (Available Locations) 
+Selection Process: 
+1. Online Assessment 
+2. Technical Interview (Virtual) 
+ 
+Online Assessment – 3rd October 2025 
+The Online Assessment was conducted on HackerRank platform with a duration 
+of  70 minutes (coding test). The Online Assessment had 3 sections: 
+1. Coding Assessment (2 questions) 
+2. Workstyle Assessment 
+3. Work Simulation Assessment 
+ 
+1.Coding Assessment (70 Minutes):  
+Coding Question 1: 
+Problem Statement: 
+You are given an array representing items stored in different warehouses. 
+In one operation, you can: 
+• Dispatch two items if they belong to different warehouses, or 
+• Dispatch one item if it’s the only one remaining. 
+Find the minimum number of operations required to dispatch all items. 
+Input:   [2, 9, 7, 8, 8] 
+Output: 3 
+Explanation: 
+- Pair (2, 8) 
+- Pair (9, 7) 
+- One item (8) left alone 
+Total operations = 3 
+Approach: 
+1. Count frequencies of each warehouse ID using a hashmap. 
+2. Find the maximum frequency (maxFreq) among all warehouses. 
+3. Let n be the total number of items. 
+o If maxFreq <= n / 2: all can be paired efficiently → operations = 
+ceil(n / 2). 
+o Else: some items remain unpaired → operations = maxFreq. 
+4. Return the maximum of these two values. 
+Coding Question 2: 
+Problem Statement:  
+You are part of Amazon's Network Infrastructure Division and are working on a 
+project to maximize data transfer efficiency across its network of data centers. 
+You are given n data centers, and the bandwidth capacity of each center is given 
+in an integer array named capacity. 
+There are connection count data streams that need to be routed through two data 
+centers — one as the primary route and the other as the failover route. Each data 
+stream must use a unique pair of data centers for its routing. 
+The bandwidth rate for each data stream is defined as the sum of the capacities 
+of its primary and failover data centers. 
+You need to find the maximum total bandwidth rate that can be obtained by 
+optimally choosing unique pairs of routes for each data stream. 
+ 
+Note: 
+• A pair (x, y) is unique if no other stream has selected the same pairs. 
+• Pairs (x, y) and (y, x) are treated as different routes. 
+• Selecting the same data center for both routes (x, x) is also valid. 
+Input: 
+capacity = [5, 3, 6] 
+connectionCount = 4 (Total Number of pairs to be taken) 
+Output: 44 
+Explanation: 
+All possible pairs of data centers are: 
+[1,1], [1,2], [1,3], [2,1], [2,2], [2,3], [3,1], [3,2], [3,3] 
+To achieve the maximum total bandwidth Rate, we can select the pairs: 
+[3,3], [3,1], [1,3], [1,1] 
+The total bandwidth rate = (6+6) + (6+5) + (5+6) + (5+5) = 44 
+Approach: 
+1. Sort the capacity array in descending order, because the highest 
+bandwidth sums will come from the largest capacities. 
+2. Use a max heap to efficiently fetch the largest pair sums without 
+generating all possible pairs (which would take O(n²)). 
+3. Start by inserting the pair (0, 0) (the largest element with itself) into the 
+heap. 
+4. Each time we pop the largest sum from the heap: 
+5. Add its sum to the total bandwidth. 
+6. Push the next two possible pairs: (i + 1, j) and (i, j + 1) into the heap (if 
+not already used). 
+7. Keep repeating until we have selected connectionCount pairs. 
+8. The total sum collected after these pops is the maximum total bandwidth 
+rate. 
+Similar Problem: https://leetcode.com/problems/find-k-pairs-with-smallest-
+sums/description/ 
+ 
+2.Workstyle Assessment: 
+A short personality and behavioural test based on Amazon’s Leadership 
+Principles — such as Customer Obsession, Ownership, Bias for Action, Deliver 
+Results, etc. 
+You’ll be shown statements like: 
+• “I prefer to take initiative even when tasks are not assigned to me.” 
+• “I often find ways to simplify complex problems.” 
+You must choose which statement describes you more accurately. 
+Tips: 
+• Be consistent with answers (don’t contradict yourself). 
+• Show ownership, teamwork, customer focus, and curiosity. 
+• Avoid extremes like “always disagree” for everything. 
+• Read Amazon’s Leadership Principles before the test — it helps you 
+understand what traits they value. 
+3.Work Simulation Assessment: 
+A situational judgment test where you’re placed in real-world scenarios faced 
+by SDEs or team members at Amazon. 
+Example: 
+“You’re working on a project with a tight deadline, and a teammate reports a 
+critical bug. What would you do first?” 
+You’ll select how you would respond or prioritize tasks from multiple options. 
+Tips: 
+• Prioritize customer impact and data-driven decisions. 
+• Show ownership (take responsibility instead of blaming). 
+• Balance speed and quality (“Deliver Results” and “Insist on Highest 
+Standards”). 
+Both tests are screening filters used before or after the coding assessment, 
+depending on the hiring flow. 
+• Even if your coding test is good, poor performance here can stop your 
+shortlisting. 
+• Amazon looks for technical + cultural fit. 
+So, it’s very important to take both seriously and align your responses with 
+Amazon’s Leadership Principles. 
+As for selection, there isn’t a fixed factor that guarantees shortlisting. Luck also 
+plays a major role. 
+Based on this Online Assessment, 107 people were shortlisted for the interview. 
+ 
+Technical Interview (1 Hour): - (10th October 2025) 
+The interview was conducted through Amazon Chime, where the interviewer 
+shared a Live Coding link a shared text editor where both of us could write and 
+edit code (execution was not supported). The interviewer, who also happened to 
+be an alumnus of CEG, started the session by asking me to introduce myself, 
+talk about my projects, and share a bit about my college life. 
+The interaction felt friendly and engaging. After the discussion, the interviewer 
+pasted a coding problem in the editor, and I had to explain my approach and 
+write the optimized solution. 
+ 
+Question 1: Product Discount Price Calculation: 
+Problem Statement: 
+You are given an array a[i] where each a[i] represents the price of a product. 
+For each product, you need to find the first element to the right that is smaller 
+than or equal to the current product price. 
+That element represents the discount for the current product. 
+If such an element exists, the final price for that product = a[i] - discount. 
+If no such element exists, the product price remains the same (a[i]). 
+Finally, return the sum of all final prices. 
+Input: [8, 4, 6, 2, 3] 
+Output: 15 
+ 
+Explanation: 
+• For 8, next smaller/equal = 4 → discount = 4, final price = 8 - 4 = 4 
+• For 4, next smaller/equal = 2 → final price = 4 - 2 = 2 
+• For 6, next smaller/equal = 2 → final price = 6 - 2 = 4 
+• For 2, no smaller/equal → final price = 2 
+• For 3, no smaller/equal → final price = 3 
+ 
+Total sum = 4 + 2 + 4 + 2 + 3 = 15 
+ 
+Approach (Monotonic Increasing Stack - Optimized O(n)) 
+The interviewer first asked me to explain my approach before writing the code. 
+I explained my approach to the interviewer like this: 
+• I used a monotonic increasing stack to efficiently find the next smaller or 
+equal element to the right for each price. 
+• I iterated through the array from left to right. 
+• For each element: 
+o While the stack is not empty and the top element is greater than or 
+equal to the current price, 
+it means we found a discount for that previous element — so we pop it 
+and calculate the discounted price. 
+o Finally, I pushed the current price into the stack. 
+After the iteration, if any elements remain in the stack (i.e., no discounts found 
+for them), add all remaining stack values to the final value. 
+ 
+Question 2: Minimum Moves in a Grid with Obstacles: 
+Problem Statement: 
+You are given an n × n matrix containing only 0s and 1s, 
+where: 
+• 0 → water (you can move through it) 
+• 1 → obstacle (you cannot pass through it) 
+You are also given a value k. 
+Starting from the top-left corner (0, 0), you need to reach the bottom-right 
+corner (n-1, n-1) using the minimum number of moves. 
+In one move, from your current cell (i, j), 
+you can move up, down, left, or right — but up to k steps in that direction, 
+stopping only before hitting an obstacle (1) or the boundary. 
+You need to return the minimum number of moves required to reach the 
+destination. 
+If it’s not possible, return -1. 
+Approach (BFS) 
+I explained my approach to the interviewer like this: 
+• Since we need the minimum number of moves, BFS is the best choice. 
+• Each cell acts like a node in a graph, and possible jumps (up to k steps) are 
+the edges. 
+• From every current cell (r, c): 
+1. Try moving up, down, left, right — up to k steps. 
+2. Stop exploring further in that direction if: 
+▪ You hit a boundary, 
+▪ You hit an obstacle (1), or 
+▪ You reach a cell that’s already visited with fewer moves. 
+3. Each valid new cell is pushed into the BFS queue with moves + 1. 
+• Continue BFS until reaching (n-1, n-1) or the queue becomes empty. 
+• Return the number of moves if reachable, else -1. 
+ 
+After I completed both coding questions, the interviewer told me that he was 
+satisfied with all my approaches and appreciated the clarity in my explanation 
+and thought process. 
+He then asked if I had any questions for him. 
+I asked him about the work culture at Amazon and how his life was after 
+graduating from CEG. 
+He responded very kindly and shared his experiences, explaining how Amazon 
+encourages ownership, collaboration, and constant learning. It was a very 
+pleasant and insightful conversation. 
+Overall, it was one of my best experiences, and I genuinely enjoyed the 
+interaction — especially because the interviewer was also an alumnus of (CEG), 
+which made the discussion feel even more comfortable and relatable. 
+This interview was a truly memorable experience for me — from the Online 
+Assessment to the final discussion with the interviewer. 
+For anyone preparing for placements, my honest advice is: 
+1. Practice regularly — consistency matters more than long hours. 
+2. Solve problems daily on LeetCode and GeeksforGeeks to strengthen 
+your understanding of patterns. 
+3. Participate in coding contests — they help you think fast under 
+pressure and identify your weak spots. 
+If things are not going the way you expected, trust the process — it might be 
+happening in a better way than you can imagine. 
+Never feel low at any stage. Every rejection or tough question is just a step 
+closer to success. 
+“God’s plan is always the best plan❤ ” 
+Start your preparation early, stay consistent, and believe in yourself — your 
+time will come!!! 
+                                          All the Very Best!!! 
+Santhosh N 
+CEG CSE’ 26 
+E-Mail: ssanthoshh0608@gmail.com 
+LinkedIn: https://www.linkedin.com/in/ssanthoshh/ 
+Mobile: +91 8825613567 
+ 
+ 
+ 
+ 

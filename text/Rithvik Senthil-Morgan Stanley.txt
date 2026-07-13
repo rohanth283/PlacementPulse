@@ -1,0 +1,142 @@
+Morgan Stanley Intern Interview Experience ‘23
+About the company:
+Morgan Stanley is an American multinational investment management and financial services
+company headquartered at 1585 Broadway in Midtown Manhattan, New York City. With offices
+in more than 41 countries and more than 75,000 employees, the firm's clients include
+corporations, governments, institutions, and individuals. Morgan Stanley ranked No. 61 in the
+2021 Fortune 500 list of the largest United States corporations by total revenue.
+Number of rounds : 3
+1) Online Test
+2) Technical Interview
+3) HR Interview
+ONLINE ASSESSMENT:
+Platform: SHL AMCAT
+The online assessment had 3 sections.
+1) 10 aptitude questions to be solved in 30 minutes
+2) 7 debugging questions to be solved in 20 minutes
+3) 3 coding questions to be solved in 1 hour
+The aptitude questions were of medium difficulty and the challenging part was to solve them
+within the given time. Questions were based on profit/loss, family member relations and
+numerical reasoning mainly. Few questions were longer than others and the trick here was to
+not spend too much time on a single question and move on to questions that consume less
+time. Your aim should be to correctly solve as many questions as possible within the given time
+frame. I was able to solve 8/10 questions correctly here.
+As far as the debugging section was concerned we could choose between 3 programming
+languages- C, C++ and Java. Once we chose our language we were shown 7 code segments
+with syntaxial, semantic and logical errors. We had to rewrite the segment of code to perform its
+task correctly. The important piece here is to read the question for each code segment carefully
+as each segment of misperforming code is expected to do something particular and achieve a
+particular task. After your modifications, the code should perform the same task correctly without
+errors, passing all the test cases. I was able to solve 7/7 questions correctly here.
+The final and all important coding section consisted of 3 questions to be solved in one hour. We
+could choose to code them in our preferred coding language. The questionsI got were:
+1) Given a sorted array arr[] consisting of N distinct integers and an integer K, the task is to
+find the index of K, if it’s present in the array arr[]. Otherwise, find the index where K
+must be inserted to keep the array sorted.
+2) Given an array of N numbers and a positive integer K. The problem is to find K numbers
+with the most occurrences, i.e., the top K numbers having the maximum frequency. If two
+numbers have the same frequency then the number that appears first from the beginning
+should be given preference. The numbers should be displayed in decreasing order of
+their frequencies. It is assumed that the array consists of at least K numbers.
+3) Given an array arr[] of integers, find out the maximum difference between any two
+elements such that the larger element appears after the smaller number.
+The questions were of easy-medium difficulty and I was able to pass all the test cases in all
+three questions.
+TECHNICAL INTERVIEW
+This round went on for an hour and a half and was a face to face interview conducted physically
+at CUIC. 14/350 students were shortlisted for the same. The interview strayed away from my
+conventional notion of how an interview went and was intuitive and different.
+The interviewer began by asking for my introduction followed by which he straightaway jumped
+into a game of Tic Tac Toe following which he asked me to design the Tic Tac Toe game using
+OOPS. I suggested using an interface with 2 abstract methods: one to make a move and
+another to check if a player wins after making his/her move. He then proceeded to ask me what
+the minimum number of function calls would be to check if a player has won. I initially said 6
+after which with his help I was able to prove that it was 4. He then modified the problem to make
+it a n x n board instead of the conventional 3 x 3 Tic Tac Toe board and then asked me to come
+up with a generalized expression in terms of n for the minimum number of function calls
+required. I was able to do this following which he modified the problem further, adding an
+additional rule which says that whenever a player puts a ‘O’ or ‘X’ they must also remove a ‘O’
+or ‘X’ provided the board has at least 3 of their symbols at any instance. That is, at any point of
+time in the game there should be a maximum of 3 of my symbols on the board. He asked me
+what the minimum number of function calls would be in this case.
+Following this the interviewer asked me some questions on OOPS concepts. I was asked what
+encapsulation was and also to demonstrate the need for encapsulation using an example and
+what would happen if encapsulation didn't exist. He then proceeded to questions on Java,
+asking me how I would pass command line arguments in Java as well as quizzing me on
+Containers in Java. He then asked me a coding question related to sorting. The question
+follows.
+Given a train ticket consisting of multiple fields such as booking time, arrival time, departure time
+and ticket ID, assume the tickets are already sorted based on the basis of their ID. Ask
+questions to determine which sorting algorithm to use. Take the parameter based on which to
+sort the tickets as an input and code the sorting algorithm.
+I initially suggested merge sort for which he told me I hadn't asked all the necessary questions
+and helped me realize that quicksort was the best option given that he wanted the code to be
+more space efficient than time efficient. I then proceeded to write the pseudocode for the same
+on pen and paper. He then asked me about hashing collision and collision resistance, which are
+DSA concepts based on hashing.
+The interviewer then moved to Python and ML based questions since I had mentioned it in my
+resume. He asked me about adversarial attacks in deep learning since I was working on a
+research paper based on that. He also asked me basic questions on Python such as the
+difference between lists and tuples and about Type Error. Finally he moved to OS related
+questions, asking me what a batch operating system was and what were the advantages of
+Linux over Windows and vice versa.
+After this he asked me if I had any questions and concluded the interview.
+HR INTERVIEW
+The HR interview went on for an hour and mostly focussed on behavioral and scenario based
+questions. I was asked team based situational questions such as how I would react in conflict
+scenarios and how I would make my teammates understand my point of view. I was also asked
+questions with regards to my project and if I had stuck to deadlines on all the projects. Technical
+questions were also asked with regards to some of my projects and I was asked how I would do
+things differently in my future projects. Other than this I was asked a few other basic HR
+questions following which the interview concluded.
+Around 10:30 the same night I got an email telling me that I was selected for the internship at
+Morgan Stanley. 5 students were finally selected out of the 14 shortlisted for interviews.
+IMPORTANT TIPS
+●
+For preparations, stick to a few good resources instead of practicing problems on
+multiple platforms.
+●
+Stick to Leetcode and solve problems from any sheet such as neetcode.io on a daily
+basis without fail. 5-6 problems a day starting about 3 months before the online test
+round is a must in order to maintain consistency. Always begin by coding the brute force
+approach and proceed gradually to the most optimized solution.
+●
+Remember to revise your previously solved problems. Don’t memorize the code but
+rather revise the approach you used and code it again from scratch.
+●
+For OS, DBMS go through your semester notes as well as GeeksForGeeks last minute
+notes.
+●
+During the interview, remember to remain calm under all circumstances! Do not get
+demotivated by any kind of corrections or interruptions from the interviewer’s side. Don’t
+assume that the answer you gave was incorrect or not satisfactory just because of an
+interruption on the interviewer’s side. Be confident with the answers you give and do not
+get swayed.
+●
+If you do not know an answer to a problem based question, outline your thought process
+and what you understand from the question. This will help the interviewer gauge your
+understanding of the problem statement and help you go in the right direction
+accordingly. Never keep silent during the interview.
+●
+If you do not know the answer to a direct theory based question, let the interviewer know
+that politely rather than say something you are not sure of and make yourself prone to
+follow up questions.
+●
+As far as the HR round is concerned, be completely honest and make sure to read up on
+the company’s core values and leadership principles beforehand.
+●
+Last but most importantly, STICK TO YOUR PLAN. Never ever get intimidated by
+what others are doing or how others are preparing or what internships others are getting.
+You are the product of your hard work alone and be confident of your preparation and
+NEVER get demotivated by a few negative results. At the end of the day there are many
+factors at play in deciding whether you get an internship and sometimes all of these may
+not be in your control. Your responsibility is just to focus on your work and do your best.
+Then there is no mountain that is too high to climb :)
+All the best!
+Rithvik Senthil,
+BE CSE,
+CEG ‘24 batch
+Feel free to reach out:
+(+91) 7550224808
+rithvik335@gmail.com
+https://www.linkedin.com/in/rithvik-senthil-936954209/

@@ -1,0 +1,165 @@
+Barclays 
+Barclays is a British multinational banking and financial services company 
+headquartered in London, with a rich history dating back to 1690. It operates 
+globally, providing a wide range of banking, investment, and wealth 
+management services to individuals, businesses, and institutions. With a 
+significant presence in the United Kingdom and an international footprint, 
+Barclays offers retail and corporate banking, investment banking, asset 
+management, and credit card services. The bank has been involved in various 
+philanthropic initiatives and is known for its commitment to sustainability and 
+environmental practices. 
+ 
+Hiring Role: HTD Technology Graduate Analyst 
+The hiring process is divided into 2 Rounds. 
+ Online Test 
+ Technical + HR Round 
+Online Test: 
+Platform: HackerEarth 
+Duration: 1hr 30mins 
+It consists of 12 MCQs, 1 SQL Query, and 1 coding question. 
+They were based on Java, C, and C++, and find the output of given pseudocode, 
+DBMS, SQL, and OOPs. Having a strong knowledge of CS fundamentals and 
+SQL will help you clear this round. Practice more technical aptitude and predict 
+the output questions.  
+The SQL query was straightforward. It was an easy one. It was just a simple 
+question framed into a very big paragraph. 
+The coding question:   
+Lexicographically smallest string 
+Reference: 
+https://leetcode.com/discuss/interview-question/4006812/string-generation-oa-
+question/2045987 
+ 
+Technical + HR Round: 
+Duration: 45 minutes 
+ 
+The interviewer greeted me and he started to read the “About me” section in my 
+resume. He didn’t ask me for self-introduction. 
+He was impressed by my CGPA and 12th marks and asked more about it. 
+He asked about my favorite subject in school and I told Maths and Computer 
+Science. He further asked what did I like in Maths. I said a variety of topics like 
+matrices, linear algebra, calculus, and probability. In probability, he asked about 
+the difference between permutation and combination. I explained it with an 
+example and he was satisfied. 
+Then he asked about my favorite subject in college. I told OOPS, Data 
+Structures, Computer Networks, and Operating Systems. He then asked: 
+ Why OOPS is your favorite subject? 
+ Write C++ code for all 4 pillars of OOPS? 
+I explained the code clearly with simple examples and he was ok with it. 
+He asked about what sorting algorithms I know. 
+I was always waiting for this question in an interview because I know around 9 
+sorting algorithms which include: 
+o Bubble sort 
+o Insertion sort 
+o Selection sort 
+o Quick sort 
+o Merge sort 
+o Heap sort 
+o Count sort 
+o Radix sort 
+o Shell sort 
+I was not asked to write the code. I explained every algorithm along with its 
+time and space complexity. I even explained their use cases and limitations. He 
+was greatly impressed by this. It is not mandatory to learn all these algorithms 
+but this was the turning point in my interview which majorly helped me. But I 
+recommend you to know of all these because it makes you stand out from the 
+rest of the others.Next, he asked me how strong you are in SQL. I said I am 
+pretty strong in SQL. He handed me a pen and paper and asked about the ACID 
+properties in DBMS. 
+I explained each property in brief with an example. 
+He looked at my projects and asked why I used Mongo DB since I had 
+mentioned two full-stack projects in my resume which included it. 
+I explained it with an example relating to my project and also told him why I 
+preferred Mongo DB over MYSQL in my project. 
+He further asked about the difference between SQL and NoSQL. 
+He asked whether I knew about graph databases. I said I had not used it but I 
+had heard about it since I came across it in my previous semester course "Big 
+Data Analytics" 
+The HR questions asked were: 
+o What do you know about Barclays? 
+o Why did you choose CEG? 
+o Why did you not opt for IIT and NIT? 
+o If not CEG, what are the other colleges you would have chosen? 
+The interview ended with him saying “It was nice talking to you!” I was so 
+happy to hear that. He asked me if I wanted to ask him any questions. Always 
+ask questions to show your interest and prepare questions beforehand. I asked 
+him about how they incorporate new technologies into their services. He 
+answered my question and again said "It was nice talking to you “. He shook my 
+hand and wished me all the best.  
+ 
+Tips: 
+ First and Foremost, you have to know the Barclays values- RISES. 
+ Refer to the company website to learn more about RISES. 
+ In behavioral interview questions, you have to answer in such a way that 
+your answer aligns with at least one of the values. Because they evaluate 
+you based on that. 
+ Never lie in your resume, because in Barclays every interviewer has at 
+least 10+ years of experience and they can easily catch you in a lie. 
+ Be strong on what you mention in your resume. Questions will only be 
+asked based on your resume. 
+ When asked about your favorite subject don't tell him any subject that 
+you are not so confident about. Because questions will be asked only 
+based on that. 
+ Read the job description beforehand. Questions will also come from that. 
+If the job description includes cloud, microservices, GUI. Questions will 
+also be asked from that. You don't need to know every concept they have 
+mentioned in the job description, just basic knowledge is enough. 
+ 
+Aptitude Preparation: 
+ 
+Refer Indiabix. They have a ton of aptitude questions. Practice regularly. 
+Important concepts: Problems on trains, Time and Distance, Time and Work, 
+Simple and Compound Interest, Profit and Loss, Partnerships, Permutation and 
+Combination, Probability, Ratios, and Percentages, Family members relations 
+and ages. 
+Tech MCQs- mostly Code outputs and Debugging. Predict the output for C, 
+C++, and Java code snippets – based on pointer manipulation in C++, 
+Inheritance-based questions, interfaces in java. 
+ 
+DSA: 
+ 
+Refer to Striver Sheet. It is more than enough. You should understand the 
+intuition, thought process, and the time and space complexity behind every 
+problem. Practice coding daily on websites like leetcode, hackerrank, coding 
+ninjas and GeeksforGeeks. Participate in contests to manage your time in 
+solving coding problems. Prepare standard questions like sorting algorithms, 4 
+pillars of OOPS implementation, Queue to stack, and stack to queue. 
+ 
+Core subjects: 
+o DBMS 
+o OOPS 
+o OS 
+o CN 
+o System Design 
+You need to be thorough with these concepts. Refer to websites like geeks for 
+geeks, interview bit, PrepInsta, JavatPoint, and your semester notes. 
+ 
+Project: 
+This is the backbone of your resume. You need to know everything in and out 
+of your project. Standard questions are: 
+o Why did you choose this project? 
+o What are the security features? 
+o What are the challenges faced in the project? 
+o Why did you choose this particular tech stack for this project? 
+If you have hosted your project, do mention it because it makes a good 
+impression on you. Update your GitHub and LinkedIn profile accordingly. 
+Because the interviewer may also check your profile. You can also mention 
+your coding profiles. At last mention some extracurricular activities in your 
+resume because your resume should not be too technical. You should show him 
+that you can balance both academic and extracurricular.   
+ 
+ 
+HR and behavioral: 
+ 
+Refer to many websites for Barclay’s behavioral questions and answers 
+so you will get an idea of how to approach these questions. 
+Important: RISES 
+ 
+Most importantly, Refer to GFG archives before you appear for an 
+interview 
+ 
+Hope this helps. 
+Thank you and All the Best. 
+Avinash K 
+avinashkathiravan@gmail.com  
+Contact: 6380536587 
+Linked In: https://www.linkedin.com/in/avinash-k-1a33bb200/ 

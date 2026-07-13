@@ -1,0 +1,90 @@
+SAP LABS 
+ 
+SAP India is the fastest growing subsidiary of SAP SE, the world's leading 
+provider of business software solutions. It develops enterprise software to 
+manage business operation and customer relations. The company is the 
+world's leading enterprise resource planning (ERP) software vendor. 
+ 
+Round 1 : Online Coding round (40 minutes) 
+ 
+Everyone got different questions. I got two easy questions on arrays and 
+strings (string manipulation and array sorting). 
+ 
+Round 2 : Technical interview 1(30 minutes) 
+ 
+32 members were shortlisted for interview. 
+ 
+Questions asked : (paper and pen round) 
+ 
+1. Palindrome 
+ 
+2.frequency of numbers 
+ 
+3.circular linked list 
+ 
+4.finding  specific multiples in range of numbers 
+ 
+5.basic questions from OOPS . 
+ 
+6.Real life applications of polymorphism and similar questions. 
+ 
+Overall it was mainly focused on data structures and algorithms. 
+ 
+Round 3: Technical interview  2 (30 minutes) 
+ 
+1. DSA question on arrays (using map – similar to frequency) 
+ 
+2. Another DSA question on strings. 
+ 
+3.Questions on binary search tree and graphs. 
+ 
+Then Java questions were asked such as garbage collection ,threads 
+,exception handling,.. 
+Many questions from java were asked . So be prepared with java basic 
+concepts. 
+Some questions from projects were also asked. 
+ 
+ 
+Round 4 – techno managerial round (40 minutes) 
+ 
+I was asked to explain my project in detail and the technologies used. 
+In depth technical questions from project were also asked. Be prepared with 
+your projects. 
+One aptitude question was asked (ratio question).  
+Some java questions.  
+Then, one of the panel member asked one programming question on string 
+manipulation was asked. It was a hard problem. I just said the brute force 
+approach . He was quite satisfied with it. Even though you can’t come up 
+with a solution, just say a brute force approach. 
+ 
+other questions : 
+ 
+1.planning to do higher studies? 
+ 
+2.willing to relocate? 
+ 
+3.What is your weakness and how you overcame ? 
+ 
+Round 5 – HR interview (20 minutes) 
+1.Family background 
+ 
+2.Where do you see yourself in next five years ? 
+ 
+3.why SAP ? 
+ 
+4.About relocation. 
+ 
+5.willing to learn new technology ? 
+Finally,4 members got offer. 
+ 
+Topics to be focus:  
+1. Data structures 
+2. Aptitude 
+3. Basic Concepts like OOPS, DBMS, etc.  
+Tips : 
+ 
+1. Be confident and have a positive mindset. 
+2. Keep the interviewer engaging.How you approach a problem is more 
+important than solution. 
+ 
+All the best  !!!!!                                      Jayapriya S - jayapriyas2004@gmail.com 

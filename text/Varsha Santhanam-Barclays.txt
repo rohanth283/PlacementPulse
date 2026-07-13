@@ -1,0 +1,127 @@
+BARCLAYS 
+This is an intern interview experience. 
+About the company: 
+Barclays is a leading British multinational bank with more than 325 years of history 
+in financial services. Headquartered in London, it operates in over 40 countries and 
+serves millions of customers worldwide. The company provides a wide range of 
+services, including retail and commercial banking, investment banking, and wealth 
+management. Known for its focus on innovation, technology, and sustainability, 
+Barclays continues to play a key role in shaping the future of global banking and 
+financial solutions. 
+Selection process: 
+There were 3 stages. 
+Stage-1: Online assessment. 
+Stage-2: Technical interview. 
+Stage-3: HR interview. 
+Online assessment: 
+The first step in the selection process was an online assessment conducted on the 
+HackerEarth platform in a virtual mode. Basically, OA had questions from OOPS, 
+OS, debugging codes from various languages , predicting outputs for coding 
+problems and 5 SQL queries. 
+The assessment consisted of 25 questions to be completed in 70 minutes, 
+including 20 multiple-choice questions and 5 SQL queries. To clear this OA, one 
+needs a strong understanding of fundamental CS concepts. The SQL queries were 
+super easy. But, it was given as a long passage and we need to figure out what they 
+ask for. 
+Though the questions were easy, TIME MANAGEMENT played a crucial role. So, 
+manage your time accordingly.  
+46 were shortlisted. 
+Interview round: 
+Interviews were conducted at CUIC. Before the interview session, we had Pre-
+placement talk at 9.00 AM , where they actually made the interviewees comfortable 
+and the recruiters were super-friendly. The interview session began at 10:30 AM. 
+The interviewees were grouped into different teams and each assigned with a panel. 
+Technical round: 
+I had both the tech and HR rounds simultaneously, handled by a two-member panel, 
+unlike others who had breaks. As expected, the first question was self-introduction. I 
+briefly introduced myself and explained about my projects. 
+After this, The following questions were asked. 
+1. The tech I used in my DBMS project(Restaurant management system). E,g: 
+Why PHP? Why no modern tech stacks? 
+2. Asked about the project that I mentioned as currently-working. She verified 
+whether I was really working on the project and asked about the different 
+stages involved in doing a project. 
+3. I was asked to write a SQL query : find the 2nd highest salary. Initially, I came 
+up with the answer using subquery. Then, she asked me to optimise it and I 
+managed to use OFFSET and LIMIT.  
+• Which language I am familiar with? I said java. Series of questions were asked 
+related to java -  
+                   Collections 
+                   Difference between Hashmap and Set 
+                   Given a scenario, which data structure you would choose? 
+ Why you use java? 
+ Classes and objects in java.  
+ 
+4. Explain about RESTful Api’s  
+5. Explain different HTTP methods. 
+ 
+6. Difference between PUT and PATCH. 
+7. Explain your project workflow. 
+8. Write a java code for the following scenario:  
+a. Given a raw data file with various kind of information like name, age, 
+phone number etc. Sort the file in ascending order of age and remove 
+the rows where age is greater than 50. 
+b. For this, I wrote the code using collections and using loops.  
+ 
+    10.Explain about sorting algorithms. Specifically, she asked me to write the 
+algorithm for bubble sort. 
+11.Explain how REST Apis were used in your project. 
+12.How will you handle a situation when 2 processes are simultaneously 
+accessing the same resource? 
+13. Some questions from DBMS and OOPS. 
+That’s concluded technical part. 
+ 
+HR round: 
+A situation was described and they expected an answer that would be practically 
+feasible. 
+1. How will you work with senior team members? 
+2. How will you react when your work is not recognized? 
+3. She made reference of a Tamil movie Yaaradi nee mohini and asked whether 
+a bug in real time project could be fixed in overnight. 
+4. Will I accept the offer from Microsoft if given? 
+5. What do you do other than coding? 
+For every question, I aligned my answers with the values of Barclays, the RISES. 
+It’s very important to know about the values and principles of the company you 
+apply for. 
+1. What RISES mean? 
+2. Explain Stewardship in RISES with your real life example. 
+3. Why Barclays? 
+4. How do you see yourself in the next 5 years? (I answered that I aspire to 
+continue working at Barclays and, like the interviewers, return to Anna 
+University to recruit students from my own college).They found it unique 
+and were impressed with my answer. 
+Finally, they asked about my family, and my home. 
+Out of 46, 15 were finally selected. I am happy to say that I am one among them. 
+ KEY TAKEAWAYS: 
+• Before attending internships, I covered 60% of DSA problems on A-Z Striver 
+sheet. Consistent problem solving would definitely help in your process. 
+• Be confident when you speak in interviews. 
+• Always be truthful in interviews. If you’re not sure about a question, it’s better 
+to say you’re not aware of it rather than guessing. 
+• Be straight to the point. Don’t beat around the bush. 
+• Know everything you mention in your resume. 
+ 
+ 
+ 
+ 
+ 
+TIPS THAT WOULD HELP YOU: 
+• Never underestimate yourself – you are capable of much more than you think. 
+• If your friends get placed before you, don’t feel jealous. Everyone’s journey is 
+different, and your time will surely come. 
+• Give your best effort every time, and don’t stress over the results – success 
+will follow when you stay consistent. 
+ 
+ 
+Hope this helps you! 
+Feel free to contact for any doubts. 
+ 
+ 
+CONTACT: 
+Email: mevarsha2005@gmail.com 
+Phone: 8056246330 
+THANK YOU!!! 
+ 
+ 
+ 
+ 

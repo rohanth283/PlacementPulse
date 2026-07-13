@@ -1,0 +1,94 @@
+Global Analytics 
+ 
+ 
+Global Analytics aka GAIN credit is a fin-tech company which develops solutions to provide 
+short-term loans to people with low credit score. 
+ 
+Interview process consisted of 3 rounds after the online test: 
+ 
+ 
+Round 1: Programming 
+ 
+This round seemed to test whether you know how to approach a problem, code the solution, and  
+optimize. They will do so giving you the code that you did in the online test and ask you to explain 
+the logic and see if you can do something to optimize your solution. Then you will be given some 
+coding questions and ask you to code. I was given the 4 questions below: 
+1. Count the number of submatrices that can be formed by 1s in a 2d boolean matrix. 
+(Optimized solution of the problem from the online test) 
+2. Count the number of islands formed by 1s in a 2d matrix of 0s(water) and 1s(land). 
+3. Given two strings with some characters and ‘#’ denoting a backspace…check if they both 
+result in the same string after the backspaces are done accordingly(solve with and without 
+extra space) 
+4. Given an array of positive and negative integers. You are allowed to jump from an index i 
+to: i+1,i-1, and k in one jump where k is any other index in array where arr[i]==arr[k]. Find 
+the minimum number of jumps needed to reach the end of the array of you start from the 
+first index. 
+ 
+Round 2: Technical discussion (Projects, programming, technical questions) 
+1. Explain your machine learning project. 
+2. How does Linear regression work? 
+3. What is Mean Squared Error? 
+4. What is gradient descent? 
+5. Explain your website’s login module code. 
+6. How will you use sessions and cookies? 
+7. Classification vs Regression 
+8. Normalization forms(1-3) 
+9. ACID properties in RDBMS 
+10. How will you achieve Isolation in RDBMS? 
+11. Write a code to find the height of BST. 
+ 
+Round 3: (Talk with Director, Technical + HR)  
+ 
+Given a C program based on pointers, asked to find the output, explain what happens in each line. 
+The program was something like this: 
+ 
+#include<stdio.h>  
+#include<stdlib.h>  
+#include<string.h>  
+void func(char *str)  
+{  
+ 
+str=(char*)malloc(500);  
+ 
+strcpy(str,"global analytics");  
+}  
+int main(void) 
+{  
+ 
+char *str=(char *)malloc(50);  
+ 
+strcpy(str,"hello");  
+ 
+func(str);  
+ 
+printf("%s -- %d",str,(int)strlen(str));  
+ 
+return 0; } 
+ 
+1. Some in-depth questions about the memory allocation and the pointers in the program like 
+where are the variables stored actually and how they are stored. 
+2. What is the biggest number a char can hold? 
+3. What will be inside stdio.h? 
+4. What is the use of python’s dictionary? 
+5. Explain any one project. 
+6. He also picked another project from my GitHub and asked me to explain the code. 
+ 
+Topics to be focussed: 
+ 
+◆ Problem solving - Coding & Optimization 
+◆ Thorough knowledge of projects mentioned in resume 
+◆ Core subjects like DBMS, C, data structures. 
+ 
+ 
+Take away: 
+ 
+ 
+If you made it through the online test, be ready with optimization ideas for the problem you 
+did on the test. Have a thorough knowledge of your projects and subjects you mention in your resume.  
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Nithish Kumar R 
+nithishkumar642000@gmail.com 

@@ -1,0 +1,216 @@
+ AMAZON INTERNSHIP INTERVIEW EXPERIENCE 
+ 
+About the company-   Amazon is one of the MAANG (formerly FAANG) 
+companies. It is an American multinational technology company, engaged in e-
+commerce, cloud computing, online advertising, digital streaming, and artificial 
+intelligence 
+Role Offered- Software Development Engineer 
+Stipend- 1,10,000 INR + 400 USD ( Relocation allowance ) per month 
+Duration -   2 Months 
+Location -   Bengaluru,Hyderabad,Chennai (Available locations)  
+Selection process- 
+1. Online Assessment 
+2. Technical Interview (Virtual) 
+Online Assessment - 27th August 2024 
+The Online Assessment was conducted on Amazon’s own platform ( I don’t 
+remember its name ) with a total duration of 120 minutes. The online 
+assessment had 3 sections- 
+• Coding assessment ( 2 questions , Time: 70 minutes) 
+• Workstyles Assessment  
+• Work Simulation 
+ 
+Workstyle Assessment : 
+  
+ 
+The second section is built around Amazon’s Leadership principles. This section 
+asks you to choose statements that represent your work style. There is no 
+practice needed for this portion of the assessment. 
+This section has NO TIME LIMIT. 
+ 
+ 
+ 
+Work Simulation: 
+ During the simulation, you’ll be prompted with messages which replicate real-
+time working scenario  to solve problems.  
+For each scenario, you’re provided with four to five viable options to respond to. 
+You’re asked to rate the effectiveness of each response or select the single 
+response that you think is best.  
+This is kind of a Behavioural test. This section has no time limit BUT the duration 
+took to complete this section will be considered for evaluation. 
+ 
+TIP: In any coding interview , the description of the questions will be lengthy and 
+not clear, reading the entire question could consume a lot of time.SO TRY to 
+read the last paragraph or the last few lines of the question which is the real 
+problem statement. 
+Coding Question 1 
+Given Two integer arrays which depict the location of AWS server stations and 
+destination stations. Find the minimum sum of absolute difference between the 
+stations. 
+ 
+Example input –  
+ 
+Center = [1,2,2] //positions of the server stations  
+Destination = [5,2,4] //positions of the receiver stations 
+Output- 
+6 
+Approach: 
+Sort both arrays and find the sum of  absolute difference. 
+ 
+Coding Question 2 
+Given a list of strings patterns, each consisting of characters and wildcard 
+symbols (?), determine the minimum number of columns where a character 
+conflict occurs. A character conflict in a column happens when different non-
+wildcard characters are found in that column. Wildcard symbols are ignored in 
+conflict checks. Return the count of such conflicting columns. 
+ 
+Example: 
+ input :- 
+patterns = [“hub”, ”gub”, ’gu*”] 
+Output – “*u*”  –  2 (count of * is 2) 
+ 
+Approach: 
+For each column, we shall track characters seen so far, ignoring wildcard 
+characters (?). If two non-wildcard characters differ within the same column, it 
+indicates a conflict, and we increment the count of such conflicts. 
+ 
+ 
+Note: I assume that the non coding part of assessment had a more weightage 
+than the coding part, because few people who solved both questions were not 
+shortlisted whereas people with both partial outputs were qualified for the 
+next Round. 
+ 
+ 
+Based on the results of the Online Assessment, almost 55 people were 
+shortlisted for the Interview. 
+ 
+Technical Interview (1 hour) – 2nd September 2024 
+This was a virtual interview hosted in Amazon’s Chime platform. There were two 
+panelist , but only one person was interacting with me, the other was an 
+observer. 
+ 
+The interviewer started by asking a brief intro about myself and then they both 
+introduced themselves. Following this, I was  asked to share my screen and use 
+LiveCode to tackle the coding questions. It is just a text editor , where both me 
+and interviewer have access to edit. 
+The interviewer pastes the question in the editor and asks to read the question. 
+ 
+Always read the question at least two – three times, at first you may think that it 
+is simple and known question but sometimes there may be a small twist in any 
+part of the question statement. 
+ 
+Try to clarify any doubt that arises to you about the question. 
+Usually in any interview panel members want to see how good a candidate can 
+express themselves  and communicate what they think than the correct  solution 
+for a question. So explain your thought process on how to solve this problem. 
+ 
+Question 1 : 
+Given a string which has few characters repeated multiple times, return a string 
+which has each character repeated only once. 
+Since there would be more than one possible ways of removing repeated 
+characters , return the string which is the first occurring instance when all the 
+possible answers are sorted according to dictionary order. 
+Example: 
+ “dcsccdd” 
+Ans - “csd” 
+Explanation : 
+The output string should contain all the unique characters in input string without 
+repetition ,also the characters must be the same order as in input string. 
+ 
+Possible strings=[“dcs”,”csd”,”scd”] 
+Lexicographically smallest one = “csd” 
+ 
+Some more examples: 
+• Input =”ss” Output = “s” 
+• Input =”bcac” Output = “bac” 
+• Input =” abddccd” Output = “abcd” 
+ 
+At first I explained my approach using heaps, but he asked me to try a better 
+approach. After few minutes , I came up with a Trie approach , he agreed with 
+my solution , yet he asked me to try for a more easier and optimal approach. 
+ 
+He was giving me hints like , “When you want to solve a string problem for 
+lexicographically smallest one , what data structure will you use ??” 
+I seriously didn’t know what to use at that moment, I was repeatedly saying my 
+previous approach .  30 minutes went like this , so he himself gave  one  more 
+clue – “ Arjun think whether you can solve this using a Stack data structure …“ 
+ 
+After this I tried  solving it using a stack , and the solution was pretty simple, 
+and I was like  “Why did I miss this one “ . I immediately said my approach 
+to him and he also agreed with my approach and told me to type the code in 
+any of my preferred language. 
+ 
+I started to code my approach and while doing so I started to explain him why I 
+used this data structure and why I’m using this variable. He interrupted me said 
+not to explain now, explain after I complete the code. 
+BUT it is good to explain your code as you type. 
+ 
+After completing my code , I explained him each and every line  and its 
+functionality. He was somewhat doubtful about my coded solution, so he gave 
+me several examples and asked me to dry run my code for them. 
+He also enquired about the time and space complexity of my code. 
+After 5 such dry runs , he finally accepted my solution and went to the next 
+question. 
+By this time , I used 45 minutes of my interview . 
+Question 2: 
+He mentioned that we are almost at the  end of interview and here is your 2nd 
+question. I don’t know whether it was the time that was left out  or his 
+impression on me from the 1st question  ,which made him give me this question. 
+ 
+Q2: Given a linked list, detect if a cycle is present or not. 
+Example: 
+ 
+1 -> 2     ( 1->2->4->5->1…) 
+|     |  
+5<-  4 
+Answer : true 
+ 
+Approach: 
+I used the slow-fast pointer method (two pointer or Hare-Tortoise technique) 
+ 
+After I said this approach , he asked  me to write the code for it. 
+Since it was already late , even before I finish my code he said that ,”I 
+understand your code , It is the correct answer. Time is up . Bye. Thank you “  
+I tried to stop him and told him  the time and space complexity of my solution. 
+ 
+It is good to mention the time and space complexities of your code. 
+ 
+After this he waited few minutes and asked whether I have any questions. 
+I remembered that the other panel member mentioned that he is in Amazon 
+for the past 7  years, so I asked him-  Apart from Amazon being a tech giant and 
+market leader in e-commerce ,what makes someone to stay in the same 
+company for this long period in a field where shifting companies is very 
+common? 
+He then replied to my question and left the meeting. 
+Later that night, results were announced , and 13 members including myself 
+were offered the internship. 
+ 
+General Tips- 
+It’s completely fine if you are not a great coder in the start. You always have 
+time to improve your skills. 
+• Practice coding in websites like Leetcode, Hackerrank as it helps improve 
+problem solving skills. 
+• Have a look at questions in Leetcode Premium for the company. 
+• Practice ACM CODE questions for an understanding of every single topic 
+in DSA. 
+• Learn from the experiences of seniors. 
+• Try practicing aptitude questions also as it has great importance in the 
+online assessment. 
+• Improve your speaking skills. The interview will be more of a discussion 
+rather than an oral test and the interviewer also notices your ability to 
+interact easily. 
+• The interviewer is more interested to know your creative answers to 
+their coding questions. So let your creativity flow while finding optimized 
+solutions. 
+• Keep revising old concepts while learning new ones. 
+• For Amazon, DSA played a crucial role, so concentrate on it. 
+• For Online assessments, do your best to follow all the above mentioned 
+tips OR  have a friend  near you during assessment who follows the 
+above. 
+Last but not the least…. Stay calm and confident! 
+All the best! 
+ 
+ARJUN R 
+CEG CSE 26’ 
+LinkedIn - R_ARJUN 
+Contact no. -  8056284868 
+Feel free to reach out to me at rvasarjun2005@gmail.com 

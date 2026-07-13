@@ -1,0 +1,147 @@
+INTERVIEW EXPERIENCE 
+ 
+Company : Wells Fargo 
+Role: Software Engineer Intern 
+ 
+About the company: 
+Wells Fargo is an American Bank and a multinational financial services 
+company. Wells Fargo India & Philippines was established to support business 
+lines and staff functions in Technology, Business Operations, Automation, 
+Analytics, etc across the company. Today, Wells Fargo India operates in 
+Hyderabad, Bengaluru, and Chennai. 
+The job description mentioned responsibilities of designing, developing and 
+testing software engineering solutions at scale while maintaining reusable and 
+reliable code and ensuring performance by addressing any issues that arise. 
+Number Of Rounds: 4 
+1. Online Test 
+2. Interview Round 1 
+3. Interview Round 2 (Senior Manager Round) 
+4. HR Round 
+Online Test: 
+This round was conducted in Aspiring Minds (SHL) platform. This round was 
+conducted offline in IST department LAB. The round consisted of 3 sections 
+namely verbal aptitude, business aptitude and coding. Both aptitude sections 
+had MCQs which had to be answered compulsorily and free navigation was 
+prohibited. Everyone got different sets of questions for coding section. Mostly 
+the questions will be some commonly asked questions, but it will be written in 
+the form of a scenario, a paragraph. Do be prepared to quickly grasp the 
+constraints of the question. 
+Verbal Aptitude: Questions like choose the correct meaning, fill in the blank 
+with appropriate words were asked. Mostly like reading Comprehension, 
+general English grammar.  
+ Business Aptitude: Questions were largely based on graph interpretations (pie 
+charts, bar graphs, line graphs) and also data interpretation . Mostly like stock 
+analytics, basic mathematics and understanding of profit – loss. 
+Coding Round: It has 2 parts 
+Part 1: 2 Questions (Easy-Medium level)- 40 Minutes 
+1. The question is not directly mentioned. It is to quite related to find the 
+number of character in a string which are consonants. 
+2. The mother starts x1 meters away from the house. The child starts x2 
+meters away from the house. The mother walks at a speed of v1 meters 
+per second and takes s1 total steps. The child is walking at a speed v2 
+and takes s2 total steps. Your goal is to determine the optimal speed v2 
+and number of steps s2 for the child such that the number of steps 
+where the child steps exactly on the positions where the mother has 
+stepped earlier is maximized. 
+Part 2: 1 Question – 10 minutes 
+Given a start year and an end year, write a function to count the number of 
+months within that range (inclusive) where the first day of the month is a 
+Sunday.  
+For this question , only C++,Java and python IDE was available. 
+ 
+Example: 
+Input: 1901-2000 
+Output: 171 
+Explanation: January 1, 1900, was a Monday (since 1900 is not a leap year, 
+January 1, 1901, will be a Tuesday). Use Zeller's Congruence or any standard 
+day-of-the-week calculation method to determine which day the first of each 
+month falls on for every year in this range. 
+https://www.geeksforgeeks.org/zellers-congruence-find-day-date/ 
+ 
+ 
+ 
+Even passing partial test cases is often given added weightage. If you can't 
+arrive at an optimal solution, just try a brute force approach to pass as many 
+test cases as possible. 
+22 students were shortlisted for the Technical and HR interview. I am one 
+among them. 
+Round 2: Technical Interview 
+The technical interview lasted approximately 40-50 minutes, covering a broad 
+spectrum of computer science fundamentals and practical problem-solving 
+skills. 
+Motivation and Background: The interviewer was keen to understand my 
+reasons for choosing Computer Science and my self-learning journey. My focus 
+on problem-solving platforms like LeetCode and HackerRank during my pre-
+college days was highlighted. 
+SQL Fundamentals: Given my expressed interest in SQL, I was questioned 
+about core concepts like Inner JOINs and Outer JOINs and was asked to 
+construct a basic query using JOIN. 
+Database Management: A practical scenario involving concurrent transactions 
+in a hotel or restaurant setting was introduced. I was expected to propose 
+solutions for handling such scenarios, which included concepts like locking and 
+abstraction levels. 
+Indexing in DBMS:  I explained that its purpose is to speed up data retrieval in 
+databases by improving query performance. 
+Programming Proficiency: A simple coding challenge involving string reversal 
+was presented. Additionally, I was expected to identify potential exceptions 
+that could arise during string manipulation. 
+List VS Tuples: The interviewer sought to assess my understanding of 
+fundamental data structures by comparing lists and tuples in Python, including 
+their real-world applications. 
+Object-Oriented Programming (OOP): My understanding of OOPS concepts 
+was assessed. I explained the core principles - abstraction, encapsulation, 
+inheritance, and polymorphism and was asked to implement a simple class in 
+C++ or Python, as well as explain how abstraction is utilized in this 
+implementation. 
+Memory Management: Questions on deep vs. shallow copy and garbage 
+collection highlighted key concepts in memory management. 
+Ended with the interviewer asking if I had any questions. 
+The round concluded with a positive note, advancing me to the next round. 
+Few candidates were eliminated after this round. 
+Round 3: Technical Interview 
+The interview commenced with a focus on understanding my career aspirations 
+and identifying my key strengths. To assess problem-solving abilities, the 
+interviewer presented real-world scenarios. 
+• I mentioned my expertise in database management systems, operating 
+systems, and data structures.  
+• The discussion then focused on SQL and NoSQL databases, including 
+when to use each. 
+• Why NoSQL Databases Were Developed and Implemented? 
+The round was characterized by a focus on learning and understanding 
+rather than solely assessing. 
+Round 4: HR Interview 
+• During the interview, I was asked to introduce myself. I mentioned my 
+strengths, technical interests, club responsibilities, and personal 
+interests.  
+• I highlighted my role as Head of the Dance Club, which prompted a 
+follow-up question about my interest in dance.  
+• I elaborated on my passion for dance and how it has contributed to my 
+personal growth and leadership abilities. 
+The interview proceeded smoothly, with discussions covering various 
+aspects of my background and technical knowledge. I felt confident in my 
+responses and engaged in meaningful conversations about my experiences 
+and skills. 
+At the end of the selection process, a total of 12 students were chosen for 
+the internship. I am pleased to share that I was among those selected, 
+marking a successful conclusion to the interview process. 
+Key takeaways from my interview experiences:-  
+• Focus on problem-solving and DSA fundamentals. Utilize your summer 
+holidays to brush up on the basics. I followed C.O.D.E by ACM Club, 
+LeetCode, and Take U Forward on YouTube. 
+• Practice aptitude questions using resources like IndiaBix. 
+• Build confidence in expressing your thought process during interviews, 
+as interviewers often assist when you’re stuck. 
+• Be ready for both concept and application-oriented questions in OS, DSA, 
+DBMS, and OOP. 
+• Prepare answers for common non-technical questions, such as your 
+strengths/weaknesses and reasons for wanting the internship. 
+ 
+All the Best !!! 
+ 
+Ahalya V S 
+2022103007 
+CEG CSE’26 
+E-Mail: v.s.ahalya2005@gmail.com 
+LinkedIn id: https://www.linkedin.com/in/vs-ahalya/ 
+Mobile No.: 9444499090 
+ 

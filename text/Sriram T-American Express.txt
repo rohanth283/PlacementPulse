@@ -1,0 +1,97 @@
+AMERICAN EXPRESS 
+ABOUT THE COMPANY: 
+ 
+American Express (Amex) is a global financial services company, best 
+known for its premium credit cards, payment solutions, and customer service. 
+Founded in 1850, it operates in over 130 countries and is ranked among the 
+world’s most valuable brands. 
+For professionals, Amex offers strong career opportunities in areas such as 
+technology, analytics, finance, operations, risk management, and customer 
+service. The company emphasizes career growth, learning programs, and a 
+culture of inclusion and collaboration. 
+In India, American Express has a significant presence since 1921, with its largest 
+center of excellence in Gurugram. Thousands of employees here contribute to 
+global operations, innovation, and customer experience, making it an attractive 
+workplace for those seeking growth in financial services and technology. 
+ 
+JOB ROLE 
+Intern/Apprentice – Technology – 8 weeks summer internship programme 
+ELIGIBILITY:  
+Minimum CGPA – 7, no active backlogs 
+ 
+1. Online test 
+ 
+The online test consisted of 3 coding questions and was conducted on 
+codility platform. 
+Questions: 
+i) Given an array of integers. Find a subarray that starts and ends with the same 
+number and has the maximum possible sum. Return that maximum sum. 
+ 
+ii) given a row of houses, each containing bags of different types of trash: 
+Metal (M), Plastic (P), and Glass (G). Distances between consecutive houses 
+are given in array D, and the trash types at each house are given in array T. 
+Each type of trash has a dedicated truck that: 
+• Starts at the beginning, 
+• Travels to the farthest house containing its trash type, 
+• Collects bags (1 minute per bag), 
+• Returns to the starting point. 
+Task: Compute the total time needed until all trucks finish collecting and 
+return, i.e., the maximum time among all trucks. 
+ 
+iii) Given an n × m grid with an assassin A, guards (^ v < >), obstacles X, and 
+empty cells (.) 
+• Guards watch in a straight line in their facing direction until blocked by a 
+wall/obstacle or another guard. All cells in their vision are unsafe. 
+• The assassin starts at A and wants to reach the bottom-right cell (n-1, m-
+1). 
+• The assassin can move up/down/left/right on empty cells . only (not into 
+obstacles, guards, or unsafe cells). 
+• If the assassin starts in vision or the target is unsafe/blocked, they fail. 
+Task: Determine if the assassin can safely reach the bottom-right cell. 
+ 
+2.Interview 
+ 
+Interview was held in virtual mode and consisted of two parts.  
+i)Technical interview: 
+Duration: 40 mins 
+Started with self-introduction and projects that mentioned in my resume. I was 
+asked to explain the features of my projects and how I have implemented 
+them. Then, the interviewer asked me about the technologies I have 
+knowledge and practical experience on. Then I was asked to code 2 questions 
+in Notepad while sharing my screen 1. Using any programming language, 
+merge all the files in a folder which couldn’t write the code completely but I 
+explained the process and methods how it could be done  2. String reverse 
+question with a little modification (reverse string word by word) which 
+completely successfully. Then some questions on DBMS (on concurrency 
+related to banking transactions and I was asked write 2 simple queries: finding 
+duplicate entries but case in-sensitive and using group by and order by to find 
+nth largest salary), Multithreading, OOPS (polymorphism and some other 
+questions). Then the interviewer asked about my skills and knowledge on other 
+tech such as AI, ML, Cloud etc,.. to which I replied that I have basic knowledge 
+on AI did a course on it but haven’t done a project on. Then the interviewer 
+finished by asking me do you have any questions.  
+ii)HR interview: 
+Duration: 55 mins 
+Like the technical round, it also started with self-introduction and about my 
+projects and the interviewer specifically asked many questions on how scalable 
+is the project, the tech stack and the reason to use that and the team work and 
+experience on working in the project and the interview slowly drifted towards 
+my area of interests and expertise as I was asked questions like favourite 
+subject and subject I hate and reason to choose CSE in CEG, the technology I 
+am currently exploring and like to learn next, a technology that I don’t have in 
+syllabus but I learnt it by myself and utilized it and liked it very much. Then 
+some situation questions on a team project involving software development 
+lifecycle questions and agile and other methods and my knowledge on that. I 
+was also asked various other questions like how my team-mates describe me, 
+my strengths and weaknesses, biggest achievement and failure, my inspiration, 
+why Amex and why you are suitable for Amex etc,…                                    
+My advise would be think before answering and answer the behavioural and 
+situational questions via an example from your life experiences and elaborate 
+on it and maintain a positive attitude even when you couldn’t answer 
+completely and don’t feel worried about telling them that you haven’t learnt 
+something yet. Be ambitious in your goals and sound confident. Try knowing 
+about the company and role before the interview and it would be very useful.  
+Wishing you all the best for your future goals. 
+Sriram T 
+Email: sriramthilagar@gmail.com 
+Mobile: 9025724553 

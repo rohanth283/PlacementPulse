@@ -1,0 +1,91 @@
+APPIAN INTERVIEW EXPERIENCE 
+Role: Software Engineer Intern 
+The selection process consisted of four rounds. This included an online coding round and 
+three in person interview rounds. 
+ 
+Online Coding Round: 
+The test was conducted on Glider AI, which was extremely strict in its proctoring. It 
+monitored both video and audio, with face and sound detection. The platform continuously 
+flagged students even if they looked down for more than 10 seconds while typing, so 
+maintaining proper posture and awareness was necessary. 
+Three coding questions were asked: 
+1. Insert and Merge Schedules – Given a list of schedules and a new schedule, insert 
+the new schedule in the correct place such that non-conflicting schedules remain 
+unchanged, while conflicting schedules are merged. Return the final list of non-
+conflicting schedules. 
+2. Find Missing and Duplicate Number with Team Validation – Given an array of size n 
+containing numbers from 1 to n with exactly one number missing and one 
+duplicated, find both. Then, using a team (array of tuples), determine: 
+o If both missing and duplicate numbers occur in the same team(tuple) → 
+return valid 
+o If no such team(tuple) exists → return invalid 
+o If more than one such team(tuple) exists → return multiple teams 
+3. First and Last Occurrence – Though worded in a complex way, the question 
+essentially asked for finding the first and last occurrence of a given element in an 
+array. This was straightforward. 
+ 
+Technical Interview – Round 1: 
+This round went smoothly, and the interviewers were very approachable. 
+ 
+Began with questions from my resume, including all listed projects, work experience, 
+and extracurricular activities. 
+ 
+Asked about my favourite programming language — I chose C++, after which I was 
+given: 
+Problem 1 (C++): Given a string, find the positions of vowels and reverse only the vowels’ 
+positions without altering other characters. 
+ 
+Then moved to Java: 
+Problem 2 (Java): Write a simple Java class on paper and explain OOP concepts such as 
+interfaces, inheritance (including all types), and their use cases. 
+ 
+Follow-up DSA discussion on which data structures I used in my projects and why 
+they were beneficial in their respective contexts. 
+ 
+Technical + Behavioural Interview – Round 2: 
+A relaxed conversation that blended technical and behavioural questions. 
+ 
+Personal questions about my goals, the type of professional I aspire to be, and my 
+learning approaches. 
+ 
+Situation-based questions: lessons learned from experiences, difficulties faced when 
+learning new technologies, and how I addressed them. 
+ 
+Discussion on my areas of interest and how I plan to develop them. 
+ 
+Ended with an opportunity for me to ask questions, and the interviewer offered 
+constructive feedback on my answers and approach. 
+ 
+HR Interview – Round 3: 
+This round lasted ~15 minutes. 
+ 
+Questions about my 10th and 12th scores, entrance examinations I had attempted, 
+and my choice of engineering as a career path. 
+ 
+Discussion on college coursework, followed by a simple DBMS question on 
+implementing many-to-many relationships. 
+ 
+Ended with me asking questions to the interviewer. 
+ 
+Key Takeaways: 
+ 
+Coding questions were primarily based on string manipulation and could be solved 
+without excessive stress. 
+ 
+Be confident about the skills mentioned in your resume and prepare solid, relevant 
+projects. 
+ 
+Think aloud while solving problems so interviewers can evaluate your thought 
+process. 
+ 
+Revise basics in DBMS, OOPS, and problem-solving techniques. 
+ 
+Learn about the company beforehand and ask thoughtful, relevant questions. 
+ 
+Happy to help – All the very best! 
+Jenny Alice N, 
+jennyalice1903@gmail.com, 
+ph-no: 7200412072, 
+LinkedIn: https://www.linkedin.com/in/jenny-alice-n-808429298/. 
+ 
+ 

@@ -1,0 +1,133 @@
+Interview Experience - Apple SDE Intern
+About Apple
+People at Apple don’t just build products — they craft experiences that revolutionise industries.
+The diversity of our people and ideas drives innovation in everything we do. Imagine what you
+could do here! Join Apple, and help us leave the world better than we found it. At Apple, new
+ideas quickly become phenomenal products, services, and experiences. Every day, people
+achieve amazing things here. Apple is an Equal Employment Opportunity Employer, committed
+to inclusion, diversity, and affirmative action for minorities, women, veterans, and individuals
+with disabilities.
+Apple’s Expectation
+Apple’s IS&T team is looking for highly motivated and talented engineers to build the next generation of software
+services that power several mission critical applications. We are looking for extraordinary individuals with strong
+communication and interpersonal skills and ability to work effectively across multiple business and technical
+teams. As a part of this dynamic team, you will build cutting edge software service, one that is continually
+innovating & is proud of making a difference and help us build the Apple experience on a global scale. You should
+be a self starter, motivated, with exceptional interpersonal skills as well as a positive and flexible approach to
+problem
+Eligibility Criteria
+• cGPA 7 & above
+• No Current Arrears
+• CS / IT / AI&DS
+Internship Details
+• Role: Software Development Engineering Intern
+• Monthly Internship Stipend: 105,000 INR
+• Relocation Benefits: INR 35,100, less applicable taxes + Relocation Benefits (if applicable) economy class,
+round trip flight (if applicable) taxes + Relocation Benefits (if applicable)
+Overview of Internship process
+1. Online Assessment [Coderpad]
+2. Resume Shortlisting [Implicit]
+3. Technical Interview [Webex]
+4. Techno-managerial Interview [Webex]
+Online Assessment [90 mins]
+MCQs: 10 Questions covered DSA, Networks, DBMS & OS, OOPS. Few of them are given below.
+• Best Algorithm for finding longest palindromic substring
+• Time complexity of Matrix Chain Multiplication
+• Coffman conditions
+• Hits during page replacement with LRU Cache
+• SOLID principles
+• Bandwidth-Delay product
+• TCP congestion control
+Problem Solving: Leetcode style Function completion
+1. Restaurant Queue Management
+A restaurant has n seats. An array price is given, where price[i] represents the amount the guest is willing to
+pay for being seated. An array logs is given, which represents the order of arrival of the guests. First entry of a
+guestId in logs refers to their arrival and the second entry refers to their departure. Constraints to be followed
+are,
+• A guest can visit multiple times but they will be charged only once.
+• A guest has to wait if all the seats are occupied
+• If the guest loses patience waiting on the queue, he will leave the queue
+• The scheduling has to follow FIFO. [not explicitly specified]
+The objective is to find the profit of the restaurant.
+Sample Input : n = 2, price = [2, 5, 8, 7], logs = [0, 2, 1, 3, 0, 3, 1, 2]
+Output : 15
+Source code: github.com/ZhaLabs/AppleInterview/Restaurant
+2. Tennis Score
+Simulate the scoring system of a Tennis game given the name of player1 playerA and player2 playerB and an
+array series where series[i] represents the name of the player who won the ith serve. Constraints for defining
+the state of the game are
+• A player wins if he has atleast 4 points & leads by atleast 2 points
+• If both players have >= 4 points & tied, then its DEUCE
+• If both player have >= 4 points & a there’s a 1 point margin, then its Advantage for the player in Lead
+• Points progresses as 0 -> 15 -> 30 -> 40
+Further reference :
+• Article: Tennis scoring system - Wikipedia
+• State diagram: Tennis state diagram
+Sample Input : playerA = "Jon Snow", playerB = "Tyrion Lanister"
+series = ["Jon Snow", "Jon Snow", "Tyrion Lanister", "Jon Snow", "Tyrion Lanister", "Tyrion Lanister", "Tyrion
+Lanister", "Jon Snow", "Tyrion Lanister", "Tyrion Lanister"]
+Output : "Tyrion Lanister WINS"
+Source code: github.com/ZhaLabs/AppleInterview/TennisScorer
+Resume Shortlisting
+After the Online Assessment, candidates were shortlisted based on their score on the OE as well as their
+resume[implicit]. Shortlisted names were announced 15 days before the Technical interview. I wish to let you
+know that the flow of Technical interview & Techno-managerial interview and questions asked will depend on
+various factors including your resume, your recruiter, the team you have been chosen for[can be indentified from
+the linkedin profiles of your recruiter], the environment. In the upcoming segment i will sharing the experience
+from my perspective & leave to the readers to make inferences on the Interviewing process of Apple after reading
+all other interview experiences.
+Technical Interview
+The interview started with self introduction and then we proceeded to my project. I was asked the role I played in
+the project and later to explain the socket communication which we used in our project. Then I was asked core
+concepts from topics including Multi-threading, Context-switches, Normalisation, TCP handshake. Later I was
+asked my favorite subject. As I said DSA, I encounter questions on Trees, Time complexities and was asked to
+explain the working of Heap using Canvas on the Coderpad, operations & prove the time complexities of the ops &
+to implement the same. Later I was asked the preferred language to solve a problem. As I’m comfortable with
+multiple languages, I asked the interviewer to let me know the problem as I am problem-centric. He asked about
+the TwoSum problem. Once I explained him the two approaches, he asked me to implement the efficient one. I
+thought the interview was as we were already running out of the scheduled time. But asked me to solve another. I
+was supposed to find the longest common prefix between any pair of strings in an array of strings. I gave him the
+brute force solution[L * n2]. As he asked, I optimized it using sorting[L * n log n]. He asked me to optimize it
+more. So i used Trie to make it efficient [L * n]
+Source code:
+• github.com/ZhaLabs/AppleInterview/MinHeap
+• github.com/ZhaLabs/AppleInterview/TwoSum
+• github.com/ZhaLabs/AppleInterview/LongestCommonPrefix
+Within 30 mins I received the mail stating the schedule for the next round and I was supposed to confirm my
+availability ASAP.
+Techno-Managerial Interview
+As I was in a hurry, Interview asked me reason behind that. As I confessed about my examination, we went on
+sharing each others’ college life. He asked my commitments later on the day even before asking self-introduction. I
+felt it had set a comfortable stage for open talks. Then I was asked the following questions.
+• Tell me mistake/setback that you see in Apple
+• Explain your project.
+• What was your role in the project?
+• Tell me about your interview experience
+• Given the following attributes[Name[duplicates present], Contact[0..*], Courses[0..*]], design a relational
+schema
+• What the challenges you faced during your project
+• Explain the socket programming
+• Explain an algorithm that you very comfortable with
+• Recent breakthrough in the algorithm[MST] I explained
+• What are you key strengths?
+• Prove me your leadership with a scenario
+• How you handled a time where your teammate was not able to cope up with your project’s progress?
+Even after all these question, there was 10 mins remaining in the scheduled time. I wished to utilize the time to
+prove myself. So I kept questioning him for more than 20 mins from the inferences I made from his LinkedIn
+profile. Results were announced after 4 from the last day of Interview process.
+Personal Advice
+• Use the self-intro part to set the perfect tone for the rest of the interview.
+• Navigating the interviewer to your comfort zone was very hard when comparing to interviews I attended in
+other companies.
+• My interviewers had 9 & 20 years of experience respectively. So they will find if you pretend to project
+yourself as expert in the topic.
+• Recruiter were very experienced. So don’t prove you explicitly. Just give them cues. They will scan you.
+• During pair-coding think loudly i.e express your thought on the problem to the interview
+• As said earlier, questions depends on the interviewers. When asked to solve problems, try to ask the problem
+first then let him know language of your choice. I’m repeating because, a friend of mine who very much
+equipped with the required skillset, encounter a question which i felt unfair. He chose C++ but was supposed
+to store objects of different type in same container and was supposed to do object destructuring.
+• Smile
+• Resources : Refer CSEA
+Fingers Crossed!!!
+Deepak Sridhar - 6380156548

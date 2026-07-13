@@ -1,0 +1,109 @@
+APPIAN INTERVIEW EXPERIENCE 
+Role: Software Engineer 
+ 
+Appian Corporation is an American cloud computing and enterprise software 
+company headquartered in McLean, Virginia, part of the Dulles Technology 
+Corridor. The company provides a low-code platform for building enterprise 
+applications, focusing on process automation, case management, and business 
+process management in regions like North America, Europe, the Middle East, 
+and Southeast Asia. 
+The platform allows businesses to develop apps with low coding, using a visual 
+interface and prebuilt modules. 
+Online Assessment  
+The online assessment consisted of 3 coding questions to be solved in 1 hour 
+30 minutes. The timestamp of submission is considered during evaluation, so 
+solving faster is an advantage. 
+1. Insert Interval - Leetcode  
+2. Find first and last position of element in sorted array - Leetcode  
+3. Find missing and repeating – GeeksForGeeks 
+Important: Plagiarism check is done by AI. 
+Shortlisting Process 
+The shortlisted candidates list was released one day before the interview. 
+Be ready with: 
+• Updated Resume 3 copies 
+• DSA, DBMS, OOPS 
+• Real-time puzzles 
+Interview Rounds 
+There were three rounds, each an elimination round. 
+ 
+Technical Round 
+Never lie in your resume 
+ every word in it can become a question. 
+The interviewer spent about 2 minutes reading my resume and simultaneously 
+generating questions based on it. Meanwhile, I gave my self-introduction. 
+Questions I Faced: 
+1. React: 
+•    Implement a list in a React functional component. 
+2. Project Discussion: 
+• I had mentioned three projects — he asked about every single line in the 
+descriptions. 
+3. API Questions: 
+• Explain what an API is. 
+• Types of API and their purposes. 
+• Additional: Explain about API fire/hit rate. 
+4. Project Purpose: 
+• Asked for the purpose of my project — I explained clearly. 
+5. Certification-Based Questions: 
+• I had listed Oracle SQL credential by IBM in my resume. 
+• What is the difference between schema and table? 
+• In DBMS, a many-to-many relationship can be resolved into how many 
+tables? (Answer: 3 tables) 
+• Write an SQL query to select the highest CGPA from each department (he 
+gave me the table schema). 
+6. LeetCode Experience: 
+• I mentioned 480+ problems solved. 
+• Preferred language? → C++ 
+• Most interesting problem solved? → I explained constructing a binary 
+tree from inorder and preorder traversals. 
+ 
+LeetCode Link: Construct Binary Tree from Preorder and Inorder 
+Traversal 
+7. DSA Question 1: 
+• Get non-duplicated elements from a given array containing integers (both 
+duplicates and uniques). 
+• Explained my approach and wrote the code. [unordermap] 
+ 
+LeetCode Link: Single Number 
+8. OOPs: 
+• What is polymorphism? → Explained with a real-world example. 
+9. Security in Project: 
+• How did you encrypt the password during login? 
+• Write the JSON format for an image. 
+• Explained about Firebase authentication email verification. 
+10. DSA Question 2: 
+• A modified Two Sum problem (scenario-based). 
+• Only after solving it, I realized it was LeetCode’s Two Sum problem. 
+ 
+• LeetCode Link: Two Sum 
+HR Round 
+• Questions were similar to the technical round, with more focus on: 
+• My projects 
+• DBMS basics 
+• Academics 
+• Many-to-many relationship table conversion was again asked. 
+Key Takeaways 
+• Never lie in your resume — be prepared for any question based on it. 
+• DSA + DBMS + OOPS are must-prepare topics. 
+• Be ready to explain every project you mention. 
+• Have knowledge of API concepts and real-world scenarios. 
+• Solve LeetCode problems regularly — they may appear with slight 
+modifications. 
+• CGPA plays a vital role in the shortlisting process. 
+My tips to juniors…. 
+Prepare well. 
+When asked "Tell me about yourself", speak clearly and confidently. Also, 
+know about the company — their goals and the new steps they are taking. 
+While solving DSA problems, keep speaking continuously. Talk about your 
+approach, explain whatever you are thinking, and share what is running through 
+your mind about the problem. Don’t let the interviewer search for the next 
+question — keep the conversation active. 
+Highlight the novelty of your project, its purpose, and the target consumers of 
+your project. Have these points at your fingertips. 
+ 
+GitHub: https://github.com/ARUNULAGAPPAN/ 
+LinkedIn: https://www.linkedin.com/in/arunulagappan2024/ 
+Leetcode : https://leetcode.com/u/ARUN_THE_REX/ 
+Portfolio: ArunUlagappan  
+Instagram: https://www.instagram.com/the__great__rex/ 
+ 
+ 

@@ -1,0 +1,80 @@
+ 
+ 
+ 
+ 
+ 
+WELLS FARGO 
+ 
+ 
+Wells Fargo & Company is an American multinational financial services company. Wells 
+Fargo delineates three different business segments when reporting results: Community Banking; 
+Wholesale Banking; and Wealth, Brokerage and Retirement. 
+ 
+Round 1: Online Test 
+The online test was hosted on the AMCAT platform. 
+The test had 3 sections:  
+ Verbal English  
+ Business Aptitude – Questions based on our interpretation on the given graphs and statistics. 
+ Coding – Two coding questions. 
+ 
+Round 2: Technical Round 
+I was asked to introduce myself. 
+The interviewer asked to explain about one of my projects in the resume.  
+Then I was asked questions about Machine Learning. 
+1. What is unsupervised learning? 
+2. Examples of unsupervised learning 
+3. Explain about Support Vector Machine 
+4. How to deal with unbalanced dataset? 
+5. An ML problem was given and I was asked how I should approach it. 
+ 
+Later, three coding questions were given and my approach to the each of the problem was asked. 
+1. https://leetcode.com/problems/min-stack/ 
+2. https://leetcode.com/problems/binary-tree-level-order-traversal/ 
+3. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ 
+ 
+ 
+Then I got selected for the next technical round. 
+ 
+Round 3: Technical Round  
+I was asked to tell about myself 
+I was asked what data structure should be used for the elevator system. Then the question was 
+improvised and the data structure that can be used for handling multiple such elevators was asked. 
+My answer was priority queue and I explained how it can be used. 
+ 
+Then interviewer asked why Wells Fargo – a fintech company, as my internship was in a product 
+based company. He talked about himself and his experience in the company.  
+ 
+I was asked about my plans for higher studies. I said I prefer to work than higher studies. 
+He then asked if I have any questions for him.  
+Then I was selected for the next round. 
+ 
+HR: 
+ 
+The HR round was very casual as compared to other rounds.  
+ I was asked about my family and extra-curricular activities. 
+ She asked few instances that prove the soft skills I had mentioned. 
+ She also asked if I have preferences for work location. 
+ I was asked which company I would choose if I was given an offer from Wells Fargo and a 
+pre-placement offer from the company I interned with valid reasons. 
+ 
+ 
+Topics to be focussed: 
+ 
+ Data structures 
+ Database management systems 
+ Operating system 
+ 
+ 
+Take away: 
+ 
+ 
+We should be able to talk about everything on the resume – from the skills to the projects 
+that are mentioned and to be able to give an approach to the coding problems asked. Confident and 
+honest answers are expected by the interviewers.   
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Ishwarya R 
+(rjishu08@gmail.com) 
