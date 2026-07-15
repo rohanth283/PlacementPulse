@@ -94,13 +94,17 @@
             
             <div class="sidebar-section-title">Navigation</div>
             <nav class="nav-menu">
-                <button class="nav-item active" data-tab="insights">
-                    <i data-lucide="bar-chart-3"></i>
-                    <span>Insights Dashboard</span>
+                <button class="nav-item active" data-tab="chat">
+                    <i data-lucide="message-square"></i>
+                    <span>Placement Chat</span>
                 </button>
                 <button class="nav-item" data-tab="explorer">
                     <i data-lucide="search"></i>
                     <span>Experiences Explorer</span>
+                </button>
+                <button class="nav-item" data-tab="insights">
+                    <i data-lucide="bar-chart-3"></i>
+                    <span>Insights Dashboard</span>
                 </button>
             </nav>
             
@@ -154,7 +158,7 @@
             </header>
 
             <!-- Tab Content: Chat -->
-            <section class="tab-panel" id="panel-chat">
+            <section class="tab-panel active" id="panel-chat">
                 <div class="chat-layout">
                     <div class="chat-messages-container" id="chat-messages">
                         <!-- Welcome message -->
@@ -255,7 +259,7 @@
             </section>
 
             <!-- Tab Content: Insights (Active on load) -->
-            <section class="tab-panel active" id="panel-insights">
+            <section class="tab-panel" id="panel-insights">
                 <!-- Stats Overview -->
                 <div class="insights-stats-grid">
                     <div class="stat-card">

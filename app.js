@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Application State
     const state = {
-        activeTab: 'insights', // Insights active on load
+        activeTab: 'chat', // Chat active on load
         token: localStorage.getItem('token') || null,
         username: localStorage.getItem('username') || null,
         activeConversationId: null,
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             showAppContent();
-            activateTab('insights'); // Default landing
+            activateTab('chat'); // Default landing
         } catch (error) {
             console.error("Auth check failed:", error);
             logoutUserLocal();
@@ -218,7 +218,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 await loadInitialData();
                 await loadConversations();
                 showAppContent();
-                activateTab('insights');
+                activateTab('chat');
             }
         } catch (error) {
             authErrorMsg.textContent = error.message;
