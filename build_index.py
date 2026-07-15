@@ -68,12 +68,25 @@ def extract_metadata_heuristics(filename: str, content: str) -> Dict[str, Any]:
     elif re.search(r'\b(very easy|cakewalk|smooth|relaxed|basic)\b', content, re.IGNORECASE):
         difficulty = "Easy"
         
+    # 5. Extract Year (Look for 2022 to 2026 in filename or content, default to 2025)
+    year_match = re.search(r'\b(202[2-6])\b', filename)
+    if not year_match:
+        year_match = re.search(r'\b(202[2-6])\b', content)
+    year = year_match.group(1) if year_match else "2025"
+    
+    # 6. Extract Role Type (Placement vs Internship)
+    role_type = "Placement"
+    if "intern" in filename.lower() or "intern" in content.lower() or (role and "intern" in role.lower()):
+        role_type = "Internship"
+        
     return {
         "candidate_name": candidate_name,
         "company": company_name,
         "package": package,
         "role": role or "Software Engineer",
-        "difficulty": difficulty
+        "difficulty": difficulty,
+        "year": year,
+        "role_type": role_type
     }
 
 def embed_texts_with_retry(client: genai.Client, texts: List[str], max_retries: int = 5) -> List[List[float]]:
@@ -146,6 +159,8 @@ def main():
                     "package": meta["package"],
                     "role": meta["role"],
                     "difficulty": meta["difficulty"],
+                    "year": meta["year"],
+                    "role_type": meta["role_type"],
                     "text": content,
                     "embedding": None
                 })

@@ -323,6 +323,10 @@ class CreateConvRequest(BaseModel):
 class ChatRequest(BaseModel):
     message: str
     conversation_id: str
+    company_filter: Optional[str] = None
+
+class UpdateTitleRequest(BaseModel):
+    title: str
 
 # ----------------------------------------------------
 # Static Assets serving
@@ -534,6 +538,34 @@ def delete_conversation(conversation_id: str, user_id: int = Depends(get_current
     
     return JSONResponse(content={"success": True})
 
+@app.put("/api/conversations/{conversation_id}/title")
+def update_conversation_title(conversation_id: str, payload: UpdateTitleRequest, user_id: int = Depends(get_current_user_id)):
+    title = payload.title.strip()
+    if not title:
+        raise HTTPException(status_code=400, detail="Title cannot be empty.")
+    
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    
+    # Verify ownership
+    cursor.execute("SELECT id FROM conversations WHERE id = %s AND user_id = %s", (conversation_id, user_id))
+    if not cursor.fetchone():
+        cursor.close()
+        conn.close()
+        raise HTTPException(status_code=403, detail="Forbidden: You do not own this chat session.")
+        
+    try:
+        cursor.execute("UPDATE conversations SET title = %s WHERE id = %s", (title, conversation_id))
+        conn.commit()
+    except Exception as e:
+        conn.rollback()
+        raise HTTPException(status_code=500, detail=f"Failed to update title: {str(e)}")
+    finally:
+        cursor.close()
+        conn.close()
+        
+    return JSONResponse(content={"success": True, "title": title})
+
 @app.get("/api/conversations/{conversation_id}/messages")
 def get_messages(conversation_id: str, user_id: int = Depends(get_current_user_id)):
     conn = get_db_connection()
@@ -583,7 +615,13 @@ def get_companies(user_id: int = Depends(get_current_user_id)):
     return JSONResponse(content={"companies": companies})
 
 @app.get("/api/experiences")
-def get_experiences(company: Optional[str] = None, q: Optional[str] = None, user_id: int = Depends(get_current_user_id)):
+def get_experiences(
+    company: Optional[str] = None, 
+    q: Optional[str] = None, 
+    year: Optional[str] = None,
+    role_type: Optional[str] = None,
+    user_id: int = Depends(get_current_user_id)
+):
     global documents
     if not documents:
         load_documents_index()
@@ -591,6 +629,10 @@ def get_experiences(company: Optional[str] = None, q: Optional[str] = None, user
     results = documents
     if company:
         results = [doc for doc in results if doc.get("company", "").lower() == company.lower()]
+    if year:
+        results = [doc for doc in results if str(doc.get("year", "")) == str(year)]
+    if role_type:
+        results = [doc for doc in results if doc.get("role_type", "").lower() == role_type.lower()]
     if q:
         q_lower = q.lower()
         results = [doc for doc in results if q_lower in doc.get("text", "").lower() or q_lower in doc.get("candidate_name", "").lower()]
@@ -605,6 +647,8 @@ def get_experiences(company: Optional[str] = None, q: Optional[str] = None, user
             "package": doc.get("package"),
             "role": doc.get("role"),
             "difficulty": doc.get("difficulty"),
+            "year": doc.get("year", "2025"),
+            "role_type": doc.get("role_type", "Placement"),
             "text_length": len(doc.get("text", ""))
         })
     return JSONResponse(content={"experiences": meta_results})
@@ -630,6 +674,14 @@ async def chat_endpoint(payload: ChatRequest, user_id: int = Depends(get_current
     # Enforce rate limit
     check_rate_limit(user_id, "/api/chat")
     
+    # 1. Alphanumeric query validation
+    clean_msg = payload.message.strip()
+    if not re.search(r'[a-zA-Z0-9]', clean_msg):
+        raise HTTPException(
+            status_code=400, 
+            detail="Invalid Query: Please enter a query containing alphanumeric characters. Special characters and emojis alone are not supported."
+        )
+        
     conv_id = payload.conversation_id
     conn = get_db_connection()
     cursor = conn.cursor()
@@ -643,6 +695,16 @@ async def chat_endpoint(payload: ChatRequest, user_id: int = Depends(get_current
         
     conv_title, company_filter = conv_row
     
+    # 2. Synchronize company filter state
+    if payload.company_filter is not None:
+        cf = payload.company_filter.strip()
+        if cf == "":
+            cf = None
+        if cf != company_filter:
+            cursor.execute("UPDATE conversations SET company_filter = %s WHERE id = %s", (cf, conv_id))
+            conn.commit()
+            company_filter = cf
+            
     created_at_str = datetime.utcnow().isoformat()
     try:
         cursor.execute("""
@@ -693,26 +755,28 @@ Return ONLY the title. Do not include quote marks, punctuation, prefixes, or com
             block += f"ROLE: {doc['role']}\n"
             block += f"PACKAGE: {doc['package'] or 'Not Specified'}\n"
             block += f"DIFFICULTY: {doc['difficulty']}\n"
-            block += f"INTERVIEW DETAILS:\n{doc['text']}\n"
+            # 3. Truncate each document content to first 4,000 characters to prevent TPM limits
+            block += f"INTERVIEW DETAILS:\n{doc['text'][:4000]}...\n"
             context_blocks.append(block)
         context_str = "\n\n==================================================\n\n".join(context_blocks)
         
-    system_instruction = """You are PlacementBot, a premium technical interview advisor. You have access to real placement experiences of students.
+    system_instruction = """You are PlacementPulse, a premium technical interview advisor. You have access to real placement experiences of students.
 Your job is to answer the user's question accurately using ONLY the provided candidate placement experiences in the CONTEXT.
 
 Strict Guidelines:
 1. Base your answer solely on the provided candidate experiences in the CONTEXT. Do not speculate or assume details.
 2. Cite your sources clearly when discussing experiences. Use format: "According to [Candidate Name] ([Company Name])..." or "In [Candidate Name]'s interview at [Company Name]...".
-3. If the context does not contain relevant details to answer the query, say: "I couldn't find details about this in the student placement experiences."
+3. If the context does not contain relevant details to answer the query, say: "I couldn't find details about this in the student placement experiences." Then provide alternative suggested queries or recovery options (e.g., "Try asking: 'What coding questions did Amazon ask?' or 'Give me tips for Wells Fargo'").
 4. Format your answer with clean Markdown: use subheadings, bold text, bullet points, and code blocks for programming solutions. Keep it extremely readable and professional.
 """
 
     contents = []
+    # Truncate conversation history messages if they are too long
     for h_role, h_text in history_rows[:-1]:
         api_role = "user" if h_role == "user" else "model"
         contents.append(types.Content(
             role=api_role,
-            parts=[types.Part.from_text(text=h_text)]
+            parts=[types.Part.from_text(text=h_text[:3000])]
         ))
         
     enriched_prompt = f"""CONTEXT OF STUDENT EXPERIENCES:
@@ -721,7 +785,7 @@ Strict Guidelines:
 ==================================================
 
 USER QUESTION:
-{payload.message}
+{payload.message[:2000]}
 """
     contents.append(types.Content(
         role="user",
@@ -767,8 +831,18 @@ USER QUESTION:
         
     except Exception as e:
         conn.rollback()
-        print(f"Error calling Gemini generate_content: {e}")
-        raise HTTPException(status_code=500, detail=f"Failed to generate response: {str(e)}")
+        err_str = str(e)
+        print(f"Error calling Gemini: {err_str}")
+        if "429" in err_str or "quota" in err_str or "exhausted" in err_str or "limit" in err_str:
+            raise HTTPException(
+                status_code=429,
+                detail="Too Many Requests: Gemini API rate limit or quota exceeded. Please wait a few moments or ask a shorter question. You can also view matching experiences in the CSEA portal."
+            )
+        else:
+            raise HTTPException(
+                status_code=503,
+                detail="AI Service Failure: The chatbot completion service is currently unavailable. Please try again shortly."
+            )
     finally:
         cursor.close()
         conn.close()

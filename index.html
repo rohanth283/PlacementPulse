@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PlacementPulse AI | RAG Chatbot & Explorer</title>
+    <title>PlacementPulse | Prep AI Dashboard</title>
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,8 +22,14 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- App Loading Screen (Prevents auth reload flashes) -->
+    <div class="app-loading-screen" id="app-loading-screen">
+        <div class="app-loading-spinner"></div>
+        <div class="app-loading-text">PlacementPulse</div>
+    </div>
+
     <!-- Authentication Screen Overlay -->
-    <div class="auth-overlay" id="auth-overlay">
+    <div class="auth-overlay hidden" id="auth-overlay">
         <div class="auth-card">
             <div class="auth-header">
                 <div class="auth-logo">
@@ -54,17 +60,24 @@
     </div>
 
     <!-- Main App Container -->
-    <div class="app-container">
-        <!-- Sidebar Navigation (ChatGPT style) -->
-        <aside class="sidebar">
+    <div class="app-container hidden" id="app-container">
+        
+        <!-- Mobile Sidebar Dim Overlay -->
+        <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+        <!-- Sidebar Navigation (ChatGPT style, collapsible) -->
+        <aside class="sidebar" id="app-sidebar">
             <div class="logo-area">
                 <div class="logo-icon">
                     <i data-lucide="sparkles"></i>
                 </div>
                 <div class="logo-text">
                     <h1>PlacementPulse</h1>
-                    <span>Prep AI Dashboard</span>
+                    <span>Dashboard</span>
                 </div>
+                <button class="sidebar-collapse-btn" id="btn-sidebar-collapse" title="Collapse Sidebar">
+                    <i data-lucide="chevron-left"></i>
+                </button>
             </div>
             
             <!-- ChatGPT style New Chat button -->
@@ -81,17 +94,13 @@
             
             <div class="sidebar-section-title">Navigation</div>
             <nav class="nav-menu">
-                <button class="nav-item active" data-tab="chat">
-                    <i data-lucide="message-square"></i>
-                    <span>Prep Chatbot</span>
+                <button class="nav-item active" data-tab="insights">
+                    <i data-lucide="bar-chart-3"></i>
+                    <span>Insights Dashboard</span>
                 </button>
                 <button class="nav-item" data-tab="explorer">
                     <i data-lucide="search"></i>
                     <span>Experiences Explorer</span>
-                </button>
-                <button class="nav-item" data-tab="insights">
-                    <i data-lucide="bar-chart-3"></i>
-                    <span>Insights Dashboard</span>
                 </button>
             </nav>
             
@@ -107,10 +116,6 @@
                         <i data-lucide="log-out"></i>
                     </button>
                 </div>
-                <div class="system-status">
-                    <span class="status-dot"></span>
-                    <span>RAG Engine Ready</span>
-                </div>
             </div>
         </aside>
 
@@ -118,9 +123,14 @@
         <main class="main-content">
             <!-- Header -->
             <header class="content-header">
-                <div class="header-title">
-                    <h2 id="tab-title">Prep Chatbot</h2>
-                    <p id="tab-desc">Ask questions about interview rounds, coding topics, and packages.</p>
+                <div class="header-left-group">
+                    <button class="mobile-toggle-btn" id="btn-mobile-toggle" title="Toggle Sidebar">
+                        <i data-lucide="menu"></i>
+                    </button>
+                    <div class="header-title">
+                        <h2 id="tab-title">PlacementPulse</h2>
+                        <p id="tab-desc">Insights, Trends, and Placement Analytics.</p>
+                    </div>
                 </div>
                 <div class="header-actions">
                     <div class="help-dropdown-wrapper">
@@ -134,6 +144,9 @@
                         </div>
                     </div>
                     <div class="api-indicator">
+                        <span class="status-dot"></span>
+                        <span class="status-text">RAG Active</span>
+                        <span class="indicator-divider">|</span>
                         <i data-lucide="cpu"></i>
                         <span>Gemini 2.5 Flash</span>
                     </div>
@@ -141,7 +154,7 @@
             </header>
 
             <!-- Tab Content: Chat -->
-            <section class="tab-panel active" id="panel-chat">
+            <section class="tab-panel" id="panel-chat">
                 <div class="chat-layout">
                     <div class="chat-messages-container" id="chat-messages">
                         <!-- Welcome message -->
@@ -149,10 +162,10 @@
                             <div class="avatar"><i data-lucide="bot"></i></div>
                             <div class="message-wrapper">
                                 <div class="message-content markdown-body">
-                                    <p>Hi there! I am **PlacementPulse AI**. I have indexed 250+ candidate placement experiences across top tech companies.</p>
+                                    <p>Hi there! I am **PlacementPulse**. I have indexed 250+ candidate placement experiences across top tech companies.</p>
                                     <p>Ask me anything about the selection process, coding questions asked, SQL tasks, interview durations, packages, or preparation tips. I will answer based *only* on actual candidate transcripts and provide citations.</p>
                                 </div>
-                                <div class="message-meta">System • Just now</div>
+                                <div class="message-meta">PlacementPulse • Just now</div>
                             </div>
                         </div>
                     </div>
@@ -187,28 +200,53 @@
             <!-- Tab Content: Explorer -->
             <section class="tab-panel" id="panel-explorer">
                 <div class="explorer-toolbar">
-                    <div class="search-box">
-                        <i data-lucide="search"></i>
-                        <input type="text" id="search-input" placeholder="Search candidates, questions, or topics...">
-                    </div>
-                    <div class="filter-controls">
-                        <div class="select-wrapper">
-                            <i data-lucide="building-2"></i>
-                            <select id="filter-company">
-                                <option value="">All Companies</option>
-                                <!-- Populated dynamically -->
-                            </select>
+                    <div class="toolbar-left-side">
+                        <div class="search-box">
+                            <i data-lucide="search"></i>
+                            <input type="text" id="search-input" placeholder="Search candidates, questions, or topics...">
                         </div>
-                        <div class="select-wrapper">
-                            <i data-lucide="bar-chart"></i>
-                            <select id="filter-difficulty">
-                                <option value="">All Difficulties</option>
-                                <option value="Easy">Easy</option>
-                                <option value="Medium">Medium</option>
-                                <option value="Hard">Hard</option>
-                            </select>
+                        <div class="filter-controls">
+                            <div class="select-wrapper">
+                                <i data-lucide="building-2"></i>
+                                <select id="filter-company">
+                                    <option value="">All Companies</option>
+                                    <!-- Populated dynamically -->
+                                </select>
+                            </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="calendar"></i>
+                                <select id="filter-year">
+                                    <option value="">All Years</option>
+                                    <option value="2026">2026</option>
+                                    <option value="2025">2025</option>
+                                    <option value="2024">2024</option>
+                                    <option value="2023">2023</option>
+                                </select>
+                            </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="briefcase"></i>
+                                <select id="filter-role-type">
+                                    <option value="">All Types</option>
+                                    <option value="Placement">Placement</option>
+                                    <option value="Internship">Internship</option>
+                                </select>
+                            </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="bar-chart"></i>
+                                <select id="filter-difficulty">
+                                    <option value="">All Difficulties</option>
+                                    <option value="Easy">Easy</option>
+                                    <option value="Medium">Medium</option>
+                                    <option value="Hard">Hard</option>
+                                </select>
+                            </div>
                         </div>
                     </div>
+                    <!-- Direct Redirect to CSEA Web Portal -->
+                    <a href="https://cseaceg.org.in" target="_blank" rel="noopener noreferrer" class="csea-redirect-btn">
+                        <span>Go to CSEA Portal</span>
+                        <i data-lucide="external-link"></i>
+                    </a>
                 </div>
 
                 <div class="explorer-grid" id="experiences-grid">
@@ -216,8 +254,8 @@
                 </div>
             </section>
 
-            <!-- Tab Content: Insights -->
-            <section class="tab-panel" id="panel-insights">
+            <!-- Tab Content: Insights (Active on load) -->
+            <section class="tab-panel active" id="panel-insights">
                 <!-- Stats Overview -->
                 <div class="insights-stats-grid">
                     <div class="stat-card">
@@ -237,7 +275,7 @@
                     <div class="stat-card">
                         <div class="stat-icon blue"><i data-lucide="award"></i></div>
                         <div class="stat-info">
-                            <span class="stat-val" id="stat-avg-rounds">4.2</span>
+                            <span class="stat-val" id="stat-avg-rounds">4</span> <!-- Standardized to positive integer 4 instead of 4.2 -->
                             <span class="stat-label">Avg. Interview Rounds</span>
                         </div>
                     </div>
@@ -263,6 +301,18 @@
                         <div class="chart-container">
                             <canvas id="difficultyChart"></canvas>
                         </div>
+                    </div>
+                </div>
+
+                <!-- Data Source Verification Panel -->
+                <div class="insights-verification-card">
+                    <div class="verification-header">
+                        <i data-lucide="shield-check" class="verified-icon"></i>
+                        <h3>Data Source Verification</h3>
+                    </div>
+                    <p class="verification-subtitle">All aggregates, charts, and chatbot answers are compiled from 256 student interview transcript files. Verifiable text source list:</p>
+                    <div class="verified-sources-list" id="verified-sources-container">
+                        <!-- Populated dynamically by app.js -->
                     </div>
                 </div>
                 
@@ -302,6 +352,8 @@
             <div class="panel-body">
                 <div class="meta-pills">
                     <div class="meta-pill"><span class="label">Difficulty:</span> <span id="panel-difficulty-badge" class="badge">Medium</span></div>
+                    <div class="meta-pill"><span class="label">Year:</span> <span id="panel-year-badge" class="badge">2025</span></div>
+                    <div class="meta-pill"><span class="label">Type:</span> <span id="panel-type-badge" class="badge">Placement</span></div>
                     <div class="meta-pill"><span class="label">File:</span> <span id="panel-filename">filename.txt</span></div>
                 </div>
                 <hr class="panel-divider">

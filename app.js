@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Application State
     const state = {
-        activeTab: 'chat',
+        activeTab: 'insights', // Insights active on load
         token: localStorage.getItem('token') || null,
         username: localStorage.getItem('username') || null,
         activeConversationId: null,
@@ -12,6 +12,11 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     // DOM Elements
+    const appLoadingScreen = document.getElementById('app-loading-screen');
+    const appContainer = document.getElementById('app-container');
+    const appSidebar = document.getElementById('app-sidebar');
+    const sidebarOverlay = document.getElementById('sidebar-overlay');
+    
     // Auth Panel Elements
     const authOverlay = document.getElementById('auth-overlay');
     const authForm = document.getElementById('auth-form');
@@ -24,7 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnToggleSignup = document.getElementById('btn-toggle-signup');
     let isSignupMode = false;
 
-    // Sidebar Elements
+    // Sidebar & Navigation Elements
+    const btnSidebarCollapse = document.getElementById('btn-sidebar-collapse');
     const btnNewChat = document.getElementById('btn-new-chat');
     const sidebarChatHistory = document.getElementById('sidebar-chat-history');
     const userInitials = document.getElementById('user-initials');
@@ -45,6 +51,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Explorer Elements
     const searchInput = document.getElementById('search-input');
     const filterCompany = document.getElementById('filter-company');
+    const filterYear = document.getElementById('filter-year');
+    const filterRoleType = document.getElementById('filter-role-type');
     const filterDifficulty = document.getElementById('filter-difficulty');
     const experiencesGrid = document.getElementById('experiences-grid');
     
@@ -57,8 +65,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const panelRoleInfo = document.getElementById('panel-role-info');
     const panelPackageInfo = document.getElementById('panel-package-info');
     const panelDifficultyBadge = document.getElementById('panel-difficulty-badge');
+    const panelYearBadge = document.getElementById('panel-year-badge');
+    const panelTypeBadge = document.getElementById('panel-type-badge');
     const panelFilename = document.getElementById('panel-filename');
     const panelExperienceText = document.getElementById('panel-experience-text');
+
+    // Data Verification Pane
+    const verifiedSourcesContainer = document.getElementById('verified-sources-container');
 
     // Initialize marked option for safety
     marked.setOptions({
@@ -69,10 +82,11 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // ----------------------------------------------------
-    // Authentication Flow (Frontend State Machine)
+    // Authentication Flow (Prevents Login Page Flash)
     // ----------------------------------------------------
     async function checkAuthentication() {
         if (!state.token) {
+            hideAppLoadingScreen();
             showAuthOverlay();
             return;
         }
@@ -92,19 +106,41 @@ document.addEventListener('DOMContentLoaded', () => {
             setupUserProfile();
             await loadInitialData();
             await loadConversations();
+            
+            // Restore Collapsed Sidebar Preference
+            const isCollapsed = localStorage.getItem('sidebarCollapsed') === 'true';
+            if (isCollapsed) {
+                appSidebar.classList.add('collapsed');
+                appContainer.classList.add('collapsed');
+                const icon = btnSidebarCollapse.querySelector('i');
+                if (icon) icon.setAttribute('data-lucide', 'chevron-right');
+            }
+            
+            showAppContent();
+            activateTab('insights'); // Default landing
         } catch (error) {
             console.error("Auth check failed:", error);
-            // Session expired or invalid token
             logoutUserLocal();
+        } finally {
+            hideAppLoadingScreen();
         }
     }
 
+    function hideAppLoadingScreen() {
+        if (appLoadingScreen) appLoadingScreen.classList.add('hidden');
+    }
+
+    function showAppContent() {
+        if (appContainer) appContainer.classList.remove('hidden');
+    }
+
     function showAuthOverlay() {
-        authOverlay.classList.remove('hidden');
+        if (authOverlay) authOverlay.classList.remove('hidden');
+        if (appContainer) appContainer.classList.add('hidden');
     }
 
     function hideAuthOverlay() {
-        authOverlay.classList.add('hidden');
+        if (authOverlay) authOverlay.classList.add('hidden');
     }
 
     function setupUserProfile() {
@@ -118,6 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
         state.username = null;
         localStorage.removeItem('token');
         localStorage.removeItem('username');
+        if (appContainer) appContainer.classList.add('hidden');
         showAuthOverlay();
     }
 
@@ -140,14 +177,13 @@ document.addEventListener('DOMContentLoaded', () => {
         authErrorMsg.style.display = "none";
     });
 
-    // Form submission (Login / Signup API Calls)
+    // Form submission
     authForm.addEventListener('submit', async (e) => {
         e.preventDefault();
         const username = authUsernameInput.value.trim();
         const password = authPasswordInput.value.trim();
 
         if (!username || !password) return;
-
         const endpoint = isSignupMode ? '/api/auth/signup' : '/api/auth/login';
         
         try {
@@ -162,13 +198,9 @@ document.addEventListener('DOMContentLoaded', () => {
             });
 
             const data = await res.json();
-
-            if (!res.ok) {
-                throw new Error(data.detail || "Request failed");
-            }
+            if (!res.ok) throw new Error(data.detail || "Request failed");
 
             if (isSignupMode) {
-                // If signup completed, auto-switch to Login
                 isSignupMode = false;
                 btnToggleLogin.classList.add('active');
                 btnToggleSignup.classList.remove('active');
@@ -176,7 +208,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 authSubmitBtn.textContent = "Log In";
                 authPasswordInput.value = '';
             } else {
-                // Login success: save token & start application
                 state.token = data.token;
                 state.username = data.username;
                 localStorage.setItem('token', data.token);
@@ -186,6 +217,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 setupUserProfile();
                 await loadInitialData();
                 await loadConversations();
+                showAppContent();
+                activateTab('insights');
             }
         } catch (error) {
             authErrorMsg.textContent = error.message;
@@ -196,7 +229,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Logout Click Action
     btnLogout.addEventListener('click', async () => {
         try {
             await fetch('/api/auth/logout', {
@@ -214,29 +246,44 @@ document.addEventListener('DOMContentLoaded', () => {
     // Tab Navigation Logic
     // ----------------------------------------------------
     const tabMetadata = {
-        chat: { title: "Prep Chatbot", desc: "Ask questions about interview rounds, coding topics, and packages." },
+        chat: { title: "PlacementPulse", desc: "Interactive placement preparation and RAG transcript chatbot." },
         explorer: { title: "Experiences Explorer", desc: "Search and filter placement experiences from 250+ candidates." },
-        insights: { title: "Insights Dashboard", desc: "Aggregated trends, topics, and interview difficulty statistics." }
+        insights: { title: "PlacementPulse", desc: "Insights, Trends, and Placement Analytics." }
     };
+
+    function activateTab(tabName) {
+        navItems.forEach(nav => {
+            if (nav.dataset.tab === tabName) {
+                nav.classList.add('active');
+            } else {
+                nav.classList.remove('active');
+            }
+        });
+        
+        tabPanels.forEach(panel => {
+            if (panel.id === `panel-${tabName}`) {
+                panel.classList.add('active');
+            } else {
+                panel.classList.remove('active');
+            }
+        });
+        
+        tabTitle.textContent = tabMetadata[tabName].title;
+        tabDesc.textContent = tabMetadata[tabName].desc;
+        state.activeTab = tabName;
+        
+        // Close mobile drawer when changing tabs
+        appSidebar.classList.remove('active');
+        if (sidebarOverlay) sidebarOverlay.classList.remove('active');
+
+        if (tabName === 'insights') {
+            renderCharts();
+        }
+    }
 
     navItems.forEach(item => {
         item.addEventListener('click', () => {
-            const targetTab = item.dataset.tab;
-            
-            navItems.forEach(nav => nav.classList.remove('active'));
-            item.classList.add('active');
-            
-            tabPanels.forEach(panel => panel.classList.remove('active'));
-            document.getElementById(`panel-${targetTab}`).classList.add('active');
-            
-            tabTitle.textContent = tabMetadata[targetTab].title;
-            tabDesc.textContent = tabMetadata[targetTab].desc;
-            
-            state.activeTab = targetTab;
-            
-            if (targetTab === 'insights') {
-                renderCharts();
-            }
+            activateTab(item.dataset.tab);
         });
     });
 
@@ -260,6 +307,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             renderExplorerGrid(state.experiences);
             updateDashboardCounters();
+            populateVerifiedSources();
         } catch (error) {
             console.error("Failed to load initial data:", error);
         }
@@ -281,8 +329,20 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    function populateVerifiedSources() {
+        if (!verifiedSourcesContainer) return;
+        verifiedSourcesContainer.innerHTML = '';
+        state.experiences.forEach(exp => {
+            const badge = document.createElement('span');
+            badge.classList.add('verified-badge');
+            badge.innerHTML = `<i data-lucide="file-text"></i> ${exp.source_file}`;
+            verifiedSourcesContainer.appendChild(badge);
+        });
+        lucide.createIcons();
+    }
+
     // ----------------------------------------------------
-    // ChatGPT style Chat Sessions Management
+    // Chat Sessions Management (Rename, Create, Delete)
     // ----------------------------------------------------
     async function loadConversations() {
         try {
@@ -291,10 +351,8 @@ document.addEventListener('DOMContentLoaded', () => {
             });
             const data = await res.json();
             state.conversations = data.conversations;
-            
             renderSidebarHistory();
             
-            // If conversations exist, load the first one by default, otherwise auto-create new one
             if (state.conversations.length > 0) {
                 selectConversation(state.conversations[0].id);
             } else {
@@ -307,7 +365,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderSidebarHistory() {
         sidebarChatHistory.innerHTML = '';
-        
         if (state.conversations.length === 0) {
             sidebarChatHistory.innerHTML = `
                 <div style="font-size: 0.75rem; color: var(--text-muted); padding: 0.5rem; text-align: center;">
@@ -330,25 +387,66 @@ document.addEventListener('DOMContentLoaded', () => {
                     <i data-lucide="message-square"></i>
                     <span class="history-item-title">${conv.title}</span>
                 </div>
-                <button class="history-item-delete" title="Delete Chat">
-                    <i data-lucide="trash-2"></i>
-                </button>
+                <div class="history-item-actions">
+                    <button class="history-item-rename" title="Rename Chat">
+                        <i data-lucide="edit-3"></i>
+                    </button>
+                    <button class="history-item-delete" title="Delete Chat">
+                        <i data-lucide="trash-2"></i>
+                    </button>
+                </div>
             `;
             
-            // Click to select chat session
             item.addEventListener('click', () => selectConversation(conv.id));
             
-            // Click to delete chat session
+            const renameBtn = item.querySelector('.history-item-rename');
+            renameBtn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                renameConversationSession(conv.id, conv.title);
+            });
+            
             const delBtn = item.querySelector('.history-item-delete');
             delBtn.addEventListener('click', (e) => {
-                e.stopPropagation(); // Avoid triggering open
+                e.stopPropagation();
                 deleteConversationSession(conv.id);
             });
             
             sidebarChatHistory.appendChild(item);
         });
-        
         lucide.createIcons();
+    }
+
+    async function renameConversationSession(convId, currentTitle) {
+        const newTitle = prompt("Enter a new title for this chat:", currentTitle);
+        if (newTitle === null) return;
+        const trimmed = newTitle.trim();
+        if (!trimmed) {
+            alert("Title cannot be empty.");
+            return;
+        }
+
+        try {
+            const res = await fetch(`/api/conversations/${convId}/title`, {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${state.token}`
+                },
+                body: JSON.stringify({ title: trimmed })
+            });
+
+            if (!res.ok) throw new Error("Rename failed");
+            
+            const data = await res.json();
+            const conv = state.conversations.find(c => c.id === convId);
+            if (conv) {
+                conv.title = data.title;
+                renderSidebarHistory();
+            }
+        } catch (error) {
+            console.error("Failed to rename conversation:", error);
+            alert("Failed to rename conversation.");
+        }
     }
 
     async function createNewChatSession() {
@@ -365,15 +463,13 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const newConv = await res.json();
             state.conversations.unshift(newConv);
-            
             state.activeConversationId = newConv.id;
             renderSidebarHistory();
             
-            // Clear message feed and render welcome message
             chatMessages.innerHTML = '';
-            appendMessage('system', 'Hi there! I am **PlacementPulse AI**. I have indexed 250+ candidate placement experiences across top tech companies. Ask me anything about their selection processes or question types.');
+            appendMessage('system', 'Hi there! I am **PlacementPulse**. I have indexed 250+ candidate placement experiences across top tech companies. Ask me anything about their selection processes or question types.');
             chatMessages.scrollTop = chatMessages.scrollHeight;
-
+            activateTab('chat');
         } catch (error) {
             console.error("Failed to create new chat session:", error);
         }
@@ -381,8 +477,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function selectConversation(convId) {
         state.activeConversationId = convId;
-        
-        // Highlight active item in sidebar
+        activateTab('chat');
+
         const items = sidebarChatHistory.querySelectorAll('.history-item');
         items.forEach(it => {
             if (it.dataset.id === convId) {
@@ -391,14 +487,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 it.classList.remove('active');
             }
         });
-        
-        // Switch tab to Chatbot automatically
-        const chatTabBtn = document.querySelector('[data-tab="chat"]');
-        if (chatTabBtn && !chatTabBtn.classList.contains('active')) {
-            chatTabBtn.click();
-        }
 
-        // Fetch and load conversation history
         try {
             chatMessages.innerHTML = '<div style="font-size: 0.85rem; color: var(--text-muted); text-align: center; padding: 2rem;">Loading chat history...</div>';
             
@@ -406,20 +495,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 headers: { 'Authorization': `Bearer ${state.token}` }
             });
             const data = await res.json();
-            
             chatMessages.innerHTML = '';
             
             if (data.messages.length === 0) {
                 appendMessage('system', 'This conversation has no messages yet. Send a prompt to get started!');
             } else {
                 data.messages.forEach(msg => {
-                    // Map DB role 'model' to UI class role 'system'
                     const uiRole = msg.role === 'model' ? 'system' : 'user';
                     appendMessage(uiRole, msg.text, msg.citations);
                 });
             }
             chatMessages.scrollTop = chatMessages.scrollHeight;
-            
         } catch (error) {
             console.error("Failed to load conversation history:", error);
             chatMessages.innerHTML = `<div style="font-size: 0.85rem; color: var(--danger); text-align: center; padding: 2rem;">Failed to load chat history: ${error.message}</div>`;
@@ -434,13 +520,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 method: 'DELETE',
                 headers: { 'Authorization': `Bearer ${state.token}` }
             });
-            
             if (!res.ok) throw new Error("Delete failed");
             
-            // Remove from local list
             state.conversations = state.conversations.filter(c => c.id !== convId);
-            
-            // If deleted active conversation, select another one or create new
             if (state.activeConversationId === convId) {
                 state.activeConversationId = null;
                 if (state.conversations.length > 0) {
@@ -456,13 +538,10 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Connect ChatGPT Action Buttons
-    btnNewChat.addEventListener('click', () => {
-        createNewChatSession();
-    });
+    btnNewChat.addEventListener('click', createNewChatSession);
 
     // ----------------------------------------------------
-    // Chat Form Submissions
+    // Chat Submissions & Input Validations
     // ----------------------------------------------------
     chatForm.addEventListener('submit', async (e) => {
         e.preventDefault();
@@ -473,7 +552,6 @@ document.addEventListener('DOMContentLoaded', () => {
         await submitChatMessage(text);
     });
 
-    // Handle suggestion chips
     suggestionChips.forEach(chip => {
         chip.addEventListener('click', () => {
             submitChatMessage(chip.textContent);
@@ -481,20 +559,22 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     async function submitChatMessage(text) {
-        // Ensure an active session exists, else create one first
+        // Alphanumeric verification locally
+        if (!/[a-zA-Z0-9]/.test(text)) {
+            alert("Invalid Input: Emojis and special characters alone are not supported. Please write a query containing letters or numbers.");
+            return;
+        }
+
         if (!state.activeConversationId) {
             await createNewChatSession();
         }
 
-        // Render User Message bubble
         appendMessage('user', text);
-        
-        // Show Bot Typing Indicator
         const loadingId = appendLoadingIndicator();
         chatMessages.scrollTop = chatMessages.scrollHeight;
 
-        // Call backend API
         try {
+            const companyFilter = chatCompanyFilter.value || "";
             const response = await fetch('/api/chat', {
                 method: 'POST',
                 headers: { 
@@ -503,37 +583,31 @@ document.addEventListener('DOMContentLoaded', () => {
                 },
                 body: JSON.stringify({
                     message: text,
-                    conversation_id: state.activeConversationId
+                    conversation_id: state.activeConversationId,
+                    company_filter: companyFilter
                 })
             });
 
             removeLoadingIndicator(loadingId);
+            const data = await response.json();
 
             if (!response.ok) {
-                const errData = await response.json();
-                throw new Error(errData.detail || "Server error");
+                throw new Error(data.detail || "Server error");
             }
 
-            const data = await response.json();
-            
-            // Render Bot Response bubble
             appendMessage('system', data.response, data.citations);
             
-            // Check if conversation title was auto-generated
             if (data.title) {
-                // Update title locally in state and re-render history sidebar list
                 const conv = state.conversations.find(c => c.id === state.activeConversationId);
                 if (conv) {
                     conv.title = data.title;
                     renderSidebarHistory();
                 }
             }
-            
         } catch (error) {
             removeLoadingIndicator(loadingId);
-            appendMessage('system', `⚠️ **Error:** Failed to get response. ${error.message}`);
+            appendMessage('system', `⚠️ **AI Service Notice:** ${error.message}`);
         }
-
         chatMessages.scrollTop = chatMessages.scrollHeight;
     }
 
@@ -581,14 +655,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const metaDiv = document.createElement('div');
         metaDiv.classList.add('message-meta');
         const timeStr = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
-        metaDiv.textContent = `${role === 'user' ? 'You' : 'Placement AI'} • ${timeStr}`;
+        // Standardized brand name to PlacementPulse
+        metaDiv.textContent = `${role === 'user' ? 'You' : 'PlacementPulse'} • ${timeStr}`;
         
         wrapperDiv.appendChild(contentDiv);
         wrapperDiv.appendChild(metaDiv);
-        
         messageDiv.appendChild(avatarDiv);
         messageDiv.appendChild(wrapperDiv);
-        
         chatMessages.appendChild(messageDiv);
         lucide.createIcons();
     }
@@ -622,17 +695,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function removeLoadingIndicator(id) {
         const element = document.getElementById(id);
-        if (element) {
-            element.remove();
-        }
+        if (element) element.remove();
     }
 
     // ----------------------------------------------------
-    // Experience Explorer
+    // Experience Explorer (Filters)
     // ----------------------------------------------------
     function renderExplorerGrid(data) {
         experiencesGrid.innerHTML = '';
-        
         if (data.length === 0) {
             experiencesGrid.innerHTML = `
                 <div style="grid-column: 1/-1; text-align: center; padding: 3rem; color: var(--text-secondary);">
@@ -667,7 +737,6 @@ document.addEventListener('DOMContentLoaded', () => {
             card.addEventListener('click', () => openExperienceDetails(exp.id));
             experiencesGrid.appendChild(card);
         });
-        
         lucide.createIcons();
     }
 
@@ -675,6 +744,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const query = searchInput.value.toLowerCase().trim();
         const selectedCompany = filterCompany.value.toLowerCase();
         const selectedDifficulty = filterDifficulty.value;
+        const selectedYear = filterYear.value;
+        const selectedRoleType = filterRoleType.value.toLowerCase();
         
         const filtered = state.experiences.filter(exp => {
             const matchesQuery = !query || 
@@ -684,16 +755,19 @@ document.addEventListener('DOMContentLoaded', () => {
                 
             const matchesCompany = !selectedCompany || exp.company.toLowerCase() === selectedCompany;
             const matchesDifficulty = !selectedDifficulty || exp.difficulty === selectedDifficulty;
+            const matchesYear = !selectedYear || String(exp.year) === String(selectedYear);
+            const matchesRoleType = !selectedRoleType || String(exp.role_type).toLowerCase() === selectedRoleType;
             
-            return matchesQuery && matchesCompany && matchesDifficulty;
+            return matchesQuery && matchesCompany && matchesDifficulty && matchesYear && matchesRoleType;
         });
-        
         renderExplorerGrid(filtered);
     }
 
     searchInput.addEventListener('input', filterExperiences);
     filterCompany.addEventListener('change', filterExperiences);
     filterDifficulty.addEventListener('change', filterExperiences);
+    filterYear.addEventListener('change', filterExperiences);
+    filterRoleType.addEventListener('change', filterExperiences);
 
     // ----------------------------------------------------
     // Experience Detail Slide-Over Drawer
@@ -705,6 +779,8 @@ document.addEventListener('DOMContentLoaded', () => {
             panelRoleInfo.innerHTML = '<i data-lucide="briefcase"></i> Loading...';
             panelPackageInfo.innerHTML = '<i data-lucide="banknote"></i> Loading...';
             panelDifficultyBadge.textContent = "---";
+            panelYearBadge.textContent = "---";
+            panelTypeBadge.textContent = "---";
             panelFilename.textContent = "---";
             panelExperienceText.textContent = "Fetching complete interview transcript from RAG database...";
             
@@ -718,7 +794,6 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!res.ok) throw new Error("Could not retrieve experience text.");
             
             const doc = await res.json();
-            
             panelCandidateName.textContent = doc.candidate_name;
             panelCompanyBadge.textContent = doc.company;
             panelRoleInfo.innerHTML = `<i data-lucide="briefcase"></i> ${doc.role || 'Software Engineer'}`;
@@ -728,15 +803,15 @@ document.addEventListener('DOMContentLoaded', () => {
             panelDifficultyBadge.classList.add(doc.difficulty);
             panelDifficultyBadge.textContent = doc.difficulty;
             
+            panelYearBadge.textContent = doc.year || "2025";
+            panelTypeBadge.textContent = doc.role_type || "Placement";
             panelFilename.textContent = doc.source_file;
             panelExperienceText.innerHTML = marked.parse(doc.text);
             
             panelExperienceText.querySelectorAll('pre code').forEach((el) => {
                 hljs.highlightElement(el);
             });
-            
             lucide.createIcons();
-            
         } catch (error) {
             console.error(error);
             panelExperienceText.textContent = `Error: Failed to load candidate placement experience. ${error.message}`;
@@ -839,14 +914,14 @@ document.addEventListener('DOMContentLoaded', () => {
                 datasets: [{
                     data: [diffCounts.Easy, diffCounts.Medium, diffCounts.Hard],
                     backgroundColor: [
-                        'rgba(16, 185, 129, 0.6)',
-                        'rgba(245, 158, 11, 0.6)',
-                        'rgba(239, 68, 68, 0.6)'
+                        'rgba(48, 209, 88, 0.6)',
+                        'rgba(255, 214, 10, 0.6)',
+                        'rgba(255, 69, 58, 0.6)'
                     ],
                     borderColor: [
-                        '#10b981',
-                        '#f59e0b',
-                        '#ef4444'
+                        '#30d158',
+                        '#ffd60a',
+                        '#ff453a'
                     ],
                     borderWidth: 1
                 }]
@@ -865,7 +940,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Help Dropdown Toggle logic
+    // ----------------------------------------------------
+    // Help & Responsive Side Drawer Events
+    // ----------------------------------------------------
     const btnHelp = document.getElementById('btn-help');
     const helpMenu = document.getElementById('help-menu');
     if (btnHelp && helpMenu) {
@@ -880,6 +957,38 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Start Auth Checks on Page Load
+    // Sidebar Expand/Collapse Click
+    if (btnSidebarCollapse) {
+        btnSidebarCollapse.addEventListener('click', () => {
+            const collapsed = appSidebar.classList.toggle('collapsed');
+            appContainer.classList.toggle('collapsed');
+            localStorage.setItem('sidebarCollapsed', collapsed);
+            
+            const icon = btnSidebarCollapse.querySelector('i');
+            if (icon) {
+                if (collapsed) {
+                    icon.setAttribute('data-lucide', 'chevron-right');
+                } else {
+                    icon.setAttribute('data-lucide', 'chevron-left');
+                }
+            }
+            lucide.createIcons();
+        });
+    }
+
+    // Mobile Hamburger drawer toggles
+    const btnMobileToggle = document.getElementById('btn-mobile-toggle');
+    if (btnMobileToggle && sidebarOverlay) {
+        btnMobileToggle.addEventListener('click', () => {
+            appSidebar.classList.toggle('active');
+            sidebarOverlay.classList.toggle('active');
+        });
+        sidebarOverlay.addEventListener('click', () => {
+            appSidebar.classList.remove('active');
+            sidebarOverlay.classList.remove('active');
+        });
+    }
+
+    // Run Auth Verification
     checkAuthentication();
 });
