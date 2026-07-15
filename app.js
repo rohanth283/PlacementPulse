@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Sidebar & Navigation Elements
     const btnSidebarCollapse = document.getElementById('btn-sidebar-collapse');
+    const btnDesktopToggle = document.getElementById('btn-desktop-toggle');
     const btnNewChat = document.getElementById('btn-new-chat');
     const sidebarChatHistory = document.getElementById('sidebar-chat-history');
     const userInitials = document.getElementById('user-initials');
@@ -246,7 +247,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Tab Navigation Logic
     // ----------------------------------------------------
     const tabMetadata = {
-        chat: { title: "PlacementPulse", desc: "Interactive placement preparation and RAG transcript chatbot." },
+        chat: { title: "PlacementPulse", desc: "" },
         explorer: { title: "Experiences Explorer", desc: "Search and filter placement experiences from 250+ candidates." },
         insights: { title: "PlacementPulse", desc: "Insights, Trends, and Placement Analytics." }
     };
@@ -450,6 +451,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function createNewChatSession() {
+        // Check if there is already an empty active new chat
+        const activeConv = state.conversations.find(c => c.id === state.activeConversationId);
+        const userMsgs = chatMessages.querySelectorAll('.message.user');
+        if (activeConv && activeConv.title === "New Chat" && userMsgs.length === 0) {
+            if (chatInput) chatInput.focus();
+            activateTab('chat');
+            return;
+        }
+
         try {
             const companyFilter = chatCompanyFilter.value || null;
             const res = await fetch('/api/conversations', {
@@ -958,22 +968,27 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Sidebar Expand/Collapse Click
-    if (btnSidebarCollapse) {
-        btnSidebarCollapse.addEventListener('click', () => {
-            const collapsed = appSidebar.classList.toggle('collapsed');
-            appContainer.classList.toggle('collapsed');
-            localStorage.setItem('sidebarCollapsed', collapsed);
-            
-            const icon = btnSidebarCollapse.querySelector('i');
-            if (icon) {
-                if (collapsed) {
-                    icon.setAttribute('data-lucide', 'chevron-right');
-                } else {
-                    icon.setAttribute('data-lucide', 'chevron-left');
-                }
+    function toggleSidebar() {
+        const collapsed = appSidebar.classList.toggle('collapsed');
+        appContainer.classList.toggle('collapsed');
+        localStorage.setItem('sidebarCollapsed', collapsed);
+        
+        const sideIcon = btnSidebarCollapse ? btnSidebarCollapse.querySelector('i') : null;
+        if (sideIcon) {
+            if (collapsed) {
+                sideIcon.setAttribute('data-lucide', 'chevron-right');
+            } else {
+                sideIcon.setAttribute('data-lucide', 'chevron-left');
             }
-            lucide.createIcons();
-        });
+        }
+        lucide.createIcons();
+    }
+
+    if (btnSidebarCollapse) {
+        btnSidebarCollapse.addEventListener('click', toggleSidebar);
+    }
+    if (btnDesktopToggle) {
+        btnDesktopToggle.addEventListener('click', toggleSidebar);
     }
 
     // Mobile Hamburger drawer toggles
