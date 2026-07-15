@@ -938,20 +938,6 @@ USER QUESTION:
             config=config
         )
         
-        # Log token usage
-        if response and hasattr(response, "usage_metadata") and response.usage_metadata:
-            try:
-                p_tokens = response.usage_metadata.prompt_token_count or 0
-                c_tokens = response.usage_metadata.candidates_token_count or 0
-                t_tokens = response.usage_metadata.total_token_count or 0
-                
-                cursor.execute("""
-                    INSERT INTO token_usage (user_id, prompt_tokens, completion_tokens, total_tokens, model)
-                    VALUES (%s, %s, %s, %s, %s)
-                """, (user_id, p_tokens, c_tokens, t_tokens, "gemini-2.5-flash"))
-            except Exception as usage_err:
-                print(f"[WARNING] Failed to log token usage: {usage_err}")
-        
         citations = []
         for doc in retrieved_docs:
             citations.append({
@@ -964,11 +950,32 @@ USER QUESTION:
             
         citations_json = json.dumps(citations)
         created_at_str = datetime.utcnow().isoformat()
+        
+        # Save model response message first and commit transaction
         cursor.execute("""
             INSERT INTO messages (conversation_id, role, text, citations, created_at)
             VALUES (%s, %s, %s, %s, %s)
         """, (conv_id, "model", response.text, citations_json, created_at_str))
         conn.commit()
+        
+        # Log token usage in a completely separate database transaction block
+        if response and hasattr(response, "usage_metadata") and response.usage_metadata:
+            try:
+                p_tokens = response.usage_metadata.prompt_token_count or 0
+                c_tokens = response.usage_metadata.candidates_token_count or 0
+                t_tokens = response.usage_metadata.total_token_count or 0
+                
+                cursor.execute("""
+                    INSERT INTO token_usage (user_id, prompt_tokens, completion_tokens, total_tokens, model)
+                    VALUES (%s, %s, %s, %s, %s)
+                """, (user_id, p_tokens, c_tokens, t_tokens, "gemini-2.5-flash"))
+                conn.commit()
+            except Exception as usage_err:
+                print(f"[WARNING] Failed to log token usage: {usage_err}")
+                try:
+                    conn.rollback()
+                except:
+                    pass
         
         return JSONResponse(content={
             "response": response.text,
