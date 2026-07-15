@@ -1,0 +1,82 @@
+ 
+VERIZON DATA SERVICES INDIA Pvt Ltd 
+ 
+ 
+Verizon is the #1 wireless provider in the U.S. and a global leader in next 
+generation communications technology, including 5G and the Internet of Things. 
+Verizon’s IT teams in India play a critical role in both the development of new 
+technologies and the day-to-day operation of business. They build systems and work 
+on initiatives to help deliver unmatched digital experiences to consumers and 
+businesses. In short, they are obsessed with everything the digital world has to offer. 
+ 
+ 
+Round 1: Platform - AMCAT 
+ 
+Round 1 was conducted on AMCAT platform which had 4 sections, the test was of 
+2 hours, and a time limit imposed on every section. 
+ Section 1: Quantitative aptitude: 14 questions 
+ Section 2: Logical Reasoning: 12 questions 
+ Section 3: Technical MCQ: 25 questions 
+ Section 4: Coding section: 2 questions. 
+ 
+The first three sections are relatively easy and can be done well with good practice 
+and speed. 
+ 
+Coding Questions was easy and medium level, one based on arrays, and the other on 
+Backtracking. 
+I solved 1 coding question completely and the other passed 11/13 test cases. MCQs 
+went off pretty well. I was shortlisted for the next round along with 18 other 
+students. 
+Tip: Try to solve at least 1 coding question fully and MCQs above average.  
+ 
+Round 2: Technical 
+I was asked to introduce myself and go through my resume. The interviewer asked 
+me to explain my projects. I had mentioned two projects in my resume one was web 
+based and another was ML based  
+The questions were  
+1. What is your Passion?  
+2. Explain the OOPS concepts you have used in your project (they asked more 
+OOPS related questions but I don’t remember) 
+3. What is normalization? 
+4. Why you should normalize? 
+5. How did you use normalization in your project? 
+6. Difference between 2nd and 3rd normalization  
+7. List any 3 SQL queries you used in your project  
+8. How did you test your application? 
+9. Explain the triggers and procedures in your project 
+10. what’s your favorite algorithm in ML 
+11. If given a data set, how can one determine which algorithm to be used for that? 
+12. What Do You Understand by Backpropagation? 
+ 
+Having a good knowledge about your project, OOPS fundamentals and DBMS 
+will be helpful to clear this round.    
+ 
+ 
+HR: 
+ 
+ It was a really easy round which was a phone call interview. 
+ 
+1. Tell me about yourself. 
+2. What do you know about verizon? 
+3. Your Strength and weakness  
+4. How quickly do you adapt to new technology? 
+5. What is the most difficult task you have ever achieved? 
+6. Explain to me a situation where you showcase your leadership abilities?  
+7. Do you have any questions? 
+ 
+ 
+ 
+Topics to be focussed: 
+ 
+ Data structures 
+ OOPS 
+ Database management systems 
+ 
+ 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Name - Dhivya T C 
+Mail id - dhivyatc99@gmail.com 

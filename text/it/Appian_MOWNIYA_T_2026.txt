@@ -1,0 +1,127 @@
+                                                            PLACEMENT EXPERIENCE – APPIAN
+
+NAME: MOWNIYA THANGARAJ
+
+ABOUT THE COMPANY:
+Appian is a software company that automates business processes. The Appian AI-Powered
+Process Platform includes everything you need to design, automate, and optimize even the
+most complex processes, from start to finish. They have offices all over the world and in
+Chennai, India.
+
+CANDIDATE PROFILE:
+Before my campus placements began, I had the opportunity to attend internship interviews
+for Vegrow and Barclays. These experiences boosted my confidence and gave me good
+exposure to handling both technical and behavioural questions in a formal interview setting.
+
+For Appian, I applied for the Product Engineer role, which was a new role introduced by the
+company . I had a keen interest in working in this domain, and my previous interview
+experience helped me stay confident and composed throughout the process.
+
+As for my resume, I made sure it was concise (one page), well-structured, and highlighted my
+projects, skills, and achievements clearly. I included only those technologies and skills I was
+confident about, as I knew interviewers would deep dive into them.
+
+PRELIMINARY ROUND:
+The online assessment had 4 coding questions. I was able to fully solve 3 questions and
+partially solve 1.
+My problem-solving skills and ability to write clean, optimized Java code helped me get
+shortlisted for the interviews.
+
+INTERVIEW ROUNDS:
+
+ROUND 1 – Technical Interview (1 Hour)
+
+  This was a detailed technical discussion focusing primarily on my projects and
+
+resume.
+
+
+
+I was asked to draw the complete architectural diagram and ER diagram of one of
+my key projects.
+
+  The interviewer explored each and every technology mentioned in my resume,
+
+asking me to explain its use and how it fit into the overall project.
+
+  Finally, I was given one DSA problem, which I solved after explaining my thought
+
+process and handling edge cases.
+
+ROUND 2 – behavioural Interview
+
+  The questions revolved around my motivation for choosing the Product Engineer
+
+role and how my skills and background made me a good fit.
+
+
+
+I was asked to provide real-life examples from my academic or project experience to
+justify my suitability.
+
+ROUND 3 – behavioural Interview
+
+  More emphasis was given to communication skills, clarity in expressing my ideas.
+
+  Again, the focus was on “Why Product Engineer?” and “How do you suit this
+
+role?”.
+
+PREPARATION STRATEGY:
+
+  Built my fundamentals in DSA using GeeksforGeeks and LeetCode.
+
+  Practiced problem-solving daily, covering topics like arrays, strings, linked lists,
+
+trees, graphs, searching, and sorting.
+
+  Revised DBMS, OOPS, and OS concepts in depth.
+
+  Prepared a detailed explanation and diagrams for my projects so I could explain
+
+them clearly during interviews.
+
+  Practiced behavioural interview questions to answer confidently and with relevant
+
+examples.
+
+Useful Links:
+
+  Coding: NeetCode, Striver’s SDE Sheet
+
+  DBMS: JavaTpoint DBMS, InterviewBit DBMS
+
+  OS & OOPS: GFG OS Questions
+
+  Aptitude: Indiabix
+
+TIPS:
+
+  Be very clear about your projects — both technically and architecturally.
+
+  Answer behavioural questions with real-life examples, not just theory.
+
+  Don’t panic if a question seems tricky — explain your approach step-by-step.
+
+  Always have questions prepared for the interviewer (about role responsibilities,
+
+project domains, work culture).
+
+  Stay confident and show enthusiasm for the role.
+
+Suggestions:
+
+  Start preparing at least before your internships in the 3rd year.
+
+
+
+Importantly, take the internships seriously and aim to get selected. That
+
+makes you feel less burden in the 7th semester. Even if you don’t get selected,
+
+the preparation will definitely help you.
+
+  Only include what you know in your resume.
+
+  Believe in yourself.. Don’t ever lose hope and Always be confident!
+

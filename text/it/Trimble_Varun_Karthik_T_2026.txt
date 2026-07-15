@@ -1,0 +1,187 @@
+Trimble Placement Experience
+
+-  Varun Karthik T (Batch 2022- 26)
+
+About the Company
+
+Trimble  is  a  global  technology  company  specializing  in  positioning,  navigation,
+and mapping solutions. Founded in 1978, it was among the first to commercialize GPS
+technology  for  civilian  use.  The  company  integrates  various  technologies  like  GPS,
+laser,  optical,  and  inertial  systems  with  software  and  services  to  enhance  productivity
+across different sectors.
+
+Trimble’s solutions are widely used in industries such as construction, agriculture,
+geospatial mapping, and transportation. A core focus of the company is connecting the
+physical and digital worlds to improve efficiency and decision-making.
+
+Previous Experience : I had previously interviewed at SAP Labs, where I was asked
+a  dynamic  programming  problem.  While  I  couldn’t  provide  the  optimal  solution,  I
+successfully answered all the other questions
+
+Trimble Recruitment Process
+
+The recruitment process for the Software Engineer role consisted of one coding
+
+round followed by three interview rounds.
+
+Round 1: Coding Round
+
+The  coding  round  was  conducted  on  the  Codility  platform,  which  featured  a
+
+built-in AI assistant. There were two coding questions.
+
+●  Question  1:  Given  a  string  containing  ‘?’  and  an  integer  ‘k,’  you  can  replace
+each  ‘?’  with any alphabet. Additionally, at most 'k' other characters in the string
+could  be  replaced  to  make  it  a palindrome. The task was to return the resulting
+palindrome if possible; otherwise, return 'NO'
+
+●  Question  2:  Given  an  m  x  n  matrix,  return  the  count  of  possible  sub-matrices
+where  the  sum  of  the  elements  inside the sub-matrix is equal to the sum of the
+elements outside of it.
+
+I  successfully  solved  both  questions  and  submitted  my  solutions  two  minutes
+before  the  deadline.  The  built-in  AI  assistant  on  Codility  helped  me  optimize  my
+approach for the second problem.
+
+Round 2: Technical Interview (60 minutes)
+
+35 people were shortlisted for this round. It was a 1:1, in-person interview held at
+CUIC.  The  interviewer  was  very  calm  and  gave  me  time  to  think,  even  for  simple
+questions.  After  a  discussion about my coding round experience, we moved directly to
+the technical questions. He asked me to write out and explain most of my solutions.
+
+The questions covered the following areas:
+
+●  Data  Structures  &  Algorithms  (DSA):  Luckily,  He  asked  about  the  different
+approaches I knew for calculating a Fibonacci number. I explained the recursive,
+dynamic  programming,  and  iterative  methods.  He  then  asked  me  to  write  all
+three approaches and discuss their respective time and space complexities.
+●  Sorting:  The  interviewer  asked  about  my  favorite  sorting  algorithm.  I  chose
+Merge  Sort,  and  he  then  provided  an  array of about 15 elements, asking me to
+perform  a  step-by-step walkthrough of the sorting process, including a complete
+simulation.
+
+●  Logical  Reasoning:  I  was  given  a  tank  with an unlimited supply of water, a 5L
+
+cup, and a 3L cup. The task was to measure exactly 4L of water.
+
+●  Projects: He asked me to draw a high-level system design for one of my projects
+
+and explain the data flow for a specific feature.
+
+●  Object-Oriented Programming (OOPS): When I mentioned that OOPS was my
+
+favorite subject, he asked the following questions:
+
+○  What is the difference between classes and objects?
+○  What is a singleton class and where is it used?
+○  What are abstract methods?
+
+●  Operating Systems (OS):
+
+○  What is a race condition?
+○  What is the difference between concurrency and parallelism?
+
+●  Database Management Systems (DBMS):
+
+○  What types of databases have you worked with?
+○  What is the difference between PostgreSQL and MongoDB?
+○  Why do we need normalization? What is denormalization?
+○  Why did you choose a particular database for your project?
+○  What is the purpose of Object-Relational Mapping (ORM)?
+
+I was able to answer most of the questions correctly. The questions in this round
+were  not  overly  difficult  and  covered  the  fundamentals  of  all  core  computer  science
+areas. The round ended with me asking the interviewer some questions.
+
+Round 3: System Design and Managerial Round (40-45 minutes)
+
+Around 20 candidates were shortlisted for this round. This round was enjoyable,
+and  the  interviewer  was  very  friendly;  it  felt  more  like  a  casual  chat  than  a  formal
+assessment. He recognized me from the pre-placement talk because I had asked him a
+few questions then.
+
+●  Projects  &  Hobbies:  We  started  with  an  introduction  where  we  discussed  my
+hobby, photography. He then asked me to explain the same project discussed in
+the  previous  round  and  inquired  about  the  different  approaches  my  team  and I
+considered for a particular feature.
+
+●  System  Design:  I  was  asked  to  create  a  system  design  for  a  mall  parking
+
+system.
+
+●  Managerial & Scenario-Based Questions:
+
+○  "If  your  full-time  offer  depended  on  your  internship  performance,  how
+
+would you approach your work during the internship?"
+
+○  "How do you go about learning a new skill?"
+○  "Imagine you are a Trimble employee with 10 years of experience. A new
+problem is presented to all employees, and a fresher's idea is better than
+yours. What would you do?"
+
+○  A follow-up question was: "How do you determine if an idea is good?"
+
+Round 4: HR - Personal Experience Round (30 minutes)
+
+11-13  people  were  shortlisted  for  this  final  round.  The  discussion was centered
+
+around my personal experiences and background.
+
+●  She  asked  about  my  hackathon  experiences,  my  weakness,  and  my  family
+
+background
+
+●  She asked why I chose to study at CEG
+●  She asked a hypothetical question: "If you received another offer, which company
+
+would you choose and why?"
+
+●  The  HR  representative  noticed  that  my  friend  Ajay,  who  is  also  my  hackathon
+teammate,  and  I  had  worked  on  common  projects  and  asked  us  about  our
+shared experiences. (We both ultimately received an offer) .
+
+●  We also discussed my preferred domains of work.
+
+In  the  end,  six  of  us  received  an  offer,  and  I  am  happy  to  be  one  of  them.  The
+interview  process  primarily  focused  on  my  understanding  of  core  concepts,  system
+design capabilities, and the projects I had worked on.
+
+My Preparation Strategy:
+
+●  DSA: I followed Striver A2Z sheet and Neetcode 150 🙏
+●  Core Concepts:  I relied on GeeksforGeeks and my academic coursework.
+●  SQL: I solved some questions on the "SQL 50" list on LeetCode
+●  Projects:  My  deployed  projects  and  hackathon  experience  were  incredibly
+
+helpful during the interviews.
+
+Tips:
+
+●  Don’t  over-exaggerate  your  resume.  Even  if  it’s  minimal,  make  sure  you  truly
+
+understand everything you put on it.
+
+●  Don’t  get  demotivated  if  you don’t get placed early; stay confident and focus on
+
+the process.
+
+●  Don’t  get  distracted  by  the  number  of  problems  solved.  Some  people  find
+patterns  by  solving  just  a few problems, while others need to solve many more.
+Understand who you are and put in effort accordingly.
+
+●  You cannot prepare for everything in just one month before placements; how you
+
+spend your entire time in college will help you in various ways.
+
+●  Meaningful  experiences  from  projects,  hackathons,  and clubs cannot be gained
+at the last minute. My participation in hackathons, in particular, taught me a lot.
+
+By,
+Varun Karthik T
+2022115060
+Email : varunkarthikceg@gmail.com
+LinkedIn : https://www.linkedin.com/in/varun-karthik-t
+Phone : 7708656066
+

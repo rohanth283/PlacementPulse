@@ -1,0 +1,68 @@
+Interview Experience
+
+Name: Balasubramaniam M                                                     Reg No: 2018115018
+
+Email: balasubramaniam082000@gmail.com
+
+Company: Caterpillar India Private Limited
+
+Caterpillar’s recruitment process contains four rounds. Eligible students
+
+are allowed to attend round1 and round2. Based on round1 and round2
+performance, students were shortlisted for Group Discussion. Based on
+performance in GD, interview will be held.
+
+Round 1: Aptitude
+
+It contains quantitative aptitude, verbal and logical reasoning and
+
+technical aptitudes. This round was conducted in AMCAT platform.
+
+Round 2: Coding
+
+Two coding questions were asked. Both the questions belong to easy
+
+category. The questions I got was based on arrays. This round was also
+conducted in AMCAT platform.
+
+Round 3: Group Discussion
+
+The shortlisted students were invited for Group Discussion (GD). GD was
+
+conducted in Microsoft Teams. The shortlisted students were divided into
+groups of 8 or 10. There were around 10 students participating in my group
+and 2 to 3 panel members. Our group was given 2 topics to discuss. Some
+other groups got only 1 topic. The 2 topics given to our group were “Is Gold a
+good investment” and “Strategy or Execution”.
+
+Round 4: Technical Interview
+
+Students who got shortlisted in GD got a call/mail for the interview
+
+process. There were 3 interviewers who interviewed me. Interview was
+conducted in Microsoft Teams.
+
+Initially I was asked to introduce myself. Then, I was asked about the
+areas that I am interested in and the Internship that I have done. Then the
+following questions were asked,
+
+1.  What are the memories that are available in JVM?
+
+2.  State examples, where Heap and Stack memory are used.
+3.  Can a static member function of a base class be overridden?
+4.  If access specifiers are not mentioned to the members of base class, is it
+
+possible to use it in the derived class?
+
+5.  What is a final method?
+6.  Name some of the collections in Java.
+7.  In Collections, the data get stored in the order they are inserted or in a
+
+random manner.
+
+8.  How does hashmap work? How data get stored in hashmap?
+9.  What is Hash Collision and how to eliminate it?
+10. What are exceptions and name some exceptions
+11. Are Exceptions different from Errors? Give an example for Error.
+12. A Coding question: Reverse a given string using recursion.
+

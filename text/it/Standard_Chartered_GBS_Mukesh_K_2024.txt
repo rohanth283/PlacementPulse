@@ -1,0 +1,53 @@
+**Placement Experience**
+
+**Introduction:**
+
+**Name :** Mukesh K
+
+**Branch :** IT
+
+**Graduation Year :** 2024
+
+**Company Placed :** Standard Chartered GBS
+
+**Role :** Development Engineer
+
+**Company Overview:**
+
+**Standard Chartered GBS (Global Business Services)** is a crucial part of Standard Chartered Bank, one of the world's leading international banking groups. GBS supports the bank's operations across the globe, focusing on areas like technology, operations, finance, compliance, and risk management.
+
+**Selection Process:**
+
+**1st Round:**
+
+In the 1st round of online test, we had to solve 2 questions both the questions. I didn’t remember exactly what questions were asked but both were related to dynamic programming. Around 12 members from our department were selected for the 2nd round.
+
+**2nd Round:**
+
+This round happened physically in cuic where the interviewer specifically asked about the projects mentioned in the resume. Actually I was quite nervous in the first round to be honest. But somehow I managed to answer the questions asked by him. The questions were like, “what is java script and why it is used?”, “Explain about this particular project?”.
+
+**3rd Round:**
+
+This is also the personal interview. After the second round I thought I won’t get selected for the 3rd round as I mentioned I answered in a nervous manner. But I got selected. In this round, the interviewer tested my team management skills. “How do you collaborate with the team?”, “What if your team member is not working properly and you are a team lead how do you manage?”.
+
+Finally he asked to write sql query using joins (I mentioned I’m good at sql). There are two tables employee and department table where department id is the foreign key. He asked me to find the employees with no department. I answered correctly. Then, I asked him a question related to his work. Then, finally I asked my feedback too. He mentioned that you did well.
+
+**HR Round:**
+
+This is just providing our personal information to HR. It hardly went for 2-5 minutes.
+
+Around 7 members from our department got selected for the **internship** and all got the ppo offer. But only 3 of us from our department accepted the offer.
+
+**Tips:**
+
+Constantly do coding in any of the online platforms like leetcode, hackerrank, codecheef.
+
+Start with easy and then gradually progress to medium and hard.
+
+Top companies may go for tough questions but mostly questions will be easy to medium.
+
+Don’t get too stressed for missing companies, obviously with some little efforts you can get placed easily.
+
+Include what you know confidently in the resume. Mostly interviewers won’t prepare questions themselves. Upon seeing your resume they ask questions.
+
+-------------------------------------------- **All the Best!** ---------------------------------------

@@ -1,0 +1,194 @@
+         WEX Interview Experience 
+- 
+Krisna VJ (Batch 2022 - 26) 
+About the Company: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous Experience: 
+I’ve been previously interviewed at, 
+● Barclays (intern) – I directly jumped to the optimal solution instead of providing 
+step-by-step explanations. 
+● Accenture (intern) – Faced an HR interview where the interviewer wasn’t satisfied 
+with my answers. 
+● Infinera (placement) – Answered all questions on Computer Architecture, 
+Assembly Code, OS and the interviewer even appreciated me. During the DSA 
+question, he expected a solution in C++, which I’m not familiar with. 
+ 
+WEX Recruitment Process: 
+1. Round 0 - Online Assessment (offline @CUIC) 
+2. Round 1 - Technical Interview I (~1hr) 
+3. Round 2 - Technical Interview II (~45mins) 
+4. Round 3 - HR Interview (~15 to 20mins) 
+ 
+ 
+WEX Inc. is a global financial technology service provider 
+headquartered in Portland, Maine, offering corporate payment and 
+information management solutions for businesses, particularly in the 
+fleet, travel, and healthcare sectors. Founded in 1983, the company 
+provides payment processing, fleet management, and employee 
+benefit plan administration services globally through its WEX-branded 
+and partner-branded products. WEX's services help streamline 
+operations by automating manual processes and simplifying 
+complexities for businesses worldwide. 
+Round 0: Coding Round 
+ 
+It all happened in a single day - first a PPT presentation, followed by the OA and 
+interview in the afternoon. The coding round was conducted on the Hirepro Platform & 
+consisted of 15 MCQs and 2 Coding questions. 
+ 
+● MCQs - Focused mainly on DSA, DBMS & OS. 
+ 
+● Coding Question 1: (Easy but slightly tricky) 
+ 
+○ Description: Given n & k, find the first n prime numbers that ends with k. 
+Add 2 & 5 to the list and return the answer in sorted order as a space-
+separated string. 
+ 
+○ My solution: Found the first n primes ending with k (which can only be 1, 
+3, 7, or 9), then converted the ArrayList to a TreeSet for sorted insertion, 
+then added 2 and 5, and finally printed them as a String.. 
+ 
+● Coding Question 2: (Medium) 
+ 
+○ Description: For a chessboard of size MxN (with the top cell  at (1,1)) and 
+a bishop is placed at (x,y), find the number of cells that can be visited in k 
+moves. (A bishop can walk through any cells till the boundary in single 
+move) 
+ 
+○ My Solution: Performed a BFS from (x, y). For each diagonal, moved to 
+the boundary in one step while counting it as a single move. For every valid 
+unvisited cell, marked it visited and added it to the queue with moves+1, as 
+long as moves <= k. Finally, counted all visited cells. 
+ 
+○ Similar Question: Total Moves For Bishop 
+ 
+I successfully solved both questions and submitted my solutions ~12 mins before 
+the deadline. Out of 243 candidates (both CEG & MIT combined), 31 were shortlisted for 
+the next round. 
+ 
+ 
+Round 1 (Offline): Technical Round I 
+This was an in-person interview held at CUIC (lasting nearly an hour). For the first 
+5 mins, the interviewer reviewed my OA - asking how I approached the coding round and 
+which language I used.  After a brief discussion, we directly moved on to the technical 
+questions, where I was asked to write and explain most of my solutions. 
+ 
+● I was asked to share my resume first, and then the interview began. 
+● The interviewer asked about my primary language (mine is Java) and requested 
+me to write code and perform a dry run for the given test cases. 
+● No self intro, directly 2 DSA questions 
+○ Maximum subarray sum & return the sub-array. I used Kadane’s algorithm 
+and also kept track of the indices to return the sub-array. 
+○ Multithreading - One thread had to sum the even elements and another the 
+odd elements of an array in parallel. I provided 2 approaches - Creating 2 
+threads using lambda expression in the main method & overriding run() 
+method in 2 diff thread classes. 
+● Next, he asked about my Java knowledge. I said - I mainly work with Java 8, 
+familiar with Collections, but not very experienced with Stream APIs. 
+● Follow-up questions included, 
+○ Which Sort does JAVA use in Arrays.sort() - I said hybrid (Merge sort + 
+Insertion sort), but I was partially wrong. It uses both Dual-Pivot Quick sort 
+& hybrid one. 
+○ Thread vs Runnable, and the role of join() 
+○ Map vs HashMap 
+○ How HashMap works in JAVA - I explained abt hashing & collision handling 
+but realized I had got it the wrong way. 
+● Then some resume-related questions, 
+○ Asked about my hackathon experiences  
+○ What ML models did you use? 
+○ How will you finetune an LLM? 
+● Finally, another simple DSA question, 
+○ Implement a Stack using Queues - I provided a solution with O(1) for push 
+and O(n) for pop. Can also be done vice versa. 
+ 
+I was able to answer most of the questions correctly. The round ended with me 
+asking for feedback, and the interviewer pointed out that I need to strengthen my deep 
+understanding of Java. 
+ 
+ 
+Round 2 (Offline): Technical Round II 
+ 
+The interviewer was very calm and gave me enough time to think, even for simple 
+questions. I formally greeted him & he first introduced himself and briefly explained the 
+tech stack they use. Then, 
+ 
+● He asked me to introduce myself - While I was speaking, he started noting details 
+like my CGPA, coding profiles, and achievements (from my intro and resume). 
+● He asked what my primary language was, I answered JAVA. 
+● He then moved on to a series of questions, 
+○ What do you know abt NoSQL? 
+○ ACID vs BASE properties. 
+○ What do you know about SOLID principles? 
+○ HTTP vs Socket 
+○ RestAPI & common HTTP methods; difference b/w put and patch. 
+○ What are Status codes - I explained the categories (2xx, 3xx, 4xx, 5xx) and 
+their purposes. 
+○ What is 429 status code was - I answered “Too Many Requests” and added 
+that I had used it in one of my projects. 
+● After hearing about the 429 status code, he became curious and asked about the 
+project. I explained it was a microservice project using MERN with Cloudinary for 
+cloud storage. He asked several follow-up questions, 
+○ What is rate limiting? 
+○ Proxy vs Reverse Proxy 
+○ What services are used? How do they communicate? What is MQ? 
+- I explained the data flow from the Auth service to the Upload service and 
+how they communicated using the pub-sub method. 
+○ Why Cloudinary over S3? 
+○ Did you deploy or are you planning to deploy? - I answered that I hadn’t 
+deployed it yet because my primary focus was on design and development. 
+ 
+ 
+Throughout the interview, I got stuck on a few questions (like SOLID principles), 
+he calmly advised me, saying that if I didn’t know the answer, it’s better to simply say “I 
+don’t know” rather than trying to guess. At the end, he asked whether I had any questions 
+for him, I asked about how WEX’s 6 values help while working in a team. 
+ 
+ 
+ 
+Round 3 (Offline): HR Round 
+ 
+I was the first one to enter the HR round. The interviewer introduced herself and 
+briefly explained my role, the company’s location, and other basic details. Then, 
+ 
+● She asked me to introduce myself. 
+● She asked me about my experience in the previous rounds. 
+● She asked about my hackathon experiences, coding profiles and my family 
+background 
+● Apart from studies, what will you do in your free-time? What do you do in 
+college?  
+● What is your role in these clubs? How do you manage your responsibilities? 
+● At the end, I asked her the same question I had asked in the previous round. 
+ 
+ 
+Then she said, “Nice meeting you. Please wait while we discuss with our team”. 
+The results were announced on the same day (around 10pm). In the end, 3 of us received 
+offers, and I am happy to be one of them. 
+ 
+ 
+Tips: 
+● Strong knowledge in DSA, OS, CN, DBMS, and OOPS is required - many 
+resources are available online like Striver’s A2Z sheet, GFG, Youtube, etc.. 
+● Prepare your self-introduction well. Focus on these key areas: your interests, 
+technical skills (tech stacks), relevant projects, and any notable achievements. 
+● Experiences from projects, hackathons, and clubs can’t be gained at the last 
+minute. My participation in hackathons & clubs, in particular, helped me a lot during 
+my interview. 
+● Interviewers consistently noted my understanding of core concepts, system design 
+capabilities, and the way I approached questions. So, be confident and be 
+prepared. 
+● Don’t get demotivated if you don’t get placed early; stay confident and focus on 
+your progress.  
+ 
+Contact Details: 
+● Krisna VJ - https://www.linkedin.com/in/krisna-vj 
+● Mail: vjkrisna995@gmail.com 
+ 
+ALL THE BEST!!! 

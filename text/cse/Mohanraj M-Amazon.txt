@@ -1,0 +1,127 @@
+                 Amazon Interview Experience 
+ 
+Amazon is an American multinational technology company focusing on e-
+commerce, cloud computing, online advertising, digital streaming, and artificial 
+intelligence. It is considered one of the Big Five American technology 
+companies, alongside Alphabet (parent company of Google), Apple, Meta 
+(parent company of Facebook) and Microsoft. It is a product-based company and 
+one of the infamous MAANG companies. 
+ 
+Role Offered: SDE-2m Intern 
+Stipend: 1,10,000 INR + 400 USD per month 
+Sequence of selection: PPT, Online Assessment, Technical Interview 
+ 
+Online Assessment: 
+ 
+It consisted of two coding questions and a work personality test. 
+• Coding Question - 2(A total of 70 minutes) 
+• Personality test – No time constraint (But compulsory to complete) 
+The question pattern for the online assessment would change every year. This 
+year it was only coding round whereas previously they would ask coding 
+questions along with some technical questions. So, prepare yourself for both 
+coding questions and MCQ’s. 
+The online Assessment was conducted in HackerRank platform. 
+ 
+Coding Question 1: 
+Given an array of strings which consists of the names of the websites that a user 
+visits. The task is to return an array of strings in the order such that the websites 
+that are recently visited should appear first and also the array must only contain 
+distinct elements. 
+ 
+Sample Testcase: 
+Str = [“Amazon”, “Facebook”, “YouTube”, “Twitter”, “Facebook”, “Amazon”, 
+“YouTube”] 
+Output:  
+Ans = [“YouTube”, “Amazon”, “Facebook”, “Twitter”] 
+Each got a different set of questions and mostly everything was easy. 
+ 
+Coding Question 2: 
+Given a binary string where some positions are marked as x other than 1’s and 
+0’s. And the defect rate is the number of positions in which the two consecutive 
+characters are different. The task is to minimize the defect rate by filling the 
+positions which are marked as x by either 0 or 1 and return the defect rate. 
+ 
+Sample Testcase: 
+Str = “0100x011x10xx” 
+Output: 4 
+Explanation: 
+Replace the first x by 0, the second x by 1 and the remaining x’s by 0 so you will 
+get “0100001111000” and the number of positions in which the two consecutive 
+characters are different are 4. 
+ 
+Then a personality test was conducted which mostly had questions which was 
+asked to test our thinking ability and how we approach a problem. I don’t think it 
+was included in the marking scheme. 
+ 
+Based on this Online Assessment, 20 people were shortlisted for the next round. 
+ 
+Technical Interview: (1 hour) 
+The interview was conducted in Amazon’s chime platform. We were provided 
+an amazon chime link for the meeting. 
+In the interview, we had an introduction where each of us took a turn introducing 
+ourselves. In this interview, you wouldn’t have any HR round to talk about your 
+strengths. So, when you introduce yourself, tell them your technical strengths and 
+what projects you have worked on. Present yourself in a pleasing way. Then you 
+would be asked to share your screen and use LiveCode to code your questions. 
+1. The first question was to print all the cousins of a given node in a binary 
+tree whose siblings are not prime. 
+The question is similar to the below one: 
+https://www.geeksforgeeks.org/print-cousins-of-a-given-node-in-binary-tree 
+Initially I was asked the approach and then asked to code the same from scratch. 
+I told them the brute force solution and they asked me to optimize it and then I 
+told the optimized answer. Once they were satisfied with my solution they asked 
+me to code the same. Then they enquired me about the time and space 
+complexities. 
+ 
+2. Find an equilibrium index in an array where the sum of elements to the left 
+and right are equal. 
+The question is similar to the below one: 
+https://www.geeksforgeeks.org/equilibrium-index-of-an-array 
+I was asked the approach first and then asked to code the same. This time they 
+asked me to code the brute force solution and then they asked me to optimize the 
+brute force approach and then code the optimized approach for this problem. Then 
+they enquired me about the time and space complexities. 
+With that the interview got over. 
+The result was announced the next day and I was one of the two members who 
+got the offer. 
+ 
+Tips: 
+• Regular 
+practice 
+is 
+important. 
+Solve 
+questions 
+in 
+Leetcode, 
+GeeksForGeeks and HackerRank. 
+• I followed C.O.D.E. resources and takeUForward YouTube channel for 
+my preparation on topics like Trees, Graphs, DP and Recursion. 
+• If you are not confident with DBMS, OS and OOPS, then prepare for them 
+simultaneously because you won’t be having much time between the online 
+test and the interview. 
+• Aptitude is as important as DSA. At least start learning aptitude two weeks 
+before your online test. 
+• Even though I was not asked about my projects, in every interview they 
+will ask about your projects, and they might ask you about the database 
+structure and all. So be prepared to answer any questions related to your 
+projects. 
+• For any DSA question give them the brute force approach and don’t jump 
+to the optimized answer directly. The interviewers are mostly interested in 
+your thought process rather than your code. 
+In the end, after all the preparation go through the 14 leadership requirements 
+from Amazon (just in case, interviewer may check) and STAR approach. 
+ 
+All the very best!!! 
+ 
+Mohanraj M 
+CEG CSE’25 
+E-Mail: mohanjeeva18@gmail.com 
+LinkedIn: https://www.linkedin.com/in/mohanraj-m-618902253 
+Mobile: +91 6383717142 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,41 @@
+Interview Experience
+
+Name: S.Koushalya
+Reg No: 2018115051
+Email: shonakya2000@gmail.com
+Company: Citicorp Services India Private Limited
+
+Citicorp’s intern selection process contains three rounds. Eligible students
+are allowed to attend round 1.Based on round 1 performance, students were shortlisted for
+technical interview.
+
+Round 1: Aptitude and Coding
+It contains quantitative aptitude based on fractions,ratios and proportions,etc.. This round was
+conducted in AMCAT platform.There were two Coding questions.
+
+Round 2: Technical Interview
+Students who got shortlisted  got a mail for the interview
+process. There were 2 interviewers who interviewed me. Interview was
+conducted in SmartMeet. (The link will be sent to mail)
+The following questions were asked,
+These were the Questions we were asked  as far as I could recollect
+
+1) introduce myself
+2)walk through my resume
+3)what are my interests
+(I said machine learning)
+I was asked why I liked ML
+4)I was asked to explain the need for data structures and how they were used in real life
+5) difference between jvm and jdk
+6)what were my thoughts about cloud computing and its uses
+7)about concepts of oops
+8)how I used oops in projects I had done
+9) why I wanted to work with citi
+
+If our answers are based on understanding of concepts,it would be good
+
+Round 3: HR round, I was asked how I spent the lockdown time ( I had to say what I did other
+than academics related activities)
+
+How I contributed to the society?
+

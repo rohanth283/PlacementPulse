@@ -1,0 +1,71 @@
+INTERVIEW EXPERIENCE
+
+Name:  SANJAYRAM R
+
+Reg no: 2018115095
+
+Email: sanjayramramesh@gmail.com
+
+Company: Caterpillar India Private Limited
+
+    The recruitment process consists of 4 rounds. 1st round is aptitude round, after finishing the
+1st round eligible students appeared for 2nd round which is a coding round, few more students
+were filtered in this round and the selected students appeared for 3rd round which is Group
+Discussion, again the selected students appeared for the final round which is a one to one
+interview HR + Technical.
+
+ROUND 1:
+
+    This is a aptitude round contains, quantitative aptitude, verbal - logical reasoning and technical
+aptitudes conducted in AMCAT platform. This is not a major eliminator round, students who
+answered reasonably well were selected for the round 2. Round 1 was held on 6.00 pm and the
+selected candidates received link for round 2 by 9.00pm on the same day.
+
+ROUND 2:
+
+    This round was held on the same day of round 1 from 9.30pm - 10.30 pm. This is a coding
+round, 2 questions were given one from array and other from string both were easy. I answered
+both the questions and all testcases were passed. This is also in AMCAT platform.
+
+ROUND 3:
+
+    From round 2 shortlisted students were asked to appear for Group Discussion, this is round 3
+which is a major eliminator round. This round was held few days after the round 2 . The
+shortlisted students were grouped into a team of 6 where both CS and IT department from both
+CEG and MIT were there. This round was conducted in MS TEAMS and we were given 2 topics
+1. Globalization is a boon or bane - 15mins 2. Bit coin - 15 mins. Out of 6 students, 2 students
+who spoke well were selected for the next round from each team.
+
+ROUND 4:
+
+    Round 4 is a HR + Technical Interview , which was held on the same day, selected candidates
+received MS TEAMS meeting link. There were 4 interviewers, 2 handled HR and other 2
+handled Technical part, this round went more than 45 mins for me.
+
+   Initially they asked me introduce my self, I spoke all about my school education, my projects,
+my Intern, my area of interest, my hobbies and my achievements. Then They asked me to
+completely explain 2 of my projects, after explaining the 4 interviewers questioned me about all
+the technical stacks in my project. This was the hectic part of the interview because they went
+very deep inside the project, such that only if we had sincerely done the project we could answer
+their questions. Since I did my project in firebase they also completely questioned me about
+firebase. Questions about my project went more than 30 mins. Then they asked me a coding
+question, There is an array of 0s and +ve integers, we need to sort the array such that all the
+0s comes first followed by other elements, but in the same order as if they appear in the
+original array, i.e)only 0s should be sorted other non 0s should not be sorted. 1st I gave a
+brute force approach, but they asked about the time and space complexity and asked me reduce
+it, then i gave an optimized approach and they accepted it.
+
+   Then at last they asked whether I have any questions to ask them, I asked what will be my role
+in Caterpillar and how was my performance and what are the areas I should improve. I
+personally recommend to ask questions back to the interviewer it will always increase the
+probability of getting selected.
+
+NOTE:
+
+    1. Always be confident while speaking to the interviewer, even though u give wrong answer
+don't lose your confidence your confidence plays a major role.
+
+   2. Always have a smile, don't show your emotions to your interviewer.
+
+   3. Be patient and polite and use your words carefully.
+

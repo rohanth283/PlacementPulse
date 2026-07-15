@@ -1,0 +1,162 @@
+Nokia (Infinera)
+
+Salai Kowshikan S
+
+About Nokia:
+
+Inﬁnera,  a  leading  ﬁber  optics  company,  was  acquired  by  Nokia  in  February  2025.
+Nokia’s optical network solutions provide scalable, secure, and reliable connectivity, enabling
+operators to support new services and applications while simplifying network operations.
+
+long-haul,  and  subsea
+The  solutions  span  across  network  edge,  metro,  national,
+deployments,  offering  smarter  and  more  automated  networks  with  reduced  total  cost  of
+ownership  (TCO).  By  supporting  next-generation  services  such  as  5G,  high-speed  packet
+services  (400G,  800G,  and  beyond),  and  advanced  C+L  band  solutions,  Nokia  helps
+customers  stay  competitive  and  transform optical networks into value-driven platforms for
+businesses and end users.
+
+About the role - Software Developer:
+
+●  Work within an Agile development environment.
+
+●  Develop, test, and document software solutions using languages such as C++
+
+and Python.
+
+●  Perform analysis, development, and automation testing of software modules.
+
+●  Support integration of optical software with hardware systems.
+
+●  Conduct basic data analysis and visualization of performance metrics.
+
+●  Participate in code reviews and team discussions to adopt best practices and
+
+contribute ideas.
+
+Preparation Strategy:
+
+●  Learn something new every day – no matter how small. Consistency
+
+compounds over time.
+
+●  Focus on DSA – I primarily used NeetCode 150, which I found quicker to
+complete compared to Striver’s sheet (though both are good resources).
+●  Strengthen SQL skills – solving LeetCode SQL 50 problems was very helpful.
+
+●  Leverage quality content creators – channels like Fireship, Low Level
+
+Learning, The Primeagen, ByteByteGo, and LaurieWired provided concise and
+practical insights.
+
+●  Stay connected to core subjects – Operating Systems, DBMS, Computer
+Networks, and System Design are critical for interviews and real-world
+problem-solving.
+
+●  Step out of your comfort zone – don’t be afraid to experiment and make
+mistakes. College life is the best time to explore, fail fast, and learn from
+those experiences.
+
+●  For Aptitude, use Indiabix and careerride. Watch careeride videos at 2X.
+
+Online Round:
+
+The online round was conducted on DoSelect. It included:
+
+●  35 MCQs on core subjects (Networks, OS, DBMS, Python, C++, Java, OOPs)
+●  10 Aptitude questions (relatively easy)
+●  1 DSA problem – I solved it using a brute-force approach, which still passed
+
+all the test cases.
+
+Interviews:
+
+The number of interviews varied for different candidates.
+
+Technical Interview 1
+
+This round started with questions from my self-introduction and quickly turned into
+a resume deep dive.
+
+I was asked about emulators, virtualization, and cloud computing.
+
+●
+●  To draw ER diagrams for my projects.
+●  Debugging scenario: “A client calls saying the website is not reachable, how
+
+would you approach debugging?”
+
+○
+
+I suggested checking ﬁrewall ACLs, using ping and traceroute to
+examine the topology and hops, and verifying DNS propagation.
+
+●  Difference between types of hypervisors.
+●  Several questions were project-speciﬁc.
+
+Technical Interview 2 (Virtual)
+
+This round was more advanced, often going beyond what we typically cover in class.
+
+●  Debugging in Linux – The expected answer was analyzing a core dump,
+
+which I eventually arrived at.
+
+●  DSA coding task – Reverse a linked list on an online compiler (screen shared).
+The interviewer guided me through missed semicolons and later asked me to
+use pointers to modify the list directly rather than assigning a new head.
+●  Exception handling in C++ – I mistakenly used a ﬁnally block (which exists in
+
+Java, not C++), but the interviewer was understanding.
+●  Diamond problem – Explained in C++, Python, and Java.
+●  Further resume-based questions about my projects.
+●  Behavioral questions:
+
+○  Have you taken up any leadership roles? What was your biggest
+
+challenge?
+
+○  How do you see yourself in 5 years?
+○  Why Nokia?
+
+At the end, when asked if I had any questions, I inquired about Nokia’s sustainability
+initiatives and their research in AI/ML, which showed my prior research and interest
+in the company.
+
+Technical Interview 3
+
+This round was very short (around 3 minutes) and felt like a rapid-ﬁre session:
+
+●  Postgres – Why I chose it for my project over other persistence storage
+
+options.
+
+●  Nginx – Why I used it; I explained its role as a reverse proxy and for SSL
+
+termination. The interviewer further asked about other use cases, where I
+discussed load balancing.
+
+●  Load balancing algorithms – Explained the commonly used approaches.
+●  Scalability – How I would scale my project to handle 100,000 monthly active
+
+users.
+
+●  Language preference – C++ vs. Java, and why I prefer one over the other.
+
+HR Round:
+
+The HR round was more of a formality and casual interaction.
+
+●  Questions revolved around my family background and my thoughts about Bangalore.
+●  The conversation was light and conversational, with no technical depth.
+
+Final Results:
+
+In the end, around 8 candidates were selected:
+
+●  4 – Software Developer (including myself)
+●  2 – Software Test
+●  2 – Hardware Developer
+
+I was offered the role of Software Developer.
+

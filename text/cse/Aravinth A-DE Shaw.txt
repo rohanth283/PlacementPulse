@@ -1,0 +1,228 @@
+D.E. SHAW INTERNSHIP INTERVIEW EXPERIENCE 
+ 
+About the company: 
+The D. E. Shaw Group (DESCO) is a global investment and technology development firm with over 
+$60 billion in investment capital as of March 2024, and offices across North America, Europe, and 
+Asia. Founded in 1988, the firm has earned a strong reputation for innovation, risk management, and 
+the quality of its staff. DESCO maintains a significant presence in capital markets worldwide, investing 
+in diverse companies and financial instruments. D. E. Shaw India (DESIS), established in Hyderabad in 
+1996, is a core member of the Global Information Technology Group, providing research, 
+development, and support for the firm’s global initiatives. 
+Role 
+ : Software Development Engineer in Test – 2 Month summer Internship 
+Stipend : 2,00,000 INR / Month 
+ 
+Selection Process: 
+1. Online Test  
+2. Technical Interview 1  
+3. HR Round  
+4. Technical Interview 2 
+Online Test: 
+• 
+Coding questions: 2 (20 + 30 minutes) 
+• 
+Technical MCQs: 12 (17 minutes) 
+• 
+Aptitude MCQs: 14 (18 minutes) 
+The total test duration is 75 minutes and is conducted on the HackerRank platform in the campus 
+computer center. 
+Coding Questions: 
+1. You have to select a subset of size k from an array of integers and calculate the sum of the 
+absolute differences between all pairs of elements in that subset. Among all possible subsets of size 
+k, you need to find the maximum possible value of this sum. 
+For example, consider the array [2, 3, 1, 2] and k = 3. You generate all possible subsets of size 3, 
+namely [2,1,2], [2,3,1], [2,3,2], and [3,1,2]. For each subset, calculate the sum of absolute differences 
+between all pairs. For [2,3,1], the sum is ∣2−3∣+∣2−1∣+∣3−1∣=1+1+2=4. The maximum value across all 
+subsets is 4. 
+I solved this using a backtracking approach. I generated all possible subsets to find the solution and 
+was able to pass all three example test cases. 
+ 
+2. You have to construct the lexicographically smallest possible string, called post, from a given string 
+s, using two helper strings: pre and post. You are allowed only two operations: 
+1. Take the first character of s and append it to the end of pre. 
+2. Take the last character of pre and append it to the end of post. 
+The goal is to carefully sequence these operations so that once all characters have been moved, the 
+final string post is as small as possible in dictionary order. (Using a Robot to Print the 
+Lexicographically Smallest String - LeetCode) 
+For example, if s = "zza", we want to form the smallest possible string. Step by step: 
+• 
+Start with pre = "" and post = "". 
+• 
+Move all characters from s to pre, so pre = "zza", s = "". 
+• 
+Then, repeatedly move characters from the end of pre to post. First, post = "a" (moving the 
+last character). Then post = "az". Finally, post = "azz". 
+• 
+The result is "azz", which is the lexicographically smallest arrangement achievable under the 
+given rules. 
+I implemented the whole logic using stack and greedy approach but could not pass the example test 
+cases. 
+ 
+Technical and Aptitude Questions 
+The technical questions are from core subjects: DBMS, OOPS, OS, and Networks. They include 
+sample programs for output prediction and error finding. All questions are easy to medium difficulty. 
+The aptitude questions are mathematical and required more effort to solve. The MCQs have negative 
+marking (+3/-1). 
+Out of 511 applicants, 17 students were selected for the interview process. I was one of them. 
+ 
+Technical Interview 1: 1 hour 
+This round was primarily focused on Data Structures and Algorithms (DSA) questions.  
+After I introduced myself, we began the interview. 
+1. You are given a 2D array, distances, of size k×n, where distances[i][j] represents the distance 
+jumped by player j in round i. In the first round, players jump in ascending order of their IDs (0, 1, 2, 
+..., n−1). From the second round onward, the jumping order is decided by the previous round’s 
+results, with the player who made the longest jump going first. The winner is the player who 
+achieves the single longest jump across all rounds. Return the ID of the winner. 
+Input: distances = [[5, 8, 10, 9], [6, 2, 10, 4.5], [11, 9, 5, 6]],  
+Output: 0 
+ 
+Explanation: 
+• 
+Round 1 order = [0, 1, 2, 3] → jumps = [5, 8, 10, 9] → next order = [2, 3, 1, 0] 
+• 
+Round 2 order = [2, 3, 1, 0] → jumps = [10, 4.5, 2, 6] → next order = [2, 0, 3, 1] 
+• 
+Round 3 order = [2, 0, 3, 1] → jumps = [5, 11, 6, 9] 
+Maximum jumps: Player 0 = 11, Player 1 = 9, Player 2 = 10, Player 3 = 9. The winner is Player 0. 
+I was able to solve this problem. First, I paired the first round's distances with their respective player 
+IDs. I tracked the maximum distance of each player in a separate array and then sorted them based 
+on distance to determine the order for the next round. I continued this process for all subsequent 
+rounds. 
+ 
+2. You are given a mountain array arr (which is strictly increasing to a peak, then strictly decreasing). 
+Find the peak element in the array. Your solution must run in O(logn) time complexity. (Peak index in 
+a mountain array - Leetcode)  
+Input: arr = [1, 3, 5, 7, 6, 2] 
+Output: 7 
+I initially provided a linear solution, then explained the binary search approach. Interviewers then 
+asked me to write the binary search code on paper. 
+ 
+3. Given a string of words and a maximum width (maxWidth), you need to write code to format the 
+text such that each line is fully justified. (Text justification - Leetcode) 
+I first provided a solution, and then they continuously added more constraints and different edge 
+cases. This went on for quite some time, with additional constraints, modifications, and logic being 
+added to the code. In the end, I was able to satisfy them with my solution. 
+ 
+4. You are given an employee table with the following columns: empID (primary key), ManagerID. 
+You need to write a query that outputs every pair of employees who have the same manager. 
+I wrote the query using a self-join. 
+ 
+They then moved on to some general computer-related questions. The first question was, "What is a 
+CPU?" I answered this. The next question was, "Why does a computer system become slow or less 
+efficient after long use?" I discussed both general and technical reasons with them. 
+Finally, they asked for a brief introduction in the last few minutes of the interview. 
+ 
+ 
+ 
+HR Round: 25 Minutes 
+This round primarily tested my interest in the job and my project management skills. The questions 
+were related to testing and project management. 
+1. What is your interest in software? 
+2. What is testing? 
+3. If we offered you two opportunities, one in software development and one in testing, which 
+would you choose? 
+4. What is your experience with testing? 
+5. Tell me about your projects. 
+6. What was your role in your projects? 
+7. How would you handle your team if you were a leader? 
+8. How would you handle a slow learner or a beginner on your team? 
+After I answered these questions, HR allowed me to ask some of my own. I asked two questions 
+about the company and the internship. 
+ 
+Technical Round 2: 1 hour 10 minutes 
+This interview began with my introduction. The interviewers asked me some questions from my 
+resume about programming languages. 
+1. What is the difference between a process and a thread?  
+I answered with the definitions and provided some examples. 
+ 
+2. Design a lift system. There are two lifts, and you have to design it in such a way that it can be 
+handled by a single button on each floor. They wanted me to come up with a system and different 
+test cases. 
+I gave a priority queue-based lift system and provided some test cases. They asked me to draw a 
+flowchart for the system's workflow and posed a specific test case to see if my system could handle 
+it. I confirmed that my solution would pass the test.  
+Finally, they asked me to write three more test cases for the same system. After a few minutes of 
+thinking, I provided two. Then, we moved on to the next question. 
+ 
+3. You are given a 2D grid (array) where each cell contains an integer. Your goal is to find the 
+maximum path sum when traveling from the first column to the last column. You can start from any 
+cell in the first column and move to any cell in the last column. (Maximum path sum in matrix - 
+GeeksforGeeks) 
+The allowed movements are: 
+Move directly to the cell to the right, Move diagonally up-right and Move diagonally down-right. 
+Input Format: [[3, 1, 2], [6, 5, 4], [7, 8, 9]] 
+Output: 24 (7 -> 8 -> 9) 
+I gave a recursive solution and discussed its space and time complexity. I was then asked to optimize. 
+After a tip from the interviewer, I was able to give the DP solution. I was asked to write the code for 
+both the recursive and the dynamic programming (DP) solutions on paper. 
+ 
+4. You are given two arrays: a) Weights: An array where each element represents the weight of a 
+stone. b) Directions: An array where each element represents the direction in which the stone is 
+moving ('R' for right and 'L' for left).  
+When stones collide, the stone with the larger weight remains while the lighter stone is destroyed. If 
+both stones have the same weight, both are destroyed. Stones continue to collide and be destroyed 
+until no more collisions occur. Your task is to write a function that returns the indices of the stones 
+that remain after all collisions have been resolved. (Asteroid Collision - LeetCode) 
+Input Format: 
+Weights: [10, 5, 8, 6, 3] 
+Directions: ['R', 'R', 'L', 'L', 'R'] 
+Output: [0, 2] 
+I had not solved the asteroid collision problem before. I came up with an O(n2) solution that involved 
+a loop to check all adjacent nodes for collisions, repeating this process until no more collisions 
+occurred. I was then asked to write the code for this. When I asked for more time to optimize, they 
+told me that this solution was sufficient. 
+Finally, they allowed me to ask some questions. I asked if my explanation was clear or if I needed to 
+improve, and I also asked for their advice on a future career in the software industry. 
+ 
+Then the results came out. Out of the 17 students, 3 students were selected for a summer 
+internship, including me. I was from MIT, and the other two students were from CEG. 
+After completing our two-month internship, we all received Pre-Placement Offer (PPO) from the 
+company. (I'm writing this after the internship has ended.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+General Tips: 
+• 
+Be consistent and stay positive. 
+• 
+You don't have to be perfect - just keep trying. 
+• 
+Struggles and self-doubt are completely normal parts of the learning process. 
+• 
+Learn to communicate clearly. 
+• 
+LeetCode is great for practicing competitive coding, and HackerRank is, too. 
+• 
+NeetCode.io and Striver are free gems for preparation. (Many other resources are available; 
+choose the one that best suits you.) 
+• 
+Revise your core concepts regularly, and practice aptitude questions. 
+ 
+“You don’t have to be selected to prove you’re the best. Just give your best, be proud of 
+your effort, and trust that hard work always pays off. All the best  ” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aravinth Anbazhagan  (2022506035) 
+MIT IT 2026 
+Feel free to reach out :) 
+LinkedIn: Aravinth A | LinkedIn 
+Gmail: aravinthanbazhagan583@gmail.com 

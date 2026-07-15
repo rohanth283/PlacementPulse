@@ -1,0 +1,159 @@
+Shruthi Balaji - Information Technology
+
+Software Engineering Intern ( + Full Time Offer on Performance) - Amazon India, January 2025 - June 2025
+
+## **About Amazon India:**
+
+Amazon is a company guided by four principles - customer obsession rather than competitor focus, passion for invention, commitment to operational excellence and long term thinking. Amazon strives to be Earth’s most customer centric company, Earth’s best employer and Earth’s safest place to work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.
+
+Amazon as a company strives to hire focussed and innovative individuals who fit their ideals of the ‘perfect employer’ as discussed in their Leadership Principles. These principles are what makes Amazon the company of its caliber.
+
+Some of their Leadership Principles are titled as follows:
+
+1. Customer Obsession
+2. Ownership
+3. Invent and Simplify
+4. Are Right, A Lot (focussed on strong judgment and good instincts of a leader)
+5. Learn and Be Curious
+6. Hire and Develop the Best
+7. Insist on the Highest Standards
+8. Think Big
+9. Bias for Action (perform calculated risk taking, speed matters in business)
+10. Frugality
+11. Earn Trust
+12. Dive Deep
+13. Have Backbone; Disagree and Commit
+14. Deliver Results
+15. Strive to be Earth’s Best Employer
+16. Success and Scale Bring Broad Responsibility
+
+Amazon started from a garage, but they are not there anymore. Their impact on the world and the environment is undeniable. Amazon begins each day with a determination to make better, do better and be better for the sake of their customers, their employers and their partners. They lead everyday knowing they can do better tomorrow.
+
+**Revisiting landmark moments in Amazon India’s Journey**
+
+2013 - the amazon.in journey begins
+
+2014 - Amazon makes a long term financial commitment to India
+
+2015 - Amazon’s Great Indian Festival goes live
+
+2016 - Prime launches with free and fast deliveries
+
+2017 - Empowers India’s micro-entrepreneurs and women sellers
+
+2018 - Launches the Hindi shopping experience
+
+2019 - Expands reach with Indian Railways
+
+2020 - Amazon pledges to grow with India
+
+2021- Makes a bet on Indian Startups
+
+2022 - Doubles exports pledge to $20 billion
+
+2023 - Amazon Air gets wings in India
+
+## **Software Engineering at Amazon**
+
+Amazon works on “Service Oriented Architecture,” which is a software design style in which different services interact with each other through different communication protocols. Software engineers at Amazon are responsible for designing, developing and maintaining various software systems and applications that power the company’s e-commerce platform, cloud computing services, and other digital products and services (which have been listed previously)
+
+**Some key responsibilities of Software Engineers at Amazon include:**
+
+* Developing and enhancing the core of Amazon’s websites, mobile apps and other customer-facing applications to improve the user experience
+* Building and scaling the distributed systems and backend infrastructure that support Amazon’s high volume transaction processing, inventory management, fulfillment and logistics operations
+* Designing, implementing and maintaining the software that runs Amazon’s web services including EC2, S3, DynamoDB, and other AWS offerings
+* Creating and optimizing the algorithms and models that power Amazon’s recommendation engines, search functionality and other data-intensive features
+* Integrating new technologies and implementing innovative solutions to address the evolving business requirements and enhance operational efficiency
+* Participating in the full software development life cycle, including requirements gathering, design, coding, testing, deployment and maintenance
+* Collaborating with cross functional teams, including product managers, data scientists, and other engineering disciplines to deliver high quality, customer-centric software.
+
+## **Overview of the Process:**
+
+1. Application to Amazon India in the CUIC Portal.
+2. Pre-Placement Talk
+3. Online Coding Round
+4. Technical Interview
+5. Offer Acceptance
+
+## **Application to Amazon India in the CUIC Portal: Low Effort, But is it Really?**
+
+A short process, often done with excitement and hope. It is preferred that the candidate applies to the job offer as early as possible, as this may be a factor that could account for a candidate’s selection to further rounds.
+
+Normally, it is important to ensure that all the necessary documents have been collected and stored in an easily accessible location, on the personal system. This ensures that if the company (in Amazon’s case, this actually happened) requests the candidate to apply to the company’s job portal, last minute frustrations can be avoided.
+
+The actual application process in the Amazon Job portal was standard, and simple. Not many documents are needed, except for the candidate’s resume.
+
+Note: Although a company like Amazon is vast, and employees’ experiences in the company have been recorded for the aspiring candidate to review, it is very very essential for him or her to thoroughly research the company and the role before applying. “Thorough” research is preferred as many companies may not have enough resources and reviews to read, but this must not stop anyone from trying.
+
+## **Pre-Placement Talk: The Overlooked Samaritan**
+
+The importance of pre-placement talk has not been stressed upon students enough. It is merely described as a session where “people from the company just come and talk,” which in all technicalities, it is. However, these are not just any people. Most of the time, it is alumni from the college, who are now comfortable in the company, taking time out of their day to attend this session. Which essentially means that any and every input they give is valuable, and can be *the factor* that determines whether a candidate gets selected or not.
+
+A company’s Pre- Placement talk is the best place to not only understand the role, but to also understand the work environment, work life balance, and the additional facilities and benefits that the company provides. It is a rare chance to interact with employees from the organization, and understand *what exactly they are looking for in a future employee*.
+
+Amazon’s Pre-Placement talk lasted roughly an hour, and it involved two sessions - the interactive question and answer session, and an additional problem solving session. The interactive session involved two of Amazon’s employees, a Senior Manager at Amazon, and a Software Development Engineer (who also happened to have MIT as his alma mater). They explained various projects at Amazon that they have worked on, their growth trajectory in the company and some interesting insights on projects. They were also able to provide some clarity on what is Amazon’s expectation from a candidate, and stressed on the importance of *Amazon’s Leadership Principles*.
+
+The problem solving session was particularly important, and was conducted by two Software Development Engineers, and involved a discussion around one problem (Link to a similar problem: <https://leetcode.com/discuss/interview-question/2061238/Google-or-Onsite>), where the students were asked to not only find the optimal solution but also code it out on a sheet of paper (The solution to the problem they specifically asked for was Breadth First Search, and it was the optimal solution that ran in linear time)\*
+
+In essence, Pre-Placement talks are very essential to understand what the expectation for an employee is, and can help resolve a lot of internal conflicts on whether or not a company is the right fit for the candidate.
+
+## **Online Coding Round: The Frustrating Part.**
+
+The Online Coding Round, often referred to as “Online Assessment (OA)” is a very mentally taxing round for many candidates. This particular round involves hours of intense preparation to be able to get ahead of the “competition” per say, by solving questions quicker than the majority. It involves practicing Data Structures and Algorithms diligently from platforms like LeetCode, CodeForces, and Hackerrank.
+
+Normally, the selection criteria for the online coding round is a black box. Most candidates are not aware of why exactly they were not selected for the forthcoming rounds, despite performing exceptionally well. For some companies, the criteria involves a combination of a candidate’s grade point average, along with his or her speed (essentially how quickly they finished the assessment). For others, the criteria involves how optimally the solution of the problem has been coded out.
+
+The online assessment involves two components:
+
+1. Coding Problems
+2. Multiple Choice Problems (Technical or Behavioural)
+
+Amazon’s open assessment involved two coding problems, and one behavioral section.
+
+### **Coding problems:**
+
+Difficult coding questions are the heart of Amazon’s online assessment. They are difficult not only in terms of execution but also optimization. Normally, the online assessment involves two coding problems, and can vary from candidate to candidate. They are more often than not Leetcode Medium or Hard problems, and in order to solve them quickly, the candidate must have solved a similar or the exact problem in the past. Brute Force solutions are looked down upon, and based on the programming language that the candidate selects, may not even run successfully. Thus, the only way to pass this round successfully is to be able to understand the algorithm behind the question and tailor it to handle all possible constraints of the problem.
+
+Amazon cares more about the optimality of the solution than completeness. If a Leetcode Hard problem was solved successfully with the most optimum solution, then the chances of the candidate being selected are quite high, despite the performance in the subsequent questions. Amazon values not just correctness and completeness but also the quality of the code. One good quality solution is better than two mediocre ones.
+
+Here is the question everyone asks: How can I get Better? The answer to that is simply practice. Practice, Practice, Practice, with spaced repetition, not just the complex algorithms but also the more fundamental ones. Every complicated problem has a simple solution behind it, the only difficult aspect is to get to the simplest possible solution. Once the solution or solving logic is obtained, coding it is merely about syntactic skills and modularity or reusability of the code (how clean the code is).
+
+### **Behavioral Round:**
+
+Amazon’s Behavioral round involved up to 60 questions to test a candidate’s leadership capability and people skills. It involves questions that are deeply concerned with the candidate’s personality and their outlook on various scenarios.
+
+Each question involved two statements that dictate an outlook of a situation, on either end of a spectrum rated with numbers and a neutral ground. Although the statements may initially seem mutually exclusive and completely unrelated, on further reflection it can be understood that they represent two contradictory personalities.
+
+This round must be taken just as seriously as the coding round, as Amazon takes capability and leadership skills to be just as important, if not more important, compared to technical skills
+
+The aggregate of the two sections took two hours, give or take a few minutes. The entire process is quite tiring, but it is important to remain alert, vigilant and mentally present throughout the duration of the test to perform well.
+
+## **4. Technical Interview: Almost There, but Not Quite.**
+
+Getting selected for the interview is hard. Getting interviewed is even harder. Amazon is known for being particularly rigorous with their interviews, therefore more than technical capabilities, mental presence and strength is extremely essential.
+
+Amazon only had one round of interviews, which was purely technical. The interviewers are normally working as Software Development Engineers themselves, thus making them very very technically competent. Interviewers are often very alert, and even when a candidate thinks they are not paying attention, they are.
+
+The interview was *virtual*, and the candidates were mailed the meeting IDs and a link to Amazon’s LiveCode (an online text editor, where the interviewer can see the solution being typed out as the candidate is typing). The candidates are normally asked to share their screens.
+
+It is important to note that fleeting eyes and looking down during the interview is discouraged. If the candidate requires a piece of paper to work things out in the middle of the virtual interview, he or she must gently request the interviewer if it is okay to use one. This establishes a sense of trust between the interviewer and the candidate, and lets the interviewer know that they are still in control of the situation.
+
+The technical interview had two coding questions, which have been listed here:
+
+1. Palindrome Linked List: This is a classic linked list problem on leetcode, (Link to the problem: <https://leetcode.com/problems/palindrome-linked-list/description/>), which involves- finding the middle of the linked list, reversing the linked list from the middle, and checking simultaneously (with pointers to the start and end of the list) if the condition for a list to be palindrome is satisfied.
+   I had initially given a solution that runs in linear time and occupies constant space. However, despite this being an optimal solution, I was asked to further optimize it by reducing the number of loops from three to two. This involved reversing the links right from the beginning as I was trying to get to the middle of the list. There were a lot of redirects from the interviewer for me to be able to get to this solution, however it is important to note that *interviewers do not mind helping the candidate. There is a difference between receiving hints and receiving the solution.* An interviewer may redirect the candidate once or twice, but if the candidate is unable to start thinking on the right track, he may move onto another question. This is not a good sign. I was able to stay on the right track and get to the solution the interviewer had asked of me, thus finishing the first problem.
+2. Rotting Oranges: This is another classic Breadth First Search problem (Link to the problem: <https://leetcode.com/problems/rotting-oranges/> ). I was able to give the optimal solution immediately, after explaining my understanding of the problem and elaborating on various edge cases. However, as I had mentioned Depth First Search cannot be applied to this problem (this being multisource BFS, and involved finding the minimal time), the interviewer continued to ask me of different data structures, additional storage or any other method that can make DFS optimal for this problem too. I was asked to optimize my solution to this problem at least 3 times further, before I was asked to code it out on the platform.
+
+**Key takeaways:**
+
+* Always explain the actual problem statement to the interviewer, despite knowing or understanding it. This helps the interviewer see if the candidate has actually read through every single constraint, and has visualized all possible edge cases or not.
+* Ask the interviewer to list some additional test cases, if any. This helps clear up any confusions or misunderstanding between the candidate and the interviewer. Try to ask as many questions as possible, if the solution to the problem is not immediately apparent.
+* The candidate is allowed to take time to think in a technical interview. He or she can request the interviewer to allow that. During this time, it is important to voice out the train of thoughts, so the interviewer is able to understand how the candidate thinks. If needed, the interviewer will redirect the candidate to the right track.
+* Always explain the solution, step by step, before coding it out on the platform. Explaining the solution can help the interviewer understand what is to come. It helps them understand whether or not the candidate’s solution is optimal. While coding the problem, it is important to explain every line of code as it is being coded.
+* Never begin with the most optimal solution. Always begin with brute force, and slowly optimize it as time progresses. This helps the interviewer understand that the candidate is capable of finding a solution, then fine tuning it to fit the constraints, and make it optimal in a systematic manner.
+
+## **5. Offer Acceptance: It’s Finally Over.**
+
+The mental war is finally over. The list of candidates have been released, and the only thing left to do is to send you acceptance mail to the required email address of the placement cell, and fill any feedback form if need be.
+
+The entire process of placement is a rite of passage into the real world, and can be both taxing and exhilarating. Mental exhaustion and feeling hopeless is all a part of it, and it is important to understand that there is in fact a light at the end of the tunnel. Continuous practice, mock interviews, and a good support system are essential during this difficult period. Finally, I would like to thank Centre for University Industry Collaboration (CUIC, Anna University) for this life changing opportunity.

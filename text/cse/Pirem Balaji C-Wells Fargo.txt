@@ -1,0 +1,138 @@
+ 
+WELLS FARGO INTERVIEW EXPERIENCE 
+(INTERNSHIP) 
+ 
+  
+ 
+ 
+ 
+About the company:  
+Wells Fargo & Company is an American multinational 
+financial services company with a significant global 
+presence. The company operates in 35 countries and 
+serves over 70 million customers worldwide. Today, 
+Wells Fargo India operates in Hyderabad, Bengaluru, and 
+Chennai. It is considered one of the "Big Four Banks" in 
+the United States, alongside JPMorgan Chase, Bank of 
+America, 
+and 
+Citigroup.  
+ 
+ 
+ ONLINE TEST : 
+This round happened to be in the Aspiring Minds (SHL) platform. The round 
+consisted of 3 sections namely verbal aptitude, business aptitude and coding. Both 
+aptitude sections had MCQs which had to be answered compulsorily and free 
+navigation was prohibited. 
+  
+APTITUDE PART: 
+ 
+Verbal Aptitude: Consists of 12 MCQs to be solved in 15 minutes. They can be 
+on vocabulary (guessing the meaning of the word as per the use in the sentence), 
+comprehension, and some basic grammar corrections. It can be practised from 
+sample questions given on the SHL website or other websites with questions of a 
+similar pattern.  
+ 
+Business Aptitude: Consists of 15 MCQs to be solved in 20 minutes. Completely 
+observation-based and logic-based. Basic mathematics and understanding of profit-
+loss using pie charts and bar graphs is sufficient to answer completely.Application 
+of Venn Diagrams is also Necessary. 
+ 
+ 
+CODING PART:TWO SECTIONS 
+Section 1: 
+ 
+It consisted of only one question and Java is the only available language.The 
+Given Time is 60 Minutes. 
+Question: A well is Dug in Africa which supplies water to N towns.The Length of 
+the Pipes between the Towns is given by a 2D Matrix where the aij represents the 
+Pipe Length  from ith town to jth town in Africa.The well should be connected to all 
+the N towns.Find the minimum possible pipe length to connect all the N towns. 
+Solution: Construct a Minimum Spanning Tree and return the Cost(Pipe Length) 
+of the tree. 
+ 
+Section 2: 
+ 
+It consisted of two questions and many programming languages are 
+supported. Total Time Limit is 45 minutes for this Section. Navigation between 
+these two questions are allowed. 
+Question 1: A Refrigeration company has N cold storage units that preserve orders 
+of the Customers. Given an array of size N denoting the temperature of the order 
+(some material) to be preserved in N cold storage units. Return the No. of orders 
+that needs to be placed in negative temperatures. 
+Solution: Count the no. of Negative Numbers in the array and return it. 
+ 
+Question 2: Given a String and a substring , find the No. of occurrences of the 
+substring in the string. Occurrences are case insensitive. 
+Eg: String: Todd is a toddler. 
+Substring: Todd 
+Here no. of occurrences is 2. (Case insensitive) 
+39 Candidates were shortlisted based on the Online round performance and have 
+been called for the Interview. 
+ 
+ 
+Interview: 
+ 
+It consisted of three rounds. Technical, Technical cum behavioural and HR 
+rounds. 
+ 
+Round 1:  
+ 
+This round was Virtual and went on upto 40-45 minutes. I attended in a 
+room in CUIC with my Laptop. I gave a brief Intro of myself. Then Interviewer 
+asked me whether I knew Python. I replied that I knew only basics. He asked me to 
+write any code in python. He was not satisfied with my code. So I requested him to 
+use any other language. Then I wrote Quicksort algorithm code in notepad. Before 
+finishing up the code, he interrupted me and told me to type the input and the 
+expected output. Next he asked me to give the code structure of Java. Later each 
+and every questions revolved around my resume. He asked about React and its 
+applications. No questions related to my projects were asked. At the end, He was 
+open to questions and told me to prepare for the next set of teams. 
+ 
+Round 2 and 3 were Physical. 
+ 
+Round 2:  
+ 
+I gave a brief Intro. The interviewer asked questions related to DBMS. Only 
+Basic Questions like 
+ What is Database Management Systems? 
+ Types of DBMS 
+ How data are stored? 
+ What is a table?How are data stored in Rows and Columns? 
+ Advantages of DBMS 
+All these questions are asked from my answers of the previous ones. When I 
+mentioned Efficient Data Retrieval for advantages, he asked How efficiency is 
+obtained for which I said about Indexing. Later he asked few questions about 
+indexing. This round lasted for 10 to 15 minutes. 
+ 
+Round 3(HR Round): 
+ 
+Only 11 candidates were shortlisted for the HR Round.HR round was very 
+easy and lasted for 8 minutes. I was the last Candidate on that day. She gone 
+through my Resume. She asked about the level of Difficulty I face being a HR 
+Deputy Director in Leo Club of CEG. I mentioned my interests in Cybersecurity in 
+my Resume. She asked how I got an interest in that domain. Then she asked me 
+about one of the projects in my resume. I gave non-technical aspects of the project 
+(since it was HR round). At the end, when she was open to questions, I asked why 
+she chose Wells Fargo. She told me a big story which lasted more than my 
+interview. 
+ 
+10 students were selected out of 11 who completed all the Rounds for the 
+Internship. I am very happy to be one of them. 
+ 
+  TIPS: 
+ Practice Leetcode questions daily. 
+ For Wells Fargo, Aptitude has more Weightage and is the Tie-
+Breaker. 
+ Be Honest to your Resume. Interviews will revolve around your 
+resume. 
+ Add atleast two Projects in your resume. 
+ Mention your achievements and strong area when you give brief 
+Intro. Actually this helps you drive your Interview. 
+ Whether You know the answer or not ,be confident and try to 
+answer. 
+ALL THE BEST!!! 
+Pirem Balaji C 
+CEG CSE’27 
+Contact No: 7708216539 
+LinkedIn: http://www.linkedin.com/in/pirem-balaji-439a84281  

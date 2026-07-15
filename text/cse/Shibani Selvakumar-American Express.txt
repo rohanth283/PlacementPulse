@@ -1,0 +1,136 @@
+AMERICAN EXPRESS – INTERVIEW EXPERIENCE 
+ 
+ABOUT THE COMPANY: 
+American Express (Amex), founded in 1850 and headquartered in New York City, is one of 
+the world’s leading Multinational Financial Services Corporation, best known for its credit 
+cards, charge cards, traveller’s cheques, and digital payment solutions across more than 110 
+countries. Amex consistently ranks among the world’s most admired companies, 
+distinguished by its focus on premium customers, strong rewards programs, and globally 
+trusted brand. With a reputation for customer-centricity and an employee-friendly culture, it 
+is recognized as a technology-driven organization and a sought-after workplace for tech 
+professionals. 
+ 
+Eligible Branch: UG: CS, EE, EC, EI, AIDS & IT 
+Eligibility Criteria: CGPA 7.0 & above, No current arrear 
+Internship Duration: 8 weeks 
+Stipend: Rs. 1,25,000 
+Job Location: Hybrid – Chennai/Bangalore/Gurgaon 
+Selection Process:  
+ Online Test  
+ Technical Interview  
+ HR Interview 
+ 
+ONLINE ASSESSMENT: 
+Duration: 90 mins 
+The test was conducted on Codility platform with 3 coding questions. 
+1. Graph/Grid pathfinding question similar to 1926. Nearest Exit from Entrance in 
+Maze 
+2. Prefix Sum question, variant of 2391. Minimum Amount of Time to Collect Garbage 
+3. Variant of Maximum Subarray Sum 
+There were example test cases to evaluate your output. However, the score was based on 
+the number of hidden test cases that passed.  
+16 students were shortlisted for the interview. 
+TECHNICAL INTERVIEW 
+Duration: 1 hour 
+The interview was conducted virtually on the Webex platform. The interview started 
+without much introduction, the interviewer directly opened my resume and began asking 
+technical questions related to the skills I had mentioned in the Skills section. Some of the 
+questions I was asked: 
+ Difference between Java and JavaScript 
+ Different libraries in Python and specific libraries used in data analysis 
+ Working of Web Sockets 
+ Many syntax questions on Python, JavaScript 
+ What are decorators in Python and what are they used for? 
+ Difference between the various data types in Java, Python, JavaScript (these are the 3 
+languages I had listed) 
+ What are APIs and Open-Source APIs? 
+As my interviewer was a Data Engineer, many questions were asked from DBMS. 
+ What are the bottlenecks faced when designing a database? 
+ Database tuning/ performance enhancement techniques 
+ What is data warehousing? 
+ What is ETL? 
+ What is database sharding and database partitioning? 
+ Database backup and recovery techniques 
+He then moved on to ask about my projects. He was interested in one particular team 
+project and all questions were based on it. 
+ How we used Google Maps API in it? 
+ How we implemented live coordination between different interfaces? 
+ Why this solution is better than any other existing solution? 
+ How we came up with the idea and how we plan to take forward the project? (It was 
+a project that we planned on giving to the govt.) 
+He was intrigued by our idea and suggested enhancements for the project that we could 
+look into in the future.  
+He then moved on to ask about the trending and currently used technologies in AMEX. 
+ What is GenAI and its influence in fintech? 
+ What is Cloud Computing?  
+ Any idea about cloud-native and on-premise app? 
+ What are Open-Source APIs and have you used any? 
+ How AMEX could use these technologies to advance? 
+He explained how AMEX is currently leveraging these technologies and highlighted about 
+the importance to learn and work on such advancing technologies to stay close with the 
+field. The interview ended with me asking him a couple of questions to which he patiently 
+explained in detail. 
+ What was his role in the company? 
+ What can a fresher expect from AMEX? 
+After the interview, around 10 candidates moved forward to the second round.  
+ 
+HR INTERVIEW 
+Duration: 30 mins 
+My second round of interview was scheduled immediately after my first round. The 
+interview began with my introduction. 
+ Since I had mentioned that I was part of various clubs in college, I was asked what 
+they were and what was my role in them. 
+ I had mentioned about research I was working on and since it was related to the 
+field, I was asked various tricky questions about it. 
+ She then asked about my projects and why we chose specific tech stacks and 
+databases. 
+ What are my hobbies?  
+The entire interview was follow-ups based on what I answered to each question, so be 
+mindful of what you say and avoid mentioning things you don’t have a good idea about. 
+ 
+ 
+TIPS: 
+ Start your preparation early if you can. But even if you begin late, consistency 
+matters way more than speed, so stick to a plan and you’ll be fine. 
+ Don’t waste weeks looking for resources, pick one and trust the process. If you’re 
+unsure, I would recommend you to blindly follow Striver’s A-Z DSA course (safest 
+bet). 
+ Build a good and clean resume. It’s more important than you think, so draft it ahead 
+of your intern season.  
+ Have one good project, it doesn’t need to be flashy but make sure you know its ins 
+and outs before the interview, and can talk about it confidently. 
+ The day before any interview, glance at senior’s placement/intern experience for that 
+company as you can get a good idea of what you can expect.  
+ Even if you don’t know the answers to some questions in interviews, don’t panic, 
+communicate it to them and tell them whatever idea you have about that question. 
+ The most important part is to be confident in your interview. If you don’t feel 
+confident, prepare and practice for interviews with as much importance as you 
+prepare DSA.  
+ Internship season is long, so don’t get discouraged by rejections or compare yourself 
+with others. Be patient but consistent with your preparation. 
+ 
+OUTSIDE-OF-PREP TIPS: 
+ Don’t be shy or hesitant to talk to your seniors about anything intern/prep related, 
+they have been in the exact same place as you. At most times, you can get direct 
+answers from them to things you might have been confusing about for long. 
+ Internships are important, but not the end of the world, there are always better 
+chances. This mindset will help you prepare better with less pressure. 
+ Most importantly, enjoy college. Prep is important but don’t sacrifice every college 
+memory.  
+ 
+Internship season can feel scary, before and during, but nobody ever feels fully ready. We’ve 
+all doubted ourselves, faced rejections, and felt lost. What matters is consistency, patience, 
+and especially bouncing back after those days. 
+One offer is enough to change everything, so don’t stress about others’ journey. Prep smart, 
+stay confident, and don’t forget to enjoy college along the way, these years won’t come 
+back.  
+ 
+All the best for your journey! I’m sure you’ll get there soon! 
+Feel free to reach out anytime! 
+ 
+ 
+ 
+Shibani Selvakumar 
+7358298498 
+LinkedIn - Shibani Selvakumar 
+ 

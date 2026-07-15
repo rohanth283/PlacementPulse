@@ -1,0 +1,66 @@
+ABINITHI R - Information Technology – SAP Labs India
+
+**About the Company**:
+
+SAP Labs India (SLI) is the fastest growing subsidiary of SAP, a multinational company that provides customers with world-class business solutions. Founded in November 1998, SAP Labs India drives SAP's product strategy, is responsible for SAP core solutions and provides product localization and India specific solutions. What is unique to SAP Labs India is that it represents the entire breadth of SAP product portfolio and contributes to SAP flagship products like the Business Technology Platform, SAP S/4 HANA, Financial Management, Supply Chain Management, CRM and Customer Experience, Spend Management, RISE with SAP, Sustainability and Business Networks.
+
+**About the Role**:
+
+No specific role was mentioned earlier. I got to know about my role only after onboarding. I was part of OIL&GAS Field Logistics Team. The Oil & Gas Field Logistics team at SAP plays a crucial role in managing and optimizing the supply chain and logistics operations in the oil and gas industry. Their responsibilities include ensuring the efficient movement of equipment, materials, and personnel to and from oil and gas fields. They help coordinate field operations, manage inventory, and streamline processes using SAP's advanced logistics solutions. The team also focuses on integrating technologies like IoT, machine learning, and analytics to enhance operational efficiency, reduce costs, and improve decision-making in field logistics.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* An Online coding contest in SHL platform
+* Technical Round 1 (Online)
+* Technical Round 2 (Online)
+* HR Round (Online)
+
+**Online coding contest in SHL platform**:
+
+The coding contest was conducted in SHL platform. Online test was so easy to crack. I got two coding questions which were very simple (from arrays and strings).
+
+20 students were shortlisted for interview process.
+
+**TIPS for Online Test:** When you come across easy questions in the test, try to answer them quickly to save time and boost your overall score.
+
+**Technical Round 1 :**
+
+* I was provided with a link to join the interview. Once the interviewer joined, he introduced himself and asked me to do the same. He then started reviewing my resume, inquiring about my familiarity with the programming languages I had listed.
+* I was asked to write a code for reversing a string using Notepad while sharing my screen. I presented several approaches, including slicing, using a stack, and a loop-based method.
+* Since I used Python, he tested my understanding of the language by asking basic questions, such as the difference between a list and a tuple.
+* The conversation then shifted to my internship during my 4th-semester vacation, where I thoroughly explained the project, I worked on.
+* He also asked a few questions related to the technologies I used during that internship.
+
+Finally, he asked if I had any questions for him. The interview lasted for 45 minutes.
+
+**Interview Round 2 (Technical):**
+
+* I was fortunate to be shortlisted for the second round.
+* During the interview, I was asked several questions related to OOP concepts, including explaining the pillars of OOP.
+* The interviewer then challenged me to explain polymorphism and inheritance in a way my grandma would understand, which was a fun way to test my understanding.
+* He also asked me to share my thoughts on the technology behind ChatGPT to gauge my awareness of emerging technologies.
+* We had an engaging conversation on this topic, and I confidently shared all my insights.
+
+This round happened for 45 minutes.
+
+**HR Round:**
+
+I got shortlisted for HR round. It went for about 20 minutes.
+
+HR introduced herself and I was asked to do the same.
+
+I mentioned about my experience in YRC as organiser. She raised few questions like
+
+* + - What are the challenges I faced when organising an event?
+    - How did I rectify those challenges?
+    - How will you manage to relocate if I got shortlisted?
+
+**PREPARE CONFIDENTLY.**
+
+**DON’T LOSE HOPE WITH FAILURES. FAILURE IS THE FIRST STEP OF SUCCESS.**
+
+**DON’T FAIL TO GIVE YOUR BEST.**
+
+**GOOD LUCK!!!**

@@ -1,0 +1,43 @@
+**INTERN DRIVE EXPERIENCE**
+
+**FIDELITY INVESTMENTS**
+
+**Janani S**
+
+**About the Company**
+
+**Fidelity Investments is a leading multinational financial services and fintech company headquartered in Boston, Massachusetts. Founded in 1946, the firm has grown from a traditional mutual fund manager into a diversified financial enterprise, integrating asset management, retirement services, and technology-driven solutions.**
+
+**Overview of the Process**
+
+* **Round 1: Online Assessment**
+* **Round 2: Technical Interview – at CUIC**
+* **Round 3: HR Interview – at CUIC**
+
+**Online Assessment**
+
+**The assessment consisted of three sections: English Proficiency, Technical MCQs, and DSA.**
+
+* **Section 1:
+  Contained questions testing intermediate to advanced language skills.**
+* **Section 2:
+  Technical multiple-choice questions covering topics such as Computer Networks, Operating Systems, Object-Oriented Programming, C++, and Data Structures & Algorithms.**
+* **Section 3:
+  The DSA part was very basic. One of the questions was on strings, and the other was on digit sum.**
+
+**In total, 76 students were shortlisted for the offline interview.**
+
+**Technical Interview**
+
+**The interviewer asked me to choose my favorite project from those mentioned in my résumé. Since I chose my DBMS mini-project, most of the questions were based on DBMS. Toward the end, a few DSA and OOPs questions were also asked. This round lasted for approximately 30 minutes.**
+
+**HR Interview**
+
+**This round focused entirely on social skills. It is important to be confident in the way you express yourself and avoid fumbling with your words. The questions (none of them technical) varied from person to person, so no standard format could be assumed.**
+
+**In the end, 12 students were offered the internship.**
+
+**Tips and Tricks**
+
+* **Always ask questions at the end, and make sure they are at least somewhat unique.**
+* **Don’t pre-plan the questions with your friends; if you end up in the same panel, it could be a nightmare**

@@ -1,0 +1,90 @@
+Interview Experience
+
+Name: Divya Dharshini B
+Reg No: 2018115027
+Mail ID: diyabalakrishnan2001@gmail.com
+Company: Accenture
+
+Accenture-AEH’22 Hiring consists of 3 stages.
+Role- Advanced Application Engineering Analyst.
+CTC-  9.9 LPA (8 Lacs Fixed).
+
+Stage 1:
+Stage 1 consists of two sections - Cognitive and Technical assessment
+followed by a Coding assessment.
+
+Cognitive and Technical assessment:
+Duration: 90 minutes
+Sections: English ability, Critical Reasoning and Problem-solving, Abstract
+reasoning, Pseudo Code, Networking Security and cloud, and at last common
+applications and ms office.
+Totally there were 6 sections and 90 questions in total.
+
+Note: This is an elimination round so try to attend all the sections as much as
+possible. Time won’t be enough to answer all the questions but try to complete
+them because most of the time they consider sectional cut-offs.
+
+Only shortlisted students from this round can able to attend the Coding
+assessment.
+
+Coding assessment:
+Duration: 45 minutes
+The number of questions: 2
+Difficulty level: Easy, Medium.
+
+Questions:
+
+1. Given an array, print the elements in the given range.
+2. Given two linked lists, merge them according to the conditions given
+
+below:
+
+i) First part of the result linked lists consists of even nodes of 1st
+
+linked list.
+
+ii) Second part consists of odd nodes of 2nd linked lists.
+iii) Third part consists of even nodes of 2nd linked list.
+iv) Fourth part consists of odd nodes of 1st linked list.
+
+Note: I solved both the problems and all the test cases were passed. But
+people who have solved one question completely and the other question
+partially also cleared this round and were shortlisted for the next stage.
+
+Stage 2:
+Communicative assessment:
+This assessment is a non-elimination round. An online test to assess your
+communication skills like the pronunciation of words, listening ability,
+vocabulary and fluency in English. The difficulty level increases with time but
+not too hard.
+
+Stage 3:
+Virtual interview:
+After the completion of the previous stage, we received mail about this
+interview after two days. We were asked to block our slot according to our
+convenience. It was a 30 minutes interview. The interviewer asked the
+following questions:
+
+1. Tell me about yourself.
+2. What is the difference between IT and Computer science?
+3. Explain each of the projects mentioned in your resume briefly.
+4. While I was explaining the technologies behind each of my projects, he
+
+interrupted me asked whether I was unsuccessful in any of the
+situations during the development of the project and regained
+confidence and become successful.
+
+5. Then he asked me whether I have attended interviews before that.
+6. Finally, after a couple of general HR questions, the interviewer asked
+whether I have any questions for him and I asked ‘What is the most
+important skill that you are expecting from our side for this role?’, he
+replied me with ‘We just need humans’. We smiled at each other and
+left the meeting.
+
+Note: The questions asked in the interview is completely based on the
+interviewer because I wasn’t asked technical questions but focused mainly on
+my confidence level and passion but many people have been asked technical
+concepts that they have mentioned in their resume.
+
+Smiling and being confident about yourself would mean a lot.
+

@@ -1,0 +1,107 @@
+VISVESSWAR A M - COMPUTER SCIENCE AND
+ENGINEERING DEPARTMENT
+Technology Development Program Associate at Optum
+About the Company:
+Optum, part of the UnitedHealth Group family of businesses, is a leading
+information and technology-enabled health services company, serving
+more than 132 million consumers and delivering the right care when and
+how it’s needed. Optum is dedicated in evolving healthcare so everyone
+can have the opportunity to live their healthiest life.
+About the Role:
+The Technology Development Program (TDP) at Optum is an entry point
+into the world of health technology, providing recent graduates the
+opportunity to gain hands-on experience in developing, implementing,
+and
+supporting
+advanced
+technological
+solutions
+that
+improve
+healthcare services. As a Software Engineering Associate within TDP,
+you’ll contribute to projects across multiple domains, including artificial
+intelligence, data analytics, and application development, all while
+supporting the modernization of healthcare.
+Overview of the Process:
+The selection process consisted of three stages:
+1. Online Test - Involved completing 4 tiers of tasks in Web
+Development with Tech Stack of our choice from the provided options.
+An AI-Chat assisstant was also provided which we could make use of
+when needed.
+2. HR Interview- A brief interview involving questions based on personal
+experiences and interest in Optum.
+3. Technical Interview - Technical skills and project experience
+mentioned in the Resume were discussed in depth and also included a
+few Behavioural questions.
+About 27 students were shortlisted for the In-person Interview process
+held in CUIC.
+HR Interview:
+She Introduced herself.
+Started with info about my nativity and experience so far in clg life.
+Asked about extra curriculars in addition to academic.
+Explained my interest in chess.
+Asked any achievements in chess and asked why not continue it , or take
+it more seriously to which I answered that I focused more on academics.
+Following it she Asked how I would manage multiple tasks when such a
+situation arises.
+Asked about happy and sad memories across the years spent in college.
+Since I mentioned about being part of club, I was asked about overview
+of activities in the club, about the interactions with juniors
+Why did you choose Computer Science in High school and why CSE in
+CEG, why not IT?
+Ended with questions from my side.
+Technical Interview:
+It started with self introduction.
+Followed by questions on Java basics and OOPS .
+Difference between class, abstract class, and interface.
+Explain polymorphism and how run time polymorphism works.
+Then the topic shifted to React.js
+I was asked about virtual DOM, Single Page Application (SPA).
+Why use react and not html+js for dynamic web page?
+What happens when we build a project? What does the build folder
+contain?
+How many HTML files are there in react, how does this html file work in
+react ( it's role - root div )?
+He also asked about the need of backend when we can access databases
+directly from frontend.
+Then he asked about APIs, how it works,
+Followed by what is RESTApi? After answering these questions, he gave
+me an DSA question.
+The question was to find second largest element in an array. I was asked
+to write down my code in java since I picked it earlier as my goto
+language.
+After traversing the input array for my code, he pointed out incorrect
+logic for some case, and after corrections I completed the optimal code
+and he was happy to move on.
+Asked about the different joins and then about the foreign key
+constraints.
+He asked whether I had knowledge about cloud services like AWS, azure
+etc...
+Explain - SAAS, PAAS, IAAS.
+At the end he asked me some behavioural questions -
+Your strongest tech skill,
+How did you manage a situation of difficulty when working in team?,
+How do you learn new technologies ?,
+How will you adapt to latest technologies?,
+Why Optum?,
+Asked me if I had any questions to him.
+The interview ended with few questions from my side, the interviewer
+took time to explain the questions even as the lunch time had passed.
+Result:
+A total of 9 students were selected for the TDP Associate role at Optum.
+Tips:
+Start the preparations early and focus on preparing for both DSA as
+well as Core subjects ( DBMS, OS, Computer Networks).
+I followed strivers-sde-sheet for the preparation. You can also make
+use of the resources provided by ACM CODE.
+Focus on understanding the concepts and practise pattern-specific
+questions on online coding platforms like Leetcode, GFG or any other
+platform of your choice.
+Be consistent in the preparation journey.
+Do research about the company prior to the interviews and prepare
+questions to ask the interviewer.
+Be honest in your Resume and have a good and deep understanding
+on mentioned technical skills.
+Be confident with the answers and answer ‘No’ when questioned on
+unknown topics.
+Contact: visvesswaram@gmail.com

@@ -1,0 +1,75 @@
+ 
+ 
+ 
+ 
+Checktronix India Private Limited 
+ 
+Checktronix India Pvt. Ltd. is an analytics software company that has cracked the genetic code of 
+an ever-changing labor market. Powered by the world’s largest and most sophisticated database of 
+jobs and talent, we deliver real-time data and breakthrough planning tools that inform careers, 
+define academic programs, and shape workforces. 
+It is an oncampus and the recruitment process held for 2 days on virtual. 
+Totally 5 rounds. 
+Round 1: Aptitude and Technical MCQs(Time-60 mins) 
+Totally there were 90 questions, It consists of different topics like OS, DataStructures, c & c++ 
+finding the output for the program, aptitude and english (Synonyms, Antonyms). 
+Round 2: psychometric test 
+It's an psychometric test and design test. In psychometric test they put the slides with fast moving 
+pictures and we have to give short description of that it's about 25 to 30 animation pictures and they 
+put two slides containing six questions to write a short story. In design test they have given five 
+scenarios like (Agriculture crop management, Health Department scenarios, Smart city 
+concepts,.....) . We have to pick any two scenarios and we have write what are the modules we want 
+to have. From that modules we have to draw the diagram. It's our wish we can chose our own like 
+architecture, UML or any it can be(Draw diagram with many modules ) 
+I have solved both questions. So, I got selected for the Interview. 
+ 
+Round 3: Group Discussion 
+I don’t remember the exact topic name, but the topic they were given was easy. 
+ 
+Round 4: (both technical and hr) 
+ 
+1. Introduce your self? 
+2. About family? 
+3. Programming languages mentioned in the resume 
+ 
+3 coding questions were asked : 
+i) Detect cycle in linked list 
+ii) Given a string. For the given string if the adjacent characters are same, then we need to delete 
+both the characters until there are no adjacters are same and print the remaining string. 
+Example :  
+String s=” abbaccd” 
+Answer : d 
+Solution : 
+Using stack we can do it. 
+iii) For this question they haven’t asked code, they just asked logic of solution 
+Question 
+: 
+https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-
+numbers/ 
+ 
+4)Where do you want to see yourself after 5 years?  
+5)Asked demo for the project which I was mentioned in resume. I was explained clearly. 
+6)Do you git? 
+Round 5: (both technical and hr) 
+1) questions related to OS like multi tasking and multi threading 
+2) Questions about core java 
+3) Asked explaination for the algorithem which I was wrote in 2 round 
+4) What are the technologies I know? 
+5) About family? 
+ 
+Topics to be focussed: 
+◆ Data structures 
+◆ Database management systems 
+◆ Operating system 
+◆ Java 
+ 
+Total process was easy. 
+Take away: 
+ 
+Having a good knowlege of basics, coding and confidence will help to be placed in this 
+company. 
+Hope this helps. 
+Thank you and All the Best. 
+ 
+Name : K Venkata Siva Reddy 
+Mail id : kudamalasivareddy@gmail.com 

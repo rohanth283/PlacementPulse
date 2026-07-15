@@ -1,0 +1,203 @@
+YUTHIKSHAA M - INFORMATION TECHNOLOGY
+
+–  SDE INTERN AT ZOOMRX
+
+About the Company:
+
+ZoomRx is a strategic healthcare consulting firm that operates at the intersection
+of data, healthcare, and technology to drive meaningful impact. With a mission
+to  support  innovators  behind  life-changing  therapies,  the  company  combines
+deep  expertise,  a  proprietary  research  platform,  and  a  curated  community  of
+healthcare  providers.  ZoomRx  emphasizes  tighter  collaboration  and  smarter
+processes, focusing on asking the right questions, delivering insightful analyses,
+and  uncovering  truths  within  complex  markets  to  help  clients  make  informed
+decisions and create lasting change in the healthcare industry.
+
+About the role:
+
+Software Development Engineer – Tech at ZoomRx focuses on developing high-
+performance  web  applications  and  APIs.  The  role  involves  collaborating  with
+senior engineers to execute the software development lifecycle (SDLC), writing
+efficient  code,  and  participating  in  code  reviews.  Key  tasks  include  debugging
+software,  documenting  processes,  and  working  with  stakeholders  to  gather
+requirements and design user-friendly interfaces. This position offers the chance
+to  work  with  innovative  technologies  and  contribute  to  impactful  solutions
+aligned with the company’s vision.
+
+Overview of the process:
+
+  Coding test (Online)
+  Technical Interview (Online)
+  HR Interview (Online)
+
+Online coding test:
+Duration: 1 hr 30 mins
+
+It  was  informed  that  the  online  test  would  be  conducted  in  the  morning,
+followed by the technical interview in the afternoon on the same day.
+
+The  online  coding  test  was  conducted  on  iMocha.  There  were  2  components:
+
+1.Multiple Choice Question (Time limit: 30 mins)
+2.Coding Problems (Time limit: 1 hr)
+
+The 25 MCQs included 20 intermediate-level CS questions (DBMS, OOPS, DSA)
+and 5 aptitude questions.
+
+2nd section consisted of 2 coding problems. Both were medium level questions.
+
+1)https://leetcode.com/problems/best-time-to-buy-and-sell-stock-
+ii/description/
+
+2) A 2-D array type problem (little harder than the previous qn).
+
+I completed the test before 25 mins and got selected for the technical interview.
+
+Technical Interview:
+Duration: 2 hrs
+
+For this round, 23 students were shortlisted: 10 in the first batch and 13 in the
+second batch. I was in the 2nd batch.
+
+The interview was conducted via Microsoft Teams, where two panel members
+interviewed me. Questions included are
+
+  Introduce about yourself
+  How  was  your  coding  round?  [They  shared  my  code  of  the  2-D  array
+problem and asked me to explain each line of it. Since it was on the same
+day I done it easily.]
+
+  Gave me 2 coding problems. First one was to find the sum of 2 octal strings
+as  an  octal  string.  I  told  the  approach.  Then  the  2nd  question  is
+https://www.geeksforgeeks.org/print-all-pairs-with-given-
+sum/#expected-approach-using-hash-map-on-time-and-on-space.
+I
+explained  my  approach  before  coding  and  then  started  coding  using
+HashMap with time complexity of O(n^2). They then asked me to optimize
+
+it. I told the solution with O(n) time complexity; didn’t asked me to code
+it.
+
+  Explain your recent project clearly
+  How much would you rate yourself for OOPS, OS, DBMS and DSA?
+  Questions in all four of them like
+
+  OOPS – 4 main concepts’ short explanation, a real-life application
+
+where 4 of them is used altogether
+
+  OS – Deadlocks
+  DBMS – Normalization, 2 SQL questions(One to write query using
+
+JOINS, the other in oral like what will you use? - GROUPBY)
+
+  Data Structures – List all DS you know, difference between Array and
+ArrayList, Types of trees, BST, BFS and DFS, given an example what
+DS will you use? (stack), real-life application of LinkedList (gave me
+clues to find), DS you used in any of your projects
+
+  How will you design an Elevator system using OOP principles? [Discussed
+various  use-cases,  assumptions,  requirements,  class  diagrams  and
+interfaces involved].
+
+  Any questions?
+  What  all  companies  you  attended  interview  before  and  few  of  its
+
+experiences?
+
+I felt like this two-hour session covered a wide range of topics. I tried answering
+most of the questions and even when I struggled in few they helped me. It was
+like a friendly conversation.
+
+9 students were shortlisted for the next round.
+
+HR Interview:
+Duration: 1 hr
+
+It was also a teams meet. This round consisted of both Technical questions and
+HR  questions.  For  some  candidates,  the  round  focused  primarily  on  HR
+questions.
+
+  The  interview  began  with  questions  about  my  native  place  and  current
+
+semester.
+
+  Introduce about yourself
+  Explain your recent project clearly
+
+  What tech stacks you used? What new things have you learnt from your
+
+project?
+
+  Why  you  used MongoDB? Advantage of using MongoDB than  relational
+
+DB. Difference between SQL and NoSQL.
+
+  What are some new trending technologies? What is GPT?
+  In what all ways will you learn any new skill?
+  What all  happens from entering a  URL (eg:  https://www.udemy.com) in
+
+the browser to get a page? What all protocols used?
+
+  Difference between HTTP and HTTPS
+  What is public key cryptography? List some algorithms used in it. Hashing?
+  Why you have taken IT?
+  One thing that you are pride of yourself? What are the steps taken by you
+
+for that?
+
+  If you want to go back and change something in your life, what will it be?
+  One thing that you wish to improve yourself.
+  Tell me about your family.
+  Why you want to join ZoomRx?
+  Any questions?
+  What all companies you attended interview before? He asked about the
+rounds  I  had  undergone,  the  concepts  discussed  during  the  group
+discussion of my previous interview, my points, and the reason that I think
+for my rejections in those.
+
+Finally 3 candidates were selected and I’m one among them.
+
+Tricks that I followed:
+
+  Paying attention during the PPT helped me frame questions to ask during
+
+the interview.
+
+  I completed my online test as soon as possible as mentioned earlier.
+  I  researched  the  company  before  the  tests  and  referred  to  previous
+interview experiences on GFG. From that I came to know that DP problems
+were not much asked in ZoomRx. So, I prepared based on that.
+
+  Revised  the  topics  in  DBMS,  SQL,  OS,  OOPS  and  DSA.  My  previous
+
+interview experiences helped me a lot.
+
+Preparation Strategy:
+
+  I began preparing for placements during my 6th-semester holidays, which
+
+I would not recommend.
+
+  I  used  senior’s  preparation  materials  for  some  concepts  and  practiced
+
+coding in HackerRank and LeetCode.
+
+  Before  any  company’s  interview  I  used  to  refer  senior’s  placement
+experience  for  that  company  (if  any)  or  in  GFG,  Glassdoor  or  other
+websites.
+
+  Even after I faced many rejections, I didn’t lose hope and soon made me
+
+ready taking only the things to improve myself to get selected.
+
+Suggestions:
+
+  Start preparing at least before your internships in the 3rd year, and most
+importantly, take the internships seriously and aim to get selected. That
+makes  you  feel  less  burden  in  the  7th  semester.  Even  if  you  don’t  get
+selected, the preparation will definitely help you.
+
+  Only include what you know in your resume.
+  Believe in yourself.. Don’t ever lose hope and Always be confident!
+

@@ -1,0 +1,13 @@
+**FIDELITY INVESTMENTS**
+
+**ABOUT THE COMPANY**
+
+Fidelity Investments is a leading financial services firm headquartered in Boston, specializing in investment management, retirement services, and brokerage solutions. Founded in 1946, the company offers a broad range of investment products, including mutual funds and ETFs, and provides personalized wealth management services. Known for its emphasis on technology and innovation, Fidelity supports both individual and institutional investors globally. The company is also recognized for its strong corporate culture and commitment to employee development.
+
+**ONLINE TEST**
+
+The online test had a moderate level of difficulty, covering topics such as OOP, DSA, DBMS, OS, and possibly a few networking questions. The multiple-choice questions were manageable if you reviewed your curriculum's syllabus. The two coding questions were relatively straightforward. Unfortunately, I was logged out of the test due to a technical issue before I could access the algorithm section. Since Fidelity examines a broad range of algorithms, regular practice in this area is essential.
+
+**INTERVIEW**
+
+My interview was quite brief. However, it’s important to note that the length and content of interviews can vary depending on the evaluator. During my interview, I was asked to discuss my projects and answer software engineering questions related to recent tech news, such as the blue screen of death. One aspect that distinguished me was the diversity of my projects. Although they were not high-tech, each project addressed a real problem I personally encountered, which earned me recognition.

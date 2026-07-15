@@ -1,0 +1,72 @@
+                                                            
+ 
+INTERNSHIP EXPERIENCE 
+ 
+Accenture is a Fortune Global 500 company and a leading multinational professional services 
+firm that empowers businesses, governments, and organizations to enhance their digital 
+infrastructure, streamline operations, and accelerate growth. Leveraging cutting-edge 
+technology, including cloud, data, and AI, Accenture drives transformative change with 
+strong ecosystem partnerships and unmatched industry expertise. 
+Their services span Strategy & Consulting, Technology, Operations, Industry X, and Song, 
+enabling them to deliver comprehensive solutions at speed and scale. Guided by a culture of 
+shared success and a commitment to creating 360° value, Accenture builds lasting, trusted 
+relationships with its clients worldwide. For more details visit www.accenture.com. 
+Internship Selection Process: 
+The selection process involves four rounds. 
+Round 1: Cognitive and Technical Assessment 
+This round evaluates logical, analytical, and coding skills through a 90-minute test consisting 
+of 90 multiple-choice questions. The sections include, 
+• 
+English Ability 
+• 
+Critical Reasoning and Problem Solving 
+• 
+Pseudocode (determine output from a given pseudocode) 
+• 
+Common Applications and MS Office 
+• 
+Networking Security and Cloud 
+There is no negative marking, but this is an elimination round. Successful candidates receive 
+an email on the same day to proceed to the coding round. 
+Round 2: Coding Assessment 
+This round requires solving two coding problems within 45 minutes using one of the 
+following languages: C, C++, Java, or Python. The questions typically range from simple to 
+medium difficulty, with a focus on topics like vectors. This is also an elimination round, and 
+qualified candidates receive an email about moving to communication assessment. 
+Round 3: Communication Assessment 
+This round, conducted 3–4 days after the coding assessment, evaluates communication 
+skills. This round takes over 25–30 minutes. A calm, noise-free environment is essential as 
+the system detects background sounds. Although it is not an elimination round, strong 
+performance is crucial.  
+ 
+This assessment consists of  
+• Reading: 8 questions 
+• Listen and repeat: 16 questions 
+• Questions (this or that type): 24 questions 
+• Sentence building (listen to jumbled sentence and reform it): 10 questions 
+• Story retelling: 3 questions 
+• Open questions: 2 questions 
+Round 4: Interview  
+     The final round involves selecting an interview slot. The interview is 1-on-1 round and 
+typically lasts 15–20 minutes. Communication skills and confidence plays a major role in 
+interview. The questions asked to me are as follows, 
+1. Introduce yourself. 
+2. Tell me about your project. 
+3. Did you face any conflicts during your project?  
+4. How did you overcome those conflicts? 
+5. What is your least favourite subject? 
+6. Have you interacted with IT professionals? 
+7. If given the chance to interact with IT professionals, what would you ask or learn 
+from them? 
+8. When did you felt that you are failed? 
+9. Do you have any questions for me? 
+Also focus some of the basic foundation topics in computer science. 
+Out of 60-70 students attending interview, 5 got selected for the internship. 
+Take away: 
+Having a good basic knowledge of coding, theoretical concepts, and communication skills 
+helps you to succeed. 
+Hope my experience helps you. 
+Thank you, all the best for your future goals. 
+ 
+Name: KIRUTHIGA P M 
+Email: pmkiruthiga17@gmail.com 

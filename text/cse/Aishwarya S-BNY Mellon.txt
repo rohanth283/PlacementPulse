@@ -1,0 +1,205 @@
+BNY MELLON – INTERNSHIP INTERVIEW EXPERIENCE  
+                                                                            Aishwarya S 2022103037 CSE batch of 2026, CEG 
+About the company  
+BNY is a global financial services company headquartered in New York City. BNY oversees nearly $50 
+trillion in assets for our clients – managing it, moving it, and keeping it safe. For 240 years, they have 
+been creating new solutions that benefit businesses, communities, and people everywhere. It is the 
+world's largest custodian bank and securities services company. The bank's primary functions are 
+managing and servicing the investments of institutions and high-net-worth individuals. Its two 
+primary businesses are Investment Services and Investment Management. The bank's clients include 
+80 percent of Fortune 500 companies. Currently, the company has over 12,000 employees across our 
+three locations: Mumbai, Pune, and Chennai  
+No of Rounds: 3 (Online Test + Technical interview + Technical & HR interview)  
+Stipend: 75,000 INR per month  
+Duration of internship: 8-10 weeks 
+ 
+SCHEDULE: 
+• ONLINE ASSESSMENT (16/08/24) 
+ 
+Coding Round: Conducted in Hacker-rank Website  
+Test Duration: 120 mins Camera On 1 easy, 2 medium and 1 hard question.  
+ 
+ 
+1. BALANCING ELEMENTS  
+When an element is deleted from an array, the higher-indexed elements shift down one 
+index to fill the gap, A “balancing element” is defined as an element that, when deleted 
+from the array, results in the sum of the even-indexed elements being equal to the sum 
+of the odd-indexed elements. Determine how many balancing elements a given array 
+contains.  
+Example: Input: n=5 arr = [5,5,2,8]  
+Output: 2 When the first or second 5 is deleted, the array becomes [5, 2, 5, 8].  
+The sum[even] = 5+5=10 and sum[odd]=-2+ 8-10.  
+No other elements of the original array have that property.  
+There are 2 balancing elements: arr[0] and arr[1]. 
+ 
+              2.MINIMUM FUEL COST 
+                     There are n cars located on a 2 dimensional plane at positions (x[i],y[i]) where 0<=i<=n. 
+                     They need to be parked in a straight line parallel to the x axis with no spaces between  
+                     them. The fuel consumed to move a car is abs(x[finish]-x[start])+abs(y[finish]-y[start]). 
+                      Determine the minimum fuel cost to arrange the cars side by side in a row parallel to the  
+                      X axis  
+                      Example: X=[1,4] , Y=[1,4] Total fuel : 2+3=5 
+ 
+ 
+ 
+3.PRODUCT DEPENDENCY TREE 
+Given a network of product dependencies represented as a tree. The tree consists of 
+treeNodes vertices and the relationships between products are defined by two arrays: 
+treeFrom and treeTo, both of size treeNodes – 1. Thes arrays specify the connections, 
+where treeFrom[i] is connected to treeTo[i]. 
+ 
+For this product dependency tree, the task is to determine the number of triplets of 
+vertices (i ,j ,k) that meet the following conditions : 
+0 <= i <j <k < treeNodes 
+There should be no simple path connecting vertices i, j and k. 
+Due to the potentially large number of triplets, return the answer module ( 10^9 +7) 
+ 
+4.PORTFOLIO BACKTESTING : 
+ 
+                    The traders of Hacker-land have stock prediction model that they want to backtest. 
+                    The predicted profit earned every month by a certain portfolio is given by an array 
+                    pnl of n integers where a negative integer denotes loss.  
+ 
+                   The traders decide to iterate through the months from 1 to n, and if the pnl is positive, 
+                   they add it to their profit and if the pnl is negative, they can either subtract it or skip it.  
+                   The net profit must always be greater than or equal to 0.  
+                    
+                   Given the array pnl and an integer k, find the maximum total profit that can be earned 
+                   by the portfolio after subtracting at least k losses. 
+                   If it is not possible to take at least k losses, report -1 as the answer.  
+ 
+     Example: Suppose n=5, k=2 and pnl=[4, -3, 6, -2, -1]  
+ 
+     The optimal strategy is to add the profits 4 and 6, and the losses [-2, -1] to get a net  
+     profit of 7 which is the maximum possible. 
+ 
+ 
+All the testcases were passed for the first 2 questions  
+10/15 for the 3rd question  
+2/15 for the 4th question  
+ 
+24 Students (CEG and MIT) were selected after the online coding test. 
+The interview was held at CUIC on 17/08/2024 
+ 
+• 
+PPT (PRE-PLACEMENT TALK) - (9.30 – 10.30)  
+The Company People explained us about the work culture and history behind BNY. They told 
+us when was the company started and talked about the founder. 
+How will the intern experience be in BNY? How well you can groom yourself by doing an 
+internship there? Also, the director briefly explained about the company’s ethics and how he 
+started his journey in BNY. Since it is a FINTECH company, He asked whether any of us are 
+familiar with stock marketing.Once the ppt session was ever, we were told to wait for 10-15 
+minutes and we were called for the technical round 1. 
+ 
+• 
+TECHNICAL INTERVIEW – (10.45 – 11.30) 
+There were nearly 5-6 interviewers and 24 students were split up and sent to each room. 
+Fortunately and unfortunately, I was called the first and I went into the room with my 
+resume. The interviewer greeted me and started to see my resume. 
+He told me to give an introduction about myself. 
+I explained my journey from 10th std . I added information about my schooling and why I 
+chose computer science branch.  
+He further asked “Why not IIT and why did u choose CEG? He asked me if I have cleared JEE 
+MAINS”. Moving on to the technical Experience, I explained about the DBMS project which 
+we have developed during our 4th semester as a part of our curriculum. I explained about the 
+tables we have used and drew the ER diagram and explained about all the functionalities 
+(triggers , procedures) we have added in this project. 
+ 
+           Coding questions : 
+a) Write the code snippet for finding the Fibonacci series in all different approaches  
+( Iterative and recursive)  
+b) What are linked list? What are its advantages ? 
+c) Write a code snippet to delete a specific node in a singly linked list . 
+d) To count the number of nodes in a singly linked list. 
+Write all the approaches and explain the code line by line. 
+           He asked me some new unexpected questions. 
+a) What is DNS ? 
+b) Explain me completely how a webpage works? 
+c) Explain the complete process of getting into a particular website from the home 
+page of chrome . As he was interested in this section ,he further added new 
+questions. 
+d) He asked me to explain about cookies and how it works  
+Since I was not completely dealt with this topic, I was unable to answer some of the 
+questions and admitted to him that I will read on this topic in the future . 
+ 
+That’s perfectly fine if you are not able to answer a question, feel free to admit that and 
+move on to the new question. 
+Constantly address your strengths to the interviewer. The interview can totally turn out to be 
+q/a session on what you mention to him/her. 
+ 
+I further started talking about the clubs and organisations I have been part of. 
+As I am part of NSS, I mentioned him about my orphanage experience at (SEVALAYA). 
+It was a coincidence and he informed me that BNY also offers funds to the same orphanage 
+and he was interested in asking about my personal experience in the orphanage and social 
+camps.  
+Moving on he asked me “If I had any dream other than working in a big company by clearing 
+all interviews and asked me to explain what the dream is and how am I working to reach that 
+specific goal.” 
+Finally Asked whether I had any questions to ask him  
+I asked him “How did you feel when you were sitting just like me now during his interview 
+and he shared all his experience.” 
+The interview ended. 
+ 
+Out of 24 students, 10 of them were selected for the next round which was a mix of 
+technical and HR round. 
+ 
+• TECHNICAL INTERVEW + HR INTERVIEW (1.00 – 1.40) 
+The interviewer asked me to give my introduction and also asked me to explain the projects 
+that I have mentioned in the resume. 
+He asked me to explain the DBMS project and asked me if I had deployed my project or not. 
+ 
+Questions about the Project: 
+a) What is the difficulty you faced while developing the project? How did you overcome 
+it? 
+b) What extra special features you have added in your project? 
+c) Is the project have a real - life application and where is it currently being used? 
+d) Explain the functionalities added in the project. 
+e) How much time did you take to develop the project? 
+ 
+Coding Question : 
+Write the full code along with the driver function to detect a loop in linked list  
+The code should pass all the edge cases . 
+Once I wrote the code ,he asked me to explain the code line by line . 
+https://leetcode.com/problems/linked-list-cycle/ 
+ 
+Puzzle Question : 
+https://www.geeksforgeeks.org/puzzle-7-3-bulbs-and-3-switches/ 
+             I came up with a complex solution and he told me to simplify and give an easy solution  
+ 
+         Behavioural Questions: 
+a) What did you to do prove yourself when everyone was not believing in you? 
+b)  If you are a head of 2 organisations, how would you manage yourself and complete the work 
+in both of the sectors and how would you mentally prepare yourself? 
+c) What is the one thing that always pushes you to move forward in life? 
+d) Can you describe an incident where you were faced with a challenge that was beyond your 
+current abilities? How did you approach the situation, and what was the outcome? 
+e) One good reason to hire you? 
+Finally, the interviewer asked me, do you have any questions? I asked about his journey in BNY . 
+ 
+ 
+The interview ended. 
+ 
+And 6 students were offered an internship 
+ 
+PREPARATION TIPS: 
+ 
+I chose C++ for solving problems. 
+DSA : https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/ 
+OS : https://www.geeksforgeeks.org/oops-interview-questions/ 
+DBMS : https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/ 
+OOPS : https://www.geeksforgeeks.org/oops-interview-questions/ 
+ 
+Be Confident on what you put in your resume. Try to understand the question and come up 
+with your solution. If u do not arrive at a solution , feel free to admit to the interviewer and 
+move on to the next question. Try to score up in the next upcoming question . Inform the 
+interviewer about your strong subjects so that he would focus on questioning in that 
+particular subject . Be Clear in your points and try to explain it with a pen and paper in a 
+diagrammatic way.  
+   
+Thanks !. 
+ 
+             AISHWARYA S (CSE P Batch): 2022-2026  
+Department: CSE  
+Contact No: +91 9790526661 
+Linked in  : https://www.linkedin.com/in/aishwarya-senthurpandian-872b3025a/ 
+Email id: aishwaryasenthurpandian@gmail.com 

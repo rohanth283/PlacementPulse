@@ -1,0 +1,59 @@
+Barclays 
+Barclays is a British multinational investment bank and financial services company. Barclays is 
+organized into four core businesses: personal banking, corporate banking, wealth management, 
+and investment management. Barclays Global Service Centre (BGSC), India is a global 
+capability center, supporting Barclays businesses worldwide, delivering innovative end-to-end 
+business solutions in Technology, Operations and Functions. 
+Hiring Role: Analyst 
+The hiring process is divided into 3 Rounds. 
+ Online Test 
+ Technical +Managerial Round 
+ HR Round 
+Online Test: 
+Duration: 1hr 30mins 
+It consists of 30Mcq and 2 Coding Questions. 
+It was conducted on Cocubes Platform. The MCQs had most of the weightage and topics were 
+on C, C++, OOPS, Database Management Systems, Computer Networks and Operating System. 
+Mostly theory questions and some output prediction question. The questions were easy to 
+moderate level. 
+The 2 Coding questions are: 
+1) Array Based: Given an array, for example arr = [“apple”, “orange”,” apple”, “orange”, 
+“grapes”] we have to print “yes” for repeated elements and “No” for non-repeated 
+elements in the array. 
+2) String Based: Given a string, we have to count the numbers and characters in the string. 
+Both the coding questions are straightforward and is not time-consuming. 
+Most of them have solved both the coding question. So, the MCQ part was the decision maker. 
+Nearly 200 students appeared for the online test and 30 got shortlisted for the next round.   
+Technical + Managerial Round: 
+Duration: 30 mins. 
+First 15 minutes for technical question and last 15 minutes for managerial question. 
+It was held on office premises. We were asked to report to the company for the interview 
+process.  
+The interviewer had my resume and asked me the typical “tell me something about yourself”. 
+Then he started asking some technical questions: 
+1) Questions related to my projects which I mentioned in my resume. He asked about the 
+technologies I used in it and what are the challenges I faced during the project phase. 
+2) Question related to data structures and algorithms. I was given a problem and asked to 
+solve it using any of the data structure with less time and space complexity. 
+Then he started asking some managerial questions: 
+1) Scenario Based Questions: Given a scenario like you have a dispute with your project 
+mate for an idea proposal. How will you convince him to accept your idea? 
+2) Behavioral Based Questions:  Given a situation how will you think and react? 
+HR Round: 
+Duration: 15mins 
+First and Foremost, you have to know the Barclays values- RISES. The other interview 
+questions were: 
+1) Tell me about yourself? 
+2) Why Barclays? 
+3) Give some example where will you use Barclays values in Real life? 
+Tips from my side: 
+ Do a good research about the company and its latest news. 
+ Be honest with your resume and thorough with the projects you have mentioned. 
+ Always have a question at the end to ask the interviewer. 
+ Be prepared with some Basic HR questions beforehand. 
+Hope this helps. 
+Thank you and All the Best. 
+Vignesh S 
+vigneshhegvins2000@gmail.com 
+  
+ 

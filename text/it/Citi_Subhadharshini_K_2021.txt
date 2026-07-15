@@ -1,0 +1,88 @@
+INTERVIEW EXPERIENCE
+
+Name: Subhadharshini K
+Reg No: 2018115113
+
+Company: Citicorp Services India Private Limited, Chennai
+
+Month & Year: September 2021
+
+Citicorp’s on-campus recruitment process consisted of 3 rounds: Online Test,
+Technical Interview, and HR Interview. Eligibility for round 1 was based on CGPA. Students
+were shortlisted for interview rounds based on their performance in the previous round.
+
+Round 1: Online Test
+
+The test was conducted on the Aspiring Minds (AMCAT) platform. Duration of the
+
+test was 2 hours. There were 4 sections and each section had its own time limit. There was
+no negative marking.
+
+•  Quantitative Aptitude
+•  Logical Reasoning
+•  Technical MCQ
+•  Coding (2 Questions)
+
+First 2 sections had easy-level questions. Section 3 had questions related to time and
+
+space complexities, OOPs concepts and debugging given code. In section 4, one of the
+coding question was based on string concepts(difficulty: easy) and another was a graph
+question(difficulty: hard). Solving atleast 1 coding question will increase the chances of
+being shortlisted, provided one has a good score in first 3 sections.
+
+Round 2: Technical + HR Interview
+
+Students who got shortlisted for round 2 received a link for the interview. The
+
+interview was conducted on Zoom platform, and there were 2 interviewers present. The
+following were the questions I was asked (as far as I can remember).
+
+1.  Tell us about yourself.
+2.  Walk us through your projects.
+3.  How do you come up with project ideas and how do you choose the domain?
+4.  How is your project different from existing solutions? Given 2 minutes, convince us to
+
+buy your project solution(IoT project).
+5.  What is your favourite technology? Why?
+
+(Further questions on my projects were asked based on my answers)
+6.   What makes you stand apart from other budding software developers?
+7.  What are your areas of improvement?
+8.  How important is presentation skills? Is it something that you need to have for the
+
+rest of your work life?
+
+9.  Do you have any questions?
+
+In the end, I asked a couple of questions regarding my role and career path in Citicorp.
+During this interview, I wasn’t asked to solve any coding question (usually depends on the
+interviewers).
+
+Round 3: HR Interview
+
+Students who got shortlisted for round 3 received a link for the HR interview. The
+interview was conducted on Zoom platform. The following were the questions I was asked.
+
+1.  Introduce yourself.
+2.  Why Citicorp?
+3.  Being an IT student, why do you prefer a financial services company over other
+
+product-based companies?
+
+4.  What is the biggest failure that you have faced so far?
+5.  Do you have any questions?
+
+Personal Tips
+
+1.  Be polite and patient during the interviews. Always wear a smile.
+2.  Try to have a conversation with the interviewer(s), rather than just answering their
+
+questions.
+
+3.  Do not hesitate to ask questions, when given the opportunity.
+
+Best regards,
+
+Subhadharshini K
+(ksubha2706@gmail.com)
+

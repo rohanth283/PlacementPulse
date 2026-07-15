@@ -1,0 +1,188 @@
+Wells Fargo & Co. Interview Experiences (Internship)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Wells Fargo & Co. 
+ 
+Wells Fargo is a major American financial services company headquartered in 
+San Francisco, California. It provides banking, investment, mortgage, and consumer 
+finance services to individuals, businesses, and institutions. Founded in 1852 during the 
+California Gold Rush, Wells Fargo is now among the largest banks in the U.S. by assets 
+and branch network. 
+ 
+Eligibility Criteria 
+• 7.5 & above 
+• No current arrears 
+ 
+Selection Process 
+1. Pre-Placement Talk (Online) 
+2. Online Assessment (Offline at CUIC) 
+3. Technical + HR Interview (Offline at CUIC) 
+ 
+Preparation Overview 
+• Try to solve questions on Leetcode, Hackerrank, GeeksForGeeks to improve your problem-
+solving skills.  
+• I used the NeetCode-150 DSA sheet and Striver’s sheet as well.  
+• Avoid jumping directly to solutions; try solving them on your own first. Memorizing 
+solutions doesn’t help in the long run. 
+• Focus on pattern-based learning. Almost all of the DSA problems will fall under a certain 
+pattern for which solutions will need a similar approach. 
+• Go through common interview questions, and study DSA, OOPS, DBMS, OS, Networks, 
+and SDLC concepts, as well as the fundamentals of at least one programming language. 
+• Be confident in everything you include in your resume. Always be ready to explain your 
+projects with clarity. Never include a topic in your resume or talk about it in the interviews 
+that you are not comfortable with. You will be asked follow-up questions as well, so have a 
+deep understanding of whatever you include in your resume.  
+• Try solving aptitude questions as well. 
+• Don’t get discouraged by failure. I failed one interview, but succeeded the next. 
+ 
+Online Assessment 
+It was conducted on the SHL platform at CUIC. It consisted of 4 sections. 
+ 
+ 
+Section 1: Coding (60 minutes, 1 question) 
+• The driver code wasn’t provided. We were required to code from scratch. 
+• There weren’t any choices for the language. We were asked to code in Java. 
+• The question was a medium-hard graph-based question. 
+• There was a different set of questions. 
+ 
+ 
+ 
+ 
+Question: 
+You are given a set of cities and the cost to reach from one city to another in a matrix (each row is a 
+distance vector of a city). Find the minimum cost to visit every city only once and return to the start 
+city. ( -1 indicates that the city is not reachable) 
+Input: 
+Number of cities: 3 
+Cost matrix: 
+-1 10 50 
+50 -1 10 
+10 50 0 
+Output: 30. We can visit 0->1->2->0 and cost = 10+10+10 = 30. 
+ 
+Out of two test cases, my code passed one. The challenge I faced here wasn’t the problem itself, but 
+the language. Since we studied Java in our 3rd semester, it took me around 40 minutes to recall the 
+syntax and libraries. Later, I read the document where they specified details of the internship and 
+found that they anticipate Java as a compulsory language to be known. This taught me the 
+importance of carefully reading company-specific guidelines before appearing for any online 
+assessments or interviews. 
+ 
+Section 2: Verbal aptitude (15 minutes, 20 questions) 
+• Reading comprehension, detecting what is wrong with the sentence, finding the 
+synonym/antonym, etc. 
+• IndiaBIX has similar questions, which you can use to practice. 
+• This section required basic English knowledge. 
+ 
+Section 3: Business aptitude (25 minutes, 14 questions) 
+• This section contained pie charts, bar graphs, and candlestick graphs interpretation 
+questions. 
+• It also had questions on some basic Math and logic, like ratios, etc. 
+• IndiaBIX provides similar practice questions. 
+ 
+The problem I faced in this section was the time constraint. I read seniors’ experiences, which 
+guided me on what can be asked in this section. Familiarity with basic stock market and finance-
+related terms can also be helpful. 
+ 
+Section 4: Coding (45 minutes, 2 questions, free navigation) 
+• The questions were of easy-medium difficulty. 
+• Each one of us received different questions. 
+• The driver code was provided, and choices for the language as well. 
+ 
+Question 1: Find the duplicates in the array. 
+Question 2: Given a 1D array that represents the state of lamp posts along a street (0-off, 1-on). If 
+the states before and after a particular lamp post are both off then the next day this lamp post will 
+also be turned off. Given such an array and the no of days, find the state of the lamp posts at the 
+end. 
+Input: 
+Array: [0, 1, 1, 0, 1, 0, 0] 
+Days: 2 
+Output: 
+Initial: [0, 1, 1, 0, 1, 0, 0] 
+Day 1: 
+• index 0 → no left neighbor (keep as 0). 
+• index 1 → neighbors = (0,1) → not both 0 → stays 1. 
+• index 2 → neighbors = (1,0) → not both 0 → stays 1. 
+• index 3 → neighbors = (1,1) → not both 0 → stays 0. 
+• index 4 → neighbors = (0,0) → both 0 → becomes 0. 
+• index 5 → neighbors = (1,0) → not both 0 → stays 0. 
+• index 6 → no right neighbor (keep as 0). 
+Result after Day 1: [0, 1, 1, 0, 0, 0, 0] Final result: [0, 1, 1, 0, 0, 0, 0] 
+ 
+39 students were shortlisted for the interview, and I was one among them. 
+ 
+Technical Interview: 
+• This interview round was conducted virtually through a video call at CUIC.  
+• I was asked to give a self-introduction. 
+• The interviewer asked what language I am comfortable with, and I said C++. He asked me 
+OOPS-related questions on inheritance, polymorphism, abstract classes, overloading Vs. 
+overriding specific to C++. 
+• I used SHA-256 in one of my projects, and so he asked me about it. He asked me why I used 
+SHA-256 and asked me to explain it.  
+• I was asked DBMS-related questions, like the difference between relational and document-
+type DB. I used MongoDB in my projects, and so he asked me about its applications and 
+why we use it. He asked me about joins and indices. He asked me in which kind of databases 
+joins and indices are powerful. 
+• He asked me about Semaphore, and its use. I explained that it helps in concurrency control 
+during race conditions and can also prevent deadlocks to some extent. 
+• He asked me server-side fundamentals, like API and types of API, RestAPI. I was also asked 
+about SOAP.  
+• I was asked DSA questions at the end. I was asked to explain Doubly Linked List, Deque, 
+BFS & DFS, along with their real-life applications. I was asked to explain Dijkstra’s 
+algorithm and Red-Black tree. 
+• I was also asked to explain one of my projects. 
+These are the questions I recall, though the interviewer asked several more. To crack any technical 
+round interviews, be prepared in DSA, OOP, DBMS, OS, Computer Networks, and your resume as 
+well. 
+ 
+Technical-HR interview: 
+• This round went about 20 minutes and was conducted in person. 
+• I was asked to give a self-introduction. 
+• The interviewer asked me questions on OOPS. He asked why the concept of OOPS was 
+introduced, given that modularity was already achieved through procedures in Procedural 
+Programming Languages. 
+• He then asked me to explain exactly how real-world mapping is done in OOPS. 
+• He asked me to explain all of the OOPS concepts I know. 
+• He asked me to explain one of my projects.  
+• I used MERN stack, and so he asked me to tell the difference between Node.js, Express.js, 
+and React.js. 
+• He asked me about an internship I did for automation in our department. 
+• He asked me how I study and what strategies I use to learn a concept. 
+• I was given a chance to ask questions. I asked about Wells Fargo’s projects, work culture, 
+and ownership provided to the interns. 
+• He then started explaining how the corporate world works and work-life at Wells Fargo. He 
+gave me some tips and advice. 
+ 
+HR interview: 
+• This round was conducted in person.  
+• I was asked to give a self-introduction. 
+• I was asked why I want to do an internship at Wells Fargo. 
+• I was given a chance to ask questions. I asked about the same I asked in the second round to 
+know her perspective. We then started discussing a lot about Wells Fargo. She was very 
+approachable and friendly. We talked about her domain in Wells Fargo and her experience 
+working in Wells Fargo.  
+And finally, the result came with my name included, along with the other nine selected candidates 
+for the intern role. 
+General Advice: 
+• Practice platforms: LeetCode, HackerRank, GeeksForGeeks, takeUForward, NeetCode, 
+IndiaBIX 
+• https://neetcode.io/practice?tab=neetcode150  
+• C.O.D.E series conducted by ACM-CEG 
+• Blind 75 - LeetCode 
+• MUST-DO Questions for [DBMS, CN, OS] Interviews: SDE Core Sheet - Tutorial  
+• Striver’s SDE Sheet – Top Coding Interview Problems 
+ 
+Contact 
+Harini J S 
+Phone: +91 98658 10425 
+LinkedIn: https://www.linkedin.com/in/harini-sivakumar-1243b0379/ 

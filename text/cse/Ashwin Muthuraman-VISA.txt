@@ -1,0 +1,252 @@
+VISA INC. INTERVIEW EXPERIENCE 2022 
+BATCH: 2020 – 2024 
+ 
+SELECTION PROCESS FOR: Summer Internship 
+ 
+NAME OF THE COMPANY: VISA Inc., Bangalore 
+ 
+ABOUT THE COMPANY: 
+ 
+Visa Inc. is an American multinational financial services corporation headquartered in 
+San Francisco, California. It facilitates electronic funds transfer throughout the world, most 
+commonly through Visa-branded credit cards, debit cards and prepaid cards. Visa is often 
+misinterpreted as a credit card company, but it is not so. Visa is the world’s leader in digital 
+payments. Its mission is to connect the world through the most innovative, reliable and secure 
+payment network – enabling individuals, businesses, economies to thrive. 
+ 
+NUMBER OF ROUNDS: 2 
+1. Online Assessment – Coding round 
+2. Interview – Technical + HR 
+ 
+ONLINE ASSESSMENT – CODING ROUND: 
+Platform: HackerRank 
+Duration: 60 minutes 
+Number of questions: 2 Coding questions (no aptitude questions) 
+Level of difficulty: Easy – Medium 
+ 
+ 
+The test was held on 22nd of August, 2022. It was conducted in online mode under the 
+invigilation of college officials, where the students were provided systems at computer lab of 
+IST Department to attend the test. Everyone got different set of questions and the following 
+were the 2 questions that I got: 
+• Given two arrays named a and b of size n and m respectively. Find the maximum number 
+of pairs (a[i], b[j]) such that a[i]>b[j], 0<=i<n and 0<=j<m. Also, an element of the array 
+can appear at-most in only one pair. 
+o Example 1: Array a = {1, 2, 3, 4, 5}; Array b = {1, 6, 1, 6, 1}; 
+Answer: Maximum Possible Pairs = 3 
+Explanation: The possible pairs are: (2, 1), (3, 1), (4,1)  
+Note: Many such sets of possible pairs can be found. But the question here is 
+to find the number of such possible pairs and not to find the pairs. 
+o Example 2: Array a = {3, 2, 3}; Array b = {8, 1, 2}; 
+Answer: Maximum Possible Pairs = 2 
+Explanation: The possible pairs are: (2, 1), (3, 2) 
+This was an easy question, and my solution passed all the testcases given. 
+• One unit of an alloy can be made from n different metals. The composition of the n 
+different metals required for alloy preparation will be given in composition matrix of size 
+n. The current stock availability of each metal and the cost of buying one unit of a metal 
+will be given in stock matrix and cost matrix, each of size n. Given a budget (>=1), the task 
+is to find the maximum number of units of alloy that can be prepared by utilizing the 
+available stock and buying more stock within the budget. 
+o Example 1: 
+Value of n = 3; Budget = 14; 
+Composition = {2, 1, 2}; Stock = {1, 0, 0}; Cost = {2, 2, 1}; 
+Answer: Maximum number of units that can be produced = 2 
+Explanation: 3 different metals A, B, C are required for alloy preparation. One 
+unit of alloy can be prepared by 2 units of Metal A + 1 unit of Metal B + 2 units 
+of Metal C. Currently, the available stock is: 1 unit of Metal A, 0 units of Metals 
+B and C. Now, we can buy 1 unit of Metal B + 2 units of Metal C for a total cost 
+of 6 rupees (1*2 + 2*2) and make the first unit of alloy. We are still left with a 
+budget of 8 rupees. Now we can buy, 2 units of Metal A + 1 unit of Metal B + 2 
+units of Metal C for a total cost of 8 rupees and produce the second unit of alloy. 
+We cannot buy more metals; thus, we stop here. 
+o Example 2: 
+Value of n = 4; Budget = 45; 
+Composition = {3, 2, 3, 1}; Stock = {2, 6, 5, 4}; Cost = {4, 2, 1, 3}; 
+Answer: Maximum number of units that can be produced = 3 
+Explanation: Cost required for producing first unit of alloy = 4 
+ 
+          Cost required for unit 2 production = 13 
+                       Cost required for unit 3 production = 15 
+                       Cost required for unit 4 production = 22 
+Thus, only 3 units can be produced (4+13+15<=45). 
+ 
+This was a medium level question, and my solution passed 10/15 testcases given. 
+The results were declared on 25th August 2022. A total of 14 students were selected for the 
+next round.  
+ 
+INTERVIEW: 
+ 
+The interview was conducted on MS Teams, and was about 45 minutes long. It was held 
+on 26th August, 2022. Initially the interviewer asked me if I had any question to ask him before 
+we moved on to the actual interview. 
+ 
+He then asked me about the projects that I did till now in college. I briefly explained 
+each of my three projects that I had put on my resume. Then, he asked me what are the 
+subjects that I have studied till now. I listed few courses (OS, DBMS, CA). He then asked me 
+which one of those was my favourite subject. I said I liked the Operating Systems course much, 
+and gave him a satisfactory reason for choosing it. He then asked me about the topics that I 
+studied in OS. I listed a few topics (general introduction to OS and its functionalities, threads, 
+process synchronization, deadlocks and virtual memory). The follow back questions on the 
+topics were: 
+• What is a thread? Difference between a process and a thread. 
+• What are deadlocks? 
+• What is the difference between mutex and semaphore?  
+With this, we moved on to the coding pair of the interview. The HackerRank link was 
+shared for the code-pair part. There were totally 4 questions in this part of the interview. 
+• Consider the below pseudocode and predict the output if main function is called. 
+public class abc { 
+ 
+public void f() { 
+ 
+ 
+f(); 
+ 
+} 
+ 
+public void main() { 
+ 
+ 
+f(); 
+ 
+} 
+}; 
+We had a long discussion on this question, wherein I was not able to come up with the 
+correct answer the first time. But, with the hints given by the interviewer, I was able to 
+answer it up to some point, after which we moved on to the second question. 
+ 
+• The 
+second 
+question 
+was 
+“Detect 
+loop 
+in 
+a 
+linked 
+list" 
+- 
+https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/. The interviewer explained 
+me the question well with 2 examples, and asked me to code. I explained a simple 
+approach, which will work if the maximum limit of nodes is known and then explained the 
+fast and slow pointer method to detect a loop in the linked list. (Always start with the naïve 
+approach and try to optimize it further). The interviewer told to just write the function 
+code/pseudocode for the function which takes in the head pointer of linked list as 
+argument and returns 1, when there is a loop found, else returns 0. I coded the function 
+by explaining each line while I was typing. The interviewer seemed satisfied on my solution. 
+He also asked about the time and space complexity of my solution. 
+ 
+• What will be the output of the following cases? 
+i. 
+int a = 10; int b = 20; 
+… 
+if(a==11 && b==20) { … } 
+else { … } 
+Which part of the if-else statement will be executed and what are all the 
+expressions that are evaluated (whether b==20 will be executed or not)? 
+ 
+ii. 
+int a = 10; int b = 20; 
+… 
+if(a=11 && b==20) { … } 
+else { … } 
+What will be output now and what happens here? 
+ 
+iii. 
+int a = 10; int b = 20; 
+… 
+if(a=11 & b==20) { … } 
+else { … } 
+What will be the final evaluation of condition given inside the if statement? 
+All these questions were on the basics of C Programming and I answered these 
+questions satisfactorily. 
+• What will be printed if this program gets executed? 
+void main() { 
+ 
+int* b = f(); 
+ 
+printf(“%d”,*b); 
+} 
+int* f() { 
+ 
+int c = 10; 
+ 
+return &c; 
+    } 
+For this question, I was not able to come up with the correct answer the first time. But 
+the interviewer gave me hints to come up with the correct answer. After that, I was able 
+to provide a correct answer, with which the interviewer seemed satisfied. 
+With this the interview got over. Before leaving, he asked me if I had any questions to 
+ask. I asked him two questions which I prepared beforehand. He answered my questions and 
+took leave. The results were out by 10 pm the same night. And, finally 11 of us were selected 
+for the summer internship programme. 
+ 
+TOPICS TO FOCUS: 
+• Data Structures and Algorithms 
+• Operating Systems 
+• Database Management Systems 
+• Object Oriented Programming Concepts 
+• Whatever you’ve mentioned in your resume 
+ 
+RESOURCES THAT WERE USEFUL FOR PREPARATION: 
+• “Must 
+to 
+do 
+coding 
+questions” 
+available 
+in 
+GeeksforGeeks 
+- 
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-
+amazon-microsoft-adobe/ 
+• Resources shared by ACM – Student Chapter of CEG through CODE Intern Preparation 
+programme. 
+ 
+KEY TAKEAWAYS: 
+• Always be in touch with DSA. Keep solving coding questions on platforms like LeetCode, 
+HackerRank, GeeksforGeeks and HackerEarth. Consistency in solving coding questions is 
+an important factor. Do try to solve 2 to 3 problems everyday if possible. 
+• Know to code from scratch as well. Some companies expect you to code from scratch in 
+the online assessment. So, kindly make sure you are thorough with the header files and 
+syntax of the programming language well. (If you are using STL in cpp, make sure you 
+know the header files for each of the elements used in the program and the syntax for 
+each of the functions used with the template). 
+• Once you have been shortlisted for the interview round by any company, kindly go 
+through the interview experiences of that particular company available online. 
+“GeeksforGeeks Archives (or) Interview Experiences” helped me a lot to get a basic idea 
+on how the interview will proceed. Not only for the interviews, this helps for the online 
+assessment rounds as well. 
+• Prepare for “Tell me about yourself” beforehand. Make sure it is short and crisp. 
+• Read and re-read your resume. If questioned on your resume (projects as well), you 
+should be able to answer it satisfactorily. So, be thorough with whatever you’ve 
+mentioned in your resume. 
+• Before attending any interview, do research on the company’s profile. This gives you a 
+basic idea on how the company functions, it’s mission and goal as well. If the interviewer 
+asks “What do you know about the company”, you should be able to answer it. 
+• Be honest and don’t panic. Stay calm even if you don’t know an answer for a question. If 
+struck at any point, don’t hesitate to say “I’m not sure about this, I will definitely look into 
+it”.  The interviewer will help by giving hints as well. 
+• Don’t lose hope during the interview, thinking that you have not done well so far. This 
+may affect you throughout the rest of the interview and that is not what the interviewer 
+expects from you. 
+• During the code-pair round, if you are asked to code, explain the lines of code while you 
+are coding. This gives the interviewer an idea that you are going with the flow of the 
+approach and you have understood the approach well. Also, give sensible names for 
+identifiers and functions during code-pair part of the interview. 
+• Prepare well for “HR Questions” too. Along with the general HR questions, based on the 
+soft skills mentioned on your resume, you might be expected to narrate an incident where 
+you think you possessed the particular skill. So, be prepared with narrating such incidents 
+as well. 
+• Always stay motivated and optimistic throughout the period of preparation. Never get 
+upset, if you don’t get through the process of any company. You will definitely get a better 
+company than that. 
+ 
+ 
+✨️ ALL THE BEST ✨️ 
+Ashwin Muthuraman A, 
+B.E. (CSE), 
+CEG ’24 batch 
+Feel free to get connected, 
+(+91) 9360523558 
+ashwinmuthuramanann@gmail.com 
+https://www.linkedin.com/in/a-ashwin-muthuraman/ 

@@ -1,0 +1,98 @@
+Citi Interview Experience for Internship (On-Campus) 2022
+
+Sanjay Pranao B G
+2020115072
+Information Technology
+
+About the company:
+
+Citi Solutions Center (CSC) is a global hub for innovation and operations within
+
+Citigroup, providing comprehensive solutions and support across various functions like
+
+technology, operations, finance, and risk management.
+
+Overview of the Selection process:
+
+The selection process included
+
+1.  Online aptitude and coding contest
+
+2.  Technical interview - Round 1
+
+3.  HR - Final Round
+
+Domains offered:
+
+Although the specific roles were not explicitly mentioned, the candidates who got
+
+selected in Round 1 were divided into two groups for offline interviews.
+
+1.  Institutional Clients Group
+
+2.  Enterprise Operations and Technology
+
+Online aptitude and coding contest:
+
+The coding contest was conducted on the SHL platform. It included 5 sections:
+
+1.  Aptitude
+
+2.  Logical Reasoning
+
+3.  Verbal Ability
+
+4.  Technical
+
+5.  Coding contest
+
+Each section had a set time limit, and the next section could only be accessed after
+
+completing the previous one. Each section had a time limit of approximately 20 minutes
+
+with MCQs except the coding contest which had a time limit of 1 hour.
+
+Questions asked in Coding contest:
+
+1.  Rat in a Maze
+
+2.  Not exactly sure, but a question based on tree traversal
+
+Offline Interview:
+
+A total of two rounds: Technical in offline mode and HR in online mode were held at
+
+CUIC.
+
+Technical Interview:
+
+The interview panel consisted of two members from the ICG Business Unit of Citi. They
+
+looked at my resume first and decided to ask questions based on that. I had done a
+
+project in Java, so the first asked me to give the implementation of the project at a high
+
+level.
+
+Later, they asked me questions related to arrays, queues and linked list. And finally,
+
+they gave me a scenario for a shopping website and asked me to create an entity
+
+relationship diagram for the tables needed for the website.
+
+HR Round:
+
+After clearing the technical round, I was assigned to a final round with an HR panel. Due
+
+to some time constraints, the HR round was done as an online round, with the
+
+interviewer from the Citi HR team. The HR was very friendly, and we began with a brief
+
+introduction, discussing my interests and hobbies. He encouraged my passion for
+
+gaming, which is quite unusual to hear in an interview. We also talked about Bollywood
+
+and Kollywood, exchanging opinions on their film industries. The interview concluded
+
+with a brief overview of my family. This round lasted around 10 minutes.
+

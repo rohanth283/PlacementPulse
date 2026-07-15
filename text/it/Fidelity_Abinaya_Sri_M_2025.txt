@@ -1,0 +1,67 @@
+INTERN DRIVE EXPERIENCE
+
+**FIDELITY INVESTMENTS**
+
+**Abinaya Sri M**
+
+**About the Company**
+
+Fidelity Investments is a prominent multinational financial services corporation founded in 1946 and headquartered in Boston, Massachusetts. Renowned as one of the largest asset management firms in the world, Fidelity provides a comprehensive range of services, including investment management, retirement planning, wealth management, brokerage, and financial advisory services.
+
+**Overview of the Process**
+
+● Round 1: Online Assessment
+
+● Round 2: Technical Interview – at CUIC
+
+● Round 3: HR Interview – at CUIC
+
+**Online Assessment**
+
+The assessment consisted of four sections on English Proficiency, Technical, Coding and Algorithm.
+
+**Section 1:**
+
+Contained questions that assessed reading comprehension, sentence arrangement, synonyms, and other related skills.
+
+**Section 2:**
+
+Technical multiple-choice questions covering a range of topics such as Computer Networks, Operating Systems, Object-Oriented Programming, C++, Output questions, and Data Structures & Algorithms.
+
+**Section 3:**
+
+This section had 2 coding questions; primarily focused on logic and manipulation of Arrays and Strings, testing candidates' coding skills.
+
+**Q1)** A string is given, and you need to perform string manipulation. Based on the sample inputs, identify the pattern and return the converted string as the output.
+
+**Q2)** Two numbers are given. You need to find the sum of the digits of both numbers, then return the product of these two sums.
+
+76 students were shortlisted for the offline interview.
+
+**Technical Interview:**
+
+The interview panels were assigned randomly, and my round lasted for about 30 minutes. I was first asked to introduce myself, after which the interviewer moved on to the projects I had listed on my resume. They questioned me about the technical aspects of those projects.
+
+Since I mentioned that C++ is my favorite language, the interviewer asked me several OOP-related questions, such as the problems with multiple inheritance (diamond problem). They also asked me about data structures—what kind of data structure I would use for different purposes. Specifically, I was asked about hashing, how collisions can be resolved, and the time complexity of hash operations with and without collisions.
+
+Finally, I was given a linked list DSA question. The problem was based on a circular linked list where the tail node was connected somewhere in the middle of the list. I was asked to make the tail point back to the head, and I explained my approach to solve it.
+
+**HR Interview:**
+
+This round was mainly conducted to evaluate my interpersonal skills and overall suitability for the organization. The interviewer focused on assessing how I interact and communicate effectively.
+
+The HR first asked me to introduce myself, followed by a few questions about my parents and siblings. Then, the discussion moved on to my role preferences. Towards the end, the HR asked if I had any questions for him.
+
+12 students were offered the internship.
+
+**Tips and Tricks:**
+
+● If you’re not sure with an answer or an entire language syntax itself, just say so and give an appropriate alternative for it.
+
+● Keep yourself calm and composed.
+
+● Have a constant brush up of core topics like DBMS, OS, DSA, OOPs.
+
+● Research the company thoroughly and present your ideas in such a way that it aligns with the company’s motive
+
+● Reach out to seniors who have prior experience with the interview process at the company.

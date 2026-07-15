@@ -1,0 +1,36 @@
+                                                          Placement   Experience
+
+Name          :   Paavani   M
+Roll   No       :   2018115065
+Company :   Searce   Inc
+Rounds       :   3   (Number   of   rounds   varied   from   person   to   person)
+
+Round   1:   Online   test
+
+          It   contained   45   aptitude   questions   to   be   solved   in   1   hour.
+          It   consists   of   Quantitative,logical,   and   data   analysis   questions.
+
+Round   2:   Technical   Interview   (20   mins)
+
+         The   interviewer   was   very   friendly   and   asked   me   to   introduce   myself.
+
+          Interviewer   asked   me   which   data   structure   I   am   strong   in.   I   told   arrays   and   strings.
+          Then   he   gave   me   one   coding   question.
+          Then   he   asked   me   if   I   learnt   any   new   technology   in   the   past   6   months.   I   told   ML
+because   my   recent   project   was   based   on   ML.   Then   he   told   me   to   explain   my   ML   project.
+
+Round   3:   HR   round   (20   mins)
+
+          He   asked   me   one   aptitude   question.
+                    Out   of   200   fish   in   an   aquarium,   99%   are   red.   How   many   red   fishes   must   be
+removed   to   make   the   percentage   of   red   fishes   to   98%?
+
+          I   gave   various   approaches.   He   seemed   satisfied   with   my   thought   process   and   then
+moved   on   to   basic   HR   questions   like   why   Searce,   and   preferred   locations.
+
+Tips:
+     Just   be   confident   and   keep   a   smiling   face   always   during   interviews.
+     Make   sure   you   know   about   each   and   every   word   you   mentioned   in   your   resume.
+
+                                              Best   of   luck   guys!!!
+

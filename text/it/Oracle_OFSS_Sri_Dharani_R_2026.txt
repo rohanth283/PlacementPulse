@@ -1,0 +1,55 @@
+SRI DHARANI R – Associate Application Developer
+https://www.linkedin.com/in/sri-dharani-r-695a37256/
+
+ABOUT THE COMPANY:
+
+Oracle OFSS (Oracle Financial Services Software Ltd.) is a major global provider of IT solutions,
+software (like Oracle FLEXCUBE), and consulting for the financial industry, acting as an Indian
+subsidiary of Oracle Corporation, offering digital banking, risk management, and AI-driven tech to
+banks worldwide, formerly known as i-flex Solutions.
+
+ROUND DETAILS:
+
+Read Previous experiences from Google (Glassdoor, interviewbit) , you will get some idea about
+the current process.
+
+Online test:
+
+Questions:
+
+1)  MCQs ( API’s, Cloud Technology, Product Development lifecycle, etc.)
+
+2) Two coding questions (Medium level question)
+
+The number of rounds varies according to the candidate.
+
+Three Rounds:
+
+1)  First round – Technical round
+
+Covered all the coursework subjects.
+Have a proper resume with a detailed explanation of projects and then volunteer
+activities. You are expected to explain your project and volunteer activities.
+
+2)   Second round – Technical round
+
+Given the application, you are supposed to give a complete system design from ui to
+server logic.
+
+3)  Third round – Technical round
+
+               Questions on tech stack mentioned in the resume.
+
+Four puzzles were asked and expected to explain the thought process.
+
+TIPS:
+
+For the DSA preparation strategy, just follow Striver’s A to Z DSA course. For studying
+concepts, you can get the materials from our department resources — that’s where I got
+all my resources, and I studied from those only.
+For coding practice, apart from Striver’s material, try solving additional problems related to
+the company you are applying for.
+For computer science concepts, you can refer to our department placement materials.
+You can also refer to Geeks for Geeks for studying these concepts.
+Feel free to reach me if you need any help.
+

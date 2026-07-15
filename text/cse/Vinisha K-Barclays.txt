@@ -1,0 +1,77 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BARCLAYS 
+ 
+ 
+Barclays is a British multinational investment bank and financial services company. Apart 
+from investment banking, Barclays organises personal banking, corporate banking, wealth 
+management, and investment management. 
+ 
+Placement process consists of: 
+ 
+Round 1: Technical and coding 
+ 
+ 
+In this round there are 25 mcq’s based on web programming, basics of C, C++, java. Each 
+mcq is of 3 marks and there are 2 coding questions. (where 1 is easy and 1 is medium). 
+ 
+ 
+In first coding question I have passed all testcases where as in second one 11/20 are passed. 
+Fortunately, I had shortlisted for other rounds. 
+ 
+Round 2:  
+ 
+In round 2 comprises of both technical and HR  
+ 
+Technical Round:  
+ 
+ 
+      In this round, The interviewer asked to introduce myself. Then he moved to my current working 
+projects he asked some questions like why you select this project, what is the use of this project to 
+our society. Then, He asked me basics questions like what is static functions, variables, C 
+preprocessors, macros and dangling pointers. DBMS concepts like Normalization, joins, ACID 
+properties. OOPS concepts, About Sorting’s, among the all sorting’s which sorting is best and why, 
+Time complexities of sorting algorithm, what are linked  lists, how to insert and delete in linked 
+list , their time and space complexities and others. 
+ 
+ 
+HR: 
+      
+       HR is only for 15 minutes. He asked me some questions like  
+  
+1. Why Barclays? 
+2. How you are helping society in pandemic situation? 
+3. What is last book you have studied? 
+4. Main leads of the book, Genre of book? 
+5. What have you learned from that characters? which is your favourite character and 
+why? 
+6. Do you have git account? 
+ 
+         These were questions asked me in the Interview. The interview was around 45 minutes.  
+ 
+ 
+ 
+ 
+ 
+Topics to be focussed: 
+ 
+ Web programming (online test) 
+ Database Management 
+ Data structures 
+ 
+Take away: 
+ 
+ 
+Have a grip on basic concepts. Don’t lose confidence. 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Vinisha K 
+Vinisha1502@gmail.com 

@@ -1,0 +1,85 @@
+RAMCO SYSTEMS – INTERVIEW EXPERIENCE 
+Harisangar A P 
+2022103554 
+CSE batch of 2026, CEG 
+About the company 
+Ramco Systems Limited is an Indian multinational enterprise software product and platform 
+provider disrupting the market with its multi-tenant cloud and mobile-based enterprise 
+solutions in Global Payroll, ERP, and M&E MRO for Aviation. Founded in 1997, it is a part of 
+Ramco Group, and is headquartered in Chennai, Tamil Nadu. 
+ 
+No of Rounds: 4 (Online Test + Pen and Paper Test + Technical interview - 1 + Technical 
+interview - 2) 
+Round 1 – Online Assessment  
+The online assessment was conducted on the DoSelect platform with total duration of 1hr 15 
+mins. Total number of questions are 26 in which first 2 were coding questions. Remaining 24 
+questions are Multiple choice from the topics like basic understanding of C Language, 
+Operating system, DBMS, Linux commands. 
+ 
+From online test, 73 candidates were selected for the pen and paper assessment the next 
+day at CUIC. 
+ 
+Round 2 – Pen and Paper Test 
+In this round, all the candidates were given a question papers consisting of 3 coding 
+questions. We can write codes in our preferrable language within 1 ½ hrs time limit. The 3 
+coding questions asked (from LEETCODE) are:  
+• 
+Longest Harmonious Subsequence.  
+• 
+Longest Substring Without Repeating Characters.  
+• 
+Find Duplicate Subtrees.  
+From this round, 42 candidates were selected for the 1st level of Technical Interview. 
+This test was conducted in person at CUIC. 
+Round 3 – Technical Interview 1 
+It took place in person at CUIC. It went for about one hour. 
+The interviewer asked my resume and asked me to introduce myself. Then he went through 
+my resume thoroughly. 
+• 
+Project 
+• 
+DSA – Rotate List, Dijkstra's Algorithm 
+• 
+DBMS – Normalization and Denormalization, SQL queries (Sub query/Join, Limit 
+Offset), Deadlock in DBMS 
+• 
+OOPS – Polymorphism & types 
+• 
+OSI Layers – TCP and UDP difference 
+• 
+React – Lifecycle components, Redux, useMemo (as I mentioned in resume)  
+• 
+Error vs Exception  
+ 
+From this round, 42 candidates were selected for the 1st level of Technical Interview. 
+Round 4 – Technical Interview 2 
+The interviewer asked my resume and asked me to introduce myself. This round went for 
+One and a half hours. I was able to solve only one DSA problem in the entire interview since 
+I hadn’t solved this problem before. 
+Gas Station  
+I tried multiple solutions and finally I arrived correct solution.  
+After this final round, 10 candidates were selected.  
+ 
+Previous Interview Experience 
+In my previous interview at Optum and Athenahealth, helped me reach the last round. 
+However, I was rejected due to weak theoretical knowledge. This taught me the importance 
+of balancing DSA preparation with theory subjects. 
+For future candidates, I would suggest being well-prepared with your self-introduction, 
+internship experiences (if any), and project details. Communicate with clarity and confidence. 
+Even if you don’t know the answer to a question, stay calm, as interviewers often guide you 
+toward the right direction. Consistent preparation and strong core concepts are key. This 
+was my sixth interview in placements alone, and my continuous efforts helped me succeed 
+here. Don’t be discouraged if you’re not selected—the right opportunity will come your way. 
+Wishing you all the best! 
+ 
+ 
+ 
+ 
+If you have any further questions, feel free to reach out to me  
+Harisangar A P 
+Batch: 2022-2026 
+Department: CSE  
+Contact No: +91 99528 78399 
+Linkedin Id: www.linkedin.com/in/harisangar-a-p 
+Email id: apharisangar4@gmail.com  
+All the very best! 

@@ -1,0 +1,80 @@
+Interview Experience
+
+Ford Business Solutions
+
+Role: Information Technology (Software Engineer)
+
+They conduct only one round for both Technical and HR.
+
+It was my first interview. So, I’m very nervous about attending the interview at first.
+
+After I entered the Room for Interview, I just try to get-out from that nervousness.
+
+Round 1 (Technical + HR):
+
+**Technical Portion:**
+They asked me to write python code for to check palindrome for strings.
+
+Qn: Check whether the given input string is palindrome or not.
+
+Ans:
+
+name = input()
+rev\_name = name[::-1]
+
+if (rev\_name == name):
+
+print(“The given string is palindrome”)
+
+else :
+
+print(“The given string is not a palindrome”)
+
+After that they asked me about the projects I done. I explained about my SRP (Social Relevant Project) and FYP (Final Year Project) Phase 1.
+After verifying these, they asked me about “Explain Normalization.”. So, I explained normalization in DBMS. I explained the 2 types from the 4 types of Normalization.
+
+They give an example for an interface (A box with id textbox and name textbox and save and retrieve button). Now they asked me to write pseudocode for Frontend (React JS), Server(Python) and Data Storage (MongoDB). In MongoDB code they mentioned to write the structure for the schema and the others as Pseudocode.
+So I taken more than five minutes to write the 3 / 4 part of the code. It’s very hectic situation for me. So, they asked me to explain the code. I managed to explain the code clearly to them.
+After that they asked about “what are the REST API methods used in this project?”
+I answered both get and post method are used and these purposes.
+
+**HR Portion:**
+
+Then they asked me about the soft skills.
+1) Particularly they asked me about Time Management skill. So, I gave an example for explain how I handle time while in hectic period.
+
+Example Scenario – Tomorrow I have an Assessment Exam in the forenoon and Project Review in the afternoon. How should I handle this situation?
+
+Answer:
+
+Mainly I choose which one is hard part for me to study. So, I prioritize that part.
+If Project Review is hard for me, then I prioritize Project Review over Assessment.
+If Assessment preparations is hard for me then I prioritize Assessment preparation over Project Review.
+
+2) After they asked about Leader ship skill. I tell about how I handled the SRP project as Team head.
+
+And I say about how I organized an event in NSS for Alumni reunion.
+
+3) If you are working in our company for five years in Python, React JS and more familiar part of yours. If we change the part with new tech like Java, SpringBoot , then how should you manage that situation ?
+How you handle the change ? What should you do ?
+
+Answer : I should try my best to learn the new tech to enhance or upgrade my skills to improve my experience.
+
+4) If you get the job, which shift do you prefer?
+
+Answer : I tell any shift is better for me.
+
+Reason : Because I don’t wont to be asked for the next question for shifts like If I answered as Morning Shift, then they may ask me about why don’t you choose Night shift. If I answered as Night Shift, then they may ask me about why don’t you choose Morning Shift. So I avoided these type of questions by answer like this.
+
+5) How you manage if you get offline mode ? How will you mange to attend the office ?
+
+Answer : I will prefer my friend’s house or PG hostel near the office to stay. So I can attend the office daily in offline mode.
+
+After finishing the Both portions, they asked me “If any questions do you want to ask us ?”.
+So I replied as Yes and asked about their work experience when the join as a newbie in the Ford Company.
+
+They tell me about how the work split up was done for them, how they gain experience by learn new things and how they get materials for that to learn.
+
+It was a Best Experience for me.
+
+Thank you for reading this article. Hope you find something useful ✨

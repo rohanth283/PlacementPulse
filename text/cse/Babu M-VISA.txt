@@ -1,0 +1,96 @@
+     VISA INTERNSHIP OFFER 
+  ABOUT VISA, 
+Visa Inc. is an American Multinational payments technology company which aims in providing 
+fast, reliable and secure digital payments all around the world. It is often misinterpreted as a bank or 
+credit card company. But actually, it provides financial services and facilitates digital payments. 
+There were 2 rounds of selection process. One was an Online test and another was a Technical 
+cum Managerial interview. 
+1. Online test: 
+It was conducted on hackerRank platform for 70 minutes. There were 4 coding questions of 2 Easy level 
+difficulty and 2 medium level difficulty. 
+• 
+First Question: Given an array of n integers, write a function that returns the index of the first 
+element in the array such that the next two consecutive elements (i.e., the element at the 
+current index and the next two elements) are strictly greater than a given threshold. If no such 
+index exists, return -1. 
+• 
+Second Question: You are given an array numbers. Distribute its elements between two arrays, 
+first and second, as follows: 
+1. The first element goes to first, the second to second. 
+2. For each subsequent element, if the number of elements strictly greater than the 
+current element is higher in one array, place the element in the other. If both have the 
+same count, place the element in the shorter array. If still tied, place it in first. 
+3. Return the merged result of first followed by second. 
+• 
+Third Question: You are given an n x m grid and an array figures representing different Tetris-
+like shapes (A, B, C, D, E). Starting with a matrix of zeros, your task is to draw each figure on 
+the grid using its 1-based index from the array. The shapes are placed on the grid according to 
+specific patterns. Return the resulting matrix after placing all the shapes. 
+• 
+Fourth Question: Given an array of integers arr, write a function to count how many 
+contiguous subarrays form a sawtooth sequence, where each element alternates in parity 
+(even or odd) from its neighbors. 
+Since there were only 4 questions, we were expected to solve both. A total of 15 students were 
+shortlisted for the next round. 
+2. Technical cum Managerial interview: 
+It was conducted in MS teams. The duration of the interview was around 1 hour. Initially he asked me to 
+introduce myself. 
+There were some usual HR questions like: 
+• 
+Can you share a specific experience where you faced a significant challenge? How did you 
+overcome it, and what important lesson did you take away from the situation? 
+• 
+What do you consider to be your weakness? 
+• 
+Tell me a situation where you have been so stressful in your life and how did you overcome it? 
+• 
+How would you handle a project with limited resources and a tight deadline? 
+• 
+Can you describe a situation where you received no initial instructions and explain how you 
+managed to successfully navigate it? 
+Finally, he asked me whether I had any questions for him. I asked him a couple of questions. 
+• 
+What does the work culture at Visa look like? 
+• 
+What are some common challenges interns might encounter during their internship? 
+• 
+What is the primary responsibility of an intern during the internship process? 
+• 
+I inquired about accommodation options during the internship. 
+After the interview concluded, the results were announced the next day. Out of 15 
+candidates, 5 were selected, and I’m one of them 
+Key takeaways from interview experience: 
+• 
+Read & re-read your Resume. Be very clear about every single line put in your Resume. 
+• 
+Do an intensive research on the company profile and try to understand how do they make 
+money out of their business. 
+• 
+Joining the interview 5 mins prior to the scheduled time will be very helpful. 
+• 
+Also, we can have a small conversation with the interviewer to get connected well. 
+• 
+Interviewers are not here just to reject us and they will definitely help us when we get struck 
+somewhere. 
+• 
+Don’t lose your hope in-between the interview, if you answer wrong to 1 or 2 questions. 
+ 
+Topics to be focused: 
+• 
+Data Structures and Algorithms. 
+• 
+Database Management Systems. 
+• 
+OOPS. 
+• 
+OS. 
+• 
+whatever skills and projects mentioned. 
+ 
+Hope this helps ●¨ 
+Babu M 
+B Tech (IT) 
+MIT ’26 batch. 
+Feel free to get connected, 
+ (+91) 8610503504 
+  linkedin.com/in/babu-m-031402210 

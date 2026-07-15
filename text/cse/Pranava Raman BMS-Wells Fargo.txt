@@ -1,0 +1,109 @@
+Wells Fargo (Internship)
+About the company:
+Wells Fargo is an American Bank and a multinational financial services company.
+Wells Fargo India & Philippines was established to support business lines and staff functions
+in Technology, Business Operations, Automation, Analytics, etc across the company. Today,
+Wells Fargo India operates in Hyderabad, Bengaluru, and Chennai.
+The job description mentioned responsibilities of designing, developing and testing
+software engineering solutions at scale while maintaining reusable and reliable code and
+ensuring performance.
+My interview experience:-
+Round 1:- Aptitude + Coding
+This round happened in the Aspiring Minds (SHL) platform. The round consisted of 3
+sections namely verbal aptitude, business aptitude and coding. Both aptitude sections had
+MCQs which had to be answered compulsorily and free navigation was prohibited.
+Verbal aptitude was just selecting the best answer based on reading comprehension
+and general understanding of English grammar.
+Business Aptitude had MCQs based on stocks and economics, just to check your
+logical decision making skills. Basic mathematics and understanding of profit - loss is
+sufficient to answer fully.
+The Coding round had 2 questions of moderate difficulty, but both had to be coded
+from scratch (no driver code or function declaration was given).
+●
+Given a matrix with 3 vertices of a parallelogram, find the 4th vertex that will be inside
+the matrix.
+This was an adaptation of the program:- Missing Point of a Parallelogram | Practice |
+GeeksforGeeks. I was able to get 17/19 test cases passed for the question.
+●
+Given the dimensions of a matrix (m,n) and a starting value ‘s’, find the product of the
+matrix with the transpose of itself formed when values of the matrix increase from s.
+ie, if m=4,n=3,s=2, the matrix is:-
+2   3   4
+5   6   7
+8   9   10
+11 12 13
+I was able to get all test cases passed for the question.
+A total of 30 students got selected to the next round.
+Tips for coding round:-
+●
+Keep practicing questions in GeeksForGeeks and LeetCode.
+●
+Get acquainted with problem statements that are lengthy.
+●
+Be prepared to write full code, as usually many are prepared only to code the
+function.
+●
+Keep a calm head while attending the questions, as in many cases it is sufficient to
+get a few test cases right if the question is difficult.
+●
+Try to answer as many aptitude questions as possible.
+Round 2:- Technical Interview (40 mins)
+The interview started with the usual “Tell me about yourself” and “Why do you want to
+intern at Wells Fargo?”. Then the interviewer asked me about my general knowledge on
+Finance, Interest rates, Mutual Funds, etc. (I used to follow some of them and hence was
+able to answer satisfactorily).
+Then he tested my understanding of the difference between C and C++ and the basic
+concepts of OOPS. Then I was asked to explain one of my projects and there were few
+questions asked based on that. Next we went to pair coding where I had to open my IDE and
+write the basic algorithm for these questions while sharing the screen. The questions
+themselves were easy, like:-
+●
+Find the missing number in an unsorted array of 1-n numbers, if the array contains
+n-1 numbers.
+●
+Find the missing number in an unsorted array of 1-n numbers, if the array contains n
+numbers with 1 number repeating twice.
+●
+Find the set of repeating elements in an array.
+There were a few other very basic coding questions which I only had to explain the
+approach.
+Overall the interview went very well and I got selected for the next round.
+Round 3:- Tech + Managerial Interview (40 mins)
+This interview started with a “Tell me something about yourself not on your resume”.
+The interviewer continued asking questions like “Why CSE?”, my hobbies, interests, my
+contributions to society using Computer Science, etc. Here again I was asked to explain my
+role in one of my projects.
+Then I was given 2 technical questions, which were to test my thinking and reasoning
+capabilities.
+●
+Given a set of data of Hotel names with their corresponding menu items and food
+cuisine which the hotel belongs to, what would be the data structure used to store the
+given information and algorithm used to search a hotel by their menu items / cuisine.
+Once I gave a satisfactory answer, I was asked what I would do if the user also
+wanted to search on the basis of hotel name.
+●
+If there is a rectangular parking shed with 50 parking spaces on each of the longer
+parallel sides, and there are 4 entrances each at the corner of the rectangle, I was
+asked to write an algorithm to return the list of nearest free parking space given
+which entrance your car is in.
+I asked a few questions regarding what is expected from an intern at Wells Fargo and the
+way projects are assigned to interns. A few of my friends got a call from the HR for another
+round of interview, but I didn’t get the call. Overall 12 people were selected for the internship.
+Key takeaways from my interview experiences:-
+●
+Be confident while you speak, and try to express your thought process behind
+whatever you say as the interviewers do help us when we get stuck on something.
+●
+Be very clear of what you put on your resume, make sure that you would be able to
+explain extensively the projects that you have done.
+●
+Do a background research on what the company is all about.
+●
+Be prepared for both concept and application oriented questions from OS, DSA,
+DBMS and OOPS.
+Hope this helps 😀😇
+All the best 👍
+Pranava Raman BMS,
+B.E. (CSE) ‘23 batch.
+📞+91 94435 01317
+https://www.linkedin.com/in/pranava-raman-bms/

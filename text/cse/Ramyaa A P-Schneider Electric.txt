@@ -1,0 +1,87 @@
+ 
+ 
+SCHNEIDER ELECTRIC 
+ABOUT THE COMPANY 
+Schneider Electric is a global leader in digital automation and energy management solutions. 
+It focuses on electrification, industrial automation, and digitilization, helping industries, 
+buildings, and homes operate more efficiently. The company is well known for its 
+commitment to sustainability and has received multiple awards in this area. Schneider 
+Electric operates worldwide and hires across departments for multiple roles. 
+I was shortlisted for the Electrical & Automation (E&A) role. 
+SELECTION PROCESS 
+1. Online Assessment 
+o The assessment was a mix of technical MCQs and a gaming/behavioral test. 
+o Technical MCQs:  
+Domain-based questions. For Computer Science students, most of the questions were 
+from Data Structures and Algorithms (DSA), Operating Systems and Computer 
+Networks. Difficulty was of medium level. 
+o Gaming/Behavioral Section:  
+This stage lasted about 1.5–2 hours and was designed to evaluate both cognitive 
+skills and behavioral traits through interactive tasks. It had two components; 
+1. Puzzle-Like Games (Time-Bound) 
+• Required fast thinking and quick responses. 
+• Tested problem-solving, reasoning, decision-making, adaptability, and 
+persistence. 
+2. Situational Behavioral Questions (~100 questions) 
+• Scenario-based personality assessment. 
+• Measured teamwork, leadership, stress handling, consistency, and 
+adaptability. 
+ 
+ 
+o Around 120 students were shortlisted across all departments. For the E&A role, 
+specifically, 70 students were shortlisted. 
+Following this, candidates were called for interviews either in-person or virtual. 
+2. Technical Interview 
+My technical interview was conducted virtually with a panel of two interviewers. 
+o The session began with general questions like 'What do you know about Schneider 
+Electric?' and a quick check on my willingness to relocate since they hired only for 
+Mysore location. 
+o I gave a brief self-introduction, after which they moved to my projects. 
+o Since I had developed an Electricity Bill Management System, which aligned closely 
+with Schneider’s domain, they were highly interested. 
+o For about 20 minutes, I was questioned on various aspects of the project: 
+  • Workflow and core functionalities. 
+  • The database tables used in the project. 
+  • Real-world applications of the system. 
+  • Possible extensions or improvements. 
+o After the project, they tested my basics from the core subjects — DBMS, DSA and 
+Computer Networks. 
+o All questions were fundamental level, focusing more on understanding than 
+difficulty. 
+o The interview tone remained conversational, and I felt they valued clarity and 
+relevance over complex answers. 
+o At the end of my technical interview, the second panelist asked me some light and 
+funny questions to test my spontaneity, such as: 
+- 'What was your favorite subject in school?' 
+- 'Why did you choose engineering?' (to which I honestly replied that I did not prefer 
+medical and hence chose engineering). 
+I felt they appreciated my honest and open answers. 
+ 
+ 
+3. HR Interview 
+      The next day, I had a dedicated HR round (~20 minutes): 
+o Began with a self-introduction. 
+o The HR explained details about the role, responsibilities, and work location. 
+o I was given space to clarify queries, making it more of a two-way discussion than a 
+Q&A. 
+At the end of the selection process, a total of 19 candidates were shortlisted and 4 were 
+from the CSE. The offer included a 6-month internship followed by FTE. 
+ 
+KEY TAKEAWAYS 
+- Be Honest: I believe my honesty throughout the interview made a strong impression. If I 
+didn’t know an answer, I said so, rather than pretending. 
+- Know Your Projects: Be ready to explain your projects in detail — they can drive most of 
+the interview discussion. 
+- Stay Calm in Casual Questions: Even when interviewers get informal, be yourself. It 
+shows your personality beyond academics. 
+- Understand the Company: Read about their focus areas (in Schneider’s case: 
+sustainability, digital automation, energy management). 
+ 
+I strongly believe that authenticity and clarity can take you a long way in interviews. 
+Efforts get paid always. Stay CONSISTENT. 
+ALL THE BEST! 
+ 
+Ramyaa A P 
+BE CSE’26 
+Feel free to reach out for any help or guidance.  
+LinkedIn 

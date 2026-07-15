@@ -1,0 +1,112 @@
+Appian Interview Experience
+Pre-requisites - Java
+Number of rounds - 4
+Online Assessment - Coding round
+Technical Round 1 - 45 minutes
+Technical Round 2 - 45 minutes
+HR Interview - 20 minutes
+Online Assessment
+There were 5 MCQ Questions and 2 coding questions.
+The MCQ questions were debugging, predict the output type questions.
+The coding questions (Java was the only language available) were
+1.A easy problem involving HashMap. (Leetcode easy level)
+2.Breadcrumbs in a website.
+Given an ArrayList<ArrayList<String>>navigations generate the actual navigation tree.
+Example
+[
+[“Root”, “Profile”, “Settings”],
+[“Root”, “Profile”, “Albums”],
+[“Root”, “Settings”],
+]
+Helper class TreeNode was given
+class TreeNode {
+string value;
+ArrayList<TreeNode>children;
+void addChild(TreeNode c){
+this.children.add(c);
+}
+//a function to print the tree
+}
+The function that you need to implement is
+void createTree (ArrayList<ArrayList<String>> paths) {
+}
+The solution is
+import java.util.*;
+class TreeNode{
+string value;
+ArrayList<TreeNode>children;
+TreeNode(string str) {
+this.value = str;
+}
+void addChild (TreeNode c) {
+this.children.add(c);
+}
+}
+class answer{
+void createTree(ArrayList<ArrayList<String>> paths){
+TreeNode parent = new TreeNode("Root");
+HashMap<String, TreeNode> map = new HashMap<>();
+for (ArrayList<String>path : paths) {
+for (int i = 1 ; i < path.size(); i++) {
+boolean alreadyIncluded = false;
+String parent = path.get(i-1);
+String current = path.get(i);
+for (TreeNode child : parent.children){
+if (child.value == current){
+alreadyIncluded = true;
+break;
+}
+}
+if (!alreadyIncluded) {
+TreeNode child = null;
+if (!map.containsKey(current)){
+child = new TreeNode(current);
+map.put(current, child);
+}
+else{
+child = map.get(current);
+}
+parent.addChild(child);
+}
+}
+}
+}
+}
+38 students were shortlisted for the interview.
+First Technical Round
+1.A coding question (Find the majority element in the array)
+https://leetcode.com/problems/majority-element/.
+You have to solve the problem in constant space and in linear time. Use the Moore’s voting
+algorithm(https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm). You have
+to actually code out the solution in a editor and pass the test cases.Then a follow up
+question on how to find the element that occurs more than 40% of the time in the array was
+asked.The constraint given was constant space. Sorting the array taking the count would
+work. Time given for the coding question was 20 minutes. Then resume related questions
+were asked.As I had mentioned React JS in my skills questions related to React was asked.
+1. Advantages of using React
+2.What is prop drilling.
+3.UseContext hook.
+4.What is JSX.
+5.Advantages of using JSX over traditional JS.
+Difficulties faced during the project. I mentioned how deploying the project was difficult as
+the server cache was less. So they asked about the deployment experience in azure and
+how to remote sign in and check logs.
+2nd Technical Round.
+This round again started with a technical question. The technical question was the same
+breadcrumbs question asked in the OA. A few modification and edge cases in the question
+was asked. What to do if there were two paths to a particular page and so on. Again you had
+to code the solution within 20 minutes. Then Resume related questions were asked, this
+round focused on my intern experience. My intern work was discussed and questions related
+to it was asked.
+3rd HR Round.
+The HR Round was like Ask Me Anything session with the HR. There weren’t much HR
+questions asked just normal talk about college.I asked about their work culture, how the
+company works and about their product.
+Finally 4 from CSE were selected for FTE.
+Key takeaways.
+1.Be strong in aptitude(mostly overlooked) and in DSA.
+2.Know everything that’s in your resume.
+3.Sometimes you may not get shortlisted even if you did the Online Assessment well, it
+depends on a variety of factors.
+4.Try to have a CGPA above 9 or 8.5.
+5.Deploy your projects.

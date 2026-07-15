@@ -1,0 +1,94 @@
+Interview Experience
+
+Ford Business Solutions
+
+Role: Information Technology (Software Engineer)
+
+**Online test:**
+
+Test was held in cuic in offline mode . 50 mcq about complier , networks, oops, os, data structure , algorithms and 20 aptitude question
+
++
+
+2 coding question
+
+1)basically array sorting technique
+
+2)Given 3 arrays about time, distance and power, total distance and power will be given and you should find minimum time to each distance with respect to minimum power
+
+They conduct only one round for both Technical and HR at CUIC .
+
+It was my 4th interview. So, I’m not get nervous about attending the interview.Even I did not prepare for interview , I studied for ML assessment -2
+
+There are two ladies , one for technical assessment , another for HR round
+
+Round 1 (Technical + HR):
+
+**Technical Portion:**
+Interviewer asked about introduce yourself. I gave much things about myself
+
+Qn 1: write the code for plotting a graph ?
+
+Ans:
+
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4, 5]
+
+y = [2, 4, 6, 8, 10]
+
+plt.plot(x, y, label='Linear Growth', color='blue', linestyle='--', marker='o') plt.xlabel('X-axis')
+
+plt.ylabel('Y-axis')
+
+plt.title('Sample Graph' plt.legend()
+
+plt.show()
+
+I wrote this code in paper , this was very simple code because semester 6 there was a data analytics course
+
+.Q2: what are oops concept you have studied ?
+
+Class and Object
+
+Encapsulation
+
+Inheritance
+
+Interface
+
+Polymorphism
+
+Abstraction
+
+Q3: Can Static method be override or not ?
+
+NO
+
+Q4: They show a code snippet about enum data type and asked to write the output?
+
+I said “I am not sure about the answer, but enum is a data type”
+
+Q5: Tell me about your project ?
+
+I explained about my SRP , Summer project and Iot project , and they started asking question related to project
+
+**HR Portion:**
+
+Then they asked me about the soft skills.
+1) Particularly they asked me about Time Management skill.
+
+2) After they asked about Leader ship skill. I tell about how I handled the SRP project as Team head.
+
+3) If you are working in our company for five years in Python, React JS and more familiar part of yours. If we change the part with new tech like Java, SpringBoot , then how should you manage that situation ?
+How you handle the change ? What should you do ?
+
+4) If you get the job, which shift do you prefer?
+
+5) How you manage if you get offline mode ? How will you mange to attend the office ?
+
+6) If you get allocated to some other project which was carried in US, Japan and other countries , will you able to go ?
+
+All the best for those who reading this article , My experience does not change anything, Make experience by own and build your career ,Study well and make well defined knowledge about your 41 course, 13 labs, and 4 project
+
+ALL THE BEST

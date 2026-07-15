@@ -1,0 +1,45 @@
+CITICORP 
+It is an American multinational investment and financial service company. 
+Round 1: Aptitude, Verbal and Coding questions 
+In this round we had 2 coding questions -one from graph and the other was pattern printing. Rest all 
+questions were like general aptitude, verbal and logical questions. Indiabix site will be more useful to 
+crack this round .Each section will have separate timers so try to be fast while answering. 
+More weightage was given to aptitude questions than coding questions, so try to solve maximum 
+questions possible. 
+Round 2: Technical Interview 
+1. Tell me about yourself? 
+2. Detailed explanation of various projects in the resume? 
+ 
+While explaining about projects try to explain with some pictorial representation like ER- 
+diagrams etc.  
+3. A puzzle question from geeks for geeks. 
+4. Basic concepts from OS,OOPS and DBMS. 
+5. Difference between structured and unstructured data. 
+ 
+Try to explain the concepts in layman point of view with real time examples. 
+Round 3: HR Interview 
+1. Tell me about yourself? 
+2. What I expect from Citicorp? 
+Then they opened up for questions, try to ask questions like how will be our learning curve in the 
+company, technologies used in the company etc. 
+Topics to be focused: 
+ 
+Database management system 
+ 
+Object Oriented Programming 
+Take away: 
+ 
+Try to answer all the questions and never say I don’t know or I forget, think and expose your 
+approaches to the questions. Have a good knowledge in general scenarios, sql queries and coding 
+questions.Be confident and cool. 
+Thankyou and All the very best. 
+With regards, 
+Sri Harini.K 
+srikansud@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

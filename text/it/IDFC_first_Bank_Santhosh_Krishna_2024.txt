@@ -1,0 +1,40 @@
+**Experience Document**
+
+Santhosh Krishna,
+
+IDFC First Bank
+
+**About the company:**
+
+IDFC First Bank is one of the fastest growing banks in India. The bank is really focused on being Digitally sound and forward. As part of **technology led banking**, we have built a modern technology stack which has helped us build an advanced mobile app with 250+ features such as Google like Search, goal based investing, MF investment assistance, electric-speed payments, Account Aggregator, MF Aggregator, Personal Finance Manager, Auto categorisation of spends, single app for personal and business banking, UPI on Credit Cards, travel and shop, bill and recharges, deals and reward redemptions, which offer great convenience to our customers. For business customers we offer on-the-go bulk payments, ability to pay income tax, GST, customs duty, and connected banking with ERP solutions.
+
+**About the role:**
+
+My assigned role is “Application engineer”, it is the default role assumed by all freshers/grads. As part of the role, we are expected to basically learn stuff. Our current year’s goals are defined in terms how much we can learn from the bank and the team we are assigned to. Apart from that, you are slowly introduced to your teams’ environment, you’ll be pairing with senior staff in your team and eventually be carrying out tasks.
+
+**Preparation strategy:**
+
+I had a very standard strategy for placements. Some of them include:
+
+* Revising resume projects and skills, etc.
+* Strong fundamentals
+* Practicing important DSA questions
+* Covering frequently asked questions in interviews in all major topics
+
+In my opinion, this will help clear any regular interviews.
+
+**Placement drive experience:**
+
+The online test was comparatively easy. We had 10 MCQs and two coding questions (one easy and another medium).
+
+The interview was held in two rounds. The first round was pretty simple, they asked about our interests, favorite subject, internship experience, and achievements.
+
+Most of us were short-listed for the second round. This was also a simple round. They asked us about the same but with some fundamental questions on programming.
+
+**Tips and tricks:**
+
+* Be honest and straight-forward
+* Have clear understanding of yourself (strengths, weakness and interests)
+* Be mindful of your answers during the interview
+* Speak clearly and slowly. The interviewer should be able to hear what you’re trying to say, and that is more important that what you are saying.
+* Take your time when required. You’re not assessed based on how fast you can answer.

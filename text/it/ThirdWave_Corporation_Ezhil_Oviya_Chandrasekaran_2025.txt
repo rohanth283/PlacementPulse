@@ -1,0 +1,65 @@
+EZHIL OVIYA C - Information Technology – TE Placement in Thirdwave corporation, japan
+
+**About the Company**:
+
+ThirdWave Corporation, based in Japan, is a renowned technology-driven company focused on delivering cutting-edge solutions in embedded systems, hardware-software co-design, and semiconductor technologies. The company emphasizes innovation, cross-cultural collaboration, and technical excellence. With a strong reputation in the tech space, ThirdWave offers a unique environment to work on real-world applications that drive global impact.
+
+**About the Role**:
+
+I got placed at ThirdWave Corporation, Japan through the college’s campus placements. The opportunity was open to students from the CS, IT, and MCA departments. I have been selected for the position of Technology Engineer, a role that involves working on innovative tech-driven solutions and participating in core engineering activities. ThirdWave are actually starting up their AI labs so it’s a fresh start. As a Technology Engineer, I will be expected to contribute to the development, testing, and optimization of high-performance systems, which may include areas like embedded systems, digital design, and hardware-software integration. The role is a perfect blend of research and development, technical problem-solving, and hands-on implementation, offering immense learning and growth potential in cutting-edge technology domains. It also opens up avenues to collaborate with global teams and be part of a culture that emphasizes precision, innovation, and continuous improvement.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* Resume Shortlisting
+* Interview Round (Based on Resume and General HR) – in CUIC
+
+Domains offered:
+
+Technology Engineer – AI domain
+
+**Interview Round (Based on Resume and General HR):**
+
+This round was purely based on our Resume and General HR questions. The questions were general. The panel consisted of 3 members and a translator to translate between Japanese and English, and there were two panels. This round went for like 45 minutes to an hour, since there were only two panels and four of the candidates were interviewed at a time.
+
+* Tell me about yourself.
+* They had asked us explain our projects, the tech stacks used in it, etc.
+* What challenges did you face while working on your projects?
+* What role did you undertake in the projects?
+* Why did you choose ThirdWave?
+* Any questions for the panel about the company?
+
+**TRICKS THAT I FOLLOWED**:
+
+* Do Update your resume regularly according to the job description and always be thorough at what you’re mentioning in your resume.
+* Don’t put anything that you don’t know in the resume.
+* You should be in the position to be able to answer any questions based on your resume.
+* Polish your communication skills well as most companies do prefer that sometimes more than our experience.
+* I listened to the PPT which actually helped me to get a view of what they do in ThirdWave. This is my advice, if you are selected for the interview, do gather info about the company and recall whatever told in the PPT. Use that knowledge for answering questions about the company and why you’re interested in working there.
+* In every round, they’ll ask “Do you have any questions for us?” as the last question.
+  Do ask a lot of reasonable questions,
+  about the company,
+  tech stacks used,
+  kind of projects that we do in intern,
+  location of work,
+  Could you please tell me your experience in ThirdWave,
+  Work culture
+  Your questions will determine your eagerness to work in the company.
+* So, if they do ask, “Any questions to us?”, do ask atleast a question about the company or the role or whatever interests you.
+* Be confident and honest while presenting your work. Even if your project isn't super complex, your clarity and involvement in it will show your dedication.
+* Be prepared with a good answer to “Tell me about yourself”, tailored to what the company values. Make sure to show genuine curiosity about the company.
+* Read up about their work, culture, and industry standing – it helps shape your answers better.
+* Don’t worry if it feels casual – interviews like these often check how well you communicate and whether you're eager to learn and grow.
+
+**MY PREPARATION STRATEGY:**
+
+* I began my preparation journey during my 3rd year semester holidays. Initially, it wasn’t consistent—there were a lot of distractions, procrastination, and moments of self-doubt. It was especially discouraging when many of my friends got placed during the 7th semester, and I hadn’t. That phase hit hard.
+* Balancing final year project work, academics, and placement preparation at the same time was no easy task. There were times when I felt overwhelmed and emotionally drained, but one thing I never allowed myself to do was give up.
+* One major lesson I learned is: never stop working on your dreams. No matter how delayed it feels, continuous preparation, especially in programming and aptitude, is crucial. If we lose touch, it becomes really hard to bounce back.
+* I finally got placed just one month before the end of my 8th semester, and looking back, I realize how much persistence paid off.
+* I didn’t spend much time on coding platforms like HackerRank, but I was very thorough with the fundamentals — Data Structures, OOPs, DBMS, Operating Systems, and Computer Networks. These core subjects formed the foundation of my confidence during interviews.
+* I started preparing for aptitude later in the process but made sure I understood the logic behind every concept rather than memorizing tricks.
+* One piece of advice I’d give: pay attention to what you learn in college. Most of the interview questions I faced were closely related to what we study in our core subjects. So don’t underestimate them—they helped me immensely.
+* It was a long journey filled with ups and downs, but if there’s one thing I’d say to anyone preparing—keep moving forward, no matter how slow it feels.
+* Progress is progress.

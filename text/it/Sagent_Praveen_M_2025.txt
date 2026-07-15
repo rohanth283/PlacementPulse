@@ -1,0 +1,149 @@
+**Praveen M – Information Technology**
+
+**Intern + FTE in SAGENT M&C**
+
+**CTC: 10 LPA (Fixed: 7.5)**
+
+**2.5 (1 lakh first year bonus,1.5 lakhs second year bonus)**
+
+**About the company:**
+
+Sagent powers banks and lenders to make loans and homeownership simpler and safer for millions of consumers. We bring the modern experience customers now expect from loan originations to loan servicing, where lifetime customer relationships are managed and grown. Sagent platforms let consumers manage their home-owning lives from anywhere while giving servicers lower costs, scale compliance, and higher servicing values through full market cycles.
+
+**About the Role:**
+
+**ROLE: Software Engineering Intern**
+
+**During the Internship Tenure,**
+
+**•** You will work on Live Production Projects, with Pair Programming mentorship .
+
+• Be a high energetic and passion working in the full stack programming mode.
+
+• Learns the Concepts during the internship program and apply it in the real time projects.
+
+• Willingness to learn and adapt to the technologies.
+
+• Should be self-motivated, excited to work on different projects in DevOps, UI, Data, Dynamics, java, dot net, spring boot, node js, etc... and meticulous with work.
+
+• You will have exposure to Global Certifications eg., GCP, MBA
+
+• Goal-oriented, ambitious, dedicated to a long-term vision.
+
+**SELECTION PROCESS:**
+
+1.Short coding (at CUIC)
+
+2.Long coding - System Design (at office)
+
+3.Technical Discussion (at office)
+
+4.Management Discussion (at office)
+
+**ROUND 1: SHORT CODING**
+
+**Duration: 1 hour 30 minutes**
+
+Around 150 members were shortlisted for Round 1, and the test was conducted offline at CUIC for IT, CSE, and ECE.
+
+**SECTION 1 (15 marks):**
+
+* They were asked 15 multiple-choice DSA questions, all requiring basic knowledge, such as the height of a BST, preorder traversal, sorting, polymorphism, etc.
+
+**SECTION 2 (6 coding questions):**
+
+* Each of the 6 questions was easy and required only a few lines of code: magic numbers, sorting, addition of pairs, traversal, and two others – Short coding
+* I solved 3 questions completely, but for two others, a few test cases likely failed, and one question was incorrect. This is all my guess, as there was only an option to submit, with no option to view or run the test cases.
+* I took the full 1 hour and 30 minutes.
+
+**Round 2 : LONG CODING(System Design)**
+
+**Duration: 2 hours 30 minutes**
+
+* 12 members were shortlisted.
+* They were divided into two groups, with each group having 6 members.
+* In this round, they give a scenario and ask you to design a solution.
+
+**![](data:image/jpeg;base64...)Question:**
+
+**Phase 1 (Diagrammatical representation):**
+
+**Duration : 1 hour**
+
+I took 15 minutes to read the 8 criteria 2 or 3 times and make notes of the key words and rules for the system.
+
+* They announced that you have the next 45 minutes to represent your plan of implementation using any UML diagram (I Prefer class diagram)
+* There are 4 or 5 company members allocated to each of the two groups. They come to our place, ask about our plan, and raise doubts like, 'Why are you using that as the primary key?' or 'Does that table need to be there?' Every 5 minutes, someone comes and asks, and I have to explain what I've done until.
+* After asking questions, if they find any mistakes, they help a lot to avoid issues.
+
+**Conclusion:**
+
+Generally, they won't require an exact answer from you; they just judge the depth and your approach, way of thinking, creativity, time complexity and explanation.
+
+Many were impressed with my answer in this phase, which will help me move to the next round directly without being judged on phase 2
+
+**Phase 2(Implementation):**
+
+**Duration: 1 hours 30 minutes**
+
+Ask to implement the above diagrammatic representation in code (I prefer to use C++ OOPS to implement it)**.**
+
+* Similar to the above phase, every 5 minutes, someone will come to ask you to explain what you've designed until then.
+
+**Conclusion:**
+
+They see how well you implemented your design and the user-friendly system.
+
+**ROUND 3: Technical Discussion**
+
+5 members were Shortlisted.
+
+**Duration: 1 hour 30 minutes**
+
+* Introduce yourself.
+* First question, Types of polymorphism
+* Second question, Explain runtime polymorphism with example
+* In that make several changes from C++ to Java interface. What will happen when a child object is assigned to a parent class? ( Nearly half an hour is spent explaining clearly with more examples, which allows me to explain more confidently and make a strong first impression).
+* DSA questions:
+
+1. Find a number in an array where the elements before it are in ascending order and the elements after it are in descending order (with time complexity)
+2. Valid Parentheses
+3. Inorder traversal
+
+All questions were solved with an optimal solution, including a **clear dry run of the given inputs**, which was completed very quickly, making a strong second impression.
+
+* What's the difference between traditional (HTML, CSS, JS) and React JS?
+* What are a Primary key and a Foreign key?
+* What is referential integrity?
+* What is Normalization? and some SQL, DBMS questions.
+* Do you know about SOLID principles?
+* Given three tables, ask a nested SQL query that uses the LIKE clause, aggregate functions, LIMIT, SORT to find the top three and JOIN . (For this question, I gave my answer. They asked, 'Do you think it is the exact answer?' I replied, 'I am not familiar, sir.')
+* Finally,
+* You have 5 bottles, each containing 10 pills, and each pill weighs 10 grams, except for one bottle, which contains duplicate pills, each weighing 9 grams. So, 4 bottles will weigh 100 grams, and the one with the duplicate pills will weigh 90 grams. You need to find the bottle containing the duplicate pills using the weight machine, but you are allowed to use it only once.
+* I put forth all my different ideas and solutions, but they asked for the exact solution. In the end, I replied that I am not familiar with it.
+
+**Conclusion:**
+
+For questions that are very familiar to you, connect related topics and provide more examples (For example, they asked, 'What is a primary key?', I answered with super key, primary key, candidate key, alternate key, and foreign key). This made them feel that you are technically very strong, and it can help consume your interview duration. However, for some questions, they prefer quick answers, so you have to be careful.
+
+**Round 4: Management Discussion**
+
+2 members were Shortlisted.
+
+* In this round, they just asked about your hobbies, college, and had some jolly conversations.
+* They were just testing my communication skills.
+* They said you are selected and, apart from your technical strength, since this is an American-based company, they asked me to improve my communication in English.
+
+**“2 members were selected, provided offer letter same day at office”**
+
+**My suggestions:**
+
+1. Strong in core subjects
+2. Strong in DSA.
+3. Honest in your resume. (I included only one project, C++ and PostgreSQL in my resume to avoid questions about topics I am unfamiliar with).
+4. Be confident during your interview process.
+5. Explore and spend time on things more related to your placement or career, not those related to college requirements.
+
+**ALL THE BEST RA JUNIORS!!!!**
+
+**For any doubts Contact me: 9787239625**

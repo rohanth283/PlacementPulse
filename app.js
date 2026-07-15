@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const filterYear = document.getElementById('filter-year');
     const filterRoleType = document.getElementById('filter-role-type');
     const filterDifficulty = document.getElementById('filter-difficulty');
+    const filterDepartment = document.getElementById('filter-department');
     const experiencesGrid = document.getElementById('experiences-grid');
     
     // Slide Drawer Elements
@@ -68,6 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const panelDifficultyBadge = document.getElementById('panel-difficulty-badge');
     const panelYearBadge = document.getElementById('panel-year-badge');
     const panelTypeBadge = document.getElementById('panel-type-badge');
+    const panelDeptBadge = document.getElementById('panel-dept-badge');
     const panelFilename = document.getElementById('panel-filename');
     const panelExperienceText = document.getElementById('panel-experience-text');
 
@@ -784,10 +786,14 @@ document.addEventListener('DOMContentLoaded', () => {
         data.forEach(exp => {
             const card = document.createElement('div');
             card.classList.add('exp-card');
+            const dept = exp.department || 'CSE';
             card.innerHTML = `
                 <div class="exp-header">
                     <span class="exp-company">${exp.company}</span>
-                    <span class="exp-difficulty ${exp.difficulty}">${exp.difficulty}</span>
+                    <div class="exp-badges">
+                        <span class="exp-dept-badge ${dept.toLowerCase()}">${dept}</span>
+                        <span class="exp-difficulty ${exp.difficulty}">${exp.difficulty}</span>
+                    </div>
                 </div>
                 <h4>${exp.candidate_name}</h4>
                 <div class="exp-details">
@@ -813,6 +819,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const selectedDifficulty = filterDifficulty.value;
         const selectedYear = filterYear.value;
         const selectedRoleType = filterRoleType.value.toLowerCase();
+        const selectedDepartment = filterDepartment ? filterDepartment.value.toLowerCase() : '';
         
         const filtered = state.experiences.filter(exp => {
             const matchesQuery = !query || 
@@ -824,8 +831,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const matchesDifficulty = !selectedDifficulty || exp.difficulty === selectedDifficulty;
             const matchesYear = !selectedYear || String(exp.year) === String(selectedYear);
             const matchesRoleType = !selectedRoleType || String(exp.role_type).toLowerCase() === selectedRoleType;
+            const matchesDepartment = !selectedDepartment || String(exp.department || 'CSE').toLowerCase() === selectedDepartment;
             
-            return matchesQuery && matchesCompany && matchesDifficulty && matchesYear && matchesRoleType;
+            return matchesQuery && matchesCompany && matchesDifficulty && matchesYear && matchesRoleType && matchesDepartment;
         });
         renderExplorerGrid(filtered);
     }
@@ -835,6 +843,9 @@ document.addEventListener('DOMContentLoaded', () => {
     filterDifficulty.addEventListener('change', filterExperiences);
     filterYear.addEventListener('change', filterExperiences);
     filterRoleType.addEventListener('change', filterExperiences);
+    if (filterDepartment) {
+        filterDepartment.addEventListener('change', filterExperiences);
+    }
 
     // ----------------------------------------------------
     // Experience Detail Slide-Over Drawer
@@ -848,6 +859,7 @@ document.addEventListener('DOMContentLoaded', () => {
             panelDifficultyBadge.textContent = "---";
             panelYearBadge.textContent = "---";
             panelTypeBadge.textContent = "---";
+            if (panelDeptBadge) panelDeptBadge.textContent = "---";
             panelFilename.textContent = "---";
             panelExperienceText.textContent = "Fetching complete interview transcript from RAG database...";
             
@@ -872,6 +884,12 @@ document.addEventListener('DOMContentLoaded', () => {
             
             panelYearBadge.textContent = doc.year || "2025";
             panelTypeBadge.textContent = doc.role_type || "Placement";
+            if (panelDeptBadge) {
+                const d = doc.department || "CSE";
+                panelDeptBadge.textContent = d;
+                panelDeptBadge.className = 'badge';
+                panelDeptBadge.classList.add(d.toLowerCase());
+            }
             panelFilename.textContent = doc.source_file;
             panelExperienceText.innerHTML = marked.parse(doc.text);
             

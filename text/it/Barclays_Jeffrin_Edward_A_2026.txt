@@ -1,0 +1,90 @@
+Jeﬀrin Edward A — Barclays
+Tech Intern
+
+About the company:
+Barclays Global Service Centre (BGSC), India, is a global capability center, supporting
+Barclays businesses worldwide, delivering innovative end-to-end business solutions in
+Technology, Operations and Functions.
+
+BGSC is technology-driven and underpinned by operational excellence to ensure
+excellent outcomes for our customers and clients through game-changing innovation,
+working collaboratively in a control-centric environment.
+
+TAKEN STRAIGHT FROM BARCLAYS’ ABOUT US:
+
+Our vision is to be the UK-centred leader in global finance. We are a diversified bank with
+comprehensive UK consumer, corporate and wealth and private banking franchises, a
+leading investment bank, and a strong, specialist US consumer bank.
+
+About the Role
+Tech Intern at Barclays will be a real part of the team, working with their experts and
+learning about the industry, their clients, their firm and a specific area of it. They’ll have
+plenty of opportunities to develop new skills and make contacts. Barclays offers a diverse,
+inclusive, and engaged culture. A place where people can bring their whole selves to
+work and be respected for who they are, valued for what they do, and celebrated for their
+contribution to their business and the community.
+
+Selection Process:
+
+Online Test
+
+The test was for one hour. There were four sections: One each for syntax-based
+MCQs of C, C++, and Java. The last section consisted of five coding questions
+from SQL.
+For C: Questions were from pointers, structs, memory allocation based, and
+function pointers.
+For C++: Questions were from topics like virtual functions, inheritance, and
+operator overloading.
+For Java: Questions were from topics like static classes, inheritance, packages, and
+access specifiers.
+For SQL coding: You can use MySQL, PostgreSQL, Oracle, and MSSQL. Questions
+expected you to know various string-based, date-based, aggregate, and other
+functions in SQL, subqueries, and joins
+
+Interviews 1 & 2
+
+Since both the interviews were mixed(Technical + HR), I will separate this section
+into Technical and Behaviour-based questions:
+
+Technical:
+DBMS: Asked to write simple SQL queries like self-join, group by, and rank
+function.
+Basic DBMS concepts like relations, schemas, and how data in db is stored on disk.
+SE: Stages of Software development, Approaching each stage, Risk Management,
+and Maintaining Quality. For me, the questions were based on how to design the
+architecture for a CRM, how would you code and test it. There were also questions
+on how I managed various risks in the project I mentioned in my resume.
+OOPS: Basic concepts of Inheritance, Compile-time and Run-time Polymorphism,
+Encapsulation, and Access Specifiers
+Others: Questions were asked based on skills mentioned in my resume like Git,
+MERN. HTTP protocol and REST were asked since I mentioned Postman in Skills I
+knew. I was also asked whether I had automated anything
+
+Behaviour:
+How did you plan or distribute work among yourselves in your group project?
+How did you manage a group member who wouldn’t contribute?
+How would you manage the workload if an important member left your team at
+crucial stage in your project?
+What is your opinion on using ChatGPT for work purposes?
+How do you sort out a technical difficulty you’ve run into?
+
+Tips on How to Prepare
+Have a solid understanding of the basics of your subjects in the second year.
+
+Have at least two good quality projects (and at least one group project) that you
+know how they work.
+
+Have a good grasp of SQL and DBMS concepts. Use SQL HackerRank or LeetCode
+problems for practice.
+
+Develop a basic intuition for Software Engineering.
+
+Throw aside negativity while attending your interview and focus only on your
+positives.
+
+Presentation and Communication matter while attending your interview
+
+For Barclays, DSA and LeetCode won’t be necessary. But for any other company,
+try solving NeetCode 150 or Striver A2Z Sheet. Make sure you solve them on your
+own before seeing the solution.
+

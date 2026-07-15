@@ -1,0 +1,127 @@
+             APPIAN INTERVIEW EXPERIENCE 
+Role: Software Engineer 
+Appian Corporation is an American cloud computing and enterprise 
+software company headquartered in McLean, Virginia, part of the 
+Dulles Technology Corridor. The company sells a platform as a service 
+(PaaS) for building enterprise software applications. It is focused on 
+low-code development, process mining, business process 
+management, and case management markets in North America, 
+Europe, the Middle East, and Southeast Asia. Appian offers a low-
+code platform with a visual interface and pre-built development 
+modules. As with other low-code platforms, it enables businesses to 
+create apps and automations using little or no code. 
+ 
+There are founds rounds of interview 
+1. Coding round 
+2. Technical round 
+3. Techno - Behavioral round 
+4. HR round 
+Coding Round: 
+                    Candidates were sent a link to attend the online coding 
+round, which was held on the Glider platform. We had to solve three 
+questions in 75 mins. 
+Qn1: 
+       Given a sorted array and a value x, find the first and last 
+occurrence of value x in the array and return them. If x is not found in 
+the array, return {-1, -1}. 
+Link : https://leetcode.com/problems/find-first-and-last-position-of-
+element-in-sorted-array/description/ 
+Since the given array is sorted, we can solve this problem using 
+binary search (lowerbound and upperbound) 
+Qn2: 
+      Given a sorted array which contains non – overlapping intervals 
+and a new interval which need to be inserted into the appropriate 
+position and return them . The answer should also need to be in 
+sorted order, and there should not be any overlapping intervals . 
+ Link : https://leetcode.com/problems/insert-interval/description/ 
+     Since the array is sorted , we can solve this problem in a one pass. 
+Qn3: 
+      Given a 1-D array which contains numbers from 1 to n where n is 
+size of the array . It must contains a duplicate number and a missing 
+number. A 2-D array in the size of M * 2 will be given, where M is the 
+number of rows in the 2-D array and this 2-D array remains the same 
+for every test case. Find the duplicate and missing number from the 
+1-D array and check whether both of them occur as a pair in the 2-D 
+array.  
+If the pair occurs more than 1 time, return the pair with the string as  
+“Multiple teams found” 
+Else if the pair occurs only 1 time, then return the pair with the string 
+“A Team found” 
+Else return {-1 , -1 , “No team found”} 
+Link : https://leetcode.com/problems/set-mismatch/description/ 
+In this problem, finding out the duplicate and missing number is the 
+key, then we can just traverse the 2-D array and figure out their count 
+of occurrence and return the answer.  
+    I had solved all the problem with optimal solution. Try to code the 
+optimal solution which must provides u an edge over others!!! 
+     42 of us were selected for next round. 
+ 
+Technical Round: 
+       This round begins with the self-introduction. And then I had given 
+2 coding questions.This is a pen and paper round so I just conveyed 
+the approach and wrote the code segment in the paper. 
+Qn1: 
+        Given a string s which is actually name of people who are need 
+to be separated into 2 groups , find the sum of alphabetical indices of 
+first and last character of the string and check whether it is even or 
+odd.  
+If it’s even , then return “Blue”  
+Else return “Red” 
+Eg : Input :: s = “Dilshan” 
+       Output :: “Blue” 
+       Explanation : D and N occurs as 4th and 14th character in 
+alphabets . Sum of them would be 18 which is even , so return “Blue” 
+as result. 
+       Initially , I provided an approach using hashMap to store indices 
+of alphabets. Then the interviews asked me , should u actually 
+needed hashMap to solve this problem and then I had moved to the 
+optimal solution which doesn’t make use of hashMap. 
+Qn2:  
+       Given a string s, check whether it’s sorted alphabetically or not . 
+If it’s sorted , return “Yes” else return “No”. 
+       This can be solved easily by just traversing the string. 
+        Important thing here is ,They actually don’t reveal the question 
+like this , they try to convey this like a scenario. Just think about the 
+problem and give the answer.  
+        Since I had done projects on  MongoDb and MySql. He actually 
+asked me about the differences and what’s the reason behind 
+choosing MySql over MongoDb . Also a scenario is given and he 
+asked me what kind of Database will u use here and why? 
+Techno - Behavioral Round : 
+        This round actually revolves around my favourite subjects and 
+some questions like  
+           Why Appian and why not someother firms like Amazon? 
+         Finally , he asked about Quicksort Best and Worst case Time 
+complexity. I told him the answer with the justification. 
+HR Round: 
+        In this round, they actually asked me about my academics and 
+checked my DBMS knowledge and few questions related my projects 
+also been asked. He asked about Many – to – Many Relationship in 
+DBMS and how many tables are actually needed to implement it and 
+the reason behind it? 
+              In every round , you will be given the chance to ask them 
+some questions, so be ready with some questions and make sure that 
+question would be impressive. 
+              12 of us (8 from CEG and 4 from Mit) got selected for the role 
+of Software Engineering Intern. 
+Key Takeaways: 
+              Try to provide the optimal solution. Start from brute force 
+and then convey the optimal solution which would provide u an edge 
+over others. 
+               Start practising DSA early as possible and keep an eye on 
+core subjects like DBMS , OS , OOPS. 
+               Be true to yourself. Questions are obviously from your 
+resume and know whatever mentioned in your resume. 
+               CGPA also plays a vital role, so keep an eye on that too. 
+               Keep trying and take your failures as a lesson, learn from it 
+and get better!!! 
+                Be Confident!!! 
+ 
+Hope this helps 
+All the best!!! 
+Dilshan Chinnappan A, 
+CEG CSE’27 
+LinkedIn : www.linkedin.com/in/dilshan-chinnappan 
+Email : dilshanchinnappan2006@gmail.com 
+Phone : 9345861084 
+                

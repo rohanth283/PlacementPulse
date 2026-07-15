@@ -1,0 +1,95 @@
+|          |            | Solartis | Interview | Experience |
+| -------- | ---------- | -------- | --------- | ---------- |
+| About    | Company:   |          |           |            |
+| Solartis | Technology | Services | Pvt. Ltd  |            |
+A leading Insurance techology provider that specializes in cloud-native,
+microservices-based policy administration platforms for the Property &
+Casualty (P&C) insurance market. Solartis LLC is headquartered in Manhattan
+Beach, California, with major Indian delivery and operations centers in Chennai
+(DLF IT Park), Madurai, and Coimbatore. It employs approximately 550 staff
+members globally comprising software engineers, business analysts, and
+| insurance    | operations | specialists. |     |     |
+| ------------ | ---------- | ------------ | --- | --- |
+| Selection    | Process:   |              |     |     |
+| 1. Online    | Test       |              |     |     |
+| 2. Technical | Interview  |              |     |     |
+| 3. HR        | Interview  |              |     |     |
+| Round        | 1: Online  | Assessment   |     |     |
+[60 mins]
+Each section is time bounded with 15 minutes each and max of 30 questions
+per section.
+| Topics | covered are |     |     |     |
+| ------ | ----------- | --- | --- | --- |
+Quantitative Aptitude: Focus on basic arithmetic - Percentages, Profit & Loss,
+| Ratios and | Averages. |     |     |     |
+| ---------- | --------- | --- | --- | --- |
+Logical Reasoning: Number series, coding-decoding, attention to detail and
+blood relations.
+Puzzles: Simple analytical puzzles that require quick thinking.
+| Personality | Test: | How fit you | are to the company | culture. |
+| ----------- | ----- | ----------- | ------------------ | -------- |
+
+| Round         | 2: Technical |          | Interview  |         |       |     | [25 mins] |
+| ------------- | ------------ | -------- | ---------- | ------- | ----- | --- | --------- |
+| 1. Project    | in-depth     |          | discussion |         |       |     |           |
+| Your projects |              | are the  | star       | of the  | show. |     |           |
+| Be prepared   | to           | explain: |            |         |       |     |           |
+| What is       | the need     | for      | the        | project | ?     |     |           |
+| Reason        | for tech     | stack    | chosen     |         |       |     |           |
+Discuss a specific technical issue you faced and how you solved it.
+| Can you  | draw        | the flow | of   | your | project?     |     |     |
+| -------- | ----------- | -------- | ---- | ---- | ------------ | --- | --- |
+| 2. Core  | CS concepts |          |      |      |              |     |     |
+| You must | have        | a solid  | grip | on   | below stuffs | :   |     |
+Definitions and real-world examples of Inheritance, Polymorphism,
+| Encapsulation |         | and | Abstraction. |     |             |             |     |
+| ------------- | ------- | --- | ------------ | --- | ----------- | ----------- | --- |
+| Differences   | between |     | Abstract     |     | Classes and | Interfaces. |     |
+Overall knowledge of any kind of database questions (Eg. Distributed Systems,
+| why cloud | is preferred, |     |     | etc) |     |     |     |
+| --------- | ------------- | --- | --- | ---- | --- | --- | --- |
+Writing basic to intermediate queries (Joins, Group By, Aggregate
+functions).Even explaining the logical working of such queries is enough.
+| 3. Domain | Knowledge |     |     |     |     |     |     |
+| --------- | --------- | --- | --- | --- | --- | --- | --- |
+Solartis has been integrating AI & ML into their workflow. Even showing
+| awareness       | is a | huge | advantage.: |     |     |     |     |
+| --------------- | ---- | ---- | ----------- | --- | --- | --- | --- |
+| Basic Knowledge |      | of   | AI and      | ML  |     |     |     |
+Know the high-level concept of RAG how an LLM uses external data to provide
+| accurate | answers. |     |     |     |     |     |     |
+| -------- | -------- | --- | --- | --- | --- | --- | --- |
+If you have worked on chatbots, explain the intent recognition or flow logic.
+
+| Round | 3: HR Interview |     |     | [10 mins] |
+| ----- | --------------- | --- | --- | --------- |
+This is more of a conversation than an interview. They are looking for
+commitment. They want to know if you are actually interested in the job or
+just looking for any offer. They might not give you a specific job title
+immediately but expect it to be AI and ML focused. They will walk you through
+the company's culture and the pay structure. It is very chill so just be polite and
+| show that   | you are ready | to grow with | them. |     |
+| ----------- | ------------- | ------------ | ----- | --- |
+| Preparation | Tips:         |              |       |     |
+Though this interview didnot focus on Data Structures and Algorithms, it is the
+most important for software engineering roles. So try to put much effort on
+DSA even before start of placement drive. Take notes for DSA for revision.
+Focus on core CS subjects like OOPs, DBMS, OS, Networks, Basic AI, ML, Data
+Science. OOPs amd DBMS are the most important among them. Other subjects
+| are important | pertaining | to the company | and job role. |     |
+| ------------- | ---------- | -------------- | ------------- | --- |
+There are more possibilities of companies to hire you for AI and Data Science
+roles. So it is preferred to have such kind of projects and knowing strong
+| fundamentals | of them. |     |     |     |
+| ------------ | -------- | --- | --- | --- |
+Focus on some aptitude kind of problem solving. Some companies will be
+having aptitude test. Though aptitude is not given much importance on on-
+campus placement, aptitude is everywhere in government exams and in
+service based companies and startups. So don’t hesitate to spend time to learn
+it.
+| Contact   | Information:                |     |     |     |
+| --------- | --------------------------- | --- | --- | --- |
+| Name:     | Adithiyan                   | M   |     |     |
+| Mobile    | No: 9444317169              |     |     |     |
+| EmailId:  | adithiyanmurali16@gmail.com |     |     |     |
+| LinkedIn: | Adithiyan                   | M   |     |     |

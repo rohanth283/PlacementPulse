@@ -1,0 +1,78 @@
+Summer Internship Experience – Dover 
+- 
+Haridass S ( 2022103614) 
+About Dover 
+Dover is a diversified global manufacturer and solutions provider headquartered in Downers 
+Grove, Illinois, USA, with revenue exceeding $7 billion. The company provides innovative 
+equipment and components, consumable supplies, aftermarket parts, software and digital 
+solutions, and support services across five operating segments: Engineered Products, Clean 
+Energy & Fueling, Imaging & Identification, Pumps & Process Solutions, and Climate & 
+Sustainability Technologies. For over 70 years, Dover has been recognized for its 
+entrepreneurial approach. With a team of approximately 24,000 employees, the company 
+embraces an ownership mindset and works closely with customers to redefine what’s 
+possible. 
+ 
+ 
+Dover visited our campus for summer internship hiring. The usual selection process included 
+one online assessment, two technical interviews, and an HR round. However, in my case, I 
+had only one online assessment followed by a single technical interview. 
+ 
+Round 1: Online Assessment 
+The test consisted of 60 multiple-choice questions to be completed in 60 minutes. It was 
+divided into four sections: 
+• 
+Computer Science Fundamentals (15 questions) 
+• 
+Logical Reasoning (15 questions) 
+• 
+Quantitative Aptitude (15 questions) 
+• 
+Data Structures and Algorithms (15 questions) 
+The level of difficulty was moderate, but speed and accuracy were essential. With consistent 
+practice in problem-solving platforms, I found this round manageable. Out of all the 
+participants, 15 students were shortlisted for the next round. 
+ 
+Round 2: Technical Interview 
+Since I had highlighted my strength in problem-solving, the interview mainly focused on DSA 
+and project discussion. 
+• 
+DSA Problems: 
+o Count Number of Nice Subarrays: 
+The interviewer asked me to solve this problem, as it was one of the daily 
+challenges I had recently solved on LeetCode. I walked them through the 
+problem, explained the naive and optimized approach, and wrote clean code 
+using prefix sums and hashmap for an efficient solution. 
+o Frequency of the Most Frequent Element: 
+For this, I was asked to explain only the logic. I discussed the sliding window 
+technique after sorting, maintaining a window with two pointers, and how to 
+keep track of the current frequency. I also mentioned the time complexity 
+and edge cases. 
+• 
+Project Discussion: 
+I was asked to explain one of the projects I had listed on my resume. I chose a full-
+stack project where I used DSA in backend logic. I explained the overall architecture, 
+the flow between frontend and backend, and how specific data structures (like 
+hashmaps and arrays) helped in efficient data handling. 
+The interviewer also asked why I chose certain structures and whether the system 
+could scale with larger data. 
+Overall, it was a very engaging and focused interview. I appreciated that the interviewer took 
+interest in my LeetCode profile and asked relevant questions. 
+ 
+Out of 15 shortlisted students, only 3 were selected for the summer internship at Dover, and 
+I was fortunate to be one of them.  
+ 
+Tips for Preparing for Dover Internship 
+1. Master the Basics + DSA: 
+Focus on CS fundamentals (OS, DBMS, CN, OOP) and practice DSA daily. Most 
+interview questions come from topics like sliding window, prefix sum, and hashmaps. 
+2. Practice Aptitude & Logical Reasoning: 
+The online assessment isn’t just coding—quantitative and logical questions also 
+matter. Practice regularly on platforms like IndiaBix and GeeksforGeeks. 
+3. Keep Your Profiles Ready: 
+Update your LeetCode and GitHub profiles. Interviewers might ask to see your recent 
+activity or pick questions based on your solved problems. 
+4. Know Your Projects Well: 
+Be ready to explain your projects, especially the logic and DSA used. Highlight design 
+decisions, challenges faced, and how you solved them. 
+For more information, connect with me on LinkedIn: www.linkedin.com/in/haridass-s-
+57065425a 

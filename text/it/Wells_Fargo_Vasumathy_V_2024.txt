@@ -1,0 +1,119 @@
+VASUMATHY V – INFORMATION TECHNOLOGY
+
+TECH INTERN - WELLS FARGO (JUNE-JULY 2024)
+
+About The Company
+
+Wells Fargo & Company is an American multinational financial services company with a
+significant global presence. It is a systemically important financial institution according to
+the Financial Stability Board, and is considered one of the "Big Four Banks" in the United
+States, alongside JPMorgan Chase, Bank of America, and Citigroup.
+
+Founded in 1852 and headquartered in San Francisco, Wells Fargo provides banking,
+investment and mortgage products and services, as well as consumer and commercial finance,
+through more than 7,300 locations, 12,000 ATMs, the internet (wellsfargo.com) and mobile
+banking, and has offices in over 40 countries and territories to support customers who
+conduct business in the global economy. With approximately 250,000 team members, Wells
+Fargo serves one in three households in the United States. Wells Fargo & Company was
+ranked No. 41 on Fortune’s 2022 rankings of America’s largest corporations.
+
+Wells Fargo has offices in the United States, India (Chennai, Bengaluru, Hyderabad) and the
+Philippines.
+
+About the Role
+
+I worked as a Tech Intern in Wells Fargo, Chennai. The LOB (Line of Business) I worked
+under was CT (Consumer Technology). Wells Fargo's consumer technology domain focuses
+on enhancing digital banking through mobile and online platforms. It emphasizes
+personalized customer experiences, leveraging data analytics, and improving UI/UX design
+to ensure seamless and secure interactions, ultimately driving customer satisfaction and
+operational efficiency in consumer banking.
+
+Overview of the Process
+
+1)  Online coding round
+
+  Aptitude MCQ questions
+  English MCQs
+  Statistical MCQs
+  2 coding questions
+
+2)  Interview at CUIC
+
+  Round 1 – Technical interview
+  Round two – Technical / Critical thinking interview
+  Round three – HR interview
+
+Online Coding Round
+
+The online coding round first started off with the MCQs. It consisted of statistical graph-
+based questions (analyzing bar graphs, statistical figures etc.). The MCQs also consisted of
+English questions. The questions were of easy to medium level difficulty.
+
+There were two coding questions. One question was easy, the other was of medium level
+difficulty.
+
+Tips: Read the question carefully. Once you understand the question completely, use a piece
+of paper to write down your approach. If you can think of an optimal approach then well and
+good, but if you can’t, then do not waste too much time on searching for an optimal result.
+Start coding your approach soon and move on to the next question. Do not waste too much
+time on a single question. Resort to brute force if you cannot think of any other approach in
+the stipulated time.
+
+Practice your DSA consistently. Leetcode is one of the main sources I used. Everyday, do
+atleast 1-2 Leetcode questions. Do a mixture of easy, medium and hard level questions.
+Choose your preffered language to code in (C++ or Java or python). I used python and C++,
+depending on the question and my comfort level. Another important advice a senior of mine
+gave me that I followed, DO NOT get disappointed if you don’t get shortlisted for the
+interview round after the online coding round. Keep trying your best and practicing regularly.
+Consistency is key.
+
+Interview at CUIC
+
+The interview happened over 3 rounds. All three rounds were offline at CUIC and were one-
+on-one.
+
+The first round was a technical interview. The time duration varied, depending on the
+interviewer we were assigned to. Mine lasted for around 30 minutes. The interviewer touched
+upon all basic topics such as OS, DBMS, OOPs. He gave me a piece of paper and asked me
+to solve a couple of coding questions on the spot. He also asked me technical questions. For
+example, he asked me the differentiate between the types of polymorphism, when do we use
+a linked list and when an array. He also asked me to optimize the code for the question he
+gave. Basic OS questions on scheduling were also asked.
+
+The second round of interview was another technical interview. The ones who were selected
+after the first round moved on to the second round. In the second round, the interviewer asked
+me to briefly explain the projects that I had worked on. After this, he asked me critical
+thinking questions. He expected me to answer his questions as creatively as possible.
+Honestly speaking, the second round was one of my favourite experiences throughout the
+interview process. The interview felt more like a conversation. I took my time to answer the
+questions and interreacted freely with the interviewer.
+
+The third round was an HR round. The ones selected from the second round of interview
+were directed to the third round. The third round started of with questions about myself, my
+hobbies, and my experiences. It was a short round and lasted for 5 minutes.
+
+Tips: Answer to the point. Be calm and collected. If you do not know the answer to a
+question, try to answer the question but if you still do not reach the answer, then you can
+politely let the interviewer know that this question is related to a topic you are yet to learn in
+college or that your knowledge on this topic is limited.
+
+The interviewer looked at my resume and asked question on the topics that I had listed as my
+areas of interest (like data science, OS, DBMS). So kindly include only those topics in your
+resume that you are confident in. Be strong in your basic OOPs, DBMS, OS, coding
+knowledge.
+
+For the second round, the interviewer asked me to be as creative as possible with my answers.
+Hence, I had the liberty to answer creative and innovatively. I suggest that you first take a
+moment to understand what the interviewer is asking and then answer accordingly.
+
+I would suggest to work on your communication skills in English. This is key in acing an
+interview.
+
+Finally, every interviewer will ask you if you have any questions, at the end of the interview.
+I would suggest you to ask some question, either about the company, the role or something
+else. Never leave that question unattended.
+
+Overall, the experience was smooth. I learned a lot from the entire interview process. Every
+interview is an experience, regardless of the result.
+

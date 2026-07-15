@@ -1,0 +1,57 @@
+ 
+ 
+ 
+ 
+ 
+CITICORP 
+ 
+First Round (Online Test): The test was conducted on The AMCAT platform which had 4 
+sections with a time limit of 2 hrs. 
+1. Quantitative aptitude: 14 questions  
+2. Logical Reasoning: 12 questions 
+3. Technical MCQ: 25 questions  
+4. Coding section: 2 questions 
+  
+The first section tests the student’s aptitude skills which 
+can be solved easily with basic math concepts. The logical 
+reasoning section has questions based on relations, syllogisms 
+etc. The technical section has questions from OOPS, DBMS, 
+time complexities of different algorithms, and Data Structures. 
+It is very important to manage your time efficiently as you are 
+not allowed to change answers or move back to the previous 
+questions once submitted. 
+Coding Questions: 
+1. Bit Manipulation(Gray code) 
+2. Backtracking(Rat and cheese problem) 
+Second Round (Technical Interview): This interview took place on the Aspiring Minds 
+platform. To break the ice, the panel members asked for my introduction and my passion for 
+technology. I was posed questions regarding the projects I had mentioned in my resume. 
+Later I was tested on the basics of C++, OS and DBMS. They asked some basic questions 
+like fundamental differences between C, C++, and JAVA, multi threading, static and 
+dynamic binding, macros, and the advantages of using OOPS, differences between applets 
+and servlets. Then they went on to put me in different hypothetical situations and asked me 
+what my actions would be in such circumstances. I was then asked about my short and long 
+term goals. To conclude, the panelists asked me about my perception of Citicorp. My 
+suggestion for the candidates would be to answer all the questions confidently in a precise 
+manner. Keep your chin up and don't forget to smile!! 
+Third Round (HR Interview): This interview happened over a phone call in which I was 
+asked the following questions. 
+1. Introduction 
+2. What are your strengths and weaknesses. ? 
+3. Tell me about your summer internship. 
+4. Why do you want to join Citi? 
+5. How many interviews were you selected for before Citi and why didn’t those 
+companies select you? 
+6. What are your biggest accomplishments? 
+Take away: Practice coding and other technical concepts thoroughly from different sources 
+like GeeksforGeeks, LeetCode, Hackerrank etc. Start right from basics and build on step by 
+step. Seek advice from your parents, professors, seniors and other peers. Do not take 
+rejections to your heart. Instead work on both your strengths and weaknesses equally to get 
+placed in your dream company with the right motivation, preparation and guidance. 
+Hope this helps. 
+All the Best. 
+Pradhakshya JD 
+pradhakshyajd@gmail.com 
+9677083323 
+ 
+ 

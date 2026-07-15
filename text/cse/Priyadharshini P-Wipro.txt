@@ -1,0 +1,60 @@
+WIPRO 
+ 
+Wipro is an Indian multinational corporation that provides information technology, consulting and 
+business process services. 
+ 
+Round 1 
+It was an online round conducted on AMCAT. This round consists of 5 sections : Verbal Ability, 
+Logical Reasoning, Quantitative ability, Coding, Essay Writing. There were 2 medium level 
+coding questions in the coding section. 
+ 
+Round 2  
+It was a technical round and it went for around 30 to 35 minutes. 
+ 
+1)Introduce yourself 
+2)During Introduction, I mentioned the project I was working on at that time. So, Questions related 
+to that project were asked and that Q&A went for around 10 minutes. 
+ 
+What are the subjects you are interested in? (Answered: DBMS and OOPS). Then, questions from 
+those subjects were asked.  
+ 
+3)what are DDL, DML, DCL? 
+4)what is normalization? Why normalization? 
+5)What is data redundancy? 
+6)what is the primary key and foreign key? 
+7)Given a Scenario, I was asked to write queries. 
+8)what is RDBMS? 
+9)What are joins? 
+10)Basic OOP concepts 
+11)What is Polymorphism? 
+12)Mention some real life examples of Polymorphism 
+13)Write an Example code for function overloading? 
+14)What is data abstraction and encapsulation? 
+15)Interviewer asked about subjects in the current semester(7th sem) and some basic questions in 
+the subjects covered were asked. 
+ 
+Round 3 
+It was the HR round. 
+1)Introduce yourself 
+2)Why wipro? 
+3)What do you know about Wipro? 
+4)Can you tell about the time when you demonstrated your leadership skills? 
+5)Are you willing to relocate? 
+ 
+Topics to be focussed 
+➔ Data Structures 
+➔ DBMS 
+➔ OOPS 
+➔ Operating System 
+➔ Basic idea on Computer Networks 
+ 
+Take away 
+Continuous Practice of problems from websites like geeksforgeeks, hackerearth, hackerrank will 
+help you to crack the coding section in the online round. Be thorough on the basics and confident 
+with your answers.  
+ 
+Stay calm and have faith in yourself. Never lose hope. All the best!!! 
+ 
+Priyadharshini P 
+priyadharshinipadmanaban001@gmail.com 
+ 

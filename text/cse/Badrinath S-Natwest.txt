@@ -1,0 +1,110 @@
+Interview Experience – NatWest 
+Hi everyone, I am Badrinath S (2022503017) and I am glad to share my NatWest 
+interview experience. 
+ 
+Round 1 – Online Assessment (On Campus) 
+The initial screening test was conducted on SHL. It tested: 
+• 
+Basic English grammar and comprehension 
+• 
+Logical reasoning (including visual reasoning) 
+• 
+SQL (MCQs) 
+• 
+2 coding questions 
+The first coding question was very easy: 
+Print even numbers first and odd numbers next. 
+Here, there was a small trick. If you use i % 2 == 1 for odd numbers, it will fail for 
+negative integers. 
+The second question was a medium-level greedy problem. I always use Java in coding 
+interviews since many companies prefer it (as most backends are in Spring Boot). For 
+this question, I created another class called Pair with three variables so that managing 
+comparisons after using Collections.sort became easier. 
+My tip for this round: 
+• 
+Do not waste time reading the entire long paragraph. Many companies add 
+lengthy text to consume your time. Instead, first read the input format and 
+required output. That will give you a clear idea of what the problem is about. 
+• 
+Once you understand the requirement, try to map the problem to a suitable data 
+structure. 
+• 
+Be strong in basics, such as how to take input using the Scanner class. 
+• 
+If your code does not work immediately, don’t panic. Use console print 
+statements to debug and trace the error. 
+• 
+Above all, stay honest throughout your placement season. That’s the best way to 
+prepare better and shine. 
+• 
+Prepare aptitude through mock test in SHL portal. 
+I got shortlisted along with 23 others for the next round. 
+ 
+Round 2 – Technical + HR (Combined, 45 minutes) 
+Both interviewers were kind and introduced themselves at the beginning. They started 
+by asking about the Pre-Placement Talk that happened just before the interviews. They 
+also asked me if I knew about NatWest earlier. I replied that, as a cricket fanatic, I knew 
+that NatWest had once sponsored the England Cricket Team. 
+Next, they moved on to my resume. They asked about my projects and were impressed 
+that they solved real-world problems. They said they liked my approach and mentioned 
+that it aligned well with the company’s vision. At that point, I was confident that I had a 
+good chance of receiving the offer. 
+Then came the DSA round. They gave me a simple array question involving a HashSet. I 
+explained my approach, and the interviewer suggested storing the index instead of the 
+element. I explained that even then, the time complexity would remain O(N). The 
+interviewer agreed and was satisfied. 
+After that, they asked a SQL query to find the third highest mark. Initially, I wrote a 
+nested query. The interviewer pointed out that its complexity could be reduced. I then 
+suggested using ORDER BY DESC and picking the third record (I forgot the word 
+“OFFSET,” but the interviewer mentioned it himself and said my approach was correct). 
+They also asked a few basic ML questions—such as What is supervised learning? and 
+What is an activation function?—based on my resume, which mentioned ML. 
+Behavioral Round 
+Next, they moved toward behavioral questions. 
+They asked me about my view on learning new technologies. I replied that I am always 
+open to learning anything necessary to solve a client’s problem. However, I also added 
+that I am not the type of person who upskills without a clear need, as I prefer to focus 
+my efforts where they bring value. 
+They then asked me about my integrity. One question was: “What would you do if an 
+ethically wrong person asked you to do something in the bank that is profitable for both 
+the company and the bank?” 
+I answered that I value honesty above all, as it is crucial for long-term success, even if 
+shortcuts may give temporary relief. I also mentioned that if I had to reject an unethical 
+request, I would do so firmly but with kindness, ensuring I handle the situation with 
+respect. 
+Another question was about AI. They asked me how I would use it. I responded that I 
+would not allow AI to hamper my own thinking capabilities. Instead, I would use it to 
+perform tasks where I already know the logical approach, thereby improving speed and 
+execution. 
+The interviewers were impressed with my responses. At the end, they asked if I had any 
+questions. I politely said I didn’t have any. They told me they enjoyed the conversation, 
+wished me all the best, and I left the room with a sense of gratitude. 
+ 
+My Tips 
+1. Always include ML in your resume if you have worked on it. Interviewers value 
+that highly. 
+2. Do not panic; stay calm and honest. 
+3. Never over-exaggerate your projects. Interviewers are more impressed when you 
+explain your projects truthfully and confidently. Explain your projects in the 
+perspective of how they would solve a real life problem. 
+4. Resume is the starting point: The flow of the interview was driven by my 
+resume. Be ready to explain every project you include and link it to solving real-
+world problems. 
+5. Explain your thought process: In coding questions, the interviewer often looks 
+at how you approach the problem rather than just the final solution. 
+6. SQL efficiency matters: Knowing both a straightforward and an optimized 
+approach shows maturity. 
+7. Behavioral questions test alignment with values: Integrity, honesty, and 
+adaptability were tested more than technical brilliance. Companies want people 
+they can trust in sensitive domains like banking. 
+8. AI and emerging tech: Instead of exaggerating, give a balanced view. Show 
+openness to use new technologies while maintaining human reasoning. 
+9. Confidence > perfection: Even when I forgot the keyword OFFSET, I handled it 
+calmly. That mattered more than knowing every detail. 
+ 
+ 
+Finally I got the offer along with 8  other canditates.Felt very relieved and was at peace 
+after so much grind. 
+ 
+Contact number : 9361887032 
+ 

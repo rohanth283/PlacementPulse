@@ -1,0 +1,40 @@
+Interview Experience
+
+Name: Mohamed Muzzamil S
+Roll.No: 2018115057
+Company: Accolite Digital
+
+Round1: 30 MCQ'S had been asked  from topics like OOPS,Data
+Structures,OS,DBMS,SQL,computer architecture, Aptitude.
+
+Round2: Online Coding Round
+Students who cleared round 1 received a mail for coding round .
+They had given a problem related to basic manipulations using 2d array.
+
+Round 3: Tech Interview 1
+Interviewer gave some C++ output related questions (static keyword , pre & post increment,
+pointers & double pointers) & told me to implement polymorphism. 2 coding questions were
+asked
+1.Given 2 arrays & find common elements using single loop
+2.Reverse a Linked List
+
+Round 4 : Tech Interview 2
+Interviewer asked me to introduce myself.
+Then he gave 3 coding questions
+
+1.Implement queue using stack
+2.Check for balanced parenthesis
+3.Given a table of data which had details like purchasing date , Category
+type(marketing,discount) , cost price , selling price .
+Find the maximum discount  .
+How do you handle if $ symbol is missed in cost price / selling price column?
+
+Round 5 : HR interview
+Tell me about yourself
+What are your strengths & weaknesses?
+How do you handle conflict in a team?
+Why should we hire you?
+Interviewer asked if I had any questions to him.Then i asked about learning curve & work culture
+at accolite.
+At last ,interviewer explained me about CTC break up & location preferences.
+

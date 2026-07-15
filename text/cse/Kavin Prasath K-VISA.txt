@@ -1,0 +1,135 @@
+Summer Internship – VISA Inc. ‘23 
+About VISA : 
+ 
+VISA is an American Multinational Company and a leading digital payment technology firm. 
+It’s headquatered in California, USA. VISA’s often miscomprehended as a debit/credit card issuer, 
+but its not what it does and the way it actually makes money. It facilitates money transfers between 
+bank accounts through VISA branded cards.  
+ 
+The hiring process of VISA included 2 rounds : 
+i. 
+Online Test 
+ii. 
+Interview (Technical cum Managerial) 
+ 
+Online test: (Platform – HackerRank) 
+ 
+We had two questions which were supposed to be completed within an hour. The difficulty 
+of the questions was moderate. Each one got different set of questions.  
+The questions I got : 
+1. Odd One Out 
+Given an array of strings, find the odd one out by analyzing the difference in 
+adjacent letters of the string.  
+Eg. [“abcd”, “wxyz”, ”pqrs”, “acdf”] 
+The odd one out here is “acdf”.  
+As the difference between two consecutive letters of “abcd”, “wxyz” and “pqrs” is same 
+i.e, 1. But considering “acdf”, ‘c’-‘a’=2, ‘d’-‘c’=1, ‘f’-‘d’=2.  
+ 
+2. Minimum Cost – Jump Game 
+Given an 1-indexed array of nums and a value ‘k’. You start from index-0. In one move, 
+you can jump at most ‘k’ steps forward without going outside the boundaries of the 
+array.  You want to reach the last index of the array (index n). Your score is the sum of 
+all nums[i] for each index ‘i’ you visited in the array.  
+Return the minimum score you can get. 
+ 
+Similar to Jump Game VI - LeetCode. 
+ 
+We were asked just to fill the given function. 
+I could solve both the questions completely. 14 students were shortlisted for the next round.  
+Tips :  
+• Be consistent in solving coding questions in platforms like LeetCode, GeeksForGeeks, 
+HackerRank etc.,  
+• Try understanding the concepts and underlying patterns. Don’t memorize soln. 
+• Follow ACM’s C.O.D.E program, if you’ve no idea on how to plan or go on with. The 
+curated lists of problems covering almost all possible patterns will really be helpful. 
+• Also try to practice coding the given problem from scratch including the driver code 
+(rather just filling the given function as in LeetCode) as several companies would 
+expect you to do so. 
+• Time matters the most. Try completing the test as early as possible. Sometimes even 
+brute force approach would suffice to pass all the test cases. (NOTE: Try Brute Force 
+Approach only if you can’t come up with an optimised solution) 
+ 
+Interview: (Platform – Microsoft Teams) 
+ 
+My interview was scheduled at 10:00 a.m. But the interviewer who was actually assigned 
+couldn’t make it on time. I was waiting for more than an hour. Finally, my interview got 
+rescheduled to 11:45 a.m, with another manager. 
+ 
+He first asked me to introduce myself, which’s a typical icebreaker in every 1-1 interview. 
+(Be cautious about what you say and also try to cover each and every side of you.) 
+ 
+He then moved to the code-pair. Usually you’ll be given link for code pair, where you’d be 
+asked to solve a question along with interviewer and this would mostly be in HackerRank. I was also 
+given one. But, as the interviewer came unprepared (he told that he had got finalised just then), he 
+asked me that did you remember the problem you had got in your online test, which I answered 
+yes. He asked me to explain the problem statement and the approach I had used to solve. So, I 
+explained my approach for both the questions. He then asked for an optimised/alternate solutions.  
+ 
+For the first question, I solved it with O(n*s) time (n-size of the array and s-length of the 
+string) and O(n) space. After explaining this approach, I gave a space optimised approach.  
+ 
+For the second question, I solved using dynamic programming. I then explained memoised 
+and tabulated approach and a greedy solution as an alternative.  
+He was satisfied with the given approaches. He gave me 2-3 sample test cases to check my solution 
+and my solution could pass the given cases. I wasn’t asked to code. 
+Questions followed: 
+i. 
+Do you know Java?  
+ii. 
+Other subjects offered apart from Java? (As I answered no, we have it as an elective 
+in the upcoming semester for the prev. qn.) And why would you choose Java? 
+iii. 
+Why intern at VISA? 
+iv. 
+Do you know what VISA does?  
+v. 
+How VISA’s getting revenue? 
+The last two questions lead us to a discussion for more than 15-20 minutes, where I 
+explained in detail the business model, what company does, how the company actually 
+makes money etc., where he added on some points now and then. I was able to answer 
+these questions as I intensively researched about the company and also I got a few points 
+from my seniors. 
+He finally asked whether I had any questions for him and I asked 3-4 questions. And it was 
+more kinda discussion than a Q&A. That’s the end. The interviewer was very friendly to talk-
+to and he made me so comfortable. The interview lasted for an hour.  
+Preparation: (Based on how I prepared) 
+• For code-pair, the preparation you’ve done for first round is enough. 
+• DSA is super-important. Have a good understanding of every data structure and algorithm. 
+• Refer GeeksForGeeks for DSA theory and concepts, for extra conceptual clarity – YouTube 
+channels like Abdul Bhari, Tech Dose, NeetCode etc., and explore the Discuss section in 
+LeetCode for excellent articles on algorithmic topics like DP, Backtracking, Binary Search 
+etc., 
+• For OS, GFG’s last minute notes will be sufficient and for DBMS, class notes will do and for 
+additional info refer GFG articles and Javatpoint. 
+• For OOPs, cover the topics in Fraz’s OOP sheet and for concepts refer GFG and Codaming - 
+VeDinesh Academy in YouTube (Complete OOP in C++).  
+• Have 2-3 solid projects and be ready to answer any question that could possibly be posted. 
+• Although VISA don’t ask aptitude questions in the online test, it is equally important as the 
+other subjects, as several other companies ask for. Refer IndiaBix for the same.  
+Note: My interview experience might be quite misleading, as I wasn’t posted any technical 
+questions from OS, DBMS, OOPs and my projects. Though I was very well prepared on these topics 
+expecting for the worst case scenario, I didn’t fortunately get such questions. But it might not be 
+the same way as I had. So, do prepare these topics well. 
+General Take Aways:  
+• Know your resume well. Add only what you know. The interviewer will only check for how 
+good your understanding level is, in the things you’ve mentioned. Don’t lie in your resume. 
+• Research about the company the day before your interview very well, which helped me a lot 
+in my case, as I was posted questions based only on the company.   
+• Be confident while answering, and cautious too because you’re the one who’s gonna drive 
+the interview. Don’t keep mum while solving question during code-pair. 
+• Refer the interview archives of the company, on the previous day of the interview and talk 
+to your seniors to get some ideas. 
+• Consistency is the key. And start your preparation atleast 2 months prior to the intern drive 
+(But starting earlier will make your preparation journey a bit stress-free). Also, it’s never too 
+late to start your preparation, if you’re short of time. You can still do well with a lil’ extra 
+effort. Have a strong mindset! Have small breaks and relaxations, every now and then. 
+Wishing you all the very best for your internship drive.  
+Feel free to contact 
+ 
+Kavin Prasath K (CSE’24) 
+Mobile  
+: +91 8248496021 
+Mail  
+: prasathsekar872@gmail.com 
+Linkedin 
+: Kavin Prasath K 

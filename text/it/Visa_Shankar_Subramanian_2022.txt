@@ -1,0 +1,87 @@
+Placement Experience for Visa
+
+Shankar Subramanian (2018115102)
+
+Online Test:
+
+Two questions, first one was a dynamic programming question where instead of finding the
+minimum or maximum you find the GCD. I think i did this using python 3.9 as it has an inbuilt
+GCD function, else i coded it manually.
+
+Second question was a string question where you had to find the HCF of 2 strings (ababab,
+abab) -> (ab) as that’s the smallest subset that when multiplied can form both. I did this using
+java as it has a repeat function on strings.
+
+Interview round 1:
+Was asked questions about how I would find a pair and then a trio of numbers in a given list of
+numbers that total 0, you use hashmaps here cuz the time complexity on reading that is O(1)
+instead of arrays that would be an O(n). I think the exact code wasn’t needed, it had to sound
+right, so i guess it was a logic test, the interviewer was helpful. This was done on hackerrank
+codepair i think it was where your screen gets recorded and locked and you and the interviewer
+share the same file in real time, its like google docs but code i guess
+
+Interview round 2:
+Got asked about my resume for a little bit and then asked what languages I am familiar with,
+told them javascript, python, and java. Was asked basic questions about javascript like how I
+would make cookies, and what is freezing an object. Syntax wasn't asked as IDEs nowadays
+have that stuff. Was then asked to do some string manipulation, using python as slicing was one
+of the options. This also happened on that codepair thing.
+
+Interview round 3:
+40 minutes of resume project analysis, was asked about the courses i did on coursera, why i did
+different things, and what my interests had been, and what they are now. Then discussed a
+random project on the resume for 15 minutes before getting into the nitty gritty of it and then
+discussing about the ways in which it could be improved or how i would handle different
+scenarios, you really have to know what you’re doing here as the replies must be convincing
+and the interviewer builds upon your previous response. As it builds upon your previous
+response you are in control of the direction of the interview, so think ahead and try to not let it go
+to a domain or part where you are not comfortable with.
+
+Don’t do these:
+
+1. don’t shell into your comfort zone and also don’t YOLO, there’s a fine line live life there
+2. don’t try to scam the interviewers, spoiler alert they know stuff
+3. know different languages i guess (this isn't hard it's just adding different shortcuts to your
+
+arsenal as each language has its own special thing)
+
+4. don’t tunnelvision yourself into max priority of getting the job, read the company, think
+ahead of what the interviewer would ask, plan for most important scenarios, basically
+game the system and you will be rewarded
+If you don't know something, tell them what you’re thinking and as they aren’t sitting on
+the other side to just RA you, they will help direct you towards the right answer (this
+seems to be a recurring theme in most interviews).
+
+5.
+
+A paragraph of tips:
+I wouldn’t recommend just reading G4G the prev night on a new topic (unless that’s your thing
+and you’re real good at understanding theory), at least in my case that never works, i think
+having coded it at some point in your life makes it a more memorable experience of pain or joy
+and as you have a certain emotion attached to it it would last longer in your mind (this is some
+psychology stuff i guess). Middle ground case of previous night's G4G and coding it as you
+read, i don't know about this as I have not tried it, most of mine was from my practical
+experience so I guess you could call it a YOLO based on past experiences.
+
+It’s an interview not an interrogation room, it’ll be a cool experience if you want it to be, it could
+be fun if you want it to be, basically it becomes what you want it to be, mine were straight up fun
+(maybe i'm weird), we were casually talking about the answers and discussing topics and
+scenarios. I guess the main take away is that they just want to check if you can think or design
+something, for this you do need to know some computer theory stuff like trees, and maps, but
+they’d help you with it if it’s more obscure (not splay tree kinda stuff levels, you’ll probably never
+see things like these and if you do please let me know at cottonian99@gmail.com).
+
+Like when you’re learning something and it feels important and you can think of a place it could
+work (i'm not telling you to sit in a white room like socrates and force yourself to think) like know
+it enough so that if you’re thinking about something else this should
+pop-up-in-your-head-levels-of-importance, then know that thing and remember it. Some obscure
+idea like idk getting the attendance of all students in the class could be made faster by asking all
+students to turn their hotspots on or connect to the particular wifi and logging the IP/MAC->
+student id (don't come at me saying this is a bad idea cuz of IP/MAC spoofing, it was just a
+thought)
+
+ps: take this as seriously as you would a grain of salt, as this is only my experience, and most of
+it was based around my resume, as Visa i think does not exactly have a straight up viva like
+Q&A session interview (i guess my first one was like that) i’d suggest knowing the stuff in your
+resume well.
+

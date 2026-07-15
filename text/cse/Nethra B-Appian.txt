@@ -1,0 +1,71 @@
+APPIAN INTERVIEW EXPERIENCE 
+ 
+ROLE : Software Engineer Intern 
+The interview process consisted of four rounds. 
+ 
+Online Coding Round: 
+Time limit : 1:15 hrs 
+The Online Test consisted of 3 coding questions: 
+1. Insert Interval - Leetcode 
+2. Find first and last position of element in sorted array - Leetcode 
+3. Find missing and repeating - GeeksForGeeks 
+These problems were asked with slight variations in the problem statement. 
+ 
+Technical Round – 1: 
+Time : about 1 hr 
+The round started with a brief introduction about myself. He asked in detail about everything I mentioned in 
+my resume. He also asked in detail about the projects that I worked on and hackathons I participated in. 
+ 
+Related to my project and Web Development: 
+1. Challenges I faced during my project 
+2. Learnings during the course of the project 
+3. How JWT based authentication works? 
+4. What happens if someone between the server and client steals/modifies the token(MITM)? 
+5. How to prevent token theft in JWT authentication? 
+6. Have I deployed my project and how? 
+7. More things about Docker 
+8. How do you test your API endpoints? 
+ 
+Related to DSA: 
+He asked the coding language I was comfortable with and I was asked to write pseudocode in paper 
+1. Given a set of scheduled meetings(start time, end time), find if the meetings overlap or not? 
+2. Minimum number of rooms to accommodate all meetings 
+3. Given an integer n, can n meetings be conducted or not? 
+ 
+Related to DBMS: 
+1. Given a scenario for an e-learning platform , how to design a appropriate database schema? 
+2. Design a db schema for student and parent details in an educational institution. 
+3. Write a SQL query to find the siblings in the above schema 
+4. Some general db questions related to designing db schema. 
+ 
+He asked what I have been learning new in the recent. He asked if I have any questions. He explained all my 
+doubts in detail and gave suggestions for me. He told a lot about working at Appian and how it would look 
+like for me to work at Appian. 
+ 
+Technical Round – 2: 
+Time : 15 min 
+For me, the interviewer did not ask any technical questions. He asked some general questions and a few 
+questions related to my resume. 
+1. Brief introduction about myself 
+2. What do you know about Appian? 
+3. Why just Appian and not other companies? 
+4. Higher education? 
+I asked him some questions about Appian and that’s it. 
+ 
+Managerial Round: 
+Time : 10 min 
+He asked about things I mentioned in my resume. He enquired much about my academic performance and 
+posted some general questions. I asked him some questions from my side and that’s it. 
+ 
+Tips: 
+• Be confident. 
+• It’s fine to boast about yourself - that’s what they expect.  
+• Practice regularly and that works. 
+Hope this helps :) 
+ 
+Nethra B 
+Feel free to reach out to me!! 
+LinkedIn : Nethra-Balan - LinkedIn  
+ 
+ 
+ 

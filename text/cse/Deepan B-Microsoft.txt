@@ -1,0 +1,107 @@
+MICROSOFT INTERVIEW EXPERIENCE 
+Microsoft Corporation is an American multinational corporation and technology company 
+headquartered in Redmond, Washington. Its best-known software products are the Windows line of 
+operating systems, the Microsoft 365 suite of productivity applications, the Azure cloud computing 
+platform and the Edge web browser. Its flagship hardware products are the Xbox video game 
+consoles and the Microsoft Surface lineup of touchscreen personal computers. 
+Role Offered: Software Engineer 
+Stipend: 1,25,000 INR per Month 
+Process: Online Test, Technical Interview (2 Rounds) 
+ Online Test: 
+ 
+It consists of two problems. 
+ 
+First Problem: 
+ 
+Given two numbers in the format of two strings. You can swap the corresponding digits of 
+each number. The two numbers are of same length. You have to find the minimum swaps to make 
+the absolute difference between them smaller. 
+ 
+Example:  num1 = “2999” and num2 = “1000”. 
+Explanation:  The answer for this question is 1. Because if we swap the first digit of each number the 
+numbers become 1999 and 2000. Their absolute difference between them becomes small. And also 
+keep in mind that the swaps should be small. This question can be solved using the greedy approach. 
+ 
+Second Problem: 
+The second question is something special. This question can be solved in many ways. You are given a 
+string and you are at infinite 2d space at a particular point and the string given says the direction in 
+which you move in that space and you are allowed to move in all direction. But the given direction 
+would contain all the direction except south. You have to move back to the start point with the 
+minimum distance. And each direction given can be considered as a distance. The answer is the 
+minimum path to return to the same point. (We should not touch the same path). 
+Example: S = “NEEEN”, Answer = “ESSWWWW” 
+Explanation: The answer can be solved by the considering all the path as a grid and considering the 
+path in which we came as a obstacle and the start point as the same point which we started and the 
+endpoint we can compute. 
+ 
+ONLINE TEST EXPERIENCE: 
+ 
+Getting Selected for the next round is unbelievable and I thought it was a fake thing. I did my 
+first round not that much. We a group of 5 members are selected for second round. I had a friend 
+who got also selected from my batch we code together always so I was happy in the next process. I 
+started preparation 1 day night before interview. Actually, I can’t believe that I was selected it was 
+like dream. (I pinched me a lot :)) 
+ 
+Before day preparation 
+ 
+The thing which got me selected. I saw about the technical interview conducted in various 
+Companies especially everything which I want to know before the interview was given in this video I 
+suggest everyone to watch the video if you are giving the technical interview in 
+online(https://youtu.be/MFkqnGiCCiU?si=6ZbsMmAzkwiQwfXc) 
+Also referred the striver’s standout video: 
+https://youtu.be/PG4t_6qjxz0?si=oRSF4ZqF5u7721g2 
+I was having some doubts about the OOPS Concept in c++ so referred this video by Shraddha 
+Didi which I would recommend for cpp coders(https://youtu.be/mlIUKyZIUUU?si=O8I2ocJs5YxAH-A4) 
+ 
+The important and the most needed part is the resume questions preparation I was at dream 
+I didn’t believe I got selected in Microsoft so I didn’t prepare well so I thought of an easy way for 
+preparing the resume questions so there was a web developer friend from my batch who have prior 
+experience for this type of companies so I asked him to ask me questions. he asked me the questions 
+which came to my interview this Is a reason I got selected in my interview the same questions can 
+you believe it even I can’t. 
+First Round: 
+The next Day morning I was in the state how I will get Microsoft and we are waiting for the link and 
+we thought it won’t come but at a sudden it came at 9.30 and we completed interview at the same 
+time. They asked me two questions  
+1) No of subarrays with a given sum 
+2) Insert an element into binary search tree. 
+The questions were easy and I was talking continuously to the interviewer so that he didn’t get bored 
+and he spoke well to me. As the questions were easy, I was having extra time for about 15mins left in 
+45mins so he asked me about my projects and the questions which I discussed with my friends last 
+night. 
+They didn’t declare the result for the round 1 but they shortlisted for second round we a group of 
+three gave the second round it was a round with a big question (Medium Level).  
+Second Round: 
+My question was given a vector of strings and a string prefix and I have to return all the strings which 
+has the given prefix 
+Example:  v = {“apple”, “applet”, “aptitude”, “banana”} prefix = “app” result = {“apple”, “applet”} 
+ 
+ 
+The question seems to be simple. You can solve it in o(n) is the first thought for 
+everyone but the interviewer asked me to sort the strings as consider it as a google search so sort it 
+he said so we had an argument how nlogn is faster than n for about 15 mins in which I had only 
+45mins for my solving part , then I wrote the solution n=by sorting he was not satisfied he asked me 
+to optimize the solution so I optimized it by finding the starting point in which I want to start search 
+by using binary search in logn. Now my solution is nlogn+logn then the interviewer asked me to 
+bucketize the words so the I understood he was trying to make me code the bucket sort but I don’t 
+know bucket sort so I said that I know bucket sort exists but I don’t know how it is implemented we 
+didn’t have time to code it as well so the meeting ended soon, I didn’t code bucket sort but after that 
+I was waiting for the round 3 interview but the results were declared I cant believe that my name 
+came still it is like in dream.  
+ 
+Points to be Remembered: 
+Luck plays a lot of role in internships, If you gets selected for the first round interview after online die 
+hard to get selected as many people will be there for the competition if you go back. 
+Life takes you to the place which is for you prepare well and contact me anytime. 
+ 
+ 
+ 
+ 
+ 
+ 
+Thank You 
+ 
+Deepan B, 
+CEG CSE’26 
+Email: bkavin04@gmail.com 
+Mobile : +91 8072790498 

@@ -1,0 +1,66 @@
+DHarsan S- Information Technology –
+
+Amazon Experience
+
+**About the Company**:
+
+Amazon is a multinational technology and e-commerce company founded by Jeff Bezos on July 5, 1994. Originally launched as an online bookstore, Amazon has since expanded to become one of the largest and most diverse online retailers in the world, offering everything from electronics and clothing to groceries and digital content.
+
+**About the Role**:
+
+The Software Development Engineer (SDE) Intern role at Amazon offers students a unique opportunity to gain hands-on experience in software development within one of the world’s leading technology companies. As an SDE intern, you will work on real projects that directly impact Amazon’s customers, involving tasks such as designing, coding, testing, and deploying software solutions. You’ll collaborate with experienced engineers, participate in code reviews, and engage in design discussions, all while solving complex technical problems that require innovative approaches. Amazon provides a supportive environment with mentorship and access to internal resources to help you grow professionally. This internship not only allows you to apply your programming skills and problem-solving abilities but also gives you a chance to contribute to meaningful projects that can shape the future of Amazon’s services. For those who excel, the internship often serves as a pathway to a full-time SDE position at Amazon, making it a valuable stepping stone in your technology career.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* An Online coding contest in Hackerank platform
+* Interview Round 1 (Only DSA & Problem Solving) – Online mode
+
+**HackerRank Amazon Online Round Experience:**
+
+In the Amazon online round conducted on HackerRank, I encountered two medium-difficulty coding problems. These problems primarily focused on topics such as arrays, strings, dynamic programming, graphs, prefix sums, and binary search.
+
+One important aspect of the Amazon online test is the emphasis on behavioral questions, which are asked after the coding section. Even if you partially pass the test cases for both coding problems, performing well in the behavioral questions can significantly enhance your chances of getting shortlisted.
+
+Out of more than 400 participants, 85 candidates were shortlisted for the next round.
+
+**Interview Round 1 (DSA Round):**
+
+1. Given an array which contains only 'b' and 'c' and the array is circular sso the last element is adjacent to the first element.
+
+want to group all the 'c' present in the array group together. in one operation can select two indexes and swap them . return the minimum
+
+number of swaps required to make all 'c' present in the array contiguous
+
+ex :
+
+arr = ['b','c','c','b','b','c']
+
+Min swaps is 1
+
+arr = ['c','c','b','c']
+
+Min swaps is 0 (since the last element is adjacent to first element)
+
+2. some random amazon story build on type this problem :
+
+<https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/>
+
+**Must Do in Coding interview**
+
+**Think Out Loud**: Verbalize your thoughts and reasoning throughout the problem-solving process to keep the interviewer engaged and informed about your approach.
+
+**Ask Clarifying Questions**: Before diving into the solution, ensure you fully understand the problem by asking any necessary clarifying questions. This demonstrates your attention to detail and prevents misunderstandings.
+
+**Start with a Brute-Force Approach**: Begin by discussing the brute-force solution, as it shows that you can identify a basic starting point. Then, work towards optimizing it, if possible.
+
+**Use First Principles Thinking**: Break down the problem into its fundamental components and analyze them. Explain your observations and thought process to the interviewer as you work through the solution.
+
+**Keep the Interviewer Engaged**: Avoid long periods of silence. Keep the conversation flowing by sharing your thoughts, asking for feedback, and explaining each step of your approach.
+
+**Focus on Thought Process, Not Just the Optimal Solution**: Interviewers are often more interested in how you approach the problem than whether you arrive at the most optimal solution. Demonstrate a clear and logical thought process.
+
+**General Advice While Preparing:**
+
+Focus on **problem-solving** rather than just memorizing patterns from SDE sheets. While SDE sheets are a valuable tool for revising concepts, the best way to truly learn data structures and algorithms (DSA) is through active problem-solving. If you have ample time, consider starting with platforms like Codeforces, where you can work on ad-hoc and greedy problems. These problems help build strong problem-solving skills that will be invaluable when tackling standard LeetCode-type questions. Above all, be consistent in your practice, regardless of immediate results. Consistency is key to long-term success.

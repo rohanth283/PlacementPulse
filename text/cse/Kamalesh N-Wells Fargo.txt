@@ -1,0 +1,197 @@
+WELLS FARGO INTERVIEW EXPERIENCE (INTERNSHIP) 
+ 
+About The Company: 
+Wells Fargo & Company is an American multinational financial services company with 
+a significant global presence. The company operates in 35 countries and serves over 70 
+million customers worldwide. It is a systemically important financial institution according to 
+the Financial Stability Board, and is considered one of the "Big Four Banks" in the United 
+States, alongside JPMorgan Chase, Bank of America, and Citigroup. 
+Read This First: 
+     Wells Fargo is an easier company to crack, relatively. So, even if you’re not so good at 
+solving problems, you can crack it if you try. Don’t worry that you won’t get shortlisted or that 
+you won’t get a chance, as many people are better than you. Prepare well, do your best, and 
+you’ll surely get shortlisted. Okay, I think that’s enough motivation. Let’s get into the nitty-
+gritty details. 
+All Different Rounds: 
+1. Online Test (Offline) 
+2. Technical Interview (Offline) 
+3. Technical + HR Interview (Offline) 
+4. HR Interview (Offline) 
+Online Test: 
+ 
+I prepared by solving some of the previous year's questions from Wells Fargo after 
+reading the documents of our seniors. I also studied a small amount of aptitude related to 
+interests, stocks, and prices, which was totally useless. But do learn basic terms in stocks. 
+ 
+This round was conducted on the Aspiring Minds (SHL) platform. The round consisted 
+of three sections, namely verbal aptitude, business aptitude, and coding. Both aptitude 
+sections had MCQs that had to be answered compulsorily, and free navigation was prohibited. 
+Everyone got different sets of questions for the coding section. Most of the questions will be 
+some commonly asked questions, but it will be written in the form of a scenario or a 
+paragraph. Be prepared to quickly grasp the constraints of the question. 
+Verbal Aptitude (12 Questions in 15 Minutes):  
+It had simple questions like correcting the error in the sentence, reading 
+comprehension, and filling in the blanks with appropriate words. This section is a piece of 
+cake if you’re good at English grammar, so try to score more in this section. 
+Business Aptitude (14 Questions in 25 Minutes):  
+Oh boy, this section was tough. I was given a table, a graph, or a chart related to finance 
+with an explanation about it. I had to analyse it and answer the different questions that were 
+asked related to that. It may seem easy, but it was tough. This section will actually decide 
+whether you’ll get shortlisted or not. So, try to solve similar questions like that. 
+Coding Section-1 (2 Questions in 40 Minutes): 
+ 
+As I said, you can easily solve these two questions, or at least come up with a solution 
+for them. It will contain easy-to-moderate-level questions, so knowing basic techniques is 
+good enough to solve these rounds. 
+Question 1: 
+Given an array, return the number of perfect squares in it. 
+Constraints: 
+1 <= arr.length <= 10^6 
+1 <= arr[i] <= 10^6  
+Example:  
+Input: arr = [37, 83, 64, 49, 12, 10, 3]   
+Output: 2  
+Explanation: 64 & 49 are the only perfect squares. So, the count is 2.  
+Very easy, isn’t it? I was able to code it up in few minutes and I passed 12/12 test cases. 
+Question 2: 
+You are given an integer “totalMembers”, a 2D array called “swapMembers” and another 
+integer “posMember”. Assume that there is queue containing “totalMembers” (like 1 to N in 
+increasing order), you have to perform all the swap operations in “swapMembers” array and 
+return the member(number) who is at the “posMember”(kth position).  
+There was one problem with this question. In the question, they asked to swap the members, 
+but in the output explanation they reversed the array from one position to another. (So, this 
+question was not really explained clearly.) 
+Constraints: 
+1 <= posMember <= totalMembers <= 10^9 
+1 <= swapMembers.length <= 10^6 
+swapMembers[i].length = 2 
+ 
+Example: 
+Input: totalMembers: 10  
+swapMembers: [[5, 10], [2, 5]] 
+posMember = 1 
+Output: 1 
+Explanation: The initial queue of members: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
+After 1st swap (5 to 10): [1, 2, 3, 4, 10, 9, 8, 7, 6, 5] 
+ 
+ 
+After 2nd swap (2 to 5): [1, 10, 4, 3, 2, 9, 8, 7, 6, 5] 
+ 
+ 
+Now the member at position-1 (posMember) is 1 
+As you can see in the output explanation, they reversed the array from one position to 
+another instead of swapping the two positions alone. I coded a brute force approach by 
+reversing the array, and it passed 10 / 12 test cases. When I tried just swapping the positions, 
+only 8 / 12 test cases passed. Then, I submitted the first approach and went ahead, as I 
+couldn’t think of any other approach. 
+Coding Section-2 (1 Question in 10 Minutes): 
+A detailed explanation about the Seven Bridges of Königsberg problem was given. The 
+task was to determine, given a starting vertex V, a list of edges E, and a visited array, whether 
+the problem is solvable (returning true or false). I didn’t fully understand the question, so I 
+submitted without writing any solution. I believe the question was related to detecting a 
+Eulerian cycle. 
+ 
+Interview Preparation: 
+At 11:30 pm, they suddenly announced the results, (which was very quick). 22 people 
+were shortlisted for the interview, and I was one of them. 
+I quickly revised all the important DBMS concepts since they’re crucial for a Fintech 
+company. Also, I went over some last-minute OS and OOPS interview questions. Yeah, that 
+was all the preparation I did. Additionally, I prepared all the necessary documents required 
+for the interview since we had to go to the MIT campus for the interview. 
+My advice is to study OS, DSA, OOP, and DBMS concepts in advance and be well-
+prepared. Don’t wait until the last minute, like I did. Even if you think you might not be 
+selected, start preparing right after the online test—it could be beneficial if you do get 
+selected. 
+ 
+Technical Interview (30 Minutes): 
+ A lot of questions on different topics were asked of me in this round. They are as 
+follows: 
+❖ First, the interviewer asked me to introduce myself and then inquired about the 
+subjects in my college syllabus.  
+❖ Next, he asked me what I knew about the company. 
+❖ After that, he provided several subjects to choose from and asked which one I was most 
+well-versed in. Instead of selecting from the given options, I mentioned "Web 
+Development." I recommend not making this mistake. 
+❖ He then asked me to explain the web development projects I mentioned in my resume, 
+as well as the achievements I listed in my resume.  
+❖ He then moved on to DBMS and asked me about the different types of languages used 
+in DBMS. I mentioned DML and DDL, but when he asked about DCL, I told him that I 
+wasn’t very familiar with it. 
+❖ After that, he asked me about normalization and then asked me to write a simple SQL 
+query to check for duplicate names in a table. 
+❖ He then moved on to Data Structures and Algorithms (DSA) and asked me about the 
+different types of data structures, the types of linked lists, and the various operations 
+performed on a stack. 
+❖ He then asked if I was proficient in Python, to which I replied no. 
+❖ After that, he asked me what structured programming is, followed by questions on how 
+to write code effectively and the clean code principles that should be followed. 
+❖ Then he moved on to OOPS and asked me what the important concepts were in OOPS. 
+Then he told me to explain Encapsulation and Inheritance. 
+❖ He then asked me about the types of inheritance. I replied that I didn’t know, even 
+when he mentioned one or two types to help me answer, I still admitted that I wasn’t 
+very familiar with it. 
+❖ He then asked me about error handling and which statements are used for it. 
+❖ After that, he asked me about the Software Development Life Cycle (SDLC) and the 
+Agile approach. 
+❖ He then gave me a problem and told to me write a code to solve it, The question was 
+to Remove Duplicates from a Sorted Array. As I’ve already solved it, I gave an optimal 
+two-pointer solution. Then asked some follow up questions, and I answered them well. 
+❖ Finally, he asked if I had any questions for him. I inquired about his experience and 
+challenges at Wells Fargo, and then asked for feedback on areas where I could improve. 
+I provided detailed answers to all the questions, but the interviewer advised me to be 
+more concise. Therefore, I recommend giving to-the-point answers rather than lengthy 
+explanations. Also, if you’re unsure about something, it’s better to admit it rather than giving 
+confusing or incorrect answers, as it could create a negative impression.  
+Technical + HR Round (15 Minutes): 
+Shortly after the first round, I was invited to attend the next interview round. This round 
+was much shorter compared to the first. The questions asked in this round are as follows: 
+❖ First, the interviewer asked me to introduce myself and then immediately began asking 
+questions based on my resume. 
+❖ Then he asked me about all my projects and my achievements, and I gave a detailed 
+explanation about all those. 
+❖ He then asked me about all my projects and achievements, and I provided detailed 
+explanations for each. 
+❖ After that, he asked which programming language I use most often and why I chose to 
+learn it. I responded that I use Java and explained its legacy as the reason for my choice. 
+❖ He then asked me about abstraction and requested a real-world application example 
+where abstraction is used. 
+❖ After that, he asked where I see myself in the future and about my passions. 
+❖ Finally, he asked if I had any questions for him. I inquired about the work-life balance 
+at Wells Fargo and what it's like to work at the company. 
+ 
+My resume was very helpful in clearing this round. If you're unsure about an answer to an 
+HR question, it might be beneficial to come up with a thoughtful response on the spot rather 
+than admitting you don’t know. 
+HR Round (5 Minutes): 
+ 
+Immediately after completing the second round, I was called for the HR round. This 
+round went by in a flash (2 minutes for me) with very few questions. They are as follows: 
+First, the interviewer asked me to introduce myself. 
+❖ She then inquired about why I chose Wells Fargo. 
+❖ After that, she asked if I had to learn anything on my own and whether I faced any 
+difficulties. 
+❖ She concluded by saying that I performed well in the interview and that they would 
+announce the results later.  
+Overall, the interview experience was positive and went smoothly. Despite being nervous 
+initially, my anxiety eased after the first exchange of conversation. 
+Results: 
+Later that night, they announced the results. 12 people were selected for the summer 
+internship, and I was very happy to be one of them (˵ •̀ ᴗ - ˵ ) ✧. 
+ 
+My Personal Details: 
+Kamalesh N 
+CEG CSE’26 
+Mobile: +91 86103 86055 
+Email: kamaltvt579@gmail.com 
+LinkedIn: https://www.linkedin.com/in/kamalesh-n-360481250/ 
+ 
+Don’t worry about things that are out of your control and stress yourself. "No 
+matter how many times you fall, as long as you keep getting back up, you haven’t 
+truly lost." By Eikichi Onizuka.  
+Feel free to ping me if you have any doubts or queries (^▽^). 
+ 
+ 
+ 
+ 
+ 
+ 

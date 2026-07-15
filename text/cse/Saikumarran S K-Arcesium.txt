@@ -1,0 +1,133 @@
+Arcesium Intern Interview Experience 2022 
+About the company 
+Global financial technology and professional services firm, delivering solutions to some of the 
+world’s most sophisticated financial institutions. Launched by D.E. Shaw group with additional 
+equity backing from Blackstone Alternative Asset Management and J.P. Morgan. 
+Online Assessment (Platform : HackerRank) 
+• Quantitative Aptitude - 15 MCQ’s (20 minutes) 
+• Technical Aptitude - 15 MCQ’s (15 minutes) 
+• Coding - 2 problems (45 minutes) 
+For Quantitative Aptitude, refer indiabix.com. Problems were asked which made use of commonly 
+asked formulas (profit/loss, family members relations and ages, train crossing, etc.). The only 
+drawback is that the questions would have long workouts and insufficient time. So don’t go for high 
+precision accuracy and waste time. Use tricks such as rounding off percentages as the choices are 
+given such that they can be eliminated (i.e., the choices have significant differences between them). 
+Also, there's negative marking of -0.25. But if you solve like about 8-10 questions then you can go 
+with random choices for the remaining questions as in the worst case you might get a -1.75 to the 
+total score. 
+For Technical Aptitude, the questions were a mixed bag - output questions from C, C++ and Java, 
+and a few DBMS queries as well. Same marking scheme as prior section: +1/-0.25. Try to be sure 
+about the syntax in at least two of the three languages and make sure to be thorough with 
+precedence of operators and oops concepts such as polymorphism and virtual classes, since these 
+are applied in the questions that were asked.  
+For coding, the following problems were asked - 
+ 1. Two players are playing a game which is as follows: There is a heap of n stones. In one move a 
+player can remove a number of stones which is a power of 2. Whoever removes the last stone wins 
+the game. Given n, print the winning player number (1 or 2). 
+Solution: Basically, we have to find the number of set bits in the given n. If it’s odd, print 1. Else 
+print 2. But the catch was the range of integers was 0 to 10^250. There's a class called BigInteger in 
+Java under java.math to handle very large integers. 
+Here's the code: 
+import java.util.*; 
+import java.math.*; 
+ 
+class Solution 
+{ 
+ 
+public static void main (String[] args) 
+ 
+{ 
+ 
+    Scanner s = new Scanner(System.in); 
+ 
+ 
+String str = new String(); 
+ 
+ 
+str = s.nextLine(); 
+ 
+ 
+BigInteger b = new BigInteger(str); 
+ 
+ 
+if (b.bitCount() % 2 == 1) 
+ 
+ 
+    System.out.println("1"); 
+ 
+ 
+else 
+ 
+ 
+    System.out.println("2"); 
+ 
+ 
+ 
+ 
+} 
+} 
+The probability of getting such questions where you are asked to manipulate very large integers is 
+very low. But still being familiar with BigInteger would help you a lot. 
+ 2. The question was similar to the one given below: 
+https://www.geeksforgeeks.org/maximum-number-of-teams-of-size-k-possible-with-each-player-
+from-different-country/  
+As Arcesium is a Fin-Tech company, they give more weightage to the aptitude section. So, make 
+sure to solve at least 50% of the questions in the first two sections and then rock the coding 
+questions :). 
+Fifteen students were selected for the subsequent Interview rounds. 
+Round 1 - Code Pair 
+I was asked to implement a binary tree and then find the ancestors of a given target node. After 
+completing that, I was asked to optimize the code.  
+[Code Pair round has a factor of luck since each one would get a different interviewer. From what I 
+heard, many of us got relatively easy questions from binary trees and linked lists. But one guy was 
+asked to do division without using multiplication, division or mod operation, which had to be done 
+using bit manipulation. 
+(Link: https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-
+mod-operator/ ) 
+So, try to solve lots of standard easy and medium problems from LeetCode and be thorough with 
+the basic question patterns and expect the very best to happen. 
+(Reference Links:  
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions  
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed ) ] 
+Round 2 - Technical Interview I 
+The interviewer and I exchanged intros and then he asked me what my favourite subject was. I told 
+him OS since I was strong in it. (You can answer whatever subject you feel strong enough in but 
+mostly they would try to cover questions from all subjects - OS, DBMS, OOPS). He asked me about 
+bootloader program and then about four pillars of OOPS. Then he proceeded with the difference 
+between Run-time and Compile-time polymorphism. Run-time is slower as compared to compile-
+time. He asked me the reason and the answer was VTABLE lookup. So, make sure to be thorough 
+with concept of abstract class and virtual functions. Then he asked me about caching. 
+Then a few common questions such as what is an API and what happens when you type google.com 
+in your browser. Then he asked the difference between HTTP and HTTPS and about SSL. (These 
+were general questions and were particular to this interviewer. In general, you don't need to worry 
+much if you get these types of questions. Just manage to answer them to the best of your 
+capability). 
+Then he asked me to explain about the relation schema of my DBMS project. He asked me, "Do you 
+see the problem here?" (I had two tables which contained similar types of data) So I answered that 
+we can merge them into one. He asked me about normalization and then proceeded with "Do you 
+see the problem here" again. Apparently on merging the two tables the API calls get made to the 
+same table twice, which would lead to slower performance. He asked me for the solution and the 
+answer was to use Indices. Then he asked questions which data structure is used to implement 
+indexing and the difference between caching and indexing and then when to use indexing. So be 
+thorough with the relation schemas of your project and learn about SQL indices, normalization and 
+queries. They might not be asked directly but as part of questioning about your project. 
+Round 3 - Technical Interview II 
+The Director of Engineering had a talk with me and gave me a coding problem: 
+Given a stream of posts like Instagram Feed, you have to pair posts which were 25 seconds apart in 
+their timestamps. My idea was to use a queue and then remove the head of the queue as long as 
+the difference was greater than 25. Then if the head was exactly 25 seconds less than the current 
+post, make pair. I was asked only to write pseudocode. After that, another interviewer started 
+asking me a stream of OS questions. He covered the following topics:  
+• Program vs Process 
+• Scheduling algorithms 
+• Thread vs Process 
+• States of a process 
+• Semaphore vs Mutex 
+• Deadlocks 
+After these three rounds, I attended an HR round, where I was asked basic HR questions. 
+Result: Three of us got selected. 
+Do check out past intern interview experiences from GFG and practise company specific question 
+sets too. All the best :) 
+Saikumarran S K 
+2020103561 
+CSE, CEG 2024 

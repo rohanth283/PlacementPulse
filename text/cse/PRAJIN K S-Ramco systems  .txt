@@ -1,0 +1,162 @@
+RAMCO SYSTEMS INTERVIEW EXPERIENCE 
+ 
+Ramco Systems Limited is an Indian multinational enterprise software 
+product and platform provider disrupting the market with its multi-tenant 
+cloud and mobile-based enterprise solutions in Global Payroll, ERP, and 
+M&E MRO for Aviation. Founded in 1997, it is a part of Ramco Group, and 
+is headquartered in Chennai, Tamil Nadu. 
+ 
+Sequence of Selection: 
+1. Online Test 
+2. Pen and paper assessment  
+3. Technical Interview – 1 
+4. Technical Interview – 2 
+ 
+1. Online Test: 
+ 
+The online assessment was conducted on the DoSelect platform with 
+total duration of 1hr 15 mins. Total number of questions are 26 in which first 
+2 were coding questions: 
+i. 
+Array Rearrangement: Give a sorted array you need to rearrange 
+a sorted array so that elements alternate between the maximum and 
+minimum values. 
+ 
+o/p: [max, min, second max, second min, ….] 
+ 
+ii. 
+In a village with N houses connected by N-1 roads, for each house 
+find how far away its farthest friend could live. 
+These questions are necessarily need to be done in ‘C’ Language only. 
+Remaining 24 questions are Multiple choice from the topics like basic 
+understanding of C Language, Operating system, DBMS, Linux commands. 
+ 
+From online test, 73 candidates were selected for the pen and paper 
+assessment the next day at CUIC. 
+ 
+2. Pen and Paper Assessment:  
+ 
+In this round, all the candidates were given a question papers 
+consisting of 3 coding questions. We can write codes in our preferrable 
+language within 1 ½ hrs time limit. The 3 coding questions asked (from 
+LEETCODE) are: 
+a) Longest Harmonious Subsequence. 
+b) Longest Substring Without Repeating Characters. 
+c) Find Duplicate Subtrees. 
+ 
+From this round, 42 candidates were selected for the 1st level of 
+Technical Interview. 
+ 
+3. Technical Interview – 1: 
+ 
+These are the following questions asked to me after giving self-
+introduction: 
+ 
+a) Puzzle: Find the fastest 3 horses. 
+b) DSA: 
+• Sort the given unsorted linked list without manipulating 
+the data and without creating new linked list. 
+• What is meant by Time complexity. 
+• What is the major difference between malloc and calloc? 
+c) OOPS: 
+• What are the 4 pillars of OOPS? 
+• What is operator overloading? 
+• Why Java cannot inherit multiple class? What problem 
+arises when try to inherit? 
+• What is constructor overriding? (there is no such thing, 
+they simply tested) 
+• What is Destructor? Whether it is present in java? How 
+can we use it in java? 
+• Why OOPs is significant from the procedural languages 
+like C? 
+d) DBMS: 
+• Types of commands in SQL (DDL, DML,…) and give 
+examples. 
+• Difference between DELETE, TRUNCATE, DROP 
+commands. 
+• What is Transaction? What is meant by RAID? 
+• ACID property 
+• What is Normalization? What are the Normal Forms? 
+• What is Data redundancy? 
+• What is Denormalization? 
+• Why JDBC is used? (Based on my project) 
+ 
+e) OS: 
+• What is Deadlock? 
+• Why Deadlock occurs? What are the necessary 
+conditions? 
+• How Deadlock can be prevented? 
+• What is the difference between concurrent process and 
+parallel process? 
+• What is semaphore? What are the types of Semaphores? 
+• What are the functions of Semaphore? 
+ 
+From this round, 19 candidates were shortlisted for the next round of 
+Technical Interview. 
+ 
+4. Technical Interview – 2: 
+ 
+Firstly, the interviewer asked me about the Hostel Management 
+project I have done in Java using JDBC, MySQL, Java swing. He 
+asked about my contribution. He then, asked me the schema of the 
+database in this project. 
+ 
+Asked about what is meant by indexing? And if you need to 
+implement indexing into your table, which index you would prefer 
+and why?? 
+ 
+DSA: 1) Detect loop in the linked list. 
+ 
+2) Return the start node of the loop in the linked list. 
+ 
+3) Need to find the output and time complexity of the below 
+given code: 
+ 
+ 
+ 
+void func(n, m){ 
+ 
+ 
+if(m<=0) return; 
+ 
+ 
+if(m > n) return; 
+ 
+ 
+print(m); 
+ 
+ 
+func(n, 3 * m); 
+ 
+ 
+print(m); 
+} 
+ 
+func(2000, 8); 
+ 
+ 
+ 
+ 
+ 
+After this final round, 10 candidates received offers. 
+ 
+ 
+For the future candidates, I would suggest to strong well enough in core 
+fundamentals, DSA, and the projects that you done. You should be aware of 
+each and every word in your resume and ready to explain your resume. Be 
+confident about you and believe in you. 
+Wishing you all the best!! 
+ 
+PRAJIN K S, 
+CEG, CSE’26, 
+e-mail: prajinsivaselvi@gmail.com 
+Mobile: 6369770924. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

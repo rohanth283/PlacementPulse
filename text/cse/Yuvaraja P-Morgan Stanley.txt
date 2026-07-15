@@ -1,0 +1,54 @@
+Morgan Stanley (Internship) 
+ 
+About the company: 
+Morgan Stanley is an American multinational investment bank and financial services 
+company. Morgan Stanley mobilizes capital to help governments, corporations, institutions and 
+individuals around the world achieve their financial goals. 
+ 
+Round 1: Online Coding Round 
+ 
+This round consisted of MCQs and 3 coding questions. The MCQs included aptitude, logical 
+and technical questions each in different sections. The coding questions were based on some of the 
+following topics strings, DP and graph and the difficulty level of those three questions were easy, 
+medium and hard respectively. 
+ 
+Round 2: Technical Round 
+ 
+This round was for about 40 mins. Mainly asked standard questions in OS, DBMS, Data 
+Structures and OOPS. Here are some of the questions I remember. 
+• Tail recursion 
+• Explain red black tree and AVL tree and state the difference 
+• Merge two Linked list 
+• Topological sorting 
+It would be sufficient, if you had enough knowledge in core subjects and practiced well in top 
+coding websites. 
+ 
+Round 3: HR Round 
+ 
+This round was for about 45 mins. Asked common HR questions and a design question. 
+• Tell me about yourself 
+• Explain about your leadership skills. 
+• Asked to explain one of my projects and my role in that project. 
+• Whether faced any issues while developing, if any what are those issues and how you 
+resolved it. 
+• Hardest decision you made. 
+• Asked to draw class diagram for movie ticket booking system. 
+Answer each question boldly, don’t hesitate for anything, speak with confidence. 
+ 
+Topics to be focused: 
+• Data structures and algorithm 
+• Key knowledge in at least one programming language. 
+• OOPS, OS and DBMS. 
+ 
+ 
+ 
+ 
+Take away 
+• Practice well in coding platforms. 
+• Have sufficient knowledge in core subjects. 
+• Be confident while you speak to the interviewer. 
+ 
+All the best :)  
+ 
+Yuvaraja P 
+pyuvaraja22@gmail.com 

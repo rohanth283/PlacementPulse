@@ -1,0 +1,153 @@
+           
+ 
+ 
+      
+ 
+                                      Placement Experience 
+ 
+Zoho Corporation is a global technology company that provides a wide range of cloud-
+based software solutions to help businesses manage operations, boost productivity, and 
+accelerate digital transformation. Its flagship product, Zoho One, serves as a unified business 
+operating system, integrating tools for sales, marketing, finance, HR, and customer support. 
+By leveraging AI, analytics, and automation, Zoho enables smarter decision-making and 
+seamless collaboration across teams. Headquartered in Chennai, India, Zoho is known for its 
+privacy-first philosophy, independent growth, and commitment to long-term sustainability. 
+For more details, visit www.zoho.com. 
+ 
+Selection Process: 
+The Selection Process Involves 5 Rounds 
+Round 1: Aptitude with Programming Assessment 
+This Round consists of 20 questions (not in MCQ format you’ve to fill the correct answer) 
+which covers Basic Aptitudes, Mathematics, Pseudocode (determine the output) 
+ 
+Round 2: Problem Solving 
+They’ve given 2 DSA questions based on the solution they allow you to solve the next 3 DSA 
+questions. And the questions are, 
+1.Print the following Pattern:  
+Sample Case:  
+5  
+       Output:  
+      1  
+     3 2  
+     6 5 4  
+     8 7  
+     9 
+  
+ 
+2. Non-Consecutive Fibonacci Sum: 
+ 
+     Given a number N, find the minimal no of Fibonacci numbers whose sum 
+equal to the given value, but exclude consecutive Fibonacci numbers from the sum. 
+Sample Case:  
+30 
+       Output:  
+      21 + 8 + 1 
+ 
+ 
+ 
+3.Sort By Square Values: 
+Given an array of integers (potentially negative), return the same elements 
+but sorted based on their square values. 
+Sample Case:  
+     [-4, -1, 0, 3, 10]        
+       Output:  
+      [0, -1, 3, -4, 10]   ( squares => [16, 1, 0, 9, 100]) 
+ 
+ 
+ 
+4. Date Difference Calculator: 
+Calculate the difference between two dates and display the result in years, 
+months, and days format. 
+Sample Case:  
+     From: 01-01-2000 
+     To: 31-10-2025 
+       Output:  
+      25 years, 9 months, 30 days 
+ 
+ 
+ 
+5. Given a Entry and exit Logs find the maximum number of workers inside                                            
+     the office at a time: 
+            Input Format:  
+                       1st Line:   
+N (No of Persons)  
+                       Next N Line:  
+entry_time exit_time 
+    Sample Case:  
+                4  
+               1 5  
+               2 7  
+               3 8  
+               6 9 
+Visual:  
+           0 1 2 3 4 5 6 7 8 9  
+               ––––––––  
+                   –––––––––  
+                        ––––––––  
+                                  ––––– 
+it’s a slight modification of Minimum number of platforms required for a railway 
+ 
+NOTE : They are only allowed to use C, C++, Java. Python is not allowed. 
+ 
+Round 3: Long Coding 
+Problem Explanation: 
+ 
+Design an inventory management system for an organization that purchases products 
+from vendors, stores them in a warehouse, and sells them to customers. The system 
+maintains two lists: a purchased list (orders from vendors) and a sales list (orders to 
+customers). 
+ 
+Each order has a status attribute with a default value of "paid". When a purchase 
+order's status changes to "received", the warehouse stock quantity must increase. When a 
+sales order's status changes to "delivered", the warehouse stock quantity must decrease. 
+This status-driven mechanism ensures real-time inventory synchronization based on order 
+fulfilment events. 
+ 
+Additional Functionalities: 
+1.Total Stock Holding for Each Product 
+2.Record of Orders Purchased from Vendors 
+3.Record of Orders Delivered to Customers 
+4.Number of Orders to be Received from Vendors 
+5.Number of Orders to be Delivered to Customers 
+6.Details of Orders Placed to Vendors Within a Date Range 
+7.Details of Orders Placed by Customers Within a Date Range 
+They assessed only how you approach the problem rather than implementation. For 
+me, they asked to design a database with normalized. Start with a low-level class diagram 
+and explain your thoughts to them, making sure to interact with them frequently. 
+ 
+Round 4: Technical Interview 
+Duration: 40 – 50 Mins 
+1. Started with Tell me about Yourself 
+2. And he asked me to explain my Projects 
+3. Why did you choose this problem statement? 
+4. Why did you choose these tech stacks? 
+5. What are the Programming languages you are familiar with? 
+6. What do you know about Zoho? 
+ 
+Round 5: HR Interview 
+Duration: 30 – 45 Mins 
+1. Give a brief introduction about yourself 
+2. Explain any one of your projects. 
+3. If you are assigned to a project and you are the leader, what are the steps you 
+would undertake? 
+4. Do you have plans for higher studies? 
+5. If we put you in some other location, will you be able to work there? 
+6. What is your expected salary? 
+7. How many Interviews have you attended before Zoho? 
+8. How many offers do you have in hand? 
+9. How long will you be in Zoho? 
+ 
+NOTE : 
+Try to interact with the interviewer frequently during both rounds 2 and 3.and give 
+your optimized solution for the round 2 which plays a crucial roll during the entire process 
+ 
+ 
+If you have any queries, feel free to reach out to me 
+Name : Selva Subramanian A 
+Phone : 7867996473 
+Email   : selvasubramanian.annauniv@gmail.com 
+ 
+ 
+ 
+------ALL THE BEST------ 
+ 

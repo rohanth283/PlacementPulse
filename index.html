@@ -247,13 +247,27 @@
                                     <option value="Hard">Hard</option>
                                 </select>
                             </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="graduation-cap"></i>
+                                <select id="filter-department">
+                                    <option value="">All Departments</option>
+                                    <option value="CSE">CSE</option>
+                                    <option value="IT">IT</option>
+                                </select>
+                            </div>
                         </div>
                     </div>
-                    <!-- Direct Redirect to CSEA Web Portal -->
-                    <a href="https://placement.cseaceg.org.in/" target="_blank" rel="noopener noreferrer" class="csea-redirect-btn">
-                        <span>Go to CSEA Portal</span>
-                        <i data-lucide="external-link"></i>
-                    </a>
+                    <!-- Direct Redirect Links -->
+                    <div style="display: flex; gap: 0.65rem; align-items: center; flex-wrap: wrap;">
+                        <a href="https://placement.cseaceg.org.in/" target="_blank" rel="noopener noreferrer" class="csea-redirect-btn">
+                            <span>Go to CSEA Portal</span>
+                            <i data-lucide="external-link"></i>
+                        </a>
+                        <a href="https://istaceg.in/placement" target="_blank" rel="noopener noreferrer" class="ist-redirect-btn">
+                            <span>Go to IST Portal</span>
+                            <i data-lucide="external-link"></i>
+                        </a>
+                    </div>
                 </div>
 
                 <div class="explorer-grid" id="experiences-grid">
@@ -358,6 +372,7 @@
             </div>
             <div class="panel-body">
                 <div class="meta-pills">
+                    <div class="meta-pill"><span class="label">Dept:</span> <span id="panel-dept-badge" class="badge">CSE</span></div>
                     <div class="meta-pill"><span class="label">Difficulty:</span> <span id="panel-difficulty-badge" class="badge">Medium</span></div>
                     <div class="meta-pill"><span class="label">Year:</span> <span id="panel-year-badge" class="badge">2025</span></div>
                     <div class="meta-pill"><span class="label">Type:</span> <span id="panel-type-badge" class="badge">Placement</span></div>

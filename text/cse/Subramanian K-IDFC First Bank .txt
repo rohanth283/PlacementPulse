@@ -1,0 +1,153 @@
+                                 IDFC FIRST BANK INTERVIEW EXPERIENCE 
+About the Company: 
+IDFC FIRST Bank is a leading financial institution in India, formed by the merger of IDFC Bank and 
+Capital First in 2018. The bank focuses on retail banking, corporate banking, and wealth management 
+services. With an emphasis on customer-centric innovation and digital solutions, it has rapidly grown into 
+one of the most trusted private sector banks in India. 
+Role:Application Engineer 
+CTC:18.1 
+Selection Process: 
+1. Online Test 
+2. Technical Interview 1 
+3. Technical Interview 2 
+4. Managerial Round 
+5.HR Round 
+Online Test: 
+• Aptitude MCQs: 10 (15 minutes) 
+• Technical MCQs: 20 (30 minutes) 
+• Coding questions: 2 (30 minutes) 
+Coding Questions: 
+1.Reverse a String 
+   Input: "hello" 
+   Output: "olleh" 
+   I implemented a simple function using Python slicing (s[::-1]) to solve this efficiently. 
+2.Diagonal Sum in a Spiral Matrix 
+     Given a spiral matrix of size N x N (where N is odd), calculate the sum of the numbers on both diagonals. 
+21 22 23 24 25 
+20  7  8  9 10 
+19  6  1  2 11 
+18  5  4  3 12 
+17 16 15 14 13 
+Example: For N = 5, the spiral looks like above given one, 
+The sum of diagonals is 101. 
+Technical Interview 1 (45 mins): 
+Introductory Question: Self-introduction. 
+Sliding Window ( Banking Use Case): 
+Question: The RBI continuously monitors bank accounts. If three consecutive transactions cross a 
+total of ₹800, the account should be blocked for one day. Implement a solution. 
+o I explained my sliding window approach: 
+▪ Maintain a window of size 3 over the transaction array. 
+▪ For each window, check if the sum exceeds ₹800. 
+▪ If yes → mark account as blocked. 
+o I wrote the code, explained it line by line, and discussed time complexity. 
+Sample Input: [200, 350, 400, 100] 
+Output: Blocked (because 200+350+400 = 950 > 800). 
+SQL: 
+• Query to print the second largest price from a table (without using LIMIT or subquery). 
+• One question on basic GROUP BY usage. 
+• Asked whether we can use GROUP BY without aggregate functions. 
+• Asked one basic question to implement stored procedure in PLSQL(To print the second 
+largest price from table after applying discount on it each row as unique discount). 
+ JavaScript: 
+• Difference between truthy and falsy values. 
+Technical Interview 2 (1 Hour 30 Minutes): 
+This round was a mix of OOPs concepts and in-depth project discussions. The panel expected clear 
+understanding of fundamentals as well as hands-on knowledge of implementation. 
+• 
+OOPs Concepts (Java-focused): 
+o Defined the four pillars of OOPs with two examples each: 
+▪ 
+Inheritance (single, multilevel, hierarchical, multiple – and discussed the diamond 
+problem). 
+▪ 
+Polymorphism (static/compile-time via method overloading, dynamic/runtime via 
+overriding). 
+▪ 
+Encapsulation (binding data with methods, explained with a class example). 
+▪ 
+Abstraction (using abstract classes and interfaces). 
+o Explained the difference between interface and abstract class with practical use cases. 
+• 
+General Project Questions Across All Three Projects: 
+o What was my role in each project? 
+o What were the objectives of the projects? 
+o What were the major challenges I faced and how I overcame them? 
+• 
+DBMS Project (Main Focus – ~40 minutes): 
+o Spent significant time discussing the schema and ER diagram, explained attributes in detail. 
+o Asked to draw the frontend of the project on paper. 
+o Asked to write folder names and file names of the project. 
+o Conceptual questions included: 
+▪ 
+Difference between frontend and backend. 
+▪ 
+What is DBMS vs. Database? 
+▪ 
+What is XAMPP and how was it integrated in the project? 
+▪ 
+How HTML forms work – mechanism behind the onclick submission button. 
+• 
+Machine Learning Project: 
+o Asked to define ML to a person with no technical background. 
+o Explained how to train and test a model. 
+o Discussed the model I used, why I chose it, and differences compared to other models I 
+experimented with. 
+• 
+Java Servlet Project: 
+o Questions on What is Java Servlet? and its lifecycle. 
+o Since I had used SMTP protocol in the project for sending emails, they asked about how 
+SMTP works. 
+Managerial Interview: 30 Minutes (Virtual) 
+This round primarily evaluated my project execution skills, GitHub knowledge, and communication. 
+• 
+The manager asked me to open GitHub and explain one of my uploaded projects in detail. 
+• 
+He then went through all 6 projects I had uploaded on GitHub. 
+• 
+During the discussion, he tested whether I knew how to properly use GitHub commands and 
+repository management. 
+• 
+I was asked to share my screen and run the project directly while explaining its workflow. 
+• 
+The manager also had a soft copy of my resume, and he referred to it during the discussion, asking 
+clarifying questions on the listed skills and projects. 
+• 
+At the end of the round, he asked if I had any questions for him, giving me the chance to interact. 
+HR Interview: 20–25 Minutes (Virtual) 
+This round was conversational and focused on personality, mindset, and career preferences. 
+• 
+Began with a short introduction and family background. 
+• 
+Questions asked: 
+o How was your overall experience in the previous rounds? 
+o If not Engineering, what alternate career path would you choose and why? 
+o Follow-up questions about that chosen career. 
+• 
+Scenario-based Question: 
+o You are playing a cricket match. In one case, your team is winning but you did not perform 
+well. In the second case, your team is losing but you performed really well. Which one would 
+you choose, and why? 
+General Tips: 
+• 
+Stay confident and calm – don’t put unnecessary pressure on yourself. 
+• 
+Communicate naturally – speak as if you are talking to a friend; this helps reduce nervousness. 
+• 
+Maintain composure – don’t be overly afraid; show a balanced level of confidence and positive 
+attitude. 
+• 
+Build rapport – connect with the interviewers by greeting them warmly (e.g., a firm handshake in 
+offline rounds). 
+• 
+Answer smartly – if you don’t know a question, try to relate it to relevant topics you are familiar 
+with instead of staying silent. 
+• 
+First impression matters – give a clear, confident, and engaging self-introduction 
+• 
+Real life examples-provide real life examples whenever possible  
+ 
+Subramanian K(2022506009) 
+MIT IT 2026 
+Feel free to reach out :) 
+LinkedIn: SUBRAMANIAN K 
+Gmail: subukarthi29@gmail.com 

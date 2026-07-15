@@ -1,0 +1,73 @@
+NATWEST FTE INTERVIEW EXPERIENCE
+ABOUT THE COMPANY
+National Westminster Bank, commonly known as NatWest, is a major retail and
+commercial bank in the United Kingdom based in London, England. It was
+established in 1968 by the merger of National Provincial Bank and Westminster
+Bank.
+ONLINE TEST
+The online test was conducted on Mettl which consisted of 6 sections which had to
+be solved in a duration of 2hr. Overall there were 50 MCQs and 3 coding
+questions.
+Section 1: There were 2 coding questions in this section
+●Slight Variation of Knapsack
+●Graph question
+Section 2: This section was the algorithmic section. It consisted of one question
+●Coin Change :https://leetcode.com/problems/coin-change/
+Section 3: This section consisted of 10 MCQs based on Quantitative aptitude. The
+questions were easy to medium and were based on simple and compound interest,
+profit and loss, probability, permutations, mixtures, and number systems.
+Section 4: This section consisted of 10 MCQs based on Logical Reasoning. The
+questions were based on figures, directions, calendars, blood relations, directions,
+clocks, etc.
+Section 5: This section consisted of 10 MCQs based on Verbal Aptitude. The
+questions were easy and consisted of fill in the blanks with the appropriate word,
+synonyms, antonyms, error detection, paragraph based questions.
+Section 6: This section consisted of 20 MCQs based on Technical aptitude. The
+questions were from all technical subjects including OS, DBMS, Data structures,
+time complexity, C/Java output based.
+47 candidates including me were shortlisted for the next round.
+Technical + Competency based interview (Virtual)
+This was a technical round conducted on Zoom meetings, the panel consisted of 2
+interviewers. Interview duration was about 25 - 30 min.
+Interview was divided into three parts
+About myself
+Questions Asked
+1. Tell me about yourself
+2. Family background
+3. About Schooling, hobbies and interests
+Technical questions
+Questions Asked
+1. Explain any one project which you have worked on.
+I explained a DBMS project
+How do we handle going to different webpages handled in the project
+How is the front-end connected to database
+2. Basics of OS
+Different types of OS
+3. Basics of DBMS
+Purpose of DBMS
+List Different Constraints and explain , python vs SQL, Different Schemas
+available etc
+4. Basics of CN
+Different Layers of OSI model
+List all the Different Topologies and explain and what is the topology used
+in internet
+List some Protocols and explain
+5. Basic of ML - supervised vs Unsupervised, overfitting and underfitting
+6. Some basic unix commands
+Command to sort the files in a directory and display top 10.
+Scenario based/ HR questions
+1. What is your strength ?
+2. What is your Weakness ?
+3. Where do you see yourself in 5 years
+4. Why do you want to join Natwest ?
+5. Scenario
+You are the team lead and team consists of 4 members and one person take a
+long leave and deadlines approaching for a project
+What will you do ?
+Finally 21 were shortlisted.
+Resources
+DSA RESOURCES
+ALL THE BEST!
+Pooja S (CSE 2019 - 2023)
+Feel free to reach out to me at:
+https://www.linkedin.com/in/pooja-sukumar-0b4620222/

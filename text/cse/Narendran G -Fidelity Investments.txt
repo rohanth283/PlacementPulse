@@ -1,0 +1,121 @@
+FIDELITY INVESTMENTS 
+About the company: 
+ 
+Fidelity Investments, commonly referred to as Fidelity, earlier as Fidelity Management 
+& Research or FMR, is an American multinational financial services corporation based in 
+Boston. The company, founded in 1946, is one of the prominent FinTech company which 
+offers a wide range of financial services to customers including investors, large scale 
+companies, etc… 
+Number of rounds: 3 
+Roles: Software development and data science internships 
+Online Assessment:  
+ 
+The online assessment is conducted on HirePro platform for nearly 1 hour 30 minutes. 
+The assessment consists of 4 sections. 
+ 
+1. The first section comprises of English vocabulary aptitude questions. The questions 
+are straightforward and easy to answer. 
+ 
+2. The second section comprises of technical aptitude questions where questions were 
+like guessing the output, debugging and MCQs related to Operating Systems, OOPS, DBMS 
+queries, computer network. The questions were in easy to medium difficulty range. Stick to 
+one programming language and get familiar with it (C++, Java or Python).  
+ 
+3. The third section consists of two coding questions. First question is ‘Given an array 
+of integers. Find the sum of largest digit in each integer of the array’.  
+ 
+Second question is ‘Given a number with some blanks in it. Find the largest possible 
+perfect square number formed by filling all the blanks. E.g.: 6 2 _. The output will be 625’. 
+ 
+Both questions are in easy and medium difficulty. I was able to solve all the testcases 
+in both the testcases. Use brute force method in online assessments if you can’t think of 
+optimized approach. 
+ 
+4. In fourth section, we have to write just the algorithm for two questions related to 
+Dynamic Programming. I finished the first question completely with proper algorithm. But I 
+was not able to finish the second question on time. 
+ 
+24 students got shortlisted for the interview round. I was one of them.0 
+Note:  
+ 
+Be strong in aptitude and try to clear as many testcases as possible on coding round.  
+Time constraint is also a factor in selection process. Don’t forget to submit your answers! 
+Technical Interview: 
+ 
+The interview was held at CUIC and on 8:30 AM, we had a small presentation regarding 
+the company’s internship drive. Then the interview started. 
+ 
+The interviewer asked me to introduce myself. After that she reviewed my resume and 
+gave some comments regarding my schoolings and CGPA. She was very friendly and I was able 
+to answer the comments with ease. The she asked me an experience which prompted me to 
+learn web development (Since I mentioned it as my foremost skill in my resume). I told her 
+about how YouTube intrigued me to learn the behind the scenes of client and server 
+communication. Then I explained about the Tech stacks I am specialized in, which is MERN. 
+She was satisfied with my answer and asked whether I prefer Angular or React. I explained 
+the use cases of both the frameworks and told her my personal opinion as well as a 
+generalized opinion.  
+ 
+Then she asked whether am I familiar with DBMS. I said yes. She asked some basic 
+concepts like normalization, ACID properties, foreign key. Then she asked me to write a query 
+for finding second largest salary in Employee table. I wrote it down and explained it to her. 
+She was satisfied and asked what type of DB is used in Facebook, Twitter. Then she asked me 
+whether I know the DB used by Google. Since I was familiar with the tech trends, I answered 
+the questions correctly. Then she asked me which sorting is better: Merge Sort or Quicksort. 
+I told her both has its pros and cons and explained the situation where each sort would be 
+better. She was impressed by it.  
+ 
+She then started asking about the projects mentioned in my resume. I was able to 
+answer all the questions easily. She then asked how I implemented AI use case in my DBMS 
+project. I told her about OpenAI API and how I implemented it. She asked a follow up question 
+for it: Difference between AI and ML. I was not able to answer the question correctly. But she 
+smiled and explained its difference to me. 
+ 
+Then the interview moved on to CTF and the projects I have done there. I have 
+explained about the projects I was working on. She was greatly interested in it and asked 
+many questions such as Tech Stacks, Payment portal regarding the project. I was happy to 
+answer all the questions with ease. 
+ 
+Then she asked me some fun questions to lighten the mood. She asked me about my 
+hobbies, which book genre I was interested in, which book character I preferred the most and 
+she asked me whether I can talk in Hindi. I told her I can only write and read in Hindi. She 
+smiled and asked me whether I have any questions. I asked her about the Tech Stacks used in 
+Fidelity and the work culture in the company  
+ 
+Overall, the interview went for 40 minutes. Keep the interviewer engaged and don’t 
+give one-line answers. Explain every answer in detail and be honest in your resume. 
+ 
+Within 15 minutes, I got selected for HR round. 
+HR Round: 
+ 
+The interviewer asked about myself. She then asked me some typical questions like: 
+Why engineering, Why CEG. Then she asked why did I choose Fidelity. Always do a little 
+research about the company before interview and include facts about the company subtly 
+during HR interview.  
+ 
+She then asked me whether I have worked in teams. I told her about CTF club and the 
+projects I have worked on. She then asked about the conflicts I have faced in a team, 
+drawbacks I have faced in a team, what I did to overcome those setbacks.  
+ 
+She then asked me whether I have any questions. I asked her about the working 
+conditions for interns after they received PPO and working preference for interns (On site or 
+WFH). With that interview finished. It lasted for about 20 minutes. Keep the interview as a 
+conversation and don’t hesitate to ask questions politely when you want. 
+ 
+In the end, 6 students got internship. I was happy to be one of them.  
+ 
+ 
+Key Points to note: 
+• Solve competitive questions from Leetcode, Hackerrank, CodeChef, etc… 
+• Be strong in DSA, DBMS, OS, OOPS. 
+• Always mention projects in your resume and be strong in the tech stack you are using. 
+• Be honest in your resume. 
+• Keep the interview engaging. 
+ 
+ 
+ALL THE BEST 
+ 
+ 
+Contact: 
+Narendran G 
+Email: narensakthiit@gmail.com 
+LinkedIn: https://www.linkedin.com/in/narendran-g 

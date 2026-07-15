@@ -1,0 +1,205 @@
+About The Company 
+Citibank is the consumer banking division of Citigroup, one of the world's largest 
+financial services organizations. Citibank offers a wide range of financial products and 
+services to individuals, businesses, and institutions, including retail banking, wealth 
+management, global transaction services, etc. Citibank has a significant international 
+presence with operations in numerous countries and serves millions of customers 
+globally. 
+Citi CSC stands for Citi Solutions Centers. It is a global network of technology centers 
+that provide support to Citi’s core businesses and clients around the world. The centers 
+are in strategic locations across the globe, including Pune, India, where one of Citi’s 
+largest technology centers is located. They deal with Markets & Securities, Risk & 
+Capital Management, Cash Management, Trade & Treasury Services, Private Banking, 
+Mobile, Compliance & Surveillance Technology, Finance and Risk Mitigation. 
+Citi CSC came to our college to recruit for 2 of their domains: 
+• 
+International Consumer Group (ICG): This domain focused more on 
+development. Knowledge on microservices, Java, Apache server, Kafka and app 
+development were tested in the online round for students who chose this 
+domain, and the coding round for this test included the coding of a form (don’t 
+really remember the details). 
+• 
+Enterprise Operations & Technology (EO&T): This was the domain I picked as 
+it aligned a lot more with the fields I am passionate about, i.e. cybersecurity and 
+testing. The job description included tasks like risk analysis and mitigation, data 
+protection, web and mobile app testing, API development and integration, 
+analytics, and a lot more. I have explained the test and the interview process 
+for this domain in detail. 
+ 
+Online Round: 
+Platform: SHL Amcat 
+• 
+Verbal Section: Consisted of questions on reading comprehension, grammar, 
+vocabulary, and elementary grammar skills [14 questions – 20 mins] 
+• 
+Advanced Aptitude: Questions were based on number sequences, text encoding, 
+blood relations, logic puzzles, etc. [12 questions – 12 minutes] 
+• 
+CS Fundamentals: Algorithms, basic DBMS, code error correction, finding the 
+output, etc.   [12 questions – 12 minutes] 
+• 
+Coding: 2 questions (total 45 mins) – no. of negative numbers in an array, sum of 
+prime numbers within a given range [since the questions were extremely easy, 
+they could be completed in less than 5 minutes XD] 
+ 
+Round 1: Tech Round [Two interviewers] 
+• 
+During the interview, we kicked things off with the standard "Tell us about 
+yourself." However, the conversation took an interesting turn when they 
+discovered I’m not originally from Chennai. One of the interviewers was curious 
+about how I coped with the language barrier, considering that Tamil is the 
+predominant language in Chennai. I explained that after a decade of living in 
+Chennai, I had become decently fluent in Tamil. I also mentioned that I 
+continued to learn and improve my language skills as it wasn’t my mother tongue. 
+• 
+Then, they delved into my resume, where I had listed problem-solving as one of 
+my skills. They asked for a real-life example of how I had applied this skill, so I 
+shared a relevant experience. 
+• 
+The interview also got technical with questions about file handling and database 
+management systems (DBMS). For most of these questions, I had to walk them 
+through the logic step by step. In one instance, they asked me to write an SQL 
+query on paper. 
+• 
+Next, we ventured into discussions about data structures. They were curious 
+about which data structures I was familiar with, and this led to conversations 
+about linked lists and their related problems 
+• 
+I was asked to explain the different kinds of trees, and I had accidently 
+mentioned AVL trees, and that sparked a more in-depth discussion. The 
+interviewer delved into how AVL trees function, their significance, and their 
+practical applications. 
+• 
+They also chose one of my projects and asked me to provide a detailed 
+explanation. They were keen to know my thoughts on potential improvements for 
+the project. 
+• 
+They inquired about my decision to pick the EO&T domain, wanting to 
+understand my motivations and reasons for choosing this specific field. 
+• 
+They threw in a more casual question about my familiarity with Object-Oriented 
+Programming (OOP) concepts. I mentioned that I had a basic understanding of 
+OOP. 
+• 
+As the interview concluded, they gave me the opportunity to ask any questions I 
+had in mind 
+ 
+Round 2: Managerial Round [Two Interviewers] 
+• 
+The interview began with the customary request for a self-introduction. 
+Subsequently, they inquired about my place of origin once again, seeking to 
+understand more about my background. 
+• 
+The conversation then shifted towards a discussion about the backend 
+mechanism of payment apps like GPay. While I didn't have a complete grasp of 
+the topic, I made an effort to provide a reasonable answer. In response, the 
+interviewer acknowledged my attempt and said I was close, and then patiently 
+explained the intricate workings behind GPay. 
+• 
+They were also curious about my pursuits outside of academics. Specifically, 
+they wanted to know how I had explored and pursued my passions beyond the 
+classroom. 
+• 
+The interview delved into teamwork and collaboration when I was asked to 
+narrate a situation in which I encountered difficulty working in a team and how I 
+resolved it. They also inquired about who took the initiative to address the issue. 
+Additionally, I was asked if there had been instances where I had to delegate 
+my responsibilities to a teammate. 
+• 
+I had mentioned my certification as a piano player in my resume, which piqued 
+their interest. They asked me about my music interests, including my preferred 
+style, favorite composer, and the pieces that resonated with me. 
+• 
+The discussion turned to my technical interests, which I had highlighted in my 
+resume. They noticed my inclination towards core subjects and asked why I 
+hadn't considered pursuing higher studies. 
+• 
+Given that I had expressed an interest in research in the "About Me" section of 
+my resume, I was asked to elaborate on why I found research intriguing and 
+what drew me to it. 
+• 
+They were keen to understand why I would like to work in the finance sector and 
+how it aligned with my career growth.  
+• 
+Looking to the future, they asked about my two-year career aspirations and my 
+long-term plans beyond that timeframe. 
+• 
+The interview concluded by offering me the opportunity to ask questions I had  
+ 
+Round 3: HR Round [One Interviewer] 
+• 
+The interview commenced with the interviewer introducing himself, setting a 
+conversational tone. After that, he invited me to introduce myself and share a 
+bit about my background. 
+• 
+We then discussed my experiences with Citi so far, as he inquired about how my 
+journey with the company had been up to that point. 
+• 
+He asked me whether I had any relatives employed in the government or in Citi 
+• 
+One of the projects I had prominently featured on my resume involved a website 
+designed to facilitate Food Donation Management. He was keen to know what 
+had motivated me to choose this particular project and delve into its working. 
+• 
+Noticing that I had listed proficiency in around five languages on my resume, the 
+interviewer inquired about the reasons behind my pursuit of multiple languages, 
+wanting to understand the motivations behind each one. 
+• 
+As the conversation continued, he asked if there was any recent achievement in 
+my life that I felt particularly proud of. 
+• 
+I was then asked about what my greatest weakness was, to which I elaborated 
+on and mentioned ways in which I successfully battled it and how I’m still 
+continuing to work on it. 
+• 
+Finally, the interview came to a close, and he provided me with the opportunity 
+to ask any questions I might have about the company or the role. 
+ 
+All the interviews took place on the same day, in-person at CUIC. 
+There were about 20 students shortlisted from 100 who picked the EO&T domain, and 
+by GOD’S GRACE I was one of the 5 students selected for the summer internship. 
+ 
+My Tips: 
+• 
+DO NOT PANIC. At least with respect to Citi, the interview process is really 
+chilled out and there is absolutely no need to stress 
+• 
+Don’t spend too much time on a single aptitude question. And on certain 
+platforms like Amcat, they do no let you switch between questions or go back to 
+a previous question, so tackle the questions on the spot and wisely. 
+• 
+The hiring committee really values students who have clear-cut interests and 
+goals; those who know exactly what and why they want to do it. 
+• 
+At the same time, they are looking for those who have a strong passion to learn 
+and explore everything; no company wants rigid and the always-in-your-comfort-
+zone kind of employees 
+• 
+Try at least attempting to answer all the questions thrown at you 
+• 
+If you are asked something you don’t know, try to give a basic logical answer and 
+make sure to mention that it is something you are open to learning/improving and 
+you haven’t had the opportunity to explore it just yet 
+• 
+I received easy coding questions, but that may not be the case with other 
+domains and companies. I had close to no coding practice for the internship 
+drive and that is something I regret. Make sure you start practicing well in 
+advance 
+• 
+DO NOT lie on your resume. Interviewers will easily be able to figure out 
+whether you have bluffed or not 
+• 
+Know what the company does, how your skillset will benefit them and how they 
+can help your career advance 
+• 
+Know your projects inside-out, every little detail can be questioned. Know the 
+shortcomings of your project beforehand so that you’re not caught by surprise 
+• 
+Do not put a rating or level for your technical skills. I had done that and it 
+landed me into slight trouble.  
+ 
+Feel free to reach out! 
+Email: riyakuriyan@gmail.com 
+LinkedIn: https://www.linkedin.com/in/riya-elizabeth-kuriyan 
+ 
+All the very best!!! 

@@ -1,0 +1,153 @@
+JEYABALAN P - SOFTWARE INTERN   @
+
+jeyabalan764@gmail.com  || www.linkedin.com/in/jeyanth-p
+
+About the Company:
+
+NCR Voyix (operating in India through Terafina Software Solutions Pvt. Ltd.) is a global
+
+technology company that powers everyday consumer transactions across industries such as
+banking, retail, hospitality, and financial services. With a presence in over 35 countries, the
+company delivers innovative software platforms, cloud solutions, and digital transformation
+services that help enterprises create seamless and secure customer experiences.
+
+NCR Voyix’s solutions are widely used for self-service systems, payment processing,
+
+and enterprise software, supporting millions of interactions worldwide. The company
+emphasizes cutting-edge engineering, global collaboration, and delivering technology that
+simplifies and enhances consumer interactions.
+
+About the Role (Software Intern):
+
+I have been selected for a Software Intern position at NCR Voyix, where the internship
+
+includes a structured 6-month training period. During this time, I will be working under the
+guidance of senior engineers to gain hands-on experience in software development, debugging,
+testing, and understanding enterprise-level workflows.
+
+This internship is performance-based, meaning that full-time employment is not
+guaranteed but may be considered depending on my performance during the training period.
+The role provides exposure to real-world projects, modern technologies, and professional
+development practices, allowing me to build industry-ready skills within a global product-based
+company.
+
+Overview of the selection process:
+
+Our Online Assessment And Interviews all happened at CUIC . We had four rounds:
+
+1)  Online coding round in Hackerank (40 Got shortlisted)
+
+2) Technical Interview (20 got shortlisted)
+
+3) Managerial Interview  (10 got shortlisted)
+
+4) HR Interview (All 10 were selected for the internship)
+
+Round 1 : Online coding round:
+
+[1 hr ]
+
+The online coding test was conducted at CUIC through the HackerRank platform. We were
+given two coding problems—one easy and one hard. The harder problem was challenging for
+most candidates, so it’s completely normal even if you couldn’t solve it fully.
+
+Question 1:
+ Link: https://leetcode.com/discuss/post/7366207/atlassian-question-how-to-solve-this-by-rjuij/
+ Tip: I initially attempted a graph-traversal + factorial-based approach, which gives the correct
+logic but exceeds the time limit due to constraints. The optimal solution involves using
+combinatorics, which is more efficient and runs in roughly O(n log n) time.
+
+Question 2:
+ You are given a set of points on a Cartesian plane. These points collectively form multiple
+squares, and in a few squares one point is missing. The task is to find and return the missing
+point for incomplete squares.
+ Tip: This can be solved cleanly using an XOR-based method or by using set operations to
+identify the missing coordinate.
+
+Round 2 : Technical Interview(Offline):
+
+[ 1 hr ]
+
+I had a panel of two interviewers. The discussion began with my self-introduction, after
+
+which I walked them through a few of my projects. They were genuinely interested, and I
+explained one of the projects in depth. Most of the questions at this stage were focused on the
+work I had done, the technical decisions I had taken, and the outcomes.
+
+Next, the interview moved into DSA. They referred to the online assessment questions,
+
+and I was asked to pick one and explain it. I chose the hard problem, described my initial
+approach, clearly justified why it failed due to time complexity, and then walked them through
+the optimal approach. They also asked for the time complexity, and I explained that along with
+writing the pseudo-code on paper.
+
+There was a whiteboard with partially erased Python code written on it. I was asked to
+
+interpret the code and explain what it might be doing. The twist was that even they did not know
+the original code (it was pre-written); the intention was simply to test how I approach an
+unfamiliar or incomplete task.
+
+Next came a system/design question: “Consider you are designing a WhatsApp-like
+
+application. Design the database.”
+ I identified the stakeholders, listed the entities, and drew an ER diagram. They further asked
+how the user messages table would look, so I designed the schema, taking into account both
+user-to-user and user-to-group messaging. I ensured my design satisfied 3NF.
+
+We also briefly discussed end-to-end encryption and how messages remain secure. This
+
+led to a conversation on JWT, which I explained in detail.
+
+Round 3 : Managerial Round(Offline)
+
+[ 45min ]
+
+The managerial round was informal and conversational, mainly focused on
+
+understanding my motivation and cultural fit. I was asked questions such as why I chose NCR
+Voyix, what I liked about the company, and what I knew about its corporate culture. The
+discussion also included topics like work from home vs. work from office, plans for higher
+studies, family background, and a groundbreaking technology I recently came across. There
+was also a brief conversation about toxic workplace culture—what I think contributes to it, how
+to avoid it, and how I would handle such situations professionally. Overall, the round assessed
+my communication skills, mindset, and ability to work well in a healthy team environment. (I may
+not remember every question, but these were the key themes.)
+
+Round 4 : HR Interview(Offline)
+
+[ 10min ]
+
+Around ten candidates were shortlisted for the HR round. The interview was brief and
+
+focused on basic HR-oriented questions such as why I chose NCR Voyix, my family
+background, and my willingness to relocate or work from cities like Bengaluru or Chennai. This
+was the quickest round of the day, and all ten candidates were selected. The entire recruitment
+process started at around 8:30 AM and went on until 11:00 PM, making it one of the longest
+interview days ever conducted at CUIC.
+
+Preparation Strategy:
+
+For DSA, I mainly followed Striver’s SDE Sheet and the NeetCode 150 list. I also made it
+
+a habit to solve daily LeetCode problems and regularly participate in LeetCode contests. (I
+personally wouldn’t recommend Codeforces for interview preparation as it is more
+competitive-programming–oriented and not fully aligned with typical interview patterns.)
+
+For DBMS, I practiced the LeetCode SQL 50 problems and HackerRank SQL
+challenges. I focused strongly on topics like joins, subqueries, CASE/IF, window functions,
+normalization, and database design, as these commonly appear in interviews.
+
+For the core CS subjects, I didn’t follow separate dedicated material. Instead, I revised
+important concepts from Operating Systems and Computer Networks using quick summaries
+and explanations from ChatGPT.
+
+On a final note, I had also attended several other interviews, including companies like
+
+Nokia and Netradyne. I genuinely gave my best in both, and those experiences taught me a lot
+about handling pressure, adapting to different interview styles, and staying confident even when
+the questions get tough. These interviews also made me realize an important truth: along with
+preparation and performance, a bit of luck and timing also play a role in the selection process.
+Every interview, whether successful or not, added to my learning, improved my thought process,
+and helped me handle the NCR Voyix interview with more maturity and clarity. Looking back, the
+entire journey shaped me far more than a single result could.
+

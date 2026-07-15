@@ -1,0 +1,48 @@
+**Placement Experience – TRIMBLE**
+
+* **Online test:**
+* 2 coding questions and 5 mcqs
+* Coding questions were based on string concepts and mcqs was about aptitude, SQL
+* Test was for one hour
+* **Interview:**
+* **First round:**
+
+Formal introduction and a walk through of your profile.
+
+Since TRIMBLE is a hardware and software based company, generally in every round interviewers were very much interested in my IOT project( wearable for women and child safety with an APP to control)
+
+And after this , the real interview started, there were questions from OOPS( design necessary classes objects for library management system
+
+* To add a book with title, author, ISBN no
+* To withdraw a book based on author
+* To search for a based on ISBN no)
+
+DSA( to find the sum of all nodes in BST)
+
+PUZZLES( reasoning questions, math based questions)
+
+DBMS( joins)
+
+* **Second round(System design):**
+
+I was asked to explain about my IOT project and draw it’s complete architecture along with hardware and software integration.
+
+A system design requirements were given – Electricity Bill management system – designed a DBMS based system and asked to incorporate any upcoming technologies like ML or AI and make this system more efficient
+
+And few managerial questions were asked about team management, work culture
+
+* **Third round(HR):**
+
+This is basically general questions about you and your profile
+And some psychological questions to test your thinking, perception on things
+
+**Tips:**
+
+* Know the company, their work, their product, their reputation in the market, do visit their website, linked in site before you are going for an interview
+* Try to make an attempt to any question that they ask to the fullest possible regardless of relevance, correctness and precision, etc…
+* Try to be interactive and express your interest whenever possible during the interview and don’t only answer for the interviewer’s question. Being little elaborate on things sometimes is fair.
+* Don’t take HR round as it simple as it sounds along with your
+
+cumulative performance in the previous round, HR round also counts
+
+* Be confident and present yourself well regardless of what the background scenario

@@ -1,0 +1,183 @@
+             AMAZON SDE INTERVIEW EXPERIENCE 
+Amazon is one of the world’s most influential technology and innovation companies, excelling in global e-
+commerce, cloud infrastructure (AWS), artificial intelligence, and consumer technology. As a core member of 
+the MAANG group (Meta, Amazon, Apple, Netflix, Google), it continues to drive large-scale digital 
+transformation and offers developers diverse, high-impact opportunities across cutting-edge domains. 
+ 
+ROLE OVERVIEW 
+• 
+Position: Software Development Engineer (SDE) Intern 
+• 
+Duration: 6 Months (performance-based FTE conversion possible) 
+• 
+Selection Process: 2 Rounds (Online Assessment + Technical Interview) 
+ 
+ROUND 1 – ONLINE ASSESSMENT 
+The online test was conducted on HackerRank and included two coding problems followed by personality-
+based questions assessing behavioral alignment and problem-solving attitude. The total duration was 70 
+minutes, and optimal solutions were required to pass hidden test cases. 
+1. Problem Solving 
+Question 1 – Dataset Cleaning Cost 
+You are given a string dataset of even length consisting of lowercase English letters. You can remove any two 
+characters in one operation: 
+• 
+If both are the same → cost = matchCost 
+• 
+If different → cost = mismatchCost 
+Your goal is to remove all characters while minimizing the total cost. 
+Example: 
+• 
+dataset = "ouio" 
+• 
+matchCost = 2 
+• 
+mismatchCost = 4 
+Step-by-step Explanation: 
+1. The string is "ouio" → characters: 'o', 'o', 'u', 'i'. 
+2. Remove 'o' and 'o' → cost = 2 → remaining string = "ui". 
+3. Remove 'u' and 'i' → cost = 4. 
+Total Cost = 2 + 4 = 6  
+ 
+Question 2 – System Stabilization 
+You are given a string pipeline representing service nodes. A node type failedService disrupts the system: 
+• 
+Every second, each occurrence of failedService removes the preceding character. 
+• 
+All removals happen simultaneously every second. 
+• 
+Continue until no more removals occur. Return the number of seconds for stabilization. 
+ 
+Example: 
+• 
+pipeline = "database" 
+• 
+failedService = 'a' 
+Step-by-step Explanation: 
+• 
+Initial pipeline: "database" 
+• 
+Time = 1 → Each 'a' removes preceding characters → removes 'd' and 't' → remaining string = "aaase" 
+• 
+Time = 2 → Each 'a' removes preceding characters → remaining string = "ase" 
+Output = 2 seconds  
+ 
+2. Workstyle Assessment 
+A short behavioral test based on Amazon’s Leadership Principles like Customer Obsession, Ownership, and 
+Deliver Results. 
+• 
+Example statements: 
+o 
+“I take initiative even when tasks aren’t assigned to me.” 
+o 
+“I try to simplify complex problems.” 
+Tips: 
+• 
+Be consistent with answers. 
+• 
+Show ownership, teamwork, curiosity, and customer focus. 
+• 
+Avoid extremes like “Always Disagree.” 
+• 
+Review Amazon’s Leadership Principles before the test. 
+ 
+3. Work Simulation Assessment 
+A situational judgment test simulating real-world scenarios faced by Amazon engineers. 
+• 
+Example scenario: 
+“A teammate finds a critical bug close to deadline — what’s your first step?” 
+Tips: 
+• 
+Prioritize customer impact and data-driven choices. 
+• 
+Show ownership and balance speed with quality. 
+• 
+Collaborate and consider team input. 
+Both assessments are screening rounds — strong coding alone isn’t enough; alignment with Leadership 
+Principles is equally important. 
+After the coding section, candidates completed a Work Simulation and reasoning questions aligned with 
+Amazon’s Leadership Principles. 107 candidates were shortlisted for the technical interview. 
+ 
+ 
+ROUND 2 – TECHNICAL INTERVIEW 
+• 
+Mode: Online (Amazon Chime) 
+• 
+Duration: 60 minutes (completed early – ~40 minutes) 
+• 
+Focus: DSA problem-solving, optimal approach discussion, structured reasoning 
+The interview began with a brief introduction, followed by two live coding problems emphasizing optimal 
+solutions. 
+Question 1 – Word Break 
+Determine if a string s can be segmented into words from wordDict (reuse allowed). Optimal DP/memoization 
+solutions expected. 
+• 
+Example: 
+o 
+s = "applepenapple" 
+o 
+wordDict = ["apple", "pen"] 
+o 
+Output: true 
+o 
+Explanation: "applepenapple" → "apple pen apple" 
+Question 2 – Sum of Prefix Scores of Strings 
+Given an array of words, the score of a string is the count of words that have it as a prefix. Efficient Trie-based 
+logic expected. 
+• 
+Example: 
+o 
+words = ["abc", "ab", "bc", "b"] 
+o 
+Output = [5, 4, 3, 2] 
+o 
+Explanation: 
+▪ 
+"abc" → prefixes: a, ab, abc → counts: 2 + 2 + 1 = 5 
+▪ 
+"ab" → a, ab → 2 + 2 = 4 
+▪ 
+"bc" → b, bc → 2 + 1 = 3 
+▪ 
+"b" → b → 2 
+Bonus Discussion – MST Edge Classification 
+Discussion on Critical and Pseudo-Critical Edges in MST, Kruskal’s Algorithm, Union-Find, and identifying edges 
+that increase MST weight when removed. 
+Finally, I asked a few questions about team culture, collaboration, and work-life balance at Amazon, such as: 
+• 
+How does the team encourage knowledge sharing and mentorship? 
+• 
+What does a typical day look like for an SDE Intern? 
+• 
+Opportunities for learning and contributing to impactful projects. 
+This led to a positive and engaging closing conversation with the interviewer. 
+ 
+ 
+ 
+ 
+RESULT 
+Pleased to have realized my dream — selected for the Amazon SDE Internship (6 months).
+ 
+LEARNINGS & TIPS 
+• 
+Focus on clarity of explanation — Amazon values reasoning as much as code. 
+• 
+Think aloud and explain your thought process clearly. 
+• 
+Revise Trees, Graphs, DP, and Heaps. 
+• 
+Understand Amazon’s Leadership Principles. 
+• 
+Always aim for optimal solutions — brute force may fail hidden cases. 
+• 
+Be confident and ask thoughtful questions to the interviewer. 
+ 
+MY LEARNING JOURNEY 
+• 
+DSA Concepts: Striver (A–Z) 
+• 
+Writing Clean Code: NeetCode (YouTube) 
+• 
+Problem-Solving Mindset: Larry (YouTuber) 
+ 
+LET’S CONNECT 
+Haridass S  -   LinkedIn  

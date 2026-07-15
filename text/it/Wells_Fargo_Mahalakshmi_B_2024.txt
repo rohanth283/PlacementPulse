@@ -1,0 +1,183 @@
+Internship Experience at Wells Frago
+                                -by Mahalakshmi B
+
+About the Company:
+
+Wells Fargo & Company, an American multinational financial services corporation
+headquartered in San Francisco, has a significant presence in India. Wells Fargo India is a critical
+part of the company's global operations, offering services in technology, operations, and business
+process management.
+
+India is a strategic hub for Wells Fargo, playing a vital role in enabling the company to achieve
+operational efficiency, cost-effectiveness, and scalability. Wells Fargo in India actively engages
+in CSR (Corporate Social Responsibility) initiatives, emphasizing education, community
+development, environmental sustainability, and financial literacy.
+
+Overview of the Process:
+
+The overall process consisted of:
+
+•  An Online coding contest (English, Aptitude, Coding)
+•
+•
+•  HR Round – in CUIC
+
+Interview Round 1 (Technical) – in CUIC
+Interview Round 2 (Tech & Innovation) – in CUIC
+
+Online coding contest :
+
+The online test here was little different from those test that were conducted by other companies
+since here we had questions related to Aptitude and English in addition to coding . From the
+overall online test, I could understand that Wells Fargo is not only interested in your coding
+knowledge, but also keen about your communication skills and logical thinking.
+
+In the English section we had questions related to grammar and a basic Aptitude section which
+involves logical thinking. I got 2 coding questions, one was easy (Sorting a nested vector) and
+other was of medium (Case Study based) level and both where based on DSA. We didn’t have
+any sectional time limit, so it was easy for us to grab sometime from the English and aptitude
+section by answering them as fast as possible as.
+
+TIPS :
+
+When the question is easy, the two major things to be considered is the time  and the number of
+test cases that are passed . So rather than thinking of the optimal solution for the question, try to
+complete the question as soon as possible, while ensuring that all test cases are passed
+
+While question is of medium or difficult level, now the major concern will be the number of test
+cases that are passed . So aim to make your solution as versatile enough to cover all the test
+cases.
+
+In the worst case scenario, at least use some logic to satisfy the open test cases. since, most of the
+people tend to leave the difficult level questions unattended and you could gain advantage of the
+same.
+
+The major thing to be considered here is that most of the companies shortlist the people based
+upon the time and the effectiveness of their solution in satisfying all the test cases.
+
+Interview Round 1 (Technical) :
+
+My first round was based on the fundamentals of the programming in any language. The
+interview started with the first basic question of  “Introduce  yourself”, and he dug deep into my
+academic history and my interest towards the field that I have applied for. He questioned me on
+the basics like “what is an algorithm? Why do we need it and give some examples for the
+same?.” Most of the first rounds starts with the basics where they test you on the fundamental.
+
+The concepts that have been questioned intensively are Sorting ,OOPS,DSA .
+
+He initially questioned me on this basic concepts, the logic behind its working and how we can
+implement it . As far as I know, all of my friends were given a choice to choose their favorite
+language to answer these questions ( you have to justify the same ) and then they would tell us to
+1st explain the algorithm, how it works and question about its working with some special cases
+and then he prompted me to write code snippets (pen & paper) implementing the same.
+
+For DSA, rather to write the code, they asked me to explain about the AVL Tree and spanning
+tree ,Their working with some illustrations using pen and paper.
+
+They didn’t give much importance to the code syntax, but rather concentrated on the concept and
+my fundamental understanding of how and why does it work? What happens when we remove
+certain line from the algo ? What is its practical implication and what are the situations where
+this will be much useful and where it is not ? etc…
+
+TIPS :
+
+•  Be well prepared for the “ introduce yourself “ coz it is the first impression that you
+
+gonna make there .
+
+•  Be calm and patient while your answer the question that makes you look wiser.
+•  Be thorough with the fundamentals of the programming language that you are strong with
+and also make sure that you can logically reason the working of any algorithm or a data
+structure.
+•
+revise the special cases, worst cases ,etc of every algorithm that you know
+•  As far as I know, Wells Fargo is more interested on how strong you’re on your
+
+fundamentals and your basics (majorly OOPS) rather than your strength in the advanced
+concepts
+
+•  Major tip to pass through the round is to speak about all the concepts that are related to
+the question and try to cover most of the approached without giving the chance for the
+interviewer to question about the leftover possibilities
+
+•  Actually, covering all the approaches for the given question will make the interviewer to
+dive deeper into that particular question, limiting the number of other questions to be
+asked, and you may escape from the questions which might be challenging you .
+•  Most of the interviewers question you based on what you utter so choose your words
+
+wisely
+
+Interview Round 2 (Tech & Innovation) – in CUIC
+
+This round revolved around my resume, and it scaled up to 40 to 45 minutes, discussing about
+the various projects that I did, which was very interesting and the most challenging project to me
+? I was asked to discuss about the tech stack that I used and have come across ,their major
+benefits and the cons of the same.
+
+They look into the innovation that you try to achieve through your projects and also how familiar
+you were with the overall working of the project, irrespective of which section that you
+contributed .
+
+The interviewer  analyzed my project and questioned me about the various other innovations that
+can be implemented to scale up the project and also reason out why I  choose a particle
+innovation in the field, and how will it help to get a better result? The questions were on How did
+I choose a project? What was the ground work that I did  before starting the project ?  what were
+the requirements that I gather to start the project? The challenges that I faced during the project
+implementation and how did I overcome ?. The interviewer was very keen on understanding the
+novelty behind the project.
+
+The interviewer went through almost all of the projects and  languages that I have mentioned of
+being knowledge about in my resume.
+
+The interviewer questioned me on, how did I rank my skills in a particular language and my
+knowledge about the financials and also about the company recently.
+
+TIPS :
+
+•  Be accountable of whatever you write in the resume
+•  Make sure you mention the best projects that you did in the Resume
+•  Go through your projects and tech stack, and also how did you implement the same
+•  Be confident with your projects and what are your plans in extending the project in future
+•  Be very patient and take time to understand the questions so that you can give the
+
+creative and innovative idea
+
+•  Research about the company in the recent times, and how will you able to fit into the
+
+same?
+
+•  Prepare for some questions that you can ask the interviewer at the end .
+•  Use your logical thinking and be confident with your answers, even if it goes wrong, be
+
+wise enough to analyse and assure them to correct it in the future.
+
+HR Round – in CUIC
+
+This round lasted for 15 minutes where the HR questioned me on the grounds of my professional
+ethics and they were very simple, like will you move to another company when you are offered
+with higher package for the same role ?
+
+The HR was very keen on analyzing my soft skills they include the leadership qualities,
+communication skills, and social skills
+Some of the basic questions were :
+
+•  About my hobbies. How will I continue it during my work?
+•  What is a career and how important it is in my life?
+•  What is the difference between a passion and a career?
+•  What did I expect from the company and what a company can expect from me?
+•  Why did I choose Wells Fargo?
+•  Why should Wells Fargo choose me?  (Give me 3 reasons to hire you and 3 to not hire
+
+you)
+
+•  Where do I see myself in the next five years?
+•  The HR gave me a scenario to analyzes and give solution based on my leadership
+
+qualities and critical thinking
+
+•  The HR enquired me about my contribution to clubs in the college
+•  What is life defined to me?
+•  What is happiness and how will I achieve it in my life?
+
+Believe in Yourself ! All The Best !
+

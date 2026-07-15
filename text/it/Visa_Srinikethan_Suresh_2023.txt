@@ -1,0 +1,79 @@
+11/10/2022
+
+Srinikethan’s VISA Intern Selection Experience
+
+**About the company:**
+
+**What is VISA?**
+
+VISA is the world's leader in digital payments technology. VISA’'s mission is to connect the world through the most creative, reliable and secure payment network - enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company's dedication to innovation drives the rapid growth of connected commerce on any device, and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.
+
+Company’s specifications:
+
+![](data:image/png;base64...)
+
+**Profile/Resume Building :**
+
+Add all the projects you have done till 5th sem starting to your resume, that you are confident about. This can include the mini projects you have done as a part of your curriculum requirements. Do add certifications if you have done some online courses which you feel might be relevant to the company/role you are vying for. Just be thorough about what you have mentioned in your resume. Remember that the **quality** of the projects matter and not the quantity. Companies have low expectations and they just expect you to have your fundamentals clear and have good reasoning skills.You should be able to explain the whats, whys and hows of the project(s) concisely.
+
+I had 1 mini project (Data Structures - Network request rate limiter using Hashtable) , 1 on-going project (in Deep Learning) and an nptel certification (not related to IT) in my resume.
+
+**Preparation Strategy:**
+
+Problem solving under DSA in any coding platform (Hackerrank, Leetcode, GeeksForGeeks, etc.)
+
+Start with Easy problems under the topic Arrays in the language of your choice (C/C++,Python and Java are predominantly used). Starting early is definitely a key. Start with a single easy problem everyday. Make sure coding/problem solving becomes a daily habit. And then go on to strings, greedy, dynamic programming, backtracking, data structures, etc. at a slow pace (**ARRAYS** is the most important topic and forms the base for all others). Increase the no. of problems you do as you solve problems with ease and go on to Medium problems. Medium problems (majority) and easy problems will be asked in online tests. Hard questions are not asked thus you can omit it. As intern selection time nears, concentrate more on Medium questions.
+
+In 3rd sem, concentrate on DBMS - Get your fundamentals intact. Important topics : Normalization, Transactions, SQL queries.
+
+In 4th sem, make sure you conceptually understand OOPS and DAA(Algorithms) and can explain clearly what you have learnt.
+
+Start revising DBMS, OOPS and DAA concepts during intern selection time when you are able to solve more than 1-1.5 / 2 questions in online tests. Concepts of OS shall be your last priority. This is enough to ace technical interviews.
+
+**Preliminary Round:**
+
+Online Coding Round:
+
+No. Of questions : 2 (1 easy 1 medium)
+
+Test Duration: 60 mins
+
+Mode of test : Online
+
+Qn 1 . Topic : Bit Manipulation
+
+Easy Question - the concept of XOR and its implementation are the prerequisites needed to solve the problem. Coming up with a logic was quite easy.
+
+All test cases passed
+
+Qn. 2 Topic : Array multiplication
+
+Medium question. Concepts: Array . It was a problem based on 1D array multiplication, addition and subtraction to produce a desired output array. Understanding the question was the key to crack it.
+
+12/15 Test cases passed
+
+Submitted the test with 15 min left on the timer.
+
+**Interview round :**
+
+14 students got shortlisted for this round
+
+No. of interviews : 1 i.e. 1 Technical + HR round
+
+**Technical + HR Interview :**
+
+The Interviewer asked to introduce myself and started with a few questions based on my resume i.e. about the projects, especially the **motivation** and **novelty** of the projects.
+
+The interview was more of a HR round than a Technical round. The interviewer asked doubts and questions from my answers. He was very keen on these 3 questions(which were asked indirectly) :
+
+1. What does VISA do?
+2. What are the technologies that are used by VISA and how do you plan to contribute to it?
+3. What will you learn/will be the key takeaways from the internship opportunity if you get selected?
+
+Just remember that an interview is just a conversation so it is important to be calm and be welcoming. Do think out loud while answering and try to be precise and specific.
+
+Before attending the interview, do some basic research about the company(based on the questions above).
+
+The interview lasted for 35 mins.
+
+Final Verdict : **Selected**. (11 students were selected in total from AU)

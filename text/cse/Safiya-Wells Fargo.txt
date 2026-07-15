@@ -1,0 +1,92 @@
+BATCH: 2019-2013
+FOR: Internship
+NAME OF THE COMPANY:Wells Fargo International Solutions Private Limited,
+Bangalore
+ABOUT:
+Wells Fargo & Company is an American multinational financial services company. They
+provide banking, investment and mortgage products and services, as well as consumer
+and commercial finance through more than 7,200 locations, more than 13,000 ATMs,
+the internet (wellsfargo.com) and mobile banking.
+NUMBER OF ROUNDS: 4
+1. Online Test
+2. Interview Round 1
+3. Interview Round 2 (Senior Manager Round)
+4. HR Round
+ONLINE TEST:
+This round consisted of three sections, conducted on the AMCAT platform.
+First section was verbal aptitude. Questions like choose the correct meaning, fill in the
+blank with appropriate words were asked. Second section was called business aptitude.
+Questions were largely based on graph interpretations(pie charts, bar graphs, line
+graphs) and also data interpretation, prerequisites regarding any business terms not
+required. Third section consisted of two coding questions. Everyone got different sets of
+questions for this section. Mostly the questions will be some commonly asked
+questions, but it will be written in the form of a scenario, a paragraph per se. Do be
+prepared to quickly grasp the constraints of the question.
+The questions that I got -
+1. Generate binary string
+2. A variation of Find Minimum sum of product of two arrays where a 2D matrix was
+given and I was required to find the minimum sum of product of all possible
+pairs of arrays.
+A total of 30 students were shortlisted from both CSE and IT.
+INTERVIEW ROUND 1 (1h)
+The interview was conducted on Zoom. The interviewer first asked to introduce myself.
+He then asked me to share my screen and open notepad or any IDE. He then gave me a
+coding problem (Number of overtakes | Practice Problems). I had suggested an O(n2)
+solution and coded it. He asked me to optimize it, but I wasn’t able to. (PS - Do not ever
+give up and say “I don’t know” to any answer, especially coding questions. Try to
+approach it. The interviewer is mostly focussed on your approach rather than the final
+solution).
+He then proceeded to ask me Find missing element in a sorted array of consecutive
+numbers. I began to suggest an O(n) solution to which he said he wanted the optimized
+solution instead. I explained the Binary Search method. I wasn’t asked to code the final
+solution. The interviewer then ended the interview by asking if I have any questions
+(Always prepare some questions and keep. It shows that you are interested in the
+position that you’re applying for). I asked him who in the organization would be
+responsible for any security breaches that could happen.
+INTERVIEW ROUND 2 (40 mins)
+I thought I wasn’t shortlisted for the second round, as everyone I had asked had already
+finished their second round. But I had received a call, around two hours after the first
+round, asking me to attend the second round immediately.
+The second round was also conducted on Zoom. I was greeted by the Senior Manager.
+She first asked me to introduce myself. Then I was asked to say something about myself
+that is not in my resume. I had told her about my strengths and weaknesses.
+She then asked me about my hobbies. Some questions regarding a previous internship I
+had done (PS: Be mindful of what you say in interviews as questions will often arise
+from it.) I had mentioned something about the HTTP protocol. She asked me what it
+is, and what other protocols I know.
+I was then asked to write a function to check if a given string is a palindrome
+(Palindrome String) . Then she asked me if I know radix sort, I said no (Do not lie in
+interviews. If you don’t know something, politely admit.) She asked me to explain the
+working of merge sort (Merge Sort). I wasn’t required to code it.
+The interview ended with her asking if I had any questions. I asked about how a day
+would look like for an intern at Wells Fargo.
+HR ROUND (5 mins)
+This round was a telephonic round. He asked me to first introduce myself. Then he
+asked about my parents, where they’re from. He asked about my previous internship
+too. Then the interview ended with him asking if I was willing to relocate.
+TOPICS TO BE FOCUSSED:
+●The usual important topics (DSA, DBMS, OOPS, OS) (Googling “Interview
+questions on ____” gives a tonne of useful, consolidated resources that are
+interview focussed)
+●Ensure that you can provide an explanation for every single topic written in your
+resume.
+●Archives of the particular company on GFG give good insight into the general
+difficulty level of questions asked, and also the number of rounds for the
+particular company.
+KEY TAKEAWAYS:
+●Never panic if you don’t answer a couple of questions in the interview. The
+interviewer is merely seeing how you would act in different situations.
+●Have some interesting hobbies. (I had mentioned crochet, which was an
+immediate hit with the interviewer in the second round)
+●Always try to answer the questions asked. Instead of saying “I don’t know”, you
+can say something like “I don’t know, but from whatever knowledge I have, I am
+guessing …”.
+●Prepare an introduction and practice it. Just winging it will never workout. It will
+merely make a person look shabby, awkward and unprepared.
+●Prepare answers for other non-tech questions also (What are your
+strengths/weaknesses, Why do you want this internship, etc)
+●Try to have a good rapport with the interviewer. Show that you’re excited to be
+there, because they’re also humans like us.
+Wishing you all the very best!
+Safiya Fathima
+https://www.linkedin.com/in/safiya-fathima-syed/

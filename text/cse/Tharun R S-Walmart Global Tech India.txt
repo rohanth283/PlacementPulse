@@ -1,0 +1,90 @@
+Walmart Global Tech Placement Interview Experience 
+Role: SDE II 
+Number of Rounds: 4 (1 online + 3 offline) 
+Job Location: Chennai/Bengaluru 
+Job Description: Walmart Global Tech is the technology wing of Walmart 
+corporation. You will work on multiple domains like multichannel supply chain to 
+complex retail systems in the point of sale, finance, logistics and transportation 
+domains. You'll create game-changing solutions / applications using cutting-edge 
+technology and streamline process through innovation. We're constantly reinventing 
+how we save people's money in our retail stores, online and through their mobile 
+devices, and we do it in an unexpected way. Whether you're analyzing data, 
+simplifying the supply chain or creating solutions to make this planet more 
+sustainable, what you'll be really doing is redefining the customer experience and 
+making lives better. You get to work on a wide spectrum of technologies and 
+heterogeneous platforms such as Java, Hadoop, Cassandra, ERP, Middleware tools, 
+low latency messaging systems, machine learning and open-source frameworks 
+ 
+Online Round:  
+Platform: HirePro 
+MCQs: 25 MCQs from OS, DBMS and OOPs 
+Difficulty Level: Easy 
+Coding Questions: 2 coding questions were asked. 
+1. A string problem where given a sentence move vowels forward that are 
+followed by a consonant. Don’t do anything for vowel followed by vowel, 
+or consonant followed by consonant or consonant followed by vowel.  
+And remove all spaces and special characters after moving of vowels. 
+ 
+Sample input: "hello world! how are y#ou2" 
+Sample output: hlleowrldohworaeyou2 
+ 
+2. Given a list of integers nums, return a list of integers representing the no. 
+of the factors of the each of the element in nums. 
+Totally 14 candidates were selected for next round. 
+ 
+Technical Round 1 (1hour): 
+Difficulty Level: Medium 
+I wasn’t asked any DSA questions in this round. The interviewer was very interested in 
+my resume, and asked me questions about the skills I had mentioned in my resume. 
+Since I had written Java as a skill, I was asked to write a simple API endpoint which 
+fetches records from a DB. I was asked about my Internship experience, and what I 
+had learnt. Java is not compulsory, but knowing it really helped me through this 
+round, as I was asked lot of questions on Java. Answer honestly about your 
+experiences as you will be tested on it.  
+10 people were shortlisted from this round. 
+ 
+Technical Round 2 (1hour): 
+Difficult Level: Medium 
+In this round I was asked to solve 3 DSA problems. 
+1. Grouping Anagrams: https://leetcode.com/problems/group-
+anagrams/description/ 
+2. Given a big number, find the max product of k consecutive digits. Return the 
+digits. 
+Sample input: number = 567893 
+ 
+ 
+ 
+K = 3 
+Sample output: [7,8,9] 
+3. Kth smallest element in a BST: https://leetcode.com/problems/kth-smallest-
+element-in-a-bst/description/ 
+ 
+Give the brute-force method first, then give optimized solution. It is done on pen and 
+paper, so you just have to explain your solution as the interviewer wants to see how 
+you solve problems. And be able to calculate time and space complexities. 
+8 people were shortlisted after this round. 
+ 
+HR Round (10-15 minutes): 
+In this round I was asked about my projects, and why I chose to do these projects. 
+Then I was asked what do I know about Walmart, and why do I want to work at 
+Walmart. 
+This round is your chance to show the interviewer that you are really passionate 
+about technology and explain your projects and your achievements. 
+Finally, 5 people were selected. 
+ My advice: 
+• Have a very good resume, use standard LaTex templates. Select your best 
+projects. Include all the skills you have acquired. 
+• Knowing Java is not compulsory but will be an advantage. I was asked lots of 
+questions on Java, since I had mentioned it as my skill. 
+• Be confident and comfortable in your answers. Don’t exaggerate your skills 
+and be modest. 
+• Showcase all your interests in technology. 
+• Be good at DSA and calculating time and space complexities. Give all possible 
+solutions you could think of during DSA round, even if its not optimized. You 
+can discuss with interviewer about different approaches you could think of, 
+and which you think is the best solution. 
+Contact Info: 
+Phone: 9030269853 
+Email: rstharun11@gmail.com 
+LinkedIn: https://www.linkedin.com/in/tharun-r-s-3b8985229/ 
+ 

@@ -1,0 +1,122 @@
+**PLACEMENT EXPERIENCE: TRIMBLE**
+
+**S.NITHYASRI INDHUMATHI -2021115072**
+
+**ABOUT TRIMBLE:**
+
+Trimble Inc. is an American multinational, product-based company specializing in software, hardware, and services technology. They integrate physical and digital worlds with advanced positioning, modelling, connectivity, and data analytics. Trimble’s solutions enhance productivity, quality, safety, and sustainability across sectors like agriculture, construction, and transportation. The company focuses on precise execution and impactful innovations. Trimble's leadership is driven by mission-focused guidance and turning ideas into reality.
+
+**ROLE: SOFTWARE DEVELOPER**
+**ABOUT THE ROLE:**
+
+As a Software Developer at Trimble, you will design and develop software solutions for innovative products across Construction, Transportation, Agriculture, and Geospatial domains. Your role involves creating reusable software designs, coding, unit testing, and integrating systems. You will document your work, manage assignments with minimal supervision, and ensure timely delivery. Collaboration with User Experience and QA teams is key to validating solutions. You'll also stay updated with technological advancements and adhere to agile development processes.
+
+**PREPARATION STRATEGY:**
+
+* **DSA Practice**: Focus on Striver's A2Z CP Sheet and Striver's SDE Sheet for problem-solving. Be consistent and avoid jumping directly to solutions.
+* **Technical Subjects**: Prioritize DBMS, OOPS, and OS. For Computer Networks, just glance through the key points.
+* **Reference Materials**: Use top interview questions and last-minute notes to brush up on core concepts of technical subjects.
+* **System Design**: Before interviews, prepare for system design questions related to your project and other scenario-based problems.
+* **SQL Concepts**: Concentrate on mastering joins and subqueries, as these are frequently asked.
+* **Project Technologies**: Ensure you have a solid understanding of the technologies used in your project to confidently explain them.
+* **Time and Space complexity**: Be clear with the time and space complexity of algorithm you use and make it optimal as much as possible.
+* **Aptitude Preparation**: Use IndiaBIX for consistent practice in aptitude questions.
+
+**PLACEMENT EXPERIENCE:**
+
+**ROUND 1:(Online assessment at CUIC)**
+
+* The assessment was conducted on the HackerEarth platform.
+* It included 5 technical MCQs covering topics like OS, DBMS, OOPs, with a mix of debugging and output-based questions, along with 2 coding problems.
+* **Coding Question** 1: Transform string A to B with a given cost, then B to C with another cost. Calculate the total minimum cost. UseGreedy approach or Dynamic Programming for optimal transformations.
+* **Coding Question 2:** Find the number of distinct substrings in the input string. Use Hashing (HashSet) to efficiently track and count unique substrings.
+
+**Key tip**: While solving the questions, focus on maximizing the number of passing test cases and manage your time effectively by balancing between code accuracy and speed.
+
+**ROUND 2:(Technical interview at CUIC)**
+
+The technical interview was held at CUIC. It began with the typical "Tell me about yourself" question, after which they focused on my key projects. They asked me to explain one project in detail, particularly the algorithm I used, and requested me to demonstrate it on paper. Be well-versed in the algorithms or tech stacks used in your projects.
+
+Next, they inquired about my favorite subject and asked questions related to it. This was followed by a DSA question involving counting overlapping intervals for events in a calendar. I was asked to start with a brute-force approach and optimize it later. They refined the question by asking for the event with minimal overlaps and also for all non-overlapping events of that particular event.
+
+**Key tip**: Stay clear with project details, focus on DSA practice, and ensure you listen carefully to avoid any miscommunication and time wastage during the interview.
+
+**ROUND 3:(System design and Managerial Round at CUIC )**
+
+In the system design portion of the interview, I was asked to design systems based on the projects listed on my resume. This required detailing the architecture, components, and technologies used for each project. Additionally, I was given a hypothetical scenario and asked to create a system design for that situation, which involved applying my knowledge of system design principles to solve the problem effectively.
+
+The managerial questions focused on real-life scenarios, including managing team dynamics and making decisions in complex situations. I was also questioned about my experience in organizing events, including how I managed various aspects of these activities and the challenges I faced.
+
+Finally, the resume-based questions required me to provide detailed explanations and reflections on the experiences and projects listed on my resume. This included discussing specific challenges, solutions, and the impact of my contributions.
+
+**Key Tip**: Demonstrate confidence and assertiveness while discussing your experiences and answers.
+
+**ROUND 4 :(HR ROUND at CUIC)**
+
+The HR round began with questions to assess my knowledge of the company, where I was asked to share what I knew about its operations, technologies, and projects. Following this, the HR representative provided a detailed overview of the company's technologies, projects, and opportunities for growth. They then asked standard HR questions, such as why I wanted to join Trimble and where I saw myself in five years. Additionally, they explained the specifics of internship and full-time employment (FTE) opportunities. The interview concluded positively, with a clear understanding of the company’s expectations and future opportunities.
+
+**Key Tip**: Research and understand everything about the company before the interview to demonstrate genuine interest and alignment.
+
+**TIPS AND TRICKS**
+
+* Repeatedly practice DSA problems using Striver's sheet to strengthen your problem-solving skills.
+* If unsure of the exact answer, describe the approach you would take to solve the problem.
+* Interact actively during the interview and avoid being too silent.
+* Maintain confidence and composure throughout the interview, even if nervous.
+* Be sure of your projects and the technologies used when discussing them.
+* Only list skills and experiences on your resume that you are strong in and avoid exaggeration.
+* Enhance your communication skills to clearly convey your thoughts and ideas during the interview.
+* Develop a strong understanding of system design principles and apply them to real-world scenarios.
+* Reflect on real-life work and team management experiences to effectively handle managerial questions.
+* Research the company thoroughly to discuss its operations, technologies, and projects knowledgeably.
+* Ensure your coding solutions pass as many test cases as possible and manage your time effectively.
+* Pay close attention to the interviewer to avoid miscommunication and time wastage.
+
+**PREPARATION MATERIALS:**
+
+*DSA:*
+
+<https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2>
+<https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/>
+
+*OOPS:*
+
+<https://www.interviewbit.com/oops-interview-questions/>
+
+<https://career.guru99.com/top-50-oops-interview-questions/>
+<https://www.geeksforgeeks.org/oops-interview-questions/>
+
+*DBMS:*
+
+<https://www.geeksforgeeks.org/last-minute-notes-dbms/>
+
+<https://www.interviewbit.com/dbms-interview-questions/>
+
+<https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/>
+
+*SQL:*
+
+<https://www.geeksforgeeks.org/sql-tutorial/>
+
+<https://leetcode.com/studyplan/top-sql-50/>
+
+*SYSTEM DESIGN:*
+
+<https://www.interviewbit.com/system-design-interview-questions/>
+
+[https://www.youtube.com/@gkcs](https://www.youtube.com/%40gkcs)
+
+<https://www.linkedin.com/posts/amanbarnwal_my-system-design-notes-gaurav-sen-activity-7047409675926974464-nkGm/?originalSubdomain=gr>
+
+<https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/>
+
+*OS:*
+
+<https://www.geeksforgeeks.org/last-minute-notes-operating-systems/>
+
+<https://www.geeksforgeeks.org/operating-systems-interview-questions/>
+
+<https://www.interviewbit.com/operating-system-interview-questions/>
+
+*CN:*
+<https://www.interviewbit.com/networking-interview-questions/>

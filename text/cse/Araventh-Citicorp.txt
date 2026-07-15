@@ -1,0 +1,68 @@
+Citicorp (Intern) 
+Batch: 2019 – 2023 
+About the company: Citicorp is the holding company for Citibank as well as 
+several international banks. Citicorp contains two core businesses, Global 
+Consumer Banking and Institutional Clients Group.  
+ 
+There were 3 rounds for the selection – Online Test, Technical Interview and 
+HR interview. 
+1. Online Test: 
+ There were 5 sections in the online test with around 2 hours 30 
+minutes. (each section had separate time duration) 
+ Technical MCQ (25 question – 35 minutes) – questions were 
+mostly from C\C++, OOPS and some debugging type questions. 
+  2 Section of Aptitude and Logical MCQ (30 questions – around 
+35 minutes) – included some basic math and physics. 
+  English MCQ (15 question – around 20 minutes) - tested basic 
+grammar knowledge and had reading comprehension. 
+ Coding Round ( 60 minutes ) –  
+i. Check if binary code of given two numbers are in 
+successive position in gray code. 
+ii. Another question was based on Binary trees, a medium level 
+question. 
+Takeaways from online test: 
+ MCQ questions is all about time management, spend average of 1 minute 
+per question. 
+ In coding round try to pass as many test case as possible(even if it is not 
+faster/optimized) – (I was not able to pass 3 test case in each question) 
+ MCQ sections is given equal importance as given to coding question for 
+selection to next round. 
+ Attend all questions (No negative marks). 
+Around 85 students were selected for Technical Interview. 
+ 
+ 
+2. Technical interview: 
+ First the interviewer asked to introduce about myself. 
+ Following that he asked me to explain about my project which I 
+included in my resume. I had put the link of one of the projects which 
+was hosted in heroku, he did visit the link and asked few questions 
+seeing that.   
+ Then he asked some basic questions from C,C++ and OOPS. Some 
+questions are: 
+o What is virtual class? 
+o What is dangling pointers? 
+o Static memory allocation. 
+o Operator Overloading 
+o Call by value and Call by reference 
+57 students were selected to the HR interview. 
+ 
+3. HR interview: 
+ The only question asked for all way, why do you need to join this 
+company. 
+ Interview ended up asking whether I have any questions to ask. 
+27 students were selected for internship. 
+ 
+Key Takeaways from interview: 
+ Being 100% true to your resume will get you in halfway. 
+ Even if you don’t answer a question or two during interview, continue to 
+answer confidently, we never know what will inspire them to select us. 
+ Be clear in saying what you know, the interviewer askes question from 
+your resume and just what you say. (So you can decide what question you 
+have to be asked next through your answer) 
+ Do a prior research about the company so that you can manage HR 
+interview. 
+ Ask only positive questions, when you are asked to question. 
+ 
+All the best for you preparation! 
+Feel free to contact - https://www.linkedin.com/in/araventh-mohan-a4a967179/  
+ 

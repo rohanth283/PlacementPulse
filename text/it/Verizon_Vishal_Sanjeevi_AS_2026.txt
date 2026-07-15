@@ -1,0 +1,155 @@
+             Placement Experience-Verizon
+
+                      -Vishal Sanjeevi AS(2022115127)-IT Purple
+
+About the Company:
+
+Verizon  is  a  multinational  telecommunications  conglomerate  and  one  of  the  world's  leading
+providers of wireless and wireline communication services. It's a key player in the global technology
+and communication industry, consistently ranking high on the Fortune 500 list, currently at #30. They
+focus  on  delivering  high-quality  products  and  services  and  actively  invest  in  AI,  ML,  and  next-
+generation technologies.With its corporate headquarters in New York City, Verizon is recognized as
+the world's second-largest telecommunications company by revenue.
+
+About the Role:
+
+The role is SDE 1  (Software  Development  Engineer 1).  While  the  exact  domain was not  specified,
+candidates  are  expected  to  be  open  to  work  across  multiple  areas,  including  backend,  frontend,
+AI/ML, and software development.
+
+Overview of the Process:
+
+The overall process consisted of
+
+●  An Online coding contest in AON Platfrom(Virtual)
+●  GD followed by AI Prompting Round-in CUIC
+●  Technical Interview Round– in CUIC
+●  HR Round-in CUIC
+
+Recruitment Process Experience:
+
+The placement drive was a multi-stage process that tested various skills, from technical knowledge to
+soft skills.
+
+1. Online Test
+
+The online test consisted of four sections.
+
+  Essay Typing: We were given a topic and had to write an essay of 190-240 words in 25 minutes.
+This tested our writing and time management skills.Topic given to me was ”Are Electric cars
+the future”.
+
+  GenAI  MCQs:  This  section  had  30  multiple-choice  questions  focused  on  Generative  AI,
+
+including scenario-based questions. The time limit was 30 minutes.
+
+  Coding Round(40 Minutes): There were two coding questions. The first was to determine if a
+number is "googly," which is true if the sum of its digits is a prime number. The second was a
+Dijkstra-based problem about  finding the  minimum  time to collect  energy  while  traversing
+cities. My understanding of graph algorithms was crucial here.
+
+  English/Vocabulary Assessment: This section had a flexible number of questions and featured
+negative marking. A unique aspect was the '?' option, which you could select if you weren't
+sure of an answer to avoid negative marks. This section also included simple and enjoyable
+puzzles. The more correct answers you gave, the higher your level and score.
+
+The results for the online round were announced two days after the test. Out of 322 candidates, 80
+were shortlisted for the interview round.
+
+2. Group Discussion (GD) and AI Prompting Round
+
+The next day, we had the GD and AI prompting rounds.
+
+  Group  Discussion:  We  were  divided  into  teams  of  9,  and  the  discussion  lasted  about  25
+minutes. The topic was "Are online ways of life (online education, hybrid work, e-commerce,
+etc.) better or not?" The key here was the quality of your speech and your active participation.
+The  panel  judged  us  on  how  well  we  involved  ourselves  in  the  discussion  and  contributed
+meaningfully, rather than just stating a couple of points and staying silent. From my panel, 7
+out of 9 were selected, while other panels had a higher rejection rate.
+
+  AI  Prompting  Round:  This  was  a  non-eliminatory  round.  We  had  to  choose  a  problem
+statement  from  a  given  list,  write  a  prompt  to  solve  it  using  an  AI  tool,  and  explain  the
+prompting  technique  used.  We  also  had  to  mention  any  previous  AI/ML  projects  we  had
+worked on. It's important to be fully knowledgeable about what you submit in this round, as
+it formed the basis for many questions in the technical interview. Having AI/ML projects on
+your resume definitely adds more value.
+
+3. Technical Interview
+
+The technical interview lasted for about an hour. After a brief self-introduction and introduction from
+the interviewer, he delved into my projects, showing a particular interest in my final year project. We
+had a deep, 20-minute discussion on it, and he seemed impressed.
+
+Next,  the  interviewer  transitioned  to  my  responses  from  the  AI  Prompting  round.  I  had  chosen  a
+problem statement related to cyber security, and he asked me basic questions on the topic to gauge
+my foundational knowledge. He also asked me to explain in detail why I had framed the prompt the
+way  I  did  and  to  walk  him  through  my  entire  approach.  This  part  of  the  interview  reinforced  the
+importance of being completely aware of what you submit in the AI prompting round.
+
+He then moved on to DSA, asking a basic string-based palindrome question. He also asked for a dry
+run of Binary Search, its time complexity, and how that complexity is derived. The same was asked for
+Merge Sort. The interview then shifted to SQL. I was asked to explain all the different types of JOINS
+with proper examples and to differentiate between a LEFT JOIN and an OUTER JOIN. He then gave me
+a medium-level SQL question involving two tables. I couldn't provide a complete solution, but I politely
+explained that I was unable to come up with one, and he was fine with it. The interview concluded
+with questions about my knowledge of Verizon and my motivation for wanting to join the company. I
+
+asked  two  sensible,  high-quality  questions,  which  is  always  a  good  practice.  Of  the  80  shortlisted
+students, 32 were selected for the HR round.
+
+4. HR Interview
+
+The HR interview was straightforward and lasted about 15 minutes. He asked me to briefly explain my
+projects,  inquired  about my  family background,  asked  the  typical “Where  do you see yourself in 5
+years?” question, my location preference and again, asked why I wanted to join Verizon. A crucial tip
+here is to be flexible about location. When asked for a location preference, it's best to say you are
+open to any location based on the company's requirements, as rejections can happen due to this. All
+32 students who made it to the HR round were selected, and I was one of them.
+
+MY PREPARATION STRATEGY:
+
+I began my preparation during my 6th-semester holidays, focusing on a strategic approach to cover
+essential topics. My main focus was on Data Structures and Algorithms (DSA), particularly Arrays and
+Strings, as well as Greedy algorithms and Dynamic Programming (DP). I also made sure to learn the
+fundamentals of Trees and Graphs.
+
+I highly recommend utilizing Striver's A to Z DSA sheet and his video tutorials from TakeYouForward.
+This  resource  proved  to  be  extremely  helpful.  For  practice,  I  focused  on  the  LeetCode  150  and
+LeetCode 75 lists, which helped me build a strong problem-solving foundation. In addition to DSA, I
+extensively practiced SQL queries, solving easy and medium-level questions, which gave me a lot of
+confidence in this area.I learnt all the core concepts from GeekForGeeks and InterviewBit.
+
+One of the most important aspects of preparation is maintaining a  competitive spirit.  I found that
+learning  and  practicing  with  friends  was  far more  effective  than  studying  alone.  This  collaborative
+environment kept me motivated and helped me improve faster. It's also worth  noting that while a
+good  CGPA  is  advisable  for  eligibility,  typically  an  8.0  and  above  is  a  safe  bet,  it's  the  skills  you
+demonstrate that matter most in the end.
+
+TIPS and TRICKS:
+
+Focus on Fundamentals: A strong foundation in Data Structures and Algorithms (DSA),
+particularly Arrays and Strings, is essential as most of the companies focus on these. Practice
+problems on platforms like LeetCode,Hackerrank etc.
+
+Be a Team Player: Learning and preparing with friends fosters a competitive and supportive
+environment that makes the process more enjoyable and effective.
+
+Be Honest: If you don't know the solution to a problem, it's better to be honest and polite rather
+than trying to fake it.
+
+Ask Quality Questions: Always prepare and ask good, sensible questions to the interviewer at
+the end. It shows your genuine interest in the role and the company.
+
+Master Your Communication Skills: Strong communication is crucial. Make sure you can articulate
+your  thoughts  clearly  and  confidently.  Practice  explaining  your  projects  and  problem-solving
+approaches to others.
+
+Showcase  Flagship  Projects: Instead of  listing  every project  you've  ever worked  on, focus on your
+flagship projects. These are the projects where you made a significant contribution to the real world
+and that provide genuine value. Be prepared to discuss these in detail, as they will be a focal point of
+your interviews.
+
+Hope this detailed breakdown of my experience helps you in your preparation.
+
+All the best!
+

@@ -1,0 +1,89 @@
+ 
+SAP Labs Interview Experience 
+-Ansh Bomb (CSE 2021-2025) 
+About the company: 
+SAP (short for Systems, Applications, and Products in Data Processing) is one of the biggest 
+names in enterprise software, helping businesses around the world run smarter, whether it’s 
+managing their supply chains, handling finances, or making sense of their data. Headquartered 
+in Germany, SAP has been around for over 50 years and works with companies across almost 
+every industry you can think of (they are pretty much omnipresent - being a b2b company 
+integrated with almost every major company today). For students and early-career 
+professionals, it’s a great place to explore both tech and impact at a global level. 
+ 
+Selection Process: 
+Online Assessment 
+466 students were shortlisted (based on eligibility criteria) for the online assessment. It spanned 
+45 minutes and included 2 DSA questions. Platform - SHL. The questions were of easy-medium 
+level, and I am not sure what the shortlisting criteria for the next round were; cause I wasn’t 
+very fast (spent more time than I should have on the second question). 
+First Question (Easy): Different products were being stored at specific temperatures (vector of 
+products). Each product had a required storage temperature, and we had to figure out how many 
+of them needed to be stored below zero and reflect those. 
+Second Question (Medium): Don’t fully recollect it but the problem focused on tracking 
+category-specific elements within a dynamically shifting window of pizzas and their types xD. 
+At each step, the goal was to identify the earliest occurrence of a given type of pizza (meat or 
+vegan) within a bounded, sliding display window (like the ones we see in Dominoes, etc) and 
+list out such occurrences (including at times it wasn’t observed to be there). 
+Result: Post this OA, ~35 students were shortlisted for the in-person interviews. 
+ 
+Round 1 – Technical 
+The interviewer almost immediately jumped into my resume and asked me technical questions 
+about my previous internship and projects. It is crucial to know your project at a conceptual 
+level as the interviewer tested fundamental concepts and components involved in the listed 
+projects and internships. Post this, a few questions on DSA (linked lists, basic trees, etc) were 
+asked. I did not have to code out anything, only explain my approaches.  
+Sample question - Would you use a stack or a queue for DFS? And which one for BFS? 
+We kept jumping into different DSA questions. In fact, during the interview, my project (listed 
+on the resume) was also tied into a DSA question. I do not recollect whether there were any 
+OOPS or DBMS questions in this round, but I think there was one OS question asked. This 
+round lasted for nearly an hour. 
+ 
+Round 2 – Technical 
+There were two interviewers. This one included a lot more DSA. I was asked to write out the 
+code for one question, and although my initial approach was passable, they walked me through 
+it to identify edge case optimizations. My solution’s time complexity was horrendous, but let’s 
+not get into that. I was also tested on a few basic and medium-level OOPS and DBMS concepts. 
+Additionally, there was a scenario-based question, where I had to ideate a solution to a business 
+case, following which my high-level approach was broken down into smaller tasks. I was asked 
+about the technical implementation of these smaller tasks. File handling, etc was covered, and 
+I forgot the exact syntax for BufferedReader but luckily the interviewers did not penalize me 
+for that, and said they were interested in the logic and approach. A few fun riddles were also 
+asked (human-computer 21 matches, etc), and before I knew it almost 1.5 hours had gone by. 
+Result: ~10-12 people were shortlisted for the next round. 
+  
+Round 3 – Techno-Managerial 
+This was perhaps the most perplexing round. We started with a discussion about my interests, 
+and I mentioned current affairs, Both the interviewers then started asking me about politics, 
+GK, etc. We then moved on to my resume. Almost every single line of my resume was analyzed 
+and questions were asked. My strong recommendation is to be honest on your resume and know 
+everything you have listed there. Do not list out technical skills just for the sake of it, they will 
+probably ask you questions from it. I was even asked a few in-depth technical questions about 
+topics in my research papers. This round also involved asking me about my thoughts on Climate 
+Change, etc (all tied to SAP’s current branding and initiatives).  
+Result: ~6 people were shortlisted for the HR round. 
+ 
+Round 4 – HR 
+Standard, as far as HR rounds ago. Was asked about what SAP works on (being a B2B 
+company, people outside the industry rarely know about it), SAP initiatives, about myself, etc.  
+Result: 4 people were offered a position at SAP Labs, Bangalore. 
+ 
+Some general pointers –  
+1. For DSA, I practiced using ACM-CEG’s resources, Strivers A2Z Sheet and looking up 
+company-specific most frequently asked questions – available on sites like gfg. 
+2. Go through crash courses the day before the interview for OOPS, DBMS, OS, etc. 
+3. It’s ok to say you are unsure about an answer, they don’t expect you to know everything. 
+All the best and good luck 
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+You can reach out to me on my LinkedIn: https://www.linkedin.com/in/ansh-bomb/ or contact 
+me on my email id anshbomb16@gmail.com in case you want to connect  . 

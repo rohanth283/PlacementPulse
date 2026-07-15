@@ -620,6 +620,7 @@ def get_experiences(
     q: Optional[str] = None, 
     year: Optional[str] = None,
     role_type: Optional[str] = None,
+    department: Optional[str] = None,
     user_id: int = Depends(get_current_user_id)
 ):
     global documents
@@ -633,6 +634,8 @@ def get_experiences(
         results = [doc for doc in results if str(doc.get("year", "")) == str(year)]
     if role_type:
         results = [doc for doc in results if doc.get("role_type", "").lower() == role_type.lower()]
+    if department:
+        results = [doc for doc in results if doc.get("department", "").lower() == department.lower()]
     if q:
         q_lower = q.lower()
         results = [doc for doc in results if q_lower in doc.get("text", "").lower() or q_lower in doc.get("candidate_name", "").lower()]
@@ -649,6 +652,7 @@ def get_experiences(
             "difficulty": doc.get("difficulty"),
             "year": doc.get("year", "2025"),
             "role_type": doc.get("role_type", "Placement"),
+            "department": doc.get("department", "CSE"),
             "text_length": len(doc.get("text", ""))
         })
     return JSONResponse(content={"experiences": meta_results})
@@ -751,6 +755,7 @@ Return ONLY the title. Do not include quote marks, punctuation, prefixes, or com
         for doc in retrieved_docs:
             block = f"SOURCE FILE: {doc['source_file']}\n"
             block += f"CANDIDATE: {doc['candidate_name']}\n"
+            block += f"DEPARTMENT: {doc.get('department', 'CSE')}\n"
             block += f"COMPANY: {doc['company']}\n"
             block += f"ROLE: {doc['role']}\n"
             block += f"PACKAGE: {doc['package'] or 'Not Specified'}\n"

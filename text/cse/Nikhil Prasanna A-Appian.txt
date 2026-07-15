@@ -1,0 +1,68 @@
+APPIAN INTERVIEW EXPERIENCE 
+Role: Software Engineer 
+The interview process consisted of four rounds. 
+Online Coding Round: 
+Three coding questions were asked. The questions were same for everyone, including those in 
+the summer internship drive as well. 
+1. Breadcrumbs in a website – Given a list of lists of string of paths to webpages in a 
+website, generate the navigation tree and return the root node.   
+2. There is a line consisting of people from different groups. We need to rearrange the line 
+so that people from the same group can stand together. If all the persons who belong to 
+the same group stand in line, then the names of the persons can be replaced with the 
+group name. The order of the groups in the line and the order of persons within the 
+group in the line should not change. 
+3. There are n people waiting in line to buy tickets to a Taylor Swift concert. The ticket 
+manager starts at an offset position m and distributes the first ticket. Then, the manager 
+jumps k steps in a cyclic fashion to give the next ticket, and this process continues until 
+all tickets are distributed. The task is to determine the order in which tickets are given 
+out.  
+This sum is derived from the Josephus sum. 
+Most of the students who solved all three questions got shortlisted for the interviews. 
+ 
+Technical Interview – 1: 
+The interview started with a brief introduction about myself. Then the interviewer asked about 
+the basics of OOPS and had me explain how data structures like stacks, queues, and trees have 
+real-world applications. I gave a few examples, such as a management hierarchy for a tree. 
+After that, he asked me this puzzle. He then asked me to solve the Two Sum problem and run 
+the code for a few test cases. Finally, he asked me about how a web server and DNS work. The 
+interview ended with a few questions from my side. 
+ 
+Technical Interview – 2: 
+After a brief introduction about myself, the interviewer read through my resume and asked 
+some questions about my skills. He then asked me to explain one of my projects. Once I had 
+given him the explanation, he asked a few follow-up questions and wanted me to describe some 
+challenges I faced during that project. He also asked about my summer internship experience 
+and the work I did there. Then he asked whether I would join their company even if I received 
+a PPO from my internship company. I replied that, as per CUIC policy, I should accept the first 
+offer I receive. Finally, the interviewer gave me a chance to ask him a few questions. 
+Interview – 3: 
+It was more of a casual conversation. He asked about my HSC and college scores and how I 
+learned the things I mentioned in my resume. He also asked about some YouTube channels I 
+had followed to learn those topics. He asked similar questions about my summer internship, 
+just like in my previous interview. Toward the end, I asked him a few questions, and the 
+interview lasted for around 15 minutes. 
+Key Takeaways: 
+• The coding questions were mostly based on arrays. 
+• Follow C.O.D.E resources. It will help you to get an idea about various types of 
+problems in each topic. And I followed takeUForward YouTube channel for the topics 
+like Binary Search, Graphs, Trees and DP. 
+• Go through commonly asked puzzles available on GeeksforGeeks. 
+• Be thorough with your resume and the projects you have included. 
+• Be prepared with the basics of DBMS, OS, OOPS, and Networks. 
+• Initially, for any DSA question, you can give the brute force approach and then tell how 
+you can optimize that. While coding, ensure you effectively communicate your thought 
+process to the interviewer. 
+• Learn about the company before the interview, and ask questions when you can. 
+ 
+All the very best.  
+ 
+Nikhil Prasanna A,  
+CEG CSE’25  
+Feel free to reach out to me :)  
+E-Mail: anikhil03prasanna@gmail.com 
+LinkedIn: https://www.linkedin.com/in/nikhil03a/ 
+Mobile: +91 6379066510 
+ 
+ 
+ 
+ 

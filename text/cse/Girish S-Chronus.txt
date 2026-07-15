@@ -1,0 +1,102 @@
+CHRONUS INTERVIEW EXPERIENCE
+ONLINE TEST:
+Everyone who registered for the Chronus got a link for attending the online test (no
+candidates were left out due to CGPA). The online test was conducted in the Hackerearth
+platform where 10 multiple choice questions (1 points each) were asked which are based on
+Computer fundamentals(like binary trees) and aptitudes(quantitative) and 3 coding questions
+were asked. You can switch to any questions during the test.
+Coding questions:
+1.
+There is an elevator which goes up by ‘a’ units and goes down by ‘b’ units. There are
+some floors where if you are struck on that floor it implies you cannot move further.
+Given a floor, determine if it is possible to reach that floor. If it's possible, return the
+number of steps required, else return -1. Even negative floors are possible.
+(I got only 2 test cases passed in this questions, other test cases where failed due to
+TLE) - 15 points
+2.
+Given an array of integers, you can increment the elements by 1. You have to make the
+maximum number of array elements to the minimum possible value in ‘k’ steps.
+(Again I got only 2 test cases passed in this questions, other test cases where failed due
+to TLE) - 15 points
+3.
+Given an array of integers, you imagine them as histogram. You could remove
+rectangles from that histogram. What is the minimum number of rectangles you could
+remove to completely demolish the whole histogram?
+(No test cases were passed for this question) - 10 points
+10 students where shortlisted for the physical interview held at CUIC
+INTERVIEW
+ROUND 1:
+This round completely consists of 2 DSA questions which went for nearly an hour.
+1.
+Given an array consists of number(integer, fraction, negative, zero), you can delete at
+most one elements in order to maximize the product
+First I gave a brute force approach, followed by optimizing that. I wrote pseudocode in
+whitepaper.
+2.
+Given a puzzle, decode that and then code that in whitepaper.
+Sample: SUPER
+SMART
++--*-
+Logic is S is present in both strings at the same position, R is present at both
+strings but at different positions. So, in first case, + symbol was used and in next case *
+symbol was used. If it's not a match, then - symbol is used.
+Interviewer asked if I had any questions for him.
+ROUND 2 :
+This round also went nearly for an hour.
+I was asked to give a brief description of the project and the interviewer asked me to
+draw the tables used in my project. I was asked about the choice of primary key and he asked
+reasons for that. He also asked why did I make the project using that particular tech stack(I
+used NodeJS, Express, React and MySQL in my project)
+Next he asked me some logical puzzles, like measuring time by burning two wires of
+equal length. Next he asked me some DSA questions. He asked me how much I rate my DSA
+skills on a scale of 5.
+1.
+Detecting cycle in a linked list
+I gave a brute force approach followed by an optimal approach which I could not come
+up on my own. With the hints given by the interviewer, I developed the approach and
+wrote the code for that in the white paper.
+2.
+Next he gave me a puzzle on arrays, which I was supposed to decode. He gave only
+one test case, where I thought of some random logic. To make the logic the interviewer
+had in his mind, I asked for a lot of test cases by telling logics that worked good for the
+test cases initially provided by the interviewer. The problem was something like this
+[10, 20, 30, 30, 40] - In case of 60, return true
+The logic was if you consider 20+40, the sum is 60 and the distance between
+them is 2. So, there are 2 pairs, (20,40) and (30,30) whose sum is 60. Since, the
+distance between 20 and 40 is also 2 and there are 2 pairs, return true
+Interviewer asked if I had any questions for him
+HR ROUND:
+Firstly, the interviewer asked me to introduce myself. Next he asked where I see myself
+in three years. Next about the company. He also asked about what I feel about my performance
+today. The round hardly went for 15 minutes. He also asked about my interest in web
+development and since I mentioned that I am good at mathematics, he asked about that. Also,
+regarding why I choose CEG over NITs as I mentioned about my JEE percentile in my resume.
+By the end of the day, I got mail that I was shortlisted for the internship. Out of 10
+students, 4 of them got the offer for internship.
+KEY TAKEAWAYS:
+●
+Solve problems consistently on a daily basis, start from brute force and optimize that
+(refer to others solution, so, you can have new perspectives)
+●
+Rather than memorizing solutions to the problems, work on different variety of problems
+to have fresh ideas, that helped me to solve puzzles asked in the interview
+●
+Make the interview lively by explaining your thought process to the interviewer every
+moment. Remember interviewers are there to HIRE YOU, keep that in mind.
+●
+Think of all possible corner cases while solving a problem
+●
+Ask questions to the interviewer before thinking of the approach. Clearly understand the
+problem statement before proceeding to solve.
+●
+Add only things that you are confident at in your resume. DO NOT EVER LIE in the
+resume
+●
+At last, STAY CONFIDENT at any point of time. You can crack any company by
+practicing DSA and learning new skills (try other things like web development, ML too).
+GOOD LUCK!
+GIRISH S
+Third Year, CSE
+Mobile: 7305077771
+Email: girish.170902@gmail.com
+Reach out to me: https://www.linkedin.com/in/girish170902/

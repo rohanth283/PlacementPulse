@@ -1,0 +1,205 @@
+BNY MELLON – INTERNSHIP INTERVIEW EXPERIENCE 
+- 
+Ajai Krishna T.S. 
+2021103503 
+CSE Batch of 2025, CEG 
+About the company 
+The Bank of New York Mellon Corporation, is an American investment banking services 
+holding company headquartered in New York City. BNY Mellon was formed from the merger 
+of The Bank of New York and the Mellon Financial Corporation in 2007. It is the world's 
+largest custodian bank and securities services company. The bank's primary functions are 
+managing and servicing the investments of institutions and high-net-worth individuals. Its 
+two primary businesses are Investment Services and Investment Management. The bank's 
+clients include 80 percent of Fortune 500 companies. The Mumbai Representative Office of 
+The Bank of New York Mellon was set up in 1983 and continues to serve as BNY Mellon's 
+main liaison point for Indian client base. In 2013, Pershing India Operational Services Private 
+Limited (Pershing India) was established in Chennai. Currently, the company have over 
+12,000 employees across our three locations: Mumbai, Pune and Chennai 
+No of Rounds: 3 (Online Test + Technical interview + Technical & HR interview) 
+Stipend: 75,000 INR per month 
+Duration of internship: 7 weeks 
+Round 1 – Online Assessment 
+The online assessment was conducted on the Hackerrank platform, there were a total of 4 
+questions that were asked, which consisted of 1 easy, 2 medium and 1 hard question 
+Duration: 2 hours 
+The questions that I had gotten are as follows: 
+1. Category: Medium 
+Topic: Graphs  
+ 
+A server network is represented as a tree of g_nodes servers indexed from 1 to 
+g_nodes and g_nodes-1 edges where ith edges connect the servers g_from[i] and 
+g_to[i] the transfer time between any 2 connected servers is 1 unit. Given the graph 
+g find maximum time taken to transfer the data between any 2 servers in the system. 
+Write a function getMaxTime in python with the parameters:  
+int g_nodes: the no of servers in the network  
+int g_from[n]: the end point of edges  
+int g_to[n]: the end point of edges  
+ 
+Function returns: 
+int: the maximum time to transfer data between 2 servers 
+ 
+ 
+2. Category: Hard 
+Topic: Graphs  
+ 
+A game contains a maze represented as a graph with n vertices numbered 1 to n and 
+m bidirectional edges numbered 1 to m. The ith edge connects endpoint1[i] and 
+endpoint2[i]. It takes edheLength[i] units of time to traverse the ith edge. Each vertex 
+I will disappear at time t[i] and will not reappear. If a visit occurs at the same time the 
+vertex disappears, the vertex cannot be reached. The game starts at vertex 1 and 
+time 0. Find the earliest visit time for each vertex starting from vertex 1. If a vertex 
+cannot be reached the arrival time is -1 Write python function mazeGame that has 
+following parameters  
+Int t[n] : array of integers the ith vertex goes away at t[i] 1 based index 
+             int endpoint1[m]: vertex no of 1 end of an edge[i] 1 based index  
+             int endpoint2[m]: vertex number of the other end edge[i] 1 based index  
+             Int edheLength[m] : edheLength[i] is the time it takes to traverse edge[i] 1 based 
+index  
+Returns:  
+int[m]: the arrival times at each vertex I or -1 if visit is not possible 
+3. Category: Easy 
+Topic: Single Dimensional Arrays 
+ 
+There are n devices in the network where the vulnerability of ith device is 
+represented by vulnerability[i]. All devices in a security level must have the same 
+vulnerability level and the number of devices in any 2 security levels should not differ 
+by more than 1 Given the array vulnerability, find the maximum no of security levels 
+needed to ensure protection of network Write a function getMinimumGroups that 
+has the parameter:  
+Int vulnerability[i] : the vulnerabilities of devices  
+ 
+Returns  
+Int: the minimum no of groups required 
+ 
+4. Category: Medium 
+Topic: Multi-Dimensional Arrays 
+ 
+There are n customers and m shops in HackerMall. The no of items of each type in a 
+shop is unlimited so several customers can buy items of same type in a shop A 
+customer is considered as served if all types of items the customer wishes to 
+purchase are available in open shops. Initially the shops are closed. Find maximum 
+no of customers who can be served by the mall if almost 2 shops are opened to serve 
+the customers Write function countmaximumcustomers has the following 
+parameters:   
+int customer[m][p] : the types of items each customer wishes to purchase  
+int shop[m][k]: the types of items offered by each shop  
+ 
+Returns  
+Int: the maximum no of customers that can be served  
+ 
+Round 2 – Technical Interview 
+The interview was conducted in person at CUIC. It went for about 35-40 min.  
+The interviewer first introduced herself and in turn asked for my introduction. Then she 
+went through my resume and asked me which programming language I’m proficient in. I 
+told Python, since I was very familiar with it.  
+She then asked me why I chose Python over the other languages, and I told her its because 
+its an interpreted language and its easy and user-friendly nature and syntax. 
+The interviewer started to test me in Data Structures. She gave me a piece of paper and 
+asked me to write down each data structure that I have learnt, draw its representation and 
+write functions to perform basic operations like creation, insertion, deletion and search. I 
+started off with arrays, how to access elements in an array and wrote functions for 
+performing the elementary operations. I explained every line of the code as I was writing. I 
+did this for every data structure upto graphs.  
+While doing this task, I was asked many questions like: 
+ 
+1. What is the advantage of linked list over other linear data structures? 
+2. Given a binary tree, I was asked to write its inorder, preorder and postorder traversal, and 
+given two out of three traversals, I was used to construct the corresponding binary tree 
+4. What is the difference between tree and graph 
+5. Given a graph, write its BFS and DFS traversals and explain the procedure to perform the 
+same 
+After this was done, the interviewer moved on to asking me basic questions in Python 
+programming, to test my knowledge. I was then asked to write an optimal solution to 
+remove duplicates in a string, and to perform basic arithmetic operations on matrices. I 
+wrote down the programs on paper and explained my approach to her step by step. She was 
+satisfied with it. 
+Next, the interviewer tested me in DBMS. She gave me a Student database with 4-5 tables in 
+it, and asked me to write SQL queries to retrieve appropriate records from the table. This 
+task involved the use of joins – equijoin, left join, right join, inner join, natural join, triggers 
+and cursors. Given an equijoin query, I was asked to translate it to natural join, left join, 
+right join and natural join. This extensively tested my understanding of join operations and 
+the basic syntax of various types of joins in SQL. It was a bit challenging but interesting.  
+ 
+This was followed by a few general questions in SQL: 
+1. Difference between order by and group by 
+2. When do we use having clause 
+3. Aggregate functions  
+4. Difference between drop and truncate command 
+The interviewer concluded by asking me what my favourite subject was, in Computer 
+Science, and I said DBMS. She then asked me if I have any questions for her, and I asked her 
+what tech stacks we’ll be generally using for doing projects during the summer internship, 
+and what prior knowledge we are expected to have.  
+Overall, the interview went well and I was shortlisted for the next round 
+ 
+Round 3 – Technical + HR Interview 
+It took place in person at CUIC. It went for about 45 min. I was asked to bring my laptop 
+along with resume. 
+The interviewer greeted me and asked me to introduce myself. Then he went through my 
+resume thoroughly. 
+Since I’m doing the BS Data Science and Applications program concurrently with my college 
+degree and I had mentioned it in my resume, the interviewer was curious to know more 
+about the program and its modalities, so I spent a lot of time explaining how I got into the 
+program, why I wanted to pursue it and how I had benefited out of the program overall. He 
+then asked me a few questions he had about the IITM program and I answered them. 
+After this, the interviewer gave me three questions, I was asked to open my laptop, use any 
+editor of my choice to type out the code and run the programs in front of him. The 
+questions that were given to me were: 
+1. Given some numbers in an array, use bubble sort and merge sort to sort the 
+numbers in the array, and show the results obtained after every pass 
+2. Write code to perform division of 2 numbers without using the ‘/’ operator, and 
+multiplication of 2 numbers without using ‘*’ operator 
+3. Write optimal solution to reverse a number and string, and to check whether it is a 
+palindrome or not 
+I had to code in the presence of the interviewer and explain every part of the code as I 
+typed. I was asked to write separate functions to perform each operation in a program for 
+modularity. 
+Following this, I was questioned extensively about the projects that I had put on my resume. 
+I had a music management system project and hotel booking system project, and I was 
+asked to describe what tech stacks I had used for frontend and backend development. I was 
+also told to describe the structure of the database created and how the tables were linked, 
+what was the choice of primary key, foreign key and why. I was also asked which normal 
+form the tables existed in, and how to normalise it completely. The interviewer was also 
+curious to know the unique selling point of my project and what added benefits it offers 
+compared to traditional systems 
+After this was done, the interviewer looked into my resume and asked me about my 
+positions of responsibilities. Since I was a Deputy Director in CSAU, ACM-CEG, Guindy Times, 
+I explained about my role in each of these clubs and told him what kind of sessions and 
+programs each of these clubs conduct in college. He was eager to know more about these 
+clubs and also suggested a few sessions and events that technical clubs in our college could 
+conduct, to attract many people. It was a very friendly conversation overall.  
+The interviewer also asked me how I was able to manage being in so many clubs while 
+pursuing a dual degree, and I told him that managing time wisely was the key. 
+Finally, the interviewer asked me whether I have any questions for him. I asked him about 
+the various teams for summer internship at BNY and what each team does. I then thanked 
+the interviewer and came out. 
+After an hour, the results were announced.  
+Overall, 9 of us from CEG and MIT got selected for the summer internship program at BNY 
+Mellon, and I was one among them. 
+Tips: 
+1. Be confident with what you put on your resume. Do not fake anything there as you 
+can be questioned on anything there, and you are expected to be thorough with 
+what is mentioned there. 
+2. Have 2-3 solid projects to put on the resume. This is very crucial, as you are 
+interviewing for a technical role. So, the interviewer would be more interested to 
+check out your current knowledge and gauge your understanding of various tech 
+stacks, to know whether you’ll be able to handle any project given to you during the 
+internship 
+3. Core concepts that you need to know – DSA,DBMS, OS, OOPS. This forms the main 
+part of testing in any interview. 
+4. Never panic if you don’t answer a couple of questions in the interview. The 
+interviewer is just seeing how you would act in different situations. 
+5. Prepare well beforehand for Tell me about yourself. Remember - what you say in 
+this is going to drive the rest of your interview, so ensure that you highlight all your 
+strengths, hobbies and achievements in your introduction. 
+6. Maintain a good rapport with the interviewer. That is very crucial. Keep a smile on 
+your face throughout. Show them that you are genuinely interested about the role. 
+ 
+If you have any further questions, feel free to reach out to me  
+Ajai Krishna T.S 
+Batch: 2021-2025 
+Department: CSE 
+Contact No: +91 70107 07652 
+Linkedin Id: https://www.linkedin.com/in/ajai-krishna-t-s-4b3508243/ 
+Email id: ajaikrishnats567@gmail.com 
+ 
+All the very best! 

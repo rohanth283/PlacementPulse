@@ -1,0 +1,155 @@
+Citi – Intern Interview Experience 
+ 
+ 
+About the company 
+Citi is a global bank that offers a variety of financial services, including 
+banking, credit cards, and investment solutions. It operates in more than 160 
+countries and values innovation, diversity, and teamwork, creating an inclusive 
+workplace where employees can grow. Citi’s mission is to help people, businesses, 
+and communities achieve their financial goals. 
+Role: Application Developer (App Dev) 
+Stipend: 75,000 INR per month 
+Duration of internship: 8-10 weeks 
+ 
+ 
+Selection Process : 
+The Selection process had 3 rounds. 
+1. Online test 
+2. Technical Interview 
+3. HR Interview 
+ 
+1. Online test (12.10.25) 
+This online test had coding basically. 
+1st question - Temperature_Check 
+2nd question - Shortest_Unique_Substring 
+3rd question - Largest_Square 
+ 
+The first question was very simple. We can solve it just by using a switch 
+statement. The problem was like the user gives a temperature value , we have to 
+determine the range of it and return the comments given as per the question. 
+ 
+The second question was simple. It was similar to the problem 
+Shortest_Unique_Substring. 
+ 
+ 
+The third question was like creating  a algorithm for the given question 
+which was in medium difficulty . I could not remember the question exactly . 
+ 
+ 
+As the test was in online, completion time was one of the factor for getting 
+shortlisted for the interview .
+ 
+ 
+ 
+2. Technical Interview (05.11.2025) 
+A total of 82 students from CEG and MIT was shortlisted for technical 
+interview. Both HR and Technical interviews were in-person interviews which held 
+at CUIC, CEG. 
+The interviews were conducted in the Auditorium of CUIC, with students being 
+randomly assigned to each panel. All panels had a two interviewers. Randomly, I was 
+assigned to the most difficult panel. 
+After greeting the interviewers, I handed them my resume. The interview 
+began with the interviewers introducing themselves, followed by them asking me to 
+introduce myself. 
+Be prepared with the self-introduction as it makes the first impression. I 
+started off with the self-intro as instructed. As I had mentioned about my extra-
+curricular activites explicitly. We had a conversation about my cricketing journey for 
+2-3 minutes. 
+After reviewing my resume, they told me that they weren’t interested about 
+the projects that I had put on my resume as all the people who attended the 
+interview was having similar kind of projects using MERN stack, DBMS etc…. So, they 
+told me that they are moving to the fundamentals of CS(OS, OOPS, DBMS, Networks 
+and  Data Communication), and about programming languages  mainly JAVA. 
+He first started asking questions about JAVA 
+• 
+What is JVM? 
+• 
+Difference between JVM and JRE. 
+• 
+How does the complier compile the .java file ? and he asked me to explain the 
+flow of control. 
+• 
+What compiler is used in JAVA? 
+Then he moved onto DBMS where the questions were 
+• 
+He gave me a description about the table schema and I had to create a table 
+for the description which he gave and write it down on a paper. After writing 
+he checked it. 
+• 
+He asked me to create an index for a column in that table and asked me to 
+write it down. 
+Then the interviewer moved onto OS 
+• 
+He asked me about the concepts of OS and I explained him about the concept. 
+• 
+He asked me whether I am familiar with Linux OS. 
+• 
+He asked me to explain some Linux commands using an example with its 
+usage 
+ 
+ 
+Then he moved onto OOPS 
+• 
+He asked me about Polymorphism . 
+• 
+I was asked to write the code for Static polymorphism and he checked it. 
+• 
+Then he asked me to explain Run-time polymorphism. 
+• 
+In inheritance he asked me a question stating that “Class A has a numerous 
+methods. Class B is inherited from Class A. Now I have to access the class A’s 
+method using the object of class B. Is it possible?”. And he asked me to write 
+the code of that particular line. 
+Then he moved onto Full Stack 
+• 
+What is frontend and backend? 
+• 
+How to frontend and backend communicate with each other? And I was asked 
+to write the code on the paper and explain him. 
+• 
+He gave me a situation that, “The API from frontend transmit the data to the 
+backend and the API that should catch it is down. What would happen?”. I 
+replied him and the asked “What kind of error type and number ?“. I answered 
+the question and he asked “Why not 404?”. I explained him and he gave many 
+code asked me find out where it is used. 
+The second interviewer was listening to me till then and he asked a 
+question about the working of MySQL in the backend like how does the query  
+“Select  * from “ takes the records from the table and what data structure is 
+during the retrieval process of the query. He asked me to try and explain it. I told 
+my approach using trees(B trees) and he asked me “why not graph ?”. So I 
+changed my approach using the Graph using BFS and DFS. Then I was asked to 
+explain about the BFS process. 
+Finally, both the interviewers were satisfied my answers and they gave me 
+a chance to ask them questions. 
+The first round (Technical round) got over. It was around 1 hr. 
+Everything depends upon the interviewer. Some interviewers asks less 
+questions. While some of the interviewers go in depth about your project and the 
+fundamentals. So be prepared for both. 
+ 
+2. HR Interview (05.10.2024) 
+From the 82 students who were qualified for technical round, 30 were 
+selected for the next round (HR). 
+It was a one-to-one interview. Since she had a copy of my resume on her 
+hand, I didn’t hand over my resume. She began with her introduction, and then I 
+followed with my own introduction. When I mentioned my extra-curricular 
+activities, she was impressed with it and I also added my 12th mark which 
+impressed her more. 
+I was asked questions such as “Where do you see yourself in 5 years? “,then 
+she enquired about my parents details, my CGPA, any current backlogs, some family 
+details and whether I had any idea of higher studies. 
+She asked me if I had any questions. With this the HR round of interview 
+came to an end. This round lasted for about 10 minutes. 
+Out of 30 people, 12 were selected for App dev intern role, and by god’s grace 
+I was one among them. 
+ 
+ 
+All the best! 
+ 
+ 
+VIKRAM DHARSAN K S (2023-2027) 
+ 
+ 
+Feel free to contact me! 
+Phone no : +91-7200591620 
+Email id: vdks2006@gmail.com 
+LinkedIn: Vikram Dharsan K S LinkedIn 

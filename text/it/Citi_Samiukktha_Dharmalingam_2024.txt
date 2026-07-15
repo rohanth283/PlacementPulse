@@ -1,0 +1,86 @@
+| SAMIUKKTHA         |            | DHARMALINGAM |                |     | -   |
+| ------------------ | ---------- | ------------ | -------------- | --- | --- |
+| Information        | Technology | –            | ICG PRODUCTION |     |     |
+|                    | SUPPORT    | intern       | at Citi        | CSC |     |
+| About the Company: |            |              |                |     |     |
+Citi's Client Solution Center (CSC) is a specialized unit within Citibank that focuses on providing
+client-centric solutions and support services. The CSC serves as a hub for client engagement,
+delivering a wide range of services such as technical support, transaction processing, and
+relationship management. It leverages digital tools and technology to enhance client experience,
+streamline operations, and offer tailored financialsolutions.TheCSCispartofCiti'sbroaderstrategy
+tooptimizeservicedeliveryandimproveclientsatisfactionacrossitsglobalnetwork.
+| About the Role: |     |     |     |     |     |
+| --------------- | --- | --- | --- | --- | --- |
+Citi's ICG Production Support under the Optimization and Enablement team is responsible for
+monitoring and resolving system issues, optimizing processes, and enhancing service delivery for
+institutional clients. The work involves data analysis to identify areas for improvement, automating
+tasks, reducing duplicate tickets, and collaborating with teams to maintain efficient operations and
+clientsatisfaction.Myroleinparticularwastoperformdataanalysisonaparticularappli
+| Overview of | the Process: |     |     |     |     |
+| ----------- | ------------ | --- | --- | --- | --- |
+Theoverallprocessconsistedof
+● AnOnlinecodingcontestinSHLplatform
+● InterviewRound1–inCUIC
+● InterviewRound2–inCUIC
+● HRRound-online
+DomainsofferedforIntern:
+EO&T–EnterpriseOperationsandTechnology
+ICG
+PBWMT– ProductDevelopment
+
+Online coding contest in SHL platform:
+ThecodingcontestwasconductedinSHLplatform.TherewereMCQsandcodingquestions.
+MCQs were simple aptitude questions and SQL queries based questions. The coding
+questionswereonbasicarraymanipulation.
+60studentswereshortlistedforinterviewprocessofICGintern.
+TIPSforOnlineTest:
+Keep track of time and try to finish as soon as possible. While typing thecodekeep
+in mind the time complexity as test cases may fail if it exceeds the execution time
+limit.
+Interview Round 1 and 2:
+As ICG Production Support is not a developmental role, the interviews wasfairlysimpleand
+easy. Almost all the questions were based on my resume. For any achievement mentioned,
+theyaskedtotellmoreabouttheprocess.
+For the projects, as I explained, they asked some related questions on it but nothing too
+technical.
+For majority of the interview, the interviewers spent time explaining the role and what Citi
+CSC does. Very few questionsrelatedtoproductionsupportwasasked.Oneofthequestions
+was “If an user application goes down or faces some issue, what will your steps betomake
+the customer at ease?” I started off by saying howcustomersatisfactionisimportantbutso
+is ensuring security and proper functioning of a bank applicationandhencethefixingofthe
+issue must not berushed.Firstly,inorderforthecompanytobenotifiedofoccurenceofany
+issue, there must be some sort of mechanism for the customers to contact the company
+regarding it. This can be embedded within the application or be done on a sepaarte
+application (I said this as one of thepanelmembersaskedhowcanthecompanybenotified
+of an issue). Then, the company can start out by automating mails saying the server willbe
+down and they will be notified once it is back up running again. This is to ensure that the
+customers don’t think they are the only ones facing the issue and also to inform them that
+the company indeed is working on rectifying the issue. Once the issue is solved, another
+automatedmailcanbesentoutagain.
+They asked a few generic questions like which programming language I’m comfortable with
+andifIknowdatabasemanagementsystemsandsoon.
+Overall, the interview was quite simple and focused more on my resume and explaining to
+metheroleiwouldbetakingon.
+
+HR Round:
+TheHRroundwasshort.Sheaskedmeafewsituationbasedquestionslike,
+● Whatwouldyoudoincaseofaconflictwithanotherteammember?
+● Haveyoueverbeenputinasituationwhereyouhadtoescalateanissuetoahigherofficial?
+For questions like these, always give an exampleifyouhaveexperiencedthescenarioandwhat
+youdid.
+One other question they asked was if I have any relatives working inthecompany.Inthatcase,
+fewdetailsaboutthemwasasked.
+PREPARATION THE DAY BEFORE INTERVIEW:
+AsIwasn’texpectingtogetshortlisted,Ihadverylesstimetoprepare(barelyfewhours).
+● As soon as I got to know about being shortlisted for the interview, I went through the job
+descriptionandlookedintothecompany’swebsite.
+● Iwatchedafewvideosonlineonhowtosmoothlynavigateaninterview.
+● IwentthroughSQLqueriesandsyntaxfordatastructures.
+● Since we had done operating systems in the previous semester,IwentthroughmyOSnotes
+quicklytohavearoughidea.
+● Thenisatandpreparedafewquestionstoaskduringtheinterview.
+o Questionsaboutcompany
+o Questionsonhowadayatworkwouldbelikeforme,ifIweretogettheinternship
+o Whatalltheyexpectustoknowbeforestartingtheinternship
+o Iftheyhaveanyfeedbackforme
+o Questionsofwhattheinterviewersdoonadailybasis

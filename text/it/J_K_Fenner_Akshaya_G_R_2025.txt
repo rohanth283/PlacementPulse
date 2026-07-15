@@ -1,0 +1,63 @@
+**AKSHAYA G R -INFORMATION TECHNOLOGY**
+
+GET INTERN IN **J K FENNER**
+
+**About the Company:**
+
+J.K. Fenner (India) Ltd. is a leading manufacturer of Mechanical Power Transmission and Sealing Solutions, with a strong legacy dating back to 1987 when it became part of the JK Organisation. The company is a market leader in Power Transmission Belts and specializes in products like Oil Seals, Hoses, Gearboxes, Geared Motors, Belt Tensioners, and EV components for automotive and industrial applications. Recognized as one of India’s Greatest Mid-size Workplaces, J.K. Fenner continues to innovate and deliver cutting-edge solutions globally.
+
+**About the Role**:
+
+**Graduate Engineer Trainee (GET)** at the Chennai Corporate Office, the role involves gaining hands-on experience across various functions in engineering and operations. Training focuses on technical processes, project execution, and cross-departmental collaboration. The position requires working closely with senior engineers, learning key industry practices, problem-solving techniques, and contributing to ongoing projects.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* Online Interview Round 1(HR)-in virtual
+* Online Interview Round 2(Technical)-in Virtual
+
+**Interview Round 1 (Based on Resume):**
+
+It went for nearly 10 minutes. The HR asked me to introduce myself including projects, branch, my hobbies etc…
+
+* He asked about my family background, my native,open to relocation.
+* Why do you want to work here when there are so many IT companies?
+* What do you know about the company?
+* Where do you urself 5 years from now?
+* Any doubts to ask for him.
+
+He seemed quite satisfied with my communication and resume.
+
+**Interview Round 2 (Technical):**
+
+It went for 30 minutes through virtual mode. He asked to give a brief introduction about myself. After that, he asked a few technical questions.
+
+1. How do you reverse a doubly linked list?
+2. What’s the difference between a singly linked list and a doubly linked list?
+3. How do you perform binary search on a sorted array?
+4. What is the difference between BFS and DFS?
+5. How do you check if a string is a palindrome?
+6. What is deadlock? What are the four necessary conditions for a deadlock?
+7. What is the difference between a process and a thread?
+8. Can you explain the OSI model and its layers?
+9. What are some common application layer protocols and their uses?
+10. What is the difference between TCP and UDP?
+
+He seemed quite impressed with my communication skills. When I started answering, he was paying close attention to see if I could respond well to the questions. After I answered a single question, he quickly moved on to the next one, which made the pace feel fast.
+
+**TRICKS THAT I FOLLOWED**:
+
+When I found out I had an interview, I quickly brushed up on the topics I had already covered earlier. For the networking questions, I focused on YouTube tutorials, and for the Operating System questions, I studied from GFG and YouTube channels. I also made sure to prepare for HR questions during this time.
+
+To improve my communication skills , I participated in mock interviews both conducted by our college and on my own. These mock interviews were incredibly helpful for assessing my performance .For coding, I started with brute-force approaches and then worked my way towards optimizing the problems. Over time, I developed my coding skills through consistent practice. Overall, my communication skills played a big part in my success during the interview.
+
+**MY PREPARATION STRATEGY:**
+
+By the end of my fifth semester, I decided to focus on building a strong foundation in theory concepts. I started with Object-Oriented Programming (OOPS), OS,DBMS and networks and data structures like arrays, strings, and linked lists. Linked lists became my favorite concept, and I spent a lot of time coding and optimizing problems on platforms like gfg, leetcode,hackerrank to improve my skills. This hands-on approach helped me grasp the concepts much better.
+
+I also started preparing for the HR side of interviews through mock interviews, which made a huge difference. These mock interviews helped me understand how to communicate my thoughts clearly and confidently.
+
+Mock interviews played a key role in enhancing both my technical and communication skills. I used YouTube channels to improve my HR communication and refined my answers based on the feedback I received. These mock interviews were critical in boosting my confidence, and when it came time for the actual interviews, I felt much more prepared. Overall, my journey from learning theory to applying it through practice, along with improving my communication skills, helped me prepare for the challenges of the interview process.
+
+.

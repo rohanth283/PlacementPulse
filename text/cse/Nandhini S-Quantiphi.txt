@@ -1,0 +1,38 @@
+QUANTIPHI ANALYTICS 
+Quantiphi is a category defining Applied AI and Machine Learning software and services company 
+focused on helping organizations translate the big promise of Big Data & Machine Learning technologies into 
+quantifiable business impact. 
+Number of rounds : 3 
+Details about the rounds : 
+Round 1 : Online round - MCQ (data structure, C, C++, OS, Machine Learning) +1 coding question 
+Round 2 : Technical round - The technical round was easy with simple coding questions and questions 
+based on projects. 
+1. Tell me about your projects. (Brief summary of all projects done) 
+2. Asked questions on one major project done like how did you build tables (columns and mapping) for 
+database for a web-based project. 
+3. Difference between foreign key and primary key. Difference between delete, drop and truncate 
+2. Coding Questions -  
+• Remove array duplicates 
+• Count digits in a number (asked time complexity and clear explanation) 
+Round 3: HR round  
+The HR round was very casual and they were trying to see how we respond to questions, how confident 
+we are, our attitude, how our thought process is based on our answers to guesstimates. Some general questions 
+were asked. 
+1.Tell me about yourself 
+2.Out of the roles offered which would you prefer and why? 
+3.Guesstimate (On an average in one day, how many pencils will be there in CEG?) 
+Topics to be focussed:  
+Machine learning (for MCQs), basic coding questions with time complexity, be clear with the projects 
+done (should be able to answer questions from projects), for guesstimate think every possible way and have a 
+systematic approach and assumptions should be clear and valid. 
+Take away:  
+            In other companies coding questions on linked lists (find nth node from the end, remove duplicates in 
+a list), binary trees (check if the tree is mirror of given binary tree) arrays (find pairs which add up to the given 
+sum) and strings were asked. For online coding rounds most of the questions were from arrays and strings. 
+OOPs concepts (multiple inheritance-code also, virtual functions) and DBMS related questions were asked 
+predominantly in most rounds. Behavioural questions like challenges faced during projects and how did you 
+overcome it, questions regarding team work in projects, questions based on skills mentioned in resume were 
+also asked. 
+                                                                                        
+                       Nandhini S  
+                                                                                         snandhini262000@gmail.com 

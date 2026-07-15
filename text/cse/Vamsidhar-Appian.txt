@@ -1,0 +1,64 @@
+ 
+Appian Interview Experience - Product Engineer Role 
+Coding Round: The online coding round consisted of four problems aimed at testing data 
+structures, algorithms, and problem-solving ability. Here is a brief overview of each question: 
+1.​ Event Ticket Management System: Simulate a lottery-style queue reordering system 
+using skip and offset logic, where IPL fans are rearranged in a virtual queue to ensure 
+fairness before ticket sales begin. 
+2.​ Passport Office Efficiency: Determine how many additional counters are needed to 
+serve vulnerable applicants (children and senior citizens) at a passport office, based on 
+the ages of the applicants and a fixed capacity per counter. 
+3.​ Hotel Room Occupancy: Calculate the maximum number of hotel rooms that are 
+occupied simultaneously, given a list of bookings with start and end dates. This helps in 
+determining peak room demand. 
+4.​ Store Inventory Search: Implement a search system to find how many times a query 
+appears in each product name string and identify relevant inventory items based on a 
+given query. 
+After completing this round, I was shortlisted along with 42 other students for the interview 
+rounds. 
+Interview Round 1: 
+The round began with a self-introduction, followed by a discussion around my previous 
+internship experiences. I was asked about the technologies I worked with, specifically 
+Kubernetes, and what I had learned during those internships.They then asked about the role of 
+a Product Engineer at Appian and my understanding of the responsibilities it entails.The 
+conversation moved to my personal projects, where I had to explain one of them in technical 
+depth, along with the technologies used.Next, I was asked core DBMS questions related to 
+indexing and normalization of a table.After that, a coding problem was presented where I had to 
+determine if a student was eligible for a scholarship based on input details like grades and 
+extra-curriculars. I implemented the logic using lists, for-loops, and if-elif-else statements.Two 
+situational questions followed: 
+●​ If a product you developed is running slow, how would you approach fixing it? 
+●​ If you have an idea and the team is not supportive, how would you handle the situation?​
+ 
+The round concluded with me asking a few questions about the company. 
+Interview Round 2: 
+This was a more casual interaction. The interviewer began by asking me to introduce myself 
+again and then discussed my projects. He asked why I had applied for a Product Engineer role 
+despite having significant experience in software engineering.The round ended with me asking 
+questions about Appian’s work culture and environment. 
+Interview Round 3: 
+This was a short and crisp round. The interviewer mainly focused on my academic background 
+and schooling. He again asked about my interest in the Product Engineer role and why I 
+preferred it over a pure Software Engineer role. Overall, the process was a mix of technical and 
+behavioral assessments, with a strong emphasis on problem-solving, project experience, and 
+role fit. 
+Tips :  
+●​ Be clear on why you're applying for the Product Engineer role specifically. Have a 
+well-thought-out explanation of how your background aligns with the role. 
+●​ Make sure to revise key topics like DBMS,DSA, and OOPs, as they can form the basis of 
+both technical and behavioral questions. 
+●​ Be prepared to explain your projects in technical depth, especially the challenges faced 
+and how you solved them. 
+●​ Be honest and detailed about your previous internship experiences. Know the tools and 
+technologies you used thoroughly. 
+●​ Think out loud during situational questions. Structure your approach logically and show 
+problem-solving skills rather than jumping straight to a solution. 
+●​ Expect coding questions that involve lists, strings, loops, and conditionals. Practice 
+problems that require processing structured inputs. 
+●​ Always ask insightful questions at the end of the interview. It shows interest and helps 
+you learn about the company’s values and work culture. 
+All the very best!!  
+Vamsidhar Venkataraman  
+GMail - vamsidhar.venkataraman@gmail.com 
+Linkedin - https://www.linkedin.com/in/vamsivenkat/ 
+Mobile - (+91) 7200093645 

@@ -1,0 +1,103 @@
+Accolite interview experience 
+ 
+About company: 
+ 
+Accolite is an innovative, design thinking software company that guarantees 
+seamless digital experiences with maximum results. Backed by the best technical minds 
+in the industry, and only the best cutting edge technology, we strive to help our clients 
+overcome their digital challenges and achieve their goals. Accolite is a global IT 
+Services company headquartered in Dallas, USA. It’s major domains are CUSTOMER 
+EXPERIENCE & DESIGN, DATA & AI, CLOUD ENGINEERING & DEVOPS, DIGITAL 
+PRODUCT ENGINEERING, CYBER SECURITY, M&A TECH DUE DILIGENCE.  
+ 
+It consists of 5 rounds. 
+ 
+Round 1: Aptitude round 
+There were aptitudes based on Operating Systems, Computer Networks, Database 
+Management Systems, Quantitative Aptitude, Logical reasoning around 30 questions. 
+Most of the students except few were selected for the next coding round. You need to 
+answer reasonably correct questions to get to the next round. 
+ 
+Round 2: Coding round 
+In this round, 2 coding questions were asked 
+1. Trapping rain water 
+2. Happy arrays 
+ 
+https://www.geeksforgeeks.org/trapping-rain-water/ 
+codechef.com/problems/HAPPYARR (Not a same question but similar to this) 
+ 
+Mainly the technical interview rounds were fully focussed on Data Structures and 
+Algorithms. All the interviews were over skype and you should run the code in any IDE 
+you like. 
+ 
+Round 3: Technical interview 
+He asked me to introduce myself and he moved to Data Structures. 
+1. Difference between BFS and DFS. 
+2. Implement the logic of Level order traversal (BFS) of binary tree. I explained the 
+second method based on the queue. 
+3. After that he asked me to change the Level order traversal code to print the left 
+view of the binary tree. 
+4. Also he asked to change the code of the left view to obtain the right view of the 
+binary tree. 
+5. Implement the reorder list such that 1->2->3->4->5 is reordered as 1->5->2->4-
+>3 
+ 
+https://www.tutorialspoint.com/difference-between-bfs-and-dfs 
+https://www.geeksforgeeks.org/level-order-tree-traversal/ 
+https://www.geeksforgeeks.org/iterative-method-to-print-left-view-of-a-binary-tree/ 
+https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/ 
+https://www.geeksforgeeks.org/rearrange-a-given-linked-list-in-place/ 
+ 
+Round 4: Technical interview 
+He asked me to introduce myself and be comfortable to answer the questions. He gave 
+me 3 coding questions to solve. 
+1. Add 2 numbers represented as a linked list. 
+2. Implement all the queue operations like enqueue and dequeue only using the 
+stack. I gave 2 methods in which enqueue was costly where dequeue was O(1) 
+and another method dequeue was costly and enqueue was O(1) 
+3. Reverse only the alphabets in the string where the string can contain alphabet 
+and number. I gave an approach based on two pointers. 
+ 
+https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/ 
+https://www.geeksforgeeks.org/queue-using-stacks/ 
+https://www.geeksforgeeks.org/reverse-a-string-without-affecting-special-characters/ 
+ 
+Round 5: HR interview 
+● He asked me about the introduction and then he gave me a probability question. 
+I’ve only approached the question and the interviewer gave me a clue to solve 
+the question. 
+● After that he asked me whether I know the difference between P and NP 
+problems. After explaining that he asked me to explain NP complete problem. 
+● After that he asked me to write code for the Dijkstra algorithm and analyze the 
+space and time complexities. I discussed 2 approaches and he seemed satisfied. 
+ 
+https://medium.com/i-math/solving-an-advanced-probability-problem-with-virtually-no-
+math-5750707885f1 
+https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysi
+s_of_algorithms_p_np_class.htm 
+https://www.geeksforgeeks.org/np-completeness-set-1/ 
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/ 
+https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-using-priority_queue-
+stl/ 
+Finally 11 of them were selected and luckily I was one of them. 
+ 
+Topics to be focussed: 
+1. Data structures & Algorithms. 
+2. Object Oriented Programming Language for implementation in the interview. 
+3. Projects mentioned in your resume. 
+ 
+Takeaways: 
+1. Be good at communication skills. It is equally necessary as data structures to 
+communicate your thoughts to your interviewer. 
+2. Have good knowledge on what you put at your resume. Add only your skills on 
+your resume. Interviewers can easily find out your skills in a single interview. 
+3. Practice in GeeksforGeeks, Leetcode and Hackerrank. It’s more than enough for 
+the online coding round. 
+4. Read the GeeksforGeeks articles that has many approaches for the data 
+structures in order to explain your different approaches to the interviewer. 
+5. Practice aptitudes and few logical questions in IndiaBix as it can help you get 
+selected for an interview in case you fail a few test cases in coding questions. 
+ 
+ALL THE BEST!!! 
+Name: Sai Sundhar J 
+Mail id: jss1732000@gmail.com 

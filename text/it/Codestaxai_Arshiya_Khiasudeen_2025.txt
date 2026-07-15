@@ -1,0 +1,68 @@
+PLACEMENT EXPERIENCE - CODESTAX.ai
+
+NAME: ARSHIYA KHIASUDEEN (2021115017)
+
+ABOUT THE COMPANY:
+
+CodeStax.Ai is a Chennai-based technology company that specializes in providing AI-powered and no-code
+platforms to help businesses transform their operations. Founded in 2020, the company focuses on
+empowering organizations across various industries like finance, e-commerce, healthcare, and more by
+delivering digital solutions that are robust, flexible, and scalable.
+
+PLACEMENT DRIVE EXPERIENCE:
+
+My placement experience consisted of three rounds :
+
+Round 1: Online Coding Test
+
+This round was conducted on HackerRank. It consisted of four coding questions: two easy problems and two
+hard problems.
+
+Round 2: Technical Interview
+
+This round was conducted on Zoom. It included a discussion about my projects, followed by technical
+questions focused on sliding window problems, linked lists, hash maps, and hash sets.
+
+Round 3: Technical Interview
+
+This round was conducted on Zoom. It started with a discussion about my resume, followed by questions on
+Java topics such as strings, memory management, and heap. Finally, I was given a recursion-based coding
+problem to solve in Java.
+
+PREPARATION STRATEGY:
+
+My approach to preparation involved practicing coding on various platforms like LeetCode, HackerRank, and
+GeeksforGeeks. I began with basic and easy questions to get comfortable with the coding language and then
+progressed to more challenging medium and hard problems It’s essential to learn different algorithms, such as
+two pointers, sliding window, greedy methods, and dynamic programming, as these techniques are crucial for
+solving various problems. I found that dynamic programming and subsequence problems are often featured in
+tests. Understanding time and space complexity is also important, as these questions come up in both initial
+assessments and interviews. For learning OOPs concepts, I used resources from the internet(geeksforgeeks
+and javatpoint).
+
+TIPS AND TRICKS:
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Make a habit of coding every day to improve your skills and maintain consistency.
+
+Answer questions honestly and directly during interviews.
+
+Speak clearly and at a moderate pace to ensure you are easily understood.
+
+Avoid showing signs of nervousness or tension; remain composed throughout the interview.
+
+Be thoroughly familiar with everything on your resume and be prepared to discuss it in detail.
+
+Take a moment to think before you respond to questions to ensure your answers are well-considered.
+

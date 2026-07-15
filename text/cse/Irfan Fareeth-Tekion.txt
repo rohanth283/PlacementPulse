@@ -1,0 +1,137 @@
+About Tekion: 
+Tekion is a cloud-built platform focussed on transforming consumer experience in the automotive 
+industry. The company uses advanced machine learning and AI capabilities for a personalised and 
+seamless consumer experience. 
+Online Round: 
+Online round consists of 2 sections 
+MCQ: 20 questions (DBMS, CN, Dsa, OOPS) 
+DSA: 
+Problem 1: 
+ You are given two arrays of equal length: process[] and state[].The process [] array contains 
+alphanumeric process identifiers such as "A1", "B102", etc., while the state [] array contains only "Login" 
+or "Logout", indicating the corresponding action for each process at the same index. A process’s 
+activation counts increases by 1 whenever it logs in, and decreases by 1 whenever it logs out, but the 
+count can never go below 0. After processing all the events in order, you are given an integer m, and 
+your task is to determine which processes remain active in the system with an activation count strictly 
+less than m. process = ["B1", "A1", "B1", "B1", "A1"] state = ["Login", "Login", "Login", "Login", "Logout"] 
+m = 2  
+Problem 2: 
+ You are given a matrix of size n × m. You must pick exactly (m-1) rows. Then construct a "set" (really, an 
+array of column maximums): For each column j, take the maximum value among the chosen rows in that 
+column. 
+The score = the minimum value in that array of column maximums. 
+Goal: Find the maximum possible score over all choices of (m-1) rows. 
+ 
+I did the MCQ well. I was able to solve the first question completely and in second question I passed 
+8/15 with a greedy approach. The results were announced on the same night 
+ 
+Interview: 
+Round 1 (Virtual) - Technical 
+The interviewer began by asking me to introduce myself. After that, I was asked to open a 
+compiler of my choice and solve the following  DSA problems. 
+Problem 1: 
+Given integers n and k, return an array containing all possible numbers with n digits such that 
+the absolute difference between every pair of adjacent digits is k. The number should not 
+contain any leading zeros. 
+My Approach: 
+• 
+I first explained a brute-force solution where I would generate all possible n-digit 
+numbers and check whether they satisfy the condition. 
+• 
+I then provided an optimal solution using recursion, where only valid numbers were 
+generated without exploring invalid possibilities. 
+• 
+The interviewer tested my recursive solution with a few test cases, and it worked 
+correctly. 
+After this, he asked me about my favorite data structure. I mentioned that it is the stack, and 
+explained the reasons behind my preference. I was expecting a stack-related problem next, but 
+the interviewer moved on to a different question. 
+Problem 2: Subarray Sum Equals K 
+My approach: 
+• 
+I first explained a brute-force solution by generating all subarrays and checking whether 
+their sum equals k. I also discussed the time and space complexity of this approach. 
+• 
+Then, I provided an optimal solution using a hash map to keep track of prefix sums. 
+• 
+The interviewer tested my solution with a case where the array contained negative 
+numbers. My solution also worked correctly for this scenario, and the test case passed. 
+At the end of the interview, I asked the interviewer some questions about the work 
+environment and also requested tips for the upcoming rounds. 
+ 
+Round 2: (Offline) - Technical 
+• 
+The interviewer introduced himself, spoke about his experience at Tekion, and then 
+asked me to introduce myself. 
+• 
+In my introduction, I mentioned that I had participated in competitive coding 
+competitions. This caught his attention, and he asked me more about it. 
+• 
+He asked what I knew about Tekion. 
+• 
+He also asked whether Tekion was in my wishlist of companies. I replied yes and 
+explained why. 
+• 
+Then, he asked me a series of technical questions: 
+o What are microservices? 
+o What are asynchronous and synchronous functions? 
+o What is concurrency, and how it is different from parallelism? 
+o What is a garbage collector, and why is it useful? 
+o What scheduling algorithms do I know, and how can they be used to achieve 
+concurrency? 
+• 
+DSA Problem: Missing Number 
+I explained three different approaches to solve this problem and discussed the time and 
+space complexity for each approach. 
+• 
+He then moved to computer networks and asked: 
+o What is computer networks? 
+o What protocols do you know? 
+o Explain the SMTP protocol. 
+o What are TCP and UDP? 
+o What is the difference between TCP and UDP, and where are they useful? 
+o Which protocol would you use if you had to announce an upcoming disaster to a 
+group of people? 
+• 
+At the end, he asked whether I had any questions for him. I said yes, and I asked him to 
+tell me more about Tekion and also about the role of a software engineer at Tekion. 
+Round 3: (Offline) – hr round 
+• 
+The HR interviewer introduced herself and then asked me to introduce myself. 
+• 
+ She asked me about my experience in the first and second rounds. 
+• 
+ She asked what my favorite project is and why. 
+• 
+ She asked me to explain what I know about Tekion. 
+• 
+ I explained the projects I had built, the difficulties I faced during those projects, and how I 
+overcame them. 
+• 
+ She asked why I chose Tekion. 
+• 
+ At the end, I asked her the same questions I had asked in Round 2. With her permission, I also 
+asked a third question (which I don’t fully remember). 
+ 
+ 
+Takeaways: 
+• 
+Strong knowledge in DSA, OS, CN, DBMS, and OOPS is required.  
+• 
+Prepare your self-introduction well. Try to include your interests, the tech stacks you know, the 
+projects you have done, and any achievements if you have them. 
+• 
+ For DSA questions, don’t jump directly to the optimal solution. First, explain the brute force 
+solution along with its time and space complexity, then move to the optimal solution, 
+highlighting why it is better and how you arrived at the intuition. Even if you don’t know the 
+exact solution, share your thought process and intuition. 
+• 
+ Be well-prepared on your projects—know them in detail, including challenges faced and how 
+you solved them. 
+• 
+ Always prepare a few questions to ask the interviewer at the end of the round. 
+• 
+Be confident and Be prepared 
+Results were announced on the same day  
+Feel free to contact. 
+www.linkedin.com/in/irfan-fareeth 

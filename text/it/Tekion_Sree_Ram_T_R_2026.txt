@@ -1,0 +1,206 @@
+My Placement Interview Experience
+
+______________________________________________________________________________
+
+About Tekion
+
+Tekion is a cutting-edge technology company that provides innovative solutions for the
+automotive industry. Founded in 2016 and headquartered in California, Tekion leverages cloud,
+AI, ML, and modern architecture to transform the automotive retail experience. It is known for
+its fast-paced, product-driven culture and emphasis on innovation.
+
+______________________________________________________________________________
+
+1. Online Assessment (Round 1)
+
+·
+·
+
+The online assessment was conducted on HackerRank.
+It contained a total of 12 questions:
+
+o 10 Technical MCQs.
+
+o 1 SQL Query (easy-level).
+
+o 1 DSA Problem (coding).
+
+DSA Question Asked
+
+Problem Statement: You are given an integer array arr[] of size n and an integer k. Your task is
+to find the minimum length subarray of arr that contains all k consecutive integers (numbers
+forming a continuous range of length k).
+
+The subarray does not need to have elements in sorted order. If no such subarray exists, return
+-1.
+
+Example:
+
+Input: arr = [7, 3, 5, 6, 4, 9]
+k = 3
+
+Explanation:
+
+- Subarray [3,5,6,4] → contains {3,4,5,6} → includes {3,4,5} → length = 4
+- Subarray [5,6,4] → contains {4,5,6} → ✅ valid, length = 3 (minimum so far)
+- Subarray [7,3,5,6,4] → contains {3,4,5,6,7} → length = 5
+
+Minimum length = 3
+
+______________________________________________________________________________
+
+2. Interview at CUIC
+
+______________________________________________________________________________
+
+i) Offline Coding Round 1
+
+Frontend Section: - Task: Create a dynamic form builder using HTML, CSS, and JavaScript.
+- Focus: DOM manipulation, event handling.
+
+Backend Section: - Two coding problems:
+
+1. Buy and Sell Stock II (LeetCode): Find maximum profit with unlimited transactions
+
+using a greedy approach.
+
+2. User Activity Log Analysis: Two files (Day 1 and Day 2) with timestamped user visits.
+Retrieve users visiting two different pages on both days. Initially solved with Python file
+handling, then re-implemented using CSV format.
+
+______________________________________________________________________________
+
+ii) Offline Coding Round 2 (DSA Focused)
+
+1. Word Break II (LeetCode) - Input: string s and wordDict. Return all sentences by inserting
+spaces so every word exists in wordDict. Words can be reused. - Example: s = "catsanddog",
+wordDict = ["cat","cats","and","sand","dog"] → Output: ["cats and dog","cat sand dog"] - Solved using
+recursion with backtracking.
+
+2. Longest String with Limited Character Repetition - Input: integers a, b, c for counts of ‘a’, ‘b’,
+‘c’. Construct the longest string without three consecutive identical letters. - Example: a = 1, b =
+1, c = 7 → Output: ccbccacc - Solved using a priority queue (max-heap) strategy.
+
+______________________________________________________________________________
+
+iii) Technical Interview
+1. Resume & Projects:
+
+The interviewer asked deep questions about my projects, such as:
+
+· Questions were mostly based on my resume.
+·
+· Why I chose a particular tech stack for a project.
+· How I implemented certain features.
+· Why I used SQL instead of NoSQL, or other database design choices.
+·
+
+This round tested clarity of thought and justification for design decisions.
+
+2. React.js Questions: Questions were asked to test my understanding of React.js
+
+fundamentals.
+
+3. Scenario-Based Questions: Real-time scenario questions were given to evaluate
+
+problem-solving and SQL skills.
+
+4. DSA Questions: Tree traversal questions were asked to test fundamental algorithmic
+
+knowledge.
+
+5. Puzzle:
+
+You have two ropes of different lengths. Each rope takes exactly 1 hour to burn, but the
+burning rate is not uniform. You need to find the middle point of one rope using the
+other.
+I was unable to solve it initially. The interviewer explained:
+
+· Burn one rope from both ends. When it finishes, exactly half of the other rope
+
+has burned.
+
+· He related this concept to slow and fast pointer technique in finding the middle
+
+of a linked list.
+
+______________________________________________________________________________
+
+iv) HR Interview
+
+1.
+
+Introduction & Self-Intro:
+
+·
+·
+
+The HR started with an introduction about the company.
+I was asked to give a self-introduction.
+
+2. Project Discussion:
+
+Questions about my project included:
+
+· When I did the project.
+· Why I chose that problem statement.
+· Number of team members and who was the team leader.
+· Challenges faced during the project.
+· Unique features of my project.
+
+3. Understanding of Tekion:
+
+·
+·
+
+I was asked about my knowledge and understanding of Tekion.
+They also asked about three aspirations or reasons for wanting to join Tekion.
+
+4. Extracurriculars & Hobbies:
+
+· Questions about participation in technical and non-technical events, hackathons,
+
+and competitions during college.
+
+· Hobbies mentioned in my intro, like chess and sudoku, were discussed.
+·
+
+She asked about tournaments or competitions I attended in chess and sudoku.
+
+5. Situational Question:
+
+·
+
+“You and your teammates have completed a project, but you don’t know about
+testing. What would you do?”
+
+______________________________________________________________________________
+
+3. Key Suggestions and Tips from My Experience
+
+1. Be strong in DSA and problem-solving: Arrays, strings, recursion, backtracking, priority
+
+queues, tree traversals.
+
+2. Be clear about everything in your resume: Skills, projects, tech stack, challenges,
+
+unique features.
+
+3. Prepare separate self-intros for technical and HR rounds: Technical intro – projects and
+
+skills; HR intro – academics, hobbies, extracurriculars.
+
+4. Be confident: Explain your approach logically.
+
+______________________________________________________________________________
+
+Contact Information:
+
+Sree Ram T R
+Email Id : sreeramtrsd@gmail.com
+Phone no: +91 7806974653
+
+______________________________________________________________________________
+
+Wishing you all the very best for your placements!
+

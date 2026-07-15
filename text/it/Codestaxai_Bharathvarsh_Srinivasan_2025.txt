@@ -1,0 +1,104 @@
+Experience Document for Codestax.AI
+
+About the Company
+
+CodeStax.Ai is a cutting-edge company revolutionizing digital transformation with AI-powered, no-
+code platforms. Focused on democratizing technology, CodeStax.Ai empowers businesses of all sizes
+to innovate and adapt rapidly to the digital landscape. The company values transparency,
+collaboration, and fostering a culture of excellence.
+
+About the Role
+
+Role: Software Development Engineer (SDE)
+As an SDE at CodeStax.Ai, you will work on building and optimizing AI-powered, no-code platforms,
+contributing to innovative solutions that transform the way businesses operate. The role involves
+problem-solving, coding, and leveraging data structures and algorithms to create scalable solutions.
+
+Preparation Strategy
+
+•  Programming Fundamentals: Strengthen problem-solving skills by practicing on platforms
+
+like LeetCode, HackerRank, and GeeksforGeeks.
+
+•  Data Structures & Algorithms: Focus on arrays, strings, sorting, priority queues, graphs, and
+
+dynamic programming.
+
+•  Resume Projects: Be ready to discuss your projects in depth, especially technologies like
+
+Spring Boot, APIs, and database interactions.
+
+•  Puzzles and Logical Thinking: Prepare for puzzles, such as the 100 doors problem.
+
+•  Mock Interviews: Practice technical and behavioral questions to improve confidence.
+
+Placement Drive Experience
+
+1.  Online Test (HackerEarth Platform):
+
+o  Total Questions: 2 (moderately hard).
+
+o  Topics: Algorithmic problem-solving and logic-based coding.
+
+2.  First Technical Interview (On-Campus):
+
+o  Location: IT Department, CEG.
+
+o  Discussion:
+
+▪  Resume walkthrough and detailed questions on projects.
+
+▪  A puzzle: "100 doors problem"—Focuses on logical reasoning and
+
+understanding.
+
+▪  DSA Question: Similar to Asteroid Collision problem (involving stack/array
+
+manipulations).
+
+▪
+
+Sorting and Priority Queues: Concepts and implementation details.
+
+3.  Second Technical Interview (Online):
+
+o  Conducted by: Manager and HR.
+
+o  Topics:
+
+▪  Coding: Solved Two Sum problem.
+
+▪  Project Discussion: Explained Spring Boot applications, API usage, and user
+
+authentication.
+
+Tips and Tricks
+
+1.  Focus on foundational DSA topics; clarity in stack, queue, and sorting implementations is
+
+essential.
+
+2.  Be thorough with your resume, especially the projects section.
+
+3.  Practice solving puzzles and moderate coding problems quickly.
+
+4.  Work on clear and concise communication for interviews.
+
+5.  Familiarize yourself with tools and platforms like HackerEarth.
+
+Preparation Docs/Playlists
+
+•  GeeksforGeeks: Comprehensive DSA and puzzle resources.
+
+•
+
+LeetCode: For coding practice.
+
+•  Playlists:
+
+o  Abdul Bari (DSA YouTube Series).
+
+o  Coding Ninjas or Striver's SDE Sheet for interview prep.
+
+Good luck to all aspiring juniors!
+

@@ -1,0 +1,74 @@
+**Dhivyadharshini S B - Information Technology Technology Summer Intern at Barclays**
+
+**About the Company**:
+
+Barclays is a major multinational bank and financial services company headquartered in London, United Kingdom. Founded in 1690, it is one of the oldest banks in the world with a rich history in the financial sector. Barclays operates in over 40 countries and provides a wide range of financial services, including retail banking, commercial banking, investment banking, and wealth management. They are actually the first company to introduce credit card in UK
+
+Barclays Global Service Centre, India is a global capability center providing best-in-class Technology, Operations and Functions services to Barclays business(es) and customers globally.
+
+**About the Role**:
+
+During the internship I was put into a business area called “Functions Technology”. Usually Companies will allocate interns to various Business Areas(BA) according to their requirement. The domain was actually good. And yeah I should admit only the struggle is till you get an internship in a company but when you start doing your intern and when you start to experience the office life, it will be very nice. So try going to office everyday though you get work from home opportunity (This suggestion is only based on my intern period). I was supposed to work in an on-going project. So basically I was into Data quality framework and did data quality check for the most part of my intern and here and there I also involved myself in learning about how unstructured data is stored and that introduced me to vector db ,Pyspark.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* An Online coding contest in SHL platform
+* Only 1 round of interview( Tech + Hr)
+
+**Online coding contest in SHL platform**:
+
+Usually if the platform is SHL, then the questions will be comparatively easy and less complex.
+There were 2 sections-25 questions totally- 1hour time(not very sure)
+
+* + 1st section – (20 questions)
+
+MCQs(Aptitude, reasoning, concept related especially backend, db related)
+
+Difficulty level: Medium
+
+* + 2nd section – (5 questions)
+
+No DSA questions. All the five questions were SQL query- related
+
+So basically they will give the scenario and table and you just have to write a appropriate query alone for the given requirement.
+
+Difficulty level: Medium to little hard
+
+**Interview Round (Tech + HR):**
+
+My Panel number was very chill and considerate. He made sure the candidate is not panicking and nervous. The interview went for almost an hour.
+
+Technical:
+
+Very first it started as usual I introduced myself ( after this he enquired about my native )and he asked me to walk him through my resume and yeah as I started with my Hackathon participation and he started questioning from there about “What did you do?”, “ how did you do?” and moved to my projects and he started questioning about the implementation, technical questions related that particular tools and technologies. In between I had concept -related questions too
+
+* + Related SQL joins – various types
+  + Sorting algorithms ( almost all easy to complex algos with an example)
+  + Conceptual qns related to trees and graphs like DFS, BFS – explained with an example
+  + I was asked to write a code to find the prime factors of a number ( I wrote in python) and explained him
+
+HR:
+
+In between tech qns, I had hr questions too here and there
+
+* Why CEG?
+* What after CEG?
+* Where will you see yourself in next five years?
+* What do you know about Barclays?
+* Barclays usually have “RISES-Respect, Integrity, Service, Excellence and Stewardship” principle and so more HR will be related to that like they might ask you how did you apply this RISES principle when you ‘re heading your project team kind of?
+* When you come to know that the interview is not interrupting you while answering and trying to listen well, you must try to put yourself in best possible way at that momemt.
+
+In the last part of the interview, I asked him a few qns since it’s a fintech company I asked him “How much might happen in a day in Barclays and how much revenue will the bank make out of it? And what is the best thing about Barclays that you feel? And How did you find RISES principle applied in your worklife?
+
+**TRICKS THAT I FOLLOWED** :
+
+* First of all, Have patience, prepare consistently and hold out hope.
+* I used ACM materials and Striver’s lecture helped me a lot and indiabix website for aptitude and few other materials.
+* But meanwhile, try to build your resume which is equally important when you get selected for an interview.
+* At least be thorough in the basics and in Arrays, Strings, hash maps and better know the rest of DSA concepts if not how to code.
+* Also prepare yourself to tackle any sort of questions from your any nook and corner of your resume
+* Mostly in interviews, they will try to check your understanding about the concepts.
+* While going for an interview, make sure you visit their website and have a decent knowledge about that company and get some suggestions from someone who already gone for the same interview the previous year or someone who worked there.
+* And during the interview , try to give your 100% and don’t try to manipulate much.

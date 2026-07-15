@@ -1,0 +1,133 @@
+BATCH : 2019-2023
+FOR :  Internship
+COMPANY : SAP Labs, Bangalore
+ABOUT THE COMPANY : SAP SE is a German multinational software corporation that
+develops enterprise software to manage business operations and customer relations.
+NUMBER OF ROUNDS : 4
+1.
+Online Test
+2.
+2 Technical Rounds
+3.
+1 HR Round
+ONLINE TEST :
+This round consists of two coding questions with a duration of 45 min .
+1.
+Input : An unsorted array and an integer k. (k >=1)
+Output : Print the kth smallest element in the unsorted array.
+K’th Smallest / Largest Element in Unsorted Array
+2.
+Input : An integer array of length n with elements 0 to n-1.
+Output : Print an array where the elements have to be rearranged, where the elements are
+taken as indices and the indices as elements .
+Example :
+Input :  [3, 0, 1, 2]
+Output : [1, 2, 3, 0]
+Let a be the input array .
+a[0] = 3 ; a[1] = 0 ; a[2] = 1 ; a[3] = 2
+Output should be :
+a[3] = 0;  a[0] = 1 ; a[1] = 2 ; a[2] = 3
+1st TECHNICAL ROUND : 35 - 40 min approx.
+●
+I was asked to introduce myself and then asked to explain about any one of my projects.
+I explained a project related to Database Management System, after which I was asked
+to write 2 SQL queries based on the relations used in my project. I was asked to share
+my screen with a Notepad open for writing the queries.
+First query was based on aggregate function.
+Second query was based on Joins.
+●
+Then, I was asked to explain the solution to the following problem.
+Removing duplicates in an unsorted array.
+(Tip - Start from Naive approach , then proceed to optimised solution)
+Remove duplicates from an unsorted array
+I was asked to type the code for the naive approach in the same notepad.
+●
+After which I was asked questions on various CS concepts. I chose to explain in CPP
+wherever necessary.
+○
+How is exception handling done in CPP ?
+○
+Explain the difference between array and linked list.
+○
+Difference between Unique and Distinct in SQL.
+○
+Explain various constraints in SQL.
+●
+Finally, I was asked to provide a solution for a puzzle. The puzzle is as follows :
+Given a 5L jar and a 3L jar and an infinite supply of water, how will you measure 4L ?
+(General Tip : Do not lose hope when you do not know the entire solution. It is our
+approach to the given problem that matters)
+2nd TECHNICAL ROUND : 45 - 50 min approx.
+●
+I was asked to introduce myself and was asked about my interview experience in the first
+round.
+●
+I was asked to explain a project other than the one asked in the previous round.
+●
+Then, I was asked to explain the concept of abstraction in OOPS with an example. I was
+asked to type the code in a notepad.
+●
+After which I was asked a few questions in CS concepts :
+○
+Explain the types of indexing in DBMS.
+○
+What is the data structure used in LRU Cache ?
+○
+Explain the Threading concept in OS and the functions used.
+○
+What is Macro ?
+○
+In Python, which data type is mutable and which is immutable ? And why is tuple
+immutable ?
+Why is tuple immutable in Python
+(I was asked this question because I had mentioned Python in my resume)
+○
+Explain the difference between vector and list in STL.
+●
+I was asked to explain call by value and call by reference where I had to type an
+example code in the same notepad.
+●
+Then, I was asked to type the code for implementing a queue using 2 stacks in the
+Notepad. Since there was no explicit mention to code the stack data structure from
+scratch , I used stacks from STL in CPP.
+Implement queue using 2 stacks
+Then I was asked to explain the time complexity of various operations in the queue
+implemented.
+●
+I was asked to solve a puzzle . The puzzle is as follows :
+There are 3 ants in the 3 corners of an equilateral triangle . If the ants start to move at
+the same speed, what is the probability that the ants will never meet ?
+●
+Finally, they asked me if I had any questions. I asked a couple of questions.
+HR ROUND : 15 min
+●
+I was asked to introduce myself and then explain how I secured a seat in CEG.
+●
+Then I was asked to put forth the questions I had.
+The interview was completed.
+KEY TAKEAWAYS FROM THE INTERVIEW PROCESS :
+●
+Know your resume well.
+●
+Be strong with the CS concepts.
+●
+Puzzles are compulsory when it comes to SAP. Try to go through the puzzles asked in
+SAP.
+●
+Refer geeksforgeeks archives for a particular company before sitting for an online test or
+for the interview process for that company.
+●
+Do not lose hope when you aren’t able to solve a question fully.
+TOPICS TO BE FOCUSED :
+●
+OOPS
+●
+Database Management Systems
+●
+Data Structures and Algorithms
+●
+OS
+●
+Whatever you have put in your resume
+BEST WISHES !!
+Vasudha. E

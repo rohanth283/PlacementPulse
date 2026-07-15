@@ -1,0 +1,69 @@
+Interview Experience
+
+Name: Adhithyan S
+Roll No: 2018115006
+Company: Tekion Corp
+
+Round 1: Online coding round
+
+This round was conducted on the Hackerearth platform. Two coding questions were asked and I
+was able to solve both. The questions are as follows
+
+1. Minimum size of the board (Minimum Size Of a board | Practice Problems)
+
+2. You are given a smartphone with an efficient charger. The initial amount of the charge in
+the smartphone is S, it charges the smartphone at different rates depending upon the
+amount of charge available in the phone to prevent the battery of the phone from any
+damage. Assuming that the current amount of charge available in the phone is C, the
+rates at which the phone is charged
+
+R in units per minute are as follows:
+Assuming the current charge level is C, the rates R of charging are (in units per minute)
+0≤ C ≤ 10, R = 10
+11 ≤ C ≤ 230, R = 5
+231 ≤ C ≤ 559, R = 8
+560 ≤ C ≤ 1009, R = 2
+1010 ≤ C ≤ 5000, R = 7
+5001 ≤ C ≤ 10000, R = 8
+10001 ≤ C ≤ 1000000000, R = 3
+
+SAMPLE INPUT:
+2
+0 5
+10 50
+
+SAMPLE OUTPUT:
+
+1
+7
+
+Round 2: Technical Interview 1
+
+The interviewer introduced himself and asked me to introduce myself. He asked some technical
+questions like
+
+1. What are the ACID properties?
+2. What are the necessary conditions for deadlock?
+3. Explain the concepts of OOPS
+4. What is class and object in OOPS?
+5. What is Heap Sort?
+
+Next he asked me to screen share the IDE and jumped into coding questions.
+
+Implement heap sort.
+
+1.
+2. Check if a given Binary Tree is a BST.
+
+Round 3: Technical Interview 2
+
+It began with my introduction and he asked some questions about my projects. He directly
+asked coding questions.
+
+1. Print the maximum contiguous subarray sum
+2. Given an array consisting of 0, 1 and -1 print all the subarrays with a given sum.
+
+Round 4: HR Interview
+
+Usual HR interview full of behavioral questions for 30 mins.
+

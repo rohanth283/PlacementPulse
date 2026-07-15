@@ -1,0 +1,201 @@
+BARCLAYS INTERVIEW EXPERIENCE 
+ 
+ 
+ 
+  FOR INTERNSHIP 
+1. PERUMALL RISHI P 
+2023503551 
+INTRODUCTION : 
+ 
+ 
+Barclays first sent a gform for the registration of candidates for 
+their online exams. And out of more than 400 students applied they shortlisted 
+merely 180 students for online assessment based on their cgpa(8.3 and above). 
+As at that time I had a cgpa of around 8.5 I was shortlisted for the OA which 
+had 20 mcq’s(technical mainly output based) and 5 SQL queries(difficulty varies 
+from 3 questions easy and 2 questions medium) main constrain in this OA is 
+time management as all of these should be completed within 45 minutes. And 
+after the OA after a week they sent the shortlisted list for the next round in 
+which they kept on adding names at the end and the final shortlisted list 
+contained about 47 candidates(Even though some of the candidates attended 
+only 24 questions out of 25 and cannot answer the last SQL also got shortlisted 
+as 47 is a large amount in 180 candidates). I have answered all the 25 questions 
+and 5 SQL queries passed all the test cases so I am somewhat sure that I would 
+go into the next round and fortunately I was shortlisted. 
+ROUND-1(TECHNICAL ROUND) : 
+ 
+Barclays conducted 2 rounds of interview out of which the first round is 
+the technical round. There were around 10 panels for the interview and each 
+panel consisted a single interviewer. Out of those 10 panels 4 panels were 
+difficult 3 panels were normal and 3 panels were very easy like they asked HR-
+Level questions at the technical round. As always my luck I went into one 
+among the 4 difficult panels and I was listed as the third candidate to attend 
+the interview at my panel. The thing is that when I attended for Appian 
+interview you can communicate with others who have completed their 
+interview to get their insights but Barclays strict doesn’t allow this and they 
+send all the completed candidates to a different area. So we were blank about 
+what is happening in the interview room but I read my seniors interview 
+experience as they all said it is the easiest interview process they ever attended 
+so I am confident that it would be simple, but hold on folks it is clearly the 
+opposite that went for my panel. After the previous candidate before me 
+completed his interview I was called next and I went in and the first thing he 
+did his read my resume thoroughly pin-pointing at critical tech skills. I was 
+asked to introduce about myself as usual the interviewers don’t listen to your 
+intro instead at that time they would read what and all you have added in your 
+resume and google it to ask potential questions from it. So after this he asked 
+about my strengths and skills I explained it to him. And he directly went onto 
+something that I haven’t even specified in my resume ‘matplotlib’. He given me 
+a set of data like it is the shopping list of region specific customers in certain 
+months and he wanted me to plot that in any way I know using any language. 
+So I went on with “charts.io” package from node js and explained how would I 
+pull the data from api’s and plot it and I also explained about matplotlib in 
+python and told him that I was never used to visualization in python and I 
+would go with node js. He was happy with my answer and moved on to the 
+next question where he saw I used the word JWT Authentication in my project 
+and asked me how does it works. I explained the concept behind it and he 
+went further deeper and asked how does the passwords are getting hashed 
+and I explained him the usage of bcrypt he was still not happy and said some 
+certain protocol numbers and asked me which protocol I was using I had no 
+answer for those specific protocols and I said only I know the tool to hash and I 
+am currently reading its protocols. Then he moved on to cryptography and 
+asked how do you encode your data and how would you retrieve the data at 
+the other end without dampening of data. I told him about the concepts of 
+middleware and basic cryptography techniques to mask the data which  
+remembered when studying computational thinking in first semester. Then he 
+asked how would you make your product available for every servers. I 
+explained him the process of horizontal scaling and he was fine with it. Then he 
+moved onto dbms and he wrote about 4 tables and asked me to retrieve 
+certain data from the tables. It involved using groupby, join, subquery and 
+having clause finally sorted by using order by clause. After that he asked me 
+about row indexing methods that I know. I explained him about clustered and 
+non-cluster indexing. Then he again wrote a table and asked me to manipulate 
+the table based on the data being inserted and I asked him whether I can 
+proceed with procedure he green flagged me and I wrote a PL/SQL procedure 
+which generally modifies a date when the region column is changed you can do 
+it by using cursors in procedures. Then he moved on to dsa and asked me 
+whether I know doubly linked list. I said yes and he asked me to write the code 
+for deletion in the doubly linked list at a specific node. I wrote a pseudocode 
+and diagrammatically explained him what is happening. Then he moved on to 
+networks and I told him that we are currently pursuing networks and OS in this 
+semester but it doesn’t stop him a from asking questions. He asked me to 
+explain about the protocols I know. I explained him TCP and UDP and he asked 
+a follow up question of explain the seven segments in the networks layer. At 
+that time I was able to remember only 4 and I explained it to him he said that 
+was fine. Then he moved onto OS and he gave me ABC.dat file and asked me to 
+write a command that remove all the junk character from the file(characters 
+other than alphabets) from the file and store it in a new file. At that time, I only 
+know about grep, sed and awk I managed to write a simple program in awk 
+that does this work. Then he asked about cybersecurity while working in bank 
+kind of systems how would you ensure security. He asked me to explain about 
+the different types of ai’s that I know. I explained him about ai, gen ai, open ai, 
+agentic ai and so on. He followed up with give examples for each of those. Then 
+he asked me whether I have knowledge on github as I didn’t host any project in 
+github he asked the reasons for it. After he asked me about various github 
+commands like clone, merge, commit, pull, fork and after I explained he then 
+asked me whether I know about BOLT AI . This is the point where I said I 
+completely have no clue. Then he stopped the interview(in between I think he 
+is waiting for this word I don’t know in the complete interview). He asked me 
+whether I have any questions for him. I asked him about the tech stacks I would 
+work at Barclays. After one hour of long gruelling interview it came to an end 
+and he said “it has been nice talking to you man” but definitely not the same 
+from me. I came out with a sigh of relief and a bit of confidence that I have 
+done reasonably well. 
+KEY POINTS : 
+ Be well prepared with dbms concepts and sql querying (Oracle is 
+preferable). 
+ Go through commonly asked dsa questions of Barclays. 
+ Know a little bit about LLD(Low Level Design) and revise OOPs concept 
+thoroughly. 
+ And last but not the least you should have some luck by your hand as 
+only the 4 panels out of 10 panels the interview was tough the other 
+guys easily escaped with simple dsa and sql querying and the interview 
+went for only 20 to 25 minutes for some candidates. Only in your bad 
+day you will get on to me like I attended a one hour long interview. 
+ 
+ROUND – 2 (Technical + HR) : 
+ 
+After the first round was completed for all the candidates they 
+shortlisted 25 students out of the 47 initially qualified students. I was fortunate 
+to be one among them. And I noticed that everyone from my panel was 
+eliminated except me. Then I came to realize they have relatively selected 
+candidates from every panel. When asked what about the second round they 
+said it will be project deep dives and situation based hr questions. In the 
+second round I was announced as the first candidate and without a breathing 
+time they asked me to get into the room. This was so quick such that I actually 
+forgot my intro and somehow managed when he asked tell me about yourself. 
+Then he told me that we will divide it as 50 to 50 technical and hr divided. He 
+was the sweetest person I have ever talked in 5 rounds of interview(3 in Appian 
+and 2 in Barclays, don’t ask me about Appian they told me silliest of reasons to 
+reject me after going through all the 3 rounds). The interviewer asked shall we 
+proceed with the tech stacks you know. I said yes and he asked me some basic 
+questions about what is node js, why react, for backend development do you 
+use node js or react and why, why react is not suitable for backend 
+development. He asked me about the best feature I like using node js. I 
+answered him npm packet manager. He asked me why and what are the things 
+you have done using npm. I explained him about creating live servers and all. 
+Then he asked how components are transferred from one state another state 
+for example he draw a 3-tier client server architecture and asked to explain me 
+what is going behind the abstraction and what are the tools you know used for 
+this purpose. I explained the concepts of POSTMAN and REST api’s and detailed 
+him about CRUD operations. I also explained him about middleware and 
+horizontal scaling. Then he moved on to MONGO DB and asked questions like 
+why you prefer mongo db, is mongo db indexed or not indexed, if not indexed 
+then give me the command that makes it indexed according to user, how do 
+you create a collection, what is a document in mongo db, mongo db better 
+than RDBMS. Then he dived on to some dbms questions. Why normalization 
+and denormalization, is cartesian product good or bad, if bad what is the 
+alternative, give real life examples of worst cases of cartesian product, what are 
+the aggregate functions I know, explain me about some window functions, 
+when to use surrogate key, is surrogate key good or bad, types of indexing 
+methods, difference between rank and dense rank, when will you go for rank in 
+real life scenarios, how to optimize queries, drawbacks of RDBMS. Then he 
+went on to OOPs concepts where he asked questions which were never topic 
+specific he would tell some scenarios and I want to identify which phenomenon 
+of OOP here is taking place. For example, he asked me a class just has some 
+declarations and no variables and asked me what is the reason for creating this 
+pseudo class. The answer is runtime polymorphism as the methods will be 
+overridden in the child classes like this no question was specific and it was 
+seriously testing your knowledge of OOPs in real life scenarios. Then he asked 
+me about what is the favorite feature you like in c++, I explained him about 
+friend classes. And he jokingly asked me whether I would use this while 
+working in Barclays company. I strictly said no as Barclays contains sensitive 
+information of persons in their database. He was happy with this much 
+questions for technical purpose and with a smile he said I have grilled you 
+enough for a internship purpose and we can move on to scenario based 
+question. By this time snacks arrived and we took a bite and continued the 
+interview(in between he was very heartious to share it with me). He asked you 
+have written code for 6 months for a project and one of your friendly has 
+deleted the code accidentally or deliberately that you don’t know and you have 
+presentation tomorrow and your talent exposure chance is based on this what 
+will you do. I answered this in a more saving my friend nature way but he 
+reminded me that when a boat is going to sink you have to save yourself first 
+before lending your hand to others. Then he asked me about situations if you 
+have mis-communication between your team and it is your fault and how 
+would you resolve it. The he asked me to explain a situation where I have 
+followed any one of the Barclays principle(RISES). I explained him about a story 
+that tells about integrity. And that’s time it has already been nearly an hour he 
+asked me whether I have any questions for him. And winded up the interview 
+by saying looking forward to see you. That’s when I got a hope I would get 
+selected and it happened fortunately so. 
+KEY POINTS : 
+ The second round mostly contains project deep dives so study 
+thoroughly about your projects and the things you have used in your 
+project. 
+ They look for confidence in hr round so be confident about your answer 
+as everyone have different answers no answer is correct it’s all about 
+delivering your thoughts. 
+ Finally try something out of the box to impress the interviewer by 
+including many real life scenarios as he is the one to select you for the 
+intern. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALL THE BEST 
+ 

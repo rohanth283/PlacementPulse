@@ -1,0 +1,69 @@
+| About | the Company |     |     |     |     |     |     |
+| ----- | ----------- | --- | --- | --- | --- | --- | --- |
+Appian Corporation is an American cloud computing and enterprise software company
+headquartered in McLean, Virginia, part of the Dulles Technology Corridor. The company sells a
+platform as a service for buildingenterprisesoftwareapplications.Appianisaleadingpioneerinlow
+codeplatformsandprocessautomation.Itwasfoundedin1999.
+| About | the Role |     |     |     |     |     |     |
+| ----- | -------- | --- | --- | --- | --- | --- | --- |
+I was recruited as a Software Engineer. It mostly involves developing the Appian product
+and needs a proficiency in Java. Previous internship experience helps but if not it's not an
+| issue.      | Git and      | Github   | skills are          | an additional | plus. |     |     |
+| ----------- | ------------ | -------- | ------------------- | ------------- | ----- | --- | --- |
+| Preparation |              | Strategy |                     |               |       |     |     |
+|             | ● It's never | late     | to start preparing. |               |       |     |     |
+● Choose a programming language(Java/C++) you are comfortable with before the
+|     | preparation | and | start using | leetcode/GFG/HackerEarth. |     |     |     |
+| --- | ----------- | --- | ----------- | ------------------------- | --- | --- | --- |
+● Start with basics such as Arrays and Strings. Have a strong foundation in recursion
+|     | before | moving | with Graphs, | DP, Trees |     |     |     |
+| --- | ------ | ------ | ------------ | --------- | --- | --- | --- |
+● Daily Practice is important and also refer the previously asked coding question with
+|     | respect | to the | company. |     |     |     |     |
+| --- | ------- | ------ | -------- | --- | --- | --- | --- |
+● Some companies might also ask MCQs about Java, React, C++, OOPS and SQL in
+|     | the first | round. |     |     |     |     |     |
+| --- | --------- | ------ | --- | --- | --- | --- | --- |
+● Have an in-depth level of understanding of your projects mentioned in the resume
+|           | (The Projects |            | can be simple | but you | should | know the | in and outs). |
+| --------- | ------------- | ---------- | ------------- | ------- | ------ | -------- | ------------- |
+| Placement | Drive         | experience |               |         |        |          |               |
+Online Test
+|     | ● Java and | OOPs | MCQs |     |     |     |     |
+| --- | ---------- | ---- | ---- | --- | --- | --- | --- |
+● 2 Technical coding questions (1 medium, 1 Easy) which we were asked to solve in
+Java
+| Technical | Round- | I   |     |     |     |     |     |
+| --------- | ------ | --- | --- | --- | --- | --- | --- |
+● Asked about my internship experience and Project asked questions like,
+○ What was the hardest part during the internship and how did I overcome it?
+|     | ○   | What | did I do during | my internship? |     |     |     |
+| --- | --- | ---- | --------------- | -------------- | --- | --- | --- |
+
+○ Chose one of my projects and asked me to explain it on a higher level.
+○ Why chose the specific tech stack for the project?
+● After this a code pair session with the interviewer, a Hard level Java OOPS question
+was asked. Solve the question interacting with the interviewer. It is fine if you don't
+arrive at the exact solution but think out loud. Provide a plausible solution if you even
+don't know the exact syntax or solution.
+Technical round - 2
+● Same general questions about my project and internship were asked in this round
+too.
+● https://leetcode.com/problems/subarray-sum-equals-k/description/ was asked to be
+solved
+HR Round
+● Personal Information which was mentioned in the Resume was asked.
+● Have a question about the company in hand. Always ask a question about the
+company or role at the end (It shows your interest)
+Tips and Tricks
+● Interact with the interviewer, not just answer the questions they ask.
+● Start with the basics in DSA and go to DP, Graphs, Trees etc..
+● Don't get dejected on any rejection of the interview or online tests, it's an experience.
+There is always a company left to attend.
+● Learn about the company before going into the interview.
+● Try leetcode problems without looking at the solution even if it takes a long time.
+● Try to avoid backlogs because most of the companies mention “No Current Arrears”.
+Placement Playlists and Documents
+Striver playlists for DP, Trees, Graphs in youtube.
+Document:
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems

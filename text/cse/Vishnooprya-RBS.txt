@@ -1,0 +1,74 @@
+ROYAL BANK OF SCOTLAND (RBS) 
+ 
+ The RBS Group is a large international banking and financial services company. The Group 
+provides a comprehensive range of financial services to retail, corporate, and financial 
+institutions. 
+Placement Process: 
+ 
+The applicants were filtered based on CGPA and then the placement procedure took place in 
+two rounds. The first online test round and an online face-to-face interview round. 
+ 
+Round 1: Aptitude, Verbal, Technical Round: 
+First round was for 2 hours on Mettl tests platform. It consisted of MCQs and 3 coding 
+questions. 
+MCQ Questions were based on Quantitative aptitude (profit loss, probability etc.), Logical 
+Reasoning (directions, blood relations etc.), Verbal Aptitude (language related questions like 
+synonyms, antonyms and comprehension type) and Technical Questions (mostly related to 
+DBMS, OS and data structures). The coding questions were array-based.  
+After completing the first round, the toppers were selected for the second interview round. 
+ 
+Round 2: Technical and HR Round: 
+This round consists of 2 panels (Technical and HR) 
+Technical Questions: 
+1. Introduce yourself. 
+2. What are the subjects you are familiar with and which are you most comfortable? 
+I chose Database Management Systems, so most of the questions were based on 
+DBMS. 
+3. What is Normalization? 
+4. What is 2NF and explain with an example used in your project. 
+5. What is a trigger and have you used it in your project? What are the types of triggers? 
+6. What is a stored procedure? What are the advantages/disadvantages of using a stored 
+procedure rather than executing as individual queries separately? 
+7. What are some methods to improve the speed of execution of database queries? 
+(Indexing etc.) 
+ 
+ 
+ 
+Project Related questions: 
+ 
+I had mentioned 3 projects in my resume and they chose two and asked to explain 
+them in detail. 
+The asked the following questions about the android app I had developed. 
+1. What version of Android is your app compatible with? Why did you choose that 
+version?  
+2. What language is it developed in and what tools have you used? 
+3. Did you have any way for clearing up the data to free up space once the data is not 
+needed? (housekeeping) 
+4. What is the difference between your application and the already existing ones? 
+5. Have you released the application on the play store?  
+HR Questions: 
+1. What is good teamwork according to you? What are the characteristics of a good 
+team? 
+2. What is your aim? 
+3. What do you know about RBS from PPT and what do you think you'll be working on? 
+4. How do you keep yourself updated about technology? 
+5. If people in your team listen to your idea, but do not implement it, how will you 
+react? 
+6. What is your favourite domain? What will you do if you get a project in a domain that 
+you are not interested in? 
+These were the questions asked to me. I had not answered 1-2 questions with clarity but 
+overall it was a good experience.  
+Topics to be focussed: 
+ Database Management Systems 
+ Data Structures and Algorithms 
+ Operating Systems 
+ 
+Takeaway: 
+Having a good knowledge of the basics of DBMS, OS and Data structures, having clear idea 
+about everything mentioned in the resume and confidence and clarity to answer the HR 
+questions will help to get placed in RBS. 
+Thank you. All the Best. 
+ 
+ 
+Vishnooprya M 
+vishnoopriya11@gmail.com 

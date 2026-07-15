@@ -1,0 +1,74 @@
+**SANJAY R - INFORMATION TECHNOLOGY
+ICG INTERN AT CITI CSC**
+
+**ABOUT THE COMPANY:**
+
+Citi Solutions Centre (CSC) is a cornerstone of Citigroup's global operations, serving as a hub for innovation and excellence in technology, finance, risk management, and operations. With centres strategically located across the world, CSCs are designed to leverage diverse talent pools and deliver high-quality, centralized services. These centres are integral to Citi's strategy of enhancing operational efficiency, optimizing processes, and driving technological advancements. By supporting Citi's global network, CSCs ensure the bank remains at the forefront of the financial industry, delivering seamless and reliable services to clients worldwide.
+
+**ABOUT THE ROLE:**
+
+**Institutional Clients Group (ICG) within Citi Solutions Centre (CSC)** is pivotal in supporting Citigroup's global operations, focusing on delivering comprehensive technology and operational services for institutional clients. ICG at CSC is dedicated to developing and maintaining the infrastructure that powers Citi's extensive range of financial services for corporations, governments, and institutional investors. This includes managing complex systems for capital markets, transaction services, investment banking, and risk management. By utilizing cutting-edge technologies and a global pool of talent, ICG within CSC ensures Citi can offer seamless, secure, and efficient financial solutions. This enables Citi to meet the diverse needs of its institutional clients while driving innovation and maintaining a competitive edge in the global financial landscape.
+
+**OVERVIEW OF THE PROCESS:**
+
+The overall process consisted of
+
+* An Online coding contest in SHL platform
+* Interview Round 1 (Technical) – in CUIC
+* HR Round
+
+Domains offered for Intern:
+
+* EO&T – Enterprise Operations and Technology
+* ICG – Institutional Clients Group
+* PBWMT – Product Development
+
+**ONLINE CODING CONTEST IN SHL PLATFORM:**
+
+* The coding contest was conducted on the SHL platform. Typically, online tests on SHL are easier compared to platforms like HackerRank, HackerEarth, or a company's proprietary platform, so don't be too concerned about the difficulty level. The contest comprised three sections: two aptitude sections and one coding section.
+* The aptitude sections included straightforward questions, such as basic aptitude problems, technical multiple-choice questions, and topics like microservices and Apache Kafka. A unique aspect of SHL is that you cannot move to the next question without answering the current one, and once you move on, you cannot return to a previous question. On the bright side, there are no negative markings.
+* The third section was focused on developing a simple app using MEAN stack:
+
+1. We were asked to develop a simple front-end using AngularJS to get some details in a HTML form and send it the back-end.
+2. ExpressJS is used as backend framework and using NodeJS to connect to MongoDB and store the data.
+
+* In total, around 60 students were shortlisted for the interview process for the ICG intern role.
+
+**INTERVIEW ROUND 1 (TECHNICAL):**
+
+This round went on for 1 hour 15 minutes.
+
+* I started off with my introduction.
+* They asked me which language I am comfortable with and why.
+* I said C++ and they asked me deep OOPS concepts in C++.
+* They also questioned me OOPS in Java since I had mentioned that I know Java too.
+* Then they asked me questions on OS in areas of synchronization, monitors, etc.
+* In DBMS they asked about Normal Forms and Joins.
+* They asked me a simple DSA question using Linked List. To find the minimum element in a linked list and asked me to optimize the approach.
+* Then they gave me a puzzle to solve:
+
+Consider there are 100 doors. And I will pass all the 100 doors 100 times and toggle the doors (Open if closed/Close if open). Initially all the doors are closed and in the 1st pass I will toggle all the doors. In the 2nd pass, we should toggle the doors in multiples of 2 (Door No: 2, 4, 6,…). Similarly in the subsequent passes we should toggle the doors in multiples of N in the Nth pass. The question is, “How many doors will be open after the 100th pass?”
+
+* They didn’t need the exact answer. They only looked into my approach for solving the problem and my thinking ability.
+
+**HR ROUND:**
+
+It went for around 15 – 20 mins. The HR introduced himself to me and it was like a casual talk.
+
+* Tell me about yourself, hobby, projects, family, etc.
+* Do any of your parents are in govt job, had been working in Citi, etc
+* Why do you choose Citi, etc.
+* Any questions for him
+
+She was satisfied with my answer and yeah… 11 candidates got ICG intern and I’m one among them.
+
+**MY PREPARATION STRATEGY:**
+
+* I didn’t prepare in my 4th semester holidays in a daily basis. I had spent my holidays in my summer project, a bit on intern preparation and in leisure. But as soon as the schedule of internships and placements are given by the CUIC, I did rigorous preparation. When I mean rigorous, I map it to its exact meaning without a cheat day. I was able to complete my intern training within 2 weeks in addition to the college work. I made sure to complete the preparation before the first company arrives. The reason why I mention this is, it’s not the duration of your preparation matters, covering all the topics, practising the needed matters the most.
+* I used ACM CODE documents for my preparation
+* Before every online test/ interview, I would surf the net and read the past internship experiences of that particular company. This gives an idea of how difficult the test would be, what are their expectations, etc
+* And in addition, I approached my seniors who got intern in the concerned company and asked tips if there are any.  Interaction with seniors literally helped me to know the evaluation pattern, what do they expect, etc
+* If I don’t know answers for the questions asked in a test of a company, I made sure to know that before the test of next company.
+* Rejections do affect my confidence. But when you fall down, make sure that you are getting up from that.
+* I had a casual attitude when I got used to the interview process after attending the tests of 4 – 5 companies. That really helped me to recover when I fail.
+* I’m sure that the internship season would be stressful. You’ll have continuous tests, interviews, you have to manage your academics as well, lot of club stuffs and lot more. It was really difficult to manage all these, till I learnt how to do so. Every time when I feel stressed or down, I’ll let out my thoughts to my parents and my friends. Always only when you keep the stress with yourself, it hangs with you so let it go.

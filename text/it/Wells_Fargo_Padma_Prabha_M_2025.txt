@@ -1,0 +1,379 @@
+Padma Prabha M
+
+ Information Science and Technology
+
+Intern Analyst in Wells Fargo
+
+About the Company:
+
+Wells Fargo & Company (NYSE: WFC) is a leading financial services company that
+
+has approximately $1.9 trillion in assets.
+
+We provide a diversified set of banking, investment and mortgage products and
+
+services, as well as consumer and commercial finance, through our four reportable
+operating segments: Consumer Banking and Lending, Commercial Banking, Corporate
+and Investment Banking, and Wealth & Investment Management.
+
+Wells Fargo ranked No. 34 on Fortune’s 2024 rankings of America’s largest
+
+corporations. In the communities we serve, the company focuses its social impact on
+building a sustainable, inclusive future for all by supporting housing affordability, small
+business growth, financial health, and a low-carbon economy.
+
+Overview of the Process:
+
+The overall process consisted of
+
+•  An Offline coding contest in SHL platform (Conducted in IST, CEG)
+
+•
+
+•
+
+Interview Round 1 (Based on Resume, Technical) – in MIT Campus
+
+Interview Round 2 (general, HR) – in MIT Campus
+
+I applied for the following position:
+
+R-389220 Intern Analyst
+
+Online coding contest in SHL platform:
+
+The coding contest was conducted in SHL platform. All the instructions given by
+
+the platform should be followed strictly like turning ON camera, microphones. The test is
+of 4 sections namely 2 aptitude sections and 2 coding sections.
+
+The technical rules are you can’t move to the next question without answering
+
+the current question. And once you have moved from a question, you can’t move to that
+question. No negative markings.
+
+The aptitude section:
+
+•  English aptitude.
+•  Business Analytics.
+
+The 3rd section consisted of 2 coding questions. (40 mis)
+
+1.  Find the count of non-repeating alphabets in the given string.
+
+2.  You have two arrays with repeating positive integers. The count of the non-
+
+common numbers from the two arrays must be returned.
+
+The 4th section consisted of only one question. (10 mins)
+
+1.  Graph Problem – The Famous Konigsberg Bridge Problem is described in detail
+and our task is to find the given graph ends up like the given bridge or can it be
+solvable. Then return true if solvable or false if unsolvable.
+
+22 students were shortlisted for interview process of Intern Analyst.
+
+TIPS for Aptitude Sections:
+
+•  Have a basic English Knowledge. Connect the question with each of the 4 given
+options. If you don’t know the answer then don’t get stressed, stay calm and
+answer according to your conscious, believe on your 1st choice.
+
+•  Logical Thinking is the key along with some maths. For business analytics kind of
+questions, read the entire question because the answer will be just hidden in.
+
+•  Practice speed math, just a transferable skill. Trust me it helps a lot.
+
+Interview Round 1: (45-50 mins)
+
+(Based on Resume)
+
+This round was purely based on our Resume. The questions were general. There
+were 4 panels (each with one member) 2 panel for Round 1 and 2 panel for Round 2.
+Questions and their complexity depends on the panel you go. Some panel members can
+test your deep technical knowledge in both rounds (purely depends upon the
+interviewers).
+
+Sir named Basker is my interviewer. After going through my resume he started to ask
+
+the following questions:
+
+•  First, are you ready to start the interview?
+
+•
+
+Introduce yourself.
+
+•  You have mentioned some projects in your resume, do you do these projects on
+
+your own interest or they are just part of your curriculum?
+
+•  Point the project that you have done apart from your curriculum (based on
+
+interest)
+
+Sir started reading about that project.
+
+•  Why you chose hardware over software? (I like to work in embedded systems
+
+and IoT, hence I chose to work on that project)
+
+•  Explain me one project that you are confident on, from your resume.
+
+•  Can you explain me about the workshops you have attended?
+
+•
+
+Is this project a continuation from the learning of the workshop?
+
+•  Explain me the idea of the hackathon and your contribution in it.
+
+•  Explain me the Gaming Projects that you have mentioned here.
+
+•  Shall we move to the Technical Side?
+
+ (Technical):
+
+•
+
+I am going to ask questions from OOPS, DB, DSA. Choose one to start. I chose
+
+OOPS.
+
+•  Why do we need structing?
+
+•  What are the 4 main concepts of OOPS? Explain each in detail.
+
+•  What is a subclass?
+
+•  What is the main purpose for inheritance?
+
+•  Can you give me a real-life scenario where inheritance can be used?
+
+•  What do you know about file handling?
+
+•  Syntax to open, read/write and close a file.
+
+•  File handing – working mechanism.
+
+•  What is the need of error handling?
+
+•  Tell me some techniques of handling error.
+
+DBMS
+
+•  What do you know about DBMS?
+
+•  What is querying?
+
+•  Do you have experience working with NoSQL?
+
+•  What are the 3 major commands in querying (DDL, DML, DCL)
+
+•  Explain each DDL, DML, DCL in detail.
+
+•  Tell me some of the aggregate functions.
+
+•  Write a Query to display the duplicates in field. (I used GROUP BY and COUNT)
+
+•  What is the need of indexing? (along with B, B+ tress)
+
+•  What is a view, why it is used?
+
+•  What is JOIN? Tell me about all its types and explain each in detail.
+
+•  Do you know about distributed DB?
+
+DSA
+
+•  Tell me the types of DS. (Your answer should be from the base classification like
+
+linear and non-linear, then further explain each branch)
+
+•  Explain the mechanism of Stack and Queue.
+
+•  What do you know about tree DS?
+
+•  Write code to perform inorder – traversal along with drawing the Tree.
+
+•  Explain me about linked lists, its advantages and disadvantages over arrays, stack,
+
+queues.
+
+•  Sir asked me the draw all types of linked lists with max 3 nodes by mentioning
+
+the pointers.
+
+CLOUD COMPUTUING
+
+•  Do you know about Cloud Computing?
+
+•  What are the three major types in it?
+
+•  Name some cloud computing services that you know.
+
+SOFTWARE PROCESS
+
+•  Have you studied software processes?
+
+•  Can you explain about Agile and SDLC?
+
+•  What are the main principles of Agile?
+
+•  Any questions for him?
+
+TIPS:
+
+•  Take your time to think and phrase your answer, whenever possible.
+•  Answer short and crisp with confidence. (if mentioned to elaborate, then take
+
+your time)
+
+•  They weren’t bothered about the syntax. They were fine with that.
+•
+
+If you don’t know even a bit of the answer/ unable to recall, be straight to the
+point and say “I don’t Know”/ “I can’t recall at this moment”. Because it gives a
+hope on you that you are able to express your mind!
+
+•  Since the interview is 45 -50 mins, drink water if you dry out and relax yourself
+
+by breathing.
+
+THEN: Round 2 has been conducted for all the 22 members.
+
+Interview Round – 2: (30 mins)
+
+NOTE: the entire convo went in mixed tamil(major) and english
+
+Sir introduced himself, and told me to introduce myself.
+
+•  Ram sir asked about my studies how it was going.
+
+•  Then he told me that “lets reverse our roles”, which means I want to ask
+questions (any question on earth) to him and he will be answering.
+
+•
+
+I felt so nervous and decided to ask the first question that hits my mind.
+
+Question: How did you get into Wells Fargo Sir?
+
+Answer: sir explained me about his previous startups and how he joined Wells Fargo.
+He is working for like 15-18 years. (in wells fargo).
+
+ (I started to think so hard for next question – where I realised asking questions is
+more difficult than answering them!)
+
+Question: How to improve communication in English sir?
+
+Answer: he asked me “do anybody told that your English is bad or it is awesome?” I
+replied NO, then sir said don’t hear what others say about you, you should be the
+one who validate yourself then he said communication is like a sport like cycling,
+swimming. The more you practice the more you improve.
+
+Question: Sir this swapping of roles is interesting but why are you asking me to ask
+
+questions sir? How to helps you in knowing me? Is there anything so deep in this?
+
+Answer: Sir’s reply is like a life lesson. He said you are just a 4th semester completed
+student and you are just 19 right? But I have an experience of 15-18 years. Hence there is
+no point in asking technical questions to you. (I am frozen with a smile in my face)
+
+See I recently learned MongoDB and with what I learnt I written a code. (my code
+worked correctly) But when I ask ChatGPT to do that it gave me 5 different answers
+which is far better that my code in both time and space complexity.
+
+What do you understand from this he asked. I replied: “Prompting (asking questions
+
+and doubts) …”. He said, yes that’s why I want you to ask questions.
+
+Next: for the next question I started to think…sir said ok it’s enough I will ask now
+
+SIR STARTED ASKING HIS QUESTIONS
+
+•  What tool would you like to learn and develop?
+•  How was your round 1?
+•  What are you parents?
+•  Why you chose finance? What you know about it?
+•  What do you think Wells Fargo does to people?
+•  Again, any questions for me? (I said NO sir)
+
+MY PREPARATION STRATEGY:
+
+•
+
+I had a thought of preparing for internships in my 4th semester holiday, I even
+downloaded all the materials sent by our seniors for the first time, but I couldn’t
+make it because I had to spend my holidays in my summer project, mostly family
+time, license works etc…
+
+•  When I got so bored I watched Striver’s DSA Series (TUF) on youtube. – This man
+
+is everything in my preparation for CP.
+
+•
+
+ With some knowledge on competitive programming that I have practiced during
+my 3rd and 4th semesters I took my first online test for D.E.Shaw.
+
+•  After taking that test, coming out the lab, I was like “are you a paradoxical idiot?
+You are getting a good idea to solve that question, but don’t know the syntax of
+STL”
+
+•
+
+I clearly remember where I got stuck. Therefore, I decided to not repeat my
+mistakes.
+
+•  Next for company Vegrow, I improved somewhat and I am so happy that I didn’t
+
+do any mistakes that I done for D.E.Shaw and but discovered some new mistakes!
+
+•  Then I realised that, there are great inbuilt lib in C++, then why I am not using
+them. So, I started learning all of them in the weekends I got (Saturday and
+Sunday)
+
+•  Then came Appian, I did my best (on understanding the question and solving)
+
+•  For Wells Fargo, the online test was on Monday, I got two days for my prep. And
+wrote the exam with all my mind, I did not do any mistakes and I done what I
+thought right for me.
+
+I got selected for the interview (completed test at 7 pm – started at 5 pm,12th August,
+results of interview shortlist came at 11:25 pm, where they mentioned tomorrow is your
+interview so be there on MIT campus at 8:00 am)
+
+I got no time to read about the job description or either recall the important points for an
+interview (even introducing myself)
+
+I went to MIT. They said interview will be starting at 10 am, then I started googling
+important topics for interview, how to give self-introduction and also read some news
+after a saturation point. They called me for round 1 at 11:20 am, I came out at 12:30 pm.
+
+After lunch I got my second round, gave my best, then relaxed. (maximum try not to skip
+lunch, eating a bit)
+
+SOME ADDITIONAL TIPS:
+
+For Bio-maths students like me who are not exposed to any kinda of
+
+programming languages, tools or softwares during their 11th and 12th grade, there are lots
+of online resources to learn coding, competitive programming and DSA.
+
+Find your study method (the method by which you grasp new things quick and
+
+easy) and follow that kind of online resources.
+
+Make good connections with seniors (trust me some seniors are great helpers
+
+they teach you by sharing their experiences).
+
+Hope my words gave you a click about my experience, my prep and general interview
+process, I suggest you to have a look on all others experiences so that you will get to
+know different flavours of selection processes.
+
+THANK YOU.
+
+ Padma Prabha M (3rd year IT - purple)
+

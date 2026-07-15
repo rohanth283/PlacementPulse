@@ -1,0 +1,19 @@
+**Company**: Wells Fargo
+
+**1st round (Online test):**
+
+* Programming MCQ and Aptitude
+* Financial based MCQ includes math questions
+* 3 coding probs (easy, intermediate, hard). I’d remember only one question – tower of Hanoi
+
+**2nd round (face to face interview)**
+
+I started with my introduction. Most of the questions were been asked from resume. The asked me to explain each project and questions from the projects. They gave real life prob to solve. It was based on stack, queue.
+
+**3rd round (face to face interview)**
+
+Interviewer asked question on MongoDB and other databases. It was a theory based questions. I have been asked to raise the questions. I asked few questions about their company and bank related questions.
+
+**4th round (HR – face to face interview)**
+
+HR started with this question – “Why would I choose you for this organization?”. Before that they asked to introduce myself. And ended with simple question.

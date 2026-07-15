@@ -1,0 +1,100 @@
+RAM KRISHNA H S – INFORMATION TECHNOLOGY
+
+-  CCIBT INTERN IN WELLS FARGO
+
+About the Company:
+
+Wells Fargo is a major American financial services company headquartered in
+San Francisco, California, with significant operations across the United States.
+Founded in 1852, it offers a wide range of services including banking,
+mortgage, investments, and consumer and commercial finance. The company is
+known for its extensive branch network and ATMs, making it one of the largest
+banks in the U.S. by assets.
+
+About the Role:
+
+CCIBT – Commercial And Corporate Investment Banking Technology
+
+Commercial and Corporate Investment Banking Technology (CCIBT) refers to
+the specialized technological infrastructure and solutions that support the
+operations of commercial and corporate investment banking services. This
+sector involves developing, maintaining, and enhancing software platforms,
+trading systems, risk management tools, and data analytics solutions that enable
+banks to manage complex financial transactions, investment portfolios, and
+corporate client relationships. CCIBT plays a critical role in ensuring the
+efficiency, security, and compliance of banking operations, especially in areas
+like automated trading, real-time data processing, and regulatory reporting. As
+the financial industry increasingly adopts digital transformation, CCIBT is at the
+forefront, driving innovation and enabling banks to remain competitive in a
+rapidly evolving market.
+
+Overview of the Process:
+
+The overall process consisted of
+
+  An Online Contest
+
+
+
+
+
+Interview Round 1 (Technical) – in CUIC
+
+Interview Round 2 (Technical) – in CUIC
+
+  HR Round
+
+Online Contest:
+
+The Online Contest consist of aptitude question and question based on
+
+English knowledge. The aptitude section consisted of simple aptitude questions,
+technical mcqs, etc. The 3rd section consist of three coding question. The
+company offered equal priority for all the three rounds.
+
+Interview Round 1 (Technical):
+
+ The questions were general. The panel consisted of 1 member and there were
+several panels. Questions and their complexity depend on the panel. Some panel
+members even asked DSA questions.
+
+  They had asked me about various aptitude and general knowledge
+
+question.
+
+  One of the panel members asked my favourite language and favourite
+
+project.
+I said Python is my favourite language.
+
+  What’s your ambition?
+
+  Any questions for him?
+
+Interview Round 2 (Technical):
+
+  They started with my introduction and stuff.
+
+  They had asked us explain our projects, the tech stacks used in it, etc.’
+
+  Asked a question about performing sorting and asked to explain it about
+
+writing a program and explain it along with its complexity.
+
+  And few small small questions here and there.
+
+  Any questions for him
+
+HR Round:
+
+It went for around 15 – 20 mins. The HR introduced himself to me and it was
+like a casual talk.
+
+  Tell me about yourself, hobby, projects, family, etc.
+
+  Where did you study, how was your schooling days.
+
+  Why do you choose wells fargo, etc.
+
+  Any questions for him
+

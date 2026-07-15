@@ -1,0 +1,83 @@
+RandomWalk.Ai - Ratish M S
+About the role:
+Full stack development
+App development
+AI Engineer
+Drive Flow:
+1) The selection of this company was different from other companies
+like we don’t have any online test. Instead of that, we need to do a
+simple project and take a video(demonstration of that project) and
+they will give the github repository and we have to upload that in
+that.
+2) The projects are on the basis of what we are good at. They will
+circulate a form regarding in which you are good at. For us, the splits
+are web development using plain js (no frameworks added),
+application development and data science and analytics.
+3) The project given for each splits will be given below.
+4) They will look at our projects and shortlist the students and they
+conducted 2 rounds of virtual interview.
+Project given for first round:
+Name Project
+Web development Tic Tac Toe
+Data Analytics Given an dataset, do regression and
+all
+App development I don’t remember..
+1) The video should be recorded and should be uploaded in github
+repository which they provide.
+2) The project can be simple and it should have some objectives and
+functionalities.(add some creativity).
+3) They have given one day for doing this project.
+
+Technical round 1:
+1) He asked me to introduce myself and he directly moved on into my
+projects and he asked me to explain the any project of my wish.
+2) Then he asked whether I have hosted the project but I haven’t hosted
+that and I only have that project in my github not even in local
+machine.
+3) Then he asked about the final year project and I started explaining
+that and he got impressed with that one.
+4) He asked me to run that project and asked me to explain the code
+accordingly.
+5) He haven’t asked why have you done this like this but he needs
+whether I can explain the project what I have done.
+6) Then he asked some of the HR based questions and closed the
+session.
+Technical round 2:
+1) This round is the final round, also the virtual round and I think, this
+will the HR round but this also the technical round.
+2) This round is totally different from the first technical round.
+3) The interviewer only asked what I have in my resume even the
+certifications and all.
+4) First he asked questions on data science like why numpy is used and
+explain me any one of the model you used.
+5) I have my leetcode account link in my resume and he opened that
+and asked me like what is the use of coding.
+6) He asked me to explain any challenging question in leetcode that you
+have solved and code that question and he doesn’t give me the
+question and the question is of my choice.
+7) At last, he too asked some HR based question and closed the session.
+
+Shortlisted details and time taken for next update:
+| Round | Count of shortlists   | Time taken for update    |     |     |
+| ----- | --------------------- | ------------------------ | --- | --- |
+| 1     | All eligible students | One week after the date  |     |     |
+given in the drive
+| Tech 1 | 15  | This update was given  |     |     |
+| ------ | --- | ---------------------- | --- | --- |
+after one week of project
+round
+| Tech 2 | 3   | This update was given  |         |       |
+| ------ | --- | ---------------------- | ------- | ----- |
+|        |     | after   three          |   weeks |   of  |
+technical round 1
+After one week the selected update for given and Only me got selected.
+Out of 15, they took only 1.
+Note:
+1) I have chosen the web development project and I have interviewed
+different with respect to data science.
+2) The interview panel was very kind and they will wait even you have
+lost your internet connection but make sure that the network is good.
+3) Have any running project in your system. This will be very helpful
+for any virtual interviews.
+4) Be patience in applying to this drive and the process took nearly one
+month.

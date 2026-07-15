@@ -1,0 +1,75 @@
+Aspire Systems 
+ 
+Aspire Systems is a global technology services firm serving as a trusted technology partner 
+for our customers. They work with some of the world's most innovative enterprises and independent 
+software vendors, helping them leverage technology and outsourcing in our specific areas of 
+expertise. Their services include Product Engineering, Enterprise Solutions, Independent Testing 
+Services and IT Infrastructure Support services. 
+ 
+Number of Rounds: 
+Round 1: Aptitude(Quantitative and technical) 
+Quantitaive: 25 Questions 
+Topics to be focussed: Ratio, Age, Time and distance, Find missing number in a series, Simple 
+interest and compund interest. 
+Technical: 10 Questions 
+You have to choose the correct output for the given code snippet(MCQ) 
+ 
+Round 2: 
+Technical round 1: 
+1. Purpose of OOPS 
+2. Define abstraction 
+3. Explain interface in C++ 
+4. Print the first reccuring character in a string 
+ 
+INPUT: Engineering 
+ 
+OUTPUT: n  
+5. Reverse the given sentence (Condition: Using whitespace)  
+ 
+INPUT: I am a King 
+ 
+OUTPUT: King a am I 
+6. Given an array with repeated elements, the task is to find the maximum distance between two 
+occurrences of an element.  
+ 
+INPUT:  [1 1 2 2 2 1] , [3 2 1 2 1 4 5 8 6 7 4 2]; 
+ 
+OUTPUT: 5,10 
+7. What do you know about Normalization 
+8. DBMS queries 
+ 
+ 
+Technical round 2: 
+1. Print 0 to 50 without using loop 
+2. Split the given array using K (split variable) 
+ 
+INPUT: array = 9, 8, 5, 4, 2, 3, 6, 5, 10, 7, 7, 1, 3, 6;  split = 3 
+ 
+OUTPUT: 9,4,6,7,3 
+ 
+ 
+      8,2,5,7,6 
+ 
+ 
+      5,3,10,1 
+3. Given two arrays find the element whose sum is odd 
+HR round: 
+The HR round was very casual as compared to other rounds. They are just trying to get to know 
+more about yourself 
+1. Introduce Yourself 
+2. Why Aspire System 
+3. Lots of questions about strength, hobbies and family details 
+These were questions asked me in the Interview(about 30 mins).   
+Topics to be focussed: 
+• OOPS 
+• DBMS 
+• STL in C++ 
+Take away: 
+Having a good knowlege of basics, coding and confidence will help to be placed in this company. 
+ 
+Hope this helps. 
+Thank you and All the best. 
+ 
+ 
+Yukesh T 
+yukeshthamil@gmail.com 

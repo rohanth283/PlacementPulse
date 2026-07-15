@@ -1,0 +1,109 @@
+My Journey to Getting Selected at Amazon 
+ 
+[There is always going to be someone who does things the easy way but that should not stop you from doing 
+things the right way. It is your journey. 
+-a wise person] 
+Introduction 
+Landing a software development role at Amazon has been one of the most rewarding experiences of my life. The 
+journey was challenging, but with determination, preparation, and the right mindset, I was able to secure the 
+position. In this article, I’ll share my experience, preparation strategy, and the lessons I learned along the way. 
+1. Preparation Phase 
+I began my preparation months before the interview. Since I already had a solid foundation in programming 
+languages such as Python, C, HTML, CSS, JavaScript, PHP, and SQL, I focused on sharpening my problem-solving skills. 
+LeetCode was my go-to resources for solving coding problems but Geeks for geeks will be a greater choice. By the 
+time the interview came around, I had solved around 190 problems on LeetCode, which significantly boosted my 
+confidence 
+2. The Interview Process 
+The Amazon interview process was thorough, consisting of several stages, each testing a different aspect of my 
+skillset. 
+Online Coding Test: The first step was an online coding test that featured algorithmic problems. This stage was crucial 
+as it tested my problem-solving approach, coding efficiency, and understanding of data structures. 
+Questions asked: 
+1. Find the minimum distance between two aws stations (something like that) 
+Example: 
+Server_stations=[2,5,1,3]  //positions of the server stations 
+Receiver_stations=[1,5,6,2] //positions of the receiver stations 
+Approach: 
+ 
+Sort the two arrays and sum the absolute difference 
+2. Write a function that matches a regular expression (with * as a special character) to a given text and returns 
+the length of the longest matching substring. 
+You can find this question on leetcode: 
+https://leetcode.com/problems/wildcard-matching/description/ 
+Approach: 
+We have a loop traversing the string. If we find a matching character, the same or a " ? " we move both 
+indices forward. 
+If we find an " * " we keep the index we found it on and move this and the track of the second index.  Lastly 
+we have a loop for the edge case where the " * " is the last char of the string. 
+It is bit easier to clear this round, most of my solved the two problems (questions asked for everyone were different.). 
+ 
+Code Pair interview: The next phase involved technical interviews where I had to solve problems live while explaining 
+my thought process. This was similar to the coding pair interviews I had practiced for. 
+Mode: Online 
+Timings: 1 hour (You should able to solve both the questions within 1 hour) 
+Questions asked: 
+1. You are given a two strings and it contains hash (‘#’) which is a backspace character. If you encounter this 
+special character while traversing the string you should delete the previous character. Finally you should 
+return true if both strings are equal. 
+Example: 
+1. S=”abbb###c” 
+ 
+    T=”ac” 
+ 
+    Output: True 
+ 
+2. S=”abbb##c” 
+T=”abc” 
+Output: False 
+ 
+ 
+Similar question: 
+ 
+ 
+https://leetcode.com/problems/removing-stars-from-a-string/ 
+ 
+ 
+The answers I provide: 
+First I told the brute force approach (using stacks) ,but the interviewer asked to optimize it. But I was 
+clueless at the time but the interviewer gave me a hint , then I told the optimized approach ,the 
+interviewer satisfied with my answer and asked me to dry run it and finally asked me to code with that 
+optimized approach. 
+2. Find the next greatest element in a Binary search tree. This is very basic question on BST , no need to explain 
+further. 
+ 
+Finally they asked me about the time and space complexity .  
+Tips: 
+Prepare on topics such as 
+- 
+1D and multi dimensional Dynamic programming 
+- 
+Graph 
+- 
+Trees 
+- 
+Linked List 
+If you solve two questions on time ,you will mostly be selected. 
+Preparation guide: 
+ 
+Neetcode and Greg Hogg at youtube. 
+ 
+ 
+ 
+All the best. 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,139 @@
+           ROCHE SERVICE AND SOLUTIONS – INTERVIEW EXPERIENCE  
+ 
+About The Company: 
+ 
+Roche Services & Solutions (RSS) is part of Roche, a Swiss-based global leader in 
+pharmaceuticals and diagnostics headquartered in Basel. With main hubs in Budapest, San José, and 
+Kuala Lumpur, RSS provides 24/7 customer-centric services in areas like finance, IT, procurement, 
+and people support, enabling Roche to focus on its mission of delivering innovative healthcare and 
+personalised solutions that improve patients’ lives worldwide. 
+ 
+Role: Data analyst/Data scientist / Data engineer (that will be confirmed after internship) 
+CTC: 8.25 LPA 
+Type: Intern+FTE 
+ 
+RECRUITMENT PROCESS: 
+1. Online Test 
+2. Case Study 
+3. Group Discussion 
+4. Techno managerial round 
+5. Techno HR Round 
+Online Test: 
+• 
+3 Sections - MCQ 
+• 
+Section 1: Aptitude, English, Logical Reasoning 
+• 
+Section 2: Pandas, SQL query, Excel 
+• 
+Section 3:SQL Query   
+• 
+Out of so many departments attempted, 54 were shortlisted. 
+Case study: 
+• 
+Given a set of business kind of scenario 
+• 
+Asked 5 questions with each carrying marks like 5,10,15. 
+• 
+We are asked to write solution for the questions (analytics kind of questions) 
+• 
+Only 16 people is shortlisted to next round. 
+• 
+For me, I felt these questions as moderate – hard. 
+Group Discussion: 
+• 
+16 people are divided into two, one is given a topic “AI is a Threat to Employment” 
+• 
+Other people have to give points against it 
+• 
+This is non eliminatory round 
+• 
+This went really good and we had a good convo with the company people too. 
+Techno Managerial Round: 
+• 
+Introduced myself 
+• 
+They asked me these questions:  
+1. How was your day? 
+2. How did u feel about the case study? Did u feel anything difficult? 
+3. What do you think we (Roche) do? 
+4. What is your opinion about our recruitment process since you told this is your first 
+Group Discussion? 
+5. What are the clubs you are a part of? 
+6. What did u do in NSS? 
+7. Apart from NSS what are the various other clubs? 
+8. Explain bubble sort and its code? (I have written the code in c++) 
+9. How do u solve a conflict with your co-worker? 
+10. He described a scenario and asked me to solve this using query(sql query)? (basic 
+joins, aggregation) 
+11. What is class and objects? 
+12. Asked an analytical question: 
+• 
+How would you arrange water bottle for your college symposium? 
+• 
+If no data given, how would u estimate the number of water bottles? 
+13.  Asked questions in the case study. Like explain the approach, why did u do like that? 
+14. My turn to ask questions: 
+• 
+What kind of practice or internship we undergo during the internship? 
+• 
+What actually Roche do with IT people? 
+• 
+I asked about my review. 
+15. Out of 16, only 7 were shortlisted. 
+Techno HR Round: 
+• 
+Introduced Myself 
+• 
+They asked me these questions: 
+1. How did u feel now after completing all these rounds? 
+2. What do u know about Roche? 
+3. What is window functions(dbms)? 
+4. Same questions like clubs and the activities. 
+5. Palindrome code in python. 
+6. Queries using joins, aggregate functions, window functions. 
+7. Asked a guestimation Question:  
+• 
+If you are asked to build a airline company in an city, what are things you 
+consider 
+• 
+I took some time and told them – per capita income of each person, the 
+city ‘s fame(like college, business, tourist attractive place) 
+• 
+He pushed me to get that one answer but I could not arrive at the thing he 
+expected. 
+8. Explaining the projects (clear and complete view of a project is expected) 
+9. Asked me a puzzle: https://www.geeksforgeeks.org/aptitude/puzzle-bag-of-coins/ 
+10. I did one question wrong in the case study because I don’t understand the business 
+terms, the he explained me the terms and their meaning and asked me solve this 
+time. I answered it correctly 
+11.  Asked me the data processing pipeline. 
+12. My turn to ask questions: 
+• 
+I asked the interviewer about their experience in ROCHE 
+• 
+I asked him, did u ever feel like switching to next company for better salary? 
+– for this question I really get the best answer. 
+13. Out of 7,3 were given offer 
+ 
+OVERALL EXPERIENCE: 
+1. They tested communication skills, basic skill 
+2. More importantly they tested logical reasoning, how fast your brain tries to give the optimal 
+solution 
+3. For that I suggest solving problems on leetcode and trying to solve it, it basically increases 
+the problemsolving skills 
+4. When u read basic cs core concepts, make a flashcard or quick revision notes 
+5. So you can go thru It whenever needed 
+6. You should be learning dsa+communication+core cs for your placements 
+ 
+NOTE: 
+ Always be ready for interview, because most of the time, you will be notified a day before or even 
+early morning for the interview, you should be ready for interview anytime. 
+ 
+ALL THE BEST GUYS !!! 
+No Matter how many rejections you face, but always be sure that you learn something from your 
+rejections. 
+Contact: 
+Email: monicamit37@gmail.com 
+linkedIn: www.linkedin.com/in/monica-p-699503302 
+  

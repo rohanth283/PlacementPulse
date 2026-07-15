@@ -1,0 +1,60 @@
+                                                                        Interview Experience
+
+Name: Ragul B
+
+Reg No: 2018115084
+
+Company :TCS Digital
+
+                 TCS Digital contain two rounds
+
+Round1: Aptitude & coding
+
+              In that first part verbal with 15 questions
+
+              Second part aptitude with 15 questions
+
+              Third part  coding with 2   questions
+
+              In coding 1.insert space in between words
+
+                               2.another one was based on permutation
+
+Round 2:Technical ,MR ,HR
+
+              First round shortlisted candidates selected for interview . It was combined interview
+
+Interviewers also so friendly .First I introduce myself and tell about my projects and they asked
+about frontend and backend parts it takes 10 mins.And asked perfered coding language and I
+tell java then they go with java
+
+            In that also 3 coding questions asked for me
+
+           1.amostrong number
+
+           2.tower of honai
+
+           3.find and remove duplicates in array
+
+           4.Write code snippet for java script
+
+           5.Implement google map api simple working
+
+     And some more technical questions
+
+         1.why you take node js( from my project)?
+
+         2.what is join and tell and code for left join?
+
+         3.Difference  between sql and no sql?
+
+         4.Difference between unique key and primary key ?
+
+         5.What is cloud computing ?
+
+      6. What is database management systems and why?
+
+Be strong with your project what  you done it will helpful very much.
+
+                                                                  All the best.
+

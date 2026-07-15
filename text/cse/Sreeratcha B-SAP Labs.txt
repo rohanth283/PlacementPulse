@@ -1,0 +1,74 @@
+SAP Labs – Internship 
+ 
+About the company: 
+SAP stands for Systems, Applications & Products in Data Processing. SAP is the largest non-American 
+software company by revenue, the world's third-largest publicly traded software company by revenue, 
+and the largest German company by market capitalization. SAP Labs India is SAP's largest Research and 
+Development centre outside its headquarters in Germany and a part of a connected lab network of 20 
+Labs in 17 countries. 
+Originally known for leadership in enterprise resource planning (ERP) software, SAP has evolved to 
+become a market leader in end-to-end enterprise application software, database, analytics, intelligent 
+technologies, and experience management. It is a top cloud company with 200 million users worldwide. 
+SAP Labs India drives SAP's product strategy and is responsible for SAP core solutions and provides 
+product localization and India specific solutions. t is one of the earliest R&D centres of a global company. 
+Coding round: 
+Number of questions: 2 
+Duration: 45 minutes 
+Platform: AMCAT 
+Each of us got different questions. Both of my questions were based on string manipulation. I coded 
+using C++. The first question was given a sentence which is the set of words searched in a dictionary I 
+had to return the words that are to be stored in a dictionary which is basically the count of words 
+greater than one. The second question was given a string I had to return the string after removing the 
+vowels. 
+Around 500 students attended this round out of which 15 students were shortlisted for the next round. 
+Technical round 1:  
+Duration: 1 hour 
+Platform: MS Teams 
+I was asked to introduce myself. Then I had to screen share and code on my notepad. The 
+question was, given a linked list I had to reverse it and print. Then I had to explain my projects. 
+After explaining I got a lot of questions regarding that. Then I was asked to explain about joins. I 
+had to write a query for a given situation. Query was based on joins, order by and group by. 
+Next, I was asked about OOPs. Then I was given a code and asked to predict the output and 
+explain the code based on the OOPs concept. Lastly there were a few DSA questions. 
+15 students attended this round and 8 were shortlisted for the next round. 
+ 
+ 
+Technical round 2:  
+Duration: 45 minutes 
+Platform: MS Teams 
+I was asked to introduce myself. Then I was asked to screen share my notepad and code. The 
+question was given a month I had to return the season. I was asked to code the entire program. 
+Then I had to explain my projects. I went for my DBMS project. Next, I was asked to explain the 
+entire OOPs concept. And there were a few DSA questions about arrays, linked lists, trees and 
+graphs. Then I got one debugging question. From Operating Systems Questions were from 
+Paging, Segmentation, Fragmentation, Multithreading and Multiprocessing, Threads, Processes, 
+Memory Management and Scheduling. Lastly, I was asked a puzzle. 
+HR round:  
+Duration: 15 min 
+Platform: MS Teams 
+This round was a casual conversation with the interviewer. I was asked to introduce myself and explain 
+the projects. Then I had to narrate my experience with this virtual hiring process. Then I was asked 
+which location I would prefer to work and why I would like to work for SAP Labs. Finally, they asked, if I 
+had any questions for the interviewer which was asked in all the rounds. 
+Out of 8 students, 6 were offered the internship. 
+Note: 
+• 
+The first thing is to answer confidently. Even if you don’t know the exact answer take them 
+through your thought process. 
+• 
+Don’t fake your resume and be clear about what you put in your resume. 
+• 
+I had to code the full program both in the coding round and in technical interviews. So, make 
+sure you are prepared for that. 
+• 
+Cover all the concepts of DBMS, OOPs, OS and DSA. You can ace the technical interviews. 
+• 
+When it comes to HR round research about the company, never fail to do that. It would create a 
+good impression on the interviewer if you know about the company. 
+ 
+Thank you and all the best!! 
+Sreeratcha B 
+B.E. CSE (CEG’23) 
+ 
+https://www.linkedin.com/in/sreeratcha-b-5a8026195/ 
+ratchabala@gmail.com 

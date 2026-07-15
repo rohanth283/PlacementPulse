@@ -1,0 +1,121 @@
+Internship Experience – Appian
+
+Company: Appian
+Role: User Experience Design Intern
+Stipend: ₹1,50,000
+
+Round 0 – Application Based
+
+The first stage was an application screening. From my observation, over two-thirds of
+applicants advanced to the next round.
+
+Round 1 – Glider AI (Essay + MCQ)
+
+This round consisted of 9 questions: 6 essay/text type and 3 MCQs.
+
+Essay questions included:
+
+  Explaining UI and UX Design to a non-technical person.
+  Describing how I would approach adding a new feature.
+  Listing the tools I use for design.
+  Naming my favorite app and explaining why.
+
+MCQs included:
+
+  User testing frameworks like A/B testing.
+  General design-related concepts.
+
+Out of 157 candidates, 17 were shortlisted for the in-person interviews.
+
+Round 2 – Technical + Mild HR Questions
+
+The interviewer started by asking how I felt. I said “mixed feelings” since it was my first
+interview. He briefly shifted the conversation to my hobbies, likely to ease my nerves
+and make me feel comfortable before diving into technical questions. I mentioned
+movies , talked a bit on it.
+
+I then introduced myself, highlighting real-world projects such as my AI EdTech platform
+Vision Solve AI, which people actively use. He asked me to open the website on his
+laptop and gave feedback on the landing page:
+
+  Keep the primary CTA on the right rather than the left.
+  Learn more about color contrast for accessibility.
+
+Next, he asked me to design a gender selection form. I sketched two options:
+
+1.  A standard design.
+2.  An icon-based toggle design.
+
+His advice: Stick to universal UI patterns rather than experimental ones to avoid
+confusing users, as UI has matured to a point where novelty often hinders usability.
+
+We then discussed career scenarios:
+
+  Would I leave if I got a better offer?
+  Would I switch from design to development within the company?
+
+Tip: If you’re sure you want the role, stick to it. If you know you’ll switch, be honest —
+but only if you’re certain.
+
+Before ending the round, I asked: “How will Appian compete with other no-code tools?”
+— a tip I got from seniors: always ask thoughtful questions.
+
+Observation: If you’re called for the next round immediately, you’re likely selected.
+Long waits usually mean lower ranking.
+
+Round 3 – HR Round
+
+The HR interviewer repeated job-switch and domain-switch scenarios.
+
+Domain switch answer:
+
+I’m willing to code frontend for designs I create. If it’s someone else’s design, I
+can still code it, but it won’t give me the same satisfaction. If no design role is
+available, I’d take a frontend role because I wouldn’t want to miss working at
+Appian.
+
+AI role job-switch answer:
+
+I’d switch if I stopped getting challenging tasks or learning opportunities at
+Appian.
+
+He was impressed with both answers.
+
+When asked if I had questions, I asked what he liked most about Appian. The round
+was short but reinforced the importance of confidence, friendliness, and enthusiasm.
+
+Round 4 – Interview with Regional Company Head
+
+We discussed my schooling, hometown, and Vision Solve AI’s AI video generation idea.
+He felt I might be more of a coder than a designer and gave this advice:
+
+UXD is not for everyone. Without passion, you’ll regret it. If you plan to switch
+to SWE later, you’ll fall behind those who started as SWE. This is just an
+internship; you still have time to decide your career path.
+
+This felt cinematic — like a pre-rejection speech.
+
+For my question, I asked if work-life balance was what he liked most about Appian. He
+reacted strongly, saying work-life balance is a buzzword and questioned why I would
+expect it early in my career. He refused to answer that and suggested asking more
+meaningful questions.
+
+I followed up with: “So what do you like the most about Appian?” His response:
+
+Appian loves tech people, and tech people love Appian.
+
+Result
+
+Out of 17 shortlisted candidates, 2 received offers — I was one of them.
+
+Conclusion
+
+Appian focuses on passion, knowledge, and projects. Especially for UXD, your
+portfolio speaks volumes. For any role, be genuine and assess your passion for the
+position before applying. If you don’t have any deployed projects , be ready to answer
+allot of Figma questions .
+
+Contact for any doubts:
+Name: Vijay Krishna S
+Phone: 7305499740
+

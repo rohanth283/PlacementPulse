@@ -1,0 +1,84 @@
+Citi Services India Pvt Ltd (Citi Bank) – Citicorp 
+                                                    - Intern (2026 Batch) 
+About the company: 
+                               Citigroup Inc., commonly known as Citi, is indeed an American multinational 
+investment bank and financial services corporation. Citibank, N.A. is the primary U.S. banking 
+subsidiary of Citigroup, a financial services multinational corporation. Citibank was founded in 
+1812 as City Bank of New York, and later became First National City Bank of New York. The bank 
+has branches in 19 countries. Its headquarters are in New York City. Citi operates globally, 
+offering a wide range of financial products and services to individuals, corporations, 
+governments, and institutions. In India, Citi has established Citi Solution Centers, which are 
+specialized centers focused on technology, processing, analytics, and financial processes. These 
+solution centers play a crucial role in supporting Citi's operations and providing various services 
+to its customers. 
+Role that I chose: ICG (Institutional Client Groups) 
+Another Role which was available: Personal Banking & Wealth 
+Management Technology (PBWMT) 
+Selection Process: 
+The selection process consists of three rounds 
+1. Online Round 
+2. Technical Interview 
+3. HR Round  
+ 
+1) Online Round: 
+                  
+                        You should focus on mastering array-related questions, but learning other 
+topics will also be beneficial. I was asked to answer DBMS query-related questions, and 
+since I chose the ICG role, I encountered MCQs on React JS and Angular. The difficulty 
+level of the questions was generally easy to medium. 
+ 
+ 
+ 
+ 
+ 
+2) Technical Interview 
+                           
+                          “Don’t lie on your Resume!!!”. Most of the candidates who got into this 
+round were questioned by only one panelist, and their questions were mostly based on 
+the projects specified on their resume. If your provided with a problem don’t just provide 
+them with your answer, drift your way through your entire thought process on solving it. 
+Exceptionally on my case, I was questioned by two panel members and the questions 
+were asked from all fields which includes  
+ 
+• Project – Be thorough with your project 
+• Data Structures (You can specify the data structure that you are 
+confident with) – I chose array, stack, queue, BST, Heap. They asked 
+me to reverse a queue using just the queue which can be done 
+recursively. And some basic question followed by. 
+• React – User Authentication 
+• Computer Networks – How responses are handled in case of a query 
+and what method will be used in each step, GET & POST 
+• Operating System – How is a program compiled on accordance with 
+OS, mutex, semaphores, etc…. 
+• DBMS – Some queries. 
+• OOP – Inheritance, generalization. 
+• Recursion 
+• Logical Question – There is a section in Geeks For Geeks where you 
+can find similar questions. The question that was asked to me was 
+“Rabbit can lie on Mon, Tue, Wed. Tortoise can lie on Thurs, Fri ,Sat. 
+Today Rabbit says that it lied yesterday. Tortoise replied to that by 
+saying ‘So am I!’ What is today?” 
+• Basic problem-solving question. 
+We were asked to do every solving in a paper, even the user 
+authentication using REACT. 
+ 
+ 
+ 
+ 
+ 
+ 
+3) HR Round:  
+                            Gather all available information about the company and thoroughly 
+understand the role. Review the job description shared on the CUIC portal. Ensure you're 
+well-versed in the details provided during the Pre-Placement Talk. Be ready to answer 
+common interview questions confidently, as they'll assess your preparation and planning 
+for both short- and long-term career goals. Make sure to communicate your ideas clearly 
+and confidently. 
+ 
+ 
+ 
+Name       : Thyagesan P 
+Roll no     : 2022103511 
+Phone no : 9487349554 
+Email        : thyagesanprasath@gmail.com 
+Linkedin   : Thyagesan Prasath. 

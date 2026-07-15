@@ -1,0 +1,38 @@
+Wells Fargo 
+Wells Fargo & Company is an American multinational financial services company. It 
+is the fourth largest bank in the US by total assets. Wells Fargo is ranked number 26 on the 
+2018 Fortune 500 rankings of the largest US corporations by total revenue. 
+Round 1 : Online Aptitude Test (Amcat) 
+ 
+The test consisted of Logical, English, Stock market graph analysis sections. The last 
+section was coding which had 2 problems. 
+1. A Dynamic Programming problem based on Maximum Length Chain of Pairs. 
+2. A Graph problem based on Maximum Flow. 
+ 
+Round 2 :  Technical Interview - 1 
+ 
+This round went for about 45 mins. Technical questions were asked from  OOPS , OS 
+and Networks concepts. Some puzzle question were also asked. The interviewer asked me to 
+code Binary Search program and gave some test cases. Algorithms for Quick sort, Finding 
+the kth smallest element in an array were also asked. 
+ 
+Round 3 : Technical Interview – 2 
+ 
+In this round, the interviewer asked me to explain one of my projects which I felt was 
+very challenging and also asked how to solve some loopholes in the project. Then, I was 
+asked how to implement a Chess game and how to detect a Checkmate. The final question 
+was how Uber sets the route for the driver to the customer’s pickup point. 
+ 
+HR round : 
+ 
+HR round was very casual. They asked me to ask  if I have any questions. I asked 
+some questions about the company goals, their work and experience etc.  
+ 
+Topics to focus : 
+1. Problem solving and Algorithms 
+2. OOPS, DBMS, OS & Networks 
+3. System Design 
+I hope this will be helpful for those attending the interviews in this company. All the best ! 
+ 
+Kawin  
+kawinstar1@gmail.com 

@@ -1,0 +1,159 @@
+                                                                    KAVIYA C
+
+                 FTE IN STANDARD CHARTERED GBS
+
+About the Company:
+
+Standard Chartered is one of the world's leading international banking groups,
+offering a comprehensive range of financial products and expert advisory
+services. We combine deep local expertise with robust global connectivity,
+empowering clients in emerging and established markets to achieve their
+financial goals. Our presence in some of the world's fastest-growing economies
+makes us a trusted partner for local clients with global ambitions and
+international businesses seeking access to dynamic markets.
+
+Having first established a presence in 1858, we have a long and rich history of
+supporting economic growth and driving innovation. Over the decades, we
+have deepened our commitment to the markets we serve, including India,
+where we are proud to be the largest international bank by network coverage.
+Our integrated approach to business extends beyond financial services to
+include impactful sustainability and community initiatives that improve lives
+and create opportunities.
+
+Preparation Strategy:
+
+  I started my preparation on my 6th-semester leave (2 months).
+  Started with basics of DSA concepts (Arrays, Strings, LinkedList, Stack
+Queue, Recursion) and then advanced concepts(Binary Search, Trees,
+Graphs, DP)
+
+  DBMS and OOPs concepts are important, side by side I covered that too.
+  Computer Networks and Operating System questions depend on the
+
+company, so I only learned the basics.
+
+  Practiced Aptitude and Puzzles
+  System design is essential (Try practicing project system design)
+
+Practice!
+
+Placement Drive Experience:
+
+1. Pymetrics Games Assessment:
+
+    These games are comprised of 12 online mini-games that serve as AI-based
+assessments. They include Balloons, Towers, Money Exchange, Keypresses like
+this…
+
+    Before attending this game, try it online.
+
+    It is a little funny, so play it!!!
+
+2. Values Behaviours Assessment:
+
+     The assessment includes short videos that describe work scenarios
+
+    Each question typically assesses two values at once.
+
+    We have to drag the answers up and down based on your preference.
+
+3. Online Video Assessment:
+
+There are two questions:
+
+1)Logs are given in no particular order. We have to write a function that returns
+an array of strings denoting user_ids of suspicious users who were involved in
+at least a threshold number of log entries. The IDs should be ordered ascending
+by a numeric value.
+
+2)It is based on a linked list, exactly can't remember.
+
+The test duration is 90 minutes.
+
+Interview Round 1(Technical):
+
+They asked to type a code in Notepad,
+
+A simple one finding the maximum product of the subarray
+
+Asked the approach
+
+Java Questions:
+
+  Garbage collection
+  Infinite loop
+  Final keyword
+  ClassLoader, Singleton Class, and so on
+  They have asked about every part of my project technically.
+
+They asked me "Do you have any questions?"
+
+Never say NO, just ask something.
+
+I asked these questions:
+
+  Sir, Can you share your work experience?
+  In which Domain do I need to Improve?
+  I am new to Corporate, Can You give me some suggestions or advice to
+
+go on with it?
+
+This part of the Interview will boost your score, So think something to ask!!!
+
+Interview Round 2:
+
+  How do you behave when one of your Team member is not working
+
+well?
+
+  How do you assign work in your team?
+  How do you handle Work pressure?
+  Which part of your project you have done?
+  Which part you are comfortable with like frontend or backend?
+  Do you know how many branches of Standard Chartered?
+  What do you know about the Company Standard Chartered?
+  What are you expecting from this role?
+  What will you do if your expectations do not meet?
+
+So on like this…
+
+Interview Round 3:
+
+It is just checking whether do you leave the job or not,
+
+  Do you have any idea about start-up?
+  Do you have any interest in Politics?
+  Any of your family members is in Politics?
+
+And so on like this
+
+They will check about your BackGround.
+
+Tips and Tricks:
+
+  Solve DSA problems consistently
+  Starts with basics and goes to advanced concepts
+  Side by side, start preparing OOPs, CN , OS DBMS concepts
+  Learn about system design
+  Before going to the interview, refer to previously asked interview
+
+questions of the company so that you can get an idea of it.
+
+  Go and search about the Company, know something more about it (Must
+
+watch PPT)
+
+Materials:
+
+DSA – Take U Forward playlist (Strivers A-Z sheet and Strivers SDE sheet)
+
+OOPs – Jenny's lecture & Interviewbit questions
+
+Computer Networks , Operating System – Interviewbit questions
+
+DBMS – Jenny's Lecture & most asked top 50 SQL queries
+
+Be Confident!!!
+
+All the Best!!!
+

@@ -1,0 +1,85 @@
+          HEMATHARSINI E - SecureW2
+
+                      (6 Months Intern + FTE)
+
+About the Company:
+
+          SecureW2 is a cloud-based network security solution that
+provides certificate-based authentication for Wi-Fi, VPNs, and enterprise
+networks. It eliminates the need for passwords by using digital
+certificates, enhancing security and preventing credential theft.
+SecureW2 seamlessly integrates with identity providers like Google,
+Azure AD, and Okta, enabling efficient and secure user authentication. It
+supports 802.1X authentication, helping organizations implement
+password less network security for better protection. Widely used in
+universities, enterprises, and government institutions, SecureW2
+ensures secure access to wireless and wired networks.
+
+Selection Process:
+
+Round 1: Online Coding Test at CUIC
+
+          The online test consisted of five questions with a total duration of
+two hours. Three questions were easy, the fourth was moderately
+difficult, and the fifth was based on dynamic programming. The results
+were announced on the same day.
+
+Technical Round 1: (at CUIC)
+
+          This interview was mostly based on my resume. They asked about
+my recent project, the technologies I used, and concepts like OOPs and
+SQL. They also asked about my hobbies, and since I had mentioned
+writing verses in Tamil, they requested me to recite some verses and
+explain their meaning. The interview lasted for 20 minutes.
+
+16 members were selected for the next round.
+
+Written Coding Test: (at Securew2 Office)
+
+               The written test lasted for 1 hour. We were provided with pen
+and paper and given four questions.
+
+1.  Find the difference between the sum of the main and secondary
+
+diagonals in an N × N square matrix.
+
+2.  Find and count all anagram pairs in the substrings of a given
+
+string.
+
+The remaining two questions were situational problems that could be
+solved using arrays.
+
+The results were announced after 2 hours. The students were divided
+into two roles: Software Engineer and QA Engineer. I was selected for
+both the Software Engineer and QA Engineer roles.
+
+Technical Round 2: (at SecureW2 Office)
+
+             For the Software Engineer role, they asked me about my
+projects and their technical concepts, normalization, joins, and the
+difference between binary and linear search.
+
+           For the QA Engineer role, the Interviewer asked me to “Introduce
+myself”. Then he asked about technologies used in my projects. He also
+gave me a puzzle to solve.
+Puzzle:
+There are 2 jugs with 4 litres and 5 litres of water respectively. The
+objective is to pour exactly 7 litres of water into a bucket. How can it be
+accomplished?
+
+Suggestions:
+
+->I started my preparation only after taking leave in the 6th semester.
+But it would have been better if I had started preparing earlier.
+->I practiced coding using Striver's sheet.
+->Speak as confidently as possible in the interview, that's the most
+important thing.
+
+->Instead of saying you don’t know the answer, try to talk about a related
+topic. And one more thing I would like to say: I’m not sure if this is
+correct, Language is more important than Knowledge.
+
+!!! What is meant for us will definitely come to us. It may be
+delayed, but it will never be denied.
+

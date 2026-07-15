@@ -1,0 +1,78 @@
+Placement Experience – Verizon
+
+-  Shreya Elizabeth Franklin
+
+About the Company
+
+Verizon Communications is a telecommunications company and one of the world’s leading
+providers of technology, communications, and network solutions, consistently ranked
+among the Fortune 500 companies. Founded in 2000, Verizon serves over 100 million
+wireless customers and delivers broadband, fiber-optic, and 5G connectivity to businesses
+and consumers across the United States and beyond. Verizon has the largest 4G LTE
+network in the U.S. It is headquartered in New York and in India, it has offices in Chennai,
+Bangalore and Hyderabad.
+
+About the Role
+
+The role that they were hiring for was Engineer 1 (Software Development). When asked
+more about the role, the HR said that you will be working with various technologies and you
+should be open to work in various domains.
+
+Placement Process
+
+ROUND 1: Online Assessment
+
+It consisted of 3 parts. Firstly, we were asked to type a composition of about 190 – 250
+words. The topic that I got was ‘ Do children teach us to be better people?’. It was a general
+verbal testing round and not technical. Next, there was a coding round where they asked 2
+questions which were of easy-medium level. The last part of the assessment was a
+verbal/communication testing round where they asked vocabulary and grammar questions.
+
+ROUND 2: GROUP DISCUSSION
+
+This round assesses your communication skills and the way you’re putting forward your
+opinions. Don’t be too forceful and make sure to add in your points at the right time. Even if
+you speak for a lesser time, it’s okay but what you speak and the effect it makes matters. Be
+sure to give others also a chance to speak and never cut a person in between. My panel had
+13 members and the moderator was a senior HR of the company with over 7 years of
+
+experience. He told us to start off the discussion with a general topic of our choice. I spoke
+twice during the whole discussion but the points I put forth were of impact. 8 people were
+selected to the next round.
+
+ROUND 3: TECHNICAL INTERVIEW
+
+The technical interview went well. The interviewer was friendly and made me feel at ease.
+He browsed through my resume and asked about my former internship experiences,
+hobbies and the current project that I’m working on.
+
+I was given a scenario of the working of Swiggy and asked to modify the database if items
+from multiple restaurants could be ordered simultaneously. I drew the change in the
+database for the given modifications.
+
+Finally, he asked whether I had any questions. I asked him his experience in the company
+and whether we could explore different domains on a rotation basis. He answered my
+questions clearly.
+
+ROUND 4: HR INTERVIEW
+
+In this round, I was asked to tell something about myself that is not mentioned in my
+resume and I was asked basic questions about my location preference and my knowledge
+about the company.
+
+I asked questions in this round too regarding the work culture and the growth in the
+company. Ask questions, don’t hesitate as this will show your eagerness to work in the
+company.
+
+15 people were selected by the company and they sent us a confirmation email on the
+same day.
+
+Tips and Tricks
+
+-  Be confident and communicate well
+-  Focus on verbal knowledge as well
+-  Know your resume well and be yourself
+-  Technical topics: Data structures and DBMS
+
+All the best!
+

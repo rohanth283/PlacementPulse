@@ -1,0 +1,206 @@
+D.E. Shaw Interview Experience 
+ 
+D.E. Shaw & Co., also known as the D. E. Shaw Group, is a prominent global 
+investment and technology development firm. Founded in 1988 by David E. Shaw, a former 
+Columbia University computer science professor, the firm has established itself as a leader in 
+quantitative investing, proprietary trading, and technology-driven financial strategies. D.E 
+Shaw India was founded in 1996 and it has offices at Hyderabad, Bengaluru and Gurugram. 
+Role Offered: SDET Intern 
+Stipend: 1,50,000 INR per month 
+Sequence of Selection: PPT, Online Assessment, Technical Interview, HR Interview 
+Online Assessment: 
+It consisted of three sections: 
+• Coding Question – 2 (20 mins + 30 mins) 
+• Technical MCQs – 12 (17 mins)  
+• General Aptitude – 14 (28 mins) 
+The test lasted for 95 mins and an important point to note is that you can’t go back to previous 
+section once you have submitted it, and even if you submit one of the sections earlier than the 
+stipulated time, the remaining time will not be carried forward.  
+Coding Question 1: 
+It was a slight variation of  Print all possible words from phone digits  problem. Instead of 
+printing all possible words, there will be a set of words and a sequence of digits, we need to 
+find the number of words out of the given set that can be formed by pressing the given sequence 
+of digits. 
+Sample Testcase: 
+contacts = [“ehcv”, “fibo”, “dgat”] 
+pattern = 3428 
+Output: 2 
+Solution: 
+3 – ‘d’, ‘e’, ‘f’ 
+ 
+ 
+4 – ‘g’, ‘h’, ‘i’ 
+ 
+ 
+2 – ‘a’, ‘b’, ‘c’ 
+ 
+ 
+8 – ‘t’, ‘u’, ‘v’ 
+Only two contacts (“ehcv” and “dgat”) can be formed by pressing 3428 buttons. So, the answer 
+is 2. 
+ 
+ 
+Coding Question 2: 
+Given an array of weights and profits. You can remove as many weights as possible to make 
+the weights array as non-decreasing. You need to make the weights array non-decreasing such 
+that the profit is maximum. 
+Sample Testcase: 
+weights = [1,3,2,4,2] 
+profit = [5,6,8,7,9] 
+Output: 22 
+Explanation: Removing weights[1] and weights[3] makes the weights array non-decreasing 
+and maximizes the profit. 
+Technical MCQs: 
+Technical MCQs were easy to medium level, and the questions were based on predicting output, 
+identifying the line where logical error occurs, DSA and DBMS. 
+General Aptitude: 
+I couldn’t remember many of the questions but there was a logical reasoning kind of question 
+with 1 statement and 4 questions based on that, which was little bit similar to Logical Reasoning 
+(but more complex than this) and was difficult. Except those 4 questions, others were easy to 
+medium level. 
+Marking Scheme for MCQs: +3/-1 
+ 
+Based on this online assessment, 21 people were shortlisted for the next round. 
+ 
+Technical Interview – 1: (1 hour) 
+ 
+The interviews were conducted at CUIC. The interview started off, and I was asked 
+about my strong subject. I told them I am equally strong in both DBMS and OS. Then the 
+interviewer asked about the advantages of DBMS over file system and he said that even DBMS 
+stores data in files then how it is advantageous? I was not able to answer the way the interviewer 
+wanted to be. Then they started to check my problem-solving skills. 
+1. Given an array of integers, find the number of triplets with even product. 
+Initially, I gave a wrong answer but the interviewer corrected me and I was able to give 
+the correct solution. 
+ 
+2. Given an array of integers, where each index represents an animal and arr[index] 
+represents its predator. Find the minimum number of cages required so that none of the 
+animals will be killed by others. (Transitive relation is also possible (i.e) if 2 is predator 
+of 3 and 1 is predator of 2, then 1 is also a predator of 3) 
+I told them that we can solve using graphs but the interviewer wanted me solve in O(1) 
+space complexity and he asked me what kinds of input might be edge cases that we 
+need to consider and I was asked to write the code on paper. 
+ 
+3. Given two strings s1 and s2, find minimum length substring in s1 which contains all 
+characters of s2 in it. 
+I was able to give the solution and write the code, but the interviewer asked me to reduce 
+its time complexity but I was not able to do that. 
+ 
+Then the interviewer checked my OS knowledge. They asked, In IDEs like VSCode, 
+how code editor and terminals run at the same time and how terminal executes background 
+processes and all. I was not sure about the answer and I explained to them about processes, 
+threads and all but I was not able to give the accurate answer. 
+Then the interviewer asked me to convert given postfix to prefix directly but I couldn’t 
+answer that. Then the interviewer asked about OOPS like virtual function, abstract methods, 
+run-time polymorphism and all and asked me to write code related to that. 
+ Then, finally I was given a question related to binary search. Given an 2D matrix sorted 
+in spiral order, write algorithm to find an element. I gave them the brute force O(n2) solution 
+but the interviewer asked me to optimize it and asked me to tell what came to mind, and I told 
+them we could use binary search but I was not able to tell the correct logic. 
+Finally, the interviewer asked whether I had any questions for them, and I asked about 
+the challenges that an intern might face during their internship. 
+ 
+There wasn’t any specific shortlisting, and the students who performed well were asked 
+to attend another round of interviews. I was the last one to be called for another round of 
+interview at 8:15pm. 
+ 
+Technical Interview – 2: (45 mins) 
+ 
+The interview started off with self-introduction (in my first round of interview they 
+haven’t even asked to introduce myself). Since I have mentioned that I am good at React and 
+Node in my resume, the interviewer asked the following questions: 
+ 
+The interviewer first asked why Node was preferred by most of the programmers, even 
+though there are a lot of options available for the backend. Then he asked that there is a web 
+application where Node from backend pushes data each 1 sec and front end is developed using 
+React whose state is maintained by Redux. Is it possible to check whether node pushes data 
+every one second? If so, how? I was not sure about this question, so we moved on. 
+ 
+Then the interview asked some basic questions about process in OS and how process 
+data are maintained. Then they asked about various scheduling algorithms and how processes 
+undergo execution. Then they asked which scheduling algorithm you would use to maximize 
+resource utilization. 
+ 
+Then they started off with DSA questions.  
+1. Given an array in which all elements except one occur an even number of times. 
+I gave them the efficient XOR approach. XOR of same numbers is 0 so all the numbers 
+which occur even number of times get cancelled out by taking XOR for all numbers. 
+Then immediately I was given another question related to XOR. 
+ 
+2. Given an array of elements and integer k, we need to remove k elements to maximize 
+the XOR of all elements. 
+I was only able to give the brute force approach to this question. 
+ 
+3. Given an array of integers and an integer k, find all triplets with sum less than or equal 
+to k. 
+I first told them the brute force method and, then gave them the three-pointer approach. 
+ 
+4. Given an array of pages and intelligence and an integer k, where pages represent no of 
+pages in each book and intelligence represent amount of knowledge you gain by reading 
+that book, k represents maximum pages you can read in a day, find the maximum 
+intelligence you can gain in a day. 
+It was similar to 0/1 knapsack problem. I was asked to write the code on paper once I 
+gave them the solution. 
+ 
+5. Given a 2D grid of characters and a word, return true if the word exits in the grid. From 
+one cell you can move to any of the four neighbouring cells. 
+I gave them backtracking solution and wrote the code and the interviewer was happy 
+with that. 
+ 
+Then the interviewer wrote some code and asked me to find the time complexity, guided 
+me to the correct answer and asked about the order in which constructor and destructor get 
+executed in inherited sub classes. With that the interview got over. 
+I had no HR interview. 
+The result was announced the next day, and I was the only one who got the offer. 
+General Tips: 
+• Regular practice is important. Solve problems in Leetcode, GeeksForGeeks and 
+Hackerrank. A lot of people don’t prefer Hackerrank, but at least get familiar with it 
+because the online assessment will be conducted on Hackerrank. 
+ 
+• Follow C.O.D.E resources. It will help you to get an idea about various types of 
+problems in each topic. And I followed takeUForward YouTube channel for the topics 
+like Binary Search, Graphs, Trees and DP. 
+ 
+• There is no common method or strategy to prepare for interviews. You need to find your 
+own strategy which makes you feel confident in solving problems. 
+• If you are not confident with DBMS, OS and OOPS, then prepare for them 
+simultaneously because you won’t be having much time between the online test and the 
+interview.  
+ 
+• Aptitude is as important as DSA. At least start learning aptitude two weeks before your 
+online test. 
+ 
+• Even though I was not asked about my projects, in every interview they will ask about 
+your projects, and they might ask you about the database structure and all. So be 
+prepared to answer any questions related to your projects. 
+ 
+• A day before your online test, refer to previous year questions asked by the company 
+that might get repeated. 
+ 
+• Explain to the interviewer about the logic and how you came up with this solution. Most 
+of them are interested in your thought process, not the code. 
+ 
+• Initially, for any DSA question, first give the brute force approach and then tell how 
+you can optimize that.  
+ 
+• Whenever you learn a new concept and if you feel you might forget it, please make a 
+note of it (either handwritten or a word doc) and maintain it throughout your preparation 
+which will help you during your last-minute revision. 
+ 
+ 
+All the very best. 
+ 
+Nikhil Prasanna A, 
+CEG CSE’25 
+Feel free to reach out to me :) 
+E-Mail: anikhil03prasanna@gmail.com 
+LinkedIn: https://www.linkedin.com/in/nikhil03a/ 
+Mobile: +91 6379066510 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

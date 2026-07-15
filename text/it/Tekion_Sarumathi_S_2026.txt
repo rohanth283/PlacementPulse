@@ -1,0 +1,127 @@
+Sarumathi S
+
+About Tekion
+
+Tekion  Corp  is  a  cloud  technology  company  founded  in  2016  by  former  Tesla  CIO  Jay
+Vijayan.  The  company  is  headquartered  in  Pleasanton,  California,  with  a major technology
+center in Chennai, India.
+
+The  platform,  Automotive  Retail  Cloud  (ARC),  is  an  end-to-end,  cloud-native  solution
+designed for automotive dealerships. ARC integrates multiple modules such as CRM, DMS,
+digital  retail,  service  management,  analytics,  and  AI-powered  insights.  Tekion  also  offers
+Automotive  Enterprise Cloud (AEC), which connects OEMs and dealerships through digital
+tools like configurators, online payments, and advanced analytics.
+
+My Interview Process and Experience
+
+The  Tekion  recruitment  journey  was  a  well-structured  process  spread  across  multiple  rounds,  each
+designed to evaluate not just my technical skills but also my ability to think critically, solve problems
+efficiently, and stay composed under pressure.
+
+Round 1: Online Coding Round
+
+●  10 MCQs covering DSA, DBMS, and Operating Systems.
+●  1 SQL query to test database knowledge.
+●  1 medium-level DSA coding problem.
+
+From this round, I was shortlisted for the next stage.
+
+INTERVIEW DAY
+
+The  big  day  started  with  a  surprise—two  consecutive  coding  rounds that turned out to be
+elimination  stages.  These  rounds pushed us to prove our skills in both frontend design and
+backend logic, highlighting our ability to think fast and stay focused.
+
+Round 2: Coding Round - 1 at CUIC
+
+This was the first round on the interview day. It had three parts:
+
+●  A frontend-based task.
+●  One medium-level DSA coding question.
+●  One hard-level DSA problem.
+
+Around 20 candidates (including me) were shortlisted from this stage.
+
+Round 3: Coding Round - 2 at CUIC
+
+This round tested my ability to write efficient code and reduce time complexity. I solved:
+
+●  A string-based DSA problem. Similar to leetcode problem:
+https://leetcode.com/problems/word-break/description/
+
+●  Another problem where my first solution used arrays, but I realized it was
+
+inefficient. To optimize, I restructured my logic using a queue, which reduced the
+overall time complexity and made the solution much faster.
+
+From here, 10 candidates moved ahead, and I was one of them.
+
+Round 4: Technical Interview
+
+The technical round was conducted by two interviewers and focused on testing both my core
+fundamentals as well as the depth of my project knowledge.
+
+●  Frontend related questions.
+●  Code snippet analysis – explain the output and logic.
+●  C++ and Java concepts-based questions.
+●  Projects  mentioned  in  my  resume  –  with  focus  on  APIs,  tech  stack,  and
+
+implementation.
+
+●  Questions about my certifications and learnings.
+
+This  stage  was  very  interactive  and  practical.  Out  of  10,  5  candidates  including  me were
+shortlisted for the final HR discussion.
+
+Round 5: HR Interview
+
+The  HR  discussion  was  more  about  my  personality,  career  goals,  and  motivation  to  join
+Tekion. Questions included:
+
+●  Self-introduction.
+●  What do you know about Tekion?
+●  Why do you want to join Tekion?
+●  Behavioral questions like:
+
+○  Importance of mentorship.
+○  My perspective on teamwork and team spirit.
+
+At  the  end  of  the  day,  the  selected  candidates  were  announced.  I  was  among  them  and
+received the offer.
+
+I received:
+
+●  A 6-month internship.
+●  Conversion to Full-Time Employment (FTE) upon successful completion.
+
+Key Suggestions and Tips from My Experience
+
+Preparation
+
+●  Don’t lose hope – be confident in what you know.
+●  Be the best in the areas you’re strong at and highlight them.
+●  Practice LeetCode problems regularly.
+●  Revise last-minute concepts from GeeksforGeeks and other online resources for a
+
+quick brush-up.
+
+●  Balance coding with subject knowledge – parallel preparation in core subjects like
+
+DBMS, OS, and Computer Networks is equally important.
+
+Interview Strategy
+
+●  Be  very  clear  about  everything  you  include  in  your  resume  –  expect  questions  on
+
+each point.
+
+●  Answer in crisp, concise words.
+●  Using the right technical keywords is more impactful than long explanations.
+●  Stay confident and structured in your responses.
+
+Name: Sarumathi S
+Linkedin: Sarumathi
+Batch: 2022 - 2026
+
+All the best for your preparations
+

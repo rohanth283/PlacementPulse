@@ -1,0 +1,119 @@
+WELLS FARGO INTERVIEW EXPERIENCE 
+(INTERNSHIP) 
+ 
+ 
+ 
+ 
+About the Company: 
+ 
+Wells Fargo & Company is an American multinational financial services 
+company with a significant global presence. The company operates in 35 
+countries and serves over 70 million customers worldwide. It is a 
+systemically important financial institution according to the Financial 
+Stability Board. It is considered one of the "Big Four Banks" in the United 
+States, alongside JPMorgan Chase, Bank of America, and Citigroup. 
+ 
+Online Test 
+ 
+The test was conducted on the SHL platform and consisted of four 
+sections:  
+Verbal Aptitude, Business Aptitude, and two rounds of coding. 
+ 
+1. Verbal Aptitude: 
+ 
+o Format: 12 MCQs to be solved in 15 minutes. 
+o Content: Questions focused on grammar corrections, 
+vocabulary, and 4-5 reading comprehension-based questions. 
+o Navigation: Free navigation was prohibited. 
+ 
+2. Business Aptitude: 
+ 
+o Format: 14 MCQs to be solved in 25 minutes. 
+o Content: Data interpretation questions involving the different 
+types of graphs (pie, line, bar), and candlestick charts (about 2 
+questions).  
+o Each question typically included two graphs and the questions 
+were lengthy, requiring careful data analysis. 
+o Navigation: Free navigation was prohibited. 
+ 
+ 
+3. Coding Round 1 (Duration-40 minutes): 
+ 
+o Format: 2 coding questions, with driver code provided. Each 
+question came with 1 example of input/output  
+o Navigation: Allowed between questions. 
+o Content: The questions were word problem-based, requiring a 
+clear understanding of the problem before solving. They were 
+of easy to medium difficulty. 
+o Note: Each participant received a different set of questions. 
+ 
+4. Coding Round 2 (Duration- 10 minutes): 
+1 question 
+ 
+The question was similar to finding the number of Sundays 
+between two given years. 
+ 
+22 students were shortlisted for the interviews, which took place at MIT. 
+ 
+Interview Process: 
+ 
+The interview process consisted of three rounds: 
+Here are some of the questions I can recollect for each round: - 
+ 
+1. Technical Round 1 (45-50 minutes): 
+ 
+Topics questioned: Basics of OS, DBMS, a little bit of OOPS, 
+DSA 
+o Start- Discussion about my goals and aspirations. 
+o Questions: 
+▪ Operating Systems (OS): Process scheduling, what is a 
+process, kernel, and real-world examples of process 
+scheduling. 
+▪ Internship: Questions about my past internship and the 
+software used. 
+▪ Projects: Questions about my project work. (It’s important 
+to know your projects thoroughly.) 
+▪ Algorithms: Binary search, merge sort, quick sort, and 
+their efficiencies. 
+▪ OOP Concepts, what is a subclass? 
+ 
+ 
+▪ Databases: Questions on joins, column-based databases, 
+and foreign keys. 
+▪ Types of OS and how programs run. 
+▪ Questions about my role in clubs (ACM, AUSEC)  
+▪ What’s my process for debugging large codes? 
+ 
+2. Round 2 (20 minutes): 
+ 
+o Questions: 
+▪ How I learned about Wells Fargo. 
+▪ Goals and what I aim to achieve at Wells Fargo before my 
+internship and at the internship. 
+▪ Internship-related questions, and about my thoughts on 
+learning new technologies and where to start. 
+▪ Hobbies and what I do in my free time. 
+ 
+3. HR Round (10-15 minutes): 
+ 
+o Questions: 
+▪ What I like about Chennai. 
+▪ How I learned about the company. 
+▪ How do I work together in a team/project (process flow)? 
+ 
+My Question: I asked what’s the best way to develop knowledge 
+and skills in finance. She explained the various forums available 
+and emphasized that gaining experience in the finance sector is 
+the best way to develop it. 
+ 
+Result: 12 students were selected for the Internship. 
+ 
+GOOD LUCK!!! 
+ 
+Anagha Srikrishna 
+CEG CSE 2026 
+ 
+Email: anaghasrikrishna@gmail.com 
+Mobile: +91 8825789933 
+LinkedIn: 
+https://www.linkedin.com/in/anagha-srikrishna-b6a4ba215/ 

@@ -1,0 +1,79 @@
+                 NatWest Interview Experience 
+                    (Software Engineer Intern) 
+                             Devadharsan M 
+ 
+About NatWest 
+NatWest Group is a major British financial institution formed in 1970 from 
+the merger of National Provincial Bank and Westminster Bank. It is a 
+leading bank in the UK offering a wide range of services to personal, 
+business, and corporate customers through brands like RBS and Coutts. 
+Headquartered in Edinburgh, Scotland, the company has grown through 
+the merger of over 200 smaller banks. NatWest is committed to financial 
+support, fostering innovation, and building sustainable value for its 
+customers and shareholders. 
+ 
+Interview Rounds 
+The selection process for the Software Engineer Intern role consisted 
+of two stages: 
+1. Online Assessment 
+2. Technical + HR Round 
+A total of 23 students were shortlisted after the first stage for the final 
+interview. 
+ 
+1. Online Assessment 
+The assessment comprised: 
+ Coding Questions (2) 
+1. Sort the array of elements based on frequency. 
+2. Group the odd numbers first and even numbers next in an 
+array of integers. 
+(Both were relatively easy and straightforward to solve.) 
+ Verbal Aptitude & General Aptitude 
+o Topics: profit & loss, percentages, logical thinking, pattern 
+finding. 
+o Difficulty: Moderate but time-consuming. 
+ SQL MCQs 
+o Covered basic SQL concepts. 
+o Manageable if you are confident with SQL fundamentals. 
+ 
+2. Technical + HR Round(30-40 min) 
+This was a combined technical and HR interview. 
+ Introduction & Projects Discussion 
+o Began with a self-introduction. 
+o Explained all three projects in detail; the interviewer 
+appreciated the clarity and depth of explanation. 
+ Technical Questions 
+o Why use MongoDB over SQL? 
+o Write an SQL query involving JOINs based on my project’s 
+database schema. 
+ HR Interaction 
+o Asked if I had any questions for them. I enquired about the 
+interviewer’s personal experience at NatWest. 
+o Unlike my panel, some other interviewers also asked 
+candidates DSA and behavioral questions. 
+At the end of the process, 9 students were selected for the internship 
+— I was fortunate to be one of them. 
+ 
+Key Takeaways 
+1. Practice DSA problems daily to stay sharp. 
+2. Have a thorough understanding of your projects — being able 
+to explain them confidently makes a strong impression. 
+3. Communication is key: express your thoughts clearly and 
+confidently. 
+4. Be genuinely curious to learn. Even if you don’t know something, 
+show eagerness to understand. 
+5. Start preparing early, and know your resume inside out — every 
+point should be explainable. 
+ 
+Overall Experience 
+The NatWest interview process was a very positive and enriching 
+experience. It tested my problem-solving ability, technical knowledge, 
+and communication skills. More importantly, it highlighted the importance 
+of being confident about your projects and fundamentals rather than just 
+focusing on DSA. I thoroughly enjoyed the process and was delighted to 
+secure the internship opportunity. 
+ 
+Contact 
+📧 Email: devadharsan0601@gmail.com 
+🔗 LinkedIn: Devadharsan M 
+If you have any doubts, feel free to reach out — happy to help! 
+ 

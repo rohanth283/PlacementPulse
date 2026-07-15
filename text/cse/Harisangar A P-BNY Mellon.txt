@@ -1,0 +1,144 @@
+BNY MELLON – INTERNSHIP INTERVIEW EXPERIENCE 
+Harisangar A P 
+2022103554 
+CSE batch of 2026, CEG 
+About the company 
+BNY is a global financial services company headquartered in New York City. BNY oversees 
+nearly $50 trillion in assets for our clients – managing it, moving it, and keeping it safe. 
+For 240 years, they have been creating new solutions that benefit businesses, communities, 
+and people everywhere. It is the world's largest custodian bank and securities services 
+company. The bank's primary functions are managing and servicing the investments of 
+institutions and high-net-worth individuals. Its two primary businesses are Investment 
+Services and Investment Management. The bank's clients include 80 percent of Fortune 500 
+companies. Currently, the company has over 12,000 employees across our three locations: 
+Mumbai, Pune, and Chennai  
+No of Rounds: 3 (Online Test + Technical interview + Technical & HR interview) 
+Stipend: 75,000 INR per month 
+Duration of internship: 8-10 weeks 
+Round 1 – Online Assessment  
+Coding Round: Conducted in Hackerrank Website  
+Test Duration: 120 mins  
+Camera On  
+1 easy, 2 medium and 1 hard question.  
+Only function not full code 
+Coding questions: 
+1.Balancing Elements 
+When an element is deleted from an array, the higher-indexed elements shift down one index to fill 
+the gap, A “balancing element” is defined as an element that, when deleted from the array, results 
+in the sum of the even-indexed elements being equal to the sum of the odd-indexed elements. 
+Determine how many balancing elements a given array contains. 
+Example: 
+Input: 
+n=5 
+arr = [5,5,2,8] 
+Output: 
+2 
+When the first or second 5 is deleted, the array becomes [5, 2, 5, 8]. The sum[even] = 5+5=10 and 
+sum[odd]=-2+ 8-10. No other elements of the original array have that property. There are 2 
+balancing elements: arr[0] and arr[1].  
+ 
+2. Maximum Difference  
+Given a number of nodes and edges, construct an undirected graph, connected component of the 
+graph is any group nodes, For each connected component, determine the difference between its 
+maximum and minimum value. Return the maximum of all of these differences.  
+For example given a graph with 4 nodes, connected as follows: (1, 2, 3), and (4). The only connected 
+component has a difference 3-1=2 
+Input: 
+int g_node; 
+int g_from[g_edegs]; 
+int g_to[g_edges]; 
+Output; 
+int maximum_absolute_diff 
+ 
+3. Paint the Ceiling 
+Given n, s0, k, b, m, a 
+s[i] = ((k*s[i-1] mod m)+1+s[i-1]) for 1<= I <=n 
+Example: 
+s=[2,4,6] 
+Take all combination of 2 elements with repeation and find how many s1*s2<=a.   
+ 
+4. Positive Negative 
+The traders of Hackerland have stock prediction model that they want to backtest. The predicted 
+profit earned every month by a certain portfolio is given by an array pnl of n integers where a 
+negative integer denotes loss. 
+ The traders decide to iterate through the months from 1 to n, and if the pnl is positive, they add it 
+to their profit and if the pnl is negative, they can either subtract it or skip it. The net profit must 
+always be greater than or equal to 0. 
+Given the array pnl and an integer k, find the maximum total profit that can be earned by the 
+portfolio after subtracting at least k losses. If it is not possible to take at least k losses, report -1 as 
+the answer.  
+Example: Suppose n=5, k=2 and pnl=[4, -3, 6, -2, -1] 
+The optimal strategy is to add the profits 4 and 6, and the losses [-2, -1] to get a net profit of 7 which 
+is the maximum possible. 
+For me 1st question 15/15, 2nd question 15/15, 3rd question 5/11, 4th question – 10/15 
+test cases passed. 
+24 students were selected for the next round. I was one of them. 
+Round 2 – Technical Interview 
+The interview was conducted in person at CUIC. It went for about 30-35 min. 
+The interviewer first went through my resume and asked about the Clubs mentioned in my 
+resume. Then she asked about the Tower of Hanoi problem. I tried but she corrected it. I 
+gave the correct solution and then she was satisfied.  
+The interviewer started to test me in Data Structures. She asked about stacks, queues, and 
+Binary Search Trees(BST) and I explained using paper and pen. For BST, I started by 
+explaining about trees, and binary trees, and then I explained about BST.  
+The interviewer gave one scenario. Consider your friend or neighbor asking you to develop 
+the pickle e-commerce for their business. You have to develop the website including the 
+backend and database. She asked what tech stacks are you going to use, and what is the 
+website architecture and asked about website flow. 
+ Fortunately, this website looked like my DBMS project. I explained all the things. She’d 
+asked why did you use PostgreSQL instead of MySQL or any other tool. I said that I already 
+implemented PostgreSQL in my project.  Then she asked what if I searched manga instead 
+of mango, and asked me how to implement this. I said if there is only Tamil language. I will 
+store all Tamil equivalent words in the database. For all region words, I will use Google 
+Translate API to convert region words to English. She asked what if I searched maavadu 
+instead of manga, and I said that I would use a dictionary for it.  
+The interviewer gave a Palindrome problem( https://www.geeksforgeeks.org/c-program-
+check-given-string-palindrome/)  and I said the brute force approach. She asked me to write 
+code on paper. She did not tell to optimize the code but I said I have optimized approach 
+which is using two-pointer without any extra space, we can solve problem.    
+She asked questions related to my certifications. She asked what is REST API and I was 
+able to answer. She asked full form of REST and I said I forgot it. Then, She asked full form 
+of API and I answered. She inquired about what is stateless and stateful. I could not answer 
+it correctly. 
+ 
+Overall, the interview went very well and I was shortlisted for the next round. 
+10 students were selected for the next interview. I was fortunate to be one of them. 
+ 
+Round 3 – Technical + HR Interview 
+It took place in person at CUIC. It went for about 35 minutes.  
+The interviewer asked my resume and asked me to introduce myself. Then he went through 
+my resume thoroughly. He asked which platform did you use to solve the problems. I said I 
+am using Leetcode. He asked why? I said that compare to other platforms, Leetcode’s UI 
+and UX is nice to solve the problems. He asked do you like UI? I said yes.   
+The interviewer asked me what is HTTP default port number. He explained how client-server 
+communication works and then asked the same question what is the HTTP default port 
+number? I took some time to think about it. He asked don’t you know? I said yes. He moved 
+to the next question.  
+Which language you know, he asked. I said C++. He gave me the paper to write code. The 
+question is to reverse the string without an inbuilt function. I wrote the code from starch. 
+Then he asked me to input the string from the user. I wrote the code.  
+The interviewer gave one scenario. If you collect the data from one HTML form like first 
+name, Last name, address..etc., then it will go to the backend and finally, it will be stored in 
+the Database. What if any of the fields are entered with a script file or any malicious link and 
+if it is stored in the database, it will be dangerous? How do you protect DB from it?  
+I said that I would use Node.js for the backend. In the node, there is a library to format the 
+data from the form and it will not accept the malicious link.  
+The interviewer asked me HR questions and behavioral questions. I answered each 
+question with an example.   
+The interviewer asked me an aptitude question. 20 people shake hands with each other. 
+How many handshakes will be there in total? He asked the final answer. I answered 190 
+handshakes.   
+Finally, the interviewer asked me, do you have any questions? I asked what tech stacks are 
+used in summer internships. 
+ 
+Overall, 6 of us from CEG and MIT got selected for the summer internship 
+program at BNY, and I was fortunate to be one among them. 
+ 
+If you have any further questions, I will be very happy to address it :) 
+Harisangar A P 
+Batch: 2022-2026 
+Department: CSE  
+Contact No: +91 99528 78399 
+Linkedin Id: www.linkedin.com/in/harisangar-a-p 
+Email id: apharisangar4@gmail.com  
+All the very best! 

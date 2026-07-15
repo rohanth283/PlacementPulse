@@ -1,0 +1,67 @@
+                                                        TEMENOS 
+ 
+Temenos is a company specializing in enterprise software for banks and financial services. 
+Headquartered in Geneva, Switzerland, and with 67 offices in 40 countries, Temenos serves over 
+3,000 financial institutions in 145 countries across the world. It claims to be used by 41 of the top 
+50 banks worldwide. 
+ 
+Round 1: (Time duration – 1 hr.) 
+ 
+Focus on database queries and scenario-based coding. 
+We were asked to build a bank system where the customer banking details, withdrawals and 
+transactions can be recorded, a library system and then queries for updating the match scores (ipl 
+score board). A scenario-based essay was asked. 
+ 
+Round 2: (Time duration – 30 min) 
+ 
+1. Tell me about yourself? 
+ 
+2. Questions focused on Resume. 
+ 
+3. Technologies used in projects. (I did projects on AWS (Amazon Web Services) and Machine 
+learning and Blockchain. So, I was asked to explain all the modules used in these projects.) 
+and questions were asked based on these technologies. 
+ 
+4. SQL queries (find the second maximum number in a row, write a query to find duplicate 
+emails in a database, etc.,) 
+ 
+5. Asked to rate my skills in CPP (1-10) [justify why you rated] 
+ 
+6. CPP questions, OOPS concepts (explain with real life examples) 
+ 
+7. Strength and Weakness 
+ 
+8. Why should we hire you? 
+ 
+9. Any questions for me? (ask some questions related to Temenos) 
+ 
+ 
+Round 3: HR Round [Duration – 15+ min] 
+ 
+1. Introduce yourself? 
+ 
+2. Asked to explain questions related to projects (what is the objective, what problem did your 
+project solve? What are the difficulties you faced?) 
+ 
+3. As I did project on Blockchain, I was asked to explain blockchain in a simple manner and its uses 
+and how does it function) 
+ 
+4. Some general questions 
+Topics to be focused: 
+ 
+ Database management systems 
+ Object oriented programming 
+ Algorithms 
+ Be ready to answer any questions related to your projects. 
+ 
+ 
+Take away: 
+ 
+Just be confident while you answer. You will rock the interview for sure! 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Rohini R 
+rohiniraja.cse@gmail.com 

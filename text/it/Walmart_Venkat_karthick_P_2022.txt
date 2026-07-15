@@ -1,0 +1,95 @@
+INTERVIEW   EXPERIENCE
+
+NAME   :    VENKAT   KARTHICK   P
+REG   NO   :    2018115125
+COMPANY   :    WALMART
+MONTH   &   YEAR   :    SEP   2021
+
+ROUND   1   :   (ONLINE   TEST)
+It   is   conducted   on   the   hackerearth   platform.   It   consists   of   10   technical   mcqs   and   2
+coding   questions(20   mark   and   50   mark).
+The   coding   questions   are:
+
+1. Modulus   of   2   hexadecimal   numbers.   (20   marks)
+Link:    Modulus   of   two   Hexadecimal   Numbers
+
+2. Longest   subsequence   of   ones   formed   by   changing   at   most   k   zeros(50   marks)
+
+Link:    Longest   subsegment   of   '1's   formed   by   changing   at   most   k   '0's
+I   solved   this   question   using   the   sliding   window   approach.
+
+I   solved   only   the   50   mark   question.
+
+ROUND   2   :   (TECHNICAL   INTERVIEW   1)
+It   is   conducted   in   zoom.   It   is   a   45-50   minute   interview.   The   interviewer   wants   me   to
+introduce   myself.   And   then   I   explained   my   project   to   him.
+He   asked   the   basics   of   OOPS.   I   explained   the   concepts   like   abstraction,   encapsulation,
+polymorphism   and   inheritance   with   an   example.
+Then   he   asked   me   to   share   the   screen   and   to   open   the   editor   of   my   own   choice.   I   was
+given   2   basic   coding   questions.
+
+1. Find   whether   the   given   number   is   prime   or   not.   After   I   typed   the   code,   he   asked
+why   I   iterated   from   2   to   n/2.   After   I   convinced   him,   he   asked   if   there   are   any
+optimizations   possible   and   why?   I   said   we   can   iterate   from   2   to   sqrt(n).
+
+2. Find   whether   a   given   string   is   palindrome.
+
+As   I   quickly   solved   the   questions,   he   asked   me   2   aptitude   questions.
+
+1. Pipes   A   and   B   can   fill   a   tank   in   5   and   6   hours   respectively.   Pipe   C   can   empty   it   in
+12   hours.   If   all   the   three   pipes   are   opened   together,   then   the   tank   will   be   filled   in?
+2. The   60   litre   mixture   contains   90%   milk   and   rest   water.   If   10   litres   of   milk   is   added
+
+to   the   mixture,   the   amount/percentage   of   milk   in   the   mixture.
+
+In   DBMS,   he   asked   me   the   differentiation   between   having   and   where   clause.
+
+ROUND   3   :   (TECHNICAL   INTERVIEW   2)
+It   is   also   conducted   in   zoom.   It   is   also   a   45-50   minute   interview.   I   was   given   2   coding
+questions.   I   can   code   in   an   IDE   of   my   own   choice.
+The   questions   are:
+
+1. Given   an   array,   separate   the   odd   and   even   numbers   and   make   the   odd   numbers
+appear   first   without   using   extra   space.   I   told   her   the   two   pointer   approach   and
+coded   it.   It   passed   the   test   cases   which   she   gave.
+
+2. Given   a   number,   we   want   to   give   the   next   safe   number.   A   number   whose   binary
+representation   does   not   have   consecutive   ones   is   called   a   safe   number.   I   coded
+the   brute   force   approach   which   passed   all   test   cases   she   gave.   I   explained   the
+optimal   approach.
+
+She   asked   some   questions   in   OOPS   and   OS.   Sample   questions:
+
+1. Difference   between   process   and   thread.
+2. Explain   about   Mutual   Exclusion   and   semaphores.   She   also   wants   me   to   write   a
+
+small   code   snippet   of   mutex   lock.
+
+The   interviewer   was   so   friendly   and   extracted   my   best.
+
+ROUND   4   :   (HR   INTERVIEW)
+It   is   also   conducted   in   zoom.   It   is   a   30   minute   interview.   It   was   a   bit   tricky   to   me   as   I   was
+not   prepared   for   it.
+Questions   like:
+
+1. Tell   me   about   yourself   which   is   not   in   your   resume.
+2. Which   do   you   prefer?   SmartWork   or   HardWork
+3. Your   greatest   failure   in   life   and   how   you   overcame   it.
+4. Your   opinion   about   teamwork.
+5. What   motivates   you?
+6. Your   hobbies?   I   said   reading   books.   And   we   discussed   some   of   the   books   which
+
+I   read.
+
+7. Why   walmart?
+8. Why   did   you   choose   this   course?
+
+She   asked   to   explain   about   one   of   my   projects.   Then   she   asked   some   questions   from
+my   resume.
+
+16   students   got   selected   and   I   was   one   of   them.
+
+NOTE   :    Be   relaxed   and   try   to   give   your   best   to   each   question.
+
+ALL   THE   BEST
+

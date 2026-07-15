@@ -1,0 +1,153 @@
+Citicorp – Intern Interview Experience 
+ 
+About the company  
+Citi is a global bank that offers a variety of financial services, including 
+banking, credit cards, and investment solutions. It operates in more than 160 
+countries and values innovation, diversity, and teamwork, creating an inclusive 
+workplace where employees can grow. Citi’s mission is to help people, businesses, 
+and communities achieve their financial goals. 
+Role: Personal Banking & Wealth Management Technology (PBWMT) 
+Stipend: 75,000 INR per month  
+Duration of internship: 8-10 weeks 
+ 
+Selection Process : 
+ 
+The Selection process had 3 rounds. 
+1. Online test 
+2. Technical Interview 
+3. HR Interview 
+ 
+1.Online test  
+This online test had 4 sections basically. 
+ 
+1st section  -  Numerical and Logical Reasoning 
+ 
+2nd section -  Quantitative aptitude 
+ 
+3rd section -  MCQs on Data Structures and Algorithm 
+ 
+4th section -  Coding round 
+ 
+First section contained questions from permutations and combinations, ratio 
+and proportions, distributions, finding odd one out. One of the questions that I 
+could recollect is the classic garland problem. It goes like “Number of ways in 
+which ‘m’ different flowers can be strung to form a garland so that ‘n’ flowers are 
+never separated are? “. 
+Second section had questions like evaluating the expression and problems on 
+profit and loss, discounts, time and work, speed and distance , LCM and HCF. 
+ 
+The third section aims to test the candidate’s understanding of programming 
+concepts and DSA. It included questions on trees, sorting, recursive algorithms, 
+memory management, bit manipulation, binary arithmetic, function overloading, 
+and pointer manipulation. 
+ There were also questions where the output of a code snippet had to be 
+selected. Apart from that we had questions with two code snippets and I was 
+required to choose the correct conclusion based on both.  
+ 
+Fourth section had 2 coding questions. Both the questions were based on 
+string manipulation. They were straightforward and quite easy. This section had a 
+40-minute time frame, and we were allowed to switch between the questions as 
+needed. Whereas for the first 3 sections, we were given barely 1 minute for each 
+question to solve.  
+ 
+In this test, the first three sections were crucial, as solving the aptitude 
+questions in 1 minute was very challenging and this played a major role in 
+determining our selection for the next round, as almost all candidates were able to 
+solve the questions in the fourth section correctly. 
+ 
+ 
+2. Technical Interview (30.09.2024) 
+ 
+A total of 25 students from CEG and MIT have been shortlisted for technical 
+interview. Both HR and Technical interviews were in-person interviews which held 
+at CUIC, CEG.   
+ 
+The interviews were conducted across 5-6 rooms, with students being 
+randomly assigned to each. Some rooms had a single interviewer, while others had 
+two. I was interviewed by a panel of two interviewers. 
+ 
+I entered the room carrying three copies of my resume, as instructed. After 
+greeting the interviewers, I handed them my resume. The interview began with the 
+interviewers introducing themselves, followed by them asking me to introduce 
+myself. 
+ I shared my educational journey, starting from my 10th grade to my current 
+studies in college. I also highlighted my involvement in various clubs and 
+organizations, emphasizing my roles and positions to showcase my leadership and 
+teamwork skills. Be prepared with this self-introduction as it makes the first 
+impression.  
+ 
+After reviewing my resume, they asked me to explain the DBMS project I 
+worked on in my 4th semester. It was an NGO Management project aimed at 
+bringing together various NGOs to help people in need. I explained the project in 
+detail, including the tech stacks used for frontend and backend development, as 
+well as how it benefited the end users. I was also told to describe the structure of 
+the database created. 
+Since our team was very attached to the project, we named it “PRANAVAM” 
+which reflects our motive of love in helping the needy and designed logo too. I 
+mentioned this, and they appreciated it. They also asked about any unique or 
+special features that set our project apart from others. 
+They asked me about SDLC and the process of creating a product. At the 
+time of the interview, I was in my 5th semester, and we hadn't yet studied "Software 
+Engineering". However, I was familiar with a few basic concepts related to the topic. 
+I believe it's good to be honest with the interviewer about not knowing all the 
+details and that they may help you. So, I answered these questions based on my 
+basic knowledge of the subject. They also asked me about my favourite subject, to 
+which I replied DBMS. They then asked if I could write queries for any type of data 
+retrieval, and I confidently responded with a yes. 
+They asked me how the repetitive task of a person who manually verifies 
+data correctness and inserts it into a table could be improved. I explained that 
+writing traditional programs can only handle a limited set of predefined conditions, 
+which reduces their overall effectiveness for dynamic and complex data validation. 
+Therefore, I suggested using machine learning (ML) to automate data validation, 
+allowing dynamic checks based on learned patterns before inserting the data into 
+tables. Apart from this ,they asked me few questions on OOPS. 
+In the end, they asked me what advice I would give to the juniors of my 
+college. I told them that, apart from encouraging them to develop their technical 
+skills, I would also strongly recommend joining various clubs and associations, as 
+college is the most important platform for developing social and networking skills. I 
+also asked about their journey with the company.  Finally, I thanked them and 
+shook hands. 
+ 
+2. HR Interview (30.09.2024) 
+ 
+From the 25 students who were qualified for technical round, 12 were 
+selected for the next round (HR). 
+ 
+It was a one-to-one interview. Since he had a copy of my resume on his 
+laptop, I didn’t hand over my resume. He began with his introduction, and then I 
+followed with my own introduction. When I mentioned my involvement in a dance 
+club, he asked about the style of dance we practice and the number of members in 
+the club. I shared details about the events we participated in and the prizes we won. 
+ 
+As I mentioned my participation in track events as an athlete in my resume, 
+he asked about my main sport and my time record for the 100-meter sprint, as I 
+told him I was a sprinter. He also inquired about the places we travelled to for 
+sports meets. He seemed quite impressed by my versatility, being active in different 
+fields. 
+ 
+When he encouraged me to ask questions, I inquired about the work culture 
+at Citi. He highlighted about various sports and cultural activities within the 
+company and shared his involvement in sports.  
+Later, he asked me a stress-based question: "What if we don’t hire you?" 
+I replied that while I would feel disappointed for some time, I would learn from the 
+experience, and start preparing for my next interview. I added that this mindset of 
+resilience and adaptability is something my experience in sports has taught me. 
+Out of 12 people, 6 were selected for PBWM intern role, and by god’s grace I 
+was one among them. 
+ 
+All the best! 
+ 
+S SREENITHIKA (2022-2026) CSE (Q) 
+ 
+Feel free to contact me! 
+Email id:  sreenithikas@gmail.com 
+Linkedin:  http://www.linkedin.com/in/sreenithikasaravanakumar 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

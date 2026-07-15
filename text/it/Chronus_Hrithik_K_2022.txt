@@ -1,0 +1,53 @@
+Interview Experience
+
+Name : Hrithik K
+Reg. no : 2018115038
+Company : Chronus
+Month & Year : SEP 2021
+
+Round 1 : (Online test)
+
+10 aptitude questions, 3 coding questions
+Around 10 students were selected for the interviews.
+
+Round 2 : (Technical interview)
+
+1) Buy and sell stocks
+
+Given an array of stock prices for any number of days. Buy stock
+in a day and sell in another day, with some transaction cost, return
+the maximum profit with any number of transactions.
+Similar question: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+2) Select a seat in a theater
+
+Given an array of a row in a theater consisting of 0’s and 1’s, 0
+denoting empty seats and 1 denoting filled seat. Select an empty
+seat in the array, where the nearest filled seat in the left and right
+direction is at the maximum distance.
+
+Round 3 : (Technical and HR interview)
+Coding :-
+
+1) Given an array of integers and an integer k denoting the window
+size. Return the maximum sum with integers consisting of k
+consecutive numbers.
+
+2) Given an array of integers, return the smallest number that cannot
+be represented as the sum of elements of any subsequence of the
+given set.
+Similar question:
+https://www.geeksforgeeks.org/find-smallest-value-represented-sum-subset-given-array/
+
+HR questions :-
+
+1) Where do you see yourself in 5 years?
+2) What are the problems you have faced while doing a project?
+
+Round 4 : (HR interview)
+
+What are the problems you have faced in your life? And a few
+
+personal questions like where are you from and what do your parents
+do?
+

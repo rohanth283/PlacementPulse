@@ -1,0 +1,130 @@
+ 
+ 
+ACCOLITE DIGITAL 
+ 
+ 
+Accolite is a global IT Services company headquartered in Dallas, USA with offices in India. 
+Recognised for providing cutting edge information technology services with a proven track record 
+of being totally client focussed, Accolite promises efficient, affordable and on-time IT services. 
+The company started their placement process at 11th September 2020 and finished their process at 
+12th September 2020.It consists of 5 rounds where the 1st and 2nd round were online rounds that 
+took place at the first day and the other 3 rounds were the interview rounds that happened at the 
+latter day. 
+ 
+ 
+Round 1: Aptitude,Technical MCQ(30 Mins): 
+ 
+Online test consisting of 30 MCQs to be solved within 30 mins on the Eduthrill platform. 
+Questions were based on the basics of DS, sorting and searching, DBMS,Networks, Computer Ar-
+chitecture, and C language. The questions were in the medium level of difficulty. I cleared the first 
+round with the ease because I was very well prepared with the basics. 
+ 
+ 
+Round 2: Coding Round (1 hr): 
+ 
+ 
+The coding round happened in the Codelyser platform. It consists of two question 
+where one was easy and another one was medium. 
+1)The first question was that in an given array which has (0s and 1s) we have to find the number of 
+1s which are present in between the zeroes. 
+2)Rain Drop Problem.(Straightforward). 
+ 
+In this platform ,the tricky part was we had  to enter the test cases to check our results and as 
+well as we couldn’t see the test cases that has been passed which was used for evaluation. 
+ 
+It was little bit different to accustom to the platform but I did solve 2 questions  in the matter 
+of 20 mins. I did solve it fast because I knew 2 questions already. 
+ 
+Round 3: Technical Interview Round-1: 
+ 
+I got selected for  technical round which happened on the next day morning. The platform 
+used for interview was Skype. The duration of the interview was around 1.5 hours. It was the best 
+interview that I had ever attended. The interviewer was very much friendly and made me comforta-
+ble so that I could answer him in the better manner. At first it was a basic introduction about myself 
+and he even wished me that I had a good resume. After that he asked me to explain one of my pro-
+jects which he founded to be interesting. 
+ 
+After that he gave me an interesting question which I have not come across. I started to 
+solve the question and it became more of a discussion rather than interview. I was asked to code the 
+answer and it was screen shared to the interviewer. The way I used the data structure and coding 
+style was very much standard. After so many discussion the question was solved by using BFS al-
+gorithm. By listening to the question I couldn’t even guess it had to be solved using BFS. The inter-
+viewer asked me to send the code to him for recruitment purpose. This was the only one question 
+which was asked for the whole interview round. 
+ 
+Round 4: Technical Interview Round-2: 
+ 
+I got the call for the second interview round. It was started in the same manner as before 
+round where the interviewer asked me the basic introduction. After that he asked me a basic DBMS 
+question. After that he asked me a question in “Trees”. The question was to write a function for Post 
+order traversal in recursive manner. After that he asked me to explain the code and dry run it with 
+certain test cases. After that he asked me to code the same above question in the iterative manner. I 
+had solved that as well. 
+ 
+ 
+ 
+Then the interviewer shouted me an another question to solve. This time it was with the giv-
+en array and value ‘k’, I had to print the k-rotated array. I had solve it with brute force with 
+O(n^2)and then he asked me to give the efficient solution. So I wrote the code with the efficient 
+solution. He was happy with that and he directed me to the managerial round. This round took place 
+around one hour to finish. 
+ 
+Round 5: Managerial Interview Round: 
+ 
+The Manager introduced himself and asked me to do the same. After that he asked me about 
+my aspiration,I gave him some kind of cliche answer. He didn’t accept it so I gave a better one with 
+example. He appreciated me for that. He asked me one or two scenario based questions. 
+ 
+After that he asked me to code to find the angle between hour hand and second hand in the 
+clock.It was quite tough and so I took my time  and gave him the answer. He accepted it and then 
+move with another question which was something with time again. I gave him a solution but it was 
+not a efficient one. 
+ 
+Then finishing the coding part, he asked me “What is Denormalisation? Why it has to be 
+done”. I told him  the answer which I thought it was right. After that interview is finished. 
+Verdict: 
+ 
+I got my result just after finishing my final round. I was glad to hear that I got selected. 
+ 
+ 
+Topics to be focussed: 
+ 
+ 
+◆
+Data structures 
+ 
+◆
+Database management systems 
+ 
+◆
+Operating system 
+ 
+◆
+Computer Networks 
+ 
+◆
+Algorithms 
+ 
+ 
+Take away: 
+ 
+The things which I got to learn from my placement process are: 
+ 
+1)Be strong with basics. 
+ 
+2)Always practice. 
+ 
+3)Never ever give up. 
+ 
+4)Wear your rejection as a batch. 
+ 
+5)You will get what you deserve. 
+ 
+The final word from my opinion for you juniors,”Don’t ever think that a company doesn’t select 
+you meant that you are not deserved,Think that the company that rejects you doesn’t deserve you”. 
+ 
+ 
+Hope this helps. 
+Thank you and All the Best for your placements. 
+Name: Sidharth Ganesh R 
+Mail id: sidharth12899@gmail.com 

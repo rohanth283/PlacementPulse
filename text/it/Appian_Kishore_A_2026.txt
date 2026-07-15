@@ -1,0 +1,196 @@
+PLACEMENT EXPERIENCE – APPIAN
+
+NAME: KISHORE A (2022115034)
+
+ABOUT THE COMPANY:
+
+Appian is a software company that automates business processes. The Appian AI-Powered
+Process Platform includes everything needed to design, automate, and optimize even the
+most complex processes, from start to finish. They have office locations all over the world,
+including Chennai in India.
+
+CANDIDATE PROFILE:
+
+The most important thing is the resume. It should be clear, concise, and well-structured. I
+ensured my resume was one page long, covering personal details, educational
+qualifications, projects (with short descriptions and technologies used), skills, co-
+curricular activities, and certifications/achievements (if any).
+
+It is important to only include content you are confident about, as interviewers will ask
+detailed questions from it. Since the Product Engineer role emphasizes data modeling, I
+ensured I had strong preparation in DBMS, SQL, and related concepts.
+
+PRELIMINARY ROUND – ONLINE TEST:
+
+The first round was an Online Assessment held on the Glider platform. It consisted of 4
+programming problems:
+
+1.  2D Vector Search:
+
+•  Given a 2D vector of strings and a keyword, search for the keyword in the
+
+vector.
+If found, return the count of occurrences and the corresponding strings.
+
+•
+
+2.  Age Array Calculation:
+
+•  Given an array of ages, find the number of ages less than 14 and greater
+
+than 60.
+
+•  Return ceil(count) // 3.
+
+3.  Maximum Rooms Booked Simultaneously:
+
+•  Based on booking data, find the maximum number of rooms booked at the
+
+same time.
+
+4.  Unattempted Problem:
+
+•  This was the only problem I left unsolved as I couldn’t fully understand the
+
+requirements during the test.
+
+I solved three out of four problems successfully.
+
+TECHNICAL ROUND:
+
+Mode: In-person (at CUIC)
+Duration: 35 – 40  minutes
+
+•
+
+I entered the room calmly with a smiling face, greeted the panel member, and
+handed over my resume.
+
+•  She began by asking about the subjects studied till my last semester related to IT.
+•  When I mentioned Machine Learning, she asked me to list the topics I had studied.
+•  She also asked how many problems I had solved in the online test and which one I
+
+didn’t attempt, followed by my explanation of why.
+
+Scenario-based Task:
+
+•  She gave me the scenario "Stationery Management in our Campus" and asked me
+
+to:
+
+o  Draw an ER Diagram for the scenario.
+o  Represent it in table format.
+o  Perform 1NF on one table.
+
+•
+
+I explained my design and reasoning while drawing.
+
+SQL Task:
+
+•  Query: “Select the total count of each item bought by the students.”
+•
+
+I wrote the SQL statement and explained the logic.
+
+Conceptual Question:
+
+•  Difference between XML and JSON.
+
+Coding Task:
+
+•  Scenario: “When an employee logs into the website, if today is their birthday,
+
+display a ‘Happy Birthday’ message.”
+I chose Java Servlets with PostgreSQL for the backend.
+
+•
+•  Logic: Fetch DOB from employee DB, get current date from the system, and
+
+compare using StringBuilder. No frontend code was required.
+
+Finally, she allowed me to ask questions, and I inquired about support for freshers when
+starting their journey at Appian.
+
+BEHAVIORAL ROUND 1:
+
+Mode: Virtual Interview
+Duration: 10–15 minutes
+
+Introduced myself.
+
+•
+•  Asked why I wanted the Product Engineer role.
+
+o
+
+I explained my interest in exploring this role after working on several software
+projects.
+
+•  Asked about the role of PE at Appian, which I described in detail.
+•  Stability check: Interviewer questioned if I was better suited for a Software Engineer
+
+role.
+o
+
+I confidently reaffirmed my interest in PE and declined the SE role.
+
+•
+
+I asked about the onboarding process, and he explained it.
+
+BEHAVIORAL ROUND 2:
+
+Mode: In-person Interview
+Duration: 5 minutes
+
+•  Asked about my family details.
+•  Asked about my school details – where I studied, number of centums, and my
+
+current CGPA.
+
+•  Asked whether I truly wanted this role and to explain the PE role.
+•
+I answered confidently, and the session ended shortly after.
+
+PREPARATION STRATEGY:
+
+•  Focused heavily on DBMS, SQL, and Data Modeling.
+•  Revised the projects mentioned in my resume.
+•  Practiced coding on LeetCode and GeeksforGeeks.
+•  Prepared for behavioral questions and role-based discussions.
+•  Make a schedule on how you want to cover the topics and stick to it.
+
+o  First: Arrays, Strings, Linked List, Graphs (BFS and DFS), Trees, Sort and
+
+Search.
+
+o  Later: Dynamic Programming, Backtracking, Bit Manipulation.
+•  Towards the end, practice questions daily (LeetCode daily problem).
+•  For CP, I used: Striver A2Z DSA sheet
+•  For DBMS , i study  SQL concepts in W3schools and watch you tube videos for
+
+normalization and refer basic DBMS concepts in GFG.
+
+•  For OS & OOPS , I studied in GFG
+
+TIPS:
+
+•  Stay calm and composed. Do not get tense.
+•  Know everything that you’ve put in your resume.
+•  Have a good knowledge about DBMS, OOPS, and OS.
+•  Communicate clearly with the interviewer — explain your thought process ( don’t be
+
+silent ).
+
+•  Prepare some standard  questions for both HR and Technical round.
+•  When asked if you have questions for them, never say “no”. Ask about projects,
+
+work culture, or role expectations.
+
+•  Read about the company before attending the interview.
+
+Feel free to reach me if you need any help or have more questions at 7397585165.
+
+ALL THE BEST!
+

@@ -1,0 +1,52 @@
+ 
+ 
+ 
+ 
+ 
+TEMENOS 
+ 
+Temenos is a company specialising in enterprise software for banks and financial 
+services, with its headquarters in Geneva, Switzerland. It  was initially created in 1993, and 
+has been listed on the Swiss stock exchange since 2001. It serves over 3,000 financial 
+institutions in 145 countries across the world. It claims to be used by 41 of the top 50 banks 
+worldwide. 
+In  our  college, Temenos  offered  for  a  Software  Engineer  role  and  the  
+recruitment  process  consists  of  three  rounds. 
+Round 1 : Scenario  based  Coding, Queries 
+In  this  round, They  have  given  two  scenario  based  questions  and  two  complex  
+queries. We  can  attend  any  three  questions  out  of  four  which  we  are  good  and  speed  
+at. And  we  had  one  general essay  within  300  words. 
+This  round  should  be  completed within  one  hour. 
+Round  2 : Technical  Round 
+1. Tell  me  about  yourself ? 
+2. Deep  explanation on  projects  mentioned  in  the  resume? 
+3. Three  queries  based  on  joins  and  aggregate  functions? 
+4. How  would  you  rate  yourself  in  oops? 
+As  I  told  I  would  rate  9/10 
+They  started  asking  questions  in  oops 
+5. Explain  about  the  concept  of  polymorphism? 
+6. What  is  deadlock? 
+7. Difference  between  Drop, Delete  and  Truncate  Commands? 
+Timing : 30 Minutes 
+Round 3 : HR  Round 
+1. Tell  me  about  yourself? 
+2. What  do  you  know  about  temenos ? 
+3. What  are  the  technologies  you  learned  recently? 
+4. Explain  about  the  big  data? 
+5. Why  should  i  hire  you? 
+Timing : 20  Minutes 
+Topics  to  be  focussed :   
+ Data  Structures 
+ Database  management  systems 
+ Object  Oriented  Programming 
+Take  away : 
+ 
+Having  a  good  knowledge  in  general  scenarios, Coding , sql  and  confidence  will  
+help  to  be  placed  in  this  company. 
+Hope  this  helps. 
+Thank  you  and  All  the  best. 
+With  regards, 
+A.Manasa 
+amurumanasa@gmail.com 
+ 
+ 

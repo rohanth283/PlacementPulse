@@ -1,0 +1,168 @@
+Aptiv Interview Experience
+
+About Aptiv:
+
+          Aptiv is a global technology company that
+
+develops safer, greener and more connected solutions,
+which enable the future of mobility.
+
+                Aptiv’s passionate team of engineers and
+developers creates advanced safety systems, high-
+performance electrification solutions and data
+connectivity solutions so that automakers can bring
+advanced capabilities to more people around the globe.
+
+About the Role:
+
+Associate Embedded Software Engineer
+
+There are various roles including software, hardware,
+and AI/ML. I have been selected for the position of
+Software Engineer – PM. This role involves working
+on the infotainment systems which we see in the car.
+
+Selection Process:
+
+• Online test
+
+• Technical interview
+
+• Techno managerial interview
+
+• HR interview
+
+Round 1: Online Assessment
+
+[90 mins]
+
+Round 1 was an online HackerRank assessment. It
+included a few MCQs from core subjects like
+dbms,os,oops. Apart from the MCQs, there were two
+questions. For some candidates, both questions were
+coding problems, with one being mandatory in C and
+the other allowed in any programming language. For
+others, like me, there was one coding question and one
+SQL question. The coding problem was of medium
+difficulty, and the SQL question had to be solved using
+window functions.
+
+Round 2: Technical Interview                      [50 mins]
+
+All the interview rounds were conducted online.
+
+In my second round, which was the technical interview,
+I was asked questions from multiple domains. The
+interview began with a coding question based on
+LeetCode Problem 3: Longest Substring Without
+Repeating Characters. After that, I was asked to write a
+basic SQL query involving a JOIN. The interviewer
+
+provided the table names and attributes, and I had to
+write the query. I was also asked conceptual questions
+related to primary keys and foreign keys and how they
+are used in different scenarios.
+
+                    Next, the discussion moved to computer
+networks and security, where I was asked about HTTPS
+and how certificates are received and validated. This
+led to questions on cryptography, including symmetric
+key encryption, asymmetric key encryption, and
+hashing, along with examples for each.
+
+Overall, the interview lasted for about 50 minutes and
+covered a wide range of technical topics.
+
+Round 3: Techno managerial interview      [35 mins]
+
+                         In the techno-managerial round, the
+discussion was mainly based on my resume and the
+projects I had worked on. I spoke about a project
+related to autonomous vehicles, and the interviewer
+asked me to explain it in detail. He also discussed my
+second project mentioned in the resume and asked
+follow-up questions about it.
+
+                         In addition, I was asked behavioral
+questions, including whether any conflicts had occurred
+within my team. I described a real situation where a
+conflict arose and explained how I handled it in my role
+as a leader.
+
+Overall, this round was focused on understanding my
+attitude, values, teamwork, leadership skills, and
+decision-making approach, rather than purely technical
+knowledge.
+
+Round 4: HR Discussion                        [15 mins]
+
+                        The interviews were originally planned
+to be conducted over two days. However, in my case,
+the process extended to a third day, which was actually
+a holiday, and only five members had their interviews
+on that day. Usually, the interviews are completed
+within two days.
+
+                          Some candidates may start and even
+complete their HR round on the first day itself, while
+others might not have even started their technical
+rounds by then. So it is important to wait patiently and
+stay calm throughout the process. In my case, I was
+the last person to attend the HR discussion. My
+technical interview happened on the second day in the
+evening, and the techno-managerial round was
+conducted on the second day at around 7 PM. The final
+interview took place the next day, even though it was
+not part of the original schedule.
+
+                           It is also important to note that
+there can be rejections even in the HR round at Aptiv.
+So, be confident in the way you speak and maintain
+good communication skills, as these play a crucial role
+
+in clearing the HR round. Additionally, having a good
+understanding of the company and asking relevant,
+company-related questions to the interviewer can leave
+a positive impression. After 5 days the results are out
+and 25 of us is selected from different backgrounds for
+different roles.
+
+My Preparation Strategy:
+
+                           I focused on general preparation by
+practicing LeetCode problems and HackerRank SQL
+questions. I followed Striver’s DSA sheet and referred
+to YouTube videos to strengthen my understanding of
+data structures and algorithms. I revised core concepts
+using GeeksforGeeks, including OOPS. For Operating
+Systems, I studied from the Neso Academy YouTube
+channel, and for DBMS, I referred to Jenny’s Lectures.
+
+Key Suggestions and Tips from My Experience:
+
+                   Do not feel pressured by seeing others get
+placed early. Everyone’s journey is different, and your
+opportunity will come at the right time. There is no
+such thing as being “too late” — what matters is
+consistent effort and patience. Focus mainly on
+strengthening your data structures and core concepts,
+as they form the foundation for most technical
+interviews.
+
+        Also, be honest with your resume. Do not include
+anything that you are not confident about or cannot
+explain clearly. Make sure you understand every line
+you write, because interviewers can ask questions from
+any part of it. Stay focused, keep practicing, and trust
+the process.
+
+Contact Information:
+
+Name: Alwin A
+
+Mobile No: 9976815115
+
+EmailId: alwin7378@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/alwin16/
+

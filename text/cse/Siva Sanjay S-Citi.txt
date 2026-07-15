@@ -1,0 +1,173 @@
+ 
+Citi - Intern Interview Experience 
+ 
+About the company  
+Citi is a global bank that offers a variety of financial services, 
+including banking, credit cards, and investment solutions. It operates in 
+more than 160 countries and values innovation, diversity, and teamwork, 
+creating an inclusive workplace where employees can grow. Citi’s mission 
+is to help people, businesses, and communities achieve their financial 
+goals.  
+ 
+Role: Application Developer 
+ 
+Stipend: 75,000 INR per month  
+ 
+Duration of internship: 8-10 weeks 
+ 
+1.Online test (12.10.2025) 
+​
+The online test is conducted on the codility platform. It has 3 
+questions. Among them 2 were easy and 1 was medium difficulty. 
+​
+ 
+1.​ Phonebook question - Easy  
+●​ Input format 
+​
+​
+{‘Ram’ : ‘123456’,​
+​
+​
+ ‘Sam’ : ‘345689’, 
+​
+​
+ ‘Raju’: ‘8976’ 
+} 
+●​ Search : ‘456’ 
+●​ The task is to find the name whose phone number contains the 
+given substring ‘456’. 
+●​ If more than one phone number has the given substring we 
+have to return the lexicographically smaller name. 
+●​ In this case the phone numbers of ‘Ram’ and ‘Sam’ both have 
+the given substring ‘456’. So we have to return the 
+lexicographically smaller name - ‘Ram’. 
+●​  If the input is ‘897’ then the answer will be ‘Raju’. 
+●​ For this question they explicitly mentioned that there is no need 
+to provide an optimal solution. Correctness is sufficient. 
+ 
+ 
+ 
+ 
+2.​ Minimum number for given Digit Sum - Easy 
+●​ Given integer X, find Y. 
+●​ 'Y' is the minimum number whose sum of digits is equal to 'X' 
+●​ Eg. If X=17, Y=89 
+●​ If X=46, Y=199999 
+●​ For this question they explicitly mentioned that there is no need 
+to provide an optimal solution. Correctness is sufficient. 
+ 
+3.​ Find the maximum round reached by each player - Medium 
+●​ We will be given an array ‘skills’ which has the skill level of 
+different players. 
+●​ The adjacent players will compete in each round. 
+●​ The player with the higher skill wins and moves on to the next 
+round. 
+●​ The process continues until only one winner remains. 
+●​ We have to return the maximum round reached by a player. 
+●​ Example 
+skills = [2,7,6,3] 
+Result : max_round =[1,2,2,1] 
+●​  For this question they asked for an optimal solution . 
+ 
+2. Technical Interview (30-35 mins) 
+           The technical interview was conducted at CUIC on 05/11/2025. There 
+were nearly 80 candidates got shortlisted for technical interviews. 
+Everyone was randomly assigned to panels. I was called for my first round 
+in the afternoon at 2pm. 
+I was assigned to a panel of 2 interviewers. Both of them interacted 
+with me throughout the interview. They first asked me to introduce myself 
+and then they asked about my projects. I have done a realtime website for a 
+startup. They were excited about it and asked several questions related to 
+that project. 
+Then they asked about my  Joint Secretary position at CSEA and 
+Events Organizer position at CTF, since I mentioned them in my resume 
+and self - Introduction. 
+Then they asked about my DBMS project and asked whether I  was 
+good at SQL. I said yes. So they asked me to write a Simple SQL Query. 
+Then they asked some general questions. Then I was given the 
+chance to ask questions to them. I asked about the company's tech stack 
+ 
+ 
+and AI tools used. At the end they both wished me the best and the first 
+round ended on a good note. 
+ 
+Questions related to project  
+●​ What are the key features of the project? 
+●​ They also asked some questions about specific features. ( This part 
+consumed  most of the time in the interview. They asked almost 
+everything about the project)  
+●​ Why didn't you suggest your client to use pre-established services 
+like ‘Justdial’ for e-commerce. Why did you created a website for that 
+when Justdial is there? 
+●​ What are the challenges you faced while developing this project? 
+ 
+Questions related to JS(CSEA) / Events(CTF) 
+●​ What is your responsibility in this position? 
+●​ Are you the only one in that role, or are there more people with you? 
+●​ Tell about your experience in working as a team. 
+●​ The same responsibility question is asked for CTF. 
+●​ Asked some general questions about kurukshetra. 
+ 
+Simple SQL Query  
+●​ It is a simple query. Basically I was asked to join two tables and 
+retrieve the relevant rows.  
+ 
+General Questions 
+●​ When you are submitting your code for review, your manager says 
+‘Your code is bad’. What will you do now? 
+●​ What was your favourite programming language? 
+●​ Do you have an idea of going to higher studies? I said no. Then they 
+asked why? I expressed my interest in developing real time 
+applications. 
+●​ Are you ready to relocate to Pune? 
+ 
+3. HR Round (25-30 mins) 
+     
+I got called for the HR round within 7 minutes after I finished the 
+technical round. In this panel there was only one interviewer. She first 
+asked me to introduce myself and asked about my family members and my 
+hometown. Then she asked about my previous internship experience. Then 
+she asked about the flow of my project. I mentioned requirement gathering, 
+ 
+ 
+Prototyping, Periodic reviews.  
+Then she asked how did you gather 
+requirements? What are the specific strategies you follow? Tell about any 
+specific challenge you faced while developing the project? 
+     Why are you interested in joining citi? 
+     Do you have an interest in application development? I said yes. Then she 
+asked why? 
+    Then she asked whether I got any opportunity to work in environments 
+that integrate computer networking and application development. I said no 
+and explained how networking concepts like protocols helped me to 
+quickly grasp the web server communication fundamentals. 
+    Consider you are working in a team and someone says ‘no’ to your idea. 
+How did you handle that situation? 
+    Consider while working as a team you have to say ‘no’ to your teammate’s 
+idea. How did you say that? 
+     Then she asked Do I have any backlogs? Do any of my relatives work in 
+citi? Am I ready to relocate to Pune? And am interested in pursuing higher 
+studies?  
+      At last, she wished me the best and suggested me to do research on 
+networking + application development integrated systems and she told me 
+that she worked on such systems and found them interesting. 
+ 
+  After a few hours the results were released and 12 candidates got 
+selected for the internship and I was one among them :) 
+ 
+●​ In my experience, most of the questions were asked based on the 
+resume  
+●​ The interviewers were very friendly and the interview felt like a 
+casual conversation. 
+●​ The questions asked in the online round were also easy, but the 
+submission time played a key role in shortlisting. 
+●​ Stay calm and try to be yourself in HR rounds. 
+●​ Never lie on your resume. 
+●​ Never lose hope. Stay consistent. Keep putting the efforts, it will be 
+always rewarded. All the best :) 
+ 
+ 
+Siva Sanjay S,  
+sivasanjaycse@gmail.com, 
+CSE, CEG 
+ 

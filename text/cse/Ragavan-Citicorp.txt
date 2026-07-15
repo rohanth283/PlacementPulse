@@ -1,0 +1,130 @@
+CITI CORP Interview Experience 
+ 
+Citi Corp, officially known as Citigroup Inc., is one of the largest 
+multinational financial services corporations in the world. Citi operates in over 
+160 countries with more than 200 million customer accounts worldwide, 
+providing a broad range of financial services with headquarters in New York, 
+U.S. Citi is known for its focus on digital transformation, investing heavily in 
+fintech and other technologies to stay competitive.  
+Role Offered: ICG Intern 
+Stipend: 75,000 INR per month 
+Sequence of Job Selection:  PPT, Online Assessment, Technical Interview, HR 
+Interview 
+Online Assessment (27.09.2024): 
+It consisted of four sections 
+ Coding questions -2 (45 mins) 
+ SQL Questions -12 (15 mins) 
+ React Based Questions -12 (15 mins) 
+ Angular Based Questions -12 (15 mins) 
+The test lasted for 1.30 hrs. The important point to note is You can’t switch 
+between the Sections. You should go with the give sequence of questions. 
+Coding Question -1(Easy) 
+Count the nonrepeating character in a string. 
+The input string consists of alphanumeric and special characters only. The input 
+string is case sensitive. Uppercase characters and lowercase characters are 
+counted as different. If no such character return 0. 
+Sample Testcase: 
+String= ”aabbccdde” 
+Output: 
+1 
+Hint: 
+Use hash map to count frequency and find the count of characters with 
+occurrence 1. 
+Coding Question -2(Easy) 
+Count the number that is present in another number. 
+In a school, there are activity groups. Each group has been Identified by a digit 
+from 0 to 9. The school principal wants to find out how many students are in a 
+particular activity group so that the school administration can provide a 
+classroom for the activity according to the number of students. Write an 
+algorithm for the school management to find the number of students who 
+belongs to a particular activity group. 
+Sample Testcases: 
+3 
+123343 
+Output: 
+3 
+Hint: 
+Convert the number into string. Iterate and count the occurrence of the number. 
+SQL Questions: 
+SQL questions were easy to medium. It consisted of SQL commands, Joins, 
+subqueries, DBMS. 
+React and Angular Js Questions: 
+ It includes conceptual questions, finding missing terms, finding the correct 
+statements. 
+Based on the Online Assessment ,28 people were shortlisted for the technical 
+Interview. 
+Technical Interview (30.09.2024) (30 mins): 
+The technical interview started with an introduction of myself. The interviewer 
+started going through my Resume. 
+ I was asked about Prompt Engineering because I mentioned that in my 
+resume. And she also shared their experience with GenAI. 
+ She asked about my project and what was the role I played in the project. 
+I was asked to draw an Architecture diagram for my project and I 
+explained that. 
+ After that, she asked Why I had chosen the SQLite DB (I used SQLite in 
+my project), and I answered that. 
+ I was asked to draw an ER diagram of my project and explain it. She 
+asked about primary key, and foreign key relationships in my ER 
+diagram. 
+ Asked SQL query from my project DB. I used joins in my query. She 
+asked to explain about joins and cartesian product. How do you find 
+whether the query engine performs cartesian product or not for the given 
+query? I was not able to provide the correct answer for this. 
+ I was asked about Mongo DB(I mentioned that in my current project). I 
+told that I was in the learning phase. 
+ She asked me to design a Login page and I explained that. 
+ She asked me, how do you send the entered data to the server side. I 
+answered that I would use the POST method. She asked me if we can 
+easily hack it and how do you provide security to the data. I said we can 
+encrypt data using an encryption algorithm and I gave an example 
+algorithm name. 
+ She asked about the framework used for the same and also about OAuth. 
+I said I was not aware of implementing them. 
+ She asked which is the hardest problem have solved in Leetcode (I 
+mentioned in my resume the number of problems I solved). 
+ And then she gave me a Problem.  
+ You are a thief, there is a city with many homes. You have gain for 
+each home and you have to travel a distance to reach a home. With 
+a limited amount of time, you have to maximize the gain. 
+ My approach is, to sort the homes based on both distance and gain, 
+sequentially adding the gain. Return the gain (greedy approach) 
+ Finally, She asked why had I chosen Citi. 
+ She asked me whether I had questions, and I asked about her experience 
+in the industry and the Tech Stack she is working on. 
+Out of 28 members,11 were selected for HR round. 
+ 
+ 
+HR Interview (30.09.2024) (15 mins): 
+ 
+He asked me about the flow of my Technical Interview. And We 
+discussed general topics. There was a good conversation between us. 
+ Asked about my school studies 
+ Why did you choose Engineering? 
+ Can AI replace my job? 
+ My background? 
+ Why don’t you go for higher studies? 
+ How do you want to see yourself in future? 
+ We discussed some other things also. 
+ I asked him a question that is “Impact or development of AI in financial 
+sector”. He shared his insights with me. 
+Out of 11, 7 people were selected for Internship Including me. 
+Tips: 
+ Solve problems in LeetCode, Geeks for Geeks, Hacker Rank. 
+ Be prepared in core concepts like DBMS, DSA and OS. 
+ You should Prepare for each and every word in your resume. 
+ You can follow TakeUForward, Neetcode for problem solving. 
+ Go through previous year questions for the company from geeks for 
+geeks, glass door, Interview Bit. 
+ Prepare Intro, Project Explanation (STAR Method- Situation, Task, 
+Action, Result) before the interview. 
+ 
+ALL the Very Best!! 
+ 
+ 
+ 
+Ragavan R 
+MIT CSE’26 
+Email: ragavanr738@gmail.com 
+ 
+ 
+ 

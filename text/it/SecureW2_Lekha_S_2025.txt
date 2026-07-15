@@ -1,0 +1,121 @@
+**Lekha.S – SecureW2 (6 Months Intern and FTE)**
+
+**About the Company:**
+
+SecureW2 provides next-generation password-less network security for enterprises, education, healthcare, service providers and small businesses around the globe. They offer Certificate & Managed PKI services, top-rated device onboarding software plus world-class RADIUS authentication services. SecureW2 provides everything an organization needs to secure its networks' perimeter by eliminating credential theft risk and improving user experience.
+
+**Placement Preparation:**
+
+**🡪**I started my preparation in the 6th semester leave (2 months)
+
+🡪I studied the entire DSA Concepts on the a2z Strivers website starting with the basic concepts like arrays, strings and reaching to trees, and graphs.
+
+🡪Then I covered the core theory concepts like DBMS, and OOPS side by side. OS and Computer networks are to be studied based on the company so I studied only the basics.
+
+🡪SQL queries are important, I focused on that much.
+
+**Placement Drive Experience:**
+
+**1. Online test**
+
+This test was conducted in CUIC. The duration of the test is 2 hrs consists of totally 5 qns (3 easy and 2 hard).
+
+**Qn 1: Check whether the number is palindrome or not.**
+
+**Qn 2: Given the rotated array, search the element in the rotated array.**
+
+Ex: Input array = [4,5,6,0,1,2,3] ,Search element = 0
+
+This array was rotated 4 times and we want to print the index of the search element. Here 0th index is at 3. If the element is not found print -1.
+
+**Qn 3:** **Given an array of coins[] of size n and a target value sum, where coins[i] represent the coins of different denominations. You have an infinite supply of each of the coins. The task is to find the minimum number of coins required to make the given value sum. If it’s not possible to make a change, return -1**
+
+Input: coins[] = [9, 6, 5, 1], sum = 19
+
+Output: 3
+
+Explanation: 19 = 9 + 9 + 1
+
+**Qn 4: Given the prices of stock for n number of days. Every ith day tell the price of the stock on that day. Find the maximum profit that you can make by buying and selling stock with the restriction that after you sell your stock, you cannot buy stock on the next day (i.e., cooldown one day).**
+
+Examples:
+
+1)Input: arr[] = {1, 2, 3, 0, 2}
+
+Output: 3
+
+Explanation: You first buy on day 1, sell on day 2 then cool down, then buy on day 4, and sell on day 5. The total profit earned is (2-1) + (2-0) = 3, the maximum achievable profit.
+
+2)Input: arr[] = {3, 1, 6, 1, 2, 4}
+
+Output: 7
+
+Explanation: You first buy on day 2 and sell on day 3 then cool down, then again you buy on day 5 and then sell on day 6. The total profit earned is (6-1) + (4-2) = 7, the maximum achievable profit.
+
+**Qn 5: This question was hard to understand based on Dynamic programming**. I didn’t make a try on that question.
+
+After these results were announced immediately. Out of nearly 73 students, 23 were selected for the next round.
+
+**Technical Interview 1:**
+
+The interview lasts for only 15 mins. The interviewer mainly focused on my resumé. First, He asked about the projects, Techstack used. He also gave some suggestions to improve in my project. He also asked about my college life and the other extra-curricular activities I have participated in. Then he asked about my summer intern experience. Overall, the interviewer was friendly. The results for this round were announced the next day. 16 members were selected for the next round.
+
+**Written Coding Test:**
+
+This round was conducted in their office. This was a pen-and-paper coding test. The test includes 4 questions and the duration was 1 hour.
+
+**Qn 1: Find the absolute difference between the sum of the primary and secondary diagonal in the square matrix(N\*N)**
+
+Input: mat[][] = 11 2 4
+
+4 5 6
+
+10 8 -12
+
+Output: 15
+
+Sum of primary diagonal = 11 + 5 + (-12) = 4.
+
+Sum of secondary diagonal = 4 + 5 + 10 = 19.
+
+**Difference = |19 - 4| = 15.**
+
+**Qn 2: Find all substrings of the given string and count the number of pairs that are anagrams.**
+
+Input: str = “xyyx”
+Output: 4
+The total substrings of this string which
+are anagrams of each other are 4 which
+can be enumerated as,
+{“x”, “x”}, {"y", "y"}, {“xy”, “yx”},
+{“xyy”, “yyx”}
+
+Another 2 questions were the situational questions which can be done using the arrays.
+
+Results were announced after 2 hours. They split the students into two roles one was Software Engineer and the other was QA Engineer. I was selected to the QA Engineer role.
+
+**Technical Interview 2:**
+
+This lasted for nearly 20 mins. First, he asked, “Tell me about yourself”. Then he asked about the projects I have done and he moved to the intern experience. Then he asked me about the last outing I have gone with my friends. I shared my experience. He then asked for one puzzle to solve.
+
+**Puzzle:**
+
+**There are 2 jugs with 4 litres and 5 litres of water respectively. The objective is to pour exactly 7 litres of water into a bucket. How can it be accomplished?**
+
+I told First you get the 4 litres jug and fill it up. Pour the four litres into the 5 litres jug. Fill the 4-litre jug again, and use it to complete the missing one Liter in the 5-litre jug. Now you have exactly three litres in the four-litre jug. Pour them into a bucket, fill the four litres again with water from the five-litre jug and add the four litres to the three in the bucket. Three plus four = seven litres in the bucket.
+
+He was very satisfied with my answer.
+
+At last, he said my communication was fair enough which ended the interview on a good note.
+
+Then after one hour. They selected 5 members of which 3 of them were selected for the Software Engineer Role and 2 of them for the QA Engineer role and I was one among the 2.
+
+They gave us the offer letter on that day itself. Overall, the Employees were very friendly with every one of us. They also provided lunch and snacks at the time because we waited the whole day for the interview process at their office.
+
+**Suggestions:**
+
+🡪Be confident in what you are saying. It’s better to say “I don’t know” than to speak about the concepts u don’t know.
+
+🡪Don’t lose hope in rejections. Sometimes it’s very hard to accept the reality that everyone around you got placed and u didn’t. But be consistent in what u are doing. Everything will come to you at the right time.
+
+**It may delay but not decline!!!**

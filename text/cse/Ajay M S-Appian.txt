@@ -1,0 +1,86 @@
+Quality Engineering Intern – Appian 
+Name : AJAY M S 
+Reg No. : 2023503053 
+Role : Quality Engineering Intern 
+About the company: 
+Appian Corporation is a leading provider of a low-code automation platform 
+that enables organizations to rapidly design, build, and deploy enterprise 
+applications with minimal hand-coding. Appian integrates process automation, 
+case management, AI, robotic process automation (RPA), business rules, and 
+data integration into a unified environment. Its platform empowers businesses 
+to streamline workflows, improve operational efficiency, and accelerate digital 
+transformation. Appian serves industries such as financial services, 
+government, healthcare, and manufacturing, providing both cloud-based and 
+on-premises deployment options. 
+Online Assessment: 
+The Appian online assessment consisted of two primary sections: 
+1. Multiple-Choice Questions (MCQs) – These covered a range of topics, 
+including: 
+o Aptitude: Logical reasoning, numerical problem-solving, and 
+puzzles. 
+o Basic SQL: Basic use of keywords and retrieval of data from a 
+database. 
+2. Coding Challenge – This section assessed problem-solving and 
+programming skills. The specific task involved writing a program to 
+determine whether a given list of strings contained any duplicate values. 
+The solution was simple - iterating through the array and returning an 
+appropriate result indicating the presence or absence of duplicates. 
+Interview: 
+The interview began on a cordial note with the classic “Tell me about yourself” 
+opener, giving me a chance to set the stage. Without much delay, the 
+interviewer presented me with a simple DSA challenge: find the maximum 
+element in an array. While this might sound like a warm-up problem, it was 
+relevant to the analytical nature of the Quality Engineer role — after all, even 
+testers need to think like problem-solvers. 
+Next, we started discussing about my projects. One idea in particular caught 
+the recruiter’s attention, and the conversation went from “Tell me more” to a 
+full-on deep dive into the origin, functionality, and execution of the project. 
+This set the tone for the next phase: testing knowledge. I explained the 
+different types of testing I had implemented in my “Hospital Appointment 
+System” Project, covering Unit Testing, Integration Testing, and Regression 
+Testing. 
+Then came the main stuff — questions about Artificial Intelligence and 
+whether it could design all test cases. I stood my ground, explaining that while 
+AI is powerful, it lacks the hands-on experience of a seasoned quality engineer 
+and might hallucinate (yes, I used the word) or overlook tricky edge cases. 
+When asked why AI couldn’t test a project it had developed, I explained that AI 
+is trained on existing data, while a human tester uses real-world insight to 
+design precise, context-aware test cases. The interviewer countered that AI 
+could do it, but I held my stance — politely but firmly. 
+We then shifted to Selenium, where I described how I used it to test a login 
+page, walking the interviewer through the process from initiating a browser 
+connection to gracefully shutting it down after testing. 
+Before wrapping up, I asked about the secret behind Appian’s sustained 
+success, and the interviewer’s answer was as flawless as their product pitch. 
+Round Two (HR): This was a mix of introductions, “Why Appian?” and “Why 
+this role?” — the standard HR essentials. 
+Round Three (Final HR): A quick check on whether I was comfortable with the 
+role and a subtle nudge to see if I preferred a developer position instead. I 
+reaffirmed my interest in Quality Engineering and assured them I would align 
+with the company’s principles. 
+Tips: 
+For a Quality Engineer Intern role, a solid understanding of the Software 
+Testing Life Cycle (STLC), Software Development Life Cycle (SDLC), and core 
+testing concepts is essential. Focus on fundamental DSA topics such as arrays, 
+strings, hash maps, and sets, as these are typically sufficient for the coding 
+portion. Familiarity with testing tools like Selenium is a valuable advantage. 
+Having a basic understanding of CI/CD pipelines can also strengthen your 
+profile. 
+Be thoroughly prepared to discuss your projects in detail, as most technical 
+questions will stem from your resume. Only list skills and topics in your resume 
+that you are confident in, and ensure you can explain them clearly. Be clear in 
+whatever you speak and BE CONFIDENT – your body language and attitude tells 
+them a lot about you before you speak. Dress professionally, and ensure proper 
+grooming to create a strong first impression. 
+ALL THE BEST!! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AJAY M S 
+2023503053 
+msajay2866@gmail.com 
+Ph: +91 73586 95296 

@@ -1,0 +1,55 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fidelity Investments 
+ 
+ 
+Fidelity Investments Inc., commonly referred to as Fidelity, earlier as Fidelity Management 
+& Research or FMR, is an American  financial services corporation. 
+ 
+ 
+Hiring process for internship had 3 rounds: 
+ 
+Round 1: MCQs + coding 
+ 
+The mcqs were based on networks. Operating systems, data structures ,OOPS and DBMS. There 
+were 2 coding questions both of them were easy-medium level and was conducted on HirePro. 
+ 
+Round 2: Technical Round 
+ 
+The questions were asked based on the past projects done so far. In case of a dbms project, they 
+asked for an explanation of the project using entity - relationship diagram. For machine learning 
+projects , the questions were based on the algorithms used and the packages that were used for 
+implementation (pandas.numpy,scikit etc).They also asked whether I maintain those projects on 
+GitHub. 
+ 
+The questions that were asked: 
+1.Anagrams using java 
+2.Difference between interface and abstract class 
+3.Explain joins and its types  
+4.Use of views in SQL 
+5.Difference between soap and rest API 
+6.Multiple inheritance and diamond problem in java 
+ 
+ 
+Round 3: HR Round 
+ 
+1.Introduce yourself 
+2.The major takeaways from the workshops(if mentioned in the resume) attended. 
+ 
+ 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best!! 
+ 
+ 
+Swarnalaxmi 
+thiruvenkadamswarna@gmail.com 

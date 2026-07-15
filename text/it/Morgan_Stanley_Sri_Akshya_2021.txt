@@ -1,0 +1,64 @@
+INTERVIEW EXPERIENCE
+
+Name
+
+Reg No
+
+: Sri Akshya
+
+: 2018115108
+
+Company
+
+: Morgan Stanley
+
+Month & Year
+
+: Sep 2020 (Internship)
+
+Online Test:  (Duration : 1hr 40mins)
+
+3 sections:
+
+1. Debugging questions
+
+2. Aptitude
+
+3. 3 Coding questions
+
+a. Custom sort the given array
+
+b. There are n railway stations, and a list of tracks which
+
+connects two stations will be given. Count the number of
+
+cyclic tracks present.
+
+eg: a -- b, b -- c, c -- a is considered as a cyclic track.
+
+Round 1: Technical Interview (Duration : 1hr)
+
+● Basic questions about different data structures
+
+● Real life examples of Graphs and Graph algorithms
+
+● Find the Kth smallest/ largest element in the given array.
+
+● Detecting cycle in directed and undirected graph
+
+● Find the number of components in the graph.
+
+● Clone a linked list with next and random pointer
+
+● Egg drop puzzle
+
+Round 2 : HR & Technical Round ( Duration : 40 mins)
+
+● Discussion on projects specified in the resume
+
+● Behavioural questions
+
+● Technical question : Find all permutations of the given array
+
+(with and without repetition of elements)
+

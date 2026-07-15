@@ -1,0 +1,90 @@
+         APPIAN INTERVIEW EXPERIENCE 
+ 
+Appian Corporation is an American cloud computing and enterprise 
+software company headquartered in McLean, Virginia, part of the Dulles 
+Technology Corridor. The company sells a platform as a service (PaaS) for 
+building enterprise software applications. It is focused on low-code 
+development, process 
+mining, business 
+process 
+management, and case 
+management markets 
+in North 
+America, Europe, 
+the Middle 
+East, and Southeast Asia. Appian offers a low-code platform with a visual 
+interface and pre-built development modules. As with other low-code platforms, 
+it enables businesses to create apps and automations using little or no code. 
+There were four rounds of interviews. 
+1. Coding round 
+2. Technical Round 1 
+3. Technical Round 2 
+4. HR round 
+Coding Round: 
+Candidates were sent a link to attend the online coding round, which was 
+held on the Glider platform. We had to solve three questions in an hour. 
+Qn1:  
+There is a line consisting of people from different groups. We need to 
+rearrange the line so that people from the same group can stand together. If all 
+the persons who belong to the same group stand in line, then the names of the 
+persons can be replaced with the group name. The order of the groups in the 
+line and the order of persons within the group in the line should not change. 
+Qn2:  
+Tickets are sold to a concert in a particular order. The number of tickets, 
+the step size, and the offset will be given. 
+Number of Tickets: This is the total count of tickets available for the concert. 
+Step Size: This is the number of tickets to skip before selecting the next ticket. 
+For example, if the step size is 3, every fourth ticket will be chosen. (It can also 
+be a negative number.) 
+Offset: This is the starting position from which the ticket selection begins. It can 
+be thought of as the initial position in the sequence of tickets where the process 
+starts. 
+The challenge is to generate a sequence of ticket numbers based on these 
+parameters, reflecting the order in which tickets are sold. 
+Qn3:  
+You will be given a set of paths where each path consists of a set of strings 
+representing a path to a particular page starting from the ‘Main’ (homepage) 
+element. You need to construct a tree representing every path given as input. 
+The root node will be the ‘Main’ element (Breadcrumbs problem). 
+Focus on your problem-solving approach to provide an optimal solution. 
+22 of us got selected for the next round. 
+Technical Round 1: 
+I was asked to code on the Glider platform again (pair programming 
+interview). I need to find the Fibonacci numbers from a stream of numbers. My 
+interviewer helped me optimize the code. I was also asked to explain the logic to 
+him. Later, he asked me about my projects, the difficulties I faced in building 
+them, and the way I solved those problems. At last, he asked me if I had any 
+questions to ask him. This round mainly focused on my problem-solving skills. 
+Technical Round 2: 
+This round revolved primarily around my resume. I was asked about the 
+subjects that I like. Since I expressed my interest in DSA, the interviewer asked 
+me about the data structures that I have worked with and also asked me about 
+how to choose the right data structure for a problem. I was asked about 
+asymptotic notations, and he wanted to find the worst-case time complexity of 
+quick sort. He asked me whether I had taken part in any coding contests (CP 
+contests). At last, he also gave me a chance to ask him a question. I was asked 
+technical questions in this round, which weren’t too tough to answer. Just 
+brushing through the DSA concepts that we have learnt in our earlier semesters 
+is enough. 
+HR Round: 
+Even in this round, I was asked a few technical questions related to DBMS. 
+I was asked about the many-to-many relation and the number of tables required 
+to 1on RDBMS. I was asked personal background questions. Even in this round, I 
+was given a chance to ask the interviewer a question. Make sure that your 
+question is impressive. 
+Finally, 5 of us (4 of us from CEG and 1 from MIT) got selected for the 
+position of Software Engineer Intern. 
+Key takeaways  
+1. Try to provide optimal solutions 
+2. Time management (you need to code for 3 problems in an hour) 
+3. Focus on DSA 
+4. Answer the questions confidently 
+5. Questions are based on what you have provided in the resume. So have a 
+clear understanding of concepts mentioned in your resume. 
+6. CGPA plays a crucial role here. Try to maintain a CGPA of 8.5 and above. 
+Hope this helps  
+All the best 
+Name: M.Madhubaalika 
+Email: madhubaalika@gmail.com 
+Phone No: 7305897553 
+ 

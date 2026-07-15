@@ -1,0 +1,151 @@
+       BNY PLACEMENT DRIVE 
+                                                                    - JOSHIKA SHREE V 
+ 
+BNY (The Bank of New York Corporation) is a leading American multinational 
+financial services company headquartered in New York City. Recognized as one of 
+the world’s largest custodian banks, it specializes in investment management, asset 
+servicing, and wealth management, empowering institutions and individuals to 
+achieve success in global markets. 
+With a rich history spanning over 240 years, BNY Mellon has built a reputation for 
+trust, innovation, and client-centric solutions. The company continues to shape the 
+future of finance by combining deep expertise with advanced technology, helping 
+businesses and individuals thrive in a rapidly evolving financial world.  
+ 
+ 
+Overall process: 
+• 
+Online Test  
+• 
+Technical Interview(@CUIC) 
+• 
+Technical + HR Interview(@CUIC) 
+ 
+ 
+1.ONLINE TEST: 
+The first stage was a pure coding round conducted on the HackerRank platform, with 
+a total duration of 3 hours. The test consisted of 4 programming questions 
+• 1 Easy 
+• 
+2 Moderate 
+• 
+1 Hard 
+The test allowed candidates to code in any programming language of their choice. 
+ 
+1. Developer Team Formation: Each developer has skill levels from 1 to n, and 
+limits on how many teammates with lower or higher skills they can work with. 
+A developer is “content” if these limits are satisfied. The task was to form the 
+largest possible team where everyone is content. 
+Example: n=3, lowerSkill=[0,1,2],  
+higherSkill=[2,1,0] → Team {1,2,3} 
+    works because all developers’ limits are satisfied → largest team size = 3. 
+ 
+ 
+2. Largest Subset of Events: In a scheduling system, each event has a start and 
+end time. A subset of events is called high-priority if every event overlaps or 
+touches every other event in the subset. The task was to find the maximum-
+size high-priority subset. 
+Example: start=[1,2,3,4] 
+     finish=[2,3,5,6] → Subset {2,3,4} 
+     overlaps fully → largest subset size = 3. 
+ 
+ 
+3. Minimum Node Types in a Graph: Given an undirected graph, the goal was to 
+assign a type to each node so that: 
+o Connected nodes have different types 
+o Nodes sharing a neighbor also have different types 
+The objective was to minimize the number of types used. 
+       Example: n=4 
+ edges=[(1,2),(2,3),(2,4),(3,4)] → Minimum types required = 3. 
+ 
+ 
+4. Server State Flipping: A binary string represented server states (‘1’ = active, 
+‘0’ = inactive), and a list of operations defined ranges to flip. The task was to 
+find how many distinct active server counts can be obtained by applying any 
+subset of operations. 
+Example: servers="101",  
+operations=[(0,1),(1,2)] → Possible active counts = {1,2}. 
+ 
+I successfully completed two problems, nearly completed one (14/15 test cases), 
+and partially completed another (3/15 test cases) 
+2.TECHNICAL INTERVIEW :(45-50 minutes) 
+The round started with a quick self-introduction.Immediately, the focus shifted to my 
+projects. The interviewer asked several in-depth questions about them. 
+Example: “Can you explain the logic behind authentication and authorization?” 
+Since the company was finance-based, the interviewer gave special importance to 
+DBMS concepts(like locks and related concepts). 
+▪ To explain the collections used in my MERN stack projects along 
+with their attributes. 
+▪ To solve around 5 SQL queries based on my project design. 
+ Tip : Be very clear about your projects — not just features, but also data flow, 
+database schema, and logic behind implementation. 
+ 
+Apart from projects, I faced theory-based questions from different subjects: 
+• 
+OOPs: Difference between Abstraction and Interface (with real-life examples). 
+• 
+SDLC: 
+▪ “Where would you integrate AI in your project?” 
+▪ “How does AI fit into the five phases of SDLC?” 
+• 
+OS basics and general software engineering fundamentals. 
+Tip: Don’t just memorize definitions — learn to apply concepts to real-world cases. 
+That’s what interviewers look for.
+ 
+DSA Coding Problems 
+Finally, I was asked to write codes for: 
+• 
+BFS Traversal 
+• 
+Dijkstra’s Shortest Path Algorithm 
+• 
+Linked List Node Deletion 
+Tip: Always stay strong in DSA that’s gonna help u a lot! 
+QUICK TAKEAWAYS: 
+• 
+Proficient and consistently trained in DSA 
+• 
+Thoroughly confident in projects and backend design 
+• 
+Solid understanding of DBMS, OOPs, OS, and core fundamentals 
+• 
+Skilled at handling complex queries under pressure 
+• 
+Communicate solutions with clarity and confidence 
+3.TECHNICAL and HR INTERVIEW (30-40 Minutes): 
+Within just 10 minutes, I was called for the next round. This one started chill, again 
+with the usual self-introduction and project discussion. 
+This round had some comparatively tougher queries than the previous one. I was 
+asked to explain the difference between RANK() and DENSE_RANK(), followed by a 
+few more advanced SQL queries.  
+One of the questions was how to convert a row-oriented table into a column-oriented 
+format, for which I explained the approach using window functions. 
+Next, I was given a coding problem: an expense splitter/tracker. The problem was: 
+• 
+A contributes 1200, B contributes 800, C contributes 1000 for a trip. 
+• 
+After calculating each person’s fair share, I was asked to determine who 
+should give money to whom and how much. 
+• 
+For this example: A had paid 200 extra, so the system should return 200 to A 
+from B, while C’s contribution remained the same. 
+ 
+After solving this , a few reasoning and math questions were asked. For instance: 
+• If you start with 100 Rs, gain 10% profit at the end of the  day, and 10% loss 
+the next day,what is the final loss? 
+• Then comes the HR section including behavioral questions, like why the 
+interviewer shouldn’t hire me, along with the usual HR questions. I also took 
+the chance to highlight my college volunteering and leadership experiences, 
+adding a small, a confident highlight of my achievements. 
+ 
+QUICK TAKEAWAYS: 
+Mental Math & Reasoning: Quick thinking matters. 
+Be creative: Avoid standard, safe responses; think outside the box. 
+Show, don’t tell: Instead of saying “I can do this,” demonstrate your skills indirectly 
+through your examples, experiences, and the way you speak. 
+ 
+Interviews aren’t just about hardwork and effort — they’re about timing and fit. 
+ What’s meant for you will definitely find you. Until then keep learning and stay 
+confident 
+You’re already halfway to victory — now keep going. You’ve got this.. 
+Your success story is waiting to be told!!!! 
+ ALL THE VERY BEST :)                                             PING ME ANYTIME- 8838381339  

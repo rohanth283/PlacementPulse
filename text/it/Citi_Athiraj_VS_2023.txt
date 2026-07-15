@@ -1,0 +1,31 @@
+| Name :    | Athiraj   | Selvarajan |     |           |     |     |
+| --------- | --------- | ---------- | --- | --------- | --- | --- |
+| Company   | : CITI    |            |     |           |     |     |
+| Placement | : Intern  | converted  |     | FTE (PPO) |     |     |
+| Rounds    | : Online, | Technical, | HR  |           |     |     |
+Experience:
+| 1.Online | Round | :   |     |     |     |     |
+| -------- | ----- | --- | --- | --- | --- | --- |
+● MCQs that covers math problems, logical and reasoning, passage comprehension, basic
+|             | communication | tests |          |        |              |     |
+| ----------- | ------------- | ----- | -------- | ------ | ------------ | --- |
+| ●           | Two programs  | :     | one from | arrays | and one from | DP  |
+| 2.Technical | Round:        |       |          |        |              |     |
+● Have a brief self introduction. Don't forget to include your currently working project and
+|     | skills in | the intro.  |      |             |               |               |
+| --- | --------- | ----------- | ---- | ----------- | ------------- | ------------- |
+| ●   | Questions | will be     | from | your resume | and your self | introduction. |
+| ●   | Puzzles   | and riddles | will | be asked.   |               |               |
+● One Program question was asked : Related to stack data structures.
+● Many questions were from DBMS (Reason : I mentioned DBMS as my strength in my
+intro)
+| ●   | Only pen | and paper. |     |     |     |     |
+| --- | -------- | ---------- | --- | --- | --- | --- |
+3.HR
+| ●   | Basic   | personal questions |           |     |     |     |
+| --- | ------- | ------------------ | --------- | --- | --- | --- |
+| ●   | Company | related            | questions |     |     |     |
+Learn basic OOPS, DSA and DBMS. Also concentrate on system design.
+Be confident in your approach towards all the questions. Make sure you don't mention too much
+| in your | resume. | Be crisp | and | present yourself | well. |     |
+| ------- | ------- | -------- | --- | ---------------- | ----- | --- |

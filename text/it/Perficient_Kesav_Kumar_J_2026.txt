@@ -1,0 +1,143 @@
+![](data:image/png;base64...)
+
+**PERFICIENT INTERVIEW EXPERIENCE**
+
+INTERNSHIP (3 Months) + FTE
+
+-Kesav Kumar J (2022115088)
+
+**About PERFICIENT:**
+
+Perficient is a global digital consultancy founded in 1997, headquartered in the US, delivering data, cloud, AI, and enterprise transformation solutions. It partners with Fortune 1000 clients across healthcare, financial services, automotive, and retail industries. The company specializes in Data Engineering, cloud modernization, analytics, and digital experience platforms.
+
+**About the Role (Data Engineer):**
+
+The role was formally titled **Data Engineer**, but detailed responsibilities and a specific job description were not explicitly shared during the process.
+
+**Selection Process:**
+
+* **Round 1:** Online MCQ Test (Technical + Aptitude) – 1st Week
+* **Round 2:** Coding Round (Python, SQL) – 2nd Week
+* **Round 3:** Technical Interview 1 (SQL, DSA, System Design, Internships, Projects) – 3rd Week, Day 1
+* **Round 4:** Technical Interview 2 (SQL, Python, Internships, Projects) – 3rd Week, Day 1
+* **Round 5:** Techno-Managerial Round (Projects) – 3rd Week, Day 2
+* **Round 6:** HR Discussion – 3rd Week, Day 2
+
+Overall, the complete selection process was conducted over a period of **three weeks**.
+
+**Round 1: Online Assessment (MCQ-Virtual)**
+
+* Around **40 MCQ questions** were asked from Technical and Aptitude sections.
+* Most of the technical questions were based on **SQL queries**.
+* Around **50 students were shortlisted** for the next round.
+
+[45 mins]
+
+**Round 2: Online Assessment (Coding-@CUIC)**
+
+* The round consisted of **6 questions (3 Python + 3 SQL)**.
+* There were **no visible test cases**, and it appeared to be **AI-based code evaluation**.
+* I was comparatively stronger in **SQL than Python**, so I chose to **solve the SQL questions first**.
+* In Python, one question was **Longest Substring Without Repeating Characters** .
+* I could not clearly remember the other two Python questions.
+* In SQL, one question was **3rd Highest Salary**, which I solved using **DENSE\_RANK()**.
+* Another SQL question asked to find numbers appearing **three times consecutively**, solved using the **LEAD() window function**.
+* The final SQL question was **Employees earning more than their managers**, solved using a **SELF JOIN**.
+* The round mainly tested **Python problem-solving skills and core SQL concepts, especially window functions**.
+* Due to the limited duration of the round, I could **finish 4 out of the 6 problems**.
+* Around **15 candidates were shortlisted** for the next technical round.
+
+[45 mins]
+
+**Round 3: Technical Interview –1(@Company)**
+
+* The interview started with a brief self-introduction and discussion about my internships.
+* One DSA question was asked based on my internship work related to **interval logic and distance calculation**.
+* Several SQL queries were asked, ranging from basic queries to window functions.
+* One SQL question was based on **constraints**, which I could not answer initially.
+* Towards the end of the interview, I revisited that question and provided the correct explanation.
+* The interview was then extended by around **20 minutes**.
+* Additional SQL queries were asked after that, including a question on **deleting duplicate records**.
+* I explained the **window function approach** to delete duplicates.
+* A few more SQL concept-based questions were discussed in depth.
+* Finally, a managerial question was asked about managing two sub-teams with different cultures that were not collaborating effectively.
+* After this round, **6 candidates were shortlisted** for the next stage.
+
+[75 mins]
+
+* Before the second technical round, we had a short interaction session with the **Vice President from the US**.
+* She asked about our **final year project** and discussed our approach and implementation ideas.
+
+[30 mins]
+
+**Round 4: Technical Interview –2 (@Company)**
+
+* The interview began with a brief introduction and discussion about my internships.
+* Questions were asked from **SQL**, including joins and aggregate functions.
+* A few **Python-based coding questions** were also discussed.
+* I answered the questions that I was confident about with clear explanations.
+* Since I mentioned C++ as my strong language, some basic **OOPS concepts** were asked.
+* Detailed discussion was done on my projects and implementation approach.
+* One managerial-type question was asked towards the end of the interview.
+* All **6 candidates were shortlisted** for the next round.
+
+[45 mins]
+
+**Round 5: Techno-Managerial Interview (@Company)**
+
+* The interview started with an introduction and discussion about my internships and projects.
+* I was asked about the **previous day’s interaction with the Vice President**.
+* I said it was my first time speaking with a foreign leader in that setting, and it was a great experience.
+* They asked how I felt during that interaction and what I learned from it.
+* Questions were also asked about how the **two technical rounds** went.
+* I explained my performance honestly, including challenges and how I handled them.
+
+[20 mins]
+
+**Round 6: HR Discussion (@Company)**
+
+* The HR round was conducted with all shortlisted candidates together.
+* The HR started with a brief introduction about the company and its work culture.
+* Company policies, training process, and work expectations were explained.
+* The session was simple and interactive.
+
+[90 mins]
+
+* The results were announced **two days after the HR round**.
+* Out of 6 candidates, **4 candidates were selected**, and I was one among them.
+
+**My Preparation Strategy:**
+
+* I regularly prepared with my friends, which helped me improve my core CS fundamentals.
+* I gave equal importance to **SQL and DSA**, solving problems regularly on platforms like LeetCode and HackerRank.
+* I focused deeply on **SQL concepts, especially window functions.**
+* Whenever I had doubts, I discussed them with friends and clarified concepts immediately.
+* I revised important subjects like **DBMS, OOPS, OS, and Networks** using platforms such as **InterviewBit** and structured notes.
+* For coding rounds, I improved my problem-solving skills by practicing consistently using **Striver’s A2Z DSA Sheet**.
+* I prepared for HR and behavioral questions by interacting with AI tools.
+* I analysed my previous interview failures and worked on those weak areas.
+
+**Previous Interviews list:**
+
+* SAP Labs India
+* DTCC
+* Applied Materials
+
+**Key Suggestions and Tips from My Experience:**
+
+* Be strong in **core CS fundamentals** like DBMS, OOPS, OS, and Networks.
+* Give equal importance to **SQL and DSA**, especially for data-related roles.
+* Learn from previous interview failures and improve weak areas immediately.
+* Take **mock interviews** and practice HR questions to improve confidence.
+* Stay calm if you cannot answer a question initially; think and attempt again.
+
+**Contact Information:**
+
+* **Name:** Kesav Kumar J
+* **Mobile No:** 9080319766
+* **Email Id:** kesav25155@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/kesavkumarj/
+
+**Resume:**
+
+![](data:image/jpeg;base64...)

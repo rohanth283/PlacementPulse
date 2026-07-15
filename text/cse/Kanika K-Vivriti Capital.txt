@@ -1,0 +1,67 @@
+VIVRITI CAPITAL PRIVATE LIMITED 
+Vivriti Capital is a FinTech company. It is a marketplace that brings together capital markets 
+investors with institutions, small enterprises and individuals. It started with a mission to offer 
+efficient and customized financial solutions to individuals, enterprises and institutions.  
+There were 3 rounds in the interview process 
+A. Online test 
+B. Technical interview – 2 rounds 
+C. HR interview 
+ 
+A. Online test 
+20 MCQs and 2 coding questions 
+MCQs from DBMS, OS, Data structures. 
+Coding questions based on graph. 
+B. Technical interview 
+Round 1: 
+1. Introduce yourself. 
+2. I was asked to explain a particular project from my resume. 
+3. I was asked to code for the following questions: 
+i. 
+Find the triplets in the array – Adding three numbers should give zero. 
+ii. 
+There are a series of buildings in a lane with different heights. Find which are all 
+the buildings which will experience sunrise and sunset (considering the heights 
+and shadows). 
+4. Normalization in DBMS. 
+5. Difference between delete and truncate table in DBMS 
+6. Explain the ACID properties in DBMS. 
+The interview went for around an hour. I answered all questions and I was called for next 
+round. 
+Round 2: 
+1. Find the different methods to solve the problems, analyse the time and space complexity 
+and provide the optimal solution. 
+i. 
+Given an array of elements each present twice whereas one element is present 
+only once. Find the element. 
+ii. 
+Given an array of prime numbers in which one element is duplicated. Find the 
+element (using prime number properties). 
+ 
+ 
+2. Difference between process and thread (real life example).  
+3. Normalize a schema. (A student detail database) 
+The interview went for around 1.15 hours. I had few ups and downs in the interview but it 
+was a very good experience.  
+C. HR interview 
+ 
+1. Introduce yourself. 
+2. What are your hobbies? 
+Told me I was offered a job. 
+Topics to be focussed: 
+➢ Data structures 
+➢ Database Management Systems 
+➢ Operating systems 
+Take away: 
+Whatever we learn, learn it completely. This was a major take away from my placement experience.  
+Experience from previous interviews: 
+1. Apart from all the coding and concept learning, good aptitude skill plays a major role and in 
+some interviews, I was asked to print the given pattern using arrays, it doesn’t require any 
+deep concept learning, it just depends on the thinking. Take your own time and practice more 
+problems. Solving problems in geeks for geeks and leetcode helped me.  
+2. All it takes is a positive and learn from mistakes attitude. 
+Thank you. 
+All the best. 
+ 
+ 
+Kanika K. 
+kanikakandasamy@gmail.com 

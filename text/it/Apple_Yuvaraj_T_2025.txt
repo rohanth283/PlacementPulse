@@ -1,0 +1,124 @@
+APPLE SDE INTERN INTERVIEW EXPERIENCE ( ON CAMPUS)
+
+ABOUT THE COMPANY:
+
+Apple India is a key market for the tech giant, reflecting the country’s growing demand for premium
+smartphones and technology products. With a rapidly expanding middle class and increasing
+smartphone penetration, India presents a significant opportunity for Apple to expand its market share.
+The company has been actively investing in local manufacturing to comply with the government's "Make
+in India" initiative, producing iPhones domestically to reduce costs and enhance affordability.
+Additionally, Apple has launched its online store and is planning retail stores in major cities, further
+strengthening its presence in the Indian market.
+
+JOB DESCRIPTION:
+
+“We are looking for remarkable individuals with excellent communication abilities and strong
+interpersonal skills, who can collaborate effectively across diverse business and technical teams. The
+ideal candidate is a proactive, motivated individual with outstanding interpersonal skills and a flexible,
+positive attitude toward problem-solving. “
+
+Overview of Interview Rounds:
+
+1.  Resume Shortlisting
+
+2.  Online test
+
+3.
+
+4.
+
+Interview - R1 - Technical & Eliminatory
+
+Interview - R2 - Techno Managerical
+
+Let’s look about each round:
+
+Resume Shortlisting:
+
+In this round, all the candidates were shortlisted who don’t have back papers.
+
+Online Test:
+
+In this round we were asked to do one coding problem.
+
+  Coding Question: (it is a leetcode question)
+
+Imagine you're playing a game where you need to cross a sequence of stones to reach the final stone at
+the end, and reaching it will save your life. Each stone has a number on it that indicates the maximum
+number of steps you can jump forward from that stone. Starting from the first stone, your objective is to
+determine whether you can make it to the last stone. Return true if it's possible to reach the last stone,
+otherwise return false.
+
+Input:[2, 3, 1, 1, 4]
+
+Output: 1
+
+I/O Explanation:
+
+You can jump 1 step from the first stone to the second stone, and then take 3 steps to jump directly to
+the last stone.
+
+  MCQ Questions:
+
+Total no of questions: 10
+
+In this round the mcq questions related DBMS,OS,OOPS and DSA were asked .
+
+  Tips: Read lot of mcqs in internet related to core concepts and practice coding in leetcode.
+
+50 people were shortlisted for next round .
+
+Interview R1- Technical interview & eliminatory
+
+Platform: Webex and coderpad(for pair coding)
+
+This round was conducted in online and we were asked about which time we will be comfortable to
+attend the interview. I was interviewed by a Senior Software Engineer. He was very gentle. He introduced
+himself and asked me to introduce myself. He asked the following things.
+
+1 .Coding Question: (pair coding)
+
+  N-Queens problem: https://leetcode.com/problems/n-queens/description/
+
+  Given some code snippets and asked to analyse time complexity
+
+2.Projects related Questions:
+
+  Overview of all the projects in my resume
+
+  Some technical management question(like how you managed conflicts, how your learning
+
+methodology will be
+
+He finally asked if I have any questions for him, I asked some template questions
+
+Tips: Be thorough about your projects in the resume(know them completely)
+
+Around 35-40 were shortlisted next round
+
+Interview - R2 - Techno Managerical
+
+Platform: Webex
+
+This round was also online. I prepared many managerial questions but the interview was very surprising.
+
+2.Managerial Questions:
+
+  He asked some management questions related to projects. They are as follows:
+
+How do you manage conflict with your teammates ?
+
+What are the challenges?
+
+How well you think this project creates an impact?
+
+3.Some Random Questions:
+
+  Why do you like your college?
+
+Tips: Our confidence and how we manage our things were tested. Be calm and answer honestly.
+
+5 were selected for sde intern and I am one of them.
+
+Thankyou!
+

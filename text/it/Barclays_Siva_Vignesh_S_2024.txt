@@ -1,0 +1,60 @@
+Experience Document
+
+About the company:
+
+Siva Vignesh S,
+
+Barclays Bank.
+
+Barclays is UK based bank and its technological operations that backs the banking and other
+
+trading operations are carried out all over the world. It’s headquarters is located in London, UK. In India,
+,technological operations are carried out in Chennai and Pune.
+
+About the role:
+
+Barclays hired grads for the role of Graduate Technology Developer, which is mainly focused on
+
+software development including Full Stack, Java Development and so on.
+
+Preparation Strategy:
+
+The common placement preparation strategy should be enough for Barclays online test and
+
+interviews. Be sure to put projects that you are completely confident from start to end (Be ready to face
+end-to-end questions about the project ).
+
+Placement Drive Experience:
+
+Initially, they conducted first round online test which included
+
+1.  Technical MCQ’s (20 Qs apprx)
+2.  2 coding question ( both medium level)
+
+Tips & Tricks:
+
+1.  Be sure to start Competitive Programming at the earliest – Platforms include but not limited
+
+to Leetcode, GFG, codeforces ( contests ) codechef.
+
+2.  Prepare resume with valid details and mainly the stuffs that you are really confident.
+3.  Participate in open online contests to pace up reaching solution
+4.  Never forget to mention your approach while thinking of a solution during interview and
+
+always state time and space complexity even if not being asked.
+
+Preparation Links:
+
+1.  DSA cheet sheet - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-
+
+problems/
+2.  Youtube -
+
+https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PM
+MY
+https://www.youtube.com/@TechWorldwithNana
+
+3.  Leetcode, codeforces and GFG
+
+All the best folks !!!
+

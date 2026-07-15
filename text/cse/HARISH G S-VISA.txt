@@ -1,0 +1,60 @@
+  
+ 
+   VISA INTERVIEW EXPERIENCE 
+HARISH G S 
+2023503525 
+B.E - CSE 
+MIT Campus. 
+ 
+🔹 Online Assessment (CodeSignal): 
+The OA consisted of 4 problem-solving questions. 
+1) Time Machine Travel – Calculate total time required when traveling across 
+years with specific forward/backward rules. 
+2) Octavian Lunar Phases – Determine the lunar phase on a given date with cyclic 
+phases. 
+3) Library Book Circulation – Simulate library operations like acquisition, checkout, 
+and reclassification of books. 
+4) Lamp Illumination – Find the coordinate illuminated by the maximum number 
+of lamps. 
+✅ I was able to solve 3 problems completely and partially solved the 4th (40/100 
+test cases). 
+🔹 Technical Interview: 
+The interview was held for 1 hour in Microsoft Teams. Started with my 
+introduction, where I mentioned solving 100+ problems on LeetCode. So, he gave 
+me some questions in linked list and trees. 
+DSA (pair coding in CodeSignal): 
+1)Floyd’s algorithm 
+2)DFS in a tree to find depth. 
+3)Difference between Tree and Graph. 
+DBMS: 
+1)Query to find top 3 students by marks from CSE department with department 
+name. 
+2)Two-phase locking. 
+3)Hashing and role of B-Tree. 
+Computer Networks: 
+1)What is an IP Address? 
+2)Difference between UDP and TCP 
+Operating Systems: 
+Initially I told that I’m studying it in this current semester. So, he asked me to 
+explain deadlocks as it is same as in DBMS. 
+Projects:  
+Explained 2 of 3 projects — one in AI/ML and another Full Stack project. 
+🔹 HR Round: 
+1)How do you handle stress? 
+2)Where do you see yourself in the next 5 years? 
+3)What were the challenges you faced as a class representative? 
+4)How would your classmates and staff describe you? 
+5)How do you deal with the pressure situations? 
+6)Then he enquired me whether do you have any questions to ask me. So, I asked 
+“How does Visa generate revenue?” and received a polite and insightful answer. 
+🔹 Tips: 
+ Be confident and productive during the interview as your activeness shows 
+your attention. 
+ Speak casually and genuinely with the interviewer and try to answer all the 
+questions instead of being silent. 
+ Practice basic and intermediate DSA problems in leetcode. 
+ Gather the concepts of DBMS and OOPS from chatgpt. 
+ Go through your projects completely. 
+ Be thorough with your resume (including each point). 
+ 
+ 

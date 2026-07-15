@@ -1,0 +1,379 @@
+ SAP Labs Interview Experience                       
+Role : Developer Associate                                                                       
+Total Rounds: 5  
+Date: 18th August 2025 
+ 
+ 
+It all began on a nervous evening in front of my laptop, preparing for the 
+SAP Labs interviews.  
+I had read countless experiences from other candidates, and now it was 
+finally my turn to create one of my own.  
+From the very first online test to the final HR discussion, here’s a step-
+by-step look at how my SAP Labs interview unfolded and the lessons I 
+took away. 
+ 
+ 
+About Company: 
+About SAP Labs India 
+SAP Labs India is a major research and development hub of SAP, 
+located in Bengaluru, Gurgaon, Pune, Mumbai, and Hyderabad. The 
+Bengaluru campus is the largest, focusing on AI solutions and 
+enterprise technology with a strong, customer-centric approach. 
+About SAP 
+SAP (Systems, Applications, and Products in Data Processing) is a 
+global leader in enterprise software, helping businesses manage 
+operations like finance, supply chain, and data analytics. Headquartered 
+in Germany, SAP has been driving innovation for over 50 years and 
+works with companies in nearly every industry worldwide. 
+ 
+[Learn the basic concepts of SAP ERP products and the SAP HANA 
+database they use. They usually don’t ask direct questions from these 
+topics, but having this knowledge can give you a slight edge over other 
+candidates by showing genuine interest in the company.]  
+ 
+ 
+Selection Process 
+1.Online Assessment (OA) 
+ Duration: 100 minutes (1 hour 40 minutes) 
+ Platform: Codility 
+ Proctoring: Both video and audio 
+ Questions: 2 DSA problems – one easy and one medium level. 
+ Note: Each candidate received a different set of questions. 
+ 
+Questions Asked to me  
+Question -1 
+Problem Statement 
+You are given an array A containing N integers, sorted in non-
+decreasing order. 
+Your goal is to transform this array by performing a series of moves. A 
+"move" can be one of two operations: 
+1. Remove an integer from the array. 
+2. Insert an integer anywhere in the array. 
+The objective is to reach a state where for every unique value X present 
+in the final array, it appears exactly X times. 
+You need to find the minimum total number of moves (removals + 
+insertions) required to achieve this goal. Note that it's permissible to 
+remove all occurrences of a number. 
+ 
+ 
+Example 1 
+ Input: A = [1, 1, 3, 4, 4, 4] 
+  Expected Output: 3 
+Explanation: The initial array has two 1s, one 3, and three 4s. You can 
+perform the following 3 moves: 
+1. Remove one 1. 
+2. Remove the 3. 
+3. Insert one 4. The resulting array is [1, 4, 4, 4, 4]. In this array, the 
+value 1 appears once, and the value 4 appears four times, 
+satisfying the condition. 
+ 
+Example 2 
+ Input: A = [1, 2, 2, 2 ,5, 5, 5, 8] 
+ Expected Output: 4 
+Explanation:  
+1.Remove 8 
+     2.Remove 2 once 
+3.Add two times 5  
+Total moves : 4 
+ 
+Example 3 
+ Input: A = []  
+ Expected Output: 0 
+ 
+ 
+ 
+ 
+Question 2 
+Problem Statement 
+In a city, there are N districts (numbered from 0 to N-1) connected by M 
+streets. The street network is described by two arrays, A and B, where 
+each pair (A[K], B[K]) represents a street between two districts. 
+There are also L hospitals in the city, and their locations are given by an 
+array H. 
+When an ambulance is needed in a district, it is sent from the hospital 
+that can reach the district via the shortest possible route. It takes 
+exactly 1 minute to travel along any single street. 
+The task is to find the longest time required for an ambulance to reach 
+any district in the city. This means you must: 
+1. For every district, find the shortest possible travel time from its 
+closest hospital. 
+2. From all these shortest times, find the maximum value. 
+If any district cannot be reached by an ambulance (i.e., it's not 
+connected to any district with a hospital), the function should return -1.
+ 
+I don’t remember the example for this question 
+Similalar question : https://www.chegg.com/homework-help/questions-
+and-answers/city-n-districts-numbered-0-n-1-connected-m-streets-
+connections-described-two-arrays-b-len-q92788342 
+ 
+I solved both questions  
+Result of this Round : 
+A total of 89 students were shortlisted for the interview. 
+The results came out just one day before, in the afternoon, so I had only 
+that evening and the next morning to prepare. 
+ 
+My advice: if you’ve solved both problems, don’t wait for the results—
+start preparing for the interview right away. 
+If you get shortlisted, you’re ready. If not, that preparation will still help 
+for the next company. 
+ 
+This way, even if the shortlist is announced at the last minute, you’ll 
+already feel confident and ready. 
+ 
+ 
+Technical Interview – 1  
+ 
+Duration: For me, this round lasted about 1 to 1 hour 15 minutes. 
+1. Introduction & Project Discussion 
+The interview started with the classic question: “Introduce yourself.” 
+Next, the interviewer asked me to explain my second project listed on 
+my resume. 
+I began explaining my project, and he seemed very satisfied with my 
+explanation. 
+Later, he moved on to the technical part and asked, “Are you good in 
+Java?” 
+I confidently replied, “Yes, I’m good at it.” 
+ 
+Questions asked related to java  
+ 
+1.Exception Handling 
+2.Whether try block cant exist with/without catch and finally 
+3.checked exception and unchecked exception with examples for them 
+4.Throw vs throws  
+5.finally keyword 
+6.Oops concept in java  
+My Advice: 
+Don’t just memorize OOP theory from sites like GFG. Instead, focus on 
+understanding the concepts clearly and, if possible, relate them to your 
+project. Explaining OOP concepts with examples from your own project 
+makes it easier for the interviewer to understand and shows practical 
+knowledge. 
+ 
+ 7.Polymorphism one example code question 
+class Calculator { 
+    int sum(int a, int b) { 
+        return a + b; 
+    } 
+    long sum(long a, int b) {  
+        return a + b; 
+    } 
+} 
+Calculator.sum(10,5) 
+Which method will be called  
+I said sum(int a ,int b) 
+Why long sum() isn’t called he asked  
+Then what happens if only we have long sum() 
+I said if we have only long sum() then long sum will be called  
+He asked me to explain the reason 
+Java looks for exact type matches first. 
+If no exact match, it considers widening conversions (int → long, float 
+→ double, etc.). 
+8.Wrapper class 
+ 
+we moved on to the DSA part. I was given four standard problems: 
+1. Binary Search 
+2. Set Matrix Zeros 
+3. Find all permutations of an integer array 
+4. Merge Sort 
+I was asked to write code for all four problems and also explain each 
+solution with a dry run. 
+I managed to solve all the problems, but I struggled a bit with the dry 
+run of the recursion in the permutation problem, even though it’s a 
+standard question from Striver. 
+The good part was that the interviewer helped me a lot throughout the 
+session, guiding me when needed, which made the experience much 
+smoother. 
+Then he asked me whether you have any questions 
+At the end of the interview, the classic question comes up: “Do you have 
+any questions for me?” 
+Instead of leaving it blank, use this moment to demonstrate curiosity 
+and genuine interest.  
+Ask about the team, the role, growth opportunities, or the projects you 
+might work on. Thoughtful questions at this stage leave a strong, 
+positive impression on the interviewer. 
+ 
+My Advice: 
+Avoid asking the usual, generic questions that everyone asks. Instead, 
+try to ask a unique and thoughtful question—one that stands out and 
+makes the interviewer remember you. 
+I asked about the Agentic AI and Joule AI that SAP is currently using in 
+development.  
+ 
+ 
+ 
+NOTE: 
+My interviewer didn’t introduce himself at the start, so at the end I 
+asked, “Sir, could you please tell me about yourself and your role?” 
+Always remember who interviewed you and what their role is—this 
+information can be very helpful for future rounds. 
+[My First Round little bit lengthier when compared to others] 
+ 
+After this round, I got shortlisted for the next stage. From all the 
+participants, only about 25 students moved forward to 
+  
+Technical Round 2 
+Duration:45min to One hour 
+This round also started with the usual “Introduce yourself”. 
+ During my introduction, the interviewer paused and asked about 
+my 12th-grade marks. He was impressed and then asked about 
+my favorite subjects in school and why they were my favorites. 
+ He also asked about the difference in study methods between 
+school and college. 
+Next, he asked me to explain one of my projects. I gave a detailed 
+explanation, covering all aspects, and answered the follow-up 
+questions about it. 
+Project  Tips: 
+Below all the questions where not asked for me in this interview  
+Few of them were asked but through my multiple rejections from other 
+company I listed them 
+You should be ready to answer these common questions about your 
+project [Not for this company/ Its comman for all company]: 
+1. Why did you choose this project? 
+2. What’s the novelty of your project compared to existing solutions? 
+3. What was your role in the project? 
+4. Did you face any difficulties or challenges during the project? 
+5. How did you overcome those difficulties? 
+6. How does your project handle multiple users simultaneously? 
+7. What security features does your project include? 
+My Advice: 
+As a fresher, your project can add significant weight to your profile. 
+ Avoid doing common or basic projects. 
+ Try to work on a unique project that makes you stand out from the 
+crowd. 
+ 
+Then, the discussion moved to DBMS concepts, where he asked about 
+joins, including inner join and outer join. 
+He also asked about the SAP HANA database, which led to a discussion. 
+(This question doesn’t usually appear; I had mentioned HANA when 
+talking about SAP earlier, which showed him that I have a good 
+understanding of the tools they use.) 
+Finally, he gave me a DSA problem: Sudoku Solver. 
+ I was asked to explain my approach, which I did clearly. 
+ The solution and approach I presented impressed him. 
+ 
+He also asked about Scrum, since I had mentioned it on my resume.  
+I explained my understanding of Scrum 
+Apart from technical topics, we discussed various other things, making 
+the conversation more engaging. This round really gave me a lot of 
+confidence. 
+ 
+• At the end, they asked me: “Do you have any questions ?” 
+I have asked two to three one of this was 
+“What advice would you give to a new joinee at SAP?” 
+He answered this question with a quote and we had a conversion a little 
+longer  
+My Advice: 
+Whenever you get the chance, try to connect with the interviewer. 
+Building a good rapport can leave a positive impression and help you 
+stand out. 
+ 
+When I came out of the room  
+Immediately I have called for my third round 
+ 
+Round 3 – Techno-managerial Round: 
+Duration : 50min – one hour 
+ 
+This round also started with the usual “Introduce yourself”. 
+ 
+He asked questions 
+1.Challenges you have faced in your personal life 
+2.What are your weakness 
+3.he asked me to implement the oops concept in my Machine learning 
+project 
+I have wriiten the code structure for that and explained him  
+4.He asked about SDLC 
+5.Explain about waterfall model 
+6.Two puzzles  
+I was given a classic coin puzzle: 
+ 10 boxes, each with 10g coins except one box with a coin of 
+different weight. 
+ We were allowed to use the weight machine only once to find the 
+odd coin. 
+I couldn’t solve it initially. I tried a different approach and gave an 
+answer using the weight machine three times. The interviewer then 
+gave me some hints on how to solve it with a single weighing, but I still 
+couldn’t get it. 
+ 
+But the way I approached made him to give another problem for me to 
+try 
+ 
+Puzzle 2 : https://www.geeksforgeeks.org/aptitude/puzzle-7-3-bulbs-
+and-3-switches/ 
+ 
+I have solved this and explained the approach in good manner 
+He was satisfied with my answer 
+ 
+Apart from the technical questions, we discussed many other topics. 
+However, I felt I didn’t perform up to my own standard in this round 
+compared to the second round. 
+ 
+This round also finished with “Do you have any questions “ 
+After that I have waited for the result of this round 
+Then they called me for final round 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Round 4 –HR Round: 
+ Duration: 20 mins  
+ 
+This was the final round of my interview process. As usual, it started 
+with a brief introduction. 
+The HR round was more of a friendly conversation. Some of the 
+questions he asked included: 
+ About my schooling and academic background 
+ Whether I am satisfied with MIT and how I felt when I didn’t get 
+into CEG 
+ Questions about my family 
+ Whether I’m comfortable relocating to Bengaluru 
+ About my CTC, base salary, and benefits 
+ Whether I consider myself introvert or extrovert 
+I also asked questions about the company and about him personally. 
+Overall, the conversation was very friendly and comfortable, making the 
+round quite enjoyable. 
+ 
+Finally I have completed all the rounds and waited for results for 
+hours.. 
+ 
+Finally, after completing all the rounds (around 8 PM), the results were 
+announced, and I was overjoyed to learn that I had been selected. It was 
+an unforgettable moment of pride and happiness. 
+That day was more than just an interview—it was a learning experience. 
+I gained insights not only into technical and problem-solving skills but 
+also the value of confidence, effective communication, and quick 
+thinking under pressure. 
+ 
+ 
+Tips for Interviews: 
+Be Strong what you have mentioned in the resume  
+Don’t mention if you don’t know 
+Your resume will be fully questioned by interviewers during each stage  
+Dot get trapped 
+Be confident : Even if you don’t know try it.  
+Try to connect with the interviewer whenever possible 
+ 
+During the interview, there were a few questions I couldn’t solve, 
+despite trying my best.  
+I realized that it’s important to admit when you don’t know something, 
+but do it the right way [Don’t blindly tell I don’t know].  
+Don’t try to cheat or guess blindly. 
+ Instead, explain your thought process, show how you would approach 
+the problem, and be honest.  
+Interviewers appreciate honesty and clear reasoning more than random 
+answers. 
+Wishing you all the very best! 
+When you read this, you must be shortlisted for the interview. 
+Give your best in the interview! 
+Let’s meet at SAP Labs. 
+ 
+Don’t forget to connect with me on LinkedIn. 
+https://www.linkedin.com/in/bala17/ 
+ 
+ 
+ 
+  
+ 

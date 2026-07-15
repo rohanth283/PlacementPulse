@@ -1,0 +1,102 @@
+| EUCLOID | DATA SOLUTIONS |     | –   | INTERVIEW |     | EXPERIENCE |     | -2024  |     |
+| ------- | -------------- | --- | --- | --------- | --- | ---------- | --- | ------ | --- |
+|         |                |     |     |           |     | Sakthivel  | K,  | B.tech | IT  |
+| About   | the Company:   |     |     |           |     |            |     |        |     |
+Eucloid is a Data/AI organization that leverages state-of-the-art AI
+and Data Science technologies to deliver high-impact projects.
+They create business-critical solutions for Fortune-100 clients and
+industry leaders across various sectors, including Hi-tech, BFSI,
+D2C, Healthcare, SaaS, and Retail. The have partnerships with
+leading platforms like Databricks, Google Cloud Platform, and
+| Adobe    | that enable       | them | to build | and        | deploy | cutting-edge |     | data |     |
+| -------- | ----------------- | ---- | -------- | ---------- | ------ | ------------ | --- | ---- | --- |
+| products | and massive-scale |      | data     | platforms. |        |              |     |      |     |
+| Role     | : Data Engineer   |      |          |            |        |              |     |      |     |
+Eucloid visited our campus for recruitment for the first time. The
+process started with a PPT, followed by an online test. The next day,
+| we had | the interview. | (All | process | Virtual) |     |     |     |     |     |
+| ------ | -------------- | ---- | ------- | -------- | --- | --- | --- | --- | --- |
+| Round  | 1: Online      | Test |         |          |     |     |     |     |     |
+As mentioned, the first round was an online test consisting of basic
+multiple-choice questions. The questions were designed to assess
+analytical thinking, logical reasoning, and problem-solving skills.
+Topics included aptitude, mathematics, statistics, verbal ability, and
+| even | a few puzzles. | Notably, | there | were | no  | coding | questions. |     |     |
+| ---- | -------------- | -------- | ----- | ---- | --- | ------ | ---------- | --- | --- |
+
+Out of 99 students who took the assessment, 42 were shortlisted for
+the technical interview. There was a slight delay in announcing the
+results, but it was communicated by the placement cell around 11
+| AM the | following    |     | day.      |     |     |     |     |
+| ------ | ------------ | --- | --------- | --- | --- | --- | --- |
+| Round  | 2: Technical |     | Interview |     |     |     |     |
+The technical interview was conducted via Microsoft Teams. The
+| interview |     | was | taken by | a senior | employee.It | started | with a |
+| --------- | --- | --- | -------- | -------- | ----------- | ------- | ------ |
+self-introduction, after which the interviewer directly jumped on to a
+DSA question, It wasn’t asked directly but instead he gave the
+use-case of a particular data structure in this case he gave me the
+scenario to access previous and next records in a file-system, and then
+asked me which data structure will i use in this case? I told him the
+answer and then he asked me to implement the solution using the
+| doubly | linked | list. |     |     |     |     |     |
+| ------ | ------ | ----- | --- | --- | --- | --- | --- |
+Language was my choice, so I used C language to implement since I
+was comfortable in it, After which he asked me some DBMS related
+| questions | like       |                |                |         |        |     |     |
+| --------- | ---------- | -------------- | -------------- | ------- | ------ | --- | --- |
+| DBMS      | Questions  |                | asked were:    |         |        |     |     |
+| • What    | is         | Normalization? |                |         |        |     |     |
+| • What    | are        | 1NF,           | 2NF, and       | 3NF?    |        |     |     |
+| • Can     | a relation |                | in 1NF have    | primary | key?   |     |     |
+| Then      | he asked   | me             | a SQL question | as      | below, |     |     |
+
+| orders      | table:     |               |                             |            |             |       |
+| ----------- | ---------- | ------------- | --------------------------- | ---------- | ----------- | ----- |
+| order_id    | order_date |               | sales_rep_id                |            | approver_id |       |
+| 101         | 2024-08-01 |               | 1                           |            |             | 2     |
+| 102         | 2024-08-02 |               | 3                           |            |             | NULL  |
+| 103         | 2024-08-03 |               | NULL                        |            |             | 1     |
+| employees   | table:     |               |                             |            |             |       |
+| employee_id |            | employee_name |                             | department |             |       |
+| 1           |            | Alice         |                             | Sales      |             |       |
+| 2           |            | Bob           |                             | Sales      |             |       |
+| 3           |            | Charlie       |                             | Sales      |             |       |
+| Expected    | Output:    |               |                             |            |             |       |
+| order_id    | order_date |               | sales_rep_nameapprover_name |            |             |       |
+| 101         | 2024-08-01 |               | Alice                       |            |             | Bob   |
+| 102         | 2024-08-02 |               | Charlie                     |            |             | NULL  |
+| 103         | 2024-08-03 |               | NULL                        |            |             | Alice |
+I was able to come up with a solution using nested joins. Then, he
+asked me whether I had any questions for me, I asked him about the
+| company | and | how he was | able to keep | up with | the current |     |
+| ------- | --- | ---------- | ------------ | ------- | ----------- | --- |
+technologies that are evolving, he answered me patiently and the
+| interview | came | to an end. |     |     |     |     |
+| --------- | ---- | ---------- | --- | --- | --- | --- |
+A total of 13 candidates were shortlisted for the next round.
+
+| Round | 3: Interview | with Leadership | team | (Technical | and HR) |
+| ----- | ------------ | --------------- | ---- | ---------- | ------- |
+This round was conducted by the Co-founder of the Company. He was
+very polite and asked me not to panic. Firstly, he appreciated me for
+doing well in the previous rounds. Then, he asked me to introduce
+myself. Following this, he asked me about my projects and asked me
+to chose the most favorite one, and asked why i liked it more than
+other projects of mine. He asked me about the durations and the
+contributions from my side for the project. Also, he asked me few HR
+questions like my strength and weaknesses. He also asked me about
+| my favorite | subject | for which | i told | Programming | and Data |
+| ----------- | ------- | --------- | ------ | ----------- | -------- |
+Structures.
+He asked about my score on that subject and asked me few questions
+related to sorting. Explained Bubble , Selection and Quick Sort and
+their differences and complexity. After this he asked me whether I
+have any questions for him, I asked him about his decision to find a
+start-up, and the qualities that he look for his hires , Finally, the
+interview came to and end, and he told me that they will contact me
+| through | the HR-team. |     |     |     |     |
+| ------- | ------------ | --- | --- | --- | --- |
+At the end of the process, five candidates received offers, and I was
+| one among | them. |     |     |     |     |
+| --------- | ----- | --- | --- | --- | --- |

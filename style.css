@@ -1303,6 +1303,33 @@ body {
     height: 13px;
 }
 
+/* External Link Redirect to IST Portal */
+.ist-redirect-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    background-color: rgba(255, 159, 10, 0.12);
+    border: 1px solid rgba(255, 159, 10, 0.2);
+    color: #ff9f0a;
+    padding: 0.55rem 0.9rem;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: var(--transition);
+    white-space: nowrap;
+}
+
+.ist-redirect-btn:hover {
+    background-color: rgba(255, 159, 10, 0.2);
+    transform: translateY(-1px);
+}
+
+.ist-redirect-btn i {
+    width: 13px;
+    height: 13px;
+}
+
 .explorer-grid {
     flex-grow: 1;
     overflow-y: auto;
@@ -1367,6 +1394,30 @@ body {
 .exp-difficulty.Hard {
     background-color: rgba(255, 69, 58, 0.12);
     color: var(--danger);
+}
+
+.exp-badges {
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+}
+
+.exp-dept-badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 0.2rem 0.5rem;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+
+.exp-dept-badge.cse {
+    background-color: rgba(94, 92, 230, 0.15);
+    color: #5e5ce6;
+}
+
+.exp-dept-badge.it {
+    background-color: rgba(255, 159, 10, 0.15);
+    color: #ff9f0a;
 }
 
 .exp-card h4 {
@@ -1749,6 +1800,8 @@ body {
 .meta-pill .badge.Easy { color: var(--success); }
 .meta-pill .badge.Medium { color: var(--warning); }
 .meta-pill .badge.Hard { color: var(--danger); }
+.meta-pill .badge.cse { color: #5e5ce6; }
+.meta-pill .badge.it { color: #ff9f0a; }
 
 .panel-divider {
     border: none;

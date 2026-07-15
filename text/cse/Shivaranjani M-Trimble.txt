@@ -1,0 +1,125 @@
+TRIMBLE 
+Trimble is a global product and technology company specializing in construction, transportation, 
+navigation, and geospatial solutions. Its offerings like Trimble Maps provide industrial-grade routing, 
+mapping, and fleet navigation, integrating physical site data with digital analytics to help industries 
+plan, measure, and manage projects more efficiently. Its tools are used in infrastructure projects 
+including Chennai Metro Rail for rail asset management, GPS & BIM-based construction, and fleet 
+operations. 
+Role: Software Engineer 
+Interview Process: 
+• 
+Online Assessment 
+• 
+Technical Interview 
+• 
+Managerial Round 
+• 
+HR round 
+ 
+Online Assessment: 
+The online test was conducted on the Codility platform, where we had two coding questions. 
+Question 1: You are given a 2D matrix of integers. From this matrix, you can select any rectangular 
+submatrix (a block formed by continuous rows and columns). The task is to count how many such 
+rectangles exist where the sum of the numbers inside the rectangle is exactly equal to the sum of the 
+numbers outside the rectangle. In other words, the selected rectangle should split the matrix into two 
+parts with equal sums - the inside and the outside. 
+Question 2: You are given a string that may contain lowercase letters and the special character '?', along 
+with an integer K. The task is to replace all the '?' characters with lowercase letters and, if needed, 
+change at most K other characters in the string so that the final result becomes a palindrome. If it is 
+possible to form such a palindrome under the given conditions, return the resulting string; otherwise, 
+return "NO". 
+ 
+Technical Interview: 
+• 
+The interview lasted for about 1 hour and 15 minutes. It started with a short self-introduction, 
+one of my project explanation and  after which the interviewer moved to OOPs concepts. I was 
+asked to explain the four pillars of OOPs along with real-world examples. This was followed 
+by a rapid-fire round on other OOPs concepts. 
+• 
+I was then asked to write code in my programming language to demonstrate method 
+overloading and method overriding. 
+• 
+Next, the interviewer switched to problem-solving. The first task was to write a program to find 
+the highest occurring element in an array along with its frequency, but with a strict constraint - 
+I was not allowed to use any inbuilt data structures (like maps, vectors) or functions. I had to 
+solve it using only a single array and a loop. 
+• 
+In the data structures section, I was given a question on binary trees: to find the minimum depth 
+of a binary tree. After that, I was asked to give real-world examples of where data structures 
+like linked list, stack, queue, graphs, and trees are used. 
+• 
+The discussion then moved to dbms, where I was asked to write queries for operations such as 
+create, insert, alter, update, and modify on a given sql table, followed by questions about my 
+overall knowledge in sql. 
+• 
+To cover the computer networks domain, the interviewer presented a real-world banking 
+example and asked me to identify the OSI layer used in that case. In Operating Systems, the 
+questions were more general, such as the difference between process and thread, what I know 
+about synchronization, and deadlocks. 
+• 
+Towards the end, an aptitude question was given: There are coins of 5, 2, and 1 rupees. Find 
+the minimal number of coins needed to make exactly 100 rupees. 
+• 
+The interview was very interactive and engaging throughout. I was able to answer almost all 
+the questions confidently, except for the banking scenario in networks. The interviewer was 
+supportive and guided me whenever needed, which made the overall experience very positive. 
+After about 10 minutes, I received the news that I was selected for the Managerial Round. 
+ 
+Managerial round: 
+The interview lasted for about an hour. It began with a self-introduction, and right from the start, the 
+interviewer was very polite and humble, which gave me the confidence to speak more freely. 
+He asked me to share about my school life, followed by why I choose ceg-cse and my interest in joining 
+Trimble. He also inquired about my study methods, preparation strategies for interviews, and gradually 
+made it clear that this round was mainly to test my communication, attitude, and confidence rather than 
+technical depth. 
+The interviewer also asked me about my native place and family background. At one point, he gave me 
+a small coding snippet task – to find the berth position in a train – while simultaneously asking me 
+casual questions about my college life. 
+Later, he moved on to technical concepts, asking me the difference between a Binary Tree and a Binary 
+Search Tree, and asked me to take examples and explain searching in both structures. 
+After that, he asked me to explain all the projects I had mentioned in my resume and to go into detail 
+about one specific project. He carefully went through my resume, asking questions about my 
+extracurricular activities, the clubs and organizations I was part of, and my roles and responsibilities in 
+them. 
+As a whole, it was a very positive and comfortable experience where I felt free to express my thoughts 
+and knowledge. 
+About ten minutes later, I was informed that I was selected for the HR Round. 
+ 
+HR round: 
+The HR round lasted for about 30-45 minutes. It started with a self-introduction, followed by questions 
+on what I know about Trimble and why I wanted to join the company. 
+The interviewer then asked me to explain my Deep Learning project in detail and discussed my interest 
+in AI/ML/DL. Along with this, I was also asked about my family background and native place. 
+Next, the interviewer focused on my overall journey in the process from the coding test to the technical 
+and managerial rounds, and how I felt about the entire experience. A behavioral question was also asked 
+to understand my approach and mindset. 
+The round was interactive and comfortable, allowing me to express myself freely. 
+In the end, out of 11 candidates who attended the HR round, 6 were selected, and I was glad to be one 
+among them. 
+Company specific preparation tips: 
+During the process, I realized that it is important to listen carefully to the  PPT, as some of the questions 
+can be asked from it during hr round. In the coding round, which was held on the Codility platform, an 
+AI assistant was provided to test our prompting skills. The idea was that if you decide to use it, you 
+should know how to give the correct prompts; otherwise, it is equally fine to solve without it, as I did. 
+Though the overall process might seem a bit lengthy, having an intermediate level of knowledge across 
+all core computer science subjects along with decent practice in data structures and algorithms is more 
+than enough to do well. The Managerial round may sometimes involve system design questions, even 
+though I was not asked any, so it is advisable to go through at least the basic concepts of system design 
+in advance. Overall, the key lies in being confident, clear with your concepts, and expressive in 
+communication throughout the interview journey. 
+ 
+Personal note: 
+This was actually my second interview and honestly through the whole preparation phase I understood 
+one thing - consistency matters a lot. Whatever you prepare, just keep revising it again and again. Be 
+clear in your answers and at the same time try to improve your communication skills along the way. 
+Don’t feel bad if something doesn’t go well, and most importantly, don’t stop learning. Even clearing 
+the online test itself is not that easy, so once you get the chance to sit for an interview, just grab that 
+opportunity . All the best ! 
+ 
+Feel free to contact me: 
+Shivaranjani Muralidharan 
+CEG- CSE’26 
+Mobile - 9363167941 
+E-mail - shivani13murali@gmail.com 
+Linkedin - www.linkedin.com/in/shivaranjani-m 
+ 

@@ -1,0 +1,91 @@
+ 
+ APPIAN INTERVIEW EXPERIENCE  
+Appian Corporation is an American cloud computing and enterprise software company 
+headquartered in McLean, Virginia, part of the Dulles Technology Corridor. The company sells a 
+platform as a service (PaaS) for building enterprise software applications. It is focused on low-
+code development, process mining, business process management, and case management 
+markets in North America, Europe, the Middle East, and Southeast Asia. Appian offers a low-
+code platform with a visual interface and pre-built development modules. As with other low-code 
+platforms, it enables businesses to create apps and automations using little or no code.  
+There were four rounds of interviews: 
+ 1. Coding round 
+ 2. Technical Round 1 
+ 3. Technical Round 2 
+ 4. Behavioral  round  
+Coding Round:  
+Candidates were sent a link to attend the online coding round, which was held on the glider.ai 
+platform. The platform was heavily proctored which included video, audio and screen sharing. 
+We had to solve three questions in 60 mins. Make sure to properly allocate your time for every 
+problem. 
+ 
+1) There is a line consisting of people from different groups. We need to rearrange the line so 
+that people from the same group can stand together. If all the persons who belong to the same 
+group stand in line, then the names of the persons can be replaced with the group name. The 
+order of the groups in the line and the order of persons within the group in the line should not 
+change.  
+Approach: Since the group was already implemented with the help of classes, simply traversing 
+through the given list of people and maintaining a hashmap for the groups would do the trick.  
+2) Tickets are sold to a concert in a particular order. The number of tickets, the step size, and 
+the offset will be given. Number of Tickets: This is the total count of tickets available for the 
+concert. Step Size: This is the number of tickets to skip before selecting the next ticket. For 
+example, if the step size is 3, every fourth ticket will be chosen. (It can also be a negative 
+number.) Offset: This is the starting position from which the ticket selection begins. It can be 
+thought of as the initial position in the sequence of tickets where the process starts. The 
+challenge is to generate a sequence of ticket numbers based on these parameters, reflecting 
+the order in which tickets are sold. 
+Approach: This problem is extremely similar to that of the Josephus Problem and can be solved 
+in the same way.  
+https://www.geeksforgeeks.org/josephus-problem/ 
+3) You will be given a set of paths where each path consists of a set of strings representing a 
+path to a particular page starting from the ‘Main’ (homepage) element. You need to construct a 
+tree representing every path given as input. The root node will be the ‘Main’ element 
+Breadcrumbs problem)  
+Approach: This problem involved a class implementation and if you are already familiar with 
+Tries category of problems, it would be really helpful. 
+ 
+My only advice would be to solve as many different problems as possible. 22 of us got selected 
+for the next round.  
+Technical Round 1:  
+I was asked to code on the glider.ai platform again but this time it had the pair programming 
+interface. I had to identify Fibonacci numbers from a stream of numbers. The catch was that we 
+won’t know what number comes next. I gave him all possible ways to identify and generate 
+Fibonacci sequences and coded the solution by using a Hashset to keep track of already found 
+Fibonacci number. The interviewer was satisfied with my optimal solution. He asked me about 
+my projects, the difficulties I faced in building them, and the way I solved those problems. At 
+last, he asked me if I had any questions to ask him. This round mainly focused on my problem-
+solving skills.  
+Technical Round 2:  
+This round revolved primarily around my resume. I was asked about the subjects that I like. I 
+was about my favorite language and the reason behind it. I was also asked about the company 
+itself. (Pro Tip: Scroll through the company’s website before an interview so that you could 
+score some brownie points in the interview. It is to simply show that you care). Since I 
+expressed my interest in DBMS, the interviewer asked about some basic principles in the 
+subject. At last, he also gave me a chance to ask him a question. I was asked technical 
+questions in this round, which weren’t too tough to answer. If you are given an opportunity to 
+talk about your favorite subject make sure you are well versed in it. 
+Behavioral Round:  
+This was all about your tenacity and confidence. I was asked some basic questions regarding 
+my academics and as well as my personal life.I was asked personal background questions as 
+well. Even in this round, I was given a chance to ask the interviewer a question. Asking 
+mundane questions will benefit nobody. Make sure you have awesome question to ask the 
+interviewer. 
+ Finally, 5 of us (4 of us from CEG and 1 from MIT) got selected for the position of Software 
+Engineer Intern.  
+Key takeaways:  
+1. Optimal solutions with their complexities is a must. 
+2. Have a wide plethora of problems in your arsenal.  
+3. This is not a numbers game. So keep calm and do what you are able to. 
+4. Having good projects in your resume is definitely a bonus. 
+5. Keep calm and expect nothing. (Stay positive though) 
+ 
+Hope whoever reads this writes one just like I did :) 
+ 
+ All the best  
+M. Karthik Krishna 
+karthikk1006@gmail.com 
+ 
+ 
+ 
+ 
+ 
+Glory be to Neetcode!!! 

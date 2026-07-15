@@ -1,0 +1,87 @@
+BNY Mellon Technology Private Limited 
+ 
+Batch: 2023 FTE 
+About Company 
+The Bank of New York Mellon Corporation, commonly known as BNY Mellon, is an American 
+multinational Investment banking services holding company headquartered in New York City. It 
+is by far the world's largest custodian bank and asset servicing company BNY Mellon is an 
+investment company, which provides investment management, investment services and wealth 
+management helping institutions and individuals succeed in markets all over the world. 
+ 
+Hiring Process 
+ 
+The hiring process consisted of 4 rounds. 
+Online Coding Test 
+ 
+Platform 
+: Hackerrank 
+ 
+Time 
+ 
+: 90 mins 
+ 
+There were 4 coding questions totally, one easy, two medium, one hard. The easy question 
+is to sort the given array elements according to their number of set bits 
+https://www.geeksforgeeks.org/sort-array-according-count-set-bits/ . 
+Second question is slot machine 2.0 hackerrank problem. Third question is to find whether 2 given 
+points lies inside a triangle or not. I solved around 3 questions and got shortlisted to the next round. 
+Technical Interview – 1 
+ 
+Place 
+: CUIC (Physical Interview) 
+ 
+Time 
+: 35 mins 
+ 
+Around 22 people got shortlisted for this round. The interview started off with introduction 
+about myself. I was asked to explain one of my project and also to draw the architecture of my 
+project. Questions were from basic DSA like sorting algorithms (insertion sort and merge sort), 
+reverse a string, count frequency of each character in a string. There were also questions to write 
+SQL query. The interviewer mainly wanted to test the basic understanding of above concepts. I 
+solved all the questions and got selected for next round. 
+Technical Interview – 2 
+ 
+Place 
+: CUIC (Physical Interview) 
+ 
+Time 
+: 45 mins 
+ 
+This round started off with explaining one of my projects. Then the interviewer asked me 
+about the questions from DBMS (Denormalization, stored procedures, functions, aggregate 
+functions etc.) and to write SQL queries for 2 tables. There were questions asked from OOPs 
+(function overloading, function overriding, super keyword etc). Then the interviewer asked 
+questions on networks (what happens when u type a URL in your browser, what is TCP, what is 3-
+way handshaking). Then there were questions from OS - multithreading and race condition. The 
+interviewer asked questions on different APIs but I was able to tell about REST API alone. At last 
+there was an easy DSA problem given.  
+HR Round        
+ 
+Place 
+: CUIC (Physical Interview) 
+ 
+Time 
+: 40 mins 
+ 
+The interviewer asked me about my previous interview rounds. Then he asked about my 
+project. He asked about my ability to work as a team and about any difficulty I’ve faced while 
+working in a team. Then he asked questions like 
+Where do you see yourself in five years? 
+ 
+What is your long-term goal? 
+and some other behavioural questions. 
+12 people were given the FTE offer. 
+TIPS: 
+● Practice regularly on any of the coding platforms. I used to practice on Leetcode and gfg. 
+● Complete Must do coding questions from GFG. 
+● Concentrate on OS, DBMS and OOPs. 
+● Have 2-3 solid projects. Go through your projects, including the issues and what could be 
+made better. 
+● Try to attend contests on Leetcode, Codeforces and Codechef. 
+● Be ready to answer any type of questions from your resume. 
+ 
+All the best!!! 
+ 
+This is Dhinakaran V S from CEG CSE of batch 2023. 
+If you have any queries, you can reach me at dhinakaran.vs@gmail.com 
+ 

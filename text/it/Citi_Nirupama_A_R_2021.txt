@@ -1,0 +1,32 @@
+Name : Nirupama A.R
+Reg. No : 2018115062
+Company : Citicorp
+Month and Year : September 2020 (Internship & PPO)
+
+Citicorp had 3 rounds in the selection process.
+
+1.  Online Test
+
+•  Aptitude test
+•  Coding – Two questions were asked
+
+2.  Technical interview
+
+I was asked the language I was comfortable in.
+
+•
+•  Was asked about Multiple inheritance
+•  Was asked about quick sort and optimised quick sort
+•  Was asked about applications of stack
+•  Was asked about how to count the frequency of numbers in a given array
+•  Asked why I want to work with Citi?
+•  Asked where I would like to see myself in 5 years?
+
+3.  HR interview
+
+•  Was asked to introduce myself
+•  A walk through of my resume
+•  Asked to explain my projects
+•  Asked about how I spent my lockdown
+•  Asked about my hobbies
+

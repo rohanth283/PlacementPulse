@@ -1,0 +1,33 @@
+VOLVO COMPANY
+
+ABOUT THE COMPANY : Volvo Group India Private Limited
+manufactures commercial vehicles. The Company offers trucks, buses,
+construction equipment, industrial engines, and parts, as well as
+provides financing, insurance, rental, repair, maintenance, and IT
+services. Volvo Group India serves customers worldwide.
+
+ABOUT THE ROLE: As an Associate Software Engineer, I am responsible
+for the development, implementation, and maintenance of
+applications.
+
+PREPARATION STRATEGY: Aptitude , coding based (any languages)
+
+PLACEMENT DRIVE EXPERIENCE(ONLINE TEST, TECHNICAL ROUND , HR
+ROUND):
+
+ONLINE TEST: it comprises of 5 sections namely aptitude , English skills,
+find output, technical qn based , logical qns . (some I forgot ) .all were
+mcqs only.
+
+TECHNICAL ROUND: qns asked based on your resume including
+architecture diagram, challenges faced , some tricky/simple qns based
+on your skills set(it can be asked u to screenshare your screen and write
+code plus show output) . and mostly it depends on the interviewer.
+
+HR ROUND: qns asked based on yourself, strength and weakness and
+sometimes background information .
+
+TIPS AND TRICKS: -
+
+PREPARATION DOCS OR PLAYLISTS:  kindly refer this link indiabix.com
+

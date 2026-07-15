@@ -1,0 +1,166 @@
+VISHAL VELLAISAMY
+
+Intern + FTE in TEJAS NETWORKS
+
+About the Company
+
+Tejas Networks is an Indian R&D organiza6on developing cu<ng-edge op6cal and data
+networking products for India and the world. Founded in 2000, it is the only Indian
+homegrown electronic hardware design company to achieve many ﬁrsts, such as successfully
+demonstra6ng hitless LCAS on Ethernet hardware and running 100G interfaces over FPGAs,
+now deployed globally. As the #1 op6cal aggrega6on provider in India and among the top 10
+globally, Tejas has pioneered the “Make in India” ini6a6ve by not only designing but also
+manufacturing its innova6ve products domes6cally. This has been made possible by an
+energe6c and dedicated team of engineers for whom no problem is unsolvable.
+
+Tejas’ R&D organiza6on delivers a diverse porVolio of Access, Edge, and Switching products
+suppor6ng Broadband, Mobile Backhaul, Enterprise, U6li6es, Fixed Wireless, and SDN
+applica6ons across the access, metro, and core network 6ers. With over 500 networks in 75+
+countries, the company has earned global trust. In April 2022, Tata Sons, through Panatone
+Finvest Limited, acquired a majority stake of 52.45%, further strengthening Tejas’ posi6on as
+a global leader in telecommunica6ons. Tejas Networks con6nues to lead with innova6on,
+customer-centric solu6ons, and a commitment to quality.
+
+About the role
+
+• Designa6on - Engineer, R&D
+• Experience – Fresher.
+• Loca6on – Chennai.
+• Object Oriented Analysis and Design.
+• Data Structures, Algorithms and their complexity/performance.
+• Design/development/debugging in Java.
+• Middleware like Hibernate, Ac6veMQ & Rela6onal DBs like MySQL/Oracle.
+• Familiarity with Sogware Deﬁned Networking (SDN) concepts, and SDN controllers like
+ODL or ONOS is desirable. Good to have: NMS/EMS/OSS/BSS domain experience.
+
+Selec2on Process
+
+1.Coding Round
+
+The test was conducted on the Pro Hire plaVorm, which was smooth and user-friendly. One
+notable aspect was that there was no camera proctoring during the test, allowing for a more
+comfortable experience. This round was a mix of ap6tude and coding ques6ons, designed to
+challenge both logical thinking and problem-solving abili6es. The coding sec6on consisted of
+three problems of varying diﬃculty, covering a range of algorithmic and programming
+concepts.
+
+2.First Technical Round
+
+This round focused on assessing my founda6onal knowledge and understanding my projects.
+The interviewer asked a variety of ques6ons that allowed me to showcase my technical
+exper6se. Some of the key ques6ons included:
+
+•
+•
+•
+•
+
+Tell me about yourself.
+Explain your projects in detail.
+Ques6ons related to networking in one of my projects.
+Ques6ons about OOP concepts, including the pillars of OOP and wri6ng
+
+example programs for them.
+
+A basic programming ques2on on solving 2-sum and 3-sum problems.
+Apart from academics, what do you do? (I men6oned being a part of AUSEC
+
+•
+•
+- Anna University Student Entrepreneurship Club, as listed in my resume.)
+
+3.Second Technical Round
+
+This round focused on problem-solving skills and included a mix of technical and
+programming ques6ons. Key ques6ons included:
+
+•
+•
+•
+•
+•
+
+Tell me about yourself.
+Rate your skills out of ten in Python, Java, and SQL.
+A graph-based ques6on: Island and River problem.
+A tree-based ques6on: BFS tree traversal problem.
+An SQL query ques6on involving joins.
+
+4.HR Round
+
+This round was light and conversa6onal, aimed at understanding my aspira6ons,
+communica6on skills, and cultural ﬁt within the organiza6on. Some of the key ques6ons
+asked were:
+
+•
+•
+•
+
+What do you know about Tejas Networks?
+Why Tejas Networks?
+What will you gain from Tejas, and how will you contribute if hired?
+
+5.Managerial Round
+
+This round was designed to test my situa6onal judgment and management skills. The
+ques6ons were focused on how I handle responsibili6es and challenges as a team player.
+Some of the key ques6ons included:
+
+What will you do in a cri2cal situa2on where the client gives you less 2me
+to complete the work? How will you manage?
+What will you do if your teammate is not doing their work properly?
+What working environment do you prefer and why?
+What is the most complex situa2on you have faced, and how did you
+
+•
+
+•
+•
+•
+overcome it?
+
+Tips and Sugges2ons from Me:
+
+It’s not 100% about solving the problem or providing the exact right output. What
+
+Be conﬁdent and polite throughout the interview.
+If you don’t know the answer, let the interviewer know by saying, “I’m not sure, but I
+
+Let the interviewer know if you have experience working with any networking tools.
+1.
+It doesn’t necessarily mean you need to have done a project on it, but having one is a plus.
+In my case, I had done assignments using the NS3 simulator and Wireshark.
+2.
+maoers more is how you handle the situa6on, even if you can’t solve it.
+3.
+4.
+can learn it in the future.”
+5.
+had similar technical skills. What helped me stand out was my contribu6ons to clubs and
+event organiza6ons.
+6.
+7.
+
+Lastly, you also need that 1% luck!
+Adding a 7th 6p just because Thala for a reason – All the best!
+
+During the selec6on process (ager the coding round), I no6ced that most candidates
+
+Feel free to contact me:
+
+•
+
+•
+
+•
+
+•
+
+Phone: +91 9790700580
+
+Email: vishalvellaisamy1@gmail.com
+
+Instagram: @vishal_vellaisamy
+
+LinkedIn: linkedin.com/in/vishalvellaisamy
+

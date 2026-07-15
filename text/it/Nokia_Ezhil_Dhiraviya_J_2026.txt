@@ -1,0 +1,251 @@
+Placement Experience - Nokia
+
+Ezhil Dhiraviya J (2022 - 2026)
+
+About Nokia:
+
+Inﬁnera, a leading ﬁber optics company, was acquired by Nokia in February 2025.
+Nokia’s  optical  network  solutions  provide  scalable,  secure,  and  reliable
+connectivity,  enabling  operators  to  support  new  services  and  applications  while
+simplifying network operations.
+
+The  solutions  span  across  network  edge,  metro,  national,  long-haul,  and  subsea
+deployments, offering smarter and more automated networks with reduced total
+cost  of  ownership  (TCO).  By  supporting  next-generation  services  such  as  5G,
+high-speed  packet  services  (400G,  800G,  and  beyond),  and  advanced  C+L  band
+solutions, Nokia helps customers stay competitive and transform optical networks
+into value-driven platforms for businesses and end users.
+
+About the Role (Software Developer):
+
+●  Work within an Agile development environment.
+●  Develop,  test,  and  document  software  solutions  using  languages  such  as
+
+C++ and Python.
+
+●  Perform  analysis,  development,  and  automation  testing  of  software
+
+modules.
+
+●  Support integration of optical software with hardware systems.
+●  Conduct basic data analysis and visualization of performance metrics.
+●  Participate  in  code  reviews  and  team  discussions  to  adopt  best  practices
+
+and contribute ideas.
+
+Recruitment process:
+
+The online assessment was held at CUIC and had 2 sections.
+The MCQ section (45 questions) included Aptitude, OS, OOPS, DBMS, and CN.
+
+1 coding question was asked. (Topic: Graphs)
+
+●
+
+  An  array  was  given  where  each  index  i  is  a  node  with  an  edge  from  i  to
+arr[i].
+
+●  The task was to return an array where ans[i] has the number of nodes that
+
+can be visited, keeping the starting node as i.
+
+I was able to pass all the test cases except 1 using a brute force approach (bfs).
+
+Around 25 people were selected for the Software Developer role.
+The  interview  consisted  of  3  technical  rounds  and  1  HR round. Each round was
+eliminatory.
+The  interviews  for  the  1st  and  2nd rounds were face-to-face for some and virtual
+for others. It was random.
+
+ Technical Round 1: (40–45 mins)
+
+●  Mode: Virtual (MS Teams).
+●  The  interviewer  asked  me  to  upload  my  resume  in  the  chat,  then  gave  a
+
+●
+
+standard introduction round (projects, strengths, weaknesses).
+I explained my Data Structures project from the 4th semester, which used
+a graph data structure with Dijkstra’s algorithm.
+
+●  Screen sharing was not allowed, so I verbally explained the approach, ﬂow,
+
+and the code.
+
+●  Midway, I was asked the difference between stack and queue.
+●  Another problem: Find the missing number in an array (range 1 to N+1).
+●
+
+I asked 3–4 questions at the end.
+
+Technical Round 2: (1 hour)
+The  interviewer  didn’t  ask  about  my  resume.  He  directly  asked  me  to introduce
+myself  and  explain  my  favourite  project.  Again,  I  explained  my  Data  Structures
+project. He asked many follow-up questions based on the key terms that I used.
+
+Questions asked:
+
+●  Explain your favourite project (DSA graph project).
+●  How did you store the graph in your project?
+●  Write the declaration line in which you declared the data structure to store
+
+the graph. (vector of vectors)
+
+●  To implement this in the real world, what other data structure can be used
+
+other than a vector?
+
+●  Which language did you use for coding?
+●  Was the code entirely written by you?
+●  Write the code that you wrote to store the graph.
+●  What algorithm did you use to ﬁnd the shortest path?
+●  Write the entire code and explain the algorithm.
+●  He asked me to explain each and every line of code that I wrote.
+●  Are you familiar with data hiding and other OOPS terminologies?
+
+After asking a lot of follow-up questions, the interview ended well.
+
+Technical Round 3: (Around 1 hour)
+
+There was a panel of 2 interviewers.
+The entire round was a pen-and-paper round.
+
+After  asking  some  general  questions,  the  interviewer  questioned  me  about  the
+vector search that was mentioned in my resume.
+
+He asked some basic questions related to the Flask server.
+I was asked if 5>>1 and -5>>1 are the same or different and to write their outputs.
+
+Given  a  linked  list’s  head  with  one  node  connected  to  its  head,  my  task was to
+ﬁnd  if  the  linked  list had a loop or not. I was asked to write the code for this and
+explain the time complexity.
+I suggested 2 methods.
+
+Since the test case given to me was the case where the tail was connected to the
+head,  I  used  1 pointer and wrote a code. I also suggested the 2-pointer approach
+to detect loops in a linked list.
+
+The interviewer moved to the next question.
+
+https://leetcode.com/problems/coin-change-ii/description/
+This is a DP problem. I started explaining it from the recursive solution and moved
+into the DP solution.
+He  asked  some  basic  questions  about  memoization,  top-down,  and  bottom-up
+approaches.
+
+https://www.naukri.com/code360/problems/sort-0-1_624379
+
+https://leetcode.com/problems/sort-colors/description/
+
+I was asked to solve the above 2 questions in the most optimal way. The question
+was then generalized to sort an array. He asked me to think if I could apply some
+counting logic here.
+
+Other questions:
+
+●  Explain the binary search algorithm.
+●  Draw the graph for O(n) and O(n log n).
+●  Which is better, 2*O(n) or O(n log n), and why?
+
+Finally, the interview ended well.
+
+After a few minutes, I was called back and asked a few questions from my resume.
+
+ Questions asked:
+
+●  Self-introduction
+●  How were your previous rounds?
+●  What were the rounds focusing on?
+●  Rank your top 3 skills.
+●  Are  you  comfortable  working  with  the  tech  stack  mentioned  by  the
+
+company in the PPT?
+
+●  On a scale of 1 to 5, how much would you rate C++ and why?
+●  Explain your favourite project with reason.
+●  On a scale of 1 to 5, how much would you rate your Python skills?
+●  Some logical questions were asked based on my projects.
+●  What were your team projects and mention your team members’ names.
+●  Apart from DSA, what other roles are you conﬁdent about?
+
+Round 4: (HR round, 15 to 20 minutes)
+Questions asked:
+
+●  Self-introduction.
+●  How were the technical rounds?
+●  What was the overall comment about the previous rounds?
+●  Are you sure about the role in which you are going to work?
+●  Tell me about your personal details (family details).
+●  How did you make yourself better compared to the previous day?
+
+I gave my interview experience about the SAP Labs interview that I did the
+previous day, and it was noted on my resume.
+
+●  Many follow-up questions were asked from this.
+●  This included: how many rounds did you attend in the SAP Labs interview?
+●  What was the thing that you corrected to do better for this interview?
+●  They also questioned me about the hackathons I had attended.
+●  Joining B.Tech IT, what are the things that you are conﬁdent about?
+●  Finally, they asked me if I had any questions.
+
+Finally, 4 people were offered the role of Software Developer..
+
+Tips for interview:
+
+1.  Be conﬁdent.
+2.  Start the interview with a smile and conﬁdence.
+3.  Explain very clearly.
+4.  Don’t say even a single word if you are not conﬁdent about it.
+
+5.  If  you’re  asked  a  question  you  don’t  know,  it’s  okay  to  let  the  interviewer
+
+know you’re not sure.
+
+Preparation strategy:
+
+I followed strivers a2z DSA playlist for DSA.
+
+1.
+2.  Try to practice leetcode 150 and SQL 50.
+3.  Be consistent in your preparation. Try to learn each and every solution from
+
+brute force to optimal solutions.
+
+4.  Brush  up  on  core  concepts  including  DSA,  OOPS,  DBMS,  OS,  and  CN
+
+regularly.
+
+5.  Discuss solutions with your friends to get clarity if you have any doubts.
+
+Stay positive during your internship and placement season.
+
+Do not get stuck in peer pressure.
+
+Don’t get upset if you do not get the company that you wished for.
+
+Be consistent with your preparation.
+
+My  suggestion
+internship.
+
+is:  never  stop  preparing,  even  if  you  get  your  summer
+
+Remember  that  every  ﬂower  blooms  only  in its season, and there is a season for
+every ﬂower to bloom. So never lose hope. Prepare rigorously so that nobody who
+interviews you will think of rejecting you.
+
+For people who are already preparing, great job, you are already on the right track.
+For people who are not, there will never be a better time than now for you to start.
+So start preparing right away.
+
+Wishing you all the best.
+
+If you have any doubts about the company, preparation, or anything else, feel free
+to contact me anytime.
+
+Regards,
+Ezhil Dhiraviya J (2022-2026)
+8610543936
+ezhildhiraviya@gmail.com
+https://www.linkedin.com/in/ezhil-dhiraviya-j-0b97a9272
+

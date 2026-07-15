@@ -1,0 +1,100 @@
+Experience Document
+
+Name: Keerthana B K
+
+Batch : IT - 2024
+
+Company Placed : BNY ( Bank of NewYork) - BNY is a global financial services company. It
+has two major divisions - Operations and Engineering. We as engineers will be working under
+Engineering/Technology.
+
+Role : I was hired for Software Developer Engineer (SDE). I am currently working under
+DATABASE ENGINEERING domain. The tech stack I deal with are Oracle db, Power BI and
+Data Analytics. I had a Winter Internship for a period of 6 months (during 8th semester).
+
+for
+
+it's really important
+
+Preparation Strategy : Understand concepts of DBMS, OOPs, Networks, OS(basics) and Data
+Structures. Take notes,
+revision. Practice CP ( Competitive
+Programming) from 3rd year. Start with basic problems and later increase the difficulty gradually.
+Make an Excel sheet and list out the topics to be covered and update your daily progress in
+that. Practicing in a group of 2-3 with your friend/classmates will be advisable. Group Discussion
+plays a major role in learning. It will help you get a new perspective in solving a problem and
+improve yourself. It will make you solve more problems when your friends solve them too. Try
+solving at least 2 problems per day as a routine. During placements preparation ( at the end of
+3rd year) solve 5-10 prbs per day. When you feel exhausted with problem solving, cover theory
+concepts too. Refer to cheat sheets, notes and general
+interview questions. Prepare your
+resume well before 2 months of the drive. You can refine your resume after each interview and
+based on the company too. In your continuous preparation take breaks and refresh your mind.
+Attend mock interviews or ask your placed friends to conduct such rounds to get familiar with
+interview questions. Do not get stressed during your placement drive, focus only on your
+preparation. Be ready to face peer pressure.
+
+Placement Drive Experience: BNY drive came in the month of August. It had 1 online coding
+round, 2 technical rounds(physical) and 1 HR round(physical). The online round was for a
+duration of 90 minutes where 4 questions ( 1 Easy – array/string based, 2 Medium and 1 Hard)
+were needed to be solved. I don’t remember the questions as I attended a series of other
+company rounds too.
+I was shortlisted for the next round and had 2 days for interview
+preparation. On the day of the interview, I attended the 1st technical round by 10:30 am. The
+interviewer introduced himself and asked me to introduce myself. I started with my personal
+introduction, then about my semester projects ( explained like a one-liner with objective and
+tech-stack used ) and external projects( with other organization/club), explained about my
+internship , my coding skills , my strong subjects and ended with involvement in club activities.
+He asked me if
+I had a subject related to AI and ML. When I said yes, he started to ask
+questions related to them. I told him that I have not done projects in ML, but I have basic
+knowledge in them. Then, he asked a question related to File Handling. I actually answered that
+question in terms of array ,then linked list and concluded it in terms of Database record
+
+management. He liked the kind of perspective that I had. He asked questions related to SQL
+query, joins , primary and secondary key and other DBMS concepts. I was asked to write
+pseudocode for an easy coding question. Then, the questions were related to my projects and
+detailed explanations about them. I was asked to tell about the hardships faced during my
+project
+journey. The external project which I had contributed gave an upper hand in the
+interview. The 1st round lasted for about 45 mins. At the end the interviewer hinted me to be
+ready for the next round. The 2nd round was a bit easier than expected. The questions were
+related to my projects, DBMS and OOPs concepts. This interviewer expected me to answer in
+java. But my core language is C++, so I informed him about it. I said I am clear with the
+concepts and I can answer in terms of C++. He was fine with that. This round was for about 30
+mins. The shortlist for the final round was announced a bit late. The HR round took place
+around 3:30 pm. This round was quite tricky and tougher than the 2nd round. I started with a
+basic intro about myself and the projects. I was asked to explain in detail about my external
+project. I had more questions related to Club activities and volunteering. The questions were
+more managerial and tested our soft skills. I was given a puzzle to solve. It was tricky then, but I
+had discussed it once with my friend before. It took some time to solve. I had another puzzle
+related to lift. I didn’t solve it completely as other questions were switched. This round lasted for
+45-50 mins. I asked for feedback at every round and in previous company rounds too.
+
+Link to puzzle: https://www.mathsisfun.com/puzzles/weighing-9-balls-solution.html
+
+specified skill
+
+Tips and Tricks : Speak with confidence in the interview. Do not add skills in your resume
+which you are not strong in. All questions are completely asked from Resume. If you aren’t sure
+about any answer, tell the interviewer without hesitation and tell them you are ready to acquire
+in future if needed. Try explaining answers with paper-pen
+the
+(flowchart/diagrams) , if you get stuck with explanations. Ask questions if you don't get what
+they are asking for. Highlight your unique skills (hackathon participation, external projects,
+intern) in your introduction. If you have a language problem do not get stressed. Try explaining
+as much as possible. Learn about the company a bit before you attend the physical interview.
+Read previous interview experience from GeeksforGeeks.
+
+Preparation Docs:
+
+Playlist preferred: Take you forward
+
+:
+Link
+https://drive.google.com/drive/folders/1fk5lVPWFyASM_CDm4GJWrlluKLr0V-xS?usp=drive_link
+
+All the best guys!! You can crack the interview. Do not lose hope. We were in your phase too..
+
+Do contact me anytime if any help is needed.
+

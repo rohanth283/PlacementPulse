@@ -1,0 +1,122 @@
+SAMSUNG R&D INTERNSHIP INTERVIEW EXPERIENCE 
+ 
+About the company 
+Samsung R&D is a global research and development network integral to Samsung 
+Electronics, covering a wide array of tech domains such as semiconductors, AI, 
+and telecommunications. Its findings directly shape Samsung's product lineup, 
+driving innovation in consumer electronics and infrastructure. Samsung invests 
+significantly in R&D to maintain competitiveness. The outcomes of its research 
+have a global impact, influencing technology evolution and contributing to various 
+industries.  
+ 
+Total Rounds 
+ 
+1.) Online Assessment 
+ 
+2.) Technical Interview 
+ 
+3.) HR interview 
+ 
+1. Online Assessment 
+ 
+Total questions: 3 coding questions 
+ 
+Time:  1 hour 
+ 
+ 
+Note: Test cases are hidden, you cannot know whether your code works for 
+all testcases. Also, you should write code covering all edge cases. 
+ 
+ 
+1. Next greater element 
+ 
+ 
+https://www.geeksforgeeks.org/next-greater-element/ 
+ 
+2. Largest subtree sum  
+ 
+ 
+https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/  
+ 
+3. Zigzag tree traversal 
+ 
+ 
+https://www.geeksforgeeks.org/zigzag-tree-traversal/ 
+ 
+2. Technical Interview 
+ 
+Typical, tell me about yourself question 
+ 
+He asked some questions from the website I had hosted 
+ 
+I was asked some API related questions 
+ 
+Then, he started asking DSA questions 
+ 
+1) Next greater element with given set of digits 
+ 
+ 
+https://www.geeksforgeeks.org/find-next-greater-number-set-digits/ 
+ 
+ 
+I told him brute force solution, he told me to optmize it. I wasn’t able 
+to optimize it. He moved to next question 
+ 
+ 
+ 
+2) Pop sequence 
+ 
+ 
+https://www.geeksforgeeks.org/check-if-the-given-push-and-pop-
+sequences-of-stack-is-valid-or-not/ 
+ 
+ 
+This was an easy question, I was able to come up with a proper 
+solution. Interviewer was also satisfied with my approach. 
+ 
+3) Egg dropping problem 
+ 
+ 
+https://www.geeksforgeeks.org/egg-dropping-puzzle-with-2-eggs-
+and-k-floors/ 
+ 
+ 
+I have solved this puzzle before. So, I was able to answer this question 
+without any flaws. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. HR Interview 
+ 
+We were told we might have HR interview but we didn’t have any HR 
+Interview. We were selected directly after Technical Interview. 
+ 
+Verdict: Selected 
+ 
+Tips: 
+ 
+Samsung R&D gives much important to DSA. So, solve DSA problems 
+regularly. 
+ 
+Make sure you have 2 to 3 good projects in your resume. 
+ 
+Prepare well on topic like, 
+▪ OOPS 
+▪ OS 
+▪ DBMS 
+▪ CN (basics) 
+Be confident while attending interviews. 
+PPO process is also different in Samsung R&D, contact me for further 
+details. 
+ 
+ 
+ 
+Contact 
+Sujith Vishal V, 
+CEG’24 batch 
+Sujithvishal003@gmail.com 
+8056908993 

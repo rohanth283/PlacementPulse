@@ -1,0 +1,153 @@
+Ibrahim Navas S – NCR Voyix Interview Experience
+
+About the company
+
+NCR Voyix
+
+NCR  Voyix,  formerly  known  as  NCR  Corporation  and  National  Cash  Register,  is  an
+American company specializing in digital commerce solutions with a 140 years heritage.
+In October 2023, NCR Corporation underwent a corporate restructuring, resulting in the
+creation of two independent companies: NCR Voyix and NCR Atleos. NCR Voyix focuses
+on  digital  commerce  solutions,  while  NCR  Atleos  concentrates  on  automated  teller
+machine (ATM) services. In August 2024, NCR Voyix announced a definitive agreement to
+sell its cloud-based digital banking business to Veritas Capital for $2.45 billion.
+
+About the Role:
+
+The  selected  students  are  provided  with  a  6  month  internship  based  on  the  candidate’s
+performance, the intern will be converted to FTE. As a stepping stone for the technical career,
+the interns will be made to work with teams and the tech stack will be allotted based on the
+student’s interview performance. The candidates should clock a working hours of 40 hours
+per week from Monday to Friday.
+
+Overview of the Process:
+
+The overall process consisted of
+●  An Online coding contest in HackerRank platform
+
+●
+
+●
+
+Interview Round 1 – F2F Technical interview (DSA, SQL, Full stack, Networks, OS)
+
+Interview Round 2 – F2F HR interview (Based on candidate’s resume)
+
+Round-1
+
+⚫
+
+First round was an online test conducted in HackerRank platform.
+
+⚫  Question Pattern:
+
+  Coding Questions – 2 (1 Easy, 1 Medium)
+  MCQ – 30
+
+▪
+
+SQL
+
+▪  Networks, Kubernetes
+▪  OOPS
+▪  OS
+▪  Git
+
+▪
+
+Full Stack
+
+⚫
+
+The test is completely proctored and is for a duration of 90 minutes.
+
+⚫
+
+From the total of 200 candidates attended, 50 candidates were selected for the interview
+rounds.
+
+Round-2
+
+⚫
+
+⚫
+
+⚫
+
+⚫
+
+First  round  of  the  interview  was  technical  round,  the  panel  will  be  of  maximum  3
+interviewers.
+This interview round will take 45-60 mins depending on the panel.
+The candidate will be asked to give self-introduction and the following questions will be
+asked based on the introduction.
+For me, the topics covered during interview are:
+
+  One DSA question
+
+▪  Question – Check for a valid password without using Regex.
+▪  Hint – Make use of ASCII values.
+
+  One SQL query
+
+▪  Question – Given 2 tables employee and salary, select the name of the
+employee having the 2nd least salary from the salaries which are  greater
+than the average salary.
+▪  Answer - SELECT name FROM employee WHERE salary =
+
+(SELECT DISTINCT salary FROM salary
+    WHERE salary > (SELECT AVG(salary) FROM salary)
+    ORDER BY salary LIMIT 1 OFFSET 1);
+
+  Prominent theoretical questions from DBMS including the difference between
+BASE, ACID, CAP, SQL vs MongoDB, NoSQL
+
+
+
+ Questions regarding OS including AndroidOS, iOS, etc.,.
+
+  Full Stack questions such as prominent Node commands, about package.json,
+Hooks and Props from React, etc.,.
+
+⚫  Always be bold and confident, express your areas of interest to the interviewer. 14 out of
+
+50 candidates were selected for the next round.
+
+ Round-3
+
+⚫
+
+⚫
+
+Last round was HR interview, where a self-introduction must be given by the candidate
+with plausible proficiency.
+This interview round will take 30 mins depending on the panel.
+
+⚫  One  of  your  projects  should  be  explained  to  the  interviewer,  it’s  to  evaluate  your
+
+communication skills.
+
+⚫  Make it as an interactive session with interviewer. Questions related to work environment
+
+will be appreciated.
+
+⚫  All the 14 candidates were selected in this round.
+
+Tips for Preparation:
+
+⚫  Always be confident in what you know.
+⚫  Have a proper schedule which includes inter person communication training session.
+⚫  Be thorough with what you have mentioned in your resume.
+
+⚫
+
+Practice DSA, DBMS regularly.
+
+⚫  Have theoretical knowledge in topics such as Kubernetes, C#, .NET, Git.
+
+Email: ibrahimnavas2003@gmail.com
+
+Mobile No: 7010749313
+
+LinkedIn: https://www.linkedin.com/in/ibrahim-navas-s-561b7b287
+

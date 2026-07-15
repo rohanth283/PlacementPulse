@@ -1,0 +1,75 @@
+|     | Barclays | Placement | Experience | 2024 |
+| --- | -------- | --------- | ---------- | ---- |
+Dharini A
+| About the | company: |     |     |     |
+| --------- | -------- | --- | --- | --- |
+Barclays is a British multinational bank headquartered in London. It offers a wide
+range of financial services, including retail banking, credit cards, corporate and investment
+banking, and wealth management.It has beeninthe financialgame for over325years, dating
+back to 1690 and hence has a global presence and is one of the largest banks in the world.
+Barclays hasastrongethical foundationandreputation for emphasising ontheirworkculture.
+P.s.Fun fact: Barclayswas thefirst bankevertointroduceATM andCredit cards.
+Hiring role:Developer
+Experience:
+| OnlineTest | :   |     |     |     |
+| ---------- | --- | --- | --- | --- |
+The test had MCQs based on general technical concepts, 1 coding question and 1 question
+| based onaSQL | query. |     |     |     |
+| ------------ | ------ | --- | --- | --- |
+The MCQs and the SQL question were pretty straightforward and anyone with a decent
+knowledge of the basics could attempt them. However, the coding question was based on
+strings and was surprisingly the same question asked the previous year. Hence, try to go
+through previously asked questions, it might really help! I had gone through it and was able
+| to passall thetestcases.  |                |        |     |     |
+| ------------------------- | -------------- | ------ | --- | --- |
+| Here’s thelink            | tothequestionI | got:   |     |     |
+| Lexicographicallysmallest |                | string |     |     |
+Reference:https://leetcode.com/discuss/interview-question/4006812/string-generation-
+oa-question/2045987
+They filtered out a majority of candidates based on the online test and finally shortlisted
+| about23candidates | for the interview. |     |     |     |
+| ----------------- | ------------------ | --- | --- | --- |
+Interview:
+| Usually,Barclays | has2roundsof | interviews:1technical+ | 1HR. |     |
+| ---------------- | ------------ | ---------------------- | ---- | --- |
+I had an interview panel of 2members andtheymergedthe tworounds into1as wewenton
+| through theinterview. |     |     |     |     |
+| --------------------- | --- | --- | --- | --- |
+
+They started with some personal questions about where I studied and moved on to the
+technical skills I had listedright after myeducationqualifications onmyresume. Iwas asked
+about what coding language I was comfortable with and about how I implemented certain
+technology like php and MySQL in my project. I proceeded to explainaboutmy projectand
+why I usedthem.
+I was asked how toestablisha databaseconnectionusing php,differentsearching techniques,
+different python libraries, initiation of a hashmap and dictionary and if a dictionary is
+efficient in storing data read from a csv file and how to load a csv file in python. I wasalso
+asked thesyntaxfor a SQL joinquestion.
+I had also elaborated a project of mine where I had incorporated Machine Learning
+techniques and explained the working, approachand purpose.Iwasasked about howto store
+thedata moresecurely,I justsuggestedwecan havea usernameand loginpasswordandstore
+the data in a secure database to which they asked if I would consider encryption as a good
+approach. I did say yes and that it wouldbeeffectivesinceeven if anyone unauthorised gets
+accessto data,theywouldn’t understandit.
+We moved on to another project where I had mentionedIhad leada teamof 5developers in
+creating amobileapplication. Afterexplainingthe tech stack,theymoved ontoquestionhow
+I was able to manage the team, what tools I used to keep track of everything and to suggest
+one, I suggested Notion. They also asked me if I had heard about ‘Jira’, it is a project
+management software,which Ilearned lateron.
+They collectively decided to move to the HR round right then and asked me about the
+Company values, it is RISES [Respect, Integrity, Service, Excellence and Stewardship]. It is
+common knowledge that Barclays give high importance to their values and expect anyone
+who attendstheinterviewtobe awareofit.
+They asked me in depth about my personal experience with each of the values and some
+behavioural questions before wrapping up the interview. I asked them a couple of questions
+about their role and what they like about the company, which they were more than happyto
+answer.
+I was done with my interview in the morning and spent therest ofthe dayanxiouslywaiting
+for theresults. Theyfinally selected 5candidatesand Iwasbeyond elatedtobeone ofthem.
+Preparation strategy and tips:
+As you can see, my projects were given the utmost importance. So be 100% thorough with
+theprojects andachievements/rolesyoulistonyour resume.
+And ofcourse, keep your knowledge of basic technical concepts toned, practice leetcode, go
+through previous year experiences of other candidates to be prepared best and more
+importantly be confidentinhow youdeliveranything.
+Allthe best!!

@@ -1,0 +1,128 @@
+American Express Interview Experience 
+Role Offered: Technology Engineer Trainee 
+CTC: 20,65,393 
+Selection Procedure: 
+• Pre-Placement Talk (PPT) 
+• Online Assessment 
+• Online Interview 
+Online Assessment (09.08.2025): 
+The assessment consisted of three coding questions with a total duration of 1 
+hour 30 minutes. 
+Task 1: 
+Problem: 
+ Given a string S of lowercase letters, return the minimum number of characters 
+to remove such that the remaining characters form a string sorted in 
+lexicographical order (for example, aabz is valid, but azb is not). 
+Input:  
+s = "banana" 
+Output: 
+ 3 
+Hint:  
+Find the length of the longest non-decreasing subsequence in the string, then 
+subtract it from the total length to get the minimum deletions. 
+Task 2: 
+Problem: 
+ You are given two strings S and T, both consisting of digits and representing 
+two integers of equal length (possibly very large). You are allowed to swap 
+digits at the same positions in the two numbers (i.e., swap the i-th digit of S 
+with the i-th digit of T). 
+Your goal is to minimize the absolute difference between the two integers. 
+Among all possible solutions, use the fewest swaps. 
+Input:  
+S = "29162", T = "10524" 
+ 
+Output:  
+2 
+Hint: 
+ Compare digit by digit and identify the positions where swapping reduces the 
+most significant differences first. 
+Task 3: 
+Problem: 
+ You are given a rectangular board with N rows and M columns. Each cell 
+contains a single digit (0–9). You need to find a path of exactly four distinct 
+neighboring cells. Two cells are neighbors if they share a common side (up, 
+down, left, or right). By visiting these four cells in order, you form a 4-digit 
+integer. Return the largest possible integer that can be formed. 
+Input: 
+Board = 
+[ 
+[2, 9, 1], 
+[4, 0, 7], 
+[3, 6, 5] 
+] 
+Output:  
+9765 
+Hint:  
+Use DFS or BFS from every cell (avoiding revisits) to explore paths of length 4, 
+and track the maximum number formed. 
+Online Interview- Round 1 (13.08.2025): 
+The interview was conducted on Webex. Candidates were asked to join based 
+on their allocated slots. My panel consisted of 2 interviewers. 
+Interview Flow: 
+1. Introduction – The interview began with a short introduction about 
+myself. 
+2. Programming Languages – I was asked to rate my proficiency in the 
+programming languages mentioned in my resume. Since I rated C++ 
+higher, most questions were from C++. 
+3. C++ Questions – I was asked to code multiple inheritance with specific 
+class names and methods provided by the interviewer. They also asked 
+about accessing parent methods using the child class and questions on 
+pointers in C++. 
+4. SQL Question – I was asked to write a query to find the second maximum 
+salary from an Employee table. 
+5. OOP Concepts – I was asked about abstraction in object-oriented 
+programming. 
+6. Project Discussion – They asked questions about my project’s backend 
+code and how the frontend was connected with the backend. 
+7. Situation-Based Question – I was asked, “How will you manage the 
+workload in a high-pressure situation?” 
+ 
+Round 2: 
+This time I was assigned a panel consisting of 1 member. 
+The round started with a short self-introduction. After that, the interviewer 
+focused mainly on Java, DBMS concepts, DSA, and a few HR-type questions. 
+Topics covered in Java: 
+• Difference between Interface and Abstract Class – I was asked to explain 
+with examples. 
+• Final keyword – explained its usage with variables, methods, and classes. 
+• Is multiple inheritance possible in Java? – explained with reasoning and 
+how interfaces solve this problem. 
+• Java 8 Features – explained features like Lambda Expressions, Functional 
+Interfaces, Streams API, and Default Methods in Interfaces. 
+DBMS Questions: 
+• Concepts of Normalization – explained step by step with example tables. 
+• Left Join – explained with example queries and how it differs from Inner 
+Join. 
+• Discussed practical use cases of joins in real-world scenarios. 
+ 
+ 
+ 
+DSA Question: 
+• Find the second largest element in an array. 
+• I was asked to dry run all the iterations and clearly explain what happens 
+in each step. 
+• The interviewer also questioned how the logic would handle duplicate 
+elements and edge cases like an array with all identical numbers. 
+Company-related Questions: 
+• Why American Express? – I explained about the company culture, values, 
+and focus on technology and customer-centric services. 
+• What do you know about American Express? – I spoke about its history, 
+role as a financial services giant, its credit card business, and reputation 
+as one of the Fortune 500 companies. 
+Closing: 
+Finally, I was asked if I had any questions. 
+I asked, “How does a day look like for a software engineer at American 
+Express?” 
+The interviewer explained about work culture, daily tasks, collaboration with 
+teams, and opportunities for growth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SANTHOSH S 
+MIT CT’26 
+Santhoshsiva2909@gmail.com 

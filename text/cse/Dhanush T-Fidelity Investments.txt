@@ -1,0 +1,127 @@
+Fidelity Investments 
+About the company: 
+ 
+Fidelity Investments is a leading multinational financial services corporation headquartered 
+in Boston, Massachusetts, USA. Founded in 1946, the company provides a wide range of services 
+including investment management, retirement planning, brokerage, wealth management, and 
+financial advisory solutions. Fidelity is one of the largest asset managers in the world, serving 
+millions of individual investors, financial advisors, and institutions. 
+Number of rounds:  
+1. Online Test  
+2. Technical Round  
+3. HR Round 
+About the rounds: 
+Round 1: Online Test  
+The online assessment was conducted on the HirePro Platform and lasted for about 1 hour 
+and 30 minutes. It consisted of 3 sections, each with a time limit. 
+1. The first section consisted of questions from English Language and Verbal Ability, 
+including Sentence Arrangement, Fill in the Blanks, etc. 
+2. The second section consisted of Technical Aptitude questions from core CS fundamentals 
+such as DSA (Sorting, Graphs, Heaps), DBMS (SQL queries), OOPs, Networking, and 
+output-based code questions. It also included questions related to Prompt Engineering 
+and Generative AI (basic level). The difficulty ranged from easy to medium. 
+3. The third section consisted of two coding questions, both of easy-level difficulty. 
+4. A total of 75 students were shortlisted for the next round. 
+ 
+Problem 1: String Rearrangement 
+Description: 
+You are given a string of uppercase alphabets. Each character in the string needs to be 
+rearranged according to the following pattern: 
+ 
+Characters at even positions should be shifted backward by 1 in the alphabet (Z->A). 
+ 
+Characters at odd positions should be shifted forward by 2 in the alphabet (Z → B). 
+The task is to apply this transformation to all characters and print the new string. 
+Example: 
+Input    :     SPLURGE 
+Output:     RRKWQID 
+ 
+Problem 2: Reward Score for Customer IDs 
+Description: 
+ 
+Given two ID’s(numbers) you have to find the sum of the digits individually for the two 
+numbers and then return their product.  
+Example: 
+Input    :     123 456 
+ 
+Output:     90 
+Explanation: 
+ 
+Sum of digits of 123 = 1 + 2 + 3 = 6 
+ 
+Sum of digits of 456 = 4 + 5 + 6 = 15 
+ 
+Final score = 6 × 15 = 90 
+ 
+Round 2:  Technical Interview 
+ 
+The technical interview was conducted at CUIC at 9:00 AM. The session began with a brief 
+introduction about the company. 
+Unlike most interviews, the interviewer did not ask me to introduce myself. Instead, he directly 
+referred to my resume and asked me to explain my favourite project. After my explanation, he 
+asked a few follow-up questions related to the project. 
+He then asked, “What do you know about Fidelity?” Since I had done prior research about the 
+company, I was able to answer confidently. Preparing for such questions can positively impact 
+your score. 
+Next, he asked me to explain a sorting algorithm of my choice. I chose Merge Sort and 
+demonstrated the step-by-step process on paper. 
+Following that, he asked which data structures I like. I mentioned Vector and Linked List, and 
+explained their pros, cons, and real-world applications. He then moved on to Non-linear Data 
+Structures, where I explained Graphs and Trees along with their practical use cases—such as 
+file systems (Trees) and maps/navigation systems (Graphs). 
+He also asked whether I preferred working in a team, to which I responded positively. 
+Towards the end, he gave me the opportunity to ask questions. I asked: 
+ 
+“Could you share your experience at Fidelity?” 
+ 
+“What do you like the most about working here?” 
+ 
+“What kind of projects will interns get to work on at Fidelity?” 
+The interviewer was very friendly and patiently listened to my answers. The discussion was highly 
+interactive, and I felt comfortable throughout. 
+The round lasted for about 30 minutes. One important takeaway is: never hesitate to ask the 
+interviewer relevant questions, as it reflects your interest and curiosity. 
+Round 3:  HR Interview 
+ 
+The HR interview began with a self-introduction, followed by a few personal questions 
+about my family and native place. 
+The interviewer then asked me about Fidelity, to which I responded confidently based on my prior 
+research. After that, he inquired about my projects. 
+One of the key questions was: “Why should we hire you? We can use AI to develop applications.” 
+I explained that while AI can indeed assist in building basic applications, a developer’s role is 
+crucial for ensuring productivity, handling complex requirements, and maintaining applications in 
+case of issues. AI can enhance efficiency, but it cannot replace the need for skilled developers. 
+He then asked me about my strengths. Another interesting question was: “Since AI itself can do 
+some development tasks, what will you do in the future if your job gets replaced by AI?” 
+I answered that I would adapt by shifting my focus towards building applications that leverage and 
+automate tasks using AI. 
+Towards the end, he asked if I had any questions. I asked: 
+ 
+“How is the work-life balance at Fidelity?” 
+ 
+“What is the working mode for interns—hybrid or in-person?” 
+The HR interview lasted for 15–20 minutes. Afterward, around 25 to 30 students awaited the 
+results. 
+Finally, 12 students were selected for the internship, and I was delighted to be one among 
+them. 
+ 
+Key points to note: 
+1. Clearly and calmly articulate your thought process during the interview. 
+2. Strengthen CS Fundamentals – Be well-prepared in OOPs and DBMS, and also cover 
+topics from Operating Systems and Computer Networks. 
+3. Know Your Projects Thoroughly – Be ready to explain your projects end-to-end, as most 
+technical questions are often based on them. 
+4. Focus on One Programming Language – Master one language and practice problem-
+solving consistently on platforms like LeetCode, CodeChef, or HackerRank. 
+5. Research the Company – Understand the company’s background and prepare meaningful 
+questions to ask the interviewer. 
+6. Keep the Discussion Interactive – Avoid one-line answers. Engage in a two-way 
+conversation. 
+ALL THE BEST! 
+Contact: 
+ 
+T. Dhanush 
+ 
+Email: tdhanush8888@gmail.com 
+ 
+LinkedIn: www.linkedin.com/in/dhanusht7 

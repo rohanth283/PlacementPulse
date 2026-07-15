@@ -1,0 +1,128 @@
+SHRISHAKTHI SIVAMANI – FTE IN GAVS
+
+About the Company:
+
+GAVS Technologies, headquartered in Chennai,  India, is a global IT services and solutions
+provider established in 2007. They offer a comprehensive portfolio of services, encompassing
+IT infrastructure management, cloud computing solutions, robust cybersecurity offerings, and
+digital transformation initiatives. GAVS distinguishes itself through a strong commitment to
+both  technological  innovation  and  a  customer-centric  approach.  This  includes  significant
+investment in research and development to ensure cutting-edge solutions, coupled with a focus
+on building and nurturing long-term partnerships with clients. Serving businesses of all sizes
+and across diverse industries, GAVS has earned a solid reputation for quality and reliability
+within the competitive IT landscape.
+
+About the Role: They came for multiple roles
+
+Overview of the Process:
+
+The overall process consisted of
+
+  An Online Test in MyAnatomy (total 3 hrs)
+
+  Aptitude
+  Coding test – 2
+  Speaking test
+  Reading test
+  Listening test
+Interview Round 1 (25 mins)
+
+
+  HR Round (20 mins)
+
+Online Coding Test
+
+1)Combination of coins – to determine the number of ways of making change for a particular
+number of units using the given types of coins.
+
+2)MAX AND – A logical conjunction of P and Q where the value of P,Q is maximum .
+
+Interview Round 1
+
+The interview covered both resume-based and technical questions, focusing on:
+
+(Intro about yourself)
+
+1. Project-related Questions
+
+  Why the latest technology was chosen
+  Reasons for selecting the specific tech stack
+  Challenges faced and solutions implemented
+
+2. MERN Stack vs. AngularJS
+
+
+
+Justification for using MERN Stack , Why not AngularJS?
+
+3. Technical Questions
+
+  ReactJS, MongoDB, PostgreSQL – Basic concepts
+  SQL Queries – Writing and optimizing queries
+  Database Importance – Why databases are necessary
+
+4. Data Structures & Algorithms (DSA)
+
+  Arrays – Basic coding problems (Python)
+  How arrays are different from lists
+  HashMaps & Linked Lists – Differences and working principles
+  Stacks – Operations and implementation
+  Graphs & Trees – Fundamental concepts
+
+Any questions for him
+
+They also asked us to talk about something that was not there in the resume
+
+HR Round – SWAT (Manageral and HR)
+
+The managerial round focused primarily on SWOT analysis and HR-based evaluation,
+assessing communication skills, articulation, and problem-solving approach. The key
+questions asked were:
+
+1.  Introduction – Briefly describe yourself.
+2.  Scenario-based Question – Discuss the rise of AI and analyze whether human
+
+intelligence or artificial intelligence will dominate in the future.
+
+3.  Why GAVS? – Reasons for choosing the company.
+4.  Transportation & Flexibility – Thoughts on adaptability and work flexibility.
+5.  Any questions for her
+
+Preparation Strategy
+
+  Regular Practice – Consistently solved problems on platforms like HackerRank to
+
+refine problem-solving skills.
+
+  Approach Mechanism – Followed structured learning from YouTube channels such
+
+as CodeIO for better conceptual clarity.
+
+  DSA Focus – Worked through the Striver Sheet, emphasizing optimal techniques
+
+for solving problems efficiently.
+
+  Concept Revision – Regularly brushed up on DBMS, OS, and Computer
+
+Networks, focusing on scenario-based questions to strengthen core fundamentals.
+
+Tricks Followed
+
+  Researched Previous Questions – Reviewed Glassdoor and other platforms for past
+
+interview questions to understand patterns.
+
+  Maintained Confidence – Approached the interview with confidence and a positive
+
+attitude.
+
+  Handled Unknown Questions Gracefully – If unsure about a question, admitted it
+
+politely while expressing a willingness to learn.
+
+  Engaged with the Interviewer – Asked relevant questions to demonstrate curiosity
+
+and understanding of the role.
+
+  A positive outlook
+

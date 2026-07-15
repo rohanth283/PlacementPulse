@@ -1,0 +1,84 @@
+Versa Networks 
+ 
+Versa is unique among SASE vendors, providing an end-to-end solution 
+that both simplifies and secures the modern network. Versa SASE, based on VOS, 
+delivers a broad set of capabilities via the cloud and on-premises for building agile 
+and secure enterprise networks, as well as highly efficient managed service 
+offerings. They came for a 6-month internship and FTE role. 
+ 
+Online Assessment 
+It consisted of Technical MCQs and 3 coding questions. 
+Coding questions: 
+ 
+1. Easy difficulty – You have been given an array, you have to delete one 
+element. After deleting the element, the difference between the max 
+element and the min element should be maximum. I was able to pass all 
+the test cases. 
+  
+2. Medium difficulty – It's like finding the nth term of a Fibonacci series with 
+some modifications. Though the question seems to be easy, one case failed 
+and I could not figure it out. So, I was able to solve only 4 out of 5 test 
+cases. 
+  
+3. Very Hard difficulty – You have been given an array A and array B. Choose 
+any subarray in the array A and sort it. By doing this operation any number 
+of times, we need to find that if Array A can be transformed into Array B. 
+The Brute force solution did not work. I was able to pass only 1 out of 5 
+test cases. 
+ 
+Interview 
+Technical Interview 1: 
+ 
+Duration: 45 mins 
+Questions Asked: 
+1. Tell me about yourself. 
+2. Tell me about your projects. 
+3. Linked list and types of linked list. 
+4. BFS and DFS traversal. 
+5. Program to find the height of a binary tree. 
+6. Query to find the second max salary in the salary table. 
+7. Query to fetch the data of the first n rows from the table. 
+8. Joins in SQL. 
+9. Integrity constraints in DBMS. 
+10. Basic questions in PHP as I mentioned it in my skills. 
+11. Basic JavaScript questions. 
+12. What is Overloading and Overriding? 
+13. What is Multiple Inheritance? 
+14. What is Virtual Inheritance? 
+15. Types of loops in C++. Difference between while and do while loop 
+16. Find the output of the code snippets. 
+17. Asked me about my experience in CTF. 
+ 
+Technical Interview 2: 
+ 
+Duration: 45 mins 
+Questions Asked: 
+1. Tell me about yourself 
+2. Tell me about your projects 
+3. Asked about the SDLC model that I have used while building my project. 
+4. A matrix-based DSA question. 
+5. Computer Network Questions 
+6. Operating System questions 
+7. Database-related questions. 
+  
+Result: Selected. Totally, five got the offer from Versa Networks. 
+ 
+Tips: 
+1. Be strong in CS fundamental concepts like OS, DBMS, CN, OOPS 
+2. Be good at DSA. 
+3. Have a clear idea about your projects. You have to answer any questions 
+based on your project. 
+4. Be strong in any one of the programming languages. 
+5. Research about the company. 
+6. Ask some good questions at the end of the interview. 
+7. Be good at communication. 
+8. It is okay if you don’t answer one or two questions in the interview. They 
+won’t expect you to answer all the questions. How you are handling the 
+unknown question matters. 
+ 
+All the best. 
+ 
+Name: K. Gokul 
+CSE, CEG’24 
+Contact: 7695909568 
+ 

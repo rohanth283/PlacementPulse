@@ -1,0 +1,57 @@
+ 
+ 
+ 
+ 
+ 
+BNY MELLON 
+Round 1: Coding Round 
+ 
+1. Array based question  
+2. Find length of longest subsequence of one string which is substring of another string 
+3. String based question 
+4. House price prediction using interpolation and extrapolation  
+ 
+Round 2: Technical Interview 1 
+ 
+1. Project discussion 
+2. Questions on Random forest, linear regresssion and svm 
+3. Questions on heap and its types 
+4. Pseudocode for Heapify and insertion in heap 
+5. Questions on JDBC 
+ 
+Round 3: Technical Interview 2 
+ 
+1. Difference between Unsupervised and reinforcement learning 
+2. Questions on supervised and unsupervised learning.  
+3. How would you design a self driving car? (How would you train the model? What algorithms 
+will you use? Make necessary assumptions) 
+4. String based coding question ( Got the same question from coding round. Told the interviewer 
+that I solved this question in coding round. The interviewer gave a different question) 
+5. Questions on REST and status codes. ( Asked about 403 vs 501) 
+6. Find the most frequent element in a stream of numbers ( Asked about the different data structures 
+that can be used) 
+7. Why manhole cover is circular? 
+8. Project discussion.  
+ 
+Round 4:Technical and Managerial Round: 
+ 
+1. Asked about internship 
+2. I have also worked on High performance computing during 5th sem holidays. Had a discussion on 
+the same. Questions on inter processor communication(not inter process), simulation tools used  
+3. Explain Fork system call.  
+4. Questions on sockets and socket programming. 
+5. Socket vs file. What is the difference between them? 
+6. Can you write socket programs using files? 
+7. Name any 4 system calls other than those related to file and socket 
+8. No of processes created in a program having fork inside a for loop. 
+9. Fread vs read. 
+10. General behavioural questions, hobbies 
+ 
+Topics to be focussed: 
+◆ Data structures 
+◆ Algorithms 
+◆ Operating system 
+◆ Projects and the concepts used in them 
+ 
+Name: Udhaya Prasath M 
+Mail id: mudhayaprasath1@gmail.com 

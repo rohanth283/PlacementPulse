@@ -1,0 +1,188 @@
+Yuvaraj V – Information Technology
+
+Intern + FTE (Based on Performance) in Athena Healthcare
+
+About the company:
+
+Athenahealth,  Inc.  is  a  privately  held  American  company  that  provides
+network-enabled services for healthcare and point-of-care mobile apps in
+the United States.
+
+At athenahealth we’re using technology to transform the way our friends and
+family  get  medical  care  and  how  doctors  treat  patients.  We  bring  cloud-
+based  web  and  mobile  software  to  the  healthcare  industry  to  build  an
+information backbone with the power to transform health delivery.
+
+About the role:
+
+Role: Software Developer
+
+We’re looking for developers who want to work on challenging technology
+problems  to  create  products  that  medical  professionals  and  patients  use
+every  day.  We  work  with  a  mix  of  technologies,  but  don’t  hire  developers
+based on coding language.
+
+ •  We're  more  interested  in  folks  with  raw  talent  and  a  burning  desire  to
+succeed. The most important requirement for applying is a passion to learn
+and to make a difference developing enabling technologies.
+
+ • Ability to learn and adapt quickly
+
+• Experience reading and writing code in a programming language
+
+• Experience working collaboratively towards project goals and deadlines
+
+ •  Computer  Science  (CS)  or  relevant  technical  degree  program  is  a  plus,
+though we will consider non-traditional, non-CS degreed applicants.
+
+Selection Process:
+
+1.  Online Assessment (In Offline Mode)
+2.  Technical Round
+
+3.  Technical + Managerial Round
+4.  HR Round
+
+Online Assessment:
+
+OA taken by around 300 members (CS / IT / ECE/ EEE) and conducted in
+Hacker rank.
+
+2 Coding Questions + 6 MCQ’s ( 1hr 30mins )
+
+Qn 1. Ball Collision (Medium Level) – Stack Problem
+
+Practice:  This problem is very similar to below leetcode problem
+
+https://leetcode.com/problems/asteroid-collision/description/
+
+Qn  2.  Maximum  Umbrella  Required  –  Nothing  but  Modified  version  of
+Classic Coin Denomination problem using DP.
+
+ Practice: https://leetcode.com/problems/coin-change/description
+
+MCQ’s :
+
+1.  Queue  is  implemented  using  LinkedList,  we  only  know  the  head
+address, which operation takes linear time complexity Ans: Enqueue
+
+2.  From phases of SDLC.
+3.  Finding Time complexity for the given nested for loop ( bit tricky one)
+4.   How do you evaluate postfix expressions
+
+I  forgot  the  other  two  questions  but  its  related  to  OOPS  inheritance
+and method overriding.
+
+36 members shortlisted from this round
+
+I think they shortlisted candidates based on points first and Time taken
+to solve.
+
+Luckily, I already practiced both coding problems in leetcode, so I finished
+the test within 25 – 30 mins.
+
+Technical Round (40 – 50 mins):
+
+1. String Problem ( Easy Level )
+
+    input : "a3b4c2" => output should be "aaabbbbcc"
+
+    follow up question:
+
+    numbers can be multiple digits:
+
+    input: "a12b100" like this
+
+2. Finding the closest pair in the array (Asked for brute force and optimized
+approach)
+
+3. Finding the next greatest element for each element in the array (Asked
+for brute force and optimized approach)
+
+4.  What  is  multithreading  (  Since  I  said  I  have  Knowledge  in  OS  in  my
+introduction, so be careful with your words )
+
+5. What is the difference b/w Abstract class and interface in java ?
+
+6. How easy it is learning a new language for you ?
+
+7. How do you debug a bug in your code ? ( I said about dry running and using
+debugger )
+
+8. SQL queries (Easy and Medium Level )
+
+       Scenario:  Binary  Tree  is  represent  in  the  table  by  two  columns  (id,
+parent_id)
+
+       Question 1: Given an id of the node, print the type of node (root, inner,
+leaf)
+
+       Question 2: Print no of child nodes for each parent node (ans : simply use
+count() along with group by parent _id)
+
+        Another  question:  How  do  you  use  condition  with  JOIN  queries  (Ans  :
+Having clause)
+
+9. What are the various phases of software development life cycle (SDLC) ?
+(Thanks to SE classes)
+
+10. Any questions about the company ( I asked about the tech stack and my
+roles  and  responsibilities  in  intern  period  and  what  are  the  factors  they
+would consider to provide a FTE )
+
+Technical  +  Managerial  Round  (40  mins):    (  14  members  attended  this
+round )
+
+1. More Project related questions
+
+         Design Database Schema for my Project, some query questions.
+
+2. Which language you are most comfortable with?
+
+3. Apart from coding and development, what you do in your free time?
+
+4. Frontend or Backend, what do you like the most and why?
+
+5. Some questions from OA, which have written in HackerRank.
+
+6.  Why  did  you  choose  PostgreSQL  in  your  chat  app  project?,  why  not
+NoSQL ?  (I said about ensuring ACID Properties)
+
+7. What do you know about data science. How it can be utilized?
+
+8. How did you get to know about Athena Healthcare?
+
+9. Any questions for me or About company?
+
+HR Round ( 30 - 40 mins )
+
+1.  Walk me through your resume
+2.  Challenges  and  key  takeaways  while  developing  and  hosting  your
+
+project.
+
+3.  Your Hobbies
+4.  Any idea for Higher studies?
+5.  Achievements and Extra Curricular Activities
+6.  Why didn’t you done any internships at past?
+7.  How many interviews did you attended before ?
+8.  Location Preference
+9.  Any questions for me
+
+After all these rounds, they finalized 10  members, and I was one of
+them.
+
+All the best, guys!
+
+Feel free to contact me with you have any doubt,
+
+Yuvaraj V,
+
+Information Technology,
+
++91 6373838188
+
+yuvarajv787@gmail.com
+
+https://www.linkedin.com/in/yuvaraj-vetrivel-407275223
+

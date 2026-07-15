@@ -1,0 +1,74 @@
+                                                                  Interview Experience
+
+Name         :   Varshini V                                                                           Reg No :2018115123
+
+Email         :   varshinivelmurugan2000@gmail.com
+
+Company  :    Caterpillar India Private Limited
+
+Totally 4 rounds were conducted.
+
+•  Aptitude
+•  Coding
+•  Group Discussion
+•  One to One Interview
+
+ Round 1: Aptitude
+
+Only MCQ questions were asked in this round. Questions were from quantitative ,logical and
+verbal reasoning and  technical aptitudes.
+
+Round 2 : Coding
+
+Two coding questions were asked. The questions were easy and direct.
+
+1.  https://leetcode.com/problems/find-pivot-index/
+2.   Another question was a string manipulation question
+
+Round 3 : Group Discussion
+
+This round was held through teams call. About 10 students were in my group and 2 panel
+members were there to evaluate. The topic given to our group was “Globalization is boon or
+bane”. About 10 mintues this round went.
+
+Starting the discussion or concluding the discussion will be added point to clear this round.
+
+Round 4: Interview (Technical + HR)
+
+This round also held through teams call. There were 2 interviewers one interviewer asked
+technical questions and another interviewer asked HR questions. This round last for about 40
+minutes.
+
+First the interviewer asked me to introduce myself. Then he asked me to explain about my
+projects. More than half of the interview questions were asked from the projects I did. This was
+the deciding part of the interview. Since I did project in Socket IO, Node JS he asked me
+
+questions like what is socket?  Is there any central server to maintain socket etc. Another
+question he asked for every project was whether I deployed the project in real time.
+
+Then he asked some OOPS and DBMS questions
+
+1. What is the difference between local and instance variable?
+
+2. Constructor and its types
+
+3. Questions related to Inheritance ,Abstarction
+
+4. Runtime and Compile time polymorphism
+
+5. Types of joins in sql
+
+Then another interviewer asked me some HR questions
+
+1. How you will adapt to new technologies?
+
+2. How will I ensure that the project I have done in college is helpful to the society?
+
+And some more questions similar to the above 2 questions.
+
+•  Answer the questions confidently and politely. Even though you don’t know the answer
+
+for some questions  it’s ok answer the question you know confidently.
+
+•  Make sure you know everything that you mentioned in your resume.
+

@@ -1,0 +1,41 @@
+LOGITECH (6 MONTH INTERNSHIP)
+
+Process:
+
+•  The entire process was held at logitech office(Olympia tech
+
+park,Guindy).
+
+•  There were 4 rounds totally.
+
+MCQ (round-1):
+
+•  There were two types of MCQ (C++ and Frontend).
+•  Those who scored above 30 out of 50 were shortlisted next round.
+
+Technical interview-1(Frontend):
+
+•  This round was entirely based on frontend projects.
+•  Since I have deployed a website, most of the questions were
+
+based on it.
+
+•  Then they asked to write some react and javascript codes for
+
+some functionalities of the website.
+
+Technical interview-2(C++):
+
+•  In this round DSA was primarily focussed.
+•  Maximum subarray(Kadane’s algorithm) was asked.
+•  Then they asked to explain the projects in my resume.
+•  Pascal’s triangle along with time complexity was also asked.
+
+HR interview
+
+•  Tell me about yourself.
+•  Explain non technical skills.
+•  Some HR questions like where do you see yourself in 5 years.
+
+Akshaya S M
+

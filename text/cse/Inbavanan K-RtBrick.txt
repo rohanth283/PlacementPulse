@@ -1,0 +1,104 @@
+RtBrick Interview Experience 
+ 
+Company Overview: 
+RtBrick is a pioneering company in the networking industry, dedicated to 
+transforming traditional network infrastructures with innovative software 
+solutions. Our mission is to enable service providers to build more flexible, 
+scalable, and cost-effective networks using cutting-edge technologies. 
+This was the first time Rtbrick recruited the students in CUIC and first time 
+they recruited the freshers.  
+Role Offered: Associate Software Developer 
+Stipend: 35,000 INR per month 
+Sequence of Job Selection: Online Assessment, Written test, 3 Technical 
+Interviews  
+Online Assessment (08.08.2025): 40 mins MCQ Assessment 
+The test lasted for 40 mins. The MCQ consisted of topics like Networks especially 
+in Subnetting and IP addresses, basics of C, Operating systems. 
+On 12.08.2025, I wrote one written test and did 3 technical interviews 
+1. Written Test 
+• The written test consisted of one question that was an ID allocation 
+problem and they insisted us to write the code in C. 
+• I was given two functions alloc_id() and free_id(int n). 
+• I was asked to write these functions where in alloc_id () I need to 
+alloc minimum possible id available in a pool of id from 1-INT_MAX. 
+• In free_id (int n), I want to free the given id. 
+• They expected to solve using Heap and Priority Queue. 
+Out of 32 candidates, 16 were shortlisted. 
+2. Technical Interview 1 (40 mins): 
+ 
+The technical interview started with an introduction of myself.  The 
+interviewer asked about my Blockchain Project and he asked me to convince him 
+to use Blockchain Technology, He also asked, what is Blockchain Technology and 
+where it is used. 
+ 
+And he asked me whether I know C, python. But I said I am currently 
+practising in Java and he accepted me to write in Java. He asked to implement 
+the optimal sorting algorithm. The second question was to implement the 
+greatest repeating numbers. Next question was to check if the number is even 
+or odd without using modular operator, he was expecting bit manipulation. 
+Out of 16, 7 were shortlisted for Technical Interview 2. 
+3. Technical Interview 2 (60 mins): 
+ 
+In Second Interview, I was interviewed by a 2011 CEG passed out student 
+named Dhivya. She asked the intro and then she asked about the projects. She 
+asked whether I know C, Python Because the company works in those languages 
+and she asked me to learn C and python to work with. 
+ 
+She asked me to explain about the OSI model with the example of how 
+the Mail is send from one user to another user. Next, she asked about the basic 
+definitions of Routers, Switches, Hub and what are the differences. Then she 
+asked about the difference between IP address and MAC address. And then, she 
+asked me whether I know bit wise operator and implement the bitwise addition 
+of two numbers and next the question was, what happen when we declare a 
+variable internally and how the variable is stored in the computer.  
+ 
+Then I was asked to implement whether the given IP is valid IP or not and 
+then next question was to identify the IP addresses in a given text document. 
+All the 7 were gone to 3 round Interview. 
+4. Technical Interview 3 (45 mins): 
+ 
+My 3rd round interview was conducted by two of the remaining recruiters, 
+I was asked to introduce myself and they asked deeply about the projects and 
+what was my role in that project I mentioned, After the detailed explanation 
+about the by project, they tested my logical thinking by asking basic DSA 
+problems in arrays. Then, they asked me to learn python If I was selected for the 
+role. I was asked about the types of OS I know and I said that I used Ubuntu in 
+VMware.  
+Then, they asked me to solve a puzzle which is that given 10 coins placed 
+in a table and the person playing was blindfolded he/she doesn’t know whether 
+the coin is head or tail, there are 5 heads and 5 tails, the 10 coins are randomly 
+split into two halves 5-5 with random distribution of heads and tails, they asked 
+me to place same number of heads in two sides. I am able to flip any coin any 
+number of times. But I need to place same number of heads in both the side. 
+Out of 7, 3 were shortlisted including me. 
+Tips: 
+• Solve problems in LeetCode, Geeks for Geeks, Hacker Rank.  
+• Be prepared in core concepts like DBMS, DSA and OS and be strong in those 
+concepts. Study deeply in everything you learn. 
+• You should Prepare for each and every word in your resume.  
+• You can follow TakeUForward, Neetcode for problem solving. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All the very best!!! 
+Inbavanan K – 2022503507 
+MIT CSE’26 
+Email id: inbavanan964@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

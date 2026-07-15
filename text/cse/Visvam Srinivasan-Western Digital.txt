@@ -1,0 +1,180 @@
+WESTERN DIGITAL - INTERNSHIP 
+ 
+About the Company 
+Western Digital is a major data storage company with a legacy of innovation, evolving from its 1970 
+founding as a semiconductor maker to become a leader in hard disk drives (HDDs) and flash memory 
+solutions for consumers, businesses, and cloud providers. Its long history includes a strategic pivots to 
+focus on data storage technologies, leading to breakthroughs like OptiNAND and a continued 
+commitment to developing reliable, high-capacity storage for the growing digital world. Western Digital 
+has its only Indian office at Bangalore. 
+ 
+Eligible Branches: ​
+CSE, EEE, ECE 
+Eligibility Criteria: ​
+7.5 and above from 10th onwards, No history of arrear. 
+Internship Location: ​
+Bangalore 
+Internship Duration: ​
+8 weeks 
+Stipend: ​
+​
+Rs. 40,000 
+Roles:​ ​
+​
+Software Engineer (Embedded), Platform Engineer 
+ 
+Selection Process 
+1.​ Initial screening by Resume 
+2.​ Online Assessment 
+3.​ Interviews 
+a.​ Technical Interviews 
+b.​ HR Interviews 
+ 
+Initial screening based on Resume 
+From the applied candidates there was an initial screening with respect to resume and CGPA. It was not 
+mentioned on what basis the resumes were screened although it was probably based on whether the 
+candidate knows C/C++. I had a simple C++ project in my resume and included C and C++ in the 
+languages known. 
+ 
+Online Assessment 
+Duration:  40 mins​
+​
+​
+​
+Location: CUIC 
+The OA was conducted at CUIC Labs on the Hirepro website. Ensure your microphone and cameras are 
+working properly if you are taking the assessment on your laptop. 
+ 
+Software Engineer (Embedded) 
+30 Aptitude Questions on numerical aptitude and general logical reasoning. The questions were not too 
+hard. 
+ 
+Platform Engineer 
+Apart from the aptitude questions also included a segment with 20 coding MCQs based on C and C++. 
+Although I did not attempt this assessment I heard that it was not too difficult. 
+ 
+10 were shortlisted for the Software Engineer Embedded role and 30 for the Platform Engineer role from 
+CEG and MIT. 
+ 
+Interviews 
+ 
+Technical Interview 1 
+Duration: 1 Hour​
+Location: CUIC 
+ 
+I was assigned to an online interview although many had offline.  
+Non-technical Questions asked: 
+1.​ Why did you pick CEG and why CSE? 
+2.​ Why are you interested in joining Western Digital? 
+3.​ Your projects are not very related to the work here. So, why did you pick this role?  
+4.​ If you had to pick between these in a decade's time what would you pick: Domain expert, a 
+project manager, technical manager, general expert. 
+5.​ What choice would you take between masters or placements and why? 
+ 
+For the non-technical questions it's purely based on how you weave a convincing story. I myself had not 
+explored much in embedded programming but tried to use smaller experiences like switching to a linux 
+OS and using the Raspberry PI. 
+ 
+I was asked what my favourite subjects were and I said DSA and Computer Architecture and hence was 
+asked questions on DSA. I was also asked if I knew OS and mentioned that I was currently learning that.  
+ 
+Technical Questions: 
+1.​ Find the 2nd maximum element in the array 
+(https://www.geeksforgeeks.org/dsa/find-second-largest-element-array/) 
+I was asked to type out the code in notepad and was also asked to implement some in-built 
+functions like max(a,b) 
+​
+ 
+2.​ Find the kth maximum element in the array 
+(https://leetcode.com/problems/kth-largest-element-in-an-array/description/) 
+For this I was not asked to code it but to only give the logic. I had given an approach of using 
+bucket sort for O(n) time and space as well as a heap based method for O(nlogk) time. I had not 
+mentioned QuickSelect which is the most efficient algorithm capable of solving this in O(n) time 
+and constant space. 
+ 
+3.​ Explain some of the scheduling algorithms in OS. 
+ 
+The interviewer wanted to know if I had any questions and asked the following: 
+1.​ How has AI affected your workflow? 
+ 
+I was told that I wasn’t selected for the next round in the interviews for Software Engineer Embedded but 
+was suggested for Platform Engineer and was asked to sit for those interviews. (I am not sure why this 
+was done but yes I had to sit for another series of interviews with a lot of people already in the queue.) 
+ 
+Technical Interview 2 
+Duration: 30 mins​
+Location: CUIC 
+ 
+This interview was for the Platform Engineer role. As I had already done an interview before there 
+weren’t many non-technical questions asked in this round. 
+ 
+Technical Questions: 
+1.​ Find if a linked list has a cycle 
+(https://leetcode.com/problems/linked-list-cycle/description/) 
+I was asked to write the full code on paper in either C or C++. 
+ 
+2.​ Reverse words in a string 
+(https://leetcode.com/problems/reverse-words-in-a-string/description/) 
+I was again asked to write the full code on paper and was asked to do the reversal in-place. 
+ 
+Techno-HR Interview 
+This was a relaxed interview focussed on follow-ups based on my answers to questions. 
+Things i talked about: 
+1.​ Experience in projects and difficulties faced. 
+2.​ My exploration of embedded programming and electronics (I had once broken my hard drive and 
+tried to replace it back so I talked about that.) 
+3.​ Leadership experiences in clubs 
+4.​ Why Western Digital? 
+ 
+I was then given the opportunity to ask questions to the interviewer and I asked the following: 
+1.​ How has AI affected the products you make? 
+2.​ Do you feel there is a market for developing AI products for internal use in companies? 
+3.​ Why is WD focussed primarily on HDDs? Are SSDs a viable option for enterprise storage? 
+ 
+HR Interview 
+Duration: 10 mins 
+Location: CUIC 
+ 
+This was a quick round asking about my family background, my siblings, whether relocation to Bangalore 
+would be an issue and about my experiences in clubs focussing on leading diverse teams. 
+ 
+I was then selected for the Platform Engineer role along with 4 other MIT students and for the role of 
+Software Engineer (Embedded) 3 were selected. 
+ 
+Some tips: 
+1.​ Try to pick a practice sheet for DSA quickly, I spent more time researching the best sheet than 
+doing actual questions initially. Pick neetcode 150 or Striver A2Z. Also try to start practice during 
+the 4th sem starting itself so that you can take a more relaxed learning approach. (It is tiring to try 
+and do 5-6 problems a day at the end). 
+2.​ Understand patterns and not just solutions. I initially tried to remember solutions and yes for 
+some you just HAVE to remember but for many you can try understanding the pattern. Try to 
+explain each step you take towards the solution (e.g. Why should this pointer move to the right , 
+why try sorting this first and so on), doing so will make it easier to find patterns in unseen 
+questions. Try to also not jump straight into coding a question after you see it; explain to yourself 
+the logic behind your solution, that way you can start identifying loop holes. 
+3.​ When asked what your favourite subject is, try to answer something related to the job description. 
+Answering Full Stack Technology for a WD interview is not suitable as they don't really do much 
+of full stack. Try to tune your resume also similarly if possible. 
+4.​ Ensure you know all of the things mentioned in your resume. Your resume doesn’t have to be 
+groundbreaking. A good and suitable set of projects (2-3), tools, languages related to the job, 
+leadership experience if any and certifications and workshops can fill your resume. 
+5.​ Please also practice aptitude. Aptitude is asked in almost all OAs and usually people skip out on 
+that. 
+6.​ Go through CS subjects like DBMS, OOPS, OS (if already done), C and C++. 
+7.​ Be confident while speaking, you do not have to know everything beforehand, try to use whatever 
+knowledge you have and tackle the questions. 
+ 
+Do not chase number of leetcode/DSA questions and try to understand them. I had to redo 150 questions 
+because I forgot all of them. You might face rejections along the way, do not worry about that at the end 
+you only need 1 internship.  
+Luck plays a major role and is often overlooked but unfortunately you cannot practice luck so do not 
+worry if you are unlucky and be grateful if you are.  
+Try your level best and leave the rest. Try to get an internship if not you can always try for placements. 
+Do not stress out too much or you will get hairfall (and that is worse than not getting an intern). 
+May the force be with you! 
+​
+Reach out if you have any doubts whatsoever :D 
+ 
+Visvam Srinivasan 
+CEG CSE ‘27 
+Mail: yp2.visvam@gmail.com | Linkedin: www.linkedin.com/in/visvam-srinivasan | Phone: 6385050355 

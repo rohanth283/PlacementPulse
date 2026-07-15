@@ -1,0 +1,147 @@
+MORGAN STANLEY FTE INTERVIEW EXPERIENCE 
+ 
+ABOUT THE COMPANY: 
+Morgan Stanley operates as a global financial services company. It mobilizes capital to help 
+government, corporations, institutions and individuals around the world achieve their financial 
+goals. Morgan Stanley is consistently highly ranked in mergers and acquisitions and initial public 
+offerings.  
+ 
+Eligibility Criteria: CGPA - 8.0 and above 
+Branches Considered: CS & IT 
+CTC: 29.48 LPA 
+Sequence of Selection: PPT & Online Assessment, 2 Technical Interviews and HR Interview. 
+Job Role Offered: Technology Analyst 
+ 
+ROUND 1 – ONLINE ASSESSMENT 
+Duration: 90 minutes (about 1 and a half hours) 
+The assessment was conducted through SHL platform. It consisted of three sections: Aptitude, 
+Debugging and Coding.  
+Aptitude – This section was of medium-hard difficulty level.  
+Debugging – This section consisted of code snippets to rectify the logic. This was of easy-
+medium difficulty level. Initially chosen programming language cannot be changed till the end. 
+Coding – This section consisted of 3 coding questions. The three questions were easy. As the 
+questions were easy, the time of submission played a greater role in selection. 
+Every section was time bounded, that is a section cannot be backtracked once its time slice is 
+over.  
+After the online assessment, 14 members were shortlisted for the next round – Technical 
+Interview I. 
+ROUND 2 – TECHNICAL INTERVIEW I 
+Mode: Physical 
+Duration: 1 hour 
+Difficulty level: Easy-Medium 
+The interview was based on OS, SQL, DSA, OOPS. It almost covered all major CS domains. The 
+interviewer was friendly and he made me feel comfortable so that my anxiety and nervousness 
+came down. The interviewer started off with some casual questions like where do I come from? 
+And then, he asked me what is the eligibility criterion to enter Anna University? Then he started 
+asking technical questions. Below are the questions asked: 
+I was asked to debug a code snippet which was written in Cpp . It was a code snippet which 
+included dynamic memory allocation using new pointer, array declaration and stuff like that. I 
+was able to debug it completely.  
+What is the use of header files? Why do we use it? 
+Question on cpp library - vector.h. (I am good at Java language. So, I said to the interviewer that 
+I am good and comfortable with Java. So, he started asking Java questions.) 
+Questions on OOPS: 
+Define an abstract class. Write the code to illustrate an example of an abstract class. 
+What are the access specifiers available in Java Programming language? 
+Questions on OS: 
+What are threads? 
+What is a deadlock? 
+What are the necessary conditions for a deadlock to occur? 
+Questions on SQL: 
+Write a query to create a table. 
+Write a query to insert data into a table. 
+What is left outer join, inner join and cross join? 
+Coding questions: 
+What is time complexity? Write the time complexity classes in ascending order. 
+Write any sorting algorithm. Explain the working of it. Write down the best-case time 
+complexity for it.  
+What is the difference between a run-time error and a compile time-error? 
+Given four persons at designations – D1, D2, D3, D4, respectively where D1 is the least 
+designation and D4 is the highest. The person can skip one position and get promoted to the 
+second next higher position or he can get promoted to the next higher position. Write down 
+the possible ways to reach D4. This question is similar to this problem. STAIRCASE PROBLEM - 
+https://www.geeksforgeeks.org/count-ways-reach-nth-stair/ 
+Given login time, logout time for n employees in a company. The task is to find the minimum 
+number of chairs in a company to accommodate ‘n’ employees. This question is like this 
+problem – MINIMUM NUMBER OF PLATFORMS REQUIRED FOR A RAILWAY/BUS STATION - 
+https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/ 
+Write a program to find if a string is palindrome or not. 
+For the coding questions, I was asked to write the logic. 
+I was able to answer all the questions. The most important thing is to communicate with the 
+interviewer throughout the interview session. Even if you get stuck up thinking logic, the 
+interviewer gives you hint to crack it. So, communicate your thoughts throughout. Do not 
+hesitate to do that assuming that you are wrong. Be bold and confident with your answers. 
+Shortlisting was done for the next round. 
+ROUND 3 – TECHNICAL INTERVIEW II 
+Mode: Physical 
+Duration: 45 minutes 
+Difficulty level: Easy 
+The interviewer started off asking me to give a self intro. This round was on System Design. He 
+gave me a scenario to design a system. I was asked to design a vending system which is used in 
+malls.  
+Functionalities required: 
+• Display the items available. 
+• Receive the order. 
+• Check the inventory. 
+• Check for successful payment and deliver the products. 
+• Update the inventory. 
+I was asked to draw the class diagram for the system proposed. Usage of appropriate data 
+structures in some of the functionalities were asked. I made corrections as per his views. He 
+asked me to draw the database tables required for this system. I included a third-party Payment 
+Processing system in my diagram. So, he asked me to draw a class diagram which focuses on 
+the Payment modes – UPI, Cash and Card. He asked me to explain the OOPS concept involved in 
+that diagram. Some OS questions which were asked: 
+What is multithreading? What are its benefits? What are the ways in which multithreading can 
+be established using Java? 
+Write a code snippet which illustrates the principle of Mutual Exclusion. 
+Which is the keyword in Java used to ensure mutual exclusion?  
+Given two tables – Students information table and Company selects table. Write a SQL query to 
+find the name of the student and the company name where he got placed who belongs to XYZ 
+college and receives the highest salary offered in the city Mumbai. 
+Questions were asked on the tech stack mentioned in the projects.  
+Finally, I was asked to ask a question to the interviewer. I asked him about the work culture at 
+Morgan and being a FinTech company, how does it differ from the other product-based 
+companies. 
+I found him impressed with my answers and had a hope that I would get selected for the next 
+round. Shortlisting was done for the final round. 
+ROUND 4 – HR INTERVIEW 
+Mode: Physical 
+Duration: 25 minutes 
+This round seemed little harder than the previous rounds. The interviewer greeted me and 
+started asking the questions. The questions were like: 
+How many projects have you worked on? 
+What are the difficulties that you have faced while working on projects? 
+The requirements of the project changed in the middle while your project was half way 
+completed. How would handle that circumstance? 
+Tell me about the toughest decision that you have taken while working on projects. 
+Assume that you are the team lead and your teammate is not very co-operative. He is very 
+lethargic and does not submit the assigned work within the deadline. What will be your action 
+towards him as a team lead? 
+Assume that you are proposing a solution to a problem while the other person is proposing an 
+efficient one compared to yours. Will you give up on your idea or stand by yours? 
+Tell me your experience when you have taken risks while working on projects and the results 
+occurred from your risks were not as you expected. 
+I found this round a very formal discussion and it was a bit tough. Going through sample HR 
+questions and a light preparation, rather than on spot answering will help you ace the HR 
+interview. 
+3 of us were selected as FTE at Morgan Stanley. 
+Tips: 
+Strictly restrict your resume to 1 page. List out honestly only the skills what you possess in your 
+resume. 
+Think aloud. Express your views and ideas. 
+Be strong in OOPS concepts, DBMS, OS, DSA.  
+Before the interview, read about the company well.  
+        All the very best! 
+PRIYADHARSHINI P (2019-2023) 
+Feel free to reach me out at: www.linkedin.com/in/priyadharshini-p- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

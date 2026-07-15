@@ -1,0 +1,54 @@
+VISA (Internship) 
+About the company: 
+ 
+VISA Inc. is an American multinational financial services company which is often 
+misapprehended as a bank/credit card company. The headquarters is situated in Foster City, California. 
+It facilitates money transfers between bank accounts through VISA-branded credit, debit and pre-paid 
+cards. 
+ 
+There were two rounds of selection for the internship. The first round was based on coding 
+questions and the second was technical + HR based. 
+Coding Round: 
+The coding round consisted of two coding questions to be completed within 1 hour. The questions were 
+of easy-moderate difficulty. 
+The questions were 
+i) Slightly modified version of finding number of nodes in every connected component. 
+ii) Finding number of triplets whose sum is less than given threshold 
+Link: https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/ 
+Tips: 
+i)  Practice coding problems from websites like Geeksforgeeks, Leetcode and Hackerrank.  
+ii) Try to get acquainted with problems whose statement is lengthy. This could save some 
+valuable time as it can be considered as an important factor in shortlisting candidates 
+from the coding round. 
+Technical + HR round: 
+The questions asked were: 
+i) Explain about where can you use circular-linked lists over doubly-linked lists. 
+ii) AVL tree and its association with BSTs. 
+iii) Find the largest BST subtree of a binary tree. 
+Link: https://www.geeksforgeeks.org/find-the-largest-subtree-in-a-tree-that-is-also-a-bst/ 
+iv) Modified version of the problem nearest city 
+Link: https://leetcode.com/discuss/interview-question/949904/amazon-oa2-nearest-city 
+v) Based on MySQL syntax. 
+vi) Brief explanation about projects mentioned in my resume. 
+vii) Leadership qualities you possess. 
+Tips: 
+i) Answer each question boldly, don’t hesitate for anything, speak with confidence.  
+ii) Don’t worry if you can’t find the best possible solution for coding questions. The interviewer 
+values your way of approach and how composed you are more than anything else. 
+He/She will also provide you subtle hints so that you can arrive at the solution. 
+iii) Don’t forget to perform a background check on the company before the interview. Try to 
+include facts/stats about the company gently into your conservation.  
+iv) Don’t lie in resume/interview. Lying creates an ever-lasting bad impression. 
+v) Refer interview experience articles from GFG.  
+vi) Make sure you revise relevant concepts from core subjects. Last minute notes in GFG can 
+prove to be useful. 
+Take away: 
+i) Practice frequently on coding platforms. 
+ii) Completely learn at least one programming language. 
+iii) Revise OOPS, OS and DBMS concepts time-to-time. 
+iv) Maintain your confidence while speaking with the interviewer. 
+Hope this helps 
+All the best!! 
+ 
+Pramodh V 
+pramodhvenkatraman@gmail.com 

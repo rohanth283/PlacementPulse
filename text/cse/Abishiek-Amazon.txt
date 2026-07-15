@@ -1,0 +1,88 @@
+AMAZON DEVELOPMENT CENTRE 
+ 
+SCREENING ROUND: 
+ 
+All the students who met the eligibility criteria took this test (Online). It was a coding + aptitude + 
+behavioural round conducted on AMCAT platform.    
+ 
+Part 1: Debugging: 
+ 
+It had around 7 questions with buggy code snippets. Candidates were expected to clear the bug and 
+produce the required output.  
+Difficulty Level: EASY 
+ 
+Part 2: Coding: 
+ 
+It had 2 Coding question, the questions may seem complex at first glance, but mostly are direct 
+application of well-known data structures and algorithms. Candidates will be provided an hour to 
+solve. Remember to handle edge cases as well since u will not be aware of failed test cases as they 
+are hidden.  
+Difficulty Level: Moderate 
+ 
+Part 3: Behavioural Analysis: 
+ 
+This was more of a personal round. There wasn’t a single right answer to any question. It had 
+questions like candidate’s interest, his/her strength/weakness. Do attend this part very carefully since 
+this is the only round where you can outperform others, also try to remain consistent throughout all 
+the questions and don’t contradict yourself across two different questions.  
+Difficulty Level: There isn’t such for this part, may be Moderate for you to pay extra attention.     
+ 
+Part 4: Aptitude: 
+ 
+It was a typical aptitude round. I found it difficult to keep up with the time since it had some questions 
+testing comprehension skills. 
+Difficulty Level: Moderate 
+ 
+ 
+ 
+ 
+INTERVIEW ROUND(S): 
+ 
+There were 4 rounds of interview, out of which first 3 were Technical and last one was technical cum 
+managerial. 
+ 
+First Technical Interview: 
+ 
+I was asked to solve two coding problems in one hour. The proposed solution should be optimized to 
+the fullest (minimal time and space complexity). The interviewer will have a conversation to help to 
+arrive at the solution. 
+The two coding problems were based on the following: 
+1. Similar to searching in a row and column wise sorted 2-D Matrix 
+2. Similar to finding if one string is a substring of another 
+ 
+Second Technical Interview: 
+ 
+Similar to first round, I was given another two problems and was asked to give an optimal solution 
+in one hour. 
+The two coding problems were based on the following: 
+1. Sorting a stream of integers.( I used  an heap) 
+2. Finding longest substring in a dictionary of words.( I used a trie ) 
+ 
+Third Technical Interview: 
+ 
+It was similar to first 2 rounds. 
+The 2 coding problems were based on the following: 
+1. Process scheduling with custom constraints 
+2. Application of Binary Search Tree Searching, Insertion and Deletion 
+ 
+Final Round (Managerial + Technical Round): 
+ 
+Questions from various domains like DBMS, Operating Systems, and Object Oriented Programming 
+were asked. Finally a coding question based on Bit-magic was given. 
+ 
+ 
+Topics to be focussed: 
+In decreasing order of importance 
+1. Data Structures 
+2. Algorithms 
+3. Basic knowledge on domains listed in the final round experience.  
+ 
+Use Geeksforgeeks articles for preparation and Leetcode for practice. 
+Tip: Watch “Back to Back SWE” videos in youtube  
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Abishiek S 
+abishiek2103@gmail.com 

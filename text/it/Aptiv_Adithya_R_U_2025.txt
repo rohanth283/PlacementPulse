@@ -1,0 +1,195 @@
+APTIV (6m Intern + fte) placement experience
+Adithya R U (2021115007)
+
+THE COMPANY
+Aptiv is an automotive technology supplier, a spin off of General Motors. Aptiv designs, develops and
+
+manufactures software and hardware solutions to enable a safer, greener and more connected future of
+
+mobility. Their clientele involves automobile OEMs around the world, helping them create vehicles with
+
+advanced safety features, electrified architectures and intelligent connectivity.
+
+Aptiv provides solutions that take into account the vehicle’s entire architecture – its software, hardware
+
+and electrical/electronic architecture. Aptiv’s various business units work together to provide turnkey
+
+solutions for their customers.
+
+Aptiv’s most prominent business units (domains of work) include Advanced Safety and User Experience
+
+(AS&UX) and Signals and Power Systems (S&PS). AS&UX deals with ADAS systems, building hardware
+
+agnostic platforms, interior systems and developing OTA software. S&PS delivers the high-speed data and
+
+high-power electrical systems required for feature-rich, highly-automated vehicles.
+
+THE ROLE
+Software Engineering Intern (Associate Embedded Software Engineer)
+
+Responsibilities (as taken from the company’s JD):
+
+● Follow existing AS&UX standards in SW development process
+● Collecting and analyzing SW requirements
+● Preparing SW design documentation
+● Programming SW modules
+● Preparing and performing tests to verify SW work products.
+● Continuous development of professional qualifications.
+● Care for a good company image.
+● Care for confidential information and company’s property.
+
+THE PROCESS
+
+1. Online Assessment (In Offline Mode)
+
+2. Technical Interview
+
+3. Techno-Managerial Interview
+
+4. HR Interview
+
+THE TEST
+The online test was taken by close to 200 people (CS,IT,ECE,EEE,EI). It was conducted on HackerRank and the
+
+students were to report to CUIC to attend it. The test consisted of 18 questions:
+
+1.
+
+Snippet / Mini Coding (finding output given a code snippet) - 2(10 mins)
+
+2. MCQs (IT) - 9 (20 mins)
+
+3. MCQs (Core) -5 (10 mins)
+
+4. Programming Question (Medium)- 1 (20 mins)
+
+5. Programming Question (Advanced)- 1 (30 mins)
+
+Programming Questions :
+
+1. There are n points on the x-axis (1,2,3,...,n), where the ith point has a cost denoted by cost[i]. Starting from
+
+coordinate x = 0, jumps of length k can be taken. Wherever a stop is made, the cost of that point is incurred.
+
+Find the minimum cost to reach the point n, taking jumps of length at most k.
+
+2. You are organizing an event where there will be a number of presenters. The event starts at time 0 and
+
+time will be allocated for networking at any time during the event when there is not a presentation being
+
+made. The presentations may not overlap but can run consecutively, without breaks. While the order of
+
+speeches cannot be changed, there is a maximum number given that indicates how many speeches may
+
+be rescheduled. Maximize the length of the longest networking period.
+
+MCQs : Operating Systems, Memory Management in Programming Languages, OOPs
+
+Around 90 students were shortlisted to attend the interviews in-person.
+
+THE INTERVIEW
+The interviews were held in-person at CUIC. The Pre-Placement Talk (PPT) preceded the interviews and
+
+owing to quite a large number of students, the interview process went on for two days. I attended the first
+
+round on the same day as the PPT and the next round on the next day.
+
+TECHNICAL ROUND (90 mins - 120 mins):
+
+The first round was easily the longest interview that I had attended so far. The interviewer introduced
+
+himself and asked me to do the same. After a quick introduction, he jumped into the questions. Differences
+
+between a microprocessor & microcontroller, Memory management in C/C++ vs Java vs Python, How
+
+addressing works in n-bit architectures, Deadlocks, Process Scheduling, Interrupt servicing, Context
+
+switching and some basic bit manipulation questions were put forth to me.
+
+Questions based on my resume were intertwined in between these. The interviewer was quite interested
+
+about my NLP project and asked me to explain about it like how I would to a person with no background in
+
+AI/ML. Questions were posed regarding my choice of going with a Neural Network compared to traditional
+
+ML algorithms. The interviewer was quite interested to know how one could use Neural networks in the
+
+automotive industry. He then asked me to write pseudocodes for some simple array-based and OOPs
+
+questions.
+
+We finished the interview after he answered some questions I had for him. He asked for my location
+
+preferences as well.
+
+TECHNO-MANAGERIAL ROUND (60 mins - 75 mins):
+
+The second round took place the next day for me. After the introductions were exchanged, the interviewer
+
+questioned me about Operating Systems. Every concept was explored and I was asked a real-life example
+
+where each of the concepts could be applied. Questions about my knowledge of the company were asked.
+
+The interviewer wanted to know my understanding of how the concepts we’ve studied and practiced in
+
+college would be implemented in the automotive industry. He then asked for my GPA and after answering
+
+the questions I had for him, the interview was over.
+
+HR ROUND (30 mins - 45 mins):
+
+The HR round was the last round in this interview process. No technical questions were posed. Every
+
+question was aimed to illustrate the type of person I am, how I would react in certain scenarios, and my life
+
+outside of academics. The interview ended at around 7:00 PM in the evening and the results were to be
+
+announced in the upcoming days.
+
+THE EXPERIENCE
+The interview being held over the span of two days is something that could pose as a distraction and
+
+potentially mess you up whilst waiting in between rounds. But these things are quite the norm. You might
+
+get pushed up ahead or made to wait even longer. Everything will not go according to the schedule. But
+
+that is immaterial to the selection process. I was the last person to be interviewed by the panels in both the
+
+2nd and 3rd rounds. So you might end up waiting almost an entire day for your chance, or you could be
+
+fast tracked till the last round with little to no gaps in between the first couple of rounds. Be ready for both.
+
+Make sure to articulate your thoughts properly. There is no harm in taking a pause and having a sip of
+water while the interview is going on. Explain every aspect of your projects. Be it a minor bug you faced or
+
+making an informed decision regarding the choice of a model/algo. Have an answer ready for “Why
+
+Aptiv?” or “Why XYZ” in general. This was posed to me by all three of the interviewers.
+
+Certain topics of importance when it comes to Aptiv are:
+
+● Memory Management (stack/heap/garbage collection)
+● Operating Systems (scheduling, deadlocks)
+● Bitwise operators & Bit manipulation
+● String & Array manipulation
+● Microprocessors & Microcontrollers (8051 will make do)
+● Data Structures (in the context of OS - memory allocation, file systems)
+
+Be thorough with everything that you mention in your resume. You are expected to explain a lot when you
+
+give your answer to the questions being asked. The interviews are more of a conversation than a
+
+question-answering session.
+
+My experience was quite a positive one. All of the interviewers were interested to listen to my responses.
+
+The first interviewer even gave me a couple of chocolates at the end lol. Even though the 2nd and 3rd
+
+rounds clashed with another exam I was due to attend, the panel members were understanding and
+
+waited till I finished the test.
+
+The results were announced a couple of days later and I was one of the 15 students who were selected.
+
+Be confident in your answers guys! Face the panel with a positive outlook on everything.
+

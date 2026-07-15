@@ -1,0 +1,157 @@
+THIRUMURUGAN K – INFORMATION TECHNOLOGY
+
+SOFTWARE ENGINEER IN CONGRUENT SOLUTION PVT LMT
+
+About the Company:
+
+Congruent Solutions is a specialist technology solutions and outsourced plan
+administration service provider to the retirement industry since 2004.
+
+Overview of the Process:
+
+The overall process consisted of
+
+•  Online Assessment
+
+•  Online Aptitude Test
+
+•
+
+•
+
+Interview Round 1 (Technical) – in CUIC
+
+Interview Round 2 (managerial) – in CUIC
+
+•  HR Round
+
+Online Assessment:
+
+The online assessment was conducted via a Microsoft Teams meeting with a
+duration of 1 hour and 30 minutes. During the session, four questions were
+displayed, primarily focusing on flowcharts and instruction-based problems.
+Each question included several sub-questions. Candidates wrote their answers in
+a notebook and submitted them as a PDF document.
+
+Online Aptitude Test:
+
+The online aptitude test included questions on Object-Oriented Programming
+(OOPs), Database Management Systems (DBMS), Operating Systems (OS),
+Networking, and Node.js. The test had a duration of one hour, with
+approximately 60 questions.
+
+Interview Round 1(Technical):
+
+The technical interview lasted for approximately 30 minutes and was primarily
+resume-based, with questions focused on topics mentioned in the resume.
+
+Interview Questions:
+
+•  Tell me about yourself.
+
+•  Do you know JavaScript? If so, which version or framework of
+
+JavaScript do you know?
+
+•  What is ReactJS?
+
+•  What are React Hooks?
+
+•  Explain useState and useEffect in React.
+
+•  What is PySide6?
+
+•  What is polymorphism?
+
+•  What are primary keys and foreign keys in databases?
+
+•  What is the most recent project you are working on?
+
+•  Do you have any questions?
+
+Data Structures & Algorithms (DSA) Questions:
+
+•  Reverse a string using recursion.
+
+•  Reverse a string using a queue.
+
+•  Find the duplicate letters in a string.
+
+The interview was focused on concepts and projects listed in the resume,
+ensuring a discussion aligned with the candidate’s experience and expertise.
+
+Interview Round 2(Managerial):
+
+The 30-minute managerial interview focused on personal background, technical
+interests, career aspirations, and problem-solving abilities.
+
+Interview Questions:
+
+•  Tell me about your family and technical interests.
+
+•  What is your dream career?
+
+•  What responsibilities have you handled in both technical and non-
+
+technical roles?
+
+•  What is your professional dream?
+
+•  What makes you happy in the IT field?
+
+•  What do you consider your biggest achievement in the IT field?
+
+•  Have you ever noticed any bugs in social media platforms or online
+applications? If so, what was the issue, and how would you fix it?
+
+•  Do you have any startup ideas?
+
+•  What challenges have you faced in your projects, and how did you
+
+overcome them?
+
+The discussion emphasized problem-solving skills, innovative thinking, and
+career aspirations in the IT domain.
+
+HR Round:
+
+The HR interview was conducted online and lasted for 10 minutes, scheduled
+four days after the managerial interview.
+
+Interview Questions & Experience:
+
+•  How was your previous interview?
+
+•  What other company interviews have you attended before?
+
+•  Why do you think you were not selected in those interviews?
+
+After answering these questions, the interviewer remained silent for 3 to 5
+minutes, asking the candidate to wait. This happened to all three candidates.
+
+The interview concluded with a discussion about salary.
+
+My Preparation Strategy:
+
+To prepare for the interview process, I followed a structured approach focusing
+on DSA, computer science fundamentals, and coding practice:
+
+•  Data Structures & Algorithms (DSA):
+
+o  Studied Striver's A to Z DSA Sheet and followed his YouTube
+
+channel for explanations.
+
+o  Practiced LeetCode problems along with Striver's sheet for better
+
+problem-solving skills.
+
+•  Computer Science Fundamentals:
+
+o  Referred to W3Schools and GeeksforGeeks for concepts related to
+
+Operating Systems, DBMS, Networking, and OOPs.
+
+This preparation helped me build strong problem-solving abilities and a solid
+understanding of core technical concepts.
+

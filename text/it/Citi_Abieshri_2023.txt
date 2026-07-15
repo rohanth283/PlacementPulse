@@ -1,0 +1,79 @@
+INTERNSHIP EXPERIENCE FOR CITI BANK
+
+S.ABIESHRI
+2020115003
+
+Company Overview
+
+Citi is an American multinational investment bank,and has 2,649
+
+branches in 19 countries. Citibank is the largest foreign direct investor in financial
+services in India. The company came to our campus on 12/09/2022. The
+eligibility for the online round is no current arrear and the CGPA should be 6.0
+and above.It was open for all the branches. About 250 students were shortlisted
+for the first round.Citi bank has recruited for various domains from our college
+such as FXLM, RISK, SUPPORT, EOT. I was selected under the FXLM domain.
+The Stipend given by  the company is 75,000.
+
+First Round (Online Test for 2 hours): The test was conducted in AMCAT
+platform and consisted of 4 sections:
+
+1. Quantitative aptitude: 14 questions (14 minutes)
+2. Logical Reasoning: 12 questions (16 minutes)
+3. Technical MCQ: 25 questions (35 minutes)
+4. Coding: 2 questions (55 minutes)
+
+I was able to answer 90 percent of the MCQs correctly. There was no negative
+marking. All questions are mandatory to complete. You cannot skip a question.
+
+Coding questions:
+
+1. Given a graph in the form of a network consisting of pipes which
+
+transports oil to the storage units, determine the maximum amount of oil
+that can be transported via the network at any given time.
+
+2. We want to print a pattern where the number of lines will be given as
+
+the input. For example if the input number is 4, then the output should
+be
+
+1*2*3*4
+13*14*15*16
+9*10*11*12
+5*6*7*8
+
+I have done 2 questions with all test cases passed. Partial outputs will not be
+considered. So make sure that you complete at least one question with all test
+cases passed.
+From 250 students, 60 students were shortlisted for the next round.
+
+Second Round (Technical for 30 minutes): There were two-panel members.
+They asked me to introduce myself and asked me to explain the project that I
+have mentioned in my resume. I have done the project on the blockchain
+domain. They are so impressed  by my project. The project discussion went on
+for 10 minutes. They asked me about the experience I got on my internship done
+previously.They asked me what is meant by swap memory?They asked me what
+my preferred language is and they started asking coding questions.I was asked
+to write code to print all the leafs of the Binary Search Tree and to explain the
+same. How to swap two variables without using a third variable. How to print the
+values in the binary search tree in ascending order.I was just asked to explain the
+logic. They asked me some OOPS concepts such as inheritance, types of
+inheritance,method overloading and method overriding. Some real life examples
+of method overloading,method overriding,stack. How to remove duplicates from
+the array without using two for loops and without using any extra space. I was
+asked the logic for how to implement a stack using  queue. I was also asked to
+reverse the logic used by me to solve the problem mentioned before.Finally my
+interview was ended and they asked If I had any questions for them. I asked
+them two questions.
+
+Out of 60 students, 35 students were shortlisted for the HR round.
+
+Third Round (HR Talk 5-10 MINUTES):
+
+It was a simple round with few HR and managerial questions.She started
+
+the conversation with the question how was my day?. She asked me to introduce
+myself. She asked me about my hobbies.To describe my short term and long
+term goals.Why citi?. Out of 35 students, 23 were selected  for Intern.
+

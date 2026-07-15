@@ -1,0 +1,67 @@
+Name: Saiganesh V
+
+Roll No: 2021115316
+
+About Larsen & Toubro (L&T)
+
+ L&T is a leading multinational engaged in engineering, procurement, and
+construction (EPC) projects, with a strong presence in civil infrastructure.
+
+Sectors: Focuses on metro rail projects, highways, buildings, water infrastructure,
+and heavy civil construction.
+
+Role: Survey Supervisor
+
+Responsibilities:
+
+o  Conducting site surveys and measurements.
+o  Preparing detailed layouts and plans using AutoCAD.
+o  Supervising land development and construction activities.
+o  Ensuring compliance with design standards and safety protocols.
+
+•  Required Skills:
+
+o  Technical:
+
+Proficiency in AutoCAD and Total Station operation.
+Ability to interpret engineering drawings and site plans.
+
+o  Analytical:
+
+Estimation of quantities and material requirements.
+Quality assurance and adherence to project timelines.
+
+Preparation Strategies
+
+Technical Knowledge
+
+1.  AutoCAD:
+
+Review 2D/3D drafting techniques.
+Practice plotting layouts and sections for civil structures.
+
+Core Civil Topics:
+
+Calculations for earthwork, excavation, and concrete mix design.
+Knowledge of IS codes related to surveying and civil engineering.
+
+Interview Questions
+
+1.  What are the advantages and disadvantages of using ready-mix concrete?
+2.  What are the different grades of cement, and where are they used?
+3.  Explain the concept of bending moment and shear force in beams.
+4.  How do you calculate the load-carrying capacity of a column?
+5.  What factors affect the estimation of construction costs?
+6.  Explain the process of preparing a bar bending schedule (BBS).
+
+Behavioral Questions
+
+1.  Describe a time when you worked under pressure to meet deadlines.
+2.  What steps do you take to ensure site safety?
+
+General Tips
+
+Research Projects: Understand L&T’s ongoing and recent heavy civil projects.
+Brush Up Basics: Revisit surveying calculations, AutoCAD commands, and
+measurement techniques.
+

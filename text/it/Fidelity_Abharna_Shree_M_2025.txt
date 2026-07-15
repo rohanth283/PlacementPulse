@@ -1,0 +1,210 @@
+INTERN DRIVE EXPERIENCE – FIDELITY
+
+INVESTMENTS
+
+                                                                                    -Abharna Shree M
+
+About the Company
+
+Fidelity Investments is a leading multinational financial services corporation
+
+that provides a wide range of investment management, retirement planning,
+
+wealth management, brokerage, and financial advisory services. Founded in
+
+1946 and headquartered in Boston, Massachusetts, Fidelity is one of the largest
+
+asset managers in the world. Fidelity is known for its user-friendly trading
+
+platforms and apps that offer powerful research tools, real-time data, and
+
+educational resources. Fidelity Investments is committed to innovation, strong
+
+customer service, and comprehensive product offerings, making it a popular
+
+choice for investors of all levels.
+
+Overview of the Process
+
+•  Round 1: Online Assessment (English Proficiency, Technical, Coding,
+
+Algorithm) - in Hirepro platform
+
+•  Round 2: Technical Interview (Resume and Technical) – at CUIC
+
+•  Round 3: HR Interview – at CUIC
+
+Online Assessment in Hirepro platform
+
+The assessment consisted of four sections on English Proficiency, Technical,
+
+Coding and Algorithm. Each of the sections were separately timed.
+
+Section 1: The questions were based on English vocabulary such as fill in the
+
+appropriate word, synonyms, sentence rearrangement and passage
+
+comprehension.
+
+Section 2: MCQ’s on Operating Systems, Data Structures and Algorithms,
+
+Computer Networks, OOP, SQL, including code snippets and output/error
+
+analysis. There was no negative marking, yet I didn’t attend all questions in this
+
+section.
+
+Section 3: This section had 2 coding questions.
+
+•  First question was to find the extreme number by swapping the digits
+
+once (solved with brute force approach)
+
+•  The second question was to print the string of count of consecutive
+
+patterns in the input i.e. input – “%%%$$%%” output - “322”
+
+My code passed all test cases for both the questions.
+
+Section 4: We were asked to type out two Algorithms.
+
+•  Recursion Algo for subsequence (selection/rejection)
+
+•  Infix to prefix conversion with stack
+
+As I spent more time on the first algo, I couldn’t complete the second one
+
+within the time limit.
+
+54 students were shortlisted for the offline interview.
+
+Technical Interview
+
+There were several panels for this round and the questions and the duration
+
+varied depending on the panel. On a general note, the focus was on discussing
+
+projects from the resume and technical questions related to CS fundamentals.
+
+My interview lasted for about 40-45 minutes.
+
+•  The interviewer introduced himself and asked me to introduce myself.
+
+•  He asked me to explain one of my projects on my resume.
+
+•  He asked if had studied OS as part of my coursework and questioned
+
+about kernel in OS.
+
+•  What is inheritance and abstraction in OOPs.
+
+•  I was given two tables and asked to write a simple SQL query (join) for
+
+the specified result.
+
+•  He noticed that I had hosted a website in Render from my resume and I
+
+offered to show it on my phone. He was interested and waited till I came
+
+back.
+
+•  I was asked if had knowledge of cloud storage. Though I had anticipated
+
+the question, I mentioned that I had only a basic understanding, and he
+
+then asked to name a few cloud service providers.
+
+•  He asked about my hobbies and other co-curricular activities mentioned
+
+in my resume.
+
+•  I asked about his journey at Fidelity and how will my day at fidelity be,
+
+when offered an internship.
+
+The questions were basic and I was able to answer all of them.
+
+25-30 students were shortlisted for the HR round.
+
+HR Interview
+
+The interview lasted about 15-20 minutes.
+
+•  Introduction
+
+•  What are your strengths
+
+•  Since I mentioned being a team player in my previous answer, the
+
+interviewer asked if I see myself as a leader or a member of a team.
+
+•  What differentiates a leader from other team members
+
+•  General conversation about day scholar College life.
+
+•  Again, I asked about her experience at Fidelity and her journey with the
+
+company.
+
+12 of us were offered the internship.
+
+Tips and Tricks
+
+•  Go through previous years’ intern interview experiences from online
+
+platforms and seniors. I prepared topics like cloud storage and data
+
+mining, apart from regular CS fundamentals, after reading experiences on
+
+platforms like Geeks for Geeks.
+
+•  Dress up in formal decent attire for the interview to make a good first
+
+impression.
+
+•  The HR interviewer greeted each interviewee with a handshake, make
+
+sure to give a confident handshake as it reflects your personality
+
+•  Ask peers who have their interviews before you about their experience to
+
+get an idea of the questions. There are chances you might get a similar
+
+question.
+
+•  Do not mention anything you are not confident about in your resume.
+
+•  Communication skills are of great importance. How you present what you
+
+know is equally important to what you know!
+
+My Preparation Journey
+
+•  I started to solve the weekly practice questions released from ACM
+
+CODE and I attended most weekly contests in 4th semester holidays. I
+
+managed to solve all easy and just more than half of medium-level
+
+questions in most topics.
+
+•  I tried to solved 4 to 6 questions every day for about two weeks. While I
+
+couldn't maintain my daily streak every day, I remained consistent. I
+
+would have no idea on a question, after 10 minutes of trying to figure it
+
+out on my own, I got YouTube help. I couldn’t wrap my head around
+
+some algorithms on the first attempt, so I set a time limit of one hour per
+
+question. Even if I didn’t understand the solution completely, I would
+
+move to the next question. I couldn’t cover all topics I had initially
+
+planned as I had to work on my summer project as well.
+
+•  Also, Preparation and experience of previous company interviews came
+
+in handy.
+

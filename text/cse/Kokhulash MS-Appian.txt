@@ -1,0 +1,88 @@
+Appian Interview Experience
+Appian is a low-code automation platform that helps organizations build business 
+applications quickly and efficiently. It combines process automation, AI, data integration, 
+and workflow management into a single unified platform.
+Founded: 1999, headquartered in Virginia, USA.
+Core Feature: Drag-and-drop interface to design apps with minimal hand-coding.
+Use Cases: Business process management (BPM), case management, workflow 
+automation.
+Target Users: Enterprises looking to digitize and automate complex processes.
+Appian is widely used in industries like finance, healthcare, government, and manufacturing 
+to streamline operations, improve compliance, and reduce time to market.
+Role : Software Engineer Intern (2 months)
+No of Rounds : 4
+Round 1 : Online Technical Assessment (90 minutes)
+Platform :  Glider.ai
+No of Questions :  3
+Question 1 : 
+Merge Intervals - LeetCode
+Question 2 :  
+Find First and Last Position of Element in Sorted Array - LeetCode
+Question 3 : 
+Missing And Repeating | Practice | GeeksforGeeks
+The extra part in the question was that the numbers from 1 to n were split into m disjoint 
+teams. The teams matrix was given. The missing and duplicate numbers will be in any one of 
+the team, if so then return “Valid Team”. If the missing number and duplicate numbers were in 
+different teams , then return “Not a Valid Team”. If they were in Multiple teams return 
+“Multiple Teams”.
+They expected to return the values in a structure (in cpp) .
+struct Result {
+int missing;
+int duplicate;
+string team;
+}
+Based on the performance , 42 students from CEG and MIT were shorlisted for the further 
+rounds. The further rounds were in person rounds at CUIC.
+Round 2 : Technical Round (30 - 35 minutes)
+In this round, the interviewer asked me for my resume and asked me to tell me about the 
+projects that I had done. I had mentioned two projects on my resume. I explained him about 
+it. He asked why I did choose the specific tech stack and the pros and cons of it. I also 
+explained about the difficulties that I faced and the lessons I learned from them.
+He asked me about my favorite programming language and why it was my favorite. If I were to 
+convince my junior or friend to learn that programming language, how would I do so.
+If me and my team-mate have an argument/dissent about implementing a particular feature, 
+how would I resolve it. I answered this based on my experience working in team - projects.
+I mentioned I had used Firebase for my project. He said me that he is a fan of Firebase and 
+asked me to tell more about it. Then, he drew three RDBMS Tables in a paper and asked me if i 
+were to model this is in a NoSQL Database Schema, how would I do so. 
+Finally , he asked me if there was any questions to him from me. I asked him a few questions 
+about Appian’s products and work-style.
+Students shortlisted moved to the next round.
+Round 3 : Techno-cum-Behavioural Round (10 - 15 minutes)
+In this round, the interviwer asked me to explain about one challenging project, that I had 
+done. He inquired me about my current internship and how did I get selected for it.
+He also asked me to ask questions to him.
+Student shortlisted moved to the next round.
+Round 4 : HR Round (5 minutes)
+The interviewer asked about my native place, my CGPA. He asked me about my favorite 
+programming language and the books / youtube channels I referred and he noted them down.
+He asked me about the LLM’s that I use and the name of the interviewer who took the 
+technical interview for me.
+He also asked me to ask questions to him.
+The results were announced in the night and 12 of us from CEG and MIT got selected as 
+Software Engineer Interns at Appian.
+Key Takeaways : 
+Round 1 : 
+The questions were in the range easy - medium leetcode / gfg style problems.
+Write proper clean code and give meaningful variable names.
+Array based questions were most common.
+Try to give optimised approach.
+Resources :
+takeuforward - Best Coding Tutorials for Free
+Round 2 / 3 / 4: 
+Your Resume is the key to your success. Never include anything in the resume that you 
+don’t know.
+Be strong and clear with what is in your resume.
+Include at least one strong project that you did, and structure the interview around it.
+DSA questions can be expected, but since I had a strong project , the interviewer did not 
+ask me them. Anyway, be prepared with topics like array, strings, linked lists.
+Be confident with your answers.
+Research about the company a little, and ask questions to the interviewer that are 
+meaningful and impactful.
+Listen to the Pre-Placement Talk to know about the role you are applying for and what 
+they expect from you.
+CGPA is one of the shortlisting criteria for Appian , so try to maintain a CGPA of atleast 
+8.5.
+All the best!
+Kokhulash MS
+Gmail | LinkedIn | Phone

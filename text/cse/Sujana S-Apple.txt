@@ -1,0 +1,189 @@
+                               APPLE SDE INTERN EXPERIENCE 
+ 
+ABOUT THE COMPANY:  
+Apple Inc. is a global leader in technology and innovation, best known for designing, 
+manufacturing, and selling consumer electronics, computer software, and online services. 
+Apple is widely recognized for its premium hardware products, seamless software ecosystem, and 
+strong focus on user experience, privacy, and design. 
+JOB DESCRIPTION: 
+“We are looking for remarkable individuals with excellent communication abilities and 
+strong interpersonal skills, who can collaborate effectively across diverse business and 
+technical teams. The ideal candidate is a proactive, motivated individual with outstanding 
+interpersonal skills and a flexible, positive attitude toward problem-solving. “ 
+ROLE OFFERED: SDE Intern (Software Development Engineering Intern) 
+MONTHLY INTERNSHIP STIPEND: 105,000 INR 
+SELECTION PROCESS: 
+1. Online Assessment 
+2. Technical  Interview(R1) 
+3. Techno Managerial Interview(R2) 
+ONLINE ASSESSMENT: 
+ The Online Assessment was conducted in CoderPad with a duration of 1 hour and 30 
+minutes.  The session was split into two parts: 
+                             1)Multiple Choice Questions(10) 
+                             2)Coding Questions (2)  
+MCQs  were mainly on OOPS(SOLID Principle, abstract class property),OS(LRU page fault 
+identificaton),CN(Bandwidth delay product calc ,TCP Congestion control  ),DSA(time 
+complexity ,algorithms )  
+Coding Question 1: 
+Restaurant Queue Management: Calculate the total profit of a restaurant with limited seats, 
+where guests arrive and leave according to a log, pay only once, wait in a FIFO queue if seats 
+are full, and leave if they lose patience. 
+Eg: 
+n = 3 
+price = [6, 2, 9, 5, 8]    logs = [0, 1, 2, 3, 4, 1, 0, 3, 2, 4] 
+Explanation: 
+• 
+n = 3: 3 seats available. 
+• 
+price[i]: Guest 0 → ₹6, Guest 1logs sequence: 
+• 
+0 arrives → seat available → seated 
+• 
+1 arrives → seat available → seated 
+• 
+2 arrives → seat available → seated 
+• 
+3 arrives → all seats full → waits 
+• 
+4 arrives → all seats full → waits 
+• 
+1 leaves → seat free → 3 seated 
+• 
+0 leaves → seat free → 4 seated 
+• 
+3 leaves → seat free 
+• 
+2 leaves → seat free 
+• 
+4 leaves → seat free  
+• 
+Seated Guests: 0, 1, 2, 3, 4 → all paid once. 
+ 
+• 
+Profit: 
+6 + 2 + 9 + 5 + 8 = 30 
+ 
+Coding Question 2: 
+The task is to write a program that determines and returns the current state of a tennis game 
+based on the points scored by two players. 
+ Tennis Scoring Rules Recap: 
+• 
+A tennis game is scored in points: 
+o 1st point → 15 
+o 2nd point → 30 
+o 3rd point → 40 
+• 
+After both players reach at least 40 points, three special conditions apply: 
+1. 
+Deuce: 
+▪ 
+When both players have scored the same number of points (and at least 
+3 points each). 
+▪ 
+Example:   5–5. 
+2. 
+Advantage: 
+▪ 
+When both have at least 3 points, but one player has 1 point more than 
+the other. 
+▪ 
+Example: 6–5 (Advantage Player 1) or 5–6 (Advantage Player 2). 
+ 
+3. 
+Win: 
+▪ 
+A player wins if they have at least 4 points and at least 2 points more 
+than the opponent. 
+▪ 
+Example: 8–4 → Player 1 wins. 
+Example: 
+nameP1 = "Alice" 
+nameP2 = "Bob" 
+winner = {"Alice", "Bob", "Alice", "Alice"} 
+Alice scores: 3 points (15 → 30 → 40)  Bob scores: 1 point (15) 
+ Output: "40 - 15" 
+{If more points are played and it becomes 4–4: 
+ Output: "Deuce" 
+If it becomes 5–4: 
+ Output: "Advantage Alice" 
+If it becomes 6–4: 
+ Output: "Alice wins"} 
+➔Even though the tennis game rules look lengthy, the implementation logic is actually 
+very simple. The whole problem boils down to a few clear if–else conditions based on the 
+scores of the two players. 
+ 
+TECHNICAL INTERVIEW ROUND  1 (45 mins): 
+The technical interview was conducted virtually. Initially, the interviewer asked me to 
+introduce myself, followed by a few questions about my projects — particularly focusing on 
+the unique contributions I had made to them. After that, the session moved to a pair coding 
+round. The problem given was the "Restrictive Candy Crush" problem GFG. The interviewer 
+clearly explained the problem statement and asked me to first describe my approach with a 
+dry run of the test cases. 
+I explained the stack-based approach, where each number and its count are stored and 
+updated as we process the input. She then asked me to write the pseudocode and explain it 
+step-by-step, followed by an analysis of the time and space complexity. She also asked me 
+to suggest the possible test cases that could be designed for this problem to ensure 
+correctness and handle edge scenarios. This part of the interview focused more on how 
+interactively I was solving the problem and thinking through different situations. The 
+interviewer was satisfied with my approach and explanation. 
+Next, the discussion shifted to concepts related to Locks and Semaphores. I was asked to 
+explain read-write locks, two-phase locking (with an example), and provide an overview of 
+locks, semaphores, and concurrency. I explained each concept with suitable examples, and 
+the interviewer was satisfied. 
+ 
+TECHNO MANAGERIAL INTERVIEW (R2): 
+ 
+The  interview began with a self-introduction ,where I briefly talked about my background 
+and interests. This  was followed by a discussion of my projects, where I explained  few 
+projects and the reason for choosing the particular tech stack. The interviewer also asked for 
+my opinion on Python versus Java and why I prefer one over the other,and asked me to list 
+out the cases where Python can be preferred and then about which tech stacks I am familiar 
+with and my level of experience with each and about the Software Development Life Cycle 
+(SDLC) and its different phases in the design process. This was followed by, behavioral and 
+Situational Questions: 
+1.Conflict Management: “How would you manage a conflict between your teammates?” 
+2. Tech Stack Issue Midway: “You realize halfway through the deadline that the chosen tech stack 
+won’t work. What will you do?” 
+3. New Technology with Limited Time: “If you are given a new tech stack you’re not familiar with 
+and have only 2 days to complete the work while your teammates are busy, what will you do?” 
+4. Team Preference:“Do you prefer working alone, in a team of two, or in a larger team?” 
+ 
+The interviewer then returned to discussing my project work and asked how long it took me 
+to adapt to a new skill, how I managed the learning process, and how I prioritized my tasks 
+during the project. I utilized the last 10 minutes of the interview to ask the interviewer about 
+Apple’s work culture and his journey of getting into Apple, which helped me gain valuable 
+insights and left a positive impression. The interview lasted around 45 minutes. 
+ 
+[The online assessment was conducted on 4th September, and the results were announced 
+on the same day. My first interview round was held on 23rd September, followed by the 
+second round on 24th September. This gave me around 20 days to prepare effectively.] 
+ 
+ 
+ 
+ 
+KEY TAKEAWAYS: 
+1.  Give a strong and impressive self-introduction – it’s the most important part of the 
+interview as it reflects who you are and sets the tone for the rest of the discussion. 
+2. Know your project work thoroughly – interviewers are highly experienced, so you 
+must be confident and well-prepared to discuss your contributions, challenges faced, 
+and solutions implemented. 
+3. Practice coding consistently on platforms like LeetCode and GFG, and focus deeply 
+on Operating Systems, DBMS, OOPs, Computer Networks, and System Design – not 
+just theoretically but also with practical applications, as interviewers often expect 
+real-world examples. 
+ Pitch yourself effectively – most of the questions will be based on what you say, so 
+be thoughtful and strategic while presenting your skills and experiences. 
+4. Research the company thoroughly before the interview – understanding its culture, 
+values, products, and work environment helps you align your answers better. 
+ 
+                                                               ALL THE BEST!!! 
+Keep practicing consistently — remember, every interview is a learning process that helps 
+you grow and improve. 
+ 
+ 
+Sujana S, 
+CEG CSE’26 
+E-mail: sujana2935@gmail.com 
+LinkedIn: sujanas29 
+Mobile: +91 8610102019  
+ 

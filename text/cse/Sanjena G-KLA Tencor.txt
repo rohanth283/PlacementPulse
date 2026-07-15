@@ -1,0 +1,118 @@
+INTERNSHIP INTERVIEW EXPERIENCE AT KLA TENCOR 
+ 
+About the Company: 
+KLA Corporation (NASDAQ: KLAC) is a global leader in process control and yield 
+management solutions, specializing in advanced metrology and inspection 
+technologies for the semiconductor, data storage, LED, and nanoelectronics 
+industries. Headquartered in Milpitas, California, KLA operates globally with 
+customer and service centers worldwide. Its technologies enable defect 
+detection smaller than a wavelength of visible light, aiding in the production of 
+high-performance chips. 
+Internship Role: 
+• Position: Software Engineering Intern 
+• Duration: 8-10 weeks 
+• Location: Chennai, India 
+• Eligibility Criteria: 
+o Only female candidates 
+o CGPA: 7.5 or above, with no standing arrears 
+• Stipend: Rs 90,000 for undergraduate students. 
+Interview Process: 
+The interview process for the Software Engineering Internship at KLA consisted 
+of four rounds in total. It began with an online test and was followed by three 
+interview rounds conducted at their premises. 
+Round 1: Online Test 
+This round was an online coding test with two questions, and the time limit 
+was 1 hour. The questions were designed to test algorithmic thinking and 
+problem-solving efficiency. 
+Question 1: 
+The problem involved distributing API requests across N servers (labelled from 
+1 to N), ensuring that the workload remained balanced. Each request added to 
+the server's workload, and the goal was to determine which server would 
+handle each request. If two servers had the same minimum workload, the one 
+with the smaller label should handle the request. 
+Hint: My approach used a min-heap to efficiently track the least-loaded server, 
+ensuring optimal load distribution for each request. 
+Question 2: 
+The second problem required minimizing the time to transfer a subsequence of 
+size M from an array. The transfer time was the product of the first and last 
+elements of the subsequence, and the task was to find the subsequence that 
+minimized this product. 
+Hint: My approach was to sort the array, iterate over subsequences, calculate 
+the product of the first and last elements of each subsequence, and track the 
+minimum transfer time across all valid subsequences. 
+To excel in the online test, practicing regularly on coding platforms like 
+LeetCode and HackerRank is essential. Consistency helps in understanding 
+problems quickly and improves efficiency. Solving problems on these platforms 
+also enhances your ability to develop optimal solutions under time constraints. 
+A week after the test, I was informed that 8 candidates, including myself, had 
+been shortlisted for the next rounds. 
+Round 2: Technical Interview 1 (45 minutes) 
+This technical round took place in person and required solving three problem 
+statements on paper. The problems were primarily focused on basic data 
+structures and algorithms (DSA), covering topics such as arrays, strings, and 
+queues. 
+• Start with a brute-force approach, and explain your thought process to 
+the interviewer. The key is to keep the interviewer engaged by talking 
+through your ideas and explaining the reasoning behind each line of 
+code. 
+• Before diving into the solution, it's important to explain the 
+understanding of the problem to the interviewer, ensuring it's 
+interpreted correctly. Actively communicating the approach, asking 
+clarifying questions when needed, and explaining the reasoning at each 
+step demonstrates critical thinking and collaborative skills. Avoid staying 
+silent. 
+• It's crucial to solve all three questions correctly to increase your chances 
+of advancing to the next round. Most successful candidates completed 
+all the problems, so ensure you attempt every question and explain your 
+approach clearly. 
+Time management is crucial - allocate enough time to attempt all three 
+questions, and explain your changes as you go. 
+Out of 16 people who were interviewed, 10 of us were selected for the next 
+round. I was fortunate to be one of them. 
+Round 3: Technical Interview 2 (45 minutes) 
+The second technical round involved more advanced DSA topics such as trees 
+and graphs. This round had two problem statements, and I was required to 
+solve them within the allotted time. 
+The interviewer was supportive and helped guide me through the problem, but 
+it was important to explain each step clearly and concisely. 
+In addition to the technical aspect, communication was key in this round. They 
+were also assessing my ability to explain solutions clearly and think logically 
+under pressure. It was important to stay calm and manage time well to attempt 
+both problems. 
+Round 4: HR Interview (20 minutes) 
+Out of the 8 candidates remaining, 6 of us advanced to the final HR round. This 
+round was more relaxed and conversational, focusing on personality, 
+communication skills, and cultural fit. 
+• This was the first time I was asked to introduce myself during the entire 
+interview process. I delivered a well-prepared and confident 
+introduction, aiming to leave a strong first impression. I explained my 
+contributions to the projects on my resume, emphasizing my teamwork 
+skills, and ensured I had complete knowledge of it since the interview 
+was based on it. 
+• I had researched KLA’s history, recent achievements, and values. I 
+explained how the company’s vision aligned with my personal career 
+goals, which helped me stand out.  
+• This part of the interview allowed me to showcase my interests outside 
+of academics, presenting myself as a well-rounded individual. 
+• When asked if I had any questions, I made sure to ask thoughtful ones 
+that demonstrated my enthusiasm for the role and the company. It’s 
+important not to say "no" to this question, as it provides an opportunity 
+to leave a strong final impression. 
+Throughout the HR round, I maintained a positive attitude and projected 
+enthusiasm for the opportunity at KLA. 
+Final Thoughts: 
+• Allocating time wisely during technical tests was crucial. 
+• Strong knowledge of Data Structures and Algorithms is key. 
+• Being on time is essential for professionalism. 
+• Ensure your resume reflects true experiences. 
+ 
+Hope this helps!  
+ALL THE BEST !! 
+Remember, "Consistency turns ordinary efforts into extraordinary results." 
+ 
+Feel free to reach out: 
+Sanjena Gajendran 
+Mobile: +91 9003168373 
+Email: ga.sanjena01@gmail.com 
+ 
+You’ve got this - Time to shine and slay the game!! 

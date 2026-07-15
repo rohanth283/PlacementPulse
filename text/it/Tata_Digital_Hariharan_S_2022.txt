@@ -1,0 +1,79 @@
+                                                                     Interview Experience
+
+Name: Hariharan S
+
+Roll No: 2018115033
+
+Phone no: 9384977686
+
+Email: hari61000@gmail.com
+
+Company name: Tata Digital Limited:
+
+Round 1: online Test
+
+       3 Technical MCQ
+
+       3 Coding questions
+
+Round 2: Technical Interview
+
+1.  Print Characters and their frequencies in a string (https://www.geeksforgeeks.org/print-
+
+characters-frequencies-order-occurrence/).
+
+2.  Tell me about your projects (Note: Explain your well know project by section wise project
+
+description, problem statement, your solution, technical implementation, output. Questions will
+be asked by interviewer based on our answers).
+
+Is Multiple inheritance is supported in java.
+
+3.  What is abstraction
+4.  Difference between Abstract class and Interface in java.
+5.  How do you implement Abstract class and interface in java.
+6.
+7.  How do you implement Multiple inheritance in java.
+8.  How static keyword works and other core java related questions.
+9.  Different keys in DBMS.
+10. Difference between DDL, DML, TCL and DCL.
+11. Basic SQL queries.
+
+Round3: Managerial Round
+
+1.Difference between Agile Model and Waterfall model. (Key difference is Agile model – we can start
+working on project even if we have single requirement also whereas Waterfall model – we will start
+working on project only we get a complete requirement).
+
+2.Using four four’s you should get value 20 (you can do any operation +, -, *, /. Constrain: you should
+use all fours and it should be used only one time). Answer is ((4/4) + 4) *4 = 20
+
+3.Why IT?
+
+4.What motivates you to be in IT Industry.
+
+5.Situation based question – you are almost done with your client project, now client comes up with
+small new requirement, for you there are two options 1) you can add the requirement easily but it will
+lead to performance degradation 2) To add requirement and also you want to change the whole
+
+architecture of application to increase performance and you have only two weeks of timeframe. (Select
+option wisely and give your reason. My answer: I have chosen option 2. Reason I told that for any
+reason we should not compromise with performance as we are Engineers and then if we are giving a
+performance degraded product client will not reach out to us for next time so that I will choose 2nd
+option).
+
+6.Is documentation mandatory for project.
+
+7.Give an example of real time problem you have solved using your problem-solving skills.
+
+8.What is your Favorite application in your mobile? And two unavailable features to that application.
+
+(NOTE: for interviews, be ready with OOPS concepts, DBMS concepts, your comfortable programming
+language core concepts for me its java, OS concepts, Top 50 SQL queries, CN concepts (rarely asked) and
+be familiar with DSA Problems)
+
+Topics for Coding: Arrays, Strings, LinkedList, Tree, Graph, Stack and queue, Sorting and Searching
+Algorithms, Dynamic Programming, Backtracking, Greedy, Heap.
+
+                                                                       All the best :)
+

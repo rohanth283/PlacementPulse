@@ -1,0 +1,173 @@
+APPLE – INTERVIEW EXPERIENCE 
+ 
+About the Company: 
+An internship at Apple has always felt like a dream come true for many tech enthusiasts, and 
+I was no exception. Apple, the company that’s always been a step ahead in tech, is based in 
+Cupertino, California. It's been shaping the future for as long as I can remember. I had the 
+privilege of interning at their Hyderabad campus, which is a hub of innovation in India. The 
+work here focuses on areas like maps development, machine learning, and analytics, all 
+while fostering a collaborative environment. What stood out most to me was how much 
+emphasis is placed on solving real-world problems with real impact. 
+This internship was not just a professional milestone but also an opportunity for immense 
+personal growth. Working alongside industry experts and contributing to meaningful projects 
+made it a truly rewarding journey. 
+ 
+Internship Details: 
+• 
+Timeline: January 2025 – June 2025. 
+• 
+Role: Software Dev Eng. in Test Intern(SDET Intern). 
+• 
+Monthly Stipend: ₹105,000 per month. 
+• 
+Monthly Housing Allowance: ₹35,100 per month. 
+• 
+Relocation Services: One time Economy-class round trip and relocation assistance for 6 
+months. 
+Interview Process 
+The selection process comprised the following stages: 
+1. Online Test (Eliminatory) 
+2. Resume Shortlisting 
+3. Interview Round 1: Technical & Eliminatory 
+4. Interview Round 2: Techno-Managerial 
+Online Test 
+The first stage of the Apple SDET internship process was an online assessment. This round included: 
+• 
+Coding Questions: Two problems related to arrays and strings, rated as easy to medium 
+difficulty. 
+• 
+Technical MCQs: A set of 6-7 multiple-choice and multi-select questions covering software 
+engineering and testing concepts. 
+Honestly, my coursework in Software Engineering turned out to be a lifesaver here. It helped me 
+approach the MCQs confidently, and overall, this round felt pretty straightforward. 
+Interview Round 1: Technical 
+This round was eliminatory and was conducted via Webex Video and CoderPad. It involved live 
+coding, where you code and compile while explaining your approach. 
+ 
+Coding Questions: 
+1. Add Two Numbers Represented by Two Arrays 
+o 
+Problem Overview: You are given two arrays representing two numbers. Each array’s 
+elements correspond to the digits of the number. The task is to compute their sum and 
+return the result as another array. 
+o 
+Approach: 
+▪ 
+Traverse both arrays from the last digit to the first, maintaining a carry for 
+sums exceeding 9. 
+▪ 
+Append result digits to a new array in reverse order, then reverse it to get the 
+final answer. 
+2. Linked List Problem: 
+o 
+The interviewer posed subquestions of the above question to evaluate edge case 
+handling and optimization of code. 
+3. Resume-Based Discussion: 
+o 
+The second half of the interview revolved around my research internship project 
+(DeepFake Related). The interviewer asked technical questions that dug deep into the 
+project’s workings. Since I had prepared thoroughly and knew the project inside out, I 
+felt confident handling these questions. 
+Key Takeaways: 
+Apple interviewers are subject-matter experts who tailor their questions to your resume. This 
+ensures discussions are meaningful and relevant, which I found incredibly refreshing. 
+ 
+Interview Round 2: Techno-Managerial 
+Round 2 was all about seeing if I clicked with Apple’s culture—how well I work with others, handle 
+challenges, and adapt to new situations. 
+ 
+Nature of Questions: 
+• 
+Situational challenges like: "How would you handle a disagreement with a teammate?" or 
+"Can you share a moment when you were inspired by someone?" etc. 
+• 
+The questions were dynamic, and several were fired back-to-back, which kept the 
+conversation lively. 
+ 
+ 
+ 
+ 
+Key Takeaways: 
+1. Be Honest: Just be yourself—honesty goes a long way. If you’re genuine, people can tell, and 
+that makes all the difference. 
+2. Show Confidence: Share your thoughts assertively, backed by clear examples from your 
+work or projects. For instance, when discussing teamwork, I linked it to a group project I had 
+worked on, showcasing how collaboration and adaptability helped us achieve success. 
+3. Be Relatable: Even for general questions, I found ways to connect them to my professional 
+or personal journey. For example, as a GenAI enthusiast, I shared how attending conferences 
+in Chennai shaped my learning, exposing me to industry trends, Industry leaders and life 
+lessons. The interviewers appreciated these stories, as they highlighted both technical and 
+personal growth. 
+The interviewers made the whole experience feel chill and engaging. By the end, I felt like I had made 
+some great connections, which speaks volumes about Apple’s commitment to ensuring a positive and 
+enriching candidate experience. 
+ 
+Key Takeaways for Juniors 
+1. Engage with Alumni: Proactively connect with seniors from various companies to gain 
+diverse and valuable insights. Since Apple visited our campus for the first time, we were the 
+fresh batch to experience their recruitment process, making external perspectives even more 
+crucial for preparation. 
+2. Master DSA: Trust me, a solid grasp of data structures and algorithms is a game-changer. 
+Don’t skip the basics—they come up everywhere. 
+3. Know Your Projects: Be well-versed in the technical details of your projects, as interviewers 
+will test your depth of understanding. Deploying projects, when possible, adds practical 
+credibility. 
+4. Highlight Relevant Skills: Include only those skills on your resume that you are confident in 
+discussing or demonstrating during interviews. 
+5. Prepare Thoughtful Questions: At the end of interviews, ask insightful questions about 
+Apple's culture, the team you might work with, or the values they uphold. It shows genuine 
+interest and curiosity. 
+6. Showcase Your Thinking: While solving problems during interviews, articulate your 
+approach clearly. Even a brute force method is a good starting point before optimizing your 
+solution. 
+7. Understand Apple’s Vision: Research Apple’s core values and work culture. Be ready to 
+discuss how your skills and experiences align with their mission. 
+8. Maintain Academic Excellence: While practical skills are critical, a strong CGPA reflects 
+your commitment and discipline, often acting as an additional advantage. 
+9. Craft a Crisp Resume: A clean, focused resume with impactful projects and relevant skills 
+can make a strong first impression. Avoid clutter or exaggeration. 
+10. Iterative Problem Solving: Instead of feeling pressured to provide the most efficient solution 
+upfront, focus on starting with a basic approach and iteratively improving it during 
+discussions. 
+Key Resources: 
+1. DSA (Data Structures & Algorithms): 
+o 
+Striver's SDE Sheet 
+o 
+YouTube Channels: 
+▪ 
+Striver (takeUforward) 
+▪ 
+Love Babbar (CodeHelp) 
+▪ 
+Abdul Bari 
+o 
+Practice Platforms: 
+▪ 
+LeetCode 
+▪ 
+GeeksforGeeks 
+2. Core Subjects (OS, DBMS, OOPS, CN, SE): 
+o 
+Gate Smashers 
+o 
+KnowledgeGate 
+o 
+Kunal Kushwaha 
+o 
+Apna College 
+3. AI/ML(for projects in this domain) 
+o 
+Krish Naik 
+o 
+freeCodeCamp 
+Wishing You the Best of Luck! 
+I hope my experience can give you a heads-up as you prepare for your own journey—good luck, and 
+don’t forget to enjoy the ride! 
+Feel free to connect with me on LinkedIn or drop me an email if you have any questions or need 
+guidance. I’d be happy to help! 
+LinkedIn: https://www.linkedin.com/in/j-nithyasree 
+Email: jnithyasree04@gmail.com 
+Wishing you all the best! I can’t wait to see many of you get your dream internships or jobs. You've 
+got this!  
+ 

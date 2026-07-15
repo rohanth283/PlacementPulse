@@ -1,0 +1,44 @@
+ 
+ 
+ 
+Citicorp Service India Private Limited 
+Citigroup Inc. is a diversified financial services holding company that provides a broad 
+range of financial services to consumer and corporate customers. The company services 
+include investment banking, retail brokerage, corporate banking, and cash management 
+products and services. Citigroup serves customers globally. 
+Round 1: Aptitude, logical, 2 coding questions 
+Coding questions asked - finding GCD of array 
+ 
+Round 2: Technical interview (Panel of two) 
+Questions asked: 
+Introduce yourself 
+Asked about the projects I did. (Asked some questions from my project) 
+Real time examples of Polymorphism 
+Asked a puzzle to solve – 15 rupee given, a chocolate per rupee and he/she can get a 
+chocolate by giving 3 wrappers- how much chocolate he/she can get?     ----  asked to write 
+pseudo code for that 
+Why Citi? 
+Plans for higher education? 
+Can you learn new technologies since it gonna be totally different from what you learnt? 
+Which area I would like to work? 
+ 
+Round 3: HR 
+Introduce about yourself. 
+Asked about the project. 
+How would you describe yourself in two words? 
+What others think of you? 
+How well you work in a team?  
+ 
+Topics to be focussed: 
+ Data structures 
+ Database management systems 
+ Operating system 
+ 
+ 
+Hope this helps. 
+Thank you and All the Best. 
+ 
+Subashini S 
+subashinivs99@gmail.com 
+ 
+ 

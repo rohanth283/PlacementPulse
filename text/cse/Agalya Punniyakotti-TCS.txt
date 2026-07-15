@@ -1,0 +1,58 @@
+TCS NINJA 
+ 
+Tata Consultancy Services is an IT services, consulting and business solutions 
+organization that delivers real results to global businesses, ensuring a level of 
+certainty no other firm can match. TCS offers a consulting-led, integrated portfolio 
+of IT and IT-enabled infrastructure, engineering and assurance services.  
+ 
+After the Online National Qualifier Test, students who performed well in the 
+NQT were selected for the TCS Digital profile and Ninja profile. 
+ 
+Round 1: Numerical, Verbal and Reasoning ability questions and Two coding 
+Questions (NQT)  
+The time limit given for solving the coding question was 1 hour. I was shortlisted 
+for TCS Ninja Interview process as I couldn’t solve the coding questions for some 
+test cases.  
+ 
+Round 2: Video Interview conducted via MS teams 
+Technical Round: 
+1. Tell me about yourself? 
+2. Difference between DELETE, DROP and TRUNCATE. 
+3. ACID properties. 
+4. About Disaster recovery in Database and why is it used? 
+5. Overloading and Overriding in C++. 
+6. Inheritance and its different types in C++. 
+7. Commit and Rollback in database. 
+8. Difference between Waterfall model and Iterative model. 
+9. What is an Agile model? 
+10. Different Operating systems you know and can work. 
+11. What happens when system boots? 
+12. Difference between RAM and ROM. 
+13. Questions on GB, MB and TB.  
+E.g.- How many MB is 1GB? etc., 
+Questions were asked mostly from the subjects that was mentioned in the resume. 
+Then the interviewer asked about my project and working of it and the languages 
+used for implementation. 
+E.g.- Different functionalities of your project etc., 
+Another interviewer from the same panel asked me a situational question. 
+14. How would you explain a 6-year-old child about the working (different 
+functionalities) of your project (final end product)?  
+HR round: 
+The HR round was very casual and questions were like  
+15. Why TCS? 
+16. About the relocation(yes/no)? 
+The interview took place for about 45 minutes. Most of the questions were easy and 
+overall, it was a good experience. 
+Topics to be focused: 
+• C, C++, Java, Python 
+• Database management system  
+• Operating System  
+ 
+Mainly focus on the topics and the projects mentioned in your resume. Have 
+a good knowledge on the basics. Learn in depth topics for which you have mentioned 
+as your subjects of interest and most of the questions were based on those. 
+Hope this helps.  
+Thank you and All the best. 
+ 
+ Agalya Punniyakotti 
+agalya1160@gmail.com 

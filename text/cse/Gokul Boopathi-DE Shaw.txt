@@ -1,0 +1,138 @@
+DE Shaw
+The hiring process consisted of four rounds
+1.
+Online test
+2.
+Technical Interview - I (Online)
+3.
+Technical Interview - II (Physical)
+4.
+HR Interview
+Online Test :
+Platform : HackerRank
+Time : 60 mins
+The test consisted of 2 questions :
+i) A slight modification of checking whether two strings are anagrams of each other
+https://practice.geeksforgeeks.org/problems/anagram-1587115620/1
+ii) The question goes like, there are n chemicals numbered from 1 to n. We’ll be given a
+vector of pairs indicating the chemicals in pairs. Let there be 10 chemicals and a pair be
+{3,6}, this means 3 doesn’t mix with any chemical greater than or equal to 6 and similarly 6
+doesn’t mix with any chemical greater than or equal to 3. We have to identify the total
+number of possible valid mixtures. This question involves basic permutations and
+combinations while avoiding the invalid mixtures.
+PS : I was able to pass ¾ of the test cases.
+From the Online Assessment, 20 people were shortlisted.
+Technical Interview - I (Online)
+Platform : Code Pair
+Time : 60 mins
+I was asked three questions - both coding and theory questions
+i) A slight modification of activity selection problem
+https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1
+ii) I was asked to just explain how page scheduling works and what data structures are used
+in implementing different scheduling algorithms.
+iii) A standard question to sort an array composed of 0,1 and 2 was asked
+https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
+After I gave an approach involving three pointers, I was asked what I would do if I didn't
+know that the numbers were 0,1 and 2 in prior. (i.e) They can be any three numbers,say
+11,54,45 etc. I was able to give an approach and they were happy with that.
+7 people were shortlisted for the next round.
+Technical Interview - II (Physical)
+i) I was asked the approach of standard DP problem - Word break - I and II
+https://practice.geeksforgeeks.org/problems/word-break1352/1
+https://practice.geeksforgeeks.org/problems/word-break-part-23249/1
+ii) I was asked basic questions like what is unit and integration testing. When they went
+deeply into testing, I admitted that I don’t have much knowledge on the domain. Then they
+gave a scenario which goes like,
+People at a company work in 3 domains - a,b,c and each domain has exactly 50
+commits everyday, say (a1 - a50), (b1-b50), (c1-c50). We have a testing machine which
+takes the input of form (i,j,k) where i denotes the commit number of a, j of b and k of c.The
+machine runs for an hour to tell whether there is a bug till this number of commits from all
+three domains - (Output is only true or false). At max, only one bug occurs everyday. What is
+the minimum time taken for you to use the machine and exactly alert the developer of a
+particular domain to look at that bug at a particular commit.
+Soln : This is actually a simpler problem since the max possible bug is only one. You
+can start the input like (25,25,25) and if the machine reuters true, the bug is possibly on the
+25th commit of any of the domains or on a commit below. Else you can search above. At the
+end we’ll have a set of commits where there is a bug. Say (11,11,11) happens to have the
+bug. Now we change the commit number of each domain and finally detect the bugged
+commit along with the domain.
+iii) I was asked about writing objects to file in Java. I was also asked to generally talk about
+software updates. Like, why is an update necessary? What goes behind doing an update?
+How do we rollback to a previous update? How to have all previous working versions
+stored? - stuff like that. I was also asked to describe my projects and they picked one and I
+explained it in detail.
+HR Round :
+Everyone who were selected for Technical round - II were asked to participate in the HR
+Round. The HR gave insights into the company and the type of work we’ll be doing. And
+basic HR questions were asked like -
+I.
+Tell me about yourself, followed by elaborating all the adjectives that I used to
+describe myself.
+II.
+Any noteworthy achievements in college?
+III.
+What are the factors you prioritise when you take up a job?
+IV.
+Where do you see yourself in 5 years?
+V.
+Small time goals and long time goals?
+VI.
+If you’re offered with a SD or QA role in the company what would you take? (We
+were interviewed for a QA Engineer)
+VII.
+Are you feasible in working in an environment with diverse communities and
+practices?
+The round was to basically assess one’s behaviour, so try to answer accordingly. It is
+advised to look at the HR questions in interviewbit.
+https://www.interviewbit.com/hr-interview-questions/
+2 of us got selected at the end.
+Youtube Channels:
+●
+Jenny’s Lectures
+●
+TechDose
+●
+TakeUForward
+●
+Sudhakar Atchala (OS)
+●
+GateSmashers
+Platforms :
+●
+GFG
+●
+Leetcode
+●
+Coding ninjas
+●
+HackerRank for contest
+These were my preferences, try all the available platforms and sources to learn and stick
+with what works for you.
+General Tips :
+Not everyone is a born coder. Coding comes by practice and muscle memory plays a major
+role. Be patient, consistent, disciplined and you can see yourself getting better. Don’t lose
+hope. With constant practice you can definitely crack the coding rounds.
+Try to take extra 2-5 mins after solving each problem to recall the approach, figuring out time
+and space complexities.
+It is completely normal to forget the solutions, never guilt trip about that. Visit the problems
+again.
+Make sure you solve all the standard problems :
+GFG SDE Sheet:
+https://practice.geeksforgeeks.org/explore?page=1&curated[]=1&sortBy=submissions&curat
+ed_names[]=SDE%20Sheet
+Love Babbar Sheet :
+https://practice.geeksforgeeks.org/explore?page=1&curated[]=7&sortBy=submissions&curat
+ed_names[]=Love%20Babbar%20Sheet
+Before attending a company make sure you have solved all of the previous year questions
+available.
+In interviews, play to your strengths. If you’re good at the domain you’re questioned about try
+to answer the best way possible giving something extra for every answer. This may result in
+the follow up questions also being desirable for you.
+If you have no idea or experience in a domain say System design, it is good to accept that
+you have no knowledge on this. This helps the interviewer to evaluate whether you’re good
+at what you know.
+Keep the interview process interactive and ask doubts if you don’t understand the questions
+clearly. Make sure you’re calm and composed throughout the interview process.
+All the Best.
+This is Gokul B from CEG CSE of batch 2023.
+If you have any queries, reach me @ www.linkedin.com/in/gokul-boopathi

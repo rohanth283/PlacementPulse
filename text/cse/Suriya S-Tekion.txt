@@ -1,0 +1,116 @@
+Tekion FTE Interview Experience
+Intro:
+-> Tekion is a software development company that develops business
+applications for automobile industries and dealers.
+-> For our batch(2019 - 2023) Placements started by 2nd - 3rd week of August.
+-> Tekion came as the 15th company for our Placements and I had one Online
+Round and 3 technical rounds and one HM discussion and finally HR round.
+Online Round: - hackerearth platform
+We had 5 coding questions.
+1) Auto Suggest - (Edit Distance ,Levenshtein Distance) - 50 marks
+2) URL checking - 20 marks
+3) How many patterns - 20 marks
+You are given a tree with N nodes. Only one of the nodes In the
+tree is painted black and the rest are painted white. You can paint any white node as
+black if it has an edge connecting a black-painted node.
+Determine the count of distinct painted trees we can obtain by painting some of
+the white nodes as black following the condition. Two trees are considered painted
+differently if there is at least one node painted black in one tree and white in the other.
+4) Triplets Count with modification - 50 marks
+5) A Remainder Problem - 100 marks
+You are given a large number N in the form of a string. An integer K
+and Q queries are also given.
+For each query, you are required to determine whether such
+subsequences of N exist and following the provided condition:
+When the number formed by concatenating the digits of N
+without changing relative ordering is divided by K then it leaves the remainder X(each
+number in the queries array).
+If you can choose a subsequence then the answer for that
+query(X) is “Yes” .
+Else the answer is “No” for that query(X).
+Example:
+Input : N = 25 ; K = 5 ; Q = 2 ; queries = {0,1}
+Output : [“yes”, “no”]
+There is a subsequence “5” when divided by 5 gives remainder as 0(X).
+So, “Yes” for the 1st query.
+There is no any subsequence when divided by 5 gives remainder as 2(X).
+So, “No” for the 2nd query.
+For this bruteforce solution i.e generating all subsequences and checking
+won’t work since the maximum length of the given string ‘N’ is very very large.
+Technical Interview Round - 1:  Face-to-Face @CUIC
+35 students were shortlisted for the interview Round - 1.
+-> This round was more like a discussion.
+-> Firstly, the interviewer asked me to write a code for merge sort.
+-> Then he asked me to reverse the given number without converting it to a string
+or an array. ex) n = 34561   rev(n) = 16543.
+-> Then he asked a problem in array, the problem statement goes like this,
+Given an array of even length. We can add any number of pairs (n,n) at
+any place in the array(but two n’s should be added continuously) such that the
+array must be splitted into two equal parts(0 to n/2 and n/2 to n). We must find the
+minimum number of such pairs, if it is not possible to do so then, return -1.
+eg) arr = [1, 2, 2, 1]
+Here we can add (1,1) at the 3rd position so that arr we become like,
+[1, 2, 1, 1, 2, 1] => now first part (1 2 1)and second part(1 2 1) of the array
+is equal, so our answer is 2
+eg) arr = [3, 4, 2, 1] here it is not possible, so answer = -1.
+-> Then he asked me about the balanced parenthesis problem.
+-> Then he asked me about indexing in DBMS and asked how it is implemented?
+I explained about indexing and B+ trees.
+-> Then he asked what I did in my internship?
+Technical Interview Round - 2:
+20 students were shortlisted for the interview Round - 2.
+-> This round was fully based on my projects.
+-> I had put one DBMS and one ML and one Intern project in my resume.
+-> I explained those 3 projects.
+-> Then the interviewer asked what could I add more in the those projects and
+how                             could it be implemented.
+-> Then he asked many questions from backend and Database since he is from
+the backend team.
+-> How to overcome sql injection attacks?
+-> How is the user authenticated and where are the authenticated details
+stored?
+-> How I stored the passwords in my Databases.
+-> Then many follow up questions in backend and Databases.
+Technical Interview Round - 3:(only few people had this round)
+-> This round was very easy compared to the previous 2 rounds.
+-> This round was a DSA + technical subjects discussion round.
+-> He asked me to reverse a linked list using recursion and write pseudo code.
+-> He asked what DFS and BFS were and asked me to perform inorder, preorder
+and postorder traversals.
+-> He asked me about the Round-Robin Scheduling algorithm.
+-> He asked about different keys  present in the Database tables.
+-> Then He asked whether I had some questions for him.
+HM Discussion:
+->This round was a discussion about what we will be doing in tekion.
+-> Two people jointly attended this discussion.
+-> If we had any doubts or questions about our role, we could ask them
+to the interviewer( he was the head of the backend team).
+-> This round was short and went for around 15 minutes.
+HR Round:
+-> The interviewer asked me to introduce myself.
+-> Then she asked where my native place was located and then she
+asked about my family background.
+-> Then she asked about my strengths and weaknesses and why I call
+them my strengths.
+-> Then there was a one behaviour question like “You have an offer from 2
+companies, one is from tekion and another from another company, Apart from money
+what factors will you consider?”
+-> Then she asked whether I had any questions for her.
+Learnings and Takeaways:
+-> Keep your expectations to zero.
+-> Stick to your strengths and reduce your weaknesses.
+-> Minimise your negatives and mistakes done in your previous
+interviews and online rounds and try to solve those questions for which you did not find
+the solution.
+-> Have good knowledge in DSA, DBMS, OS,OOPS.
+-> Before Any interview, revise all sorting algorithms(imp : merge sort ),
+OOPS concepts, SQL queries, DBMS interview questions, OS interview questions.
+-> Ask out for help from your seniors and friends when you get stuck( not
+during the test :) ).
+-> Interviewer will also help you when you get stuck.
+-> Prepare answers for some standard HR questions and prepare some
+questions to ask them to the interviewer.
+Finally 12 people were placed in tekion including myself.
+All the Very best!
+Vijay Suriya S
+Feel free to reach out to me at: linkedin.com/in/svijaysuriya/

@@ -1,0 +1,142 @@
+VISA INTERNSHIP INTERVIEW EXPERIENCE 
+BATCH: 2022 – 2026  
+PROCESS FOR: Summer Internship  
+NAME OF THE COMPANY: VISA Inc., Bangalore 
+ABOUT THE COMPANY: 
+Visa Inc. is a global leader in payments technology, dedicated to enabling quick, 
+secure, and reliable digital transactions worldwide. While many often mistake 
+Visa for a bank or credit card issuer, it is in fact a financial services company 
+that powers and facilitates digital payments across the globe. 
+NUMBER OF ROUNDS: 2 
+ 1. Online Coding Round  
+ 2. Interview (Technical + HR) 
+ 
+ONLINE CODING ROUND: 
+ 
+The online coding round consisted of 4 questions with a duration of 70 
+minutes. The questions were mainly based on arrays, strings, and trees and the 
+test was conducted on the CodeSignal platform. 
+ 
+I was able to fully solve 3 questions, and for the remaining one, I managed to 
+pass about half of the test cases. A total of 15 students were shortlisted for the 
+next round. 
+ 
+INTERVIEW (TECHNICAL+HR ): 
+ 
+The interview lasted for about 45 minutes and was conducted on Microsoft 
+Teams. The interview started with my introduction. The interviewer then asked 
+me how I prepared for the interview and what concepts I had revised. I 
+mentioned that I focused on DBMS, OS, OOPS, and DSA . Then he started 
+asking questions from them. 
+ 
+Questions from DBMS: 
+ 
+ What concepts have you learned in DBMS? 
+ Explain 3NF with an example. 
+ Explain 3.5NF with an example. 
+ Explain transitive functional dependency with an example. 
+ 
+Questions from OS: 
+ 
+ What concepts have you learned in OS? 
+ Explain Round Robin (RR) process scheduling. 
+ How is a priority queue used in Round Robin scheduling? 
+ 
+The interviewer  then moved to the code-pair. A  link will be given for code pair, 
+where you’d be asked to solve a question along with interviewer and this 
+would mostly be in HackerRank. I had to solve two coding problems live: 
+ 
+1. Reverse a string. 
+2. Given an array if the sum of any two numbers exists in the array, those 
+two numbers should form a subarray, and the remaining elements 
+should form another subarray, finally return the array of subarrays. 
+ 
+SAMPLE INPUT: [ 3,5,8,11 ] 
+SAMPLE OUTPUT: [[3,5],[8,11]] 
+ 
+Following that, the interviewer asked me to analyze the time complexity of my 
+solutions and explain the approach I used to determine it. The interview then 
+transitioned to HR-based questions. 
+ 
+HR questions: 
+ 
+ Why should we hire you? 
+ Apart from academics, what activities do you participate in at college? 
+ What will you do if your day at Visa doesn’t go well? 
+ Why did you choose Computer Science as your stream ? 
+ What are your hobbies? 
+ 
+ 
+ 
+ 
+Then the interviewer asked whether I had any queries. I asked  the following  
+ 
+ Since Visa is a payment technology company, what tech stack do you use 
+to ensure payment security? 
+ What does a day in the life of a Visa intern look like? 
+ What technologies should I learn before joining as an intern? 
+ 
+The interviewer was very comfortable and supportive throughout the 
+process. It was a balanced interview with a mix of technical (DBMS, OS, 
+DSA) and HR questions, making it a great learning experience. 
+ 
+The results were announced the following day, and out of 15 candidates, 
+5 were selected. I was grateful to be shortlisted as one of the five 
+selected candidates. 
+ 
+KEY TAKEAWAYS: 
+ 
+1. Know your resume thoroughly. Include only those projects you are 
+confident about and can clearly explain if asked. 
+2. Ensure a strong understanding of core subjects like DBMS, OS, and OOPs. 
+3. While solving coding questions, clearly explain your approach to the 
+interviewer. Start by presenting a brute-force solution, discuss its time 
+complexity, and then provide an optimized solution along with its time 
+complexity. Explaining your thought process while coding demonstrates 
+clarity and problem-solving skills. 
+4. Research  about the company thoroughly. When asked if you have any 
+questions, ask thoughtful questions related to the company and its 
+operations, showing that you have prepared and researched about that 
+company. 
+5. Stay confident while answering questions. 
+ 
+GENERAL PREPARATION TIPS: 
+ 
+1.  Use the resources provided by the ACM- C.O.D.E group, as they cover all    
+important topics and typical interview patterns and try to participate in 
+the quizzes and contests conducted by them. They will be really helpful. 
+2. The Striver’s A-Z sheet is extremely helpful for understanding  data 
+structures and algorithms. 
+3.  For  DBMS refer to class notes and GeeksforGeeks (GFG) to strengthen 
+your concepts. 
+4. For OS refer to class notes, GFG  and follow Sudhakar Atchala’s YouTube 
+tutorials for clear explanation of concepts. 
+5. For OOPs, cover the topics in Fraz’s OOP sheet and for concepts refer 
+GFG 
+6. Consistently solve problems on LeetCode and GFG to improve problem-
+solving speed and accuracy 
+ 
+Don’t be discouraged if you get rejected despite putting in your best efforts. 
+The right opportunity will come at the right time. A lot will go wrong  before 
+everything goes right 😇. 
+ 
+                                                   ALL THE BEST!!! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regards , 
+Priyadharshini R 
+2022506096 
+Information Technology, MIT 
+LinkedIn: Priyadharshini R 
+ 
+ 

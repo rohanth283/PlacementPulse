@@ -132,18 +132,46 @@ def main():
     args = parser.parse_args()
 
     text_dir = "text"
+    if not os.path.exists(text_dir) and os.path.exists("../text"):
+        text_dir = "../text"
+        
     if not os.path.exists(text_dir):
         print(f"[ERROR] text directory not found at {text_dir}.")
         sys.exit(1)
         
-    files = [f for f in os.listdir(text_dir) if f.endswith(".txt")]
-    files.sort()
+    file_entries = []
+    for dept in ["cse", "it"]:
+        dept_dir = os.path.join(text_dir, dept)
+        if os.path.exists(dept_dir):
+            for f in os.listdir(dept_dir):
+                if f.endswith(".txt"):
+                    file_entries.append({
+                        "filename": f,
+                        "filepath": os.path.join(dept_dir, f),
+                        "department": dept.upper() # "CSE" or "IT"
+                    })
+        else:
+            print(f"[WARNING] Subdirectory {dept} not found in {text_dir}.")
+
+    if not file_entries:
+        print("[WARNING] No files found in cse/it subdirectories. Scanning root text folder as CSE...")
+        for f in os.listdir(text_dir):
+            if f.endswith(".txt"):
+                file_entries.append({
+                    "filename": f,
+                    "filepath": os.path.join(text_dir, f),
+                    "department": "CSE"
+                })
+
+    file_entries.sort(key=lambda x: x["filename"])
     
-    print(f"Found {len(files)} text files to index.")
+    print(f"Found {len(file_entries)} text files to index.")
     
     documents = []
-    for idx, filename in enumerate(files, 1):
-        filepath = os.path.join(text_dir, filename)
+    for idx, entry in enumerate(file_entries, 1):
+        filename = entry["filename"]
+        filepath = entry["filepath"]
+        dept = entry["department"]
         try:
             with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
                 content = f.read().strip()
@@ -161,6 +189,7 @@ def main():
                     "difficulty": meta["difficulty"],
                     "year": meta["year"],
                     "role_type": meta["role_type"],
+                    "department": dept,
                     "text": content,
                     "embedding": None
                 })

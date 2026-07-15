@@ -1,0 +1,37 @@
+Company - IDFC First Bank
+
+Company is a furiously developing titan in the Indian banking sector. It makes 94% of
+
+transactions via online. And anything u dont have to reach the bank you can solve it using their
+mobile app. The seniors tech guys are very very very very brilliant. So don't try to over-smart
+them.
+
+Role - Application Engineering ( aka sde/swe )
+
+What u will work on / learn - golang, nodejs, docker, git commands, grafana, yaegar, jira,
+confluence, react native, test driven developments, principles of programming
+
+Placement Drive experience:
+
+I felt compared to other companies idfc was easy going in their interviews and tests,
+just know the basics of programming, be conﬁdent while explaining your projects, learn oops
+and dsa thoroughly.
+
+Get to know details about their policies, slogans, ambassadors, mainly the CEO. this is a
+
+very aspiring bank so they expect you to be energetic and thirsty for knowledge
+
+Tips and Tricks:
+
+Try to use different programming languages based on the questions, for example for
+
+string base questions python will be easier to code, for dp based questions java or c++ is easy
+to code.
+
+Just be conﬁdent in what you are saying, and if you say something wrong, learn to accept the
+fact and express it that you have learnt.
+
+Preparation docs or playlists:
+
+Learn oops , any material from the internet or even the 12th standard c++ oops book.
+

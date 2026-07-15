@@ -1,0 +1,95 @@
+                                                                         PLACEMENT EXPERIENCE
+
+About the company
+
+Verizon Communications is a leading telecommunications provider and one of the world’s foremost companies in
+technology, communications, and network solutions. Consistently ranked among the Fortune 500, the company was
+established in 2000 and serves over 100 million wireless customers. It delivers advanced broadband, fiber-optic, and
+5G connectivity to businesses and consumers across the United States and internationally. Verizon operates the largest
+4G LTE network in the U.S. The company is headquartered in New York City and maintains a significant presence in
+India, which offices in Chennai, Bangalore, and Hyderabad.
+
+About the Role
+
+The position offered was Engineer I (Software Development). During the discussion, the interviewer and HR
+explained that the role involves working with a range of technologies and requires flexibility to contribute across
+multiple domains.
+
+Interview Process
+
+ROUND 1: Online Assessment
+
+The first round consisted of multiple components. The initial section required candidates to write a composition of
+approximately 190-250 words. The topic assigned was “Is it important for celebrities to be good citizens to help and
+guide society through their thoughts and actions?”. This section primarily evaluated general verbal and writing skills
+rather than technical knowledge.
+
+The second component was a coding round that included two programming questions of easy to medium difficulty.
+This was followed by a verbal and communication assessment that test vocabulary and grammar proficiency.
+Additionally, the round included psychometric questions designed to evaluate personality traits, behavioural
+tendencies, and overall suitability for the role.
+
+ROUND 2: Group Discussion
+
+This round assessed candidates’ communication skills, clarity of thought, and ability to present their opinions clearly.
+Participants were expected to express their views confidently while maintaining professionalism. It was important not
+to be overly forceful, to contribute at appropriate moments, and to ensure that the points presented were meaningful
+and impactful.
+
+My panel consisted of 10 members, and the discussion was moderated by a senior HR representative. The moderator
+instructed us to initiate the discussion with a topic provided by them under the domain of AI. I contributed 4 points
+during the session, focusing on presenting concise and clear points. At the end of the round, 7 candidates were selected
+to proceed to the next stage.
+
+A key recommendation for this round is to regularly follow current technology news updated on recent developments,
+as this helped me in presenting informed and relevant viewpoints during the discussion.
+
+ROUND 3: AI Prompting Round
+
+The third round was an AI prompting round. Candidates were provided with a set of problem statements and were
+required to design effective prompts that could generate accurate and relevant results. The objective of this round was
+to evaluate the ability to frame clear and efficient prompts for optimal output.
+
+This was not an elimination round. However, the responses submitted were cumulatively evaluated and considered
+during the technical interview.
+
+ROUND 4: Technical Interview
+
+The technical interview was conducted in a comfortable and interactive manner, with a friendly approach throughout
+the session. He began by reviewing my resume and asked questions about my previous internship experiences, and the
+project currently going through.
+
+The discussion primarily focused on the project I completed during my internship. I was asked questions related to
+security concepts, authentication mechanisms, and UI optimization. In addition, DSA problems were discussed, and I
+was asked to write an optimal solution. I initially presented a brute-force approach and subsequently refined it into an
+optimal solution based on the interviewer’s follow-up questions.
+
+Towards the end, I was given the opportunity to ask questions. I inquired about the interviewer’s experience within the
+company, and the areas within the company where AI is applied and its role. The interviewer responded clearly and
+provided detailed insights.
+
+ROUND 5: HR Interview
+
+In the HR interview, I was asked to provide an overview of my resume and respond to general questions regarding my
+location preference and the knowledge I carried about the company.
+
+During this round, I took the opportunity to ask questions about the company’s work culture and growth opportunities
+and about the role I will be working on. Asking relevant questions is encouraged as it shows your interest and
+enthusiasm you possess for the role.
+
+A total of 32 candidates were selected by the company, and the confirmation mails were sent on the same day.
+
+TIPS & TRICKS
+
+•  Maintain confidence and communicate your ideas clearly and effectively.
+•  Pay equal attention to verbal and communication skills, along with technical preparation.
+•  Be thorough with your resume and present your experiences authentically. Do not overload your resume. Be
+
+precise.
+
+•  Strength your understanding of core technical subjects, particularly DSA and DBMS.
+
+                                                                                    BEST OF LUCK
+
+                                                       Rasigapriya S     rasigapriyashanmugam@gmail.com
+

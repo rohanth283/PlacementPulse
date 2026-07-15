@@ -1,0 +1,145 @@
+NVIDIA – INTERVIEW EXPERIENCE 
+ 
+About the Company: 
+NVIDIA (short for Invention of Visual Display Interface Accelerator) is a global leader in 
+graphics processing technology and artificial intelligence computing. Known for its 
+powerful GPUs, NVIDIA revolutionized gaming, professional visualization, and high-
+performance computing. Beyond graphics, it plays a key role in advancing AI, deep 
+learning, data centres, and autonomous vehicles through its CUDA platform and NVIDIA 
+AI frameworks. 
+ 
+NVIDIA India, with offices in Bengaluru, Hyderabad, and Pune, serves as a major R&D 
+and engineering hub, driving innovations in GPU architecture, AI research, and cloud 
+technologies. The teams focus on developing next-generation computing solutions that 
+power industries ranging from gaming to scientific research and enterprise AI. 
+ 
+Role Offered:  System Software Engineer 
+ 
+Selection Process:  
+1. Online Assessment 
+2. Technical Interview 
+The Online Assessment was conducted at CUIC on 25/09/2025. But the 
+shortlisted candidates were announced on 13/10/2025, So if you are 
+confident enough in your performance be patient.   
+Online Assessment: 
+• Duration: 1 hour 
+• Platform: HackerRank 
+• Pattern: 2 coding questions (one easy and one hard) & 27 MCQs 
+including C/C++ fundamentals, OS, DSA, Debug and Aptitude. 
+• For the aptitude questions each carries 3 points, for technical 
+questions each carries 2 points, the easy question carries 10 or 15 
+points and the hard one carries 75 points. 
+The MCQs were split into two sections 15 aptitude questions and 12 
+technical questions. For the aptitude section focus on permutation, profit 
+percent, Chain rule problem and basic math questions. 
+ 
+For the technical questions focus on OS concepts like scheduling 
+algorithms, paging, C/C++ fundamentals like string literals, pointers, static 
+variables and functions, bit manipulation, signed/unsigned char or int, and 
+some DSA analyzes and debug questions. 
+For example, 
+unsigned int y = 2; 
+int x = -2;  
+if(x > y) 
+ 
+printf(“X is greater than Y”); 
+else 
+ 
+printf(“Y is greater than X”); 
+ 
+Output: X is greater than Y 
+ 
+This question was asked to me even in the technical interview. 
+unsigned char ch = 0; 
+int count = 0; 
+while(++ch <= 255) 
+ 
+count++; 
+printf(“%d”, count); 
+Output: This forms an infinite loop.  
+For the DSA, the easy question should be solved only using C and the hard 
+question can be solved using either C/C++ ( C and C++ are the only 
+programming languages available for the OA ).  
+The first question is powers of two where a binary char array is provided 
+and you have to check whether is it a power of 2.  
+( The logic is based on the mathematical property that a positive number is 
+a power of two if and only if its binary representation contains exactly one 
+'1' ) 
+int isPowerOfTwo(const char *str) { 
+    int one_count = 0; 
+    int i = 0; 
+    while (str[i] != '\0') { 
+        if (str[i] == '1') { 
+            one_count++; 
+        } 
+        i++; 
+    }   
+    return (one_count == 1); 
+} 
+int main() { 
+    int n; 
+    int i; 
+    char binary_string[101]; 
+    scanf("%d", &n); 
+    for (i = 0; i < n; i++) { 
+        scanf("%100s", binary_string); 
+        if (isPowerOfTwo(binary_string)) { 
+            printf("True\n"); 
+        } else { 
+            printf("False\n"); 
+        } 
+    } 
+    return 0; 
+} 
+ 
+The second question is a hard recursion based string question. 
+Link: https://leetcode.com/problems/special-binary-
+string/description/ 
+ 
+These both questions were repeated for the past two years so it is 
+important not only for NVIDIA but also for any companies to research about 
+the pattern of the hiring and previously asked question’s patterns. 
+You can find these patterns in platforms like leetcode, gfg, and 
+sometimes reddit. ( https://leetcode.com/discuss/post/5896082/nvidia-
+software-engineering-internship-6-ngsp/ ) 
+ 
+Technical Interview: 
+The experience may wary but I was asked one DSA question and everything 
+else was about bit manipulation and C/C++ fundamentals. 
+Note: It is very important to revise the questions that were asked during 
+the OA for this round, some questions were asked from the OA and even 
+the interviewer mentioned this (like the question that I mentioned above). 
+ 
+ The DSA question is a linked list problem, 
+Link:  https://leetcode.com/problems/reverse-nodes-in-k-
+group/description/ 
+And for the other technical questions I was asked 
+bool Dummy(unsigned int n) 
+{ 
+ 
+if(n <= 0) 
+ 
+ 
+return false; 
+ 
+else 
+ 
+ 
+return !(n & (n-1)); 
+} 
+So you have to provide an appropriate name for the given function. ( This is 
+a function to find if the given number is a power of 2) 
+Are these valid or throws an error? 
+If( x == 10)  ans: (valid) 
+If( 10 == x)  ans: (valid) 
+If( x = 10)   ans: (valid) 
+If( 10 = x) ans: (Invalid) 
+ 
+And finally I was asked how a float point number is represented and stored 
+in binary inside computer memory. ( Ans: using Sign bit, Exponent and 
+Mantissa) 
+ 
+Rohith B, 
+CEG – CSE’26, 
+E-Mail: rohith1asbr@gmail.com 
+LinkedIn: https://www.linkedin.com/in/rohith-b-2319412a1 

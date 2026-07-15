@@ -1,0 +1,46 @@
+About the Company:
+
+Swetha R Barade - Internship Document
+
+Fidelity Investments is a multinational financial services firm specializing in investment management,
+mutual funds, retirement services, and brokerage. Renowned for its commitment to innovation, the
+company offers cutting-edge financial solutions and a strong emphasis on customer experience. With
+a focus on technology and finance, Fidelity fosters a collaborative culture that empowers employees
+to contribute towards impactful projects. It is well-known for providing a supportive learning
+environment for interns, ensuring hands-on experience and professional growth.
+
+About the Role:
+
+As a Summer Intern at Fidelity Investments, the role involves collaborating with experienced
+professionals on real-time projects in areas like software development, cybersecurity, and data
+analysis. The internship offers exposure to various tools, technologies, and processes used in the
+financial services sector. Interns are expected to contribute actively to ongoing projects while
+enhancing their technical and problem-solving skills, gaining insights into the dynamic intersection of
+technology and finance.
+
+Preparation Strategy:
+
+For preparation, I focused on strengthening my fundamentals in data structures and algorithms
+(DSA), object-oriented programming (OOP) in C++, and understanding version control systems like
+Git. I reviewed my past projects and internships to clearly explain their technical aspects and
+challenges. For HR preparation, I prepared answers to common questions about motivation,
+preferred career field, and personal interests. I also practiced mock interviews and used online
+coding platforms like LeetCode for DSA practice.
+
+Placement Drive Experience:
+
+The placement drive at Fidelity involved an initial online test that covered technical concepts,
+aptitude, and coding. The technical interview focused on my projects, basic C++ concepts, data
+structures, and algorithms for app development. The HR interview explored my extracurricular
+activities, motivations, and career preferences, along with a discussion on personal interests and my
+recent reading.
+
+Tips and Tricks:
+
+To succeed, focus on mastering core subjects like data structures, algorithms, and object-oriented
+programming. Be clear about the technical details of your projects and internships, and practice
+explaining your contributions. Communication is key, so prepare for group discussions and HR
+interviews by working on your speaking skills. Regular coding practice on platforms like HackerRank
+or LeetCode can help with the technical rounds. Most importantly, stay calm and confident during
+the interview process.
+

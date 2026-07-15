@@ -1,0 +1,137 @@
+Athena Health Interview Experience 
+ 
+Name: Praveen RS 
+Department: Computer Science and Engineering 
+ 
+About the Company  
+ 
+ 
+Athenahealth is a private American company that provides network-enabled 
+services for healthcare and point-of-care mobile apps in the United States. 
+athenahealth partners with healthcare organizations across the care continuum to 
+drive clinical and financial results. The company has expert teams which build 
+modern technology on an open, connected ecosystem, yielding insights that make a 
+difference for the customers and their patients. Athena brings cloud-based web and 
+mobile software to the healthcare industry to build and information backbone with 
+the power to transform health delivery. 
+ 
+Athenahealth’s vision is to create a thriving ecosystem that delivers 
+accessible, high-quality, and sustainable healthcare for all, and the customers are 
+pursuing this through their medical record, revenue cycle, patient engagement, and 
+care coordination service offerings. 
+ 
+Job Locations (India): Chennai, Bangalore and Pune 
+Job Position: Associate Member Technical Staff 
+ 
+Job Role(description): 
+ 
+Entry-level and near entry-level Software Engineer working in the R&D teams. 
+Engineers at athenahealth work on a variety of technical problems across products 
+and platform teams. 
+ 
+ 
+ 
+Interview Process 2021 (Virtual) 
+ 
+1. Online HackerRank Test (1 hr 30 mins): 
+ 
+The first round is an online assessment held on the platform HackerRank. 
+Keep your updated resume handy before the assessment as you would need to 
+upload it before starting the test. The assessment consisted of 2 sections: MCQs 
+and Coding. The MCQs section had around 10-15 questions 10 MCQs based on 
+basic data structures, quant aptitude, and logic, code output prediction and basic 
+OOPS concepts. The next section was problem-solving (coding) with 2 questions. 
+You can toggle between the questions in both the sections. The entire round was to 
+be completed within 90 minutes. The coding questions were in the easy to medium 
+range of difficulty.  
+Be strong with your basics in OOPS, Data Structures and Aptitude to ace the 
+MCQs quickly and move on to the coding section. Practice regularly on Problem 
+solving websites like leetcode, hacker rank and geeksforgeeks and you will be able 
+to develop the ability to find solutions easily. 
+(52 students were shortlisted for the next round) 
+ 
+ 
+2. Technical Interview – Code Pair Round (45 mins): 
+ 
+The shortlisted students were sent an HackerRank invitation link to attend the 
+Code Pair round on the next day morning. Make sure that you are using the 
+same HackerRank account which you have used for the initial coding round. As you 
+enter the assessment you will be paired with an interviewer who will test your 
+problem-solving skills with coding. Listen carefully to the question presented by 
+him/her and explain your approach first before writing your code. If possible, interact 
+with the interviewer as you write your code. I was stuck at one point and he helped 
+me through it, so don’t be hesitant to talk to the interviewer. 
+ 
+The question I was asked to code: www.geeksforgeeks.org/detect-and-
+remove-loop-in-a-linked-list/ 
+ 
+ I was also asked to code some basic OOPS structures and explain the same. 
+Greet the interviewer at the start and end of interviews. 
+(Shortlist count for the next round wasn’t shared) 
+ 
+ 
+ 
+ 
+3. Technical Interview – Managerial Discussion (45 mins): 
+ 
+The next round started like after 3-4 hours after the Code Pair round. The 
+platform was Microsoft Teams. This was an online video interview where the 
+interviewer tries to know about our technical knowledge as well as your managerial 
+skills and experiences. He started with the skills mentioned in my resume and went 
+along with follow-up questions based on my answers. So be very precise with your 
+resume and don’t mention things you are not well-versed in. He asked about my role 
+in a technical club I was part of and the responsibilities and challenges faced by me 
+in the club.  
+Also, he was very interested in the web-development projects I mentioned in 
+my resume and asked many questions about them. He created some hypothetical 
+problems related to my project and asked my approach on how to solve them. So 
+always keep track of every section of the project that you’ve mentioned in the 
+resume. Try to interact more with the interviewer by asking some relevant questions 
+about the company and his/her role at the end of the interview. 
+My overall advice for managerial rounds would be to keep the conversation 
+engaging and don’t hesitate to say that you don’t know the correct answer. Since 
+this is an entry-level job offer no one will expect you to answer all the questions 
+perfectly. 
+(Shortlist count for the next round wasn’t shared) 
+ 
+4. HR Round (15-20 mins): 
+ 
+The final round took place on the next day morning and this was a very short 
+interview. The platform was again Teams and the interviewer this time was very nice 
+and friendly and made me feel very comfortable. She asked me about my previous 
+interviews and my experience in the placement process. The round was entirely a 
+conversation about my likes and dislikes and how compatible I am working in a 
+collaborative environment. She asked about my experiences staying away from 
+home and about my relocation preferences. I also shared my interests in sports as 
+well. 
+ 
+The important thing to keep in mind during HR rounds is to keep calm and not 
+think too hard. There are no correct and wrong answers for this round, so be 
+confident.  
+ 
+They announced the results and I was one of the 6 people who were 
+given the FTE offer. 
+ 
+The HR staff from the company organised a virtual meeting with the final 
+selects to congratulate and welcomed us with warm greetings. 
+General Suggestions 
+• Start preparing at least 5 to 6 months before the start of the placements. 
+• Solve as many problems as you can in the coding platforms like GFG, 
+Leetcode, etc. 
+• While solving a problem in leetcode, make sure to check out the related 
+problems because it will improve your flow in problem-solving. 
+• Be thorough with the skills and projects mentioned in the resume. 
+• Group projects generally attract interviewers and make them ask 
+managerial questions about team works. 
+• Be prepared on how to introduce yourself and also limit the introduction 
+to around 1 to 1.5 minutes. 
+ 
+One thing I learnt during my placement drives was to keep going and work 
+hard and one day you’ll surely be awarded!!  
+ 
+ 
+ALL THE BEST!! 
+ 
+You can contact me through: 
+praveenrs0111@gmail.com 
+linkedin.com/in/praveenrs01 

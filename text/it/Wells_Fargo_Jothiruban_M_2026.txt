@@ -1,0 +1,190 @@
+|           |         | Wells | Fargo | Placement |     | Interview | Experience |
+| --------- | ------- | ----- | ----- | --------- | --- | --------- | ---------- |
+| About the | Company |       |       |           |     |           |            |
+Wells Fargo & Company is a diversified, community-based financial services company
+with $2.0 trillion in assets. Found in 1852 and headquartered in San Francisco, Wells
+Fargo provides a wide range of services including banking, insurance, investments,
+| mortgage, | and | consumer/commercial |     |     | finance. |     |     |
+| --------- | --- | ------------------- | --- | --- | -------- | --- | --- |
+The company operates through more than 8,500 locations, 13,000 ATMs, online
+banking (wellsfargo.com), and mobile platforms. With a global presence in 42 countries,
+Wells Fargo supports customers who conduct business in the global economy. The
+company employs approximately 273,000 team members and serves one in three
+households in the United States. Wells Fargo’s vision is to satisfy its customers’
+| financial | needs | and        | help them | succeed |          | financially. |     |
+| --------- | ----- | ---------- | --------- | ------- | -------- | ------------ | --- |
+| About the | Role: | Enterprise |           | Global  | Services | (EGS)        |     |
+The role is part of the Enterprise Global Services (EGS) technology team. EGS is a
+crucial division that enables global talent capabilities for Wells Fargo. It supports over
+half of the company's business lines and staff functions across four key areas:
+Technology, Business Services, Risk Services, and Knowledge Services. EGS operates
+from locations in Hyderabad, Bengaluru, and Chennai in India, as well as Manila in the
+Philippines. As a member of the team, you interact closely with multiple business and
+technology partners across various Wells Fargo locations, contributing to a diverse and
+| inclusive   | organizational |          | culture. |     |     |     |     |
+| ----------- | -------------- | -------- | -------- | --- | --- | --- | --- |
+| Recruitment |                | Process: |          |     |     |     |     |
+| It is a two | stage          | process. |          |     |     |     |     |
+Stage 1
+| Online | Coding | Assessment |     |     |     |     |     |
+| ------ | ------ | ---------- | --- | --- | --- | --- | --- |
+It was supposed to be on SHL platform but at the last minute it changed to Hackerrank.
+| We had | three | questions | to  | solve | (2 DSA | and 1SQL). |     |
+| ------ | ----- | --------- | --- | ----- | ------ | ---------- | --- |
+DSA questions:
+| Question | 1:  | Smallest | Anagram |     | Period |     |     |
+| -------- | --- | -------- | ------- | --- | ------ | --- | --- |
+Description:
+You are given a string input_str. A string can be formed by repeatedly
+concatenating anagrams of another string s. Your task is to find the length of the
+| smallest | possible | string | s that | can | be used | to form input_str. |     |
+| -------- | -------- | ------ | ------ | --- | ------- | ------------------ | --- |
+
+| Input: input_str |     | = "abbbaab" |     |     |     |     |     |     |
+| ---------------- | --- | ----------- | --- | --- | --- | --- | --- | --- |
+| Output:          | 2   |             |     |     |     |     |     |     |
+Explanation: The smallest string is "ab". Its anagrams "ab", "ab", "ba", "ab" can form
+"abbbaab".
+| Similar  | Question | -       | LeetCode | 459:       | Repeated |     | Substring | Pattern |
+| -------- | -------- | ------- | -------- | ---------- | -------- | --- | --------- | ------- |
+| Question | 2:       | Optimal | Stock    | Investment |          |     |           |         |
+Description:
+An investor has limited funds saving and can buy at most one share of each
+company. Given the current stock values and their predicted future values, determine
+the maximum profit possible without exceeding the available funds.
+Input:
+| saving       | = 250 |         |           |           |      |     |     |     |
+| ------------ | ----- | ------- | --------- | --------- | ---- | --- | --- | --- |
+| currentValue |       | = [175, | 133,      | 109, 210, |      | 97] |     |     |
+| futureValue  |       | = [200, | 125, 128, | 228,      | 133] |     |     |     |
+| Output:      | 55    |         |           |           |      |     |     |     |
+Explanation: Buy stocks at indices 2 and 4 (cost 109 + 97 = 206, future value 128 + 133
+| = 261, | profit | = 55). |     |     |     |     |     |     |
+| ------ | ------ | ------ | --- | --- | --- | --- | --- | --- |
+Similar Question - LeetCode 322: Coin Change, LeetCode 474: Ones and Zeroes
+| (classic | 0/1 | knapsack) |     |     |     |     |     |     |
+| -------- | --- | --------- | --- | --- | --- | --- | --- | --- |
+SQL question:
+Generate a report of Cloud Virtual Machine (CVM) configurations and count how many
+times each configuration was deployed in 2021, then display the results sorted in
+| descending   |     | order of | deployments. |     |     |     |     |     |
+| ------------ | --- | -------- | ------------ | --- | --- | --- | --- | --- |
+| SQL Concepts |     | Used     |              |     |     |     |     |     |
+· JOIN between configurations and deployments (using configuration_id = id).
+· WHERE filter to include only rows from year 2021 (using dt).
+| ·   | COUNT(*) | to  | calculate     | total | deployments |         | per       | configuration.  |
+| --- | -------- | --- | ------------- | ----- | ----------- | ------- | --------- | --------------- |
+| ·   | GROUP    | BY  | configuration |       | name.       |         |           |                 |
+| ·   | ORDER    | BY  | COUNT(*)      | DESC  |             | to sort | by number | of deployments. |
+
+Stage 2
+Interviews at CUIC, Anna University.
+Technical Interview 1: (45-50 mins)
+The shortlisted candidates assembled at CUIC. First round was a virtual one in
+Microsoft Teams. There were totally 7 panels.
+I was asked to share my resume with them, then the interview begun. First the
+interviewer introduced himself and started asking questions. I was asked to give
+overview of the projects mentioned in my resume, then he started clarifying his
+questions on those projects and dug deep on to them.
+Python:
+· What is a decorator?
+· What is flask and how do you handle a request?
+· How do you handle JSON data in python?
+· Threads in Python.
+· Some Basics on Python in my project
+DSA:
+· Height of the Binary Tree (Easy)
+· Frequency of a repeating char in a string (Easy)
+React:
+· What is the root page of React?
+· How does React works?
+· How do you manage states in React?
+· Any idea on Use Memo?
+· How do you use params in React?
+Core:
+· What are triggers and where did you use in your project?
+· Threads and its applications
+· DNS Caching
+· Caching Techniques
+· How do you manage multiple user requests?
+· What are the security features that you have implemented in your projects?
+
+· Do you have any idea on cloud computing and deployment?
+SDLC:
+· Do you have any idea on Software Design concepts?
+· Do you know about SOLID principles?
+· Have you used any Design concepts in your project?
+I managed to answer most of the questions that were asked. I was true on things I don’t
+have a clear idea on. I was asked to wait for the results of the next round. I came out,
+within 10 mins I moved on to next round.
+Technical Interview 2: (20-25 mins)
+This interviewer is a cool guy and he is also an alumnus of our college. First he asked
+me to introduce myself. I delivered what I have prepared. He asked about my hostel life
+over the three years and my club activities.
+Questions:
+· Give a travel on your academics over the years.
+· What are your favourite subjects?
+· What is the difference between AI, ML and DL?
+· Do you have any idea on python automation?
+I mentioned using python for my regular stuffs hence he questioned me more on those
+things. I didn’t feel like I was in an interview.
+Technical Round 3: (10-15 mins)
+This was supposed to be a Business Leadership round but we faced only technical
+questions. I was asked to introduce myself. The interviewer told me to pick one project
+that I was confident about and asked me present to him. I have done a realtime project
+and I presented him that.
+Questions:
+· What are the languages you know?
+· Which language you are confident on?
+· Why do you use python?
+· What type of language is python?
+· Can you give me an example of Object Oriented Language?
+· What is pure/strict Object Oriented Language?
+
+Preparation Strategy:
+I started my preparation on DSA only on summer intern drive and I was not consistent. I
+would suggest to start as early as you can and be consistent.
+Don’t wander around materials and many youtube sources. Fix onto one resource.
+DSA: As everyone says Strivers Sheet.
+SQL: Hackerrank SQL course (Awesome one).
+Core Concepts: Your academic books (Yes, they cover in depth which is more than
+enough). Last minute revision – Geeks for Geeks.
+Projects: Know what you have done and why you have done. Even if you feel your
+project is simple learn everything in it.
+Resume: Know everything in it. Don’t add stuffs that you are not confident about. It
+should showcase who you are. Add your leadership and extra-curriculars. This helped
+me a lot in my interview.
+Interview Tips:
+Have a clear mind on the day of interview. Practise “Tell me about yourself” atleast 5
+times. I did it for around 30mins and It boosted my confidence. Be cool, don’t frustate.
+Result is the secondary thing, focus on delivery first.
+Have a smile on your face inside the panel. If you are not sure what they are asking or
+what they are expecting, make yourself clear asking “Could you be more specific
+sir/ma’am? Or Do you want me to explain on this?”. Clarifying makes a good
+impression.
+Learn the values of the company and act accordingly and try to align yourself to it as
+much as you can.
+Prepare questions to ask your interviewer.
+It’s all in you on what question you can get next. I drove the interview in such manner
+that my answers can lead to another question that I have an idea on.
+For Instance:
+In my first round I was asked on, how to calculate the height of a binary tree. I wrote the
+code and sent the answer in chat in python. Then he started questioning on python.
+When I was asked questions on react I told him that it’s been a year I have worked on it.
+So he stopped asking from react.
+
+I told I have used triggers and implemented security features and so he asked questions
+on them.
+Final Note:
+| Be Confident | and      | Honest.             |           |            |
+| ------------ | -------- | ------------------- | --------- | ---------- |
+| Luck plays   | a major  | role. But only luck | won’t get | you a job. |
+| “Luck Played | Hardwork | Paid ”              |           |            |
+Credits to Jayashree J, Contents Head ISTA 25-26 who came up with this quote.
+| Contact    | Details: |         |     |     |
+| ---------- | -------- | ------- | --- | --- |
+| Jothiruban | M (2022  | - 2026) |     |     |
+Mail – jothiruban1512@gmail.com
+| Phone -   | 9384882004                               |     |     |     |
+| --------- | ---------------------------------------- | --- | --- | --- |
+| Linked In | - https://www.linkedin.com/in/jothiruban |     |     |     |

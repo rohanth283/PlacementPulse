@@ -1,0 +1,75 @@
+ 
+ 
+ 
+ 
+Wells Fargo 
+ 
+ 
+Round 1:Hosted on AMCAT platform 
+ 
+ 
+Consisted of 3 sections: English MCQs, business analytical mcqs and 
+coding part. The coding part consisted of 2 questions that needed to be solved in 
+60mins. Questions ranged from medium to hard level difficulty. One question is 
+related to tree logic and another one is based on Dynamic programming. 
+ 
+Round 2: Technical interview 1 
+ 
+ 
+The panel consisted of one interviewer and lasted for around 1 hour. This 
+round started with my introduction and then he started discussing the projects I 
+have done in college and also in my internships.  
+Questions about the project: 
+1. Problem statement 
+2. Tech-stack used in the project 
+3. Difficulties faced 
+ 
+Questions on coding: 
+ 
+The interviewer asked me to choose an editor of my choice and gave me 
+one question to solve, he wanted me to share my screen and walk through the 
+solution I am working . He wanted the whole code and the output also. 
+ 
+He mainly focused on the approach, the way I am writing the code and 
+how I explain my approach. The question was, Given an array of expenses of a 
+person on daily basis( each array element represents that day’s expense) I have 
+to find out the number of days the expense is more than the average expense in 
+the range of 5 days. 
+ 
+Round 2: Technical interview 2 
+  
+ 
+The panel consisted of one interviewer and lasted for 30mins. The 
+interviewer started with his introduction and experience. After he was asking 
+questions in a loop. He asked about my favourite programming languages, 
+favourite core subjects and my project details. He asked many basic oops 
+concepts questions(ex: Define class in real world terms, what is abstraction..). 
+He asked a few questions related to DBMS. 
+ 
+After that, he gave some scenarios and wanted me to figure out the appropriate 
+Data structures for those. And also he asked justifications for my answers.  
+ 
+After that, he gave one coding question and asked me only main logic I would 
+use to solve the question. 
+The question was, Given two words find out the first common letter and then 
+print both words in matrix format( Ex: Elephant and rat are the given words the 
+output should be like 
+         R 
+Elephant 
+         T   ) 
+I told several logics and he made corrections in those and told me to optimize 
+the space as the output has to be printed in a matrix format and not required to 
+be stored in a matrix format. 
+ 
+Round 3: HR interview 
+ 
+Started with my introduction and then she went on to the experience, project 
+section, skills section, responsibilities in my resume. She explained the culture, 
+location of the company. She asked about the entire interview experience of that 
+day. Finally, she offered me to ask a question and I just thanked her for the 
+entire amazing and smooth interview process. 
+ 
+ 
+Harini.V 
+virudhagirinadhar@gmail.com 
+ 

@@ -1,0 +1,70 @@
+Arun Venkatesh P - Information Technology – BOA Continuum FTE
+
+**About the Company**:
+
+BA Continuum India Private Limited is a wholly owned non-banking subsidiary of Bank of America Corporation.
+
+**About the Role**:
+
+GET(Graduate Engineering Trainee)
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* An Video Interview
+* Interview Round 1
+* Interview Round 2
+
+**Online coding Round**:
+
+**1)Introduction:**
+
+* The first question was a self-introduction where I was given 3 minutes to speak about myself.
+* I talked about my educational background, skills, projects, and interests relevant to the position.
+
+**2)Programming Question:**
+
+* The next part was a programming round where I was asked a question related to regular expressions (regex).
+* After solving the question, there was a follow-up video question where I had to explain my approach to solving the problem.
+
+**3)Fitment Question:**
+
+* The final question was a behavioral one, asking, "Why are you a good fit for Bank of America?"
+* I elaborated on my skills, work ethic, and how my goals align with the values and opportunities at Bank of America.
+
+**TIPS for Online Test:**
+
+For video interviews, don’t panic and stay calm. Between questions, especially after programming tasks, take a moment to breathe, sip water, and refocus. Utilize the brief gap wisely to prepare for the next question. Manage your time well, as video responses are often timed. Stay composed, and ensure your technical setup (camera, mic, internet) is reliable.
+
+**Interview Experience:**
+
+In this round, being a mass recruitment process, the schedule was delightfully unpredictable, and no one knew when they'd be called. We were all asked to assemble at 8.30 AM, but my turn for Round 1 finally came at 4.00 AM -a casual 7.5-hour wait! After wrapping up Round 1, I was graced with a Massive 5 minute gap before called me into Round 2.
+
+**Interview Round 1 (Technical):**
+
+In this round, I was asked the classic **"Longest Substring Without Repeating Characters"** question. I explained both the **brute force** and **optimal solution** in detail. After that, the interviewer moved on to my projects. I described the projects I’ve worked on, highlighting the specific impact my contributions had, especially if it was a team project. I made sure to emphasize how my part drove the project's success.
+
+Next, **Aptitude Question: *"****You have an infinite number of bags and lots of apples. All the bags are filled with an equal number of apples. If 8 apples are filled in all the bags, 7 apples remain. If 7 apples are filled, 6 apples remain, and so on until 2 apples are filled, leaving 1 apple. What is the total number of apples?"*I worked through the problem, explained my approach, but was unable to find the exact solution. However, I moved on and the round ended.
+
+**Interview Round 2 (Technical+HR):**
+
+In this round, I was first asked about my projects, specifically why I chose the **MERN stack** for my project. I explained its benefits and how it stands out from other development stacks. The interviewer then asked about my knowledge of **Git** and **Docker**, including some basic commands.
+
+Next, I was given a set of **recursive programs** and was tasked with finding the solutions for each. Finally, I was asked to implement the **Tower of Hanoi** problem. After solving the problem, the round concluded
+
+**PREPARATION TRICKS:**
+
+**Practice Core Topics:**
+
+* Focus on solving all the Striver questions on key topics like arrays, linked lists, strings, backtracking, and SQL. This will give you a solid foundation for tackling a wide range of questions.
+
+**Review the Quick 75:**
+
+* Before the interview, quickly go through Striver’s Quick 75 to refresh your memory on essential problems and solutions. This is a great way to get a final review of important concepts.
+
+**Solve SQL Questions:**
+
+* Practice solving SQL queries to ensure you're comfortable with data manipulation and querying during the interview.
+
+**"Don't lose hope, take a breath, forge ahead, and give it all you've got."**

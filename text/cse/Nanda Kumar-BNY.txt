@@ -1,0 +1,108 @@
+BNY SUMMER INTERNSHIP INTERVIEW EXPERIENCE 
+Nanda Kumar 
+2022503558 
+CT batch of 2026, MIT 
+ 
+No of Rounds: 3 (Online Test + Technical interview + Technical & HR interview) 
+Stipend: 75,000 INR per month  
+Duration of internship: 8-10 weeks 
+ 
+Round 1: Online Assesment 
+ 
+ 
+There were 4 questions totally. 1 easy, 2 medium and 1 hard. 24 students 
+from CEG and MIT students were selected for the Technical round.  
+ 
+Round 2 : Technical Round 
+ 
+ 
+The Technical round primarily focused on networking, databases, and 
+computer fundamentals, along with some personal discussion. The interviewer 
+began with general questions about my college  whether MIT comes under Anna 
+University, where it’s located, and how many companies had visited the campus. 
+ 
+The discussion became conversational  we spoke for nearly 15 minutes about 
+football, one of my interests, and about movies with good direction and 
+cinematography. The interviewer and I connected well over that.  
+ 
+Then, we moved on to core questions in Computer Networks such as: 
+ 
+• How routing works and what the Internet is. 
+• What happens on the backend when a query is typed into Google. 
+• How local and global area networks are connected using ISPs and bridges. 
+ 
+In DBMS, I was asked to write a query using UNION. I admitted I wasn’t sure 
+and asked the interviewer to explain it  which he did. He asked me few questions 
+on Big data as he was working on that currently. He asked me few questions on 
+API , though I didn’t know the answer at first I was sure that I would be able to 
+deduce it, so I asked the interviewer some time to think and answered it. 
+Throughout the interview, I maintained openness to learning even when my 
+answers were incorrect, I was eager to understand the correct ones. The 
+interviewer appreciated that attitude. 
+ 
+In DSA, I was asked to write a program to reverse a string in any language on 
+paper (I used C, though the interviewer was familiar with Python).  
+ 
+Other questions included real-life examples of queues and stacks. He later 
+mentioned that my basics were strong and communication was very good, and 
+that I had great learning potential. Half of the interview was personal and the 
+remaining half was technical.  
+ 
+This round lasted over 40 minutes and 10 of us were selected to the second 
+round.  
+ 
+Round 3: HR Round 
+ 
+In the HR round, I was asked to explain my projects in detail. I described 
+both my software and hardware based projects thoroughly, which impressed the 
+interviewer. Many questions were asked over my projects and I answered most 
+of it. When asked why I worked on a hardware oriented project while others 
+focused on web development, I explained how hardware projects also help 
+computer science students expand their technical understanding and my interest 
+over hardware based projects.  
+ 
+He then asked me what an Operating System is and why we need it. My 
+explanation caught his attention, and he even introduced me to the head of the 
+Pershing branch at BNY to appreciate the way I had explained it. That moment 
+emphasized how clarity in basics can make a strong impact. 
+ 
+Finally, among the few behavioural questions the interviewer asked “Why 
+BNY?”, I connected my interest in finance with the company’s domain. I shared 
+my personal experience with hedge funds, forex markets, stocks, trading firms, 
+clearance, investments, bonds, futures and commodities  even mentioning that I 
+had done a few trades myself. He encouraged me to add that experience to my 
+resume, saying, “You know what kind of company we are right ,why don’t you 
+include this in your resume. This gives you a strong edge.” 
+ 
+Finally 6 of us were offered internships.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key takeaway’s :  
+ 
+• Be thorough with your resume and projects. Don’t mention anything you 
+don’t know in resume. 
+• Be strong with your basic DSA, DBMS, OOPS and OS.   
+• Stay calm and confident even when you don’t know something. The way 
+you handle unknown questions matters more than having every answer 
+right. It’s okay to ask for some time to think or say you don’t know. Show 
+them you’re willing to learn. 
+• Learn about the company and try to speak if you have any personal interests 
+over the company’s domain (Finance).  
+• Try to connect with the interviewer, both professionally and personally. Try 
+to have a conversation with them instead of an interview.  
+ 
+ALL THE BEST 
+ 
+ 
+Nanda Kumar V 
+MIT - CT 2026  
+Contact : 9894315495 
+Linked In : https://www.linkedin.com/in/nanda-kumar-700620259/ 
+Git Hub : https://github.com/nandakum4r  
+Email : queryme.nanda@gmail.com 
+ 

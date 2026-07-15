@@ -1,0 +1,117 @@
+NortonLifeLock Interview Experience (On-Campus) 2025
+
+Malarvizhi E
+
+2021115059
+
+Information Technology
+
+About the Company:
+
+Gen Digital Inc., formerly known as Symantec Corporation and NortonLifeLock,
+is a  multinational software company co-headquartered  in Tempe, Arizona, and
+Prague, Czech Republic. It provides cybersecurity software and services and is
+part  of  both  the  Fortune  500  and  the  S&P  500  index.  The  company  has  major
+development centers in Pune, Chennai, and Bangalore, and its portfolio includes
+well-known  products
+like  Norton,  Avast,  LifeLock,  Avira,  AVG,
+ReputationDefender, and CCleaner.
+
+Role: Software Engineer
+
+Location: Chennai
+
+Round 1: Written Coding Test
+
+The first round was a written coding test that included three questions focusing
+on arrays and strings:
+
+1. Arrows Alignment Problem: Determine how many arrows should be rotated
+to make all of them point in the same direction.
+
+   Input: “^>><>”
+
+   Output: 2
+
+2.  Three  Positive  Integers  Sum:  Find  the  maximum  sum  of  three  positive
+integers from the given array.
+
+   Input: {4, -2, 0, 5, -2, 1, 6}
+
+   Output: 10
+
+3. Find Repeating Letter: Identify the  letter that repeats  in a string where all
+other characters are distinct.
+
+   Input: "aba"
+
+   Output: ‘a’
+
+Note:  This  required  an  efficient,  in-place  solution  to  minimize  time  and  space
+complexity.
+
+Round 2: Technical Interview 1
+
+This  interview  was  focused  on  my  resume,  projects, and  technical  knowledge,
+including deep questions on my project details. Key areas covered included:
+
+Data Structures and Algorithms (DSA): A coding question to reverse a linked
+list.
+
+Note:  This  required  an  efficient,  in-place  solution  to  minimize  time  and  space
+complexity.
+
+Aptitude:
+
+1)  Write  an  optimized  solution  to  find  the  square  root  of  a  number.
+
+2)  Three humans and three demons are on one side of a river, and they need
+to cross to the other side using a boat that can hold only two passengers at
+a time. The rule is that if the demons outnumber the humans on either side
+of the river, the humans will be in danger. The challenge is to figure out a
+way to get everyone across the river safely, without ever  letting demons
+outnumber humans on either side.
+
+Other  Technical  Areas:  Questions  on  Object-Oriented  Programming  (OOP),
+Operating Systems and DBMS.
+
+Round 3: Technical Interview 2
+
+The second technical interview involved in-depth coding and problem-solving:
+
+Coding Question: Move all zeroes to the end of the array.
+
+   Input: {2, 0, 1, 0, 5, 6}
+
+   Output: {2, 1, 5, 6, 0, 0}
+
+Note:  This  required  an  efficient,  in-place  solution  to  minimize  time  and  space
+complexity.
+
+Other Questions: Write OOP code and SQL code, along with questions from my
+resume.  I  was  also  asked  to  explain  my  project  in  detail  and  provide  code
+examples.
+
+Round 4: HR Interview
+
+In the HR round, I was asked to discuss my resume in detail, including specifics
+about my projects and some coding examples from my work. They also inquired
+about  my  final  year  project,  exploring  its  objectives  and  technical  aspects.
+Additionally,  this  round  included  general  HR  questions  to  understand  my
+background and career goals.
+
+Mode of test and interview: Offline
+
+The  interview  and  test  focused  on  core  subjects  such  as  Data  Structures  and
+Algorithms (DSA), Database Management Systems (DBMS), and Operating
+Systems (OS) and Aptitude. Additionally, it’s advisable to be well-prepared in
+Computer  Networks,  as  some  interview  panels  included  questions  on
+
+networking  concepts.  Make  sure  to  thoroughly  understand  and  be  prepared  to
+discuss any projects, skills, or tools listed on your resume, as these were areas of
+detailed questioning in my experience.
+
+22 students were finally selected based on their performance in all the rounds.
+
+ALL THE BEST!
+

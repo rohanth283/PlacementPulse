@@ -1,0 +1,55 @@
+ 
+ 
+ 
+ 
+ 
+ 
+KHOROS 
+ 
+Khoros, formerly Spredfast + Lithium, is a global customer engagement software 
+company that provides online community management, social media marketing, social 
+media analytics, digital care, and content management software and services to enterprise 
+brands and agencies. 
+ 
+Number of Rounds :  
+4 
+ROUND 1  
+ 
+The first round was an online coding round which consisted of questions in easy to medium 
+range difficulty. Topics like data structures , Dynamic Programming were focused. 
+ 
+ROUND 2  
+ 
+The second  round was to test your problem solving skills so the questions were like a 
+combination of puzzles and coding. 
+1. If input is 0 output should be 5, if input is 5 output should be 0. This should be 
+implemented using  no if condition statements. 
+2.  A weighing problem similar to this question  
+ 
+https://www.geeksforgeeks.org/weight-heavy-ball 
+3. Print all the permutation of a String  
+https://www.geeksforgeeks.org/write-a-c-program-to-print-all-permutations-of-a-given-string 
+ 
+ROUND 3 
+The Third round was totally to test your coding skills which consisted of  Med - Hard level 
+problems. 
+1 .Minimum Steps to reach a target by Knight 
+https://www.geeksforgeeks.org/minimum-steps-reach-target-knight-set-2/ 
+2. A Question on Joins in table (SQL) 
+3. A medium level question on Arrays topic. 
+ 
+ROUND 4 
+ 
+The fourth and final round was HR Round which was to know your personality, strengths 
+and weaknesses, your capability for the role etc. 
+ 
+TOPIC TO BE FOCUSED 
+ DATA STRUCTURES 
+ DBMS 
+ OPERATING SYSTEMS 
+ IMPROVE YOUR PERSONAL SKILLS for HR interviews  
+ Have Good Book Reading Habits 
+ Engage in Club activities in your college 
+ Volunteer for Organising events in your college 
+Name : Karthikeyan M 
+Mail ID : karthikofficial2000@gmail.com 

@@ -1,0 +1,27 @@
+INTERVIEW EXPERIENCE
+
+Company: Barclays
+
+During my interview, I was asked questions on various topics, including:
+
+1.  OOP Concepts: Be prepared to discuss object-oriented programming principles such
+
+as inheritance, polymorphism, encapsulation, and abstraction.
+
+2.  Authentication and Authorization: Understand the difference between these two
+concepts, how they are implemented, and common security practices related to
+them.
+
+3.  Cloud Computing: I was asked what is cloud and cloud service models (IaaS, PaaS,
+
+SaaS)
+
+Additionally, the interviewer asked me to explain the project I had listed on my resume. It’s
+essential to be clear about the project's scope, your role, the technologies used, and the
+outcomes.
+
+4.  Company Values (RISES): I was also asked about the company's values, referred to as
+RISES. You should be familiar with these values (you can look them up online) and
+think of a real-life incident where you demonstrated one or more of these values. Be
+ready to share this incident and explain how it aligns with the company's core values.
+

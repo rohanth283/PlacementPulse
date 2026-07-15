@@ -1,0 +1,147 @@
+NatWest Group Interview Experience (Internship)  
+ 
+About NatWest Group 
+NatWest Group, formerly known as RBS Group is a British banking and insurance 
+holding company based in Edinburgh, Scotland. It is considered one of the “Big Four” banks in 
+the UK. It is also known as a bank of brands offering personal and business banking, insurance 
+and corporate finance.  
+ 
+Eligibility Criteria 
+●​ 6.0 CGPA from 10th onwards  
+●​ No current arrears 
+ 
+Selection Process 
+1.​ Online Assessment (Offline at CUIC) 
+2.​ Pre-Placement Talk (Offline at CUIC) 
+3.​ Technical + HR Interview (Offline at CUIC) 
+ 
+Preparation Overview 
+The coding questions were mostly array based and on the easier side. Try to solve 
+questions on Leetcode, Hackerrank, GeeksForGeeks to improve your problem solving skills so 
+you can easily solve the questions. Find a study sheet or plan you like and try to fully solve it to 
+help cover all the fundamentals and give you direction. Make sure you understand the solutions 
+instead of trying to memorize them. This understanding will also help you clearly explain your 
+solution if you are asked a DSA problem in the interview as well as to improve your chances in 
+online assessments.  
+Since the aptitude questions required careful consideration and time management, try to 
+solve aptitude questions on pattern completion, graphs and chart analysis, logical reasoning, and 
+English aptitude on IndiaBIX or other platforms to get a better idea.  
+ Go through common interview questions and study DSA, OOPS, DBMS, OS, Networks, 
+and SDLC concepts,  as well as the fundamentals of at least one programming language.  
+Be confident in everything you include in your resume. Anything you mention in your 
+resume is fair game to be asked and expected to be answered with clarity. If you are not 
+confident, exclude it. Have a good understanding of your projects and be ready to explain them 
+and answer follow up questions.  
+ 
+Online Assessment  
+It was conducted on the SHL Platform at CUIC. It consisted of 4 sections that could be 
+completed in any order.  
+ 
+1.​ English Aptitude (15 minutes, 12 questions, no free navigation) 
+●​ Reading comprehension, detecting what is wrong with the sentence, finding the 
+synonym/antonym, finding the correct sequence of sentences,  etc.  
+●​ IndiaBIX English aptitude has many similar questions.  
+ 
+2.​ General Aptitude (36 minutes, 24 questions, no free navigation) 
+●​ This section was totally different from other aptitude questions I’ve seen online and in 
+other online assessments.  
+●​ The questions required basic arithmetic and logical reasoning, but what made it difficult 
+was the totally different format, time constraint and lack of free navigation, making time 
+management crucial.  
+●​ It was interactive and had questions that required us to select dates, schedule meetings, 
+assign rooms based on a given criteria, adjust bar graphs and pie charts to reflect correct 
+percentage values which are to be calculated based on given information, as well as to 
+determine the next pattern given a sequence.  
+●​ There was an option to attend a practice test, and if this option is available, please opt fto 
+complete it as it helped me get acquainted with the format and helped me to avoid 
+wasting time during the actual test  
+ 
+3.​ Coding (45 minutes, 2 questions, free navigation) 
+●​ The driver code was provided and only the required function needed to be implemented, 
+though this is not the case for many companies where you need to code from scratch.  
+●​ However if you require any data structure or algorithm that is not already included, you 
+will have to explicitly add the header or import it yourself  
+●​ The questions were both easy level array-based questions  
+●​ Each participant randomly received a different set of questions.  
+ 
+Question 1:  Return the odd-indexed elements of an array after sorting it in ascending order  
+Input : [3, 1, 6, 6, 5, 7] 
+Output : [ 3, 6, 7] 
+ 
+Question 2:   Return the maximum perfect square within a given range. The question was 
+straightforward, but not so explicitly given 
+Input : [3, 26] 
+Output : 25 
+ 
+4.​ SQL (15 minutes, 10 questions, free navigation) 
+●​ Query based questions were asked where we were supposed to determine the output, 
+guess the query based on output, as well as conceptual questions.  
+ 
+It seemed that the aptitude section was the deciding factor in many cases in terms of who 
+got shortlisted, but doing well on the coding and other sections will always improve your 
+chances.  
+23 students were shortlisted after this round. The shortlist was announced the same week 
+the day before the interview.  
+ 
+Technical + HR Interview 
+It took place at CUIC following an offline Pre-Placement Talk (PPT). In general, there 
+was only one round of interview for panels with two members, though some panels had only one 
+member and those students had to go through two rounds of interviews.  
+First, the interviewers introduced themselves and then I did the same. Try to prepare 
+something short but memorable about yourself, your experiences or your goals. Though I was 
+visibly nervous in the beginning, the conversational nature of the interview helped me feel less 
+nervous. 
+They asked me follow up questions based on my introduction and then asked me 
+questions about one of my projects, my contributions, how I would handle certain situations 
+relating to the project such as if the other contributors are not willing to implement my ideas.  
+Then I was asked to write a simple SQL join query after which I was asked what 
+language I felt was my strongest. Since I had answered Java, I was then asked general Java 
+questions like what is garbage collection, error handling, Scanner vs BufferedReader, etc. 
+The flow of the interview is very much guided by your responses and many questions 
+were asked from terms I had mentioned in my answers, so don’t mention anything you can’t 
+answer a follow up question for. For example, when talking about garbage collection I had 
+off-handedly mentioned the finalize() method and the immediate follow up question was to 
+explain what it was.  
+I was then asked to write pseudocode for an array-based question. When asked to write 
+pseudocode, always try to explain your train of thought including any bruteforce solution that 
+comes to mind, and always remember to explain any edge cases that may be present.  
+ 
+Question :  Given an array of characters, sequentially print the character and its frequency 
+Input : [a, a, b, b, b, c, d, d, e] 
+Output : a2 b3 c1 d2 e1 
+ 
+I was finally asked if I had any questions for them. I asked how I could better equip 
+myself for this internship if given the opportunity. This question turned into a series of HR 
+questions where I was asked how I would learn new things, and what I think is required for 
+effective team collaboration.  
+Try to prepare a question beforehand based on something that you want to know, or 
+something you learned from the company’s PPT etc. The interviewers were very kind and 
+engaging making for an overall good experience. 
+ 
+Finally, 9 students were shortlisted for the internship, and I am very grateful for the opportunity.   
+ 
+General Advice 
+I’m not sure how qualified I am to give advice :), but from personal experience, the main 
+thing I would stress is to not lose faith in yourself if you are not shortlisted. The mental toll and 
+seriousness of the whole process only sunk in for me when companies actually started coming 
+despite previous warnings. This process has quite a bit of luck involved, but the only thing we 
+can do to improve our chances is to keep practicing, which is hard to do when it feels like there 
+is no end in sight. If you find yourself struggling with this, remember that you are not alone, and 
+many before you have felt exactly the same. So, keep going and may you see the light at the end 
+of the tunnel!  
+ 
+Resources 
+1.​ LeetCode, HackerRank, GeeksForGeeks, takeUForward, IndiaBIX 
+2.​ https://leetcode.com/studyplan/leetcode-75/ 
+3.​ https://leetcode.com/problem-list/oizxjoit/ 
+4.​ https://takeuforward.org/interviews/must-do-questions-for-dbms-cn-os-interviews-sde-co
+re-sheet/ 
+5.​ https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems 
+6.​ C.O.D.E series conducted by ACM-CEG 
+ 
+Contact 
+Marushika Manohar 
+Phone : +91 73059 66278 
+Linkedin : https://www.linkedin.com/in/marushika-manohar/ 
+ 
+All the best! 

@@ -1,0 +1,58 @@
+INTERVIEW EXPERIENCE
+
+NAME Akil Vishnu M
+REG NO 2018115010
+EMAIL ak.mads18@gmail.com
+COMPANY Wells Fargo
+MONTH & YEAR September 2021
+
+ROUND 1 ONLINE TEST
+It was conducted on AMCAT Platform. There was no negative marking. Attempting all the
+
+questions was mandatory.
+1. Verbal Aptitude
+2. Business Aptitude
+3. Two Coding Questions
+
+It had three sections.
+
+For coding questions, the difficulty lies in understanding the questions.
+
+ROUND 2 TECHNICAL INTERVIEW
+It was conducted in zoom. It was a 45 min interview.
+● The interviewer asked me for an introduction.
+● Then he asked me to explain concepts in OOPS and OS. He asked whether I
+
+implemented these concepts in my projects. For example when talking about data
+structures he asked whether you implemented any data structure in your project. I
+told him about my project where we used dijkstra to find the shortest path.
+● He asked about some of the projects in my resume and my contribution to it.
+● Overall the interview was focused on testing my knowledge in core subjects and
+
+my projects.
+
+ROUND 3 MANAGERIAL INTERVIEW
+It was conducted in zoom. It was a 30 min interview. The interview focused on checking
+your managerial skills and whether you are fit for the company.
+The questions are
+
+● What do you know about Wells Fargo?
+● What comes to the mind when you think of Wells Fargo?
+● What domain do you like to work on?
+● He chose one project from my resume and asked how the user can use it?
+
+ROUND 4 HR INTERVIEW
+It was a phone interview. It was a 15 min interview.
+The questions are
+
+● About my family background
+● About my hobbies
+
+● How do you see yourself in 5 years?
+● Are you willing to relocate?
+
+Interviews are more about mind and communication. Always answer in a positive and
+polite way.
+
+ALL THE BEST
+

@@ -1,0 +1,305 @@
+ 
+        Amazon Interview Experience 
+  
+Amazon is an American multinational technology company focusing on 
+ecommerce, cloud computing, online advertising, digital streaming, and artificial 
+intelligence. It is considered one of the Big Five American technology 
+companies, alongside Alphabet (parent company of Google), Apple, Meta 
+(parent company of Facebook) and Microsoft. It is a product-based company and 
+one of the infamous MAANG companies.  
+  
+Role Offered:  SDE-6M Intern (FTE conversion is based upon performance)   
+Stipend:  1,10,000 INR + 425 USD / Month 
+Location : Bangalore / Chennai / Hyderabad (Available Locations ) 
+Selection Process:  
+                        1.PrePlacement Talk 
+                        2.Online Assessment 
+                        3.Technical Interview  
+ Prerequisite:  
+ 
+Don’t apply without knowing all concepts from the following  
+ 
+ 
+1.Binary Search  
+ 
+ 
+2.Graphs 
+ 
+ 
+3.Trees 
+ 
+ 
+4.Linked List 
+These topics are mandatory for Amazon Technical interview. 
+Questions may come from some other topics but, they will ask totally 2 
+questions in the interview which includes one Linear Data Structure and another 
+one is Non-Linear Data Structure so, definitely you will have one question from 
+the above topics. 
+Complete all the concepts from the Stiver’s A2Z sheet. 
+ 
+Mastering all the concepts from the A2Z sheet will surely boost your chances of 
+cracking Amazon. 
+ 
+Online Assessment  (3rd Oct 2025) :(Virtual)  
+ 
+There is no guarantee for shortlist even though you could solve both coding 
+questions. 
+Personality Test plays a major role for shortlisting. (be minded) 
+  
+It consisted of two coding questions and a work personality test.  
+• Coding Question - 2(A total of 70 minutes)  
+• Personality test – No time constraint (But compulsory to complete)  
+The question pattern for the online assessment would change every year. This year 
+it was only coding round whereas previously they would ask coding questions 
+along with some technical questions. So, prepare yourself for both coding 
+questions and MCQ’s.  
+The online Assessment was conducted in HackerRank platform.  
+No need of Webcam and Microphone for this OA round. 
+  
+Coding Question 1:  
+The logistics coordinator at a fulfillment center needs to efficiently dispatch a 
+set of n items, each originating from a specific warehouse, represented by an 
+array of warehouse IDs. The objective is to find the minimum number of 
+operations required to clear the entire inventory, subject to two rules: 
+1. Paired Dispatch: Two items can be dispatched in a single operation only 
+if they are from different warehouses. 
+2. Single Dispatch: An item must be dispatched alone if no eligible partner 
+from a different warehouse is available. 
+The challenge is to devise a strategy that maximizes the use of the more 
+efficient paired dispatch operation to achieve the lowest possible total operation 
+count. 
+ 
+Test Case 1: 
+Given n = 4 and warehouses = [9,5,9,9] 
+Operation 
+X 
+Y 
+Warehouses 
+1. 
+1 
+- 
+[5,9,9] 
+2. 
+1 
+2 
+[9,9] 
+       3. 
+1 
+- 
+[] 
+Hence the coordinator needs to perform 3 operations to dispatch all of the items. 
+Output :3  
+ Explaination: 
+Optimal Strategy: Majority Rule 
+The key to minimization lies in focusing on the most frequently occurring warehouse ID. 
+Let  be the count of items from this majority warehouse, and let  be the total count of items 
+from all other (minority) warehouses. 
+You can pair every item from the majority warehouse with an item from the minority group 
+using Operation 1, until one group runs out. 
+• 
+If the majority is not too large (M <= S): You have enough items from other 
+warehouses to pair with every item from the majority warehouse. All M items are 
+paired and dispatched in M operations. The remaining  S - M items are all from the 
+minority group and can also be optimally paired with each other. The total minimum 
+operations required ends up being M+[(S-M)/2] . 
+• 
+If the majority is dominant (M > S): You pair all S  minority items with  items from 
+the majority warehouse, taking  S operations. The remaining  M- S items are all from 
+the same dominant warehouse and must be dispatched one-by-one using Operation 2. 
+The total minimum operations required is S + (M- S) = M . 
+In essence, the minimum number of operations is dictated by either the 
+necessity of one-by-one dispatching for the dominant warehouse count (M) or 
+the optimized two-by-two dispatching possible when item counts are balanced. 
+ 
+ 
+ 
+ 
+ 
+Coding Question 2:  
+The task is to determine the time required for a service pipeline to stabilize 
+following a disruptive service failure. The pipeline is represented as a string of 
+service categories, and the failure is caused by a pecific failedService character. 
+The system evolves in discrete time steps (seconds): in every time step, each 
+instance of the failedService currently present in the pipeline causes the 
+immediate termination and removal of the service node immediately 
+preceding it. This process iteratively shortens and changes the pipeline string. 
+The objective is to calculate the total number of time steps (seconds) that pass 
+until a full step occurs with no services being terminated, at which point the 
+system is considered stabilized.  
+Sample Testcase:  
+N = 4 , pipeline = “database” , failedService = “a” 
+Output: 2 
+Explanation:  
+ Problem Setup :  
+We have a pipeline represented by the word:  database 
+The failed service is: a 
+Rule: 
+Whenever an ‘a’ appears in the pipeline, the letter immediately before it is 
+terminated (removed). 
+This process repeats in time steps until no more letters can be removed (the 
+system becomes stable). 
+Step-by-Step Execution :  
+Time Step 0 — Initial State :  
+Position 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+Letter  
+d 
+a 
+t 
+a 
+b 
+a 
+s 
+e 
+ 
+failedService = a  
+Occurrences of ‘a’ are at positions 1, 3, and 5. 
+ 
+ 
+Each ‘a’ removes the letter before it: 
+• ‘a’ at pos 1 removes d (pos 0) 
+• ‘a’ at pos 3 removes t (pos 2) 
+• ‘a’ at pos 5 removes b (pos 4) 
+ 
+Time Step 1 — After First Removals : 
+Remaining letters (after removing d, t, b): 
+aaase 
+Position 
+0 
+1 
+2 
+3 
+4 
+Letter  
+a 
+a 
+a 
+s 
+e 
+ 
+Again check for ‘a’: 
+• ‘a’s are at positions 0, 1, 2. 
+• There is no letter before position 0, so nothing can be removed. 
+No changes occur in this step. 
+Time Step 2 — System Stable :  
+Since no further removals happen, the system has stabilized. 
+Final Output :  
+Time Step 
+Pipeline State 
+0 
+database 
+1 
+aaase 
+2 
+aaase (stable) 
+                                                                                                                          
+Final Stable Pipeline: “aaase” . 
+Number of Time Steps to Stabilize: 2 
+ 
+ 
+Based on this Online Assessment, 105 people were shortlisted for the next 
+round.   
+Technical Interview: (1 hour) 10th Oct between 10 AM to 6 PM.  
+The interview was conducted in Amazon’s chime platform. We were provided an 
+amazon chime link for the meeting.  
+In the interview, we had an introduction where each of us took a turn introducing 
+ourselves. In this interview, you wouldn’t have any HR round to talk about your 
+strengths. So, when you introduce yourself, tell them your technical strengths and 
+what projects you have worked on. Present yourself in a pleasing way. Then you 
+would be asked to share your screen and use LiveCode to code your questions.  
+1.Land & Sea Problem  
+You are given a grid consisting only of 0s and 1s, where 0 represents sea and 1 
+represents land. Some land cells are connected to one another horizontally or 
+vertically, forming connected land regions. If any connected region of land 
+touches the boundary of the grid—meaning the top row, bottom row, leftmost 
+column, or rightmost column—then that entire region becomes flooded. Flooding 
+means that every 1 in that region is converted into a 0. After all boundary-
+touching land regions are removed in this way, you must determine how many 
+land cells (1s) remain in the grid.  
+ Grid = [ 
+[0,1,0,0,0], 
+[1,1,1,0,0], 
+[0,0,1,0,1], 
+[0,0,0,0,0], 
+[0,1,1,1,0], 
+[0,0,0,0,0]  
+] 
+Output : 3  
+I was asked the approach first and then asked to code the same.  
+ Then they enquired me about the time and space complexities. 
+ 
+ 
+ 
+Explanation:  
+This problem can be efficiently solved using Depth-First Search (DFS). The key 
+idea is that only the land regions that touch the boundary should be removed, so 
+instead of searching the entire grid, we only start DFS from the boundary cells. 
+We go through all cells on the outer border of the grid, and whenever we find a 
+land cell (a 1), we immediately apply DFS on it. During the DFS process, we 
+convert that 1 into a 0 to mark it as flooded, and we continue exploring all four 
+directions—up, down, left, and right—so long as the next cell is also land. This 
+ensures that every land cell connected to the boundary is removed. After 
+performing this boundary DFS on all sides, whatever 1s remain inside the grid 
+are guaranteed to be land regions that never touched the boundary. Therefore, 
+the final answer is simply the count of all remaining 1s in the grid after the 
+flooding process is complete. 
+2.Koko Eating Bananas 
+This problem is available on leetcode : 
+https://leetcode.com/problems/koko-eating-bananas/description/ 
+I was asked the approach first and then asked to code the same. Then they 
+enquired me about the time complexitiy.  
+With that the interview got over.  
+The result was announced on 13|10|2025 and I was one of the 18 members who 
+got the offer.  
+  
+“””  Everything will happen at the right time””” 
+ 
+ 
+“  Just keep working hard and don’t lose hope. 
+    And always have good friends around you — 
+    the ones who motivate you, support you, and pray for you❤️🫂...  ” 
+ 
+ 
+ 
+Tips:  
+• Regular 
+practice 
+is 
+important. 
+Solve 
+questions 
+in 
+Leetcode, 
+GeeksForGeeks and HackerRank.  
+• I followed C.O.D.E. resources and takeUForward YouTube channel for 
+my preparation on topics like Trees, Graphs, DP and Recursion.  
+• If you are not confident with DBMS, OS and OOPS, then prepare for them 
+simultaneously because you won’t be having much time between the online 
+test and the interview.  
+• Aptitude is as important as DSA. At least start learning aptitude two weeks 
+before your online test.  
+• Even though I was not asked about my projects, in every interview they 
+will ask about your projects, and they might ask you about the database 
+structure and all. So be prepared to answer any questions related to your 
+projects.  
+• For any DSA question give them the brute force approach and don’t jump 
+to the optimized answer directly. The interviewers are mostly interested in 
+your thought process rather than your code.  
+In the end, after all the preparation go through the 14 leadership requirements 
+from Amazon (just in case, interviewer may check) and STAR approach.  
+  
+All the very best!!!  
+  
+Elumalai D 
+CEG CSE’26 
+E-Mail: elumalaipro095@gmail.com  
+Mobile: +91 9361 5361 64  
+  
+  

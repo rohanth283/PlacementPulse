@@ -1,0 +1,80 @@
+|           |          | Agilan                      |     | B - Information |      |       | Science and  | Technology |
+| --------- | -------- | --------------------------- | --- | --------------- | ---- | ----- | ------------ | ---------- |
+|           |          | SummerinternAnalyst(Former) |     |                 |      |       | andFull-Time | Employee   |
+|           |          |                             |     |                 | CITI | CSIPL | ICG O&T      |            |
+| About the | company: |                             |     |                 |      |       |              |            |
+Citi Solutions Center (CSC) is a global hub for innovation and operations within Citigroup,
+providing comprehensive solutions and support across various functions like technology,
+| operations, | finance,andrisk |     |     | management. |     |     |     |     |
+| ----------- | --------------- | --- | --- | ----------- | --- | --- | --- | --- |
+| About the   | role:           |     |     |             |     |     |     |     |
+Citi's Institutional ClientsGroupOperations andTechnology (ICGO&T)createscutting-edge
+technology solutions and is dedicated to delivering outstanding service to our clients,
+working closely with our product teams. Our ICG O&T team is made up of diverse and
+| inclusiveprofessionals |                     |                       | across    | nearly90countries |         |     | worldwide. |     |
+| ---------------------- | ------------------- | --------------------- | --------- | ----------------- | ------- | --- | ---------- | --- |
+| Overviewof             |                     | the Selectionprocess: |           |                   |         |     |            |     |
+| Theselection           |                     | processincluded       |           |                   |         |     |            |     |
+| 1.                     | Onlineaptitude      |                       | andcoding |                   | contest |     |            |     |
+| 2.                     | Technicalinterview- |                       |           | Round1            |         |     |            |     |
+| 3.                     | HR - Final          | Round                 |           |                   |         |     |            |     |
+| Domains                | offered:            |                       |           |                   |         |     |            |     |
+Although the specific roles were not explicitly mentioned,the candidateswho gotselected in
+| Round1were |                      | dividedinto |              | twogroupsfor  |     | offline | interviews. |     |
+| ---------- | -------------------- | ----------- | ------------ | ------------- | --- | ------- | ----------- | --- |
+| 1.         | Institutional        |             | ClientsGroup |               |     |         |             |     |
+| 2.         | EnterpriseOperations |             |              | andTechnology |     |         |             |     |
+| Online     | aptitude             | and         | coding       | contest:      |     |         |             |     |
+Thecodingcontest wasconductedonthe SHLplatform. It included5sections.
+1. Aptitude
+| 2.  | Logical | Reasoning |     |     |     |     |     |     |
+| --- | ------- | --------- | --- | --- | --- | --- | --- | --- |
+| 3.  | Verbal  | Ability   |     |     |     |     |     |     |
+4. Technical
+
+| 5.  | Coding contest |     |     |     |
+| --- | -------------- | --- | --- | --- |
+Each section had a set time limit, and the next section could only be accessed after
+completing the previous one. Eachsectionhada timelimitofapproximately 20minuteswith
+| MCQs      | exceptthecodingcontestwhichhad |          | atimelimitof | 1hour. |
+| --------- | ------------------------------ | -------- | ------------ | ------ |
+| Questions | asked in Coding                | contest: |              |        |
+| 1.        | TrapeziumPattern               | Printing |              |        |
+2. Determine the maximum number of times you would need tocallaspecial function,
+which generates a unique permutation of an array each time, in order to obtain a
+|     | permutationthat issorted | inascendingorder |     |     |
+| --- | ------------------------ | ---------------- | --- | --- |
+Offline Interview:
+Atotal of tworounds- TechnicalandHR -were heldin offlinemode atCUIC.
+| Technical | Interview: |     |     |     |
+| --------- | ---------- | --- | --- | --- |
+The interview panel, consisting of two members from Citi's ICG Tech Business Unit, began
+by asking questions related to my resume. We first discussed my skills, with a particular
+focus on my knowledge of the Java programming language. Since I was currently studying
+Object-Oriented Programmingin Java,I mentionedthat Iwas newtoJava buthadexperience
+with C++. They also inquired about my understanding of Computer Networks which I was
+| studying | atthetime. |     |     |     |
+| -------- | ---------- | --- | --- | --- |
+Next, we discussed the projects listed on my resume.Onenotableproject wasaquiz website
+I developed for ISTA 2022, where I primarily worked on the backend and database. This
+aspect of the project left a positive impressionontheinterviewers. Theybrieflyreviewed the
+| otherprojects | aswell. |     |     |     |
+| ------------- | ------- | --- | --- | --- |
+Following this, they provided me with a sequence of numbers and asked me to insert them
+into AVL and Splay trees, as well as to perform deletions of certain numbers. Subsequently,
+they presented a scenario involving airways and requested that I createtables for itanddraw
+an ERdiagram.
+In the data structures portion, they presented a scenario involving a train with various
+compartments, where General and AC compartments are connectedsequentially. Theyasked
+me to insert a Catering compartment between these compartments and to specifywhichdata
+structure would be appropriate for this setup. I proposed a solution using Linked List and
+provideda pseudocodeforthe requirement.This roundlastedapproximately 45minutes.
+
+HRRound:
+After being selected in the Technical round, I, along with three other candidates, was
+assigned to a final round with an HR panel. I was thefirst tomeetwith theHRin thatpanel.
+The HR was very friendly, and we began with a brief introduction, discussing my interests
+and hobbies. I was asked about my interest in pursuing a Master's, to which I responded
+negatively. We also talked about Bollywood and Hollywood, exchanging opinions on their
+film industries. The interview concluded with a brief overview of my family. This round
+lasted around10minutes.

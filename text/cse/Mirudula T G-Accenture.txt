@@ -1,0 +1,72 @@
+ 
+INTERNSHIP EXPERIENCE 
+ 
+ABOUT THE COMPANY 
+ 
+Accenture is a multinational professional services company originating in the United 
+States and headquartered in Dublin, Ireland, that specializes in information technology 
+services and management consulting. Accenture provides a wide range of services and 
+solutions in strategy, consulting, digital, technology, and operations. The company helps 
+organizations to improve their performance and create sustainable value for their 
+stakeholders. 
+ 
+INTERVIEW PROCESS 
+ 
+Total Rounds : 4 
+ 
+Round 1 : Cognitive and Technical Assessment 
+ 
+This is a 90 minutes assessment consisting of 90 MCQs covering the following sections: 
+• English Ability 
+• Critical Thinking 
+• Abstract Reasoning 
+• Common Application and MS Office 
+• Pseudo Code 
+• Fundamental of Networking, Security and Cloud 
+This is an eliminatory round. Within 5 - 10 minutes of submitting the test you will get 
+the results and candidates who have cleared the assessment will receive an email to proceed 
+to the second round. 
+ 
+Round 2 : Coding Assessment 
+In this round there will be 2 coding questions that can be solved in your preferred 
+programming language : C, C++, Java, Python, … within 45 minutes. The questions will range 
+from easy to medium difficulty. This is also an elimination round and successful candidates 
+will receive a mail regarding the next round. 
+ 
+Round 3 : Communication Assessment 
+ 
+After 3 days, you will receive a mail to participate in the communication assessment. 
+This is a mandatory round but not eliminatory. This round is designed to evaluate your English 
+pronunciation, speaking, and listening skills. This round will take around 30 minutes. Make 
+sure to sit in a noise free environment. Consists of the following sections : 
+• Reading 
+• Listen and Repeat 
+• Answering to Questions asked 
+• Building a sentence from the given jumbled words 
+• Story retelling 
+• Answering Open ended Questions 
+After completing this round you will receive a mail to choose the time slot for your 
+interview. 
+Round 4 : Interview 
+ 
+The interview will be conducted after 3 days of your communication assessment in 
+your preferred time slot. The interview will last around 10 – 15 minutes. It was a 1 on 1 
+round and the interviewer asked me the following questions: 
+1. Tell me about yourself. 
+2. He asked me to explain about one of the projects mentioned in my resume. 
+3. He asked me if it was an individual project or team project? 
+4. How did we split the project among the team? 
+5. Difficulties faced during the project 
+6. Who evaluated your project and what was the feedback? 
+7. Have you implemented the change provided by your evaluator? 
+8. Asked me about my hobbies  
+9. Do you have any questions for me? 
+ Take Away 
+ 
+Be honest with whatever you mentioned in your resume and have a clear knowledge 
+of all your projects. Have a basic knowledge in all core concepts and practice DSA 
+consistently on platforms like Leetcode. 
+Hope this helps, thank you! 
+ 
+Name : Mirudula T G 
+Email : mirudulasuresh2805@gmail.com 

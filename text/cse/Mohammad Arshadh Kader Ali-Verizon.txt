@@ -1,0 +1,65 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Verizon 
+Verizon Communications Inc. is an American multinational telecommunications conglomerate 
+and a corporate component of the Dow Jones Industrial Average. The company is based at 1095 
+Avenue of the Americas in Midtown Manhattan, New York City, but is incorporated in Delaware. 
+Round 1 : Aptitude (Tech + Non-Tech), Verbal, Coding 
+This round was an Online Test consisting of aptitude and verbal questions followed by two 
+programming questions where both the coding question was medium level. This test was for around 
+90 minutes. 
+I attempted all aptitude questions because there was no negative marking and solved both coding 
+questions, so I got selected for the next level of Interview. 
+Round 2 : Technical Interview 
+The following questions were asked: 
+1. Introduce yourself. (Make it precise which will tell about your education career and your 
+personal life) 
+2. Programming languages mentioned in the resume and how would you rate yourself? 
+3. Explain about the projects mentioned in your resume. 
+4. Few technical questions like the algorithms used in the projects were asked. 
+The round was for about 30 minutes. At last the interviewer asked me if I had any question for him, 
+and I had already prepared two questions to ask the interviewer, please don’t miss the opportunity 
+when they ask “If you have any question for me?”. Please ask them one or two question and it will 
+make a good impression about you. 
+(Ask sensible questions) 
+As I boldly answered all the questions and presented neatly, I was shortlisted for the next level of 
+Interview. 
+Round 3 : HR 
+The HR round was very casual as compared to other rounds and it was for about 15-20 minutes. 
+They are just trying to get to know about yourself more. Some of the questions were: 
+1. Introduce yourself. 
+2. Why Verizon? 
+3. About your leadership qualities. 
+4. About your hardships in college as well as school and how did you overcome them. 
+For 3 and 4 type of questions try attending them in a positive manner because Interviewers see how 
+you are dealing with situations, so you should always stay positive and energetic. 
+Again the Interviewer asked me if I had any questions for her and I again used this opportunity. 
+Topics to be focussed: 
+ Data Structures 
+ Database Management Systems 
+ Operating Systems 
+ Algorithms 
+Take away: 
+ Make your basics strong and you will be able to answer any type of questions. 
+ Make yourself comfortable with the interviewer and ask him to repeat the question if you 
+don’t understand it rather than providing a wrong answer partially listening to the question. 
+ Be confident, bold, such that interviewer should feel the positivity in you. 
+ Though the interviewers may crack some jokes, just give them a smile and leave it and you 
+don’t rush to crack some other jokes(though they may be friendly). 
+ The main thing Interviewers check is how you try to attempt, the way you think, so if you 
+don’t know how to answer a question, think for a while and discuss your ideas with them 
+and have an interaction with them. Its not necessary that you should arrive at the answer. 
+ If you don’t know about the topic they ask, don’t directly say you don’t know, try diverting 
+them to the topic you are familiar about, like “I am not so strong in this version but I have 
+worked in the lower version of this software” and bring them to the topic you know. This 
+technique heavily impresses the Interviewer. 
+Hope this helps. Happy to help you and if you need further clarifications, don’t hesitate to reach me. 
+Thank you and All the Best. 
+Mohammad Arshadh Kader Ali 
+Email : arshadhmdk@gmail.com 
+LinkedIn : https://www.linkedin.com/in/mohammad-arshadh-kader-ali-ba36551a3/ 
+Mobile Number : 8148775755 

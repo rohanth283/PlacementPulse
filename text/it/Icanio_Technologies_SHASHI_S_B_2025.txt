@@ -1,0 +1,49 @@
+SHASHI S B – FTE IN ICANIO TECHNOLOGIES
+
+ABOUT COMPANY-
+
+Icanio Technologies offers comprehensive software development services encompassing
+Web, iOS, and Android platforms, DevOps Services, AIML solutions, and QA services.
+
+ABOUT ROLE-
+
+Software Developer Engineer at Icanio Technologies is responsible for designing,
+developing, and maintaining software applications using various technologies.
+
+PREPARATION STRATEGY-
+
+I started by learning Data structure and side-by-side I studied core subjects along with
+aptitude. I used Strivers Sheet for DSA Preparation and for core subjects like DBMS, OOPS,
+OS, CN., etc I used geeksforgeeks, javatpoint, w3schools. For aptitude I used R S Agarwal
+and IndiaBIX.
+
+PLACEMENT EXPERIENCE-
+
+The placement process is an online test, technical interview and HR interview.
+
+ROUND1 (APTITUDE + CODING):
+
+This Round was conducted for 3 hours which happened at CUIC. There were around 15 to
+20 Aptitude questions and 2 Coding questions. This test was conducted in coderbyte
+platform. The first coding question is to implement switch sort on arrays and the second
+question is Queen check problem which is a matrix question.
+
+ROUND2 (TECHNICAL cum HR):
+
+About 10 students were shortlisted for this round. This happened the next day at
+CUIC. I was asked to introduce myself. Then the interviewer asked questions about my
+projects and Internship. Then he asked questions on Data Structures, about my approach,
+what data structure can be used, why and asked me to write the code as well. It was
+mainly from arrays.
+
+(I would like you to focus your preparation on Arrays and Strings as most of the
+
+companies ask for this. Then try to go for linked list, tree, graphs., etc. Be strong in what
+language you use for programming also). He then asked questions from OOPS and SQL.
+
+Next was HR Interview. I was asked to introduce myself once again, then was asked
+2 to 3 scenario-based questions and asked how to solve it. They also asked about my past
+experiences and future goals.
+
+ALL THE BEST!!!!!
+

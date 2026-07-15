@@ -1,0 +1,60 @@
+CITICORP SERVICES INDIA PRIVATE LIMITED 
+ 
+CitiCorp Services India Private Limited deals with financial services. It provides 
+investment and commercial banking services like consumer loans, trade advance etc. 
+ 
+Round 1: Online Assessment  
+ 
+This round consisted of MCQs and 2 coding questions. The MCQs included 
+aptitude, logical, mathematical and verbal questions each in different sections. The 
+verbal questions included comprehension questions. The comprehension questions 
+will be based on a maximum of 2 passages. So we need not rush up as 4-5 questions 
+may be based on a single passage. Aptitude questions were mostly based on the 
+questions available in the Indiabix website. Each section has separate timers. 
+Managing time will be a wise choice. The coding questions are in easy and medium 
+level mostly. Practice in Leetcode website for coding. 
+ 
+Round 2: Technical , Managerial and HR Interview 
+ 
+The technical round is for about 25-30 minutes. If one has completed an internship, 
+questions will be mostly based on the internship. The questions were as follows. 
+1. Tell me about yourself 
+2. Tell me about your internship 
+3. Questions on the technologies I explored during my internship 
+4. Data structure for frequency handling in a sorted way 
+5. You are working in a team and one of your higher official is doing something 
+wrong. What would you do? 
+6. What do you consider important, Listening or Speaking? 
+7. How was your hostel life? 
+8. What would you consider as your achievement in your college? 
+9. Tell me about your college life which has a lot of diverse people in campus. 
+10. What would you do if we reject you in this process? 
+Be bold in answering these questions and have a clear layout of answers before 
+answering questions like these. These questions can shape one’s personality analysis. 
+Round 3: HR Interview 
+ 
+This round is for about 5-10 minutes. The following questions were asked. 
+1. Tell me about yourself ? 
+2. Why did you pick up computer science? 
+3. How does technology inspire you? 
+4. Do you have any questions for me? 
+For the last question, do some background research on the company if you are about 
+to ask questions on the company’s culture and stuff. Other questions can be about the 
+learning process or you can pick up topics from the company’s presentation. 
+ 
+Topics to be focused: 
+ Data Structures and Algorithms 
+ Prepare answers for common HR questions and ‘about yourself’ question prior. 
+ 
+Take Away: 
+Be clear with the concepts you speak. A bold and self-confident conversation will 
+help. Think through the answers you provide. Start with a less optimized solution and 
+build up as you go. Maintain a positive approach for most answers. Fear not if you 
+don’t know the answers. Try answering the questions positively. 
+ 
+Hope this helps. 
+ 
+Thank you and All the Best. 
+ 
+Deepthika S 
+deepthisiva99@gmail.com 

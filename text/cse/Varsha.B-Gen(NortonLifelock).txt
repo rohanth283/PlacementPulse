@@ -1,0 +1,126 @@
+GEN(NortonLifelock) 
+ 
+Gen Digital Inc. (formerly Symantec Corporation and NortonLifelock) is a multinational 
+software company co-headquartered in Tempe, Arizona and Prague, Czech Republic. The 
+company provides cybersecurity software and services. Gen is a Fortune 500 company and a 
+member of the S&P 500 stock-market index. The company also has development centers in 
+Pune, Chennai and Bangalore. Its portfolio includes Norton, Avast, LifeLock, Avira, AVG, 
+ReputationDefender and CCleaner. 
+Hiring Role:  Software Engineer Intern 
+The hiring process had 4 rounds. 
+• Online Test 
+• 2 Technical Rounds 
+• HR Round 
+Platform: DoSelect 
+Duration: 2 hours 
+Online Round: [30/09/2024] 
+It consisted of three coding question of medium level difficulty 
+Problem 1: Given a number n, convert it to its binary representation and store each binary 
+digit in a linked list. The head of the linked list should contain the most significant bit 
+(highest power of 2), and the head node cannot be 0. 
+The task is to return the head of the linked list containing the binary form of n. 
+This is a problem about converting a number to binary and storing the binary digits in a 
+linked list format. 
+Sample Input: 10 
+Sample Output: 
+1 
+0 
+1 
+0 
+Problem 2: You are given a string s of length n. Find the length of longest substring whose 
+sum is divisible by 3 and if no such substring exists then return 0. 
+Sample Input: 54641 
+Sample Output: 4 
+ 
+Problem 3: You are given a string s representing a number and an integer k. You can erase at 
+most k digits from the number. Your task is to return the smallest possible number that can be 
+obtained by removing up to k digits from s. 
+This problem is about minimizing a number by strategically removing up to k digits from the 
+original string. 
+Sample Input: 4529350 
+                       3 
+Sample Output: 2350 
+A total of 83 people were shortlisted for interview 
+Technical Round 1: [21/10/2024] 
+In the first round of the interview, I was asked to introduce myself, followed by questions on 
+Data Structures and Algorithms (DSA), Database Management Systems (DBMS), and 
+Object-Oriented Programming (OOPS). 
+Coding Questions: 
+ I was asked to write code for problems such as: 
+• Checking if a given array can be formed into a Binary Search Tree (BST) 
+• Reversing an array in place 
+• Buy and sell stock problem 
+• Maximum product subarray 
+• Pairwise swap of elements in a linked list 
+Data Structures and Concepts: 
+The interviewer asked basic questions about linked lists, trees, graphs like differences 
+between trees and graphs and types of trees, etc. 
+Following this, I was asked 3-4 practical application questions. 
+Example: 
+A question, where a text message on WhatsApp can be edited and undone,what data structure 
+can be used , I initially suggested using a stack. However, the interviewer pointed out that the 
+data shouldn't be deleted as it can be redone. I then proposed using a linked list, where the 
+edited message could be added as the next element, and when changes are undone, a pointer 
+could move to the previous element, or to the next if redone. However, the interviewer asked 
+to avoid pointers, so I came up with a solution using two stacks: one to store the current edits, 
+and the other to store elements when they are undone, allowing for an undo-redo 
+functionality without data deletion and she was satisfied with this 
+DBMS: 
+I was asked to write a query to find the second largest salary from a table. 
+ 
+OOPS: 
+The interviewer asked me to explain a concept in OOPS that made coding easier and how it 
+differs from regular procedural code. 
+After the interview, 35-40 candidates were shortlisted for the next round. 
+Technical Round 2: 
+This was also eliminatory round. 
+In this round of the interview, I was asked questions on topics like Operating Systems (OS), 
+Data Structures (DS), Object-Oriented Programming (OOPS), and projects mentioned in my 
+resume. 
+Data Structures (DS): 
+The interviewer focused on testing my understanding of data structures, rather than 
+definitions or explanations. 
+I was also asked about adjacency lists and some tree-related questions. 
+Object-Oriented Programming (OOPS): 
+He asked me to apply OOP concepts to a building with multiple lifts and explain the 
+communication between classes. Initially, I was thinking about how to apply inheritance and 
+the four pillars of OOP between classes. However, the interviewer was looking for a basic 
+answer—just the class names, which turned out to be "class Lift" and "class Floor." 
+ (I 
+was trying to overcomplicate it with code!). He laughed for overcomplicating. 
+Operating Systems (OS): 
+I was asked a question related to process scheduling. 
+I was selected for the next round. 
+HR Round: 
+It was an eliminatory round, the interviewer asked me various questions related to my 
+resume, including the tech stacks I used in my projects, club activities, and ongoing work in 
+the clubs. I was also asked how many LeetCode questions I had solved, when I started using 
+LeetCode, and what I am currently learning. I mentioned that I am learning Java, as I am 
+primarily a C++ programmer, and many companies expect Java for cloud development.  
+When asked about the next field I plan to learn (the interviewer preferred something other 
+than cybersecurity since the company was Norton, which focuses on cybersecurity), I 
+mentioned Artificial Intelligence (AI). I explained how AI can be both a cybersecurity threat 
+(due to things like deepfakes) and a tool to protect digital users. 
+Technical Questions: 
+Difference between IPv4 and IPv6 
+What is cache? 
+Explain shared lock and exclusive lock in DBMS as if explaining to a kid. 
+ 
+In the middle of the interview, the interviewer introduced himself and asked which team I 
+would like to work with, then explained the different teams in the company. Before 
+concluding, the interviewer advised me to specialize in a specific field, as many candidates 
+had similar tech skills on their resumes, making it difficult to stand out. 
+ 
+A total of 21 people were selected at the end. 
+ 
+Tips: 
+Be strong in DSA and core CS concepts like DBMS,OS,OOPS 
+Practice leetcode regularly  
+Be bold and confident while answering 
+Ask for hints if you aren’t able to think of a solution rather than saying I don’t know. 
+All The Best!!! 
+Contact:  
+Varsha.B 
+bkvrbkvr44@gmail.com 
+6382952323 
+ 

@@ -1,0 +1,125 @@
+Placement Experience
+
+Name: Raghav Swaminathan
+
+Roll Number: 2018115083
+
+Company: Searce Inc.
+
+Placement Rounds: 4
+
+Job Role Offered: Applied AI Consultant
+
+Placement Experience in Detail:
+
+1.  Round 1: Online Test (45 questions, 60 minutes)
+
+Had three sections – Quantitative, Logical and Data Analysis questions. The questions were
+pretty easy, just brush-up basic math concepts and you’ll be able to ace the test. If you’re
+someone who’s preparing for GRE/GMAT/CAT, the questions would be more or less
+relatable.
+
+2.  Round 2 (1 hour): Core interview questions were more inclined towards Product
+
+Management/Business Analysis. I was also bombarded with various scenario-based
+questions. A few notable questions that I can recollect are:
+1.  Tell us about yourself
+2.  Online test experience and my rating on a scale of 1-10
+3.  Hobbies and Leadership Experience
+4.  Academic Projects Worked On
+5.
+6.  An extended problem statement was given to me based on one of my internship
+
+Internships done and achievements
+
+projects, and I was asked to put myself in the shoes of a Product Manager, do a quick
+requirements analysis, build a solution from scratch, provide feasible features, how it
+would improve CX, and explain the relevance of those features in solving the problem
+(was cross-questioned, where I had to convince the interviewer why the
+features/solutions I suggested were more efficient in comparison to solutions that
+already exist)
+
+7.  Potential Industries/Markets that any consulting company should target to solve more
+
+AI based problems for clients and why (don’t just pick random industries. For instance, if
+you’re picking the Healthcare or E-Commerce, try to pick a pre-existing problem in that
+industry and explain how there’s scope for solving more business problems in that
+industry)
+
+8.  Review of Searce Products in Cloud, AI, and Analytics
+9.  What would I do if I just won a million dollar lottery – investment strategies and whether
+I would continue working (be as smart as you can in answering such a question, as its
+directly meant to test your character and the core competencies that you have
+mentioned on your resume)
+
+10. What technical skills I brought to the table and how they were relevant to the job role I
+
+was applying for
+
+11. Strengths and weaknesses
+12. Why I wanted to join Searce
+13. Questions I had for them (your chance to bombard them with all the questions you have
+about the job role, the company, the industries they cater, your interview performance,
+etc.)
+
+3.  Round 3 (1 hour): Technical Interview of sorts, where I was asked to talk more about my
+projects and internships. I was further asked to explain the algorithms I used for all my
+projects and was further questioned on the UX, usefulness, and deployment of all my
+technical projects. In the process, I was given a brief introduction to all the available job
+roles that were offered and constantly assessed if I was the right candidate. A few notable
+questions that were asked are as follows:
+1.  Explain something about yourself not mentioned on your resume (this gives you a hint
+that you need to reserve 5-10% of your resume content for such buffer scenarios)
+2.  Explain technical projects (I volunteered to be elaborate about the problem statement,
+existing problems, motivation, competitor analysis, SWOT analysis, technical approach,
+project outcome – PoC/Research Paper/Product/Prototype)
+
+3.  Questioned about practicality of certain features in my projects, with comparison to real
+
+time applications such as Instagram, Facebook, Snap Chat and Reddit
+
+4.  Given problem statements and was asked ML solutions along with the algorithms I’d use
+
+and why I picked the approach I proposed
+
+5.  Opinions on whether I would charge customers for any kind of paid service on social
+
+media,  why I would do so, examples of real-time scenarios and the kind of paid services
+model I’d develop for content/software based on a B2C model
+
+6.  Justify why I was the right fit for a consulting role
+7.  Was asked certain technical concepts that were used in their products
+8.  Current Searce products were explained to me, and I was asked for product reviews
+based on what I understood and my feedback on the method that they used to
+approach the same
+
+9.  Opinions on whether I would pursue my hobbies as a professional interest and was
+
+asked to justify the same
+
+10. At the end, I voluntarily asked for feedback on my interview and loopholes on my
+
+resume – very useful in building a rapport with your interviewer as a future industry
+acquittance/contact
+
+4.  Round 4 (20 minutes): This was the final interview round for me, (though a lot of other
+selects has a 5th round too) and it was a HR discussion. I was asked to talk about my
+character, my vision, what I intend to achieve at Searce, why I would want to join Searce and
+what made me choose the role I opted for (considering my technical background). I was
+finally offered the job, and we further went on to discuss my career growth at Searce, how
+Searce evolved to what it is today and what the daily work life of a Searcean would be like.
+The interview ended with me being asked my preferred job location and being informed that
+we’d be notified soon about our offer letters.
+
+Overall Experience: It was a unique interviewing experience, with comparatively longer interviews
+(probably because of the job role). My interviewers were very chill, friendly and were acceptive
+towards constructive criticism from my end. My advice to those sitting for placements is not to
+worry or evidently show that you’re nervous. Interviews are just to get to know you better, it’s not
+the end of the world. There is always a plethora of interviews lined up for students. Also, while being
+confident, if you don’t know something, accept the same with pride along with explaining how you’d
+work towards filling in the gaps, as its your chance during the interview to learn something awesome
+from someone with real-time industry experience. Finally, do note that you might be the best at
+something. However, never let your ego get the better of you during an interview. Your aim is not to
+just tell interviewers that you’re the best, but your aim has to be to prove it to them and make them
+understand why you’re the best and the kind of an asset they’d miss if they don’t pick you.
+

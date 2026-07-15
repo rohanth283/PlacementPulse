@@ -1,0 +1,33 @@
+Mu Sigma 
+ 
+Mu Sigma is an Indian decision sciences firm that primarily offers data analytics services. 
+The firm's name is derived from the statistical terms "Mu" and "Sigma" which symbolize the 
+mean and the standard deviation, respectively, of a probability distribution. 
+It consists of two rounds: 
+Round 1: Aptitude. 
+To clear this round, we need a basic knowledge of quantitative aptitude and logical reasoning. 
+Since I have already practiced enough aptitude questions for placement, this aptitude round 
+was pretty easy to solve. 
+Aptitude is important for most service-based companies like TCS, Infosys, Wipro, etc. So 
+practice enough aptitude questions in IndiaBix. 
+Round 2: Interview through Video-Recording. 
+This round consists of mostly analytics questions. We need to analyze and answer the 
+questions firmly with normal English fluency. 
+That is enough for mu sigma recruitment. 
+But for other product-based companies, practice many coding questions as much as you can 
+in geeks for geeks and Hackerrank. And be very clear in OOPS and DBMS concepts for the 
+technical interview. Whatever you study be clear in those concepts. For the HR round, 
+boldness is the key. Correct or wrong say with confidence. 
+The most important thing is don’t ever lose your hope during the placement period. You will 
+surely be get placed in one of the companies. So work hard, be confident and wait for your 
+time.  
+That’s all about my Placement experience ☺. 
+ 
+Aparna E V 
+aparnaev22@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 

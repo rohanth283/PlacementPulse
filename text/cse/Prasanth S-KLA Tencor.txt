@@ -1,0 +1,86 @@
+KLA TENCOR 
+KLA develops industry-leading equipment and services that enable innovation 
+throughout the electronics industry.  They provide advanced process control and 
+process-enabling solutions for manufacturing wafers and reticles, integrated 
+circuits, packaging, printed circuit boards and flat panel displays. 
+ 
+ 
+Total no. of rounds: 5 (Online Test, Technical Interview I, Technical Interview II, 
+Managerial Interview, HR Interview) 
+Eligibility Criteria: CGPA 7.5 and above 
+CTC : 18 LPA 
+Job Role Offered: Software Engineer 
+ 
+Round 1: Online Test 
+• Platform: HackerRank 
+• Difficulty level: Easy 
+• Duration: 90 minutes 
+• Number of Questions: 2 
+• Question 1: Smallest Negative Balance 
+• Question 2: A slight variation of Sort Roman Numerals 
+25 people were shortlisted for the technical interview 
+ 
+ 
+Round 2: Technical Interview I 
+• Platform: HackerRank Codepair 
+• Difficulty level: Medium 
+• Duration: 60 minutes 
+The shortlisted candidates were given codepair links to attend the technical 
+interview.  The interviewer asked to give a short introduction about myself.  Make 
+sure you prepare a nice and crisp introduction with a maximum of 1.30 – 2 mins.  
+After that, I was given 2 coding questions to be solved in the CodePair IDE (1 Easy 
+and 1 Medium).  Don’t just focus on typing your code, explain your thought 
+process throughout and make sure that you get your interviewer understand your 
+train of thought, so that even if you are stuck somewhere, the interviewer could 
+give the required hints.  Also, don’t get nervous whenever you get stuck 
+somewhere, always be bold and confident. 
+Coding Questions: 
+• Divisibility of Strings 
+• Sum of all parts of square matrix after divided by its diagonals 
+13 people were shortlisted for the next round 
+Round 3: Technical Interview II 
+• Platform: HackerRank Codepair 
+• Difficulty level: Medium 
+• Duration: 60 minutes 
+This round focused mainly on problem solving skills of the candidate.  I was asked 
+to explain the approach and write pseudo-code for 2 given problem statements (1 
+Easy and 1 Medium).  Make sure you communicate as much as possible, it always 
+plays to your advantage.  Time complexities of each of the solutions were asked. 
+Questions: 
+• Convert an infix string to postfix, and evaluate the postfix expression. 
+• Given ‘N’ processes (execution time for each process is given in seconds) 
+and ‘C’ cpu cores, where a process could depend on zero or more 
+processes and compiles only after all the process it depends on finishes 
+executing (no cyclic dependency).  Schedule the processes and print the 
+state of all the cores after each second. 
+6 people were shortlisted for the next round 
+Round 4: Managerial Interview 
+• Platform: Zoom 
+• Difficulty Level: Medium-Hard 
+• Duration: 60 minutes 
+This round was taken by a Senior Manager at KLA.  It mainly focused on system 
+design with some HR questions.  I was asked to design an application that would 
+take a script as input and execute it.  There was no code involved, only the 
+classes, and their corresponding responsibilities were asked, along with the usage 
+of appropriate data structures used in each of the functionalities in depth.  Some 
+basic HR questions were asked in the end. 
+ 
+Round 5: HR Interview 
+• Platform: Zoom 
+• Duration: 25 minutes 
+Started off with basic HR questions, but the interviewer started questioning based 
+on answers given to the previous questions.  Make sure you research about the 
+company well and prepare for HR questions beforehand so that you aren’t caught 
+off guard by any question. 
+4 of us were selected as FTE at KLA Tencor, Chennai. 
+Tips: 
+• It is highly recommended to restrict your resume to only one page and 
+make sure it is devoid of any spelling/grammatical errors. 
+• While practising your DSA, give contests regularly in coding sites (Leetcode, 
+CodeChef, GeeksforGeeks, etc.) 
+• Research the company well.  
+• Go through previous year interview experiences from geeksforgeeks. 
+• Its ok to start late, now is the best time to start preparing! 
+All the very best! 
+Prashanth S (CSE 2019 - 2023) 
+Feel free to reach out to me at: https://www.linkedin.com/in/prashanth-sp/ 

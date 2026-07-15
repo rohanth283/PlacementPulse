@@ -1,0 +1,34 @@
+**Placement Experience-Apple India**
+
+NAME: ARSHIYA KHIASUDEEN (2021115017)
+
+**ABOUT THE COMPANY:**
+
+Apple India operates as part of Apple Inc.'s global framework, offering a range of products and services tailored to the Indian market. As a product company, Apple focuses on its flagship devices, including iPhones, iPads, Mac computers, Apple Watches, and Apple TVs, which are sold through a network of authorized resellers and service providers. Apple India also provides cloud-based services such as iCloud for storage, Apple Music for streaming, and Apple TV+ for original content, along with customer support through AppleCare and online resources. The company has significant office locations in Bengaluru, Hyderabad, Gurgaon (Gurugram), and Mumbai, supporting its technology development, business operations, and regional adaptation
+
+**ABOUT THE ROLE:**
+
+The role with Apple’s IS&T team involves developing the next generation of software services for critical applications. Responsibilities include creating innovative software services that enhance the Apple experience on a global scale.
+
+**PLACEMENT DRIVE EXPERIENCE:**
+
+My placement experience consisted of three rounds :
+
+Round 1 was an assessment focusing on fundamental topics such as operating systems, object-oriented programming (OOP), and databases. This round included multiple-choice questions (MCQs) to test theoretical knowledge, followed by two coding questions. These coding questions were designed to assess our skills in dynamic programming and data structures, requiring us to demonstrate efficient problem-solving techniques.
+
+**Round 2** was a technical interview where the interviewer assigned me a problem to code in Java. The emphasis was on writing optimal code with minimal time complexity. Additionally, I was asked to create a library management system using OOPs concepts like inheritance, abstraction, encapsulation and polymorphism. This was followed by a SQL-based question that tested my database querying skills.
+
+**Round 3** was the managerial interview, which began with an overview of my resume and the projects I have worked on. The interviewer examined my project experiences, seeking ways to improve and innovate upon them. Questions also explored my teamwork skills, how I handle challenges, and sources of guidance. The interview concluded with a coding question focused on data structures, further demonstrating my technical proficiency and analytical skills.
+
+**PREPARATION STRATEGY:**
+
+My approach to preparation involved practicing coding on various platforms like LeetCode, HackerRank, and GeeksforGeeks. I began with basic and easy questions to get comfortable with the coding language and then progressed to more challenging medium and hard problems It’s essential to learn different algorithms, such as two pointers, sliding window, greedy methods, and dynamic programming, as these techniques are crucial for solving various problems. I found that dynamic programming and subsequence problems are often featured in tests. Understanding time and space complexity is also important, as these questions come up in both initial assessments and interviews. For learning OOPs concepts, I used resources from the internet(geeksforgeeks and javatpoint).
+
+**TIPS AND TRICKS:**
+
+* Make a habit of coding every day to improve your skills and maintain consistency.
+* Answer questions honestly and directly during interviews.
+* Speak clearly and at a moderate pace to ensure you are easily understood.
+* Avoid showing signs of nervousness or tension; remain composed throughout the interview.
+* Be thoroughly familiar with everything on your resume and be prepared to discuss it in detail.
+* Take a moment to think before you respond to questions to ensure your answers are well-considered.

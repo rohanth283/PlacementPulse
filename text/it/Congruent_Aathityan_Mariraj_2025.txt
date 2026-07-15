@@ -1,0 +1,132 @@
+AATHITYAN MARIRAJ- FTE IN CONGRUENT
+SOLUTIONS PVT LTD.
+
+ABOUT COMPANY:-
+
+Congruent Solutions is a specialist and trusted partner for the retirement
+plan industry. They strive to bring contemporary technology solutions and
+offer plan administration services that help the retirement plan industry
+solve its business challenges and be Ready for Tomorrow!
+
+ROLE:-  DOTNET FULL STACK DEVELOPER ROLE
+
+OVERVIEW OF THE PROCESS:-
+
+ROUND-1:- ONLINE WRITTEN TEST
+
+This was a tricky round. It was not a system test it was a written test but
+quite a different and tricky one.
+
+There were 5 Big and Long Answer questions.
+
+1.  The First questions we were given a pseudocode  which was quite
+
+long and we had to write the final output of the pseudocode.
+
+2.  The next question was also similar to the first one but it was a code
+with loops and recursive functions so finding the output was quite
+tricky when compared to the previous one.
+
+3.  The third one was a reversal of integers which was quite easy.
+4.  & 5. These were pattern questions and we had to find the next
+
+missing pattern. These questions were basically to test our analytical
+and logical thinking skills.
+
+This was a 4 hr long test.
+
+ROUND-2:- ONLINE SYSTEM TEST
+
+We were given 30 mcq sections covering topics such as
+OS,DBMS,C++,JAVA AND SQL. They were mostly easy and
+straightforward questions but we had to answer these 30 questions in 30
+mins.
+
+You have to be very strong in core concepts to clear this round.
+Prepare from websites such as INDIABIX and INTERVIEWBIT.
+
+ROUND-3:- TECHNICAL INTERVIEW-1
+
+This was the third round. First mainly they asked in depth about  my
+projects and slightly about my previous intern experience. Next they
+concentrated on oops concepts. Watching mock interviews on youtube for
+the role to which you are applying can be very helpful to clear this
+interview.
+Some of the questions asked to me are:-
+
+1.  Introduce yourself .
+2.  Explain about your project.
+3.  What is oops?
+4.  What is Encapsulation?
+5.  What is the difference between function overloading and function
+
+overriding?
+
+6.  Reversal of a string?
+7.  Difference between do and do while loop in python?
+
+ROUND-4:- TECHNICAL INTERVIEW-2
+
+This round they mainly asked questions from my resume and they asked
+scenario based questions. Having a previous intern experience can make
+you have a slight edge over others. If not then try to be more familiar with
+your projects.Try maximum to explain your projects technically.
+
+Some of the questions they asked me were:-
+
+ RESUME BASED QUESTIONS:-
+     1.What was your role in your internship?
+     2.What are the tools and technologies you used in your internship?
+     3.Since I was a data analyst in my internship they asked me to tell the
+difference between a data analyst and a data scientist.
+     4.What is Tensorflow?(since i used it in my project)
+
+SCENARIO-BASED QUESTION..?
+    In any situation have you ever thought that if you had more money then
+you would have done your project better?
+
+ROUND-5:-ONLINE HR INTERVIEW(15-mins)
+
+This was the final round this was more like a confirmation round but there
+were few hr questions asked by the interviewer like:-
+
+          1.How was your overall interview experience?
+          2.Why congruent?(***MOST IMPORTANT QUESTION***)
+          3.What are your salary expectations?
+          4.From when can you join the company?
+          5.What do you expect as an employee from this company?
+
+MY  PREPARATION STRATEGY
+
+1.  I Studied on a regular basis and solved at least 2 leetcode questions
+to be familiar with dsa.Striversheet is the best source that's available
+if you want to learn all concepts clearly regarding dsa.
+
+2.  To be more familiar with the technical concepts, I watched more
+mock interviews in youtube channels that  helped me to say the
+amount of content in each topic during an interview.
+
+3.  In-case you are starting from basics in technical subjects then study
+from websites such as interviewbit, geeksforgeeks and indiabix
+which I  did in my initial stage.
+
+4.  I tried writing mock tests for both coding and technical on the
+
+internet.
+
+5.  For arithmetic aptitude I referred to rs aggarwal book and for other
+
+aptitude based questions I referred indiabix.
+
+TIPS I FOLLOWED
+
+1.This was my 5th interview experience in which I succeeded . I always
+noted down the questions which I was not able to answer in my previous
+interviews and prepared before going to the next interview.
+
+2. I maintained a separate notebook for these placement subjects where I
+noted down the detailed explanation of the concepts which I felt were
+difficult.
+
+3. I studied on a regular basis at least for 4-5 hrs effectively.
+

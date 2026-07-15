@@ -1,0 +1,70 @@
+               BNY MELLON TECHNOLOGY (Internship) 
+ 
+About the Company 
+       The Bank of New York Mellon Corporation, commonly known as BNY 
+Mellon, is an American multinational Investment banking services holding 
+company headquartered in New York City. It is by far the world's largest custodian 
+bank and asset servicing company  BNY Mellon is an investments company, 
+which provides investment management, investment services and wealth 
+management helping institutions and individuals succeed in markets all over the 
+world. 
+ 
+Online Round (Coding) 
+       Alike all the companies, Coding round was the BNY Mellon's first level of 
+selection process. There were 4 coding questions distributed across various 
+domains and rated under different difficulty levels. The paltform used was 
+hackerank. Out of these 4 questions, one was categorised as easy, two were 
+medium and one was hard. The easy question was plain sailing and was based on 
+arrays. But the challenging part of this question is to handle the given constraints 
+where without handling it may cause 1 or 2 testcases to fail. 
+Both the medium questions were based on strings. These were little bit tricky but 
+could be solved with thorough knowledge over the fundamentals in strings and 
+suffice amount of time. The hard question was a back-tracking problem. 
+Candidates who solved atleast 2 questions were shortlisted for the next round. 
+Around 20 pupil cleared this round. 
+ 
+Techincal Interviews 
+      There were 2 technical interviews in total. In the first round, initially I was 
+asked to introduce myself briefly and then was tested on my basic understanding 
+of datastructures. Along with this, I was asked to write small code snippets which 
+was mostly on arrays and recursion. Also, I was given a situation based question 
+and was questioned on how could I cope-up with the given situation. Based on the 
+performance, almost half of the candidates were shortlisted for the next round of 
+interview. I was one among them. 
+ 
+In the second technical round, the questions were fully focussed on my 
+resume. I detailly explained all the projects which I worked on when I was asked 
+to do. Also, I was asked to write some of the code snippets for the projects I 
+explained. Some questions were on computer networks, DBMS and data 
+structures. Given a problem, I was asked to solve it. It was mostly on strings and 
+arrays. Approximately 10 candidates including me who attended the round 2 was 
+selected for the next round. 
+    In the round 3, questions on pointers, DBMS and operating systems were the 
+centre of attention. Resume specific questions were also asked. We also taked 
+about the extra courses and projects which I was undertaking. The final list of the 
+selected candidates were shared after the end of the last round. 
+ 
+Internship Experience: 
+      Due to the current pandemic situation, the internship was held virtually for 3 
+months from May 2020 to July 2020. Initially we had a week of traning where we 
+were introduced to company's tradition and technologies used. Then, we were put 
+in different teams working under various domains and were assigned a mentor. I 
+worked on various enterprise applications which were coded in JAVA and also on 
+the security vulnerabilities. In a nutshell, my internship has been an excellent and 
+rewarding experience. Not only I did gain practical knowledge but also got an 
+opportunity to meet many new technically expertise people. Also, there was 
+enough flexibility and time for me to learn and to try out my own ideas. 
+ 
+Topics to be focussed: Data structures, Algorithms, Networks, DBMS 
+  
+                                          All The Best!!! 
+ 
+ 
+                                                              Ashvathe(ashvathe1111@gmail.com) 
+ 
+   
+      
+     
+ 
+ 
+ 

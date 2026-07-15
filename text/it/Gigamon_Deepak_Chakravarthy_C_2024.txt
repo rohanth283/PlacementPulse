@@ -1,0 +1,33 @@
+My interview experience with Gigamon
+
+Hi, I’m Deepak Chakravarthy C. I have completed my B.Tech in IT and have now joined
+Gigamon as a Software Quality Assistant. I am writing to document and share my
+experiences during the interview process at Gigamon, which took place on 25th April 2024.
+appreciate the opportunity to have been considered for this role, and I want to provide a
+comprehensive overview of my interview experiences.
+
+1.  Initial Application and Screening:
+
+I initially applied on April 5th through CUIC. Shortly after, on April 8th, I received
+communication from Gigamon inviting me to participate in an online test. The test was based
+on aptitude reasoning and network knowledge, as Gigamon is a network-based company.
+
+2.  First Round Interview (Technical):
+
+I was called to participate in the interview process on April 25th, 2023. My first-round
+interview tested my basics in programming and networking. I was asked to explain my past
+projects, and there were also some questions on data structures.
+
+3.  Second Round Interview (Techno-manegerial):
+
+In the second round of the interview, I was once again tested on my knowledge of
+networking and asked about my past projects, including my final-year project. The
+interviewer presented some situational scenarios and asked how I would respond. I believe I
+responded well.
+
+4.  Final Round Interview (HR round):
+
+In the HR round, I was asked about my personal details, past interview experiences, and how
+I would handle certain workplace situations. We also discussed my career goals, both short-
+term and long-term.
+

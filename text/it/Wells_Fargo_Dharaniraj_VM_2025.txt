@@ -1,0 +1,173 @@
+WELLS FARGO INTERVIEW
+EXPERIENCE(INTERNSHIP)
+
+-Dharaniraj VM [2022115058]
+
+About the Company:
+
+Wells Fargo & Company is an American multinational financial
+
+services company with a significant global presence. The company
+operates in 35 countries and serves over 70 million customers
+worldwide. It is a systemically important financial institution
+according to the Financial Stability Board. It is considered one of the
+"Big Four Banks" in the United States, alongside JPMorgan Chase,
+Bank of America, and Citigroup.
+
+Number Of Rounds: 4
+
+1. Online Test
+
+2. Interview Round 1
+
+3. Interview Round 2 (Senior Manager Round)
+
+4. HR Round
+
+Online Test:
+
+The online round was conducted in SHL (Aspiring Minds)
+
+platform. This round was conducted in our department lab. The
+round consisted of 3 sections namely verbal aptitude, business
+aptitude and coding. Both aptitude sections had MCQs which had to
+be answered compulsorily, and free navigation was prohibited. The
+first two sections were common for all whereas the third section was
+different for all.
+
+1. Verbal Aptitude: 12 MCQs to be solved in 15 minutes. Questions
+focused on grammar corrections, vocabulary, and 4-5 reading
+comprehension-based questions
+
+ 2. Business Aptitude: 14 MCQs to be solved in 25 minutes. Pie
+charts bar charts and candlestick charts were given. Analytical
+questions will be asked from that. The questions were too long and
+hence I was unable to complete the last 4,5 questions.
+
+3.Coding round 1:(40 minutes)
+
+The questions will be too long. But the underlying concept will
+
+be very easier. Please don’t waste much time on the question. The
+difficulty level of both the questions were easy.
+
+The first question was to find how many characters are at the
+same position even after string reversal. The question was not this
+direct.
+
+The second question was “Given a number n, the task is to find
+
+the smallest number that can be made out of it by making suitable
+rearrangements. The length of the number should be same. “
+
+Eg: If the number is 743, the smallest number you can make is 347.
+
+Coding round 2:(10 minutes):  A detailed explanation about the
+Seven Bridges of Königsberg problem was given. The task was to
+determine, given a starting vertex V, a list of edges E, and a visited
+array, whether the problem is solvable (returning true or false).
+
+22 students were shortlisted for the interviews, which took place at
+MIT
+
+Interview Process:
+
+The interview process consisted of three rounds: Here are some of
+the questions I can recollect for each round:
+
+Round 1:
+
+I was firstly asked to introduce myself before which the
+
+interviewer had gone through my resume well. Then he started
+
+asking me about a project on Graphs that implemented vertex cover
+algorithm. The interviewer understood that I knew the concept well.
+But he wasn’t satisfied with my application. I accepted the
+shortcomings of our project. Accept your mistakes if pointed out at
+the interview. I included teaching as a hobby in my resume, So he
+asked me to give me a five-minute lecture on Data structures. Then
+he asked me some questions on distributed databases as my resume
+had MongoDB in it. He also taught me some concepts on Distributed
+databases later.  Then he asked me about some graph algorithms. I
+explained them well. The interview took place for about 30-40
+minutes.
+
+In general, some questions asked in the interview was related to
+
+•  Some popular algorithms and their performances (time
+
+complexity)
+
+•  Questions were asked from DBMS (to write SQL queries)
+•  Operating systems (about process scheduling,kernel,etc..)
+•  DSA questions on two pointer approach, linked list and trees
+•  Some were asked questions on Software Engineering ( Agility,
+
+Process models)
+
+ROUND 2:
+
+Round 2 was also a technical round. But for us the interviewer asked
+us to ask him questions that we wanted to ask a technical guy
+actively working in the industry. One of the questions I asked was
+
+•  I am interested in NLP and want to do projects in the domain.
+Do you feel that I have good opportunities in the industry to
+take that as my career?
+
+Others were asked about their projects in the second round. I
+explained all about my projects in the first round itself.
+
+ROUND 3:HR
+
+Round 3 was a very usual HR interview and the questions were “what
+are your strengths and weakness”, “Is there anything that you do
+apart from your academics”, “What will be your mindset when you
+work as a team for projects?” “How confident are you about getting
+placed in Wells?”.
+
+I would suggest that it is not mandatory to use the same safe
+answers available on the internet. That can at times make them feel
+that you are reciting the answers. You can share your perspectives
+confidently. Answer with a smile
+
+And finally of the 22 selected for the interview, the company
+provided internship for 12.
+
+PREPARATION STRATEGY:
+
+I started to prepare for the internship drives only during my 4th
+
+semester holidays. I started CP somewhere during the mid of 3rd
+semester but then I was not consistent at all. So my active
+preparation started after 4th semester. ACM’s documents were the
+only resource I followed. If possible, find a partner to practice with,
+exchange your solutions and discuss with them. I think practising in
+random doesn’t work..So follow a schedule starting from arrays,
+strings and ending with DP and high-level topics. Easy and medium
+level questions are more than sufficient is what I feel.
+
+Following a schedule is the best tip I can give because we tend
+
+to be focussed. ACM’s schedule will be helpful. Solve easy to medium
+problems on each topic and attempt a quiz at the weekend. That is
+sufficient and you are getting into some top companies. Don’t take
+too much stress. We are never too late to start.
+
+After companies started to come have this in mind,
+
+One thing we can do from our side is to work. If it turns
+positive, fine else no problem; something big is waiting. Luck also
+plays a big role in the process. So it doesn’t mean your works are not
+benefitted. Never lose your confidence in any step of preparation.
+We will work. Something big is always waiting for us!
+
+Always feel free to text, call or meet us for any kind of help! We
+
+will work together!
+
+Dharaniraj V M(2022115058)
+
+Contact:9976231117
+

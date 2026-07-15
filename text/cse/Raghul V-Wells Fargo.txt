@@ -1,0 +1,100 @@
+WELLS FARGO INTERVIEW EXPERIENCE 
+(INTERNSHIP) 
+ 
+Role: 
+ 
+Software Engineer Intern 
+ 
+About the company: 
+ 
+Wells Fargo & Company is an American multinational financial services 
+company with a significant global presence. The company operates in 35 
+countries and serves over 70 million customers worldwide. Today, Wells Fargo 
+India operates in Hyderabad, Bengaluru, and Chennai. It is considered one of the 
+"Big Four Banks" in the United States, alongside JPMorgan Chase, Bank of 
+America, and Citigroup. 
+ 
+Online test : 
+     
+The online test was conducted on the SHL platform.  It was a proctored test 
+and we were asked to attend  the test in IST dept labs. The test consisted of four 
+sections. 
+The first section consisted of verbal questions. It had twelve questions which 
+had to be completed within 15 minutes which could be answered pretty easily if 
+you had basic English knowledge. You can’t move between sections. 
+     
+ The second section consisted of 14 business aptitude questions with a time 
+limit of 25 minutes. Questions were based on stocks and shares, data 
+interpretations based on pie charts, bar charts, graphs. You should be able to solve 
+those easily with basic math. Just don’t spend too much time on a question and try 
+to complete all the questions. There is no negative marking and you can’t navigate 
+between questions of a section.  
+     
+The third round consisted of two easy to medium level coding questions with 
+a time limit of 40 minutes. In this section you can navigate between questions. 
+Driver 
+code 
+will 
+be 
+given. 
+The 
+first 
+question 
+is  
+https://www.geeksforgeeks.org/area-of-intersection-of-two-circles/ . You have to 
+return the answer rounded up to six decimals. 
+The second question was simple. You have to return a lexicographically sorted list 
+of repeated words in a given string. You could see how many test cases your code 
+has passed. It was clearly stated that they are expecting a solution which passes 
+all the test cases rather than an efficient code which is partially passing the test 
+cases. 
+      
+The fourth section consisted of one question which has to be solved in 10 
+minutes. The question was based on Königsberg's seven bridges. I was only able 
+to solve 1 of the 3 coding questions. More weightage was given to aptitude and 
+verbal than coding questions. You can solve the coding problems in the language 
+of your choice. 
+22 students got selected for the interview. 
+ 
+Round 1 : 
+      
+The round started with a standard tell me about yourself question. The 
+interviewer asked me to design a database and write a select query with joins. Also 
+asked me to write any sorting of my choice other than bubble sort and merge sort 
+(because most of the people before me have chosen those 2 algos). I chose 
+quicksort, visualized how it works to the deepest and wrote pseudocode for it. It’s 
+okay if you don’t know the answers for some questions. At last, the interviewer 
+asked me if I had any questions for him. Be prepared with some questions. Most 
+of the candidates who passed this round were selected. 
+ 
+Round 2: 
+      My experience of this round will be different from my peers. They had 
+technical as well as questions from my resume. This round was completely me 
+asking questions to him. This was the best round of experience that I had in the 
+interview. We were just sharing our thoughts and brainstorming about conducting 
+hackathons (because I mentioned that I have participated in 2 All-India level 
+hackathons). He even asked me to have some biscuits that were given to him 
+  . In this round he was just observing how curious I was.  
+ 
+Round 3: 
+      This was a typical HR round. During the interview, I was asked to introduce 
+myself. I mentioned my strengths, technical interests, club responsibilities, and 
+personal interests. The interviewer asked me why I want to intern at Wells Fargo. 
+You just need to let them know that you are a good team player. 
+After this, 12 candidates were selected out of the initial 22 for internship. 
+ 
+TIPS: 
+● Be prepared with the DSA concepts. 
+● Don’t panic at any point. 
+● Being a bit good in communication would really help you in your interview. 
+● I was not selected in my very first interview, so try until you get it right.   
+ 
+ 
+All the best people!... 
+ 
+Raghul V 
+CSE CEG’26 
+Mail: raghul11072004@gmail.com 
+LinkedIn: https://www.linkedin.com/in/raghul-v-381b93201/ 
+Contact: +91 8825875835 
+ 

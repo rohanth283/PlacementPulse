@@ -1,0 +1,87 @@
+AMERICAN EXPRESS 
+ABOUT THE COMPANY 
+American Express (Amex) is a global financial services company, best known for its 
+premium credit cards, payment solutions, and customer service. Founded in 1850, it 
+operates in over 130 countries and is ranked among the world’s most valuable 
+brands. 
+For professionals, Amex offers strong career opportunities in areas such as 
+technology, analytics, finance, operations, risk management, and customer 
+service. The company emphasizes career growth, learning programs, and a 
+culture of inclusion and collaboration. 
+In India, American Express has a significant presence since 1921, with its largest 
+center of excellence in Gurugram. Thousands of employees here contribute to global 
+operations, innovation, and customer experience, making it an attractive workplace 
+for those seeking growth in financial services and technology. 
+JOB ROLE 
+Intern – Technology – 8 weeks summer internship programme 
+ELIGIBILITY 
+• 
+Minimum CGPA: 7 
+• 
+No active backlogs 
+1. Online Test 
+The assessment was conducted on the Codility platform and included 3 problem-
+solving questions: 
+1. Subarray Maximum Sum Problem – From a given integer array, find a subarray 
+that both starts and ends with the same element, and calculate the maximum 
+possible sum among such subarrays. 
+2. Garbage Truck Scheduling – A row of houses has different types of waste 
+(Metal, Plastic, Glass). Separate trucks are assigned to each waste type. Each 
+truck travels to the farthest house of its type, collects the waste (taking 1 
+minute per bag), and returns. The task was to compute the overall time taken 
+(maximum among all trucks). 
+3. Grid Navigation with Constraints – An assassin has to move from a starting 
+cell to the bottom-right corner of an n × m grid. Guards monitor straight lines 
+in their direction until blocked, and all cells under their vision are unsafe. 
+Obstacles are also present. The task was to determine if the assassin can safely 
+reach the target cell under these conditions. 
+2. Interview 
+The interviews were conducted in virtual mode and had two rounds. 
+i) Technical Interview 
+Duration: 30 - 35 minutes 
+The round started with a self-introduction followed by a detailed discussion on my 
+projects. The interviewer asked many questions about: 
+• 
+The tech stack I used 
+• 
+The reasoning behind choosing those technologies 
+• 
+Design choices and scalability 
+One problem I was asked: 
+  A file contains dates. How would you sort it? 
+Since I had recently completed a related course on Coursera, I confidently explained 
+the solution using Pandas (read_csv) and Python datetime functions, describing the 
+complete workflow. The interviewer was satisfied with my explanation. 
+Finally, I was asked if I had any questions. I inquired about how freshers feel when 
+they first join Amex and about the work culture. 
+ii) HR Interview 
+Duration: 45 minutes 
+This round was largely focused on my projects, behavior, and communication. 
+The interviewer asked me to explain one project from idea to completion. I chose my 
+Data Science Capstone Project – Success Prediction of Falcon 9 Rocket Launches 
+ . I described the source of the idea, the dataset, methodology, and outcomes. 
+Since it was unique compared to common projects, it created a positive impression. 
+ 
+ 
+Other key areas of discussion: 
+• 
+Challenges I faced during projects 
+• 
+How quickly I can adapt to new languages/technologies 
+• 
+Handling pressure and managing time effectively 
+• 
+My interests, favorite subject, and future learning goals 
+Similar to the technical round, I ended by asking about company culture and fresher 
+experience at Amex. 
+TIPS 
+  Be clear and confident while explaining your projects, as they form the core of 
+the discussion. 
+  If you don’t know something, it’s okay to admit it – show your willingness to 
+learn. 
+  Prepare for scenario-based questions with real-life examples (challenges, 
+teamwork, achievements, failures). 
+  Research the company and role beforehand; it makes your answers more aligned. 
+  Maintain a positive attitude and sound confident throughout. 
+Wishing you all the best for your future goals. 
+ 

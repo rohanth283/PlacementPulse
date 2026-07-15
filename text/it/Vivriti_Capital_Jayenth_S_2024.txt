@@ -1,0 +1,42 @@
+About the company:
+
+Vivriti Capital
+
+Vivriti Capital is an Indian fintech NBFC that focuses on debt finance for mid-market enterprises. It is
+one of the leading startups based out of Chennai. They are mainly backed by TVS Credit, a company
+that has been in this field for years. Vivriti has offices in Chennai, Bengaluru, Mumbai, Gurgaon and
+Singapore although the tech team is based out of Chennai office only. They have other sister
+companies like Vivriti Asset Management and Vivriti Next which offers fintech solutions. Tech hires
+are considered as employees of Vivriti Capital only.
+
+Role:
+R&D Engineer – The role offers lot of scope for exploring new domains and tech stack. You’ll get to
+experiment a lot and learn different stack. It involves more of ML-based solutions and latest
+developments in the field and offers full ownership of the product.
+
+Preparation Strategy:
+Usual medium level DSA and other fundamentals. Be thorough with projects and skills in resume.
+
+Placement Drive Experience:
+First round – Online HackerRank test at CUIC
+10 MCQs on fundamentals
+3 DSA questions (1 easy, 2 medium. Arrays, strings and basic 1-D DP)
+
+Second round – Technical + HR interview
+Basic DSA, sorting techniques, time & space complexity, etc. Be thorough with your resume. Major
+part of the interview will be based on what you put in resume, especially projects. Know everything
+about your projects.
+
+Tips and tricks:
+Tips as in for first round, the usual DSA in Leetcode/GFG will do. As for the interview, it’ll be based on
+your skill-set. The major advantage here is that they do not require you to be knowledgeable in a
+specific tech stack but want you to be fundamentally strong in what you mention. The interviewer
+will be determined based on what tech stack and projects you have mentioned in your resume. For
+example, the interview will be different for R&D engineer (requires Python and basic understanding
+of ML and related projects) and software engineer (requires full stack development skills).
+
+The work culture is good, not much hierarchy is followed, you can just knock on the CEO or CTO
+whenever you want (still a large startup       ). If you are planning to go for higher studies and want to
+gain industry experience while preparing for something else then this will be a good place. Don’t
+expect it to be like other multinational banks since this is an Indian company and works differently.
+

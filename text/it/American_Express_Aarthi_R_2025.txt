@@ -1,0 +1,72 @@
+AARTHI R – INFORMATION TECHNOLOGY (2024)
+
+ENGINEER TRAINEE IN AMERICAN EXPRESS
+
+**About the Company:**
+
+The American Express Company, or Amex, is an American bank holding company and multinational financial services corporation specializing in payment cards. They leverage advanced data analytics, cloud infrastructure, secure APIs, machine learning, and a hybrid cloud environment to provide a seamless, secure, and personalized experience for users. The company’s technological investments support not only transaction processing but also fraud prevention, regulatory compliance, and customer engagement, making it a leader in the digital finance space.
+
+**About the role:**
+
+The Engineer Trainee role at American Express involves developing scalable, mission-critical applications on cloud platforms using languages such as Java, Python, and JavaScript. The work spans various tech domains, including real-time transaction processing, big data, AI/ML, and omnichannel solutions for mobile and social integrations. The role includes collaborating with skilled engineers on design, coding, and Software Development Life Cycle (SDLC) tasks. It also fosters a culture of innovation, continuous learning, and experimentation with cutting-edge technologies.
+
+**Overview of the process:**
+
+* Coding test (Online)
+* Technical Interview (Online)
+* HR Interview (Online)
+
+**Online coding test:**
+
+The coding test was conducted on the Codility platform. It included three coding questions, which required concepts such as the greedy approach. Only three test cases were visible, while the rest were hidden. Scores were based on the number of hidden test cases that passed, so it was essential to handle all edge cases correctly for successful completion.
+
+**Interview Round I:**
+
+*Duration: 45 mins*
+Both interview rounds were conducted on Microsoft Teams. My questions were entirely project-based, although other panels included DSA questions as well.
+
+* The interviewer asked me to explain the projects mentioned in my resume, the tech stacks used, and my role in each.
+* He was particularly interested in a Full Stack project I worked on, asking why I chose a specific database, potential security concerns, and challenges faced.
+* Since I mentioned a preference for backend development, the questions were focused on that area.
+* As I had worked with open-source APIs in my project, he asked about various request methods.
+* Difference between PUT and POST methods.
+* What are joins in SQL? Explain their types.
+* What is indexing?
+* Where do you see yourself in the future?
+* Any questions for him?
+
+Out of the candidates interviewed in the first round, I was fortunate to be the only one chosen to move forward.
+
+**Interview Round II:**
+
+*Duration: 20 mins*
+
+This round had two interviewers who introduced themselves as directors from American Express.
+
+* Tell us about yourself and why you’re interested in Amex.
+* Since I mentioned reading books as an interest, they asked me about the last book I read and its content.
+* How have you applied principles you learned from the book?
+* How do you handle criticism?
+* How long would it take for you to learn a new programming language?
+* Differentiate between C and C++.
+* Find the number of trailing zeroes in the factorial of 126 without calculating the factorial itself. (They focused on my approach rather than the exact answer.)
+* Have you done any projects in C++, or only in Python?
+
+**Tricks that I followed:**
+
+* I completed the online test as early as possible.
+* Even before the shortlist was released, I reviewed interview experiences from GFG and other websites.
+* As soon as the shortlist was released, I brushed up on concepts of DSA, DBMS, SQL, OOPS, and OS that I had already prepared.
+* My prior interview experiences helped me a lot in this process.
+* I read the job description thoroughly and tailored my introduction accordingly.
+* I prepared questions to ask the interviewer to demonstrate my interest in the role.
+* When I mentioned my ML project, the interviewer didn’t seem very interested, so I shifted to my Full Stack project and explained it thoroughly, which helped me clear the technical round.
+
+**Preparation Strategy:**
+
+* I only started preparing during my 6th-semester holidays, which I would not recommend.
+* I practiced coding questions from Striver's A-to-Z sheet and studied other concepts from preparation materials provided by seniors.
+* I ensured I had complete knowledge of all the tech stacks used in my projects.
+* Include only what you know on your resume, and be mindful that interview questions are often based on what you say, so be cautious to avoid backfiring.
+* I faced rejections and felt anxious at times, but I made sure this didn’t impact my preparation.
+* Start preparing as early as possible and be confident so you can showcase your skills to achieve your goals.

@@ -1,0 +1,51 @@
+**Gautham S – 2024 B.tech IT – Citi Corp**
+
+**About the company:** Citi India is a leading global financial services firm, offering comprehensive banking solutions, including personal and commercial banking, investment services, and wealth management. Citi India provides innovative financial products and services designed to meet the diverse needs of individuals and businesses.
+
+**About the role:** Project Manager/Scrum Master – I oversee project execution, ensuring timely delivery and adherence to scope, budget, and quality standards. I facilitate agile processes, coordinate cross-functional teams, and manage stakeholder communications to drive project success and align with organizational goals.
+
+**Preparation strategy:**
+
+1. Note down the different types of problems listed in “Striver’s SDE Sheet” ( Covers all the topics)
+2. Take a week or 2 to UNDERSTAND and learn the topic, type of problem has a general skeleton, once you’ve learnt that your life gets a lot better.
+3. Head to Leetcode and filter out and solve the easy questions first. Trust me it’ll help you to stay motivated. Most of the questions fall under the types that I spoke about before.
+4. Don’t shy away from looking for solutions initially, whats important at this stage is learning to fit the types to the problem asked.
+5. Move on to the Medium questions on Leetcode.
+6. Start solving Striver’s SDE sheet. If you cant solve a question, watch the YT tutorial but come back and code it yourself without looking at the code.
+7. If you’ve completed the sheet go for Leetcode Hard.
+8. Pray all the gods to get all the luck you can. LUCK plays a major role sadly.
+9. Make sure you know all the project you listed on your resume in ur fingertips.
+
+**Placement Drive experience:**
+
+Round 1: Online Test ( 5 Coding Questions & Personality Assessment)
+
+Round 2: Face to Face at CUIC
+
+1. General Intro
+2. Questions about the project
+3. Topic specific questions ( I used trees in my project so I was asked to do insert, delete and update an AVL Tree ,question on Linked list )
+4. DBMS Questions
+5. OS Questions
+6. Leetcode Medium like coding question
+7. 1 easy coding question.
+
+Round 3: HR Interview at CUIC
+
+**Tips and Tricks:**
+
+1. Stay Motivated
+2. Track you progress
+3. See how you went wrong and why you went wrong
+4. Note down questions that you think are good and do it later to keep in touch
+5. Try not to be too rigid at the interview
+6. DO NOT LIE ON YOUR RESUME
+7. Striver’s SDE sheet is your bible
+8. Do leetcode!
+9. Don’t buy any paid courses, give it to me.
+
+**Preparation docs or playlists:** Striver’s SDE Sheet/ TakeUforward . Just google it.
+
+Feel free to reach out for any queries. Cheers and good luck.
+
+LinkedIn: https://www.linkedin.com/in/gautham-sivakumar-85a79622a/

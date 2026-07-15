@@ -1,0 +1,157 @@
+KATTU BAVA K S – INFORMATION
+TECHNOLOGY
+
+About the Company:
+
+GAVS Technologies is a global IT services and solutions provider
+specializing in AI-driven automation, cloud transformation, and digital
+innovation.  With  a  mission  to  enhance  business  efficiency  and
+resilience,  GAVS  offers  cutting-edge  solutions  such  as  ZIF  (Zero
+Incident Framework), an AI-powered predictive analytics platform that
+proactively prevents IT incidents. The company focuses on industries
+like  healthcare,  banking,  and  retail,  helping  enterprises  accelerate
+digital transformation while optimizing operations and improving user
+experiences.
+
+Overview of the Process:
+
+The overall process consisted of
+
+•  An Online coding contest
+
+•
+
+•
+
+Interview Round 1 (Technical) – In Office
+
+Interview Round 2 (HR) – In Office
+
+Online Assessment:
+
+The online assessment for GAVS Technologies was structured to
+evaluate various skills essential for the selection process. It consisted
+of the following six sections:
+
+This round went for 3 hours.
+
+1) Aptitude – Assessed problem-solving and logical reasoning
+
+abilities.
+
+2) Algorithmic Thinking – Evaluated the candidate’s approach
+
+to problem-solving and algorithms.
+
+3) Coding  Questions  (2)  –  Tested  programming  proficiency
+
+through two coding challenges.
+
+4) Reading  Session  –  Measured  comprehension  and  reading
+
+skills.
+
+5) Typing Session – Assessed typing speed and accuracy.
+6) Speaking Session – Evaluated communication and spoken
+
+English skills.
+
+Interview Round 1 (Technical) – Offline mode:
+
+This round went for 40 to 45 minutes.
+
+•  The  interviewer  started  by  asking  me  to  introduce
+
+myself.
+
+•  They asked me to explain my project and posed several
+
+questions related to it.
+
+•  They inquired about my internship experience and the
+
+work I had done during that period.
+
+•  They  asked  about  my  area  of  interest—whether  I
+preferred  front-end,  back-end,  or  non-tech-related
+domains.  I  mentioned  my
+in  front-end
+development.
+
+interest
+
+•  I was given logical thinking questions and was asked to
+
+solve them on paper.
+
+•  They asked React-related questions, including:
+•  What are states and components in React?
+•  What is Express.js?
+•  Difference between SQL and MongoDB?
+•  Why did you choose MongoDB?
+•  How to retrieve data using MongoDB?
+•  Finally, they tested my basic programming knowledge
+
+with a simple coding problem.
+
+•  The  interview  was  focused  on  understanding  my
+technical  expertise,  and
+
+problem-solving  ability,
+familiarity with front-end technologies.
+
+•  Any questions for him?
+
+Interview Round 2 (HR) – Online mode:
+
+The second round of the interview at GAVS Technologies was the
+HR round, where they emphasized communication skills rather
+than technical knowledge. The interviewer mentioned that this
+round  would  involve  eliminations  based  on  communication
+proficiency and overall suitability for the role.
+
+•  The interview started with them asking me to introduce myself.
+
+•  They  requested  me  to  explain  my  project  and  talk  about  my
+
+internship experience.
+
+•  They clarified that no technical questions would be asked in this
+focus  was  on  evaluating  my
+
+the  primary
+
+round,  as
+communication skills.
+
+•  They  asked  me  several  questions  about  GAVS  Technologies,
+
+including:
+
+o  What do you know about GAVS Technologies?
+
+o  Why are you interested in this company?
+
+o  What does GAVS do?
+
+o  How much research have you done about the company?
+
+•  They inquired about my willingness to relocate if required.
+
+•  They  asked  whether  I  would  be  comfortable  working  in  two
+
+shifts:
+
+o  Morning to evening
+
+o  Afternoon to night (only in rare cases, based on urgent US
+
+client requirements).
+
+•  Additionally, they asked several  personalized questions about
+me  to  assess  my  fluency,  confidence,  and  ability  to  articulate
+thoughts effectively.
+
+The HR round was mainly focused on evaluating my research about
+the company, adaptability, and communication fluency.
+

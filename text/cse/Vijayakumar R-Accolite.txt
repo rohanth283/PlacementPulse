@@ -1,0 +1,164 @@
+Accolite  
+ 
+It consists of 5 rounds. 
+Round 1: Aptitude round 
+ 
+There were aptitude questions based on Operating Systems, Computer 
+Networks, Database Management Systems, Quantitative Aptitude, Logical reasoning. A 
+mix up of all these aptitudes rounding to 30 questions. This test was held on EduThrill 
+platform and the total time given was around 30-40 minutes. You really need to be very 
+quick in solving those quantitative aptitude which will boost your time to analyze the 
+technical aptitude questions. Most of the students except a few were selected for the 
+next coding round. You need to answer a reasonably correct number of questions to get 
+selected to the next round. 
+ 
+ 
+Round 2: Coding round 
+ 
+In this round, 2 coding questions were asked and both of them were very easy 
+ones. With a little bit of practice one could solve them both in 5-10 minutes. I would 
+highly recommend to practice coding in Hackerrank platform for beginners and Geeks 
+for geeks and Code-chef platform for intermediates and advanced level coders. Try 
+completing the must do interview questions available in Geeks for geeks well ahead of 
+the placement season. The below are the questions asked 
+1. Trapping rain water  
+(https://www.geeksforgeeks.org/trapping-rain-water/) 
+2. Happy arrays 
+(https://codechef.com/problems/HAPPYARR (Not a same question but similar to this)) 
+ 
+Mainly the Coding round was fully focused on solving real time problems and it 
+was held on Codelyzer platform. Candidates can use any language of their choice for 
+solving the coding questions. Since the questions were easy many were able to solve 
+them both, hence the selection criteria were based on space and time complexity and 
+also the time taken by the candidate to solve the problems. The candidates selected for 
+the face to face interviews were announced 2 hours post the coding round. Around 80 
+were shortlisted for the next round. All the face to face interviews were held over skype. 
+ 
+ 
+Round 3: Technical interview 
+The interview began with formal greetings. She then asked me to introduce myself and 
+had a casual talk with me to make me feel comfortable. The following questions were 
+asked 
+ 
+1. The task is to divide an array into K non-empty subsets such that the sum of 
+elements in every subset is same. All elements of this array should be part of 
+exactly one partition. 
+ 
+2. The task is to find if there is a triplet in an array whose sum is equal to the given 
+value. 
+ 
+3. The task is to split the given array into K subarrays (they must cover all the 
+elements). The maximum subarray sum achievable out of K subarrays formed, 
+must be minimum possible. Find that possible subarray sum. 
+ 
+4. She then tested my knowledge on binary trees by asking about the different kind 
+of traversals like inorder, postorder, preorder, level order and asked me the 
+difference between then with an example. 
+ 
+The below are some links which will help you to solve those questions. 
+https://www.geeksforgeeks.org/partition-set-k-subsets-equal-sum/ 
+https://www.geeksforgeeks.org/split-the-given-array-into-k-sub-arrays-such-that-
+maximum-sum-of-all-sub-arrays-is-minimum/ 
+https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/ 
+https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/ 
+ 
+WHAT I SUGGEST TO YOU FROM THIS ROUND : 
+ Give a strong introduction about yourself since that is the first impression about 
+you to the interviewer. 
+ Take some time to analyze the problem. Break the entire problems into sub 
+problems and try solving the sub problems to arrive at your answers. 
+ Discuss your approach with your interviewer and make them involved in your 
+approach. 
+ Try cracking those corner cases first to impress your interviewer. 
+ 
+Many were unable to crack this round due to its level of hardness but luckily I was on 
+the other side. The next interview was held after 15 minutes post completion of this 
+round. 
+ 
+Round 4: Technical interview 
+ 
+The interviewer asked me to introduce myself and I was asked questions on my 
+resume. We had a long chat on my summer research intern project and then the 
+interview began. 
+1. Given a Binary Tree, convert it to a Doubly Linked List. The left and right pointers 
+in nodes are to be used as previous and next pointers respectively in converted 
+DLL. The order of nodes in DLL must be same as inorder of the given Binary 
+Tree. The first node of inorder traversal (left most node in BT) must be head 
+node of the DLL. 
+ 
+Note: To be very honest, I became nervous on seeing this question but I 
+didn’t give up and started to suggest some approaches. The interviewer 
+then found that I was not so comfortable with this question and gave me 
+another question. 
+2. Find Maximum Length of a sub-string without any repetitions. 
+- 
+For “ABDEFGABEF”, the longest substring are “BDEFGA” and 
+“DEFGAB”, with length 6. 
+- 
+For “BBBB” the longest substring is “B”, with length 1. 
+ 
+3. Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation 
+of s1? 
+(eg given s1 = ABCD and s2 = CDAB, return true, given s1 = ABCD, and s2 = 
+ACBD , return false) 
+ 
+4. Reverse a linked list in groups of given sizes 
+5. A puzzle to test my problem solving capability   
+https://www.geeksforgeeks.org/puzzle-1000-light-bulbs-switched-on-off-by-1000-
+persons-passing-by/ (not the exact one but with some modification in the 
+numbers)  
+ 
+WHAT I SUGGEST TO YOU FROM THIS ROUND : 
+ Be honest with the interviewer if you are asked whether you find it difficult or not , 
+be honest with him but suggest some approaches to express your “never give 
+up” attitude. 
+ Always try to optimize your solutions if you are asked to. Have good knowledge 
+of the time and space complexities. 
+ Practice a lot of puzzles and riddles as solving them show off your problem 
+solving skills.  
+ Always discuss your approach with the interviewer as he/she may give some 
+hints to optimize your approach, never keep your interviewer idle. 
+At the end of this round, the interviewer was very much impressed with my performance 
+and he connected the call to his manager immediately for my HR round. 
+  
+Round 5: HR interview 
+ 
+The manager asked me to introduce myself and started testing my 
+communication and thinking out-the-box skills. He asked me about the Covid-19 impact 
+on Tamil Nadu and questioned me on the effectiveness of the measures taken by the 
+Government during this pandemic and also asked me to suggest some measures if I 
+were given the authority. Then we had a chat about Indian railways giving free Wifi 
+access to its passengers (good/bad/what else could be done), climate in my area of 
+residence and so on. 
+ 
+Later he questioned me on aptitudes regarding Distance/Speed and 
+Time/Clocks. He even gave me two problems to solve on finding the angle between 
+minute and hour hand. Later he was very satisfied and appreciated me for my 
+performance. 
+Finally 11 of them were selected and I got my name on that list. :) 
+ 
+ 
+WHAT I SUGGEST TO YOU FROM THIS ROUND : 
+ Be prepared with quantitative aptitudes as it can even help you in your HR round 
+as it did in my case. I would suggest websites like Indiabix, Freshers world etc. 
+ 
+ Even though I was not asked any formal HR questions like 1. Why should I hire 
+you? 2.What are your strengths and weakness , be prepared to answer them as 
+well as banking and investment sectors which are on for placements would ask 
+them for sure. 
+ 
+Topics to be focused: 
+1. Data structures & Algorithms. 
+2. Competitive coding/Problem solving. 
+3. Object Oriented Programming Language for implementation in the interview. 
+(C++/JAVA is mostly preferred by the interviewers) 
+4. Projects mentioned in your resume. 
+5. Aptitude (Verbal/Reasoning/Quantitative) 
+6. Communication (Be prepared with your answers for famous HR questions) 
+ 
+ALL THE BEST!!! 
+ 
+For any further assistance or more details contact me on my mail id. 
+Name: Vijayakumar R 
+Mail id: rvijayakumar512@gmail.com 
+ 

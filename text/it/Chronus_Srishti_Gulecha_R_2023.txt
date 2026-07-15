@@ -1,0 +1,173 @@
+INTERNSHIP EXPERIENCE –  CHRONUS SOFTWARE INDIA
+
+NAME: SRISHTI GULECHA R (2020115094)
+
+ABOUT THE COMPANY:
+
+Chronus Software India is a product-based company. It focuses on building mentoring software for
+other companies. Its office is located in Chennai.
+
+ROLE DETAILS:
+
+I was offered the role of intern for 2 months. The internship will happen during next summer. The
+stipend offered by the company is Rs. 75,000 per month.
+
+CANDIDATE PROFILE:
+
+The most important thing is resume. A lot of templates are available on websites with the help of
+which you can develop one. I used Canva to build my resume. It can be divided into the following
+sections – personal details, educational qualification, projects (a short description of each – what it is
+and technologies used), skills, co-curricular activities and certifications/achievements (if any). You
+can highlight your best projects if you have worked on many. It is advisable to fit your resume to one
+page and add your photo too. Also, you should be completely aware of what you add in your resume
+because interviewers will ask a lot of questions based on it. So do not add anything that you don’t
+know.
+
+PREPARATION STRATEGY:
+
+So, from my 3rd semester I started learning about STL in C++ and solving basic problems on leetcode
+and gfg. ACM had organised a HEADFIRST programme through which we were shared materials that
+had questions and resources compiled for basic topics. This helped me a lot. I didn’t prepare on a
+daily basis initially.
+
+During the last 2 months before the internship drive is when I started coding on a daily basis. Again,
+ACM documents for the intern preparation helped me. Apart from this, I used this set of questions
+from : https://neetcode.io/practice .
+
+Start from basics. Get familiarised with coding platforms like geeksforgeeks and leetcode.
+If you are comfortable with C++, learn STL first.  https://www.studytonight.com/cpp/stl/
+
+-
+-
+-  Make a schedule on how you want to cover the topics and stick to it. Firstly, cover these topics –
+Arrays, strings, linked list, graphs (BFS and DFS), Trees, sort and search. Later focus on – DP,
+backtracking and bit manipulation.
+Towards the end, practice questions on daily basis.
+For DBMS I referred the following links:
+https://www.javatpoint.com/dbms-interview-questions
+https://www.interviewbit.com/dbms-interview-questions/
+
+-
+-
+
+https://www.tutorialspoint.com/dbms/dbms_transaction.htm
+For OS and OOPS:
+https://www.geeksforgeeks.org/commonly-asked-operating-systems-interview-questions/
+https://docs.google.com/spreadsheets/d/1j05cmJ5JI8O9S4bIdKbw_jd0Y4KMZ_5liwyL8vjEbCw/e
+dit#gid=0
+For Aptitude: https://www.indiabix.com/
+
+-
+
+-
+
+PRELIMINARY ROUND:
+
+The first round was an Online Assessment which was held on HackerEarth platform. It had 2 sections
+– MCQ and Coding.
+
+The MCQ section had 10 questions which was a mix of aptitude and questions related to basics of
+programming. This section had questions from easy to moderate level.
+
+The coding section had 3 questions – one medium and two hard.
+
+-
+
+-
+
+-
+
+The first question was related to arrays. It was something like given an array and value k, you can
+increment a number in array maximum k times by 1. Find the smallest repeating number which
+can be obtained by using the operation.
+The second question was related to block game. All blocks have to be cleared to finish the game.
+In one move you can clear a chunk of blocks. If there are blocks above the chunk cleared, they
+move down. We have to find the minimum number of moves.
+The third one was related to elevator. Like the elevator can go up and down n floors with some
+constraints that it can’t stop in a particular floor and many other constraints. We have to find if
+we can move from one floor to another using the elevator. This was very complex question.
+
+I was able to solve only the first question using brute force method, where all of the given testcases
+passed except one which exceeded time limit. I was able to pass only 2-3 testcases passed for the
+second question. 10 students were shortlisted for the interviews.
+
+TECHNICAL ROUND 1:
+
+This was an offline interview at CUIC. This round went for 40-45 mins. Firstly, I was asked to
+introduce myself and then was asked my favourite subject. The interviewer then asked me how will
+you detect a cycle in a linked list. I told him my approach orally and then he asked me to give a
+pseudocode.
+
+The next question was direct TWO-SUM problem. He asked me to tell the approach alone. And then
+I was given a set of inputs and outputs and had to guess the question. The inputs were 2 arrays and
+their sum. The output was a pair of elements. I gave a few possible questions to it (but didn’t tell the
+exact question). The actual question was “Given scores of team A and team B for each match and
+the total score of the team, find if we can swap any 2 scores to make the total scores of both teams
+equal”. I came up with brute force approach and later optimised it. He then asked me to write the
+code for it.
+
+I was asked a few questions about MongoDB which I had mentioned in my resume. Finally, I was
+asked to solve a puzzle. “Given two ropes of same length, material and both burn at the same rate.
+
+Each rope completely burns off in 1 hr. How will determine the exact 30th minute. The answer I gave
+was, burn each one from opposite ends and the meeting point will be the 30th minute.
+
+TECHNICAL ROUND 2:
+
+This was a very interesting and different round. It was more of a problem-solving round.
+
+The first question was to check if the array contains consecutive numbers. I came up with a basic
+approach and then the interviewer asked me to come up with other approaches too. He would add
+in constraints each time like the numbers might not start from 0, the numbers might me negative or
+repeating. So, I gave him 5-6 possible approaches and he was satisfied. He asked me write the code
+for some of the approaches.
+
+The next question was given an array of 0s and 1s in sorted order find the first occurrence of 1. I
+gave linear search and binary search approach. Later, he modified the question to a string of 0s and
+1s and I gave him 2 more approaches (bit manipulation).
+
+I was asked a few questions about my resume. He asked me to explain my favourite project and later
+few more questions on it. I was also asked the difference between MongoDB and SQL(since I
+mentioned in my resume about MongoDB). Later he questioned me on another project of mine. The
+round lasted around 40-45 mins.
+
+HR ROUND:
+
+This was the final round and it went for 15-20 mins. I was asked the following questions
+
+-
+Tell me something about yourself
+-  Where do you see yourself in 5 years?
+-  What are your interests and goals.
+-  Why do you wish to join Chronus? (Make sure you learn about the company before
+
+appearing for the interview)
+Feedback of my performance and takeaways from the previous rounds.
+2-3 questions from my resume
+
+-
+-
+-  Biggest setback in college and what have you learnt from it.
+
+TIPS:
+
+-
+-
+
+Stay calm and composed. Do not get tensed.
+Know everything that you’ve put in your resume. Make sure you know everything about
+your projects.
+
+-  Have a good knowledge about DBMS, OOPS and OS.
+-  Make sure to communicate with interviewer. Do not remain silent. Feel free to tell on how
+
+you are thinking to approach the problem.
+Prepare some standard HR questions.
+
+-
+-  At the end of interview, you will be asked to if you have any questions for them. Do not say
+“no”. Ask them a few questions like – what kind of projects will I get to work, the work
+culture and something like that.
+
+Feel free to reach me if you need any help or have more questions at 7299955218. ALL THE BEST!
+

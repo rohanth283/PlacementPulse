@@ -1,0 +1,60 @@
+![Worlder TEAM Pte. Ltd. | LinkedIn](data:image/jpeg;base64...)
+
+Worlder Team Interview Experience
+
+Shreyas S – 2022115046
+
+About Worlder Team:
+
+[Worlder TEAM Pte. Ltd.](https://team.worldergroup.com/) is a Singapore based software company dedicated to empowering small and medium-sized enterprises (SMEs) through digital transformation and global expansion. Operating as part of the [Worlder Group](https://www.worldergroup.com/%22%20%5Ct%20%22_blank), the firm specializes in artificial intelligence, robotics, and machine learning to bridge the gap between traditional business operations and the global market, particularly within the food and beverage industry. Their suite of IT solutions includes products like **Wolonote**, **Improver**, and the **EDIE** inference engine, which provide real-time insights and operational automation. As a remote-first organization, Worlder TEAM maintains a diverse global workforce spanning Singapore, India, Indonesia, Japan, and the United States, fostering a collaborative culture focused on making global business as accessible as "playing an online game".
+
+Role: AI Engineer
+
+* Assist in the development and implementation of AI models and algorithms.
+* Work on data preprocessing, curating, and transformation tasks.
+* Collaborate with the AI team to design and develop process pipelines to test and evaluate machine learning models.
+* Conduct experiments to evaluate and improve the performance of AI models.
+* Assist in the integration of AI solutions into existing systems and applications.
+* Participate in research and development projects to explore new AI techniques and applications.
+* Help prepare technical documentation and presentations.
+
+Selection process:
+
+* Online Test
+* Tech Interview
+
+Online Test:
+
+There were multiple domains to choose from, and I selected the AI Engineer domain and proceeded with the corresponding test link. The test was of moderate difficulty, with around 20% coding output MCQs and the remaining questions focused on AI concepts, use cases, algorithms, and scenario-based problems. It lasted approximately 30–40 minutes.
+
+Tech Interview:
+
+The technical interview lasted around 45 minutes and began with a quick discussion of my resume. Since I had mentioned federated learning as one of my projects, I explained it in detail, especially because it aligned well with my preferred domain. This was followed by AI/ML questions that started with fundamental concepts, such as types of learning, and gradually became more advanced. I was assessed across various areas, including ML evaluation metrics, CNNs, real-world scenarios, confusion matrices, regularization, and more.
+
+The interview focused more on my perspective and problem-solving approach rather than textbook definitions, which made the experience particularly engaging. Toward the end, the interviewer invited questions from my side. I asked about the remote work culture and how teams collaborate across different time zones. A week later, the results were announced, and I was shortlisted.
+
+Strategy:
+
+I revised my AI/ML concepts thoroughly, especially since I had studied those subjects in the recent semester, which made them easier to grasp. Alongside that, I practiced DSA as well, not extensively, but I covered the commonly asked problems. I also made it a point to regularly go through my resume so I could speak with clarity and avoid rambling during the interview.
+
+One important lesson I applied was about attitude. In a previous interview, I had been overconfident, and that didn’t work in my favor. This time, I consciously maintained the right balance - being confident yet grounded, while staying strong in both concepts and mindset. The rest, as they say, is history.
+
+Tips:
+
+I’ll make it quick, key suggestions and tips. I know DSA is a maze. I was not one of those HackerRank wizards, yet I made sure I practiced and revised the most common ones, and kept in touch with the job role and inclined towards it. Since mine was AI, I focused more on AI rather than other concepts like DBMS, OS, OOPs, and stuff. So yeah, this should make you confident.
+
+And most importantly, attitude, stay grounded. The person in front of you is highly experienced; you’re just a new guy, so keep that in mind. With all this said, you’re good to go. Be positive, YOU ROCK!!
+
+Contact Info:
+
+Name: Shreyas S
+
+Ph: 9515418971
+
+Email: shreyassriram100@gmail.com
+
+LinkedIn: [www.linkedin.com/in/shreyassriram05](http://www.linkedin.com/in/shreyassriram05)
+
+Resume:
+
+![](data:image/png;base64...)

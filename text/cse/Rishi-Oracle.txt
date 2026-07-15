@@ -1,0 +1,192 @@
+ORACLE GBU
+ 
+ Online Assessment 
+ 
+ 
+1 Dsa problem, 1 Rest api problem and some mcqs. 
+ 
+Get an interview call somehow. 
+ 
+ Technical round 1 (55mins - 1hr) 
+ 
+Asked to introduce myself. I did it in a way conveying indirectly that I’m 
+strong in DSA. Then she said ‘It seems you’re good in DSA’ and asked me about 
+heaps. I told her what heap is and explained the structure of both max and min heap. 
+Then I was asked about any real world application of heap. I said ‘Any situation 
+where we need the objects to get arranged acc to a data member. Heaps are handy 
+in sorting’. Then was asked to tell two other sorting algorithms. I said Merge and 
+Bubble. Asked to tell the time complexities of all three algos. I told her and also 
+proved why nlogn for heap and merge, and n^2 for bubble. I talked about heapify 
+algo in depth and time complexity of heapify is logn and we’re heapifying n times so 
+nlogn for heap sort. Like wise I did explain for both merge (in-place) and bubble 
+(comparison based). 
+ 
+Then a big discussion on my internship. What is the product I’ve worked on? 
+I explained the product and the idea behind the product. Then she asked about some 
+internal implementations of the product. I said I’ve worked only on the view level 
+(Front end) and was not exposed to all those internal and conceptual stuff. She was 
+fine and asked me whether my codes are in production now. I said ‘yes, it’s live now. 
+It’s available in playstore’. Then she was discussing about the tech stack and asked 
+me many trivial questions which I don’t even remember now. Like how the works 
+will get assigned to you, is it flexible, blah blah !! (If you did internship on your own 
+and have real knowledge about the work that you did, getting through this is really 
+easy) 
+ 
+Then a simple dsa problem. To find whether we can form a palindrome 
+using all the character in a string. I told her the approach. Follow up is to print any 
+resultant string if it’s possible to form. She asked me to code it and dry run for 2 
+testcases asap as we were running out of time.  
+ 
+Then she asked how to load data from any url in javascript. I talked about 
+fetch and axios and also wrote the syntax of both. 
+ 
+Asked me ‘Ever been in a situation where you need to get data from 2 apis 
+simultaneously in JS?’. I said No as I didn’t work in JS much. Later I found there are 
+multiple methods and she was expecting me to talk on Promise in JS. 
+ 
+Then she asked me how processes gets into CPU. I talked about every 
+process states in OS, why premption is good / bad. While explaining I said ‘We 
+shouldn’t keep our CPU idle right?’. She was like ‘Yeah obviosly’. And I explained 5 
+popular job scheduling algorithms quickly one by one. 
+ 
+ Technical round 2 (40-45 mins) 
+ 
+ 
+Asked me to introduce myself. Introduced as same as previous round. She 
+asked me which is the data structure I’m more familiar with. I said Graphs. She 
+asked me to explain Graph. I opened sketchpad and started talking about everything 
+I know in graph and explained her visually by sketching it in sketchpad. Started with 
+nodes and edges. Then directed and undirected graphs. Then components, 
+connected components and strongly connected components. Finally she asked to me 
+add 3 more nodes to the existing graph that I drew while explaining and she also 
+gave me the edges and asked a simple shortest distance question mentioning the 
+source and destination. I told her the approach and dry ran it visually step by step 
+(not asked to code). 
+ 
+ 
+Again some questions on projects and internships. 
+ 
+ 
+Then I was asked to design the linked list class with all methods available in 
+collections. I asked the requirements and coded the same. 
+ 
+ 
+Then she asked me about polymorphism. I explained it and talked about 
+compile time and run time polymorphism. She asked me to code and show how run 
+time polymorphism works. I did it and also told why its called as run time 
+polymorphism. While explaining I said ‘this new keyword is responsible for creating 
+an actual memory in heap which happens in run-time’. Then she suddenly asked me 
+what happens if I keep on creating objects using new keyword in java. I told her 
+about internal heap memory, Garbage collector and finalize method in java. 
+ 
+ HR round (1hr) 
+ 
+ 
+This is more of a discussion. He was talking more than me. Yes, he was talking 
+for like half an hour. 
+ 
+ 
+First he went through my resume for a minute and asked me what dart is. 
+This is not even a tech question. He might wanted to ask something that’s odd in my 
+resume. Told him about dart and why I had to learn it (Flutter). 
+ 
+ 
+Then he asked me to tell what all I did in my 3 years of college life. Took 
+easily more than 10mins to explain it (This is basically an introduction question. But 
+here we need to introduce the actual us, not limiting it to techie us). 
+ 
+ 
+Then he asked me, ‘Why are you here? Why are you giving this interview?’. I 
+was like ‘Why in the sense?’. He said ‘What’s the actual purpose of you giving this 
+interview? Are you sure you’re in the right path of your life?’. Then I was saying 
+something for like 10mins. I told him why I got interested in computer science. How 
+a person can evolve in this field and why it’s so interesting than a normal 9-4 job. 
+And blah blah. Told about what all I can relate me with computer science. 
+ 
+ 
+A small discussion on my internship. Then he asked me whether I have any 
+questions for him. 
+ 
+ 
+I asked him the difference between GBU and OFSS. He said it’s a great 
+question and started explained everything for like 10mins (Oracle visited PSG tech 
+for 3 different roles. That’s how I got to know about OFSS). Then I asked about 6m 
+internship like do we work on production or is it fully a bootcamp. Then I said 
+‘Every youtubers who work in big product based companies are showing 
+themselves chilling all time in play area, cafeteria, etc...Is this true like don’t you 
+guys work much’. He started laughing and started explaining the work culture of 
+Oracle and how people with different learning curves work and chill there. 
+ 
+ 
+After I’m done with my questions he said ‘Okay now let me ask you one 
+question’. I was like ‘Yes, sure’. Then he said ‘Okay assume that I’m giving you an 
+Oracle GBU offer. Sametime another org is also approaching you with an offer. 
+Let’s say Subspace (I did my internship there). So which one will you accept?’. I said 
+Oracle and also explained why. Like I said networking is more important for an 
+individual (He nodded and told that network helps one to grow). I told him if I join 
+Oracle I’ll get an opportunity to get connected with technically sounded minds and 
+evolve myself along with them. So basically this was the context and I was talking on 
+it for 3-4mins. 
+ 
+ 
+Then he said ‘Okay let me ask you one more question. You watch cricket 
+right. Now Indian team is performing good. Back then in 2000s, Sachin was the only 
+saviour of India but if you see Australia, all 11 players were top talented players. So 
+hypothetically if you were given a chance to join any one of these boards, which 
+would have been your choice. To join Australia saying that all 11 players are talented 
+or to join India saying I’ll make India a better team like Australia?’. We both started 
+laughing at eachother and I was like ‘Is this what people call a typical HR question?’.  
+ 
+He said ‘Yes this is, okay let me put it straight. Oracle, a new place for you which 
+has better people, or Subspace, your current org which has more interns. Don’t 
+you help Subspace to grow better’. I was telling him something for 4-5mins which I 
+don’t even remember now. Then he said ‘To be honest, there’s no right answer for 
+this question. It depends on individuals. I was just curious to know your answer. 
+That’s it’.  
+ 
+ 
+Then he said ‘It was nice talking to you Rishi. HR lead will get connected with 
+you’ and disconnected the call. 
+ 
+ 
+ 
+ 
+Tips to ace an interview, 
+ 
+ Have a great Cp profile and you’re half way done with your interviews. 
+ 
+ Don’t get overwhelmed. Treat interviewers like your Juniors and answer every 
+question like you were given a chance to teach. 
+ 
+ Don’t give one liners as answers. If you did, you will end up getting follow ups on 
+follow ups. Try to avoid follow ups by explaining everything in depth. 
+ 
+ Don’t be silent while you’re coding. Always have your interviewer’s attention. 
+Keep on talking or explaining whatever you code in paper / codepair. 
+ 
+ Try to build conversation with your interviewer and move your interview more 
+of a discussion than a rapid fire round. 
+ 
+ Always have your personal projects deployed and provide the live link in your 
+resume if it’s web dev. 
+ 
+ 
+Resources, 
+ 
+ YouTube 
+ 
+1. TakeUForward (Dsa), 
+2. Kunal Kushwaha (OOP, Java internals, networks and Docker), 
+3. Gate Smashers (Os, Dbms), 
+4. CP ( Utkarsh Gupta, Priyansh Agarwal, Code master cpp, Erichto, Second 
+Thread, William Lin, etc..) 
+5. Keerti Purswani (Design Patterns) 
+6. Gaurav Sen (System design) 
+ 
+ For dedicated object oriented design rounds, one best and go to book is 
+Grooking the Object Oriented Design Interviews 
+ 
+ Dsa cheat sheet - Striver’s SDE sheet 
+ 
+Reach me at LinkedIn. 
+ 

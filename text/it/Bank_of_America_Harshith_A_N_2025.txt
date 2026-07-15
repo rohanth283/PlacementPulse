@@ -1,0 +1,75 @@
+Harshith A N
+
+Information Technology
+
+FTE at Bank of America
+
+**About the Company:**
+
+Bank of America is one of the world's leading financial institutions, serving individual consumers, small and middle-market businesses, and large corporations with a full range of banking, investing, asset management, and other financial and risk management products and services. With a strong global presence, the bank is committed to connecting people and businesses to the resources they need to succeed. Its technology and operations teams play a crucial role in driving innovation, ensuring security, and optimizing operations to provide seamless and efficient services to its clients worldwide.
+
+**Overview of the Process:**
+
+The overall process consisted of:
+
+- An Online Coding Contest on HackerRank platform
+
+- Interview Round 1(Technical/HR) – in CUIC
+
+- Interview Round 2(Technical/HR) – in CUIC
+
+**Online Coding Contest on HackerRank Platform**
+
+The recruitment process began with an online coding contest hosted on the HackerRank platform. This stage was designed to test candidates’ problem-solving and programming skills. Participants were required to solve a set of problems within a specified time limit. The questions covered a range of topics including algorithms, data structures, and logical reasoning. This stage was highly competitive and acted as a filtering round to shortlist candidates for the interview phase. Accuracy, efficiency, and coding style were key evaluation criteria in this round.
+
+**Interview Round 1 (Technical/HR) – in CUIC**
+
+The first interview round took place at the **CUIC (Centre for University Industry Collaboration)** and was a combination of technical and HR discussions. During the technical portion, candidates were assessed on their knowledge of core computer science concepts such as data structures, algorithms, databases, and programming languages. Practical problem-solving abilities and coding skills were also tested through live coding exercises or theoretical questions.
+
+The HR segment of this round focused on understanding the candidate’s personality, strengths, weaknesses, and motivation for joining the company. Typical questions included discussing past projects, challenges faced during academic or internship experiences, and how the candidate aligns with the company’s values.
+
+**Interview Round 2 (Technical/HR) – in CUIC**
+
+The second and final interview round, also conducted at CUIC, was more in-depth and focused on both technical expertise and behavioural skills. This stage delved deeper into problem-solving capabilities, with candidates often presented with real-world scenarios to analyse and solve. Questions about system design, advanced algorithms, or case studies might also be included, depending on the role.
+
+The HR portion aimed to assess the candidate’s cultural fit and soft skills. Topics such as teamwork, leadership experiences, conflict resolution, and long-term career goals were explored. This round provided the final opportunity for the candidates to make a strong impression on the interviewers.
+
+**Tricks That I Followed:**
+
+**1. Completed the Online Test as Quickly as Possible**
+
+Time management played a crucial role during the online coding test. I focused on solving the easier questions first to ensure I secured maximum points before tackling more complex problems. By maintaining a calm and methodical approach, I avoided spending excessive time on a single question. Practicing coding problems on platforms like HackerRank and LeetCode prior to the test helped me develop speed and accuracy. This strategy not only improved my confidence but also ensured that I completed the test within the allotted time frame, leaving no question unanswered.
+
+**2. Thoroughly Read the Job Description to Tailor Responses During Interviews**
+
+Before the interviews, I carefully analysed the job description to understand the role’s responsibilities, required skills, and expectations. This allowed me to tailor my responses to highlight how my technical expertise and past experiences aligned with the company’s needs. For example, if the job emphasized problem-solving and analytical skills, I prepared examples from my projects or internships that demonstrated these abilities. I also made sure to use relevant keywords from the job description in my answers to reinforce my understanding of the role.
+
+**3. Asked Relevant and Thoughtful Questions in Each Round to Show Interest and Enthusiasm**
+
+In every interview round, I prepared a list of thoughtful questions to ask the interviewers. These questions were focused on understanding the company’s culture, growth opportunities, and technical challenges associated with the role. For example, I asked about the technologies the team frequently uses, the nature of projects I might work on, and how the company supports employee learning and development. By doing so, I demonstrated genuine interest in the role and enthusiasm for contributing to the company. Asking insightful questions also helped create a positive impression and made the interaction more engaging.
+
+**4. Recalled Details from the Company’s Presentations to Incorporate Into Answers**
+
+I paid close attention to the company’s presentations and used that information strategically during my interviews. For example, I mentioned the company’s focus on innovation or specific initiatives they highlighted, and connected them to my skills or aspirations. This not only showed that I was well-prepared but also conveyed my dedication to understanding the company’s goals. Referencing specific points from the presentation helped me stand out as someone who took the time to research and connect with the company’s vision.
+
+**Preparation Strategy:**
+
+1.**Understanding Job Requirements**: I thoroughly reviewed the job description to identify key skills and areas of focus essential for the role.
+
+2.**Technical Skill Enhancement**: Practiced coding daily on platforms like HackerRank and LeetCode, concentrating on algorithms, data structures, and problem-solving techniques.
+
+3.**Concept Revisions**: Revisited computer science fundamentals such as databases, OOP, and networking to ensure a strong grasp of core concepts.
+
+4.**Mock Tests**: Took timed mock tests to simulate the online test environment, improving accuracy and performance under pressure.
+
+5.**Company Research**: Conducted in-depth research on Bank of America, understanding their business model, values, and recent innovations to tailor my interview responses effectively.
+
+6.**Behavioural Question Practice**: Used the STAR method to prepare for behavioural questions, ensuring examples from projects and leadership experiences were ready to demonstrate my skills.
+
+7.**Mock Interviews**: Practiced with friends and mentors, refining answers, improving delivery, and building confidence for actual interviews.
+
+8.**Resume Preparation**: Revisited all academic projects and internships listed on my resume, ensuring I could clearly articulate my contributions and learning.
+
+9.**Consistent Daily Schedule**: Balanced technical preparation, company research, and interview practice through a disciplined daily routine.
+
+10.**Confidence Building**: Focused on holistic preparation, combining technical knowledge, communication skills, and company understanding to excel in every stage of the process.

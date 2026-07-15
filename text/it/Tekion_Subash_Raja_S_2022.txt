@@ -1,0 +1,108 @@
+Interview Experience – Tekion
+
+Name: Subash Raja. S
+Roll No: 2018115112
+Mobile No: 6382975613
+Email: subashraja2001@gmail.com
+
+ROUND 1 -  Coding Round:
+
+This round was conducted on the Hackerearth platform. Two coding questions were
+
+asked and there were some technical and aptitude MCQ questions. The questions are as
+follows
+
+1. You are given a smartphone with an efficient charger. The initial amount of the charge in
+
+the smartphone is S, it charges the smartphone at different rates depending upon the
+
+amount of charge available in the phone to prevent the battery of the phone from any
+
+damage. Assuming that the current amount of charge available in the phone is C, the
+
+rates at which the phone is charged
+
+R in units per minute are as follows:
+
+Assuming the current charge level is C, the rates R of charging are (in units per minute)
+
+0≤ C ≤ 10, R = 10
+
+11 ≤ C ≤ 230, R = 5
+
+231 ≤ C ≤ 559, R = 8
+
+560 ≤ C ≤ 1009, R = 2
+
+1010 ≤ C ≤ 5000, R = 7
+
+5001 ≤ C ≤ 10000, R = 8
+
+10001 ≤ C ≤ 1000000000, R = 3
+
+SAMPLE INPUT: SAMPLE OUTPUT:
+
+2
+
+0 5 1
+
+10 50 7
+
+2. Minimum size of the board (Minimum Size Of a board | Practice Problems)
+
+ROUND 2 – Technical Interview 1:
+
+The interviewer introduced himself and asked me to give my introduction. I
+
+introduced myself and began to explain to about the projects.
+
+Then it was a code pairing round. I was asked 2 questions and I could choose my own
+compiler and language and I should share my screen. The questions are:
+
+1.  Merge two sorted arrays: First I was asked to say the approach and then I should
+show the code and output with my own input. The interviewer preferred the
+approach with the minimum time complexity.
+
+2.  Find the loop node in the linked list: I did it using Floyd Warshall Algorithm and I
+
+explained it after coding.
+
+ROUND 3 – Technical Interview 2:
+
+The interviewer introduced himself and asked me to give my introduction. I
+
+introduced myself and began to explain to about the projects. This time he asked cross
+questions about the project and detailed explanation. Then I was asked to screenshare my
+IDE and asked coding questions. As the interviewer was in a hurry, he wanted to finish it
+within half an hour, so he just gave me one coding question.
+
+1.  Check whether the given Binary tree is BST or not.
+
+When I was coding, he asked some technical questions.
+
+1.  Explain ACID properties.
+2.  Explain about inheritance.
+
+Then he asked me if I have any questions. I asked how many years he worked there and
+what is his specialization. Then he asked whether I was interested in frontend or backend.
+As I already saw his profile on LinkedIn (He is a frontend developer) I said that I have only
+worked with backend and I am interested in working with frontend and I even started
+learning. He revealed that he was a frontend developer and thus end the interview with
+thanking.
+
+ROUND 3 – HR Interview:
+
+The interviewer was very friendly and introduced himself asked me to give my
+detailed introduction. After I introduced myself, he asked about the projects. He asked
+many cross questions and then he asked how I would relate my project with their company.
+
+After answering that, he said that’s all and I can ask my questions.
+
+I asked how many years he have worked there and how the work environment there will be.
+
+Then I asked about company product which is an automated retail cloud. He became so
+enthusiastic and explained about it in a gleam manner. Then he said they will contact us
+after a week regarding the internship and that ended the interview.
+
+Thank You!
+

@@ -1,0 +1,167 @@
+Wells Fargo (Internship) 
+Batch: 2019 - 2023 
+Name of the Company: Wells Fargo  
+About: 
+Wells Fargo is a leading global financial services company headquartered in San Francisco (United States). Wells 
+Fargo has offices in over 30 countries and territories. Business outside of the U.S. mostly focuses on providing 
+banking services for large corporate, government and financial institution clients. They have worldwide expertise 
+and services to help their customers improve earnings, manage risk, and develop opportunities in the global 
+marketplace. 
+            
+My Interview Experience : 
+Number of Rounds : 4  
+1. Online Test  
+2. Technical round  
+3. Managerial round 
+4. HR round 
+           
+Round 1 : Aptitude & Coding 
+It took place in AMCAT platform. It consists of three sections, namely verbal aptitude, business aptitude 
+and the coding oart.  
+In verbal aptitude, questions were generally based on synonyms, choose the alternate phrases and some 
+comprehensive questions. 
+Next, comes business aptitude, where the questions are mainly based on stocks and business, data 
+interpretations based on graphs and pie-charts. So, the key factor here is time management, be quick 
+enough to read those large explanatory passages and understand exactly what is asked to interpret.  
+Then, the third section consists of two coding questions which were bit easy. Also you have to code both 
+these questions from scratch (driver code). 
+And the questions that I had were, 
+1 . Given a string of length N, which contains ‘1’ , ‘0’ and ‘?’ . Return all the binary strings that can be 
+formed by replacing the ‘?’ with ‘0’ or ‘1’. 
+Generate all binary strings from given pattern - GeeksforGeeks (Backtracking approach) 
+2 . A balloon game is being played among people numbered from 1 to n in circle. Given an integer k which 
+is the number of balloon pass, after which the person should be eliminated. The condition is before 
+elimination of a particular person, the balloon should be passed to the next one. Find the winner ? (one 
+who remains at last) 
+Josephus problem | Set 1 (A O(n) Solution) - GeeksforGeeks (Similar technique) 
+     
+I was able to pass all test cases passed for both the questions. 
+A total of 30 students were selected to the next round. 
+ 
+General Tip : Try to answer as many aptitude questions as possible, which almost confirms your opportunity for the 
+next round. Basic math and quantitative knowledge is sufficient. In case of any practice, you can refer IndiaBix . 
+Coding Tip : Have a regular practice in  geeksforgeeks and leetcode. Also have a look at past coding problems of the 
+company you are attending, that might be helpful. Get acquainted with lengthy problem statements. Be prepared to 
+code from scratch, as we are always get used to code only the functionalities. 
+       
+Round 2 : Technical Interview (1 hr) 
+The interview was conducted on Zoom. The interviewer first asked to introduce myself. She then asked me 
+to share my screen and open any IDE that I have.  
+She then gave me two coding questions, of basic level. The first coding question was asked to   Program to 
+convert a given number to words and the interviewer was satisfied with my solution. Then the next one was 
+Find the occurrences of digit d in the range [0..n] , after coding both of these questions, she moved on to some 
+basics.  
+She then moved on to some basics. Some of the questions on OOPS were encapsulation vs data 
+abstraction, overloading vs overriding and polymorphism. Then there were questions on DBMS like what is 
+RDBMS ,hashing etc. She then asked some basic Data Structures questions, and some sorting algorithms 
+like Radix sort, Insertion sort. 
+Atlast, the interviewer asked whether I have any questions (Always ask some questions to show that you 
+are interested to build a conversation). I asked about the work-life balance, and the domain in which we 
+would work our projects etc.. 
+Overall the interview went very well and I was shortlisted for the next round. 
+     
+General Tip : Focus on DSA, DBMS, OOPS, OS. Always be positive and confident in answering your 
+questions. Mention only the skills that your strong enough in your resume. 
+     
+ 
+Round 3 : Managerial Interview (40 mins) 
+This round was also conducted on Zoom. I was interviewed by Senior Manager. He was very friendly, and 
+asked to introduce myself. He then asked how was the day and what are your take aways from previous 
+round.  
+Before going on to my resume, he said that this round will be only on projects and some general talk and 
+not based on technical aspect as it was in the previous round. Then I was asked to explain one of my 
+project which was done in group. So, I went on with my DBMS project. After explaining my project, he 
+asked some questions like how did we split our work as a team, conflict between friends, handling 
+suggestions of everyone as a team, a problem at which all of you were stuck etc.. 
+Then he moved on to my hobbies and we had a fun discussion around cricket (hobby).  
+Then it was my turn to ask any questions that I have. So, I made use of this opportunity and asked him 
+various questions like in what way Wells Fargo uniquely handled to overcome this pandemic over online, 
+which one do you prefer btw work from home or office, tech stacks used in the company, and some 
+questions about our internship. 
+Overall it was a very good experience. After this I had an HR call. 
+General Tip : Be bold and enthusiastic, and don’t hesitate to ask any questions. Have an idea or 
+explanation of each and every topics of your resume that you have mentioned. Refer interview 
+experiences in GFG, so that you would be well prepared. 
+ 
+Round 4 : HR Interview (5 mins) 
+This was a telephonic interview. He asked me to introduce myself. Then he asked me to give an overview 
+on my projects. He then asked where I’m from and asked about relocation choices. 
+Finally, 12 students were selected for internship. 
+      
+Preparation Tips :  
+ Try to kick start your preparation atleat 2 months before with CODE-ACM materials, that gives you 
+the base and exposure to variety of topics. If you ain’t started, nothing is too late, start of with a 
+fresh mind. 
+             
+ Best practice is you ensure that you are good enough in a particular topic, and then jump into the 
+next one. Most importantly, while solving a problem, don’t urge yourself unless you grasp the root 
+cause of the problem and have a mind map to connect all those problems of same category, that 
+will be the best effective way rather than solving many. 
+             
+           
+ So CODE-ACM, gfg and leetcode will help you in your coding prep. And after completing all these, 
+you can also try InterviewBit (has a standard set of problems in strings, DP, backtracking). Also for 
+DP and backtracking you can get your doubts cleared by watching TECH DOSE - YouTube 
+            
+ For OOPS you can refer PREP INSTA and OOPs - InterviewBit  
+            
+ For DBMS you can have a look at DBMS - Interviewbit and DBMS - YouTube 
+             
+ For OS, Last Minute Notes – OS might help you during your preparation. 
+ 
+ And finally, be strong in your Resume. 
+     
+ So atlast during your internship drive, before attending any interview of any company, have a look 
+at the interview experience in gfg of that particular company, so that you would have a clear 
+picture of the process. 
+ 
+Take Aways :  
+ Solve the problem whole heartedly by getting the logic behind of each problem you solve instead of 
+urging to solve many. 
+ Don’t have a mindset that interviewers are always there only to drill you. They always makes you 
+feel comfortable and helps you in figuring out the solution. 
+ Combine studies with your friend will be healthy helps you a lot during this journey. Don’t take any 
+peer pressure. Always be positive and confident in any circumstances. 
+ 
+Wishing you the best of luck in your future endeavours😇 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SACHIN RAGHUL T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8610047802 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sachinraghult2002@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SACHIN RAGHUL | LinkedIn 

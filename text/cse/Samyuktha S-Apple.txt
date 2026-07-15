@@ -1,0 +1,104 @@
+Apple SDE Intern - Interview Experience 
+ 
+About Apple 
+Apple Inc., is an American multinational technology company, founded in 1976 by Steve Jobs, 
+Steve Wozniak, and Ronald Wayne, and headquartered in Cupertino, California. Apple is a 
+global leader in consumer electronics, software, and services. The company is best known for 
+products like the iPhone, iPad, Mac computers, Apple Watch, and AirPods. Beyond hardware, 
+Apple develops software platforms such as iOS, macOS, watchOS, and iPadOS, and offers 
+services including iCloud, Apple Music, and the App Store. The company is renowned for its 
+design philosophy, innovation, and ecosystem integration. 
+ 
+Eligibility Criteria 
+UG: CS, IT and AI&DS 
+CGPA: 7 & above 
+No current arrears 
+ 
+Role: Software Development Engineering Intern 
+ 
+Internship Process 
+1. Online Test - (Eliminatory) 
+2. Resume Shortlisting 
+3. Technical Interview - Webex, Coderpad (Eliminatory) 
+4. Techno-Managerial Interview - Webex, Coderpad 
+ 
+Online Test 
+MCQs from DSA, DBMS, OS, OOP and Networks 
+2 coding questions on Data Structures and Algorithms 
+ 
+26 students were shortlisted for the SDE intern interview rounds. 
+ 
+Technical Interview - 45 min 
+This round focused on data structures and algorithms, database concepts, and project discussion. 
+ 
+The interview began with the interviewer introducing herself, followed by my introduction. She 
+then asked about the project mentioned in my resume — including how the team was formed, the 
+project’s objective, the challenges faced, and how they were resolved.  
+ 
+After that, she moved on to DSA questions, such as explaining a Binary Search Tree (BST) and 
+finding the Lowest Common Ancestor (LCA) in a BST. First, she asked me to explain my 
+approach along with the edge cases, then to implement the solution in CoderPad, and finally to 
+discuss the time and space complexities. Next, she asked a few questions from SQL. The 
+interview concluded with me asking her a few questions. 
+ 
+After the first round, I received mail for the second round. 
+ 
+Techno-Managerial Interview - 45 min 
+This round focused on in-depth technical knowledge, projects, and behavioral assessment. The 
+interviewer asked me to introduce myself and then asked questions from every corner of my 
+resume. 
+ 
+Questions from JavaScript and React were asked (as mentioned on my resume). Then he asked 
+me which language I was most comfortable with. I said Java, so he asked questions such as: what 
+is static in Java, why is it used, and if a method is declared static, is an object needed to call it? 
+ 
+Then came questions from my  project: 
+●​ What is ML? 
+●​ Explain the ML project. 
+●​ Explain ML algorithms used in the project, why were these algorithms chosen? 
+●​ What is Streamlit? Why Streamlit? 
+●​ My contributions to the project. 
+●​ Then he asked me to explain my other projects in my resume and the tech stacks used. 
+ 
+Other technical questions include: (as I had mentioned them in my resume) 
+●​ What is Firebase?  
+●​ When is NoSQL used and when is RDBMS used? 
+ 
+From DSA, I was asked to mention some advanced concepts I am familiar with. I said DP, and 
+then he asked me questions on DP. 
+ 
+He also asked about the club I am part of, which I had mentioned in my resume. 
+ 
+Managerial and behavioral questions: 
+●​ Why Apple? 
+●​ Why you? 
+●​ If you are in a team of 2 and the other member is not working on the project, what will 
+you do? Will you report it to the team lead? 
+ 
+The interview ended with me asking a few questions. 
+ 
+10 students were selected for the SDE Internship. 
+ 
+General Tips: 
+ 
+●​ Know your resume thoroughly; interviewers can ask questions from anything you 
+mentioned.  
+●​ When answering DSA questions, first explain your approach and edge cases before 
+starting coding. 
+●​ Practice DSA mostly in Java or C++ 
+ 
+Materials I used to prepare:  
+ 
+●​ DSA: Striver’s A2Z DSA Sheet, Kunal Kushwaha, Abdul Bari, Jenny’s Lectures  
+●​ CS Fundamentals: GeeksforGeeks (Computer Networks, OOP, OS, DBMS) 
+ 
+ 
+ 
+Keep learning, keep growing, and give your best at every stage. All the best! 
+ 
+ 
+ 
+Samyuktha S 
+CEG CSE’26 
+samyukthas113@gmail.com 
+https://www.linkedin.com/in/samyuktha-senthilkumar-786061260/ 

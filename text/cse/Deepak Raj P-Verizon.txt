@@ -1,0 +1,77 @@
+ 
+ 
+ 
+ 
+ 
+   VERIZON 
+ 
+ 
+Verizon is an American multinational telecommunications organization which specializes in 
+providing wireless products and services. 
+ 
+The interview process consisted of three rounds. 
+ 
+Round 1: MCQs from Aptitude, Verbal, Technical and two coding problems. 
+ 
+I got most of the MCQs right. I solved one problem fully and the other one partially. 
+ 
+Round 2: Interviews - It consisted of 2 Panels (Technical and HR)  
+ 
+ 
+Technical Round: 
+ 
+1. Tell me about yourself. 
+ 
+2. Explain about your projects. 
+ 
+3. What were the difficulties you faced when working on your projects? 
+ 
+4. Which domain in computer science are you interested in? 
+ 
+    I told Databases and he asked a few questions in it. 
+ 
+5. How much understanding you have about AI and ML. 
+ 
+    I told him I only had a brief idea about them and not in detail. 
+ 
+6. Anything you would like to ask me? 
+ 
+    I asked about Verizon’s 5G tech and its progress. 
+ 
+ 
+Overall Interview Time: 30 mins 
+ 
+ 
+HR Round: 
+ 
+1. Tell me about yourself. 
+ 
+2. Why work and not higher studies? I told I could gain more experience and knowledge about 
+latest tech only when working. 
+ 
+3. Will you be comfortable if asked to reallocate to another city? I said yes. 
+ 
+4. Will you be comfortable working in shifts? I said yes. 
+ 
+5. Anything you would like to ask me? 
+ 
+   Overall Interview Time: 15 mins 
+Topics to be focussed: 
+ 
+ Data Structures 
+ Database Management Systems 
+ Operating System 
+ 
+ 
+Take away: 
+ 
+ 
+The whole Interview process was smooth. Being strong in one programming knowledge and 
+having a fair knowledge about core computer science concepts is well and good to get placed in this 
+company. 
+ 
+Thank you and All the Best. 
+ 
+Deepak Raj P 
+ 
+deepakprem1599@gmail.com 

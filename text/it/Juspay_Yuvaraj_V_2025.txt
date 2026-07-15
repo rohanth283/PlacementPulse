@@ -1,0 +1,163 @@
+Yuvaraj V - Off-Campus Interview Experience
+
+About Juspay
+
+Juspay is a Indian-based fintech established startup focused on providing seamless
+and  secure  payment  experiences.  It  powers  millions  of  transactions  daily  with  its
+robust payment solutions used by top players in the Indian digital economy.
+
+How I Applied
+
+I  got  the  recruiting  information  through  LinkedIn  and  applied  via  Juspay’s  career
+site.
+
+Reason to switch:
+Job dissatisfaction during my 6-month internship period at Athenahealth.
+
+Round 1: HR Telephone Confirmation
+
+The HR called to inform me that I was shortlisted and asked whether I was open to
+proceeding, since I was currently interning at Athenahealth. I confirmed my interest
+and provided additional details such as education background, company name, and
+stipend. She said I’d receive a link for the online assessment test (Round 2).
+
+Round 2: Online Assessment - 1 (MCQ, 45 mins)
+
+Consisted  of  15  MCQs  from  CS  fundamentals  (OOPs,  DBMS,  DSA,  OS),  and
+surprisingly, some basic +2 level Physics questions too.
+
+I cleared this round and got a call the next day for the next DSA round.
+
+Round 3: Online Assessment - 2 (DSA, 1h 30min)
+
+Three DSA questions:
+
+1.  Easy: Prefix sum-based problem – solved completely.
+
+2.  Medium:  Tree  (non-BST)  problem  related  to  office  hierarchy  –  partially
+
+solved (some TLE).
+
+3.  Hard: Couldn’t complete – only half the cases passed.
+
+Despite the tough round, I got selected for the next stage.
+
+Round 4: Technical Interview - 1 (DSA Focused, 1h)
+
+Conducted via Google Meet.
+
+  1st  Problem: Rainwater trapping  –  I  already knew  the  approach,  so it  went
+
+very well.
+
+  2nd  Problem:  Matrix  distance  calculation  among  same  numbers  –  started
+with brute force, then optimized it using a derived equation. Interviewer was
+impressed, but due to network issues, we couldn’t continue.
+
+Later, I received a call saying I was selected for the next round.
+
+Round 5: Hackathon - Part A (3h)
+
+A 3-hour online DSA round.
+
+Only one problem related to M-ary Tree – a very common one in Juspay interviews. I
+was well-prepared and solved it.
+
+Got a call after a week that I qualified for Part B.
+
+Round 6: Hackathon - Part B (8h)
+
+A full-day 1-on-1 hackathon.
+
+A  company  buddy  was  assigned  to  assist.  They  asked  questions  based  on  my
+previous  M-ary  tree  solution  and  also  pushed  me  to  implement  concurrency  and
+threading  concepts.  Though  syntactically  relaxed,  they  expected  high-level
+knowledge.
+
+Round 7: System Design Interview (Turning Point)
+
+This was the toughest round.
+
+Questions asked:
+
+  System design scenario:
+
+In your real-time IPL auction project, how would you ensure minimal latency
+if 1 user from the US and 1 from India are playing?
+(I mentioned CDN and related solutions, but he expected deeper, real-time
+focused strategies.)
+
+  DSA Problem:
+
+"Assume you have an array but no built-in way to get its length. How will you
+find it?"
+(I gave the binary search for infinite array approach – he was satisfied.)
+
+  Theoretical questions:
+
+o  What is a clock cycle? (Expected a basic, intuitive answer – I couldn’t
+
+answer well.)
+
+o  How does a compiler work?
+
+o  Describe  the  entire  data  transmission  process  from  one  network  to
+
+another (I struggled here).
+
+  Puzzle:
+
+21 sticks puzzle – I solved it correctly.
+
+  DSA Theoretical:
+
+o  Queue vs Stack
+
+o  How Priority Queue is implemented
+
+  Other
+
+Asked about AI/ML project experience.
+
+Topics:
+
+Despite  some  good  points,  I  couldn’t  impress  him  in  many  areas.  He  seemed  very
+knowledgeable in multiple domains.
+
+Role Change & Compensation Difference
+
+Because of my average performance in this round, though I originally applied for an
+SDE  role,  they  offered  me  the  Product  Engineer  -  1  (PE-1)  role  considering  my
+problem-solving skills.
+
+After  discussing  with  a  few  seniors,  I  came  to  know  that  the  primary  distinction
+between the two roles is compensation:
+
+  SDE Role: ₹27 LPA CTC with ~₹17 LPA base
+
+  Product Engineer Role: ₹21 LPA CTC with ~₹14 LPA base
+
+Both roles are quite similar in responsibilities and learning opportunities.
+
+Final Round: HR Discussion
+
+A phone call where they confirmed:
+
+  Relocation readiness
+
+  Role clarification
+
+  Notice period details
+
+
+
+Joining date
+
+Finally, they confirmed my offer for the Product Engineer - I role.
+
+Such long and intense processes are only followed by a few companies like Juspay.
+Don’t worry guys, on-campus processes are usually simpler and shorter.
+
+If you have any questions, feel free to contact me:
+ +91 6374838188 |  yuvarajv787@gmail.com
+

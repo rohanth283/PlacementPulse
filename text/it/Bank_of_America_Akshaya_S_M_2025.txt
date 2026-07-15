@@ -1,0 +1,198 @@
+BANK OF AMERICA – PLACEMENT
+EXPERIENCE
+
+-AKSHAYA S M
+
+About the Company:
+
+•  Bank  of America  is  a  leading  global  financial  institution,  driven  by  its
+purpose of helping make financial lives better through the power of every
+connection. Guided by its principle of Responsible Growth, the company
+focuses  on  delivering  for  its  clients,  teammates,  communities,  and
+shareholders  with  integrity  and  purpose.  In  India,  Bank  of  America
+operates  as  BA  Continuum  India  Private  Limited  (BACI),  a  wholly-
+owned, non-banking subsidiary.
+
+Role:
+
+•  The freshers from our college are initially recruited for the role of GET
+(Graduate  Engineering  Trainee)  but  the  campus  role  at  BoA  offers
+opportunities across diverse areas,
+1.  Development:  Building  advanced  FinTech  solutions  for  banking,
+trading, and risk using
+technologies like AI, ML, and cloud, focusing on areas like algorithmic
+trading,
+anti-money laundering, and digital banking.
+2.  Testing:  Ensuring  product  quality  through  functional  and  technical
+testing, risk
+assessment,  and  performance  optimization  using  tools  like  Selenium
+and JIRA.
+3.  Risk  Management:  Entry-level  analysis  in  cloud  governance,
+cybersecurity, and
+operational risk to enhance BoA's control environment.
+4.  Infrastructure  Operations:  Software  development  to  meet  both
+functional and
+non-functional  business  needs,  focusing  on  DevOps,  testing,  and
+automated release.
+5.  Production  Support:  Event  management,  incident  handling,  and
+maintaining high
+availability in network and infrastructure operations.
+6.  Cybersecurity:  Safeguarding  systems  against  cyber  threats  with
+technologies like SIEM,
+Splunk, and identity management tools.
+
+7.  Identity  &  Access  Management  (IAM):  Controlling  access  and
+managing compliance
+across various tech environments, ensuring security and governance.
+8.  Core  Security:  Monitoring
+assessments, and ethical
+hacking to protect BoA’s digital assets.
+
+incidents,  vulnerability
+
+for  security
+
+Overview of the process:
+
+1.  Video interview
+
+2.  Technical Round-1
+
+3.  Technical Round-2
+
+1.Video Interview:
+
+DURATION:90 MINS
+
+•  The test was active on 9th and 10th September and we had to complete
+
+it in 48 hours,  so it was like we could attempt it at any time in these 48
+
+hours given time and was conducted on the company’s platform.
+
+•  There were 5 questions (3 video questions + 2 coding questions).
+
+•  The camera and microphone were open for 3 video questions and the
+
+only camera was on for 2 coding questions.
+
+•  The  first  video  question  was  to  “Introduce  yourself”,  the  second  was
+
+“Why should you be a good match for this profile” and the third question
+
+was  “Explaining  the  approach  of  your  second  coding  question”  like  u
+
+need  to  explain  in  detail  what  logic  you  applied  to  solve  the  second
+
+coding question.
+
+CODING QUESTIONS:
+
+•  Given n test cases each of which has numbers in form of strings, output
+
+all numbers from 1 to that number which is not divisible by 5 or 7.
+
+Example: i/p – 24
+
+o/p - 1 2 3 4 6 8 9 11 12 13 16 17 18 19 22 23 24
+
+•  Given a string s consisting of lower and uppercase letters where each
+
+letter has a value from 1 to 26 and we need to calculate the beauty value
+
+of this string which is the sum of all alphabets in it.
+
+Note: The string is not case sensitive meaning F is exactly beautiful as f
+
+is. Output the maximum possible beauty of this string.
+
+Example: i/p – AbBCcc
+
+o/p – 152
+
+2.Technical Round-1:
+
+DURATION:30MINS
+
+•  Major  concepts  that  were  focused  during  my  first  round  were  DBMS,
+
+Projects and Skills mentioned in Resume.
+
+•  The interviewer first asked me to introduce myself. In this, make sure to
+
+talk only about the things you are very confident about.
+
+•  After that, I was asked to explain my ML project, which played a crucial
+
+role in my interview.
+
+•  Make  sure  you  know  the  complete  implementation  and  concepts
+
+involved in those projects you mentioned.
+
+•  Then I was given an employee table and asked to write sql queries for
+
+finding second highest salary,different types of joins.
+
+•
+
+I was also given a puzzle to solve: Suppose you have 8L, 5L and a 3L
+
+bucket with you. The buckets have no measurement lines on them and
+
+you are asked to measure exactly 4L of water using the three buckets.
+
+How could you measure exactly 4L water using only those buckets and
+
+provided you have as much extra water as you need ?
+
+TIPS:
+
+Don’t  get  tensed  and  nervous  in  the  interview.Be  clear  and  confident  while
+
+answering questions.
+
+3.Technical Round-2:
+
+•
+
+I  was  asked  to  write  sql  queries  for  student  database  and  perform
+
+different types of joins.
+
+•
+
+In this round, I was also asked few questions on Excel and python.
+
+•  Python played an important role in BOA-interview process.
+
+•  What is the difference between list and tuple?
+
+•  Syntax of list and tuple.
+
+•  Then I was also asked few managerial questions like :
+
+•  What would you do if u couldn’t complete a task within deadline?
+
+•  How will you handle difference of opinions with teammates?
+
+•  Where do you see yourself in next 5 years?
+
+•  Will you learn new technologies if needed?
+
+TIPS:
+
+While answering managerial questions be aware and think carefully before
+
+responding.Be interactive and don’t be silent.
+
+IT’S  NOT  ABOUT  WHEN  YOU  START  YOUR  PREPARATION.  IT’S
+
+ABOUT  HOW  WELL  YOU  LEARN  ,  UNDERSTAND  AND  EXPRESS
+
+YOUR KNOWLEDGE.
+
+BE CONSISTENT,CONFIDENT AND WAIT FOR UR DAY.
+
+ALL THE BEST!!!!
+

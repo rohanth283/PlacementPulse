@@ -1,0 +1,60 @@
+**Naveen O.T**
+**Product Management Intern – Appian**
+
+**About the Company:**
+
+Appian Corporation is a US-based enterprise software company founded in 1999, best known for its low-code automation platform that helps businesses quickly build applications, automate workflows, and integrate data across systems. Headquartered in McLean, Virginia, with global offices including India, Appian combines process orchestration, AI, robotic process automation, and process mining into a single platform, enabling organizations to improve efficiency, reduce costs, and modernize operations.
+
+**About the Role:**
+
+A Product Manager (PM) is responsible for guiding a product through its entire lifecycle, from idea to launch and beyond. They define the vision and strategy of the product based on market research, user feedback, and business goals. PMs prioritize features, create and maintain the product roadmap, and work with cross-functional teams (engineering, design, marketing, sales) to ensure that what gets built delivers value. After launch, they analyze metrics, gather user feedback, and iterate to continuously improve the product.
+
+**The Selection Process:**
+
+**i) Online Round (via Bolt platform)**
+The online round lasted around 45 minutes and consisted of system design and behavioural questions.
+Examples:
+
+* What is your favourite app? What feature do you like the most and why?
+* According to you, what does a day in the life of a PM look like?
+* How would you solve team conflicts?
+
+Some questions also required recording and uploading a short video. The round was straightforward and simple.
+
+**ii) In-Person Interview @ CUIC (3 rounds)**
+
+**Round 1 – Technical**
+
+* Focused mainly on system design questions.
+* I was first asked to introduce myself, then given a scenario to incorporate multilingual support into an app.
+* I had to explain the process—from collecting metrics to designing the feature. The interviewer tested my thought process, articulation, and ability to consider diverse approaches rather than expecting a “right” answer.
+* I was also asked about my favourite app and related questions.
+* **Tip:** Always ask unique and thoughtful questions at the end of the round.
+
+**Round 2 – HR**
+
+* Lasted 15–20 minutes.
+* Included self-introduction and behavioral questions such as:
+  + What are your plans for the future?
+  + Are you interested in higher studies?
+  + What do you think a PM does?
+
+**Round 3 – HR Wrap-up**
+
+* It was a very short and lasted less than 10 minutes.
+* The interviewer explained the role and asked a few questions about my background.
+
+**Preparation Approach:**
+
+Since PM internships are rare during placements, I focused on:
+
+* Practicing basic and commonly asked questions.
+* Learning to explain scenarios using the **STAR method**.
+* Understanding PM metrics, feature analysis, and the design process.
+* Practicing mock questions and interviews to build confidence and improve articulation.
+
+The interview process primarily tested communication skills, structured thinking, and openness to learning. There weren’t strict “right” answers—what mattered was clarity, reasoning, and confidence.
+
+**Tip:** Be open, ask questions if you get stuck, and articulate your thoughts clearly.
+
+✨ **ALL THE BEST!!!**
