@@ -523,6 +523,49 @@ body {
     height: 13px;
 }
 
+.history-item-rename-input {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid var(--accent);
+    border-radius: 6px;
+    color: #fff;
+    font-size: 0.8rem;
+    padding: 0.15rem 0.35rem;
+    outline: none;
+    width: 100%;
+    font-family: var(--font-family);
+}
+
+.history-item-confirm-actions {
+    display: flex;
+    gap: 0.35rem;
+    align-items: center;
+}
+
+.history-item-confirm-actions button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.15rem;
+    border-radius: 4px;
+    transition: var(--transition);
+}
+
+.history-item-confirm-actions button.confirm-yes {
+    color: var(--success);
+}
+
+.history-item-confirm-actions button.confirm-no {
+    color: var(--danger);
+}
+
+.history-item-confirm-actions i {
+    width: 13px;
+    height: 13px;
+}
+
 /* Nav Menu Items */
 .nav-menu {
     display: flex;

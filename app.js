@@ -396,58 +396,116 @@ document.addEventListener('DOMContentLoaded', () => {
                         <i data-lucide="trash-2"></i>
                     </button>
                 </div>
+                <div class="history-item-confirm-actions hidden">
+                    <button class="confirm-yes" title="Confirm Delete"><i data-lucide="check"></i></button>
+                    <button class="confirm-no" title="Cancel"><i data-lucide="x"></i></button>
+                </div>
             `;
             
-            item.addEventListener('click', () => selectConversation(conv.id));
+            item.addEventListener('click', (e) => {
+                // If editing rename input or confirming delete, block tab loading
+                if (item.querySelector('.history-item-rename-input') || 
+                    !item.querySelector('.history-item-confirm-actions').classList.contains('hidden')) {
+                    return;
+                }
+                selectConversation(conv.id);
+            });
             
+            // Inline Rename Input Injector
             const renameBtn = item.querySelector('.history-item-rename');
             renameBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
-                renameConversationSession(conv.id, conv.title);
+                
+                const titleSpan = item.querySelector('.history-item-title');
+                const actionsDiv = item.querySelector('.history-item-actions');
+                if (item.querySelector('.history-item-rename-input')) return;
+                
+                const originalTitle = titleSpan.textContent;
+                actionsDiv.classList.add('hidden');
+                titleSpan.classList.add('hidden');
+                
+                const input = document.createElement('input');
+                input.type = 'text';
+                input.className = 'history-item-rename-input';
+                input.value = originalTitle;
+                
+                const contentDiv = item.querySelector('.history-item-content');
+                contentDiv.appendChild(input);
+                input.focus();
+                input.select();
+                
+                async function submitRename() {
+                    const newValue = input.value.trim();
+                    input.remove();
+                    titleSpan.classList.remove('hidden');
+                    actionsDiv.classList.remove('hidden');
+                    
+                    if (!newValue || newValue === originalTitle) {
+                        return;
+                    }
+                    
+                    try {
+                        const res = await fetch(`/api/conversations/${conv.id}/title`, {
+                            method: 'PUT',
+                            headers: {
+                                'Content-Type': 'application/json',
+                                'Authorization': `Bearer ${state.token}`
+                            },
+                            body: JSON.stringify({ title: newValue })
+                        });
+                        
+                        if (!res.ok) throw new Error("Rename failed");
+                        
+                        const data = await res.json();
+                        conv.title = data.title;
+                        titleSpan.textContent = data.title;
+                    } catch (error) {
+                        console.error("Rename failed:", error);
+                    }
+                }
+                
+                input.addEventListener('keydown', (event) => {
+                    if (event.key === 'Enter') {
+                        event.preventDefault();
+                        submitRename();
+                    } else if (event.key === 'Escape') {
+                        event.preventDefault();
+                        input.remove();
+                        titleSpan.classList.remove('hidden');
+                        actionsDiv.classList.remove('hidden');
+                    }
+                });
+                
+                input.addEventListener('blur', () => {
+                    submitRename();
+                });
             });
             
+            // Inline Confirm Deletion buttons toggle
             const delBtn = item.querySelector('.history-item-delete');
+            const actionsDiv = item.querySelector('.history-item-actions');
+            const confirmDiv = item.querySelector('.history-item-confirm-actions');
+            
             delBtn.addEventListener('click', (e) => {
                 e.stopPropagation();
+                actionsDiv.classList.add('hidden');
+                confirmDiv.classList.remove('hidden');
+            });
+            
+            confirmDiv.querySelector('.confirm-yes').addEventListener('click', (e) => {
+                e.stopPropagation();
                 deleteConversationSession(conv.id);
+            });
+            
+            confirmDiv.querySelector('.confirm-no').addEventListener('click', (e) => {
+                e.stopPropagation();
+                confirmDiv.classList.add('hidden');
+                actionsDiv.classList.remove('hidden');
             });
             
             sidebarChatHistory.appendChild(item);
         });
         lucide.createIcons();
-    }
-
-    async function renameConversationSession(convId, currentTitle) {
-        const newTitle = prompt("Enter a new title for this chat:", currentTitle);
-        if (newTitle === null) return;
-        const trimmed = newTitle.trim();
-        if (!trimmed) {
-            alert("Title cannot be empty.");
-            return;
-        }
-
-        try {
-            const res = await fetch(`/api/conversations/${convId}/title`, {
-                method: 'PUT',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${state.token}`
-                },
-                body: JSON.stringify({ title: trimmed })
-            });
-
-            if (!res.ok) throw new Error("Rename failed");
-            
-            const data = await res.json();
-            const conv = state.conversations.find(c => c.id === convId);
-            if (conv) {
-                conv.title = data.title;
-                renderSidebarHistory();
-            }
-        } catch (error) {
-            console.error("Failed to rename conversation:", error);
-            alert("Failed to rename conversation.");
-        }
     }
 
     async function createNewChatSession() {
@@ -523,8 +581,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     async function deleteConversationSession(convId) {
-        if (!confirm("Are you sure you want to delete this chat session?")) return;
-        
         try {
             const res = await fetch(`/api/conversations/${convId}`, {
                 method: 'DELETE',
@@ -571,7 +627,8 @@ document.addEventListener('DOMContentLoaded', () => {
     async function submitChatMessage(text) {
         // Alphanumeric verification locally
         if (!/[a-zA-Z0-9]/.test(text)) {
-            alert("Invalid Input: Emojis and special characters alone are not supported. Please write a query containing letters or numbers.");
+            appendMessage('system', '⚠️ **PlacementPulse Notice:** Emojis and special characters alone are not supported. Please write a query containing letters or numbers.');
+            chatMessages.scrollTop = chatMessages.scrollHeight;
             return;
         }
 
