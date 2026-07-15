@@ -54,6 +54,7 @@ def init_db():
                 password_hash VARCHAR(255) NOT NULL
             )
         """)
+        cursor.execute("ALTER TABLE users ADD COLUMN IF NOT EXISTS is_admin BOOLEAN DEFAULT FALSE;")
         
         # Sessions table
         cursor.execute("""
@@ -74,6 +75,7 @@ def init_db():
                 created_at VARCHAR(100) NOT NULL
             )
         """)
+        cursor.execute("ALTER TABLE conversations ADD COLUMN IF NOT EXISTS display_order INTEGER DEFAULT 0;")
         
         # Messages table
         cursor.execute("""
@@ -97,6 +99,31 @@ def init_db():
             )
         """)
         
+        # Token usage table
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS token_usage (
+                id SERIAL PRIMARY KEY,
+                user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+                prompt_tokens INTEGER DEFAULT 0,
+                completion_tokens INTEGER DEFAULT 0,
+                total_tokens INTEGER DEFAULT 0,
+                model VARCHAR(100),
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            )
+        """)
+        
+        # Seed default admin if none exists
+        cursor.execute("SELECT id FROM users WHERE is_admin = TRUE LIMIT 1")
+        if not cursor.fetchone():
+            # Check if there is already an 'admin' user who is not marked admin
+            admin_hash = hash_password("admin123")
+            cursor.execute("SELECT id FROM users WHERE username = 'admin'")
+            if cursor.fetchone():
+                cursor.execute("UPDATE users SET is_admin = TRUE, password_hash = %s WHERE username = 'admin'", (admin_hash,))
+            else:
+                cursor.execute("INSERT INTO users (username, password_hash, is_admin) VALUES ('admin', %s, TRUE)", (admin_hash,))
+            print("[SEED] Default admin seeded successfully: admin / admin123")
+            
         conn.commit()
         cursor.close()
         conn.close()
@@ -328,12 +355,19 @@ class ChatRequest(BaseModel):
 class UpdateTitleRequest(BaseModel):
     title: str
 
+class ReorderRequest(BaseModel):
+    order: List[str]
+
 # ----------------------------------------------------
 # Static Assets serving
 # ----------------------------------------------------
 @app.get("/")
 def get_index():
     return FileResponse("index.html")
+
+@app.get("/admin")
+def get_admin_page():
+    return FileResponse("admin.html")
 
 @app.get("/style.css")
 def get_css():
@@ -449,7 +483,7 @@ def logout(authorization: Optional[str] = Header(None)):
 def get_me(user_id: int = Depends(get_current_user_id)):
     conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute("SELECT username FROM users WHERE id = %s", (user_id,))
+    cursor.execute("SELECT username, is_admin FROM users WHERE id = %s", (user_id,))
     row = cursor.fetchone()
     cursor.close()
     conn.close()
@@ -457,7 +491,80 @@ def get_me(user_id: int = Depends(get_current_user_id)):
     if not row:
         raise HTTPException(status_code=404, detail="User not found")
         
-    return JSONResponse(content={"username": row[0]})
+    return JSONResponse(content={"username": row[0], "is_admin": row[1]})
+
+# Admin verification helper
+def verify_admin(user_id: int):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("SELECT is_admin FROM users WHERE id = %s", (user_id,))
+    row = cursor.fetchone()
+    cursor.close()
+    conn.close()
+    if not row or not row[0]:
+        raise HTTPException(status_code=403, detail="Forbidden: Admin credentials required.")
+
+# Admin stats API
+@app.get("/api/admin/stats")
+def get_admin_stats(user_id: int = Depends(get_current_user_id)):
+    verify_admin(user_id)
+    
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    
+    try:
+        # 1. Total Registered Users
+        cursor.execute("SELECT COUNT(*) FROM users")
+        total_users = cursor.fetchone()[0]
+        
+        # 2. Total Conversations
+        cursor.execute("SELECT COUNT(*) FROM conversations")
+        total_convs = cursor.fetchone()[0]
+        
+        # 3. Total Messages
+        cursor.execute("SELECT COUNT(*) FROM messages")
+        total_messages = cursor.fetchone()[0]
+        
+        # 4. Total Tokens used
+        cursor.execute("SELECT COALESCE(SUM(prompt_tokens), 0), COALESCE(SUM(completion_tokens), 0), COALESCE(SUM(total_tokens), 0) FROM token_usage")
+        prompt_t, comp_t, total_t = cursor.fetchone()
+        
+        # 5. Users List with aggregate details
+        cursor.execute("""
+            SELECT u.id, u.username, u.is_admin,
+                   (SELECT COUNT(*) FROM conversations WHERE user_id = u.id) as chat_count,
+                   (SELECT COUNT(*) FROM messages m JOIN conversations c ON m.conversation_id = c.id WHERE c.user_id = u.id) as message_count,
+                   COALESCE((SELECT SUM(total_tokens) FROM token_usage WHERE user_id = u.id), 0) as token_count
+            FROM users u
+            ORDER BY u.id ASC
+        """)
+        users_list = []
+        for r in cursor.fetchall():
+            users_list.append({
+                "id": r[0],
+                "username": r[1],
+                "is_admin": r[2],
+                "chat_count": r[3],
+                "message_count": r[4],
+                "token_count": r[5]
+            })
+            
+        return JSONResponse(content={
+            "stats": {
+                "total_users": total_users,
+                "total_conversations": total_convs,
+                "total_messages": total_messages,
+                "prompt_tokens": prompt_t,
+                "completion_tokens": comp_t,
+                "total_tokens": total_t
+            },
+            "users": users_list
+        })
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to fetch admin stats: {str(e)}")
+    finally:
+        cursor.close()
+        conn.close()
 
 # ----------------------------------------------------
 # Conversation Management Routes
@@ -470,7 +577,7 @@ def get_conversations(user_id: int = Depends(get_current_user_id)):
         SELECT id, title, company_filter, created_at 
         FROM conversations 
         WHERE user_id = %s 
-        ORDER BY created_at DESC
+        ORDER BY display_order ASC, created_at DESC
     """, (user_id,))
     rows = cursor.fetchall()
     cursor.close()
@@ -565,6 +672,27 @@ def update_conversation_title(conversation_id: str, payload: UpdateTitleRequest,
         conn.close()
         
     return JSONResponse(content={"success": True, "title": title})
+
+@app.put("/api/conversations/reorder")
+def reorder_conversations(payload: ReorderRequest, user_id: int = Depends(get_current_user_id)):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    try:
+        for idx, conv_id in enumerate(payload.order):
+            cursor.execute(
+                "UPDATE conversations SET display_order = %s WHERE id = %s AND user_id = %s",
+                (idx, conv_id, user_id)
+            )
+        conn.commit()
+    except Exception as e:
+        conn.rollback()
+        cursor.close()
+        conn.close()
+        raise HTTPException(status_code=500, detail=f"Reordering failed: {str(e)}")
+    finally:
+        cursor.close()
+        conn.close()
+    return JSONResponse(content={"success": True})
 
 @app.get("/api/conversations/{conversation_id}/messages")
 def get_messages(conversation_id: str, user_id: int = Depends(get_current_user_id)):
@@ -809,6 +937,20 @@ USER QUESTION:
             contents=contents,
             config=config
         )
+        
+        # Log token usage
+        if response and hasattr(response, "usage_metadata") and response.usage_metadata:
+            try:
+                p_tokens = response.usage_metadata.prompt_token_count or 0
+                c_tokens = response.usage_metadata.candidates_token_count or 0
+                t_tokens = response.usage_metadata.total_token_count or 0
+                
+                cursor.execute("""
+                    INSERT INTO token_usage (user_id, prompt_tokens, completion_tokens, total_tokens, model)
+                    VALUES (%s, %s, %s, %s, %s)
+                """, (user_id, p_tokens, c_tokens, t_tokens, "gemini-2.5-flash"))
+            except Exception as usage_err:
+                print(f"[WARNING] Failed to log token usage: {usage_err}")
         
         citations = []
         for doc in retrieved_docs:

@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
         conversations: [],
         experiences: [],
         companies: [],
-        charts: {}
+        charts: {},
+        draggedConversationId: null
     };
 
     // DOM Elements
@@ -146,10 +147,29 @@ document.addEventListener('DOMContentLoaded', () => {
         if (authOverlay) authOverlay.classList.add('hidden');
     }
 
-    function setupUserProfile() {
+    async function setupUserProfile() {
         if (!state.username) return;
         userDisplayName.textContent = state.username;
         userInitials.textContent = state.username.substring(0, 2).toUpperCase();
+        
+        try {
+            const res = await fetch('/api/auth/me', {
+                headers: { 'Authorization': `Bearer ${state.token}` }
+            });
+            if (res.ok) {
+                const data = await res.json();
+                const roleLabel = document.getElementById('user-role-label');
+                if (roleLabel) {
+                    if (data.is_admin) {
+                        roleLabel.innerHTML = `<a href="/admin" style="color: var(--accent); text-decoration: none; font-weight: 600;">Admin Panel</a>`;
+                    } else {
+                        roleLabel.textContent = 'Candidate';
+                    }
+                }
+            }
+        } catch (err) {
+            console.error("Failed to check admin status:", err);
+        }
     }
 
     function logoutUserLocal() {
@@ -505,9 +525,40 @@ document.addEventListener('DOMContentLoaded', () => {
                 actionsDiv.classList.remove('hidden');
             });
             
+            
             sidebarChatHistory.appendChild(item);
         });
         lucide.createIcons();
+    }
+
+    async function saveNewChatOrder() {
+        const orderedIds = [];
+        sidebarChatHistory.querySelectorAll('.history-item').forEach(item => {
+            if (item.dataset.id) {
+                orderedIds.push(item.dataset.id);
+            }
+        });
+        
+        // Sync state.conversations to match the new order!
+        const reorderedConversations = [];
+        orderedIds.forEach(id => {
+            const conv = state.conversations.find(c => c.id === id);
+            if (conv) reorderedConversations.push(conv);
+        });
+        state.conversations = reorderedConversations;
+        
+        try {
+            await fetch('/api/conversations/reorder', {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${state.token}`
+                },
+                body: JSON.stringify({ order: orderedIds })
+            });
+        } catch (error) {
+            console.error("Failed to persist reordering:", error);
+        }
     }
 
     async function createNewChatSession() {
@@ -1076,6 +1127,19 @@ document.addEventListener('DOMContentLoaded', () => {
         sidebarOverlay.addEventListener('click', () => {
             appSidebar.classList.remove('active');
             sidebarOverlay.classList.remove('active');
+        });
+    }
+
+    // Initialize SortableJS for Smooth Drag & Drop
+    if (typeof Sortable !== 'undefined' && sidebarChatHistory) {
+        Sortable.create(sidebarChatHistory, {
+            animation: 200,
+            ghostClass: 'dragging',
+            chosenClass: 'chosen',
+            dragClass: 'dragged',
+            onEnd: () => {
+                saveNewChatOrder();
+            }
         });
     }
 

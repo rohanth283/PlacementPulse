@@ -1,0 +1,773 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlacementPulse Admin Dashboard</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        :root {
+            --bg-primary: #0a0a0c;
+            --bg-secondary: #141418;
+            --bg-tertiary: #1e1e24;
+            --border-color: rgba(255, 255, 255, 0.08);
+            --border-hover: rgba(255, 255, 255, 0.15);
+            --text-primary: #f5f5f7;
+            --text-secondary: #86868b;
+            --text-muted: #48484a;
+            --accent: #0a84ff;
+            --accent-glow: rgba(10, 132, 255, 0.25);
+            --success: #30d158;
+            --warning: #ffd60a;
+            --danger: #ff453a;
+            --font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            --transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+            --apple-spring: cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: var(--font-family);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow-x: hidden;
+        }
+
+        /* Loading Overlay */
+        #loading-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: var(--bg-primary);
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.4s ease;
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid rgba(255, 255, 255, 0.05);
+            border-top: 3px solid var(--accent);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Login Layout */
+        .login-container {
+            width: 100%;
+            max-width: 400px;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        .login-card {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 2.25rem;
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        .login-header {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .login-header i {
+            color: var(--accent);
+            width: 48px;
+            height: 48px;
+            background: var(--accent-glow);
+            padding: 10px;
+            border-radius: 12px;
+            margin-bottom: 0.5rem;
+        }
+        .login-header h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+        }
+        .login-header p {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .input-group label {
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+        }
+        .input-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+        .input-wrapper i {
+            position: absolute;
+            left: 0.75rem;
+            width: 16px;
+            height: 16px;
+            color: var(--text-secondary);
+        }
+        .input-wrapper input {
+            width: 100%;
+            background-color: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 0.65rem 1rem 0.65rem 2.25rem;
+            color: #fff;
+            font-family: var(--font-family);
+            font-size: 0.9rem;
+            outline: none;
+            transition: var(--transition);
+        }
+        .input-wrapper input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-glow);
+        }
+        .login-btn {
+            background-color: var(--accent);
+            color: #fff;
+            border: none;
+            border-radius: 10px;
+            padding: 0.75rem;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+        .login-btn:hover {
+            opacity: 0.9;
+        }
+        .login-btn:active {
+            transform: scale(0.97);
+        }
+        .error-msg {
+            background-color: rgba(255, 69, 58, 0.1);
+            border: 1px solid rgba(255, 69, 58, 0.2);
+            color: var(--danger);
+            padding: 0.65rem;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            text-align: center;
+            display: none;
+        }
+
+        /* Dashboard Layout */
+        .dashboard-container {
+            width: 100%;
+            max-width: 1200px;
+            min-height: 100vh;
+            padding: 2rem;
+            display: none; /* Toggle via JS */
+            flex-direction: column;
+            gap: 2rem;
+            align-self: flex-start;
+        }
+        .dash-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 1.5rem;
+        }
+        .dash-title-group h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            letter-spacing: -0.025em;
+        }
+        .dash-title-group p {
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            margin-top: 0.25rem;
+        }
+        .header-actions {
+            display: flex;
+            gap: 0.75rem;
+            align-items: center;
+        }
+        .btn-outline {
+            background: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 0.55rem 1rem;
+            border-radius: 10px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            text-decoration: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.45rem;
+            transition: var(--transition);
+        }
+        .btn-outline:hover {
+            border-color: var(--border-hover);
+            background-color: rgba(255, 255, 255, 0.03);
+        }
+        .btn-outline:active {
+            transform: scale(0.96);
+        }
+
+        /* Metric Cards */
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.25rem;
+        }
+        .metric-card {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            transition: var(--transition);
+        }
+        .metric-card:hover {
+            border-color: var(--border-hover);
+        }
+        .metric-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+        .metric-header i {
+            width: 16px;
+            height: 16px;
+            color: var(--accent);
+        }
+        .metric-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #fff;
+            letter-spacing: -0.02em;
+        }
+        .metric-subtitle {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            display: flex;
+            gap: 0.5rem;
+        }
+        .metric-subtitle span {
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        /* Table Section */
+        .section-card {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            padding: 1.75rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+        }
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+        .section-header h3 {
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+        .search-wrapper {
+            position: relative;
+            display: flex;
+            align-items: center;
+            background-color: var(--bg-primary);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 0 0.75rem;
+            height: 36px;
+            width: 250px;
+        }
+        .search-wrapper i {
+            width: 14px;
+            height: 14px;
+            color: var(--text-secondary);
+            margin-right: 0.5rem;
+        }
+        .search-wrapper input {
+            background: transparent;
+            border: none;
+            outline: none;
+            color: #fff;
+            font-family: var(--font-family);
+            font-size: 0.8rem;
+            width: 100%;
+        }
+
+        .table-responsive {
+            width: 100%;
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+            font-size: 0.85rem;
+        }
+        th {
+            color: var(--text-secondary);
+            font-weight: 500;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+        td {
+            padding: 0.85rem 1rem;
+            border-bottom: 1px solid var(--border-color);
+            color: var(--text-primary);
+        }
+        tr:last-child td {
+            border-bottom: none;
+        }
+        .badge {
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 0.15rem 0.45rem;
+            border-radius: 4px;
+            text-transform: uppercase;
+        }
+        .badge.admin {
+            background-color: rgba(255, 69, 58, 0.15);
+            color: var(--danger);
+        }
+        .badge.user {
+            background-color: rgba(10, 132, 255, 0.15);
+            color: var(--accent);
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-secondary);
+        }
+
+        @media (max-width: 768px) {
+            body {
+                align-items: flex-start;
+            }
+            .dashboard-container {
+                padding: 1rem;
+            }
+            .dash-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 1rem;
+            }
+            .header-actions {
+                width: 100%;
+                justify-content: space-between;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Loading overlay -->
+    <div id="loading-screen">
+        <div class="spinner"></div>
+    </div>
+
+    <!-- Admin login view -->
+    <div class="login-container" id="view-login">
+        <div class="login-card">
+            <div class="login-header">
+                <i data-lucide="shield-check"></i>
+                <h2>Admin Login</h2>
+                <p>Access the PlacementPulse usage analytics</p>
+            </div>
+            
+            <div class="error-msg" id="login-error">Invalid admin credentials.</div>
+            
+            <div class="input-group">
+                <label for="username">Username</label>
+                <div class="input-wrapper">
+                    <i data-lucide="user"></i>
+                    <input type="text" id="username" placeholder="admin">
+                </div>
+            </div>
+            
+            <div class="input-group">
+                <label for="password">Password</label>
+                <div class="input-wrapper">
+                    <i data-lucide="lock"></i>
+                    <input type="password" id="password" placeholder="••••••••">
+                </div>
+            </div>
+            
+            <button class="login-btn" id="btn-login">
+                <span>Sign In</span>
+                <i data-lucide="arrow-right"></i>
+            </button>
+        </div>
+        <a href="/" class="btn-outline" style="align-self: center;">
+            <i data-lucide="arrow-left"></i>
+            <span>Back to App</span>
+        </a>
+    </div>
+
+    <!-- Admin Dashboard View -->
+    <div class="dashboard-container" id="view-dashboard">
+        <header class="dash-header">
+            <div class="dash-title-group">
+                <h1>Admin Dashboard</h1>
+                <p>System Overview & LLM Token Telemetry</p>
+            </div>
+            <div class="header-actions">
+                <a href="/" class="btn-outline">
+                    <i data-lucide="layout-dashboard"></i>
+                    <span>Go to App</span>
+                </a>
+                <button class="btn-outline" id="btn-logout" style="color: var(--danger); border-color: rgba(255, 69, 58, 0.2);">
+                    <i data-lucide="log-out"></i>
+                    <span>Log Out</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Metric Cards -->
+        <section class="metrics-grid">
+            <div class="metric-card">
+                <div class="metric-header">
+                    <span>TOTAL USERS</span>
+                    <i data-lucide="users"></i>
+                </div>
+                <div class="metric-value" id="stat-users">0</div>
+                <div class="metric-subtitle">Registered accounts in database</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-header">
+                    <span>TOTAL CONVERSATIONS</span>
+                    <i data-lucide="message-square"></i>
+                </div>
+                <div class="metric-value" id="stat-convs">0</div>
+                <div class="metric-subtitle">Active user chat sessions</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-header">
+                    <span>TOTAL MESSAGES</span>
+                    <i data-lucide="send"></i>
+                </div>
+                <div class="metric-value" id="stat-messages">0</div>
+                <div class="metric-subtitle">Interactions with Gemini RAG</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-header">
+                    <span>TOTAL TOKENS CONSUMED</span>
+                    <i data-lucide="cpu"></i>
+                </div>
+                <div class="metric-value" id="stat-tokens">0</div>
+                <div class="metric-subtitle">
+                    In: <span id="stat-prompt-t">0</span> • Out: <span id="stat-comp-t">0</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Registered Users Section -->
+        <section class="section-card">
+            <div class="section-header">
+                <h3>Registered Users & Usage</h3>
+                <div class="search-wrapper">
+                    <i data-lucide="search"></i>
+                    <input type="text" id="user-search" placeholder="Search user by name...">
+                </div>
+            </div>
+            
+            <div class="table-responsive">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Username</th>
+                            <th>Role</th>
+                            <th>Conversations</th>
+                            <th>Messages Sent</th>
+                            <th>Total Tokens</th>
+                        </tr>
+                    </thead>
+                    <tbody id="users-table-body">
+                        <!-- Table rows populated dynamically -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        // DOM Elements
+        const loadingScreen = document.getElementById('loading-screen');
+        const viewLogin = document.getElementById('view-login');
+        const viewDashboard = document.getElementById('view-dashboard');
+        
+        const inputUser = document.getElementById('username');
+        const inputPass = document.getElementById('password');
+        const btnLogin = document.getElementById('btn-login');
+        const loginError = document.getElementById('login-error');
+        
+        const btnLogout = document.getElementById('btn-logout');
+        const userSearch = document.getElementById('user-search');
+        
+        const statUsers = document.getElementById('stat-users');
+        const statConvs = document.getElementById('stat-convs');
+        const statMessages = document.getElementById('stat-messages');
+        const statTokens = document.getElementById('stat-tokens');
+        const statPromptT = document.getElementById('stat-prompt-t');
+        const statCompT = document.getElementById('stat-comp-t');
+        
+        const usersTableBody = document.getElementById('users-table-body');
+        
+        let state = {
+            token: localStorage.getItem('adminToken') || null,
+            users: [],
+            stats: {}
+        };
+
+        // Initialize Icons
+        lucide.createIcons();
+
+        // Bootstrapping Authentication Check
+        async function checkAuthentication() {
+            if (!state.token) {
+                showLoginView();
+                return;
+            }
+
+            try {
+                const meRes = await fetch('/api/auth/me', {
+                    headers: { 'Authorization': `Bearer ${state.token}` }
+                });
+                
+                if (!meRes.ok) throw new Error("Unauthorized");
+                
+                const meData = await meRes.json();
+                if (!meData.is_admin) {
+                    throw new Error("Forbidden: Not an admin account");
+                }
+                
+                // Load admin data on success
+                await loadAdminData();
+                showDashboardView();
+            } catch (err) {
+                console.error("Auth check failed:", err);
+                localStorage.removeItem('adminToken');
+                state.token = null;
+                showLoginView();
+            }
+        }
+
+        function showLoginView() {
+            loadingScreen.style.opacity = '0';
+            setTimeout(() => { loadingScreen.style.display = 'none'; }, 400);
+            viewLogin.style.display = 'flex';
+            viewDashboard.style.display = 'none';
+            document.body.style.alignItems = 'center';
+        }
+
+        function showDashboardView() {
+            loadingScreen.style.opacity = '0';
+            setTimeout(() => { loadingScreen.style.display = 'none'; }, 400);
+            viewLogin.style.display = 'none';
+            viewDashboard.style.display = 'flex';
+            document.body.style.alignItems = 'flex-start';
+        }
+
+        // Login Handler
+        async function handleLogin() {
+            const username = inputUser.value.trim();
+            const password = inputPass.value.trim();
+            
+            if (!username || !password) {
+                showError("Username and password required.");
+                return;
+            }
+            
+            loginError.style.display = 'none';
+            btnLogin.disabled = true;
+            btnLogin.textContent = "Logging in...";
+            
+            try {
+                const res = await fetch('/api/auth/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+                
+                if (!res.ok) {
+                    const data = await res.json();
+                    throw new Error(data.detail || "Login failed");
+                }
+                
+                const loginData = await res.json();
+                const token = loginData.token;
+                
+                // Double check if account is admin
+                const meRes = await fetch('/api/auth/me', {
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
+                if (!meRes.ok) throw new Error("Could not retrieve user info.");
+                
+                const meData = await meRes.json();
+                if (!meData.is_admin) {
+                    throw new Error("Access Denied: This account does not have admin permissions.");
+                }
+                
+                // Save token
+                localStorage.setItem('adminToken', token);
+                state.token = token;
+                
+                // Load and navigate
+                await loadAdminData();
+                showDashboardView();
+            } catch (err) {
+                showError(err.message);
+            } finally {
+                btnLogin.disabled = false;
+                btnLogin.innerHTML = `<span>Sign In</span><i data-lucide="arrow-right"></i>`;
+                lucide.createIcons();
+            }
+        }
+
+        function showError(msg) {
+            loginError.textContent = msg;
+            loginError.style.display = 'block';
+        }
+
+        // Load stats & users from API
+        async function loadAdminData() {
+            try {
+                const res = await fetch('/api/admin/stats', {
+                    headers: { 'Authorization': `Bearer ${state.token}` }
+                });
+                
+                if (!res.ok) throw new Error("Failed to load admin stats");
+                
+                const data = await res.json();
+                state.stats = data.stats;
+                state.users = data.users;
+                
+                renderStats();
+                renderUsersTable(state.users);
+            } catch (error) {
+                console.error("Admin load error:", error);
+                alert("Failed to load admin stats telemetry. Please try logging in again.");
+                handleLogout();
+            }
+        }
+
+        // Render Overview Telemetry
+        function renderStats() {
+            const stats = state.stats;
+            statUsers.textContent = stats.total_users.toLocaleString();
+            statConvs.textContent = stats.total_conversations.toLocaleString();
+            statMessages.textContent = stats.total_messages.toLocaleString();
+            statTokens.textContent = stats.total_tokens.toLocaleString();
+            statPromptT.textContent = stats.prompt_tokens.toLocaleString();
+            statCompT.textContent = stats.completion_tokens.toLocaleString();
+        }
+
+        // Render Users Table
+        function renderUsersTable(usersList) {
+            usersTableBody.innerHTML = '';
+            if (usersList.length === 0) {
+                usersTableBody.innerHTML = `
+                    <tr>
+                        <td colspan="6" class="no-data">No matching users found.</td>
+                    </tr>
+                `;
+                return;
+            }
+            
+            usersList.forEach(user => {
+                const tr = document.createElement('tr');
+                const badgeClass = user.is_admin ? 'admin' : 'user';
+                const badgeText = user.is_admin ? 'Admin' : 'User';
+                
+                tr.innerHTML = `
+                    <td style="color: var(--text-secondary); font-weight: 600;">${user.id}</td>
+                    <td style="font-weight: 500;">${escapeHtml(user.username)}</td>
+                    <td><span class="badge ${badgeClass}">${badgeText}</span></td>
+                    <td>${user.chat_count.toLocaleString()}</td>
+                    <td>${user.message_count.toLocaleString()}</td>
+                    <td style="font-weight: 600; color: var(--accent);">${user.token_count.toLocaleString()}</td>
+                `;
+                usersTableBody.appendChild(tr);
+            });
+        }
+
+        // HTML escaping to prevent XSS
+        function escapeHtml(str) {
+            const div = document.createElement('div');
+            div.textContent = str;
+            return div.innerHTML;
+        }
+
+        // Log out handler
+        function handleLogout() {
+            localStorage.removeItem('adminToken');
+            state.token = null;
+            inputUser.value = '';
+            inputPass.value = '';
+            showLoginView();
+        }
+
+        // Event Listeners
+        btnLogin.addEventListener('click', handleLogin);
+        inputPass.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') handleLogin();
+        });
+        btnLogout.addEventListener('click', handleLogout);
+        
+        userSearch.addEventListener('input', () => {
+            const query = userSearch.value.trim().toLowerCase();
+            const filtered = state.users.filter(u => u.username.toLowerCase().includes(query));
+            renderUsersTable(filtered);
+        });
+
+        // Run Check
+        checkAuthentication();
+    </script>
+</body>
+</html>

@@ -17,6 +17,8 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <!-- Chart.js for Insights Dashboard -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- SortableJS for Smooth Drag and Drop Chat Reordering -->
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
     <!-- Custom Style -->
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="stylesheet" href="style.css">
@@ -114,7 +116,7 @@
                     <div class="user-avatar" id="user-initials">U</div>
                     <div class="user-info">
                         <span id="user-display-name">Username</span>
-                        <span>Candidate</span>
+                        <span id="user-role-label">Candidate</span>
                     </div>
                     <button class="logout-btn" id="btn-logout" title="Log Out">
                         <i data-lucide="log-out"></i>
