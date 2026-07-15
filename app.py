@@ -978,17 +978,26 @@ USER QUESTION:
         
     except Exception as e:
         conn.rollback()
-        err_str = str(e)
-        print(f"Error calling Gemini: {err_str}")
-        if "429" in err_str or "quota" in err_str or "exhausted" in err_str or "limit" in err_str:
+        err_str = str(e).lower()
+        print(f"Error calling Gemini: {e}")
+        
+        is_rate_limit = any(x in err_str for x in ["429", "quota", "exhausted", "limit", "tpm", "rpm"])
+        is_overloaded = any(x in err_str for x in ["503", "overloaded", "unavailable", "service unavailable"])
+        
+        if is_rate_limit:
             raise HTTPException(
                 status_code=429,
                 detail="Too Many Requests: Gemini API rate limit or quota exceeded. Please wait a few moments or ask a shorter question. You can also view matching experiences in the CSEA portal."
             )
+        elif is_overloaded:
+            raise HTTPException(
+                status_code=503,
+                detail="AI Service Overloaded: The chatbot completion service is currently overloaded. Please retry in a few seconds."
+            )
         else:
             raise HTTPException(
                 status_code=503,
-                detail="AI Service Failure: The chatbot completion service is currently unavailable. Please try again shortly."
+                detail=f"AI Service Failure: The chatbot completion service is currently unavailable. (Error: {str(e)})"
             )
     finally:
         cursor.close()
