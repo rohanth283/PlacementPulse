@@ -229,6 +229,8 @@ try:
 except ImportError:
     genai = None
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 # Get API key from env loaded by dotenv
 gemini_key = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=gemini_key) if (genai and gemini_key) else None
@@ -237,7 +239,7 @@ client = genai.Client(api_key=gemini_key) if (genai and gemini_key) else None
 documents: List[Dict[str, Any]] = []
 def load_documents_index():
     global documents
-    index_file = "experience_index.json"
+    index_file = os.path.join(BASE_DIR, "experience_index.json")
     if os.path.exists(index_file):
         try:
             with open(index_file, "r", encoding="utf-8") as f:
@@ -368,27 +370,27 @@ class KeyUpdateRequest(BaseModel):
 # ----------------------------------------------------
 @app.get("/")
 def get_index():
-    return FileResponse("index.html")
+    return FileResponse(os.path.join(BASE_DIR, "index.html"))
 
 @app.get("/admin")
 def get_admin_page():
-    return FileResponse("admin.html")
+    return FileResponse(os.path.join(BASE_DIR, "admin.html"))
 
 @app.get("/style.css")
 def get_css():
-    return FileResponse("style.css")
+    return FileResponse(os.path.join(BASE_DIR, "style.css"))
 
 @app.get("/app.js")
 def get_js():
-    return FileResponse("app.js")
+    return FileResponse(os.path.join(BASE_DIR, "app.js"))
 
 @app.get("/favicon.svg")
 def get_favicon_svg():
-    return FileResponse("favicon.svg")
+    return FileResponse(os.path.join(BASE_DIR, "favicon.svg"))
 
 @app.get("/favicon.ico")
 def get_favicon_ico():
-    return FileResponse("favicon.svg")
+    return FileResponse(os.path.join(BASE_DIR, "favicon.svg"))
 
 # ----------------------------------------------------
 # Authentication Routes
