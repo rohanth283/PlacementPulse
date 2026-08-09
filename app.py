@@ -508,10 +508,15 @@ def update_user_key(payload: KeyUpdateRequest, user_id: int = Depends(get_curren
             
     conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute("UPDATE users SET gemini_api_key = %s WHERE id = %s", (key, user_id))
-    conn.commit()
-    cursor.close()
-    conn.close()
+    try:
+        cursor.execute("UPDATE users SET gemini_api_key = %s WHERE id = %s", (key, user_id))
+        conn.commit()
+    except Exception as e:
+        conn.rollback()
+        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
+    finally:
+        cursor.close()
+        conn.close()
     return JSONResponse(content={"success": True, "message": "API key updated successfully"})
 
 # Admin verification helper
