@@ -108,6 +108,10 @@
                     <i data-lucide="bar-chart-3"></i>
                     <span>Insights Dashboard</span>
                 </button>
+                <button class="nav-item" data-tab="settings">
+                    <i data-lucide="settings"></i>
+                    <span>Settings</span>
+                </button>
             </nav>
             
             <!-- Settings & Profile Footer -->
@@ -202,6 +206,19 @@
                                 <i data-lucide="send"></i>
                             </button>
                         </form>
+                    </div>
+
+                    <!-- Warning Area when API key is missing -->
+                    <div class="chat-key-warning hidden" id="chat-key-warning">
+                        <div class="warning-content">
+                            <i data-lucide="key-round" class="warning-icon"></i>
+                            <h4>Gemini API Key Required</h4>
+                            <p>To ask questions and search student interview experiences using AI, you need to configure your personal Gemini API Key first.</p>
+                            <button class="settings-redirect-btn" id="btn-chat-go-to-settings">
+                                <span>Go to Settings</span>
+                                <i data-lucide="arrow-right"></i>
+                            </button>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -351,6 +368,54 @@
                             <li><strong>Speak Your Mind:</strong> In coding rounds, interviewers value communication. Explain your approach while coding and start with a brute-force before optimizing.</li>
                             <li><strong>Core Foundations:</strong> DSA, DBMS (specifically joins, aggregation, normalisation), and Operating Systems (mutex, critical sections) are tested across almost all technical rounds.</li>
                         </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab Content: Settings -->
+            <section class="tab-panel" id="panel-settings">
+                <div class="settings-container">
+                    <div class="settings-card">
+                        <div class="settings-header">
+                            <i data-lucide="key-round"></i>
+                            <h3>Gemini API Configuration</h3>
+                        </div>
+                        <p class="settings-subtitle">Enter your personal Gemini API Key. Your key is securely saved in the database and only used to compute query embeddings and response contexts during your sessions.</p>
+                        
+                        <div class="settings-body">
+                            <form id="settings-key-form">
+                                <div class="form-group">
+                                    <label for="settings-api-key">Gemini API Key</label>
+                                    <div class="api-key-input-wrapper">
+                                        <input type="password" id="settings-api-key" placeholder="AIzaSy..." autocomplete="off">
+                                        <button type="button" id="btn-toggle-key-visibility" class="toggle-visibility-btn" title="Toggle visibility">
+                                            <i data-lucide="eye"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="settings-status-message" id="settings-key-status"></div>
+                                <div class="settings-actions">
+                                    <button type="submit" class="settings-submit-btn" id="btn-save-key">Save API Key</button>
+                                    <button type="button" class="settings-delete-btn" id="btn-delete-key">Remove Key</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    
+                    <div class="settings-card info-card">
+                        <div class="settings-header">
+                            <i data-lucide="info"></i>
+                            <h3>How to get a Gemini API Key?</h3>
+                        </div>
+                        <div class="settings-body">
+                            <ol class="setup-steps">
+                                <li>Go to the <a href="https://aistudio.google.com/" target="_blank" rel="noopener noreferrer">Google AI Studio <i data-lucide="external-link"></i></a>.</li>
+                                <li>Sign in with your Google account.</li>
+                                <li>Click on the <strong>"Get API key"</strong> button in the sidebar.</li>
+                                <li>Click <strong>"Create API key"</strong>, select a project, and copy the generated key.</li>
+                                <li>Paste the key in the input above and click <strong>"Save API Key"</strong>.</li>
+                            </ol>
+                        </div>
                     </div>
                 </div>
             </section>

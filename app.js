@@ -122,6 +122,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             showAppContent();
             activateTab('chat'); // Default landing
+            if (typeof lucide !== 'undefined') lucide.createIcons();
         } catch (error) {
             console.error("Auth check failed:", error);
             logoutUserLocal();
@@ -166,17 +167,173 @@ document.addEventListener('DOMContentLoaded', () => {
                         roleLabel.textContent = 'Candidate';
                     }
                 }
+                state.hasKey = data.has_key;
+                updateAPIStatusUI();
             }
         } catch (err) {
             console.error("Failed to check admin status:", err);
         }
     }
 
+    function updateAPIStatusUI() {
+        const statusDot = document.querySelector('.api-indicator .status-dot');
+        const statusText = document.querySelector('.api-indicator .status-text');
+        const chatInputContainer = document.querySelector('.chat-input-container');
+        const chatKeyWarning = document.getElementById('chat-key-warning');
+        const settingsApiKeyInput = document.getElementById('settings-api-key');
+        
+        if (state.hasKey) {
+            if (statusDot) {
+                statusDot.className = 'status-dot active';
+            }
+            if (statusText) {
+                statusText.textContent = "RAG Active";
+            }
+            if (chatInputContainer) {
+                chatInputContainer.classList.remove('hidden');
+            }
+            if (chatKeyWarning) {
+                chatKeyWarning.classList.add('hidden');
+            }
+            if (settingsApiKeyInput && !settingsApiKeyInput.value) {
+                settingsApiKeyInput.placeholder = "••••••••••••••••••••••••••••••••••••";
+            }
+        } else {
+            if (statusDot) {
+                statusDot.className = 'status-dot warning';
+            }
+            if (statusText) {
+                statusText.textContent = "API Key Missing";
+            }
+            if (chatInputContainer) {
+                chatInputContainer.classList.add('hidden');
+            }
+            if (chatKeyWarning) {
+                chatKeyWarning.classList.remove('hidden');
+            }
+            if (settingsApiKeyInput) {
+                settingsApiKeyInput.placeholder = "AIzaSy...";
+            }
+        }
+    }
+
+    // ----------------------------------------------------
+    // Settings Actions & Key Management
+    // ----------------------------------------------------
+    const settingsKeyForm = document.getElementById('settings-key-form');
+    const settingsApiKeyInput = document.getElementById('settings-api-key');
+    const settingsKeyStatus = document.getElementById('settings-key-status');
+    const btnToggleKeyVisibility = document.getElementById('btn-toggle-key-visibility');
+    const btnDeleteKey = document.getElementById('btn-delete-key');
+    const btnChatGoToSettings = document.getElementById('btn-chat-go-to-settings');
+
+    if (btnToggleKeyVisibility && settingsApiKeyInput) {
+        btnToggleKeyVisibility.addEventListener('click', () => {
+            const isPassword = settingsApiKeyInput.type === 'password';
+            settingsApiKeyInput.type = isPassword ? 'text' : 'password';
+            const icon = btnToggleKeyVisibility.querySelector('i');
+            if (icon) {
+                icon.setAttribute('data-lucide', isPassword ? 'eye-off' : 'eye');
+                if (typeof lucide !== 'undefined') lucide.createIcons();
+            }
+        });
+    }
+
+    if (btnChatGoToSettings) {
+        btnChatGoToSettings.addEventListener('click', () => {
+            activateTab('settings');
+        });
+    }
+
+    if (settingsKeyForm) {
+        settingsKeyForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const newKey = settingsApiKeyInput.value.trim();
+            if (!newKey) {
+                showSettingsStatus("Please enter a valid Gemini API Key", "error");
+                return;
+            }
+            
+            // If they didn't change the key (still masked placeholder)
+            if (newKey === "••••••••••••••••••••••••••••••••••••") {
+                showSettingsStatus("API key remains unchanged.", "success");
+                return;
+            }
+            
+            try {
+                const res = await fetch('/api/user/key', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${state.token}`
+                    },
+                    body: JSON.stringify({ gemini_api_key: newKey })
+                });
+                
+                const data = await res.json();
+                if (res.ok && data.success) {
+                    state.hasKey = true;
+                    settingsApiKeyInput.value = "";
+                    showSettingsStatus("Gemini API key updated successfully!", "success");
+                    updateAPIStatusUI();
+                } else {
+                    showSettingsStatus(data.detail || "Failed to update Gemini API key", "error");
+                }
+            } catch (err) {
+                console.error("Error saving API key:", err);
+                showSettingsStatus("Network error. Please try again.", "error");
+            }
+        });
+    }
+
+    if (btnDeleteKey) {
+        btnDeleteKey.addEventListener('click', async () => {
+            try {
+                const res = await fetch('/api/user/key', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${state.token}`
+                    },
+                    body: JSON.stringify({ gemini_api_key: "" })
+                });
+                
+                const data = await res.json();
+                if (res.ok && data.success) {
+                    state.hasKey = false;
+                    settingsApiKeyInput.value = "";
+                    showSettingsStatus("Gemini API key removed successfully.", "success");
+                    updateAPIStatusUI();
+                } else {
+                    showSettingsStatus(data.detail || "Failed to remove API key", "error");
+                }
+            } catch (err) {
+                console.error("Error removing API key:", err);
+                showSettingsStatus("Network error. Please try again.", "error");
+            }
+        });
+    }
+
+    function showSettingsStatus(msg, type) {
+        if (!settingsKeyStatus) return;
+        settingsKeyStatus.textContent = msg;
+        settingsKeyStatus.className = `settings-status-message ${type}`;
+        
+        setTimeout(() => {
+            if (settingsKeyStatus.textContent === msg) {
+                settingsKeyStatus.className = "settings-status-message";
+            }
+        }, 4000);
+    }
+
     function logoutUserLocal() {
         state.token = null;
         state.username = null;
+        state.hasKey = false;
         localStorage.removeItem('token');
         localStorage.removeItem('username');
+        const settingsApiKeyInput = document.getElementById('settings-api-key');
+        if (settingsApiKeyInput) settingsApiKeyInput.value = "";
         if (appContainer) appContainer.classList.add('hidden');
         showAuthOverlay();
     }
@@ -271,7 +428,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const tabMetadata = {
         chat: { title: "PlacementPulse", desc: "" },
         explorer: { title: "Experiences Explorer", desc: "Search and filter placement experiences from 250+ candidates." },
-        insights: { title: "PlacementPulse", desc: "Insights, Trends, and Placement Analytics." }
+        insights: { title: "PlacementPulse", desc: "Insights, Trends, and Placement Analytics." },
+        settings: { title: "Settings", desc: "Configure your API credentials and preferences." }
     };
 
     function activateTab(tabName) {

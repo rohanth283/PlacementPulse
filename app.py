@@ -37,6 +37,12 @@ def get_db_connection():
         raise RuntimeError("DATABASE_URL environment variable is not set. Please specify it in .env.")
     return psycopg2.connect(DATABASE_URL)
 
+# Password hashing helper
+def hash_password(password: str) -> str:
+    salt = b"placement_pulse_salt_1234"
+    hash_bytes = hashlib.pbkdf2_hmac("sha256", password.encode(), salt, 100000)
+    return hash_bytes.hex()
+
 def init_db():
     if not DATABASE_URL:
         print("[WARNING] DATABASE_URL is not set. Database initialization skipped.")
@@ -55,6 +61,7 @@ def init_db():
             )
         """)
         cursor.execute("ALTER TABLE users ADD COLUMN IF NOT EXISTS is_admin BOOLEAN DEFAULT FALSE;")
+        cursor.execute("ALTER TABLE users ADD COLUMN IF NOT EXISTS gemini_api_key VARCHAR(255);")
         
         # Sessions table
         cursor.execute("""
@@ -133,12 +140,6 @@ def init_db():
 
 # Run database setup
 init_db()
-
-# Password hashing helper
-def hash_password(password: str) -> str:
-    salt = b"placement_pulse_salt_1234"
-    hash_bytes = hashlib.pbkdf2_hmac("sha256", password.encode(), salt, 100000)
-    return hash_bytes.hex()
 
 # Authentication dependency
 def get_current_user_id(authorization: Optional[str] = Header(None)) -> int:
@@ -265,7 +266,7 @@ def cosine_similarity(v1: List[float], v2: List[float]) -> float:
         return 0.0
     return dot_product(v1, v2) / (m1 * m2)
 
-def perform_hybrid_search(query: str, company_filter: Optional[str] = None, top_k: int = 5) -> List[Dict[str, Any]]:
+def perform_hybrid_search(query: str, company_filter: Optional[str] = None, top_k: int = 5, client: Optional[Any] = None) -> List[Dict[str, Any]]:
     global documents
     if not documents:
         load_documents_index()
@@ -281,9 +282,10 @@ def perform_hybrid_search(query: str, company_filter: Optional[str] = None, top_
         return []
         
     query_embedding = None
-    if client:
+    active_client = client if client is not None else globals().get("client")
+    if active_client:
         try:
-            res = client.models.embed_content(
+            res = active_client.models.embed_content(
                 model="gemini-embedding-001",
                 contents=query
             )
@@ -357,6 +359,9 @@ class UpdateTitleRequest(BaseModel):
 
 class ReorderRequest(BaseModel):
     order: List[str]
+
+class KeyUpdateRequest(BaseModel):
+    gemini_api_key: Optional[str] = None
 
 # ----------------------------------------------------
 # Static Assets serving
@@ -483,7 +488,7 @@ def logout(authorization: Optional[str] = Header(None)):
 def get_me(user_id: int = Depends(get_current_user_id)):
     conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute("SELECT username, is_admin FROM users WHERE id = %s", (user_id,))
+    cursor.execute("SELECT username, is_admin, gemini_api_key FROM users WHERE id = %s", (user_id,))
     row = cursor.fetchone()
     cursor.close()
     conn.close()
@@ -491,7 +496,23 @@ def get_me(user_id: int = Depends(get_current_user_id)):
     if not row:
         raise HTTPException(status_code=404, detail="User not found")
         
-    return JSONResponse(content={"username": row[0], "is_admin": row[1]})
+    return JSONResponse(content={"username": row[0], "is_admin": row[1], "has_key": bool(row[2])})
+
+@app.post("/api/user/key")
+def update_user_key(payload: KeyUpdateRequest, user_id: int = Depends(get_current_user_id)):
+    key = payload.gemini_api_key
+    if key is not None:
+        key = key.strip()
+        if not key:
+            key = None
+            
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("UPDATE users SET gemini_api_key = %s WHERE id = %s", (key, user_id))
+    conn.commit()
+    cursor.close()
+    conn.close()
+    return JSONResponse(content={"success": True, "message": "API key updated successfully"})
 
 # Admin verification helper
 def verify_admin(user_id: int):
@@ -800,9 +821,6 @@ def get_experience_by_id(doc_id: int, user_id: int = Depends(get_current_user_id
 # ----------------------------------------------------
 @app.post("/api/chat")
 async def chat_endpoint(payload: ChatRequest, user_id: int = Depends(get_current_user_id)):
-    if not client:
-        raise HTTPException(status_code=500, detail="Gemini client not initialized. Check GEMINI_API_KEY.")
-        
     # Enforce rate limit
     check_rate_limit(user_id, "/api/chat")
     
@@ -817,6 +835,33 @@ async def chat_endpoint(payload: ChatRequest, user_id: int = Depends(get_current
     conv_id = payload.conversation_id
     conn = get_db_connection()
     cursor = conn.cursor()
+    
+    # Fetch user's Gemini API key from database
+    cursor.execute("SELECT gemini_api_key FROM users WHERE id = %s", (user_id,))
+    row = cursor.fetchone()
+    if not row or not row[0]:
+        cursor.close()
+        conn.close()
+        raise HTTPException(
+            status_code=400,
+            detail="Gemini API Key is not set. Please set your API Key in the Settings tab to use the Chatbot."
+        )
+    user_key = row[0]
+    
+    if not genai:
+        cursor.close()
+        conn.close()
+        raise HTTPException(status_code=500, detail="Gemini SDK is not installed on the server.")
+        
+    try:
+        user_client = genai.Client(api_key=user_key)
+    except Exception as e:
+        cursor.close()
+        conn.close()
+        raise HTTPException(
+            status_code=400,
+            detail=f"Invalid Gemini API key or failed to initialize client. Please verify your key. (Error: {str(e)})"
+        )
     
     cursor.execute("SELECT title, company_filter FROM conversations WHERE id = %s AND user_id = %s", (conv_id, user_id))
     conv_row = cursor.fetchone()
@@ -859,7 +904,7 @@ async def chat_endpoint(payload: ChatRequest, user_id: int = Depends(get_current
 Return ONLY the title. Do not include quote marks, punctuation, prefixes, or comments.
 """
         try:
-            name_res = client.models.generate_content(
+            name_res = user_client.models.generate_content(
                 model="gemini-2.5-flash",
                 contents=naming_prompt
             )
@@ -874,7 +919,7 @@ Return ONLY the title. Do not include quote marks, punctuation, prefixes, or com
     cursor.execute("SELECT role, text FROM messages WHERE conversation_id = %s ORDER BY id ASC", (conv_id,))
     history_rows = cursor.fetchall()
     
-    retrieved_docs = perform_hybrid_search(payload.message, company_filter, top_k=6)
+    retrieved_docs = perform_hybrid_search(payload.message, company_filter, top_k=6, client=user_client)
     
     if not retrieved_docs:
         context_str = "No specific placement experiences match this query in the database."
@@ -932,7 +977,7 @@ USER QUESTION:
     
     try:
         # Call Gemini 2.5 Flash
-        response = client.models.generate_content(
+        response = user_client.models.generate_content(
             model="gemini-2.5-flash",
             contents=contents,
             config=config
