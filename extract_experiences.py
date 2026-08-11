@@ -257,7 +257,7 @@ def main():
     parser.add_argument("-o", "--output-json", default="extracted_experiences.json", help="JSON output file (default: 'extracted_experiences.json')")
     parser.add_argument("-t", "--output-text", default="interview_analysis_and_study_plan.txt", help="Final output text/study plan file (default: 'interview_analysis_and_study_plan.txt')")
     parser.add_argument("-k", "--api-key", help="Gemini API Key (can also be set in GEMINI_API_KEY environment variable or a .env file)")
-    parser.add_argument("-m", "--model", default="gemini-2.5-flash", help="Gemini model to use (default: 'gemini-2.5-flash')")
+    parser.add_argument("-m", "--model", default="gemini-3.5-flash", help="Gemini model to use (default: 'gemini-3.5-flash')")
     parser.add_argument("-l", "--limit", type=int, help="Limit number of files to process (useful for testing)")
     
     args = parser.parse_args()

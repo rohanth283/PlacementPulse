@@ -912,7 +912,7 @@ Return ONLY the title. Do not include quote marks, punctuation, prefixes, or com
 """
         try:
             name_res = user_client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-3.5-flash",
                 contents=naming_prompt
             )
             if name_res and name_res.text:
@@ -983,9 +983,9 @@ USER QUESTION:
     )
     
     try:
-        # Call Gemini 2.5 Flash
+        # Call Gemini 3.5 Flash
         response = user_client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-3.5-flash",
             contents=contents,
             config=config
         )
@@ -1020,7 +1020,7 @@ USER QUESTION:
                 cursor.execute("""
                     INSERT INTO token_usage (user_id, prompt_tokens, completion_tokens, total_tokens, model)
                     VALUES (%s, %s, %s, %s, %s)
-                """, (user_id, p_tokens, c_tokens, t_tokens, "gemini-2.5-flash"))
+                """, (user_id, p_tokens, c_tokens, t_tokens, "gemini-3.5-flash"))
                 conn.commit()
             except Exception as usage_err:
                 print(f"[WARNING] Failed to log token usage: {usage_err}")
