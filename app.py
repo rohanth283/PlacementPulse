@@ -1042,8 +1042,14 @@ USER QUESTION:
         
         is_rate_limit = any(x in err_str for x in ["429", "quota", "exhausted", "limit", "tpm", "rpm"])
         is_overloaded = any(x in err_str for x in ["503", "overloaded", "unavailable", "service unavailable"])
+        is_invalid_key = any(x in err_str for x in ["api key not valid", "api_key_invalid", "api key is invalid", "invalid api key", "key not valid", "invalid_argument"])
         
-        if is_rate_limit:
+        if is_invalid_key:
+            raise HTTPException(
+                status_code=400,
+                detail="Invalid API Key: The Gemini API Key you configured is invalid. Please verify and update your key in the Settings tab."
+            )
+        elif is_rate_limit:
             raise HTTPException(
                 status_code=429,
                 detail="Too Many Requests: Gemini API rate limit or quota exceeded. Please wait a few moments or ask a shorter question. You can also view matching experiences in the CSEA portal."
