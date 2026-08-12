@@ -2,36 +2,37 @@
    APPLE DESIGN SYSTEM VARIABLES & BASE STYLES
    ---------------------------------------------------- */
 :root {
-    /* Color Palette */
-    --bg-primary: #000000;       /* Pure Apple Black */
-    --bg-secondary: #161617;     /* Apple Dark Charcoal */
-    --bg-tertiary: #1c1c1e;      /* Apple Dark Sheet Gray */
-    --bg-card: #2c2c2e;          /* Apple Container Gray */
-    --bg-input: #1c1c1e;
+    /* Color Palette (Claude Warm Charcoal/Slate Ink Theme) */
+    --bg-primary: #0a0a09;       /* Claude Ink-black base */
+    --bg-secondary: #141413;     /* Claude Slate Charcoal */
+    --bg-tertiary: #191917;      /* Warm sheet gray */
+    --bg-card: #222220;          /* Warm card gray */
+    --bg-input: #191917;
     
-    --border-color: rgba(255, 255, 255, 0.08);
-    --border-hover: rgba(255, 255, 255, 0.16);
+    --border-color: rgba(240, 238, 233, 0.07);
+    --border-hover: rgba(240, 238, 233, 0.14);
     
-    --accent: #0a84ff;           /* Apple iOS System Blue */
-    --accent-rgb: 10, 132, 255;
-    --accent-glow: rgba(10, 132, 255, 0.25);
+    --accent: #d27d59;           /* Muted Claude Terracotta */
+    --accent-rgb: 210, 125, 89;
+    --accent-glow: rgba(210, 125, 89, 0.12);
     
-    --danger: #ff453a;           /* Apple iOS System Red */
-    --success: #30d158;          /* Apple iOS System Green */
-    --warning: #ffd60a;          /* Apple iOS System Yellow */
+    --danger: #e05c4a;           /* Muted warm red */
+    --success: #6ba87d;          /* Muted sage green */
+    --warning: #e3ae73;          /* Muted sand yellow */
     
-    --text-primary: #f5f5f7;     /* Metallic Silver White */
-    --text-secondary: #86868b;   /* Apple Cool Gray */
-    --text-muted: #6e6e73;       /* Apple Muted Gray */
+    --text-primary: #ece8e1;     /* Soft warm white / linen */
+    --text-secondary: #a39f98;   /* Warm gray */
+    --text-muted: #706d68;       /* Muted warm gray */
     
     /* Layout & Transitions */
-    --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --apple-spring: cubic-bezier(0.16, 1, 0.3, 1); /* Apple Spring Curve */
+    --font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-serif: "Lora", Charter, Georgia, serif;
+    --apple-spring: cubic-bezier(0.16, 1, 0.3, 1);
     --transition: all 0.3s var(--apple-spring);
     
-    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
-    --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.4);
-    --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.6);
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
+    --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.35);
+    --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.55);
 }
 
 * {
@@ -51,6 +52,19 @@ body {
     font-size: 15px;
     line-height: 1.45;
     letter-spacing: -0.01em;
+}
+
+h1, h2, h3, .logo-text h1, .welcome-heading, .drawer-header h3 {
+    font-family: var(--font-serif);
+}
+
+input::placeholder,
+select::placeholder,
+textarea::placeholder {
+    color: var(--text-muted);
+    font-family: var(--font-family);
+    font-size: 0.85rem;
+    opacity: 0.85;
 }
 
 .hidden {
@@ -275,10 +289,10 @@ body {
 }
 
 .auth-submit-btn {
-    background-color: #fff;
+    background-color: var(--accent);
     border: none;
     border-radius: 10px;
-    color: var(--bg-primary);
+    color: #fff;
     padding: 0.8rem;
     font-family: var(--font-family);
     font-size: 0.9rem;
@@ -288,7 +302,8 @@ body {
 }
 
 .auth-submit-btn:hover {
-    background-color: #e5e5ea;
+    background-color: rgba(var(--accent-rgb), 0.85);
+    transform: translateY(-1px);
 }
 
 /* ----------------------------------------------------
@@ -603,7 +618,7 @@ body {
 }
 
 .nav-item.active {
-    background-color: rgba(10, 132, 255, 0.12);
+    background-color: rgba(var(--accent-rgb), 0.12);
     color: var(--accent);
 }
 
@@ -1041,7 +1056,11 @@ body {
     color: var(--accent);
     cursor: pointer;
     width: fit-content;
+    max-width: 100%;
     transition: var(--transition);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .citation-card:hover {
@@ -1310,8 +1329,8 @@ body {
     display: flex;
     align-items: center;
     gap: 0.45rem;
-    background-color: rgba(10, 132, 255, 0.12);
-    border: 1px solid rgba(10, 132, 255, 0.2);
+    background-color: rgba(var(--accent-rgb), 0.08);
+    border: 1px solid rgba(var(--accent-rgb), 0.15);
     color: var(--accent);
     padding: 0.55rem 0.9rem;
     border-radius: 10px;
@@ -1323,7 +1342,7 @@ body {
 }
 
 .csea-redirect-btn:hover {
-    background-color: rgba(10, 132, 255, 0.2);
+    background-color: rgba(var(--accent-rgb), 0.14);
     transform: translateY(-1px);
 }
 
@@ -1379,7 +1398,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 160px;
+    min-height: 165px;
+    height: auto;
 }
 
 .exp-card:hover {
@@ -1401,6 +1421,10 @@ body {
     color: var(--text-secondary);
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 140px;
 }
 
 .exp-difficulty {
@@ -1455,6 +1479,10 @@ body {
     color: #fff;
     margin-bottom: auto;
     letter-spacing: -0.01em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
 }
 
 .exp-details {
@@ -1472,6 +1500,14 @@ body {
     gap: 0.35rem;
     font-size: 0.75rem;
     color: var(--text-secondary);
+    min-width: 0;
+}
+
+.exp-detail-item span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 110px;
 }
 
 .exp-detail-item i {
@@ -1840,8 +1876,9 @@ body {
 
 /* Markdown formatting inside system bubble and drawer panel */
 .markdown-body {
-    font-size: 0.88rem;
-    line-height: 1.55;
+    font-family: var(--font-serif);
+    font-size: 0.94rem;
+    line-height: 1.6;
     color: var(--text-primary);
 }
 
