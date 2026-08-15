@@ -1,9 +1,9 @@
 APPIAN INTERVIEW EXPERIENCE 
-Appian is a soŌware company that automates business processes. The Appian AI-Powered Process 
-Plaƞorm includes everything you need to design, automate, and opƟmize even the most complex 
-processes, from start to ﬁnish. The world's most innovaƟve organizaƟons trust Appian to improve 
-their workﬂows, unify data, and opƟmize operaƟons, resulƟng in beƩer growth and superior 
-customer experiences. For more informaƟon, visit appian.com.  
+Appian is a software company that automates business processes. The Appian AI-Powered Process 
+Platform includes everything you need to design, automate, and optimize even the most complex 
+processes, from start to finish. The world's most innovative organizations trust Appian to improve 
+their workflows, unify data, and optimize operations, resulting in better growth and superior 
+customer experiences. For more information, visit appian.com.  
 Roles Offered: Software Engineer, Quality Engineer, UI/UX Designer, Product Manager 
 Stipend: ₹1,50,000 INR (all roles) 
 Selection Process:  
@@ -12,56 +12,56 @@ HR Interview
 Roles Applied For: Quality Engineer, Software Engineer, and UI/UX Designer 
 Final Offer: Selected for the Quality Engineer role 
 Online Assessment (for the role of QE): 
-Test plaƞorm: Glider AI 
+Test platform: Glider AI 
 It consisted of 25 MCQs focused on: 
-• ApƟtude and logical reasoning 
+• Aptitude and logical reasoning 
 • Programming fundamentals  
-The test lasted for 45 mins and I had the opƟon to answer the quesƟons in any order.  
-Most of them involved quick thinking and focused on paying aƩenƟon to detail. 
-These are some of the quesƟon categories: 
-ApƟtude – puzzles, ﬁnding duraƟon / Ɵme, relaƟon between family members 
+The test lasted for 45 mins and I had the option to answer the questions in any order.  
+Most of them involved quick thinking and focused on paying attention to detail. 
+These are some of the question categories: 
+Aptitude – puzzles, finding duration / time, relation between family members 
 Finding output/error in the given code snippet 
-Expression evaluaƟon and operators  
+Expression evaluation and operators  
 Reference variables and pointers 
 Based on this online assessment, 17 people were shortlisted for the next round. 
  
 Technical Interview – 1: (30-45 mins) 
-The interviews were conducted at CUIC. The interviewer started oﬀ by going through my resume and 
-appreciated me about the various acƟviƟes that I’d done in two years (I was a part of clubs, 
-completed some cerƟﬁcaƟons (NPTEL, Hackerrank) and a JAVA training program. I had also done a 
+The interviews were conducted at CUIC. The interviewer started off by going through my resume and 
+appreciated me about the various activities that I’d done in two years (I was a part of clubs, 
+completed some certifications (NPTEL, Hackerrank) and a JAVA training program. I had also done a 
 summer internship at DCSE, CEG).  I was asked to talk about any of these.  
 I spoke about my DCSE internship, where I was the team lead of a module. Then I was asked about 
 my performance as the lead and how I helped my team develop our module. She also asked me 
 about the things I did as the lead that I wouldn’t have typically done as a team member. 
  
 Then I was asked to talk about my most favourite project from the resume. I spoke about my Full 
-stack project (neighbourhood service ﬁnder). I was asked about how it stood out from similar 
-plaƞorms like urban and also the struggles I faced while developing it. 
+stack project (neighbourhood service finder). I was asked about how it stood out from similar 
+platforms like urban and also the struggles I faced while developing it. 
  
 Then I was asked to solve two puzzles. 
 1. Why are manholes circular in shape and not a square or a rectangle? 
  
 I answered this by saying how a circle has no corners and hence it could be the shape that 
-could get the least damaged. I also explained that it could ensure faster ﬂow of water, than a 
+could get the least damaged. I also explained that it could ensure faster flow of water, than a 
 shape with an edge or a corner. 
  
 2. Cut a circular cake into 8 pieces (not necessarily equal) using only 3 straight lines.  
  
-(She oﬀered me a paper and pen to work out, in case of need) 
+(She offered me a paper and pen to work out, in case of need) 
  
-I tried diﬀerent ways but I was not able to answer this. So, I told her and then she moved on 
-to the next quesƟon. 
+I tried different ways but I was not able to answer this. So, I told her and then she moved on 
+to the next question. 
  
-Coding quesƟons: 
-       I was asked two coding quesƟons (easy-level). 
+Coding questions: 
+       I was asked two coding questions (easy-level). 
 1. Finding odd numbers from a stream of numbers. 
  
 I was asked to write the code for it. I explained the code as I wrote. I used modulo operator 
-to idenƟfy the odd numbers and stored them in an Array list instead of an array, which has 
-ﬁxed memory (as we do not know the total number of elements).  
+to identify the odd numbers and stored them in an Array list instead of an array, which has 
+fixed memory (as we do not know the total number of elements).  
  
 CODE: 
-List<Integer> ﬁndOddNumbers(List<Integer> stream) { 
+List<Integer> findOddNumbers(List<Integer> stream) { 
         List<Integer> oddNumbers = new ArrayList<>(); 
         for (int num : stream) { 
             if (num % 2 != 0) { 
@@ -110,7 +110,7 @@ return result;
 } 
 Using hashset: 
  
-List<int[]> ﬁndPairsOpƟmized(int[] arr1, int[] arr2, int target) { 
+List<int[]> findPairsOptimized(int[] arr1, int[] arr2, int target) { 
     List<int[]> result = new ArrayList<>(); 
     Set<Integer> set = new HashSet<>(); 
      
@@ -128,52 +128,52 @@ List<int[]> ﬁndPairsOpƟmized(int[] arr1, int[] arr2, int target) {
     return result; 
 } 
  
-Role based quesƟons: 
-1. I was asked to write test cases for a date of birth ﬁeld, which had to validate the age of the 
-user to be between 18 and 65. I answered this conﬁdently as I had prepared for similar type 
-of quesƟons. I covered all possible cases. 
-2. Next quesƟon was ‘If a server failed only on Fridays and worked well on all other days, what 
+Role based questions: 
+1. I was asked to write test cases for a date of birth field, which had to validate the age of the 
+user to be between 18 and 65. I answered this confidently as I had prepared for similar type 
+of questions. I covered all possible cases. 
+2. Next question was ‘If a server failed only on Fridays and worked well on all other days, what 
 could be the possible reason?’. I explained about the possibility of an error in some logic 
-involving the ‘day’ ﬁeld and hence it only failed on that parƟcular day. 
+involving the ‘day’ field and hence it only failed on that particular day. 
  
-Finally, I was asked if I had any quesƟons for them. 
-I asked them about one of the projects menƟoned in the PPT, involving document handling. I asked 
+Finally, I was asked if I had any questions for them. 
+I asked them about one of the projects mentioned in the PPT, involving document handling. I asked 
 about this, as I had a project idea similar to it. She pulled up info related to it on her laptop and gave 
-me a glimpse on the project. It sounded interesƟng. 
-This round focused on apƟtude, coding and role-based quesƟons. 
+me a glimpse on the project. It sounded interesting. 
+This round focused on aptitude, coding and role-based questions. 
  
 Technical Interview – 2: (10-20 mins) 
 The interview was conducted on Google Meet, and the interviewer joined virtually. 
-He asked me to introduce myself ﬁrst. 
-Then I was asked about why I had chosen the role of QE, instead of SE. This quesƟon seemed to be 
+He asked me to introduce myself first. 
+Then I was asked about why I had chosen the role of QE, instead of SE. This question seemed to be 
 important, as it was also asked in the HR round.  
-He asked the diﬀerence between a tester and a quality engineer. I told them that a tester just reports 
-errors, but a QE is also focused on improving the quality of the soŌware right from the iniƟal stages 
+He asked the difference between a tester and a quality engineer. I told them that a tester just reports 
+errors, but a QE is also focused on improving the quality of the software right from the initial stages 
 of development. 
-Then, I was asked about the types of tesƟng (funcƟonal and non-funcƟonal). I also menƟoned black 
-box tesƟng, white box tesƟng and grey box tesƟng. I was asked to explain each of the 3. 
-He then asked me why I chose Appian. I explained how I liked the idea of automaƟng work without 
-heavy coding and how the idea of minimal code moƟvated me to apply (Research about the 
+Then, I was asked about the types of testing (functional and non-functional). I also mentioned black 
+box testing, white box testing and grey box testing. I was asked to explain each of the 3. 
+He then asked me why I chose Appian. I explained how I liked the idea of automating work without 
+heavy coding and how the idea of minimal code motivated me to apply (Research about the 
 company before the interview). 
-Next quesƟon was a bit tricky, he asked me if I would choose SE if I had the opƟon. I said no, because 
-it’s usually advised to sƟck to the role you have been shortlisted for (as you might get rejected 
+Next question was a bit tricky, he asked me if I would choose SE if I had the option. I said no, because 
+it’s usually advised to stick to the role you have been shortlisted for (as you might get rejected 
 directly and also if you aren’t shortlisted for any other roles, you may lose your opportunity.) 
-Finally, he asked me if I had any quesƟons for him. 
-Since my role would involve a lot of tesƟng and it was menƟoned in the PPT that they use python 
-tech stack for tesƟng, I asked about the tools or concepts in python I would have to focus on 
+Finally, he asked me if I had any questions for him. 
+Since my role would involve a lot of testing and it was mentioned in the PPT that they use python 
+tech stack for testing, I asked about the tools or concepts in python I would have to focus on 
 learning, as I had only basic knowledge in python. He said that we would be given full training in the 
 beginning of the internship and hence I wouldn’t have to worry about it. 
 This round focused on both technical and behavioural aspects. 
  
 HR round (5 – 10 mins): 
-I was ﬁrst asked to introduce myself quickly. Then some background quesƟons and about my family. 
-I was also asked about my hobbies, which were menƟoned in my resume. He asked why I chose this 
+I was first asked to introduce myself quickly. Then some background questions and about my family. 
+I was also asked about my hobbies, which were mentioned in my resume. He asked why I chose this 
 role and again, why I preferred this to SE.  
 He asked if I was in the top 10 or top 20 of my batch, based on my CGPA and then he asked if I had 
-any quesƟons for him. 
+any questions for him. 
  
 The result were announced around 9pm the same day, and I was one of the 3 candidates who got 
-the oﬀer for QE. 
+the offer for QE. 
  
  
  
@@ -182,17 +182,17 @@ General Tips:
  
 Stay calm through out the process. Don’t let your anxiety take over you. 
 Have a neutral mindset, don’t let anything get to your head. 
-Peer pressure and insecuriƟes are challenges that you can get through only by believing in yourself. 
-Answer all quesƟons honestly and conﬁdently. 
+Peer pressure and insecurities are challenges that you can get through only by believing in yourself. 
+Answer all questions honestly and confidently. 
 If you are unsure of something, admit it. They are looking for candidates, who are willing to learn. 
-PracƟce DSA fundamentals (arrays, strings, stacks, linked lists, queue, tree), OOPs and DBMS 
+Practice DSA fundamentals (arrays, strings, stacks, linked lists, queue, tree), OOPs and DBMS 
 concepts for coding assessments.  
 Understand these concepts and try to apply them in real world scenarios. 
-PracƟcing puzzles and general apƟtude quesƟons will build your criƟcal thinking skills. 
-Be thorough in all the projects you menƟon in your resume. 
-If you need a second to think, you can very well say that you need some Ɵme to think and then 
+Practicing puzzles and general aptitude questions will build your critical thinking skills. 
+Be thorough in all the projects you mention in your resume. 
+If you need a second to think, you can very well say that you need some time to think and then 
 answer.  
-The way you think and approach maƩers more than the soluƟon you compute. 
+The way you think and approach matters more than the solution you compute. 
 Be clam and talk slowly during the interview. 
 Wear professional aƫre and look neat. 
  
@@ -205,5 +205,5 @@ Wishing you all the very best :)
 Never stop believing in yourself. It’ll be worth it (●'◡'●) 
  
 E-Mail: rooparr7776@gmail.com 
-LinkedIn: hƩps://www.linkedin.com/in/roopa-varshni-23bb6b291/ 
+LinkedIn: https://www.linkedin.com/in/roopa-varshni-23bb6b291/ 
 Mobile: +91 9092615584 

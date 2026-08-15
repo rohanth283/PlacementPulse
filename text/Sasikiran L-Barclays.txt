@@ -3,12 +3,12 @@ Intern Interview Experience – Barclays
 About the Company: 
 Barclays is a British multinational bank founded in 1690 and headquartered in London, 
 with operations in nearly 40 countries and serving around 48 million customers. Known 
-for historic ﬁrsts—like funding the world’s ﬁrst industrial steam railway and launching 
-the world’s ﬁrst ATM in 1967—it today oƯers services spanning retail and corporate 
+for historic firsts—like funding the world’s first industrial steam railway and launching 
+the world’s first ATM in 1967—it today oƯers services spanning retail and corporate 
 banking, investment banking, and wealth management. With assets exceeding £1.5 
 trillion, Barclays is doubling down on innovation: backing AI startups, driving open 
-banking, and committing over $1 trillion to sustainable ﬁnance by 2030. It continues to 
-cement its role as a key player in shaping the future of global ﬁnance. 
+banking, and committing over $1 trillion to sustainable finance by 2030. It continues to 
+cement its role as a key player in shaping the future of global finance. 
  
 There were two stages to the selection process: 
  Online Assessment 
@@ -34,11 +34,11 @@ Interview process was split into 2 rounds.
  
 Round 1: Technical Interview @ CUIC 
  This round started oƯ with a self-introduction in which I explained my projects 
-brieﬂy and my interests in AI/ML. 
+briefly and my interests in AI/ML. 
  Then she asked about a project that I had mentioned in my resume and asked 
 me to write its schema on paper. She asked several follow up questions 
 regarding the schema which I was able to answer. 
- She asked me to write a SQL query to ﬁnd the second largest table in employee 
+ She asked me to write a SQL query to find the second largest table in employee 
 table which I did using nested query. 
  She asked how to implement concurrency in MySQL and MongoDB. 
  She asked me to design a URL Shortener, a system design question I wasn’t 
@@ -49,7 +49,7 @@ Dijkstra’s Algorithm and she asked me to write the pseudo code.
  She asked me how multilevel or multiple inheritance is implemented in Java and 
 I explained Java interfaces and their implementations. 
  She then asked me if I had questions and I asked how GenAI being used in 
-modern ﬁntech especially in their company. 
+modern fintech especially in their company. 
 25 students were shortlisted for HR round. 
  
 Round 2: HR Round @ CUIC 
@@ -57,26 +57,26 @@ Round 2: HR Round @ CUIC
 technical round and the interviewer was friendly so I was able to answer 
 comfortably. 
  It started oƯ with a self-introduction in which I gave an introduction similar to 
-what I did in the ﬁrst round. 
+what I did in the first round. 
  Then she moved on and asked me about one of my projects and how you would 
 handle tight deadlines in it. I answered honestly, sharing my experience working 
 under tight deadlines for an NGO project where we had to deliver a prototype 
 within a week. 
  She asked how will I react if your plan for a project did not go according to plan 
-and something broke before ﬁnal submission. I answered I would try my best to 
-ﬁx it but if I couldn’t I would admit something broke in the ﬁnal moment and ask 
+and something broke before final submission. I answered I would try my best to 
+fix it but if I couldn’t I would admit something broke in the final moment and ask 
 for a small extension 
  She asked, if while working as an intern in a team, after all project details were 
-ﬁnalized, I came up with a better implementation for a module, would I approach 
+finalized, I came up with a better implementation for a module, would I approach 
 my project manager. I answered yes, I would but would not be discouraged if it 
 was rejected because there would be a reason for it and I would learn from it. 
  She asked asked what would you do if you found out your teammate had 
-plagiarized his part of a project after ﬁnal submission. 
+plagiarized his part of a project after final submission. 
  She asked where I would see myself in 5 years and after I answered she asked 
 me what about in 10 years and I answered that too. 
  She asked me if there are any questions and I asked what challenges would 
 interns face during the internship. 
-Out of 25 students, 15 students were ﬁnalized for Barclays 2026 Summer Internship 
+Out of 25 students, 15 students were finalized for Barclays 2026 Summer Internship 
 Program. 
  
 Contact Info: Feel free to reach out to me for anything. 

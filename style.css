@@ -1157,6 +1157,8 @@ textarea::placeholder {
     -moz-appearance: none;
 }
 
+select option,
+.select-wrapper select option,
 .mini-select option {
     background-color: var(--bg-secondary);
     color: var(--text-primary);

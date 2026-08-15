@@ -3,6 +3,8 @@ import re
 import json
 import secrets
 import hashlib
+import time
+import random
 import psycopg2
 from datetime import datetime, timedelta
 from typing import List, Dict, Any, Optional
@@ -237,6 +239,153 @@ client = genai.Client(api_key=gemini_key) if (genai and gemini_key) else None
 
 # Load documents index
 documents: List[Dict[str, Any]] = []
+LIGATURE_MAP = {
+    "Ɵ": "ti",
+    "Ʃ": "tt",
+    "Ō": "ft",
+    "ƞ": "tf",
+    "ﬁ": "fi",
+    "ﬂ": "fl",
+    "ﬀ": "ff",
+    "ﬃ": "ffi"
+}
+
+def clean_text_ligatures(text: str) -> str:
+    if not text:
+        return text
+    for lig, rep in LIGATURE_MAP.items():
+        text = text.replace(lig, rep)
+    # Correct any previous run errors where tf was incorrectly mapped to ft
+    text = text.replace("Plaftorm", "Platform")
+    text = text.replace("plaftorm", "platform")
+    return text
+
+def normalize_company_name(name: str) -> str:
+    name = name.strip()
+    name_lower = name.lower()
+    
+    if name_lower in ["amex", "american express", "americanexpress", "american_express"]:
+        return "American Express"
+    if name_lower in ["citi", "citicorp", "citigroup", "citi bank", "citicorp services"]:
+        return "Citi"
+    if name_lower in ["wells fargo", "wellsfargo", "wells_fargo"]:
+        return "Wells Fargo"
+    if name_lower in ["sap labs", "saplabs", "sap_labs", "sap"]:
+        return "SAP Labs"
+    if name_lower in ["bny mellon", "bny", "bny_mellon", "bny-mellon"]:
+        return "BNY Mellon"
+    if name_lower in ["goldman sachs", "goldmansachs", "goldman_sachs", "goldman"]:
+        return "Goldman Sachs"
+    if name_lower in ["walmart", "walmart global tech", "walmart labs", "walmart global tech india"]:
+        return "Walmart"
+    if name_lower in ["mathworks", "math work", "math works"]:
+        return "Mathworks"
+    if name_lower in ["microsoft", "ms"]:
+        return "Microsoft"
+    if name_lower in ["nvidia", "nvida"]:
+        return "NVIDIA"
+    if name_lower in ["tcs", "tata consultancy services"]:
+        return "TCS"
+    if name_lower in ["bank of america", "bank_of_america", "bankofamerica", "bofa"]:
+        return "Bank of America"
+    if name_lower in ["lti", "ltimindtree", "lti mindtree"]:
+        return "LTI"
+    if name_lower in ["dover", "dover india"]:
+        return "Dover India"
+    if name_lower in ["standard chartered", "standard_chartered", "standard chartered gbs", "standard chartered bank"]:
+        return "Standard Chartered"
+    if name_lower in ["codestaxai", "codestax ai"]:
+        return "CodeStax.ai"
+    if name_lower in ["congruent", "congruent solutions", "congruent solution pvt lmt"]:
+        return "Congruent Solutions"
+    if name_lower in ["lister", "lister technologies"]:
+        return "Lister Technologies"
+    if name_lower in ["thirdwave", "thirdwave corporation", "thirdwave_corporation"]:
+        return "Thirdwave Corporation"
+    if name_lower in ["ramco", "ramco systems", "ramco_systems"]:
+        return "Ramco Systems"
+    if name_lower in ["eucloid", "eucloid data solutions", "eucloid_data_solutions"]:
+        return "Eucloid Data Solutions"
+    if name_lower in ["icanio", "icanio technologies", "icanio_technologies"]:
+        return "Icanio Technologies"
+    if name_lower in ["j k fenner", "j.k. fenner", "j_k_fenner", "j.k.fenner"]:
+        return "J.K. Fenner"
+    if name_lower in ["john deere", "johndeere", "john_deere"]:
+        return "John Deere"
+    if name_lower in ["larsen & toubro", "larsen turbo", "larsen_turbo", "l&t"]:
+        return "L&T"
+
+    words = name.replace("_", " ").split()
+    return " ".join(w.capitalize() for w in words)
+
+def parse_company_from_filename(filename: str) -> str:
+    base = os.path.splitext(filename)[0]
+    if "-" in base:
+        parts = base.split("-", 1)
+        company = parts[1].strip()
+        return normalize_company_name(company)
+    
+    lower_base = base.lower()
+    multi_word_companies = {
+        "american_express": "American Express",
+        "amex": "American Express",
+        "bank_of_america": "Bank of America",
+        "blue_yonder": "Blue Yonder",
+        "d_e_shaw": "DE Shaw",
+        "de_shaw": "DE Shaw",
+        "eucloid_data_solutions": "Eucloid Data Solutions",
+        "idfc_first_bank": "IDFC First Bank",
+        "icanio_technologies": "Icanio Technologies",
+        "j_k_fenner": "J.K. Fenner",
+        "john_deere": "John Deere",
+        "larsen_turbo": "L&T",
+        "lister_technologies": "Lister Technologies",
+        "morgan_stanley": "Morgan Stanley",
+        "ncr_voyix": "NCR Voyix",
+        "ncr_work": "NCR Voyix",
+        "ramco_systems": "Ramco Systems",
+        "sap_labs": "SAP Labs",
+        "standard_chartered_gbs": "Standard Chartered",
+        "standard_chartered": "Standard Chartered",
+        "tata_digital": "Tata Digital",
+        "tejas_networks": "Tejas Networks",
+        "thirdwave_corporation": "Thirdwave Corporation",
+        "vivriti_capital": "Vivriti Capital",
+        "wells_fargo": "Wells Fargo",
+        "worlder_team": "Worlder Team",
+        "nokia_infinera": "Nokia Infinera",
+        "oracle_ofss": "Oracle OFSS",
+        "randomwalkai": "RandomWalk.ai"
+    }
+    
+    for prefix, normalized_name in multi_word_companies.items():
+        if lower_base.startswith(prefix + "_") or lower_base == prefix:
+            return normalized_name
+            
+    parts = base.split("_")
+    company = parts[0]
+    return normalize_company_name(company)
+
+def clean_raw_text_files():
+    text_dir = os.path.join(BASE_DIR, "text")
+    if not os.path.exists(text_dir):
+        return
+    for root, dirs, files in os.walk(text_dir):
+        for f in files:
+            if f.endswith(".txt"):
+                path = os.path.join(root, f)
+                try:
+                    with open(path, "r", encoding="utf-8", errors="ignore") as file:
+                        content = file.read()
+                    
+                    cleaned = clean_text_ligatures(content)
+                    if cleaned != content:
+                        with open(path, "w", encoding="utf-8") as file:
+                            file.write(cleaned)
+                        print(f"Cleaned raw text file: {f}")
+                except Exception as e:
+                    print(f"Error cleaning file {f}: {e}")
+
 def load_documents_index():
     global documents
     index_file = os.path.join(BASE_DIR, "experience_index.json")
@@ -244,6 +393,38 @@ def load_documents_index():
         try:
             with open(index_file, "r", encoding="utf-8") as f:
                 documents = json.load(f)
+            
+            # Clean raw text files
+            clean_raw_text_files()
+            
+            # Perform inline migrations
+            changed = False
+            for doc in documents:
+                # 1. Clean ligatures in text/fields
+                for field in ["text", "candidate_name", "role", "company"]:
+                    if field in doc and doc[field]:
+                        cleaned = clean_text_ligatures(doc[field])
+                        if cleaned != doc[field]:
+                            doc[field] = cleaned
+                            changed = True
+                            
+                # 2. Fix Unknown company
+                if doc.get("company") == "Unknown" and doc.get("source_file"):
+                    parsed_co = parse_company_from_filename(doc["source_file"])
+                    doc["company"] = parsed_co
+                    changed = True
+                elif doc.get("company"):
+                    # Normalize existing company names
+                    normalized = normalize_company_name(doc["company"])
+                    if normalized != doc["company"]:
+                        doc["company"] = normalized
+                        changed = True
+            
+            if changed:
+                with open(index_file, "w", encoding="utf-8") as f:
+                    json.dump(documents, f, indent=2, ensure_ascii=False)
+                print(f"Successfully cleaned and rewrote index to {index_file}")
+                
             print(f"Loaded {len(documents)} experiences from {index_file}")
         except Exception as e:
             print(f"Error loading {index_file}: {e}")
@@ -251,6 +432,34 @@ def load_documents_index():
         print(f"Warning: {index_file} not found. Please build it first.")
 
 load_documents_index()
+
+def generate_content_with_retry(user_client, model: str, contents: Any, config: Any = None, max_retries: int = 3) -> Any:
+    delay = 1.0
+    for attempt in range(max_retries):
+        try:
+            if config is not None:
+                return user_client.models.generate_content(
+                    model=model,
+                    contents=contents,
+                    config=config
+                )
+            else:
+                return user_client.models.generate_content(
+                    model=model,
+                    contents=contents
+                )
+        except Exception as e:
+            err_str = str(e).lower()
+            is_rate_limit = any(x in err_str for x in ["429", "quota", "exhausted", "limit", "tpm", "rpm"])
+            is_overloaded = any(x in err_str for x in ["503", "overloaded", "unavailable", "service unavailable"])
+            
+            if (is_rate_limit or is_overloaded) and attempt < max_retries - 1:
+                sleep_time = delay + random.uniform(0.5, 1.5)
+                print(f"[GEMINI RETRY] API call failed (attempt {attempt+1}/{max_retries}). Retrying in {sleep_time:.2f}s... Error: {e}")
+                time.sleep(sleep_time)
+                delay *= 2
+            else:
+                raise e
 
 # ----------------------------------------------------
 # Vector Search & RAG Helpers
@@ -911,7 +1120,8 @@ async def chat_endpoint(payload: ChatRequest, user_id: int = Depends(get_current
 Return ONLY the title. Do not include quote marks, punctuation, prefixes, or comments.
 """
         try:
-            name_res = user_client.models.generate_content(
+            name_res = generate_content_with_retry(
+                user_client,
                 model="gemini-3.5-flash",
                 contents=naming_prompt
             )
@@ -984,7 +1194,8 @@ USER QUESTION:
     
     try:
         # Call Gemini 3.5 Flash
-        response = user_client.models.generate_content(
+        response = generate_content_with_retry(
+            user_client,
             model="gemini-3.5-flash",
             contents=contents,
             config=config

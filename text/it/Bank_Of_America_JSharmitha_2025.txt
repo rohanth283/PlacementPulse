@@ -3,12 +3,12 @@ FTE IN BANK OF AMERICA
 
 About the Company:
 
-Bank of America is one of the world’s leading ﬁnancial ins(cid:415)tu(cid:415)ons, oﬀering a
-comprehensive set of ﬁnancial products and best in-class advisory services. We
+Bank of America is one of the world’s leading financial ins(cid:415)tu(cid:415)ons, offering a
+comprehensive set of financial products and best in-class advisory services. We
 combine the best of local exper(cid:415)se and global connec(cid:415)vity for local clients looking
 to expand globally and for those seeking access to one of the world’s fastest
 growing economies. For this reason, it is a priority market for Bank of America and
-an integral part of our global strategy. We’ve been here a long (cid:415)me, having ﬁrst
+an integral part of our global strategy. We’ve been here a long (cid:415)me, having first
 established a presence in 1964, and our commitment goes beyond business with
 our social impact ini(cid:415)a(cid:415)ves transforming millions of lives across the country.
 Looking forward, we are uniquely posi(cid:415)oned to help India broaden its global
@@ -32,7 +32,7 @@ Placement Drive Experience
     This assessment is a video interview where the ques(cid:415)ons will be on le(cid:332)
 side.
 
-  Tell me about yourself and how my qualiﬁca(cid:415)ons & experience will
+  Tell me about yourself and how my qualifica(cid:415)ons & experience will
 
 relate to job role.
 
@@ -45,7 +45,7 @@ we used this approach The video assessment will be for 90mintues.
 
             2.Interview Round 1[40 mins]
 
-  He introduced himself ﬁrst and asked to introduce myself.
+  He introduced himself first and asked to introduce myself.
   The Interviewer went through my resume for a minute and asked me
 to explain bout the projects that I have men(cid:415)oned it in the resume.
 
@@ -54,10 +54,10 @@ to explain bout the projects that I have men(cid:415)oned it in the resume.
                              1.Basic ques(cid:415)on on distance calcula(cid:415)on when the trains moves at
 par(cid:415)cular speed.
 
-                              2.Take a two digit number, the diﬀerence between the number
-and its reverse is given. Find the diﬀerence between the digits of the number.
+                              2.Take a two digit number, the difference between the number
+and its reverse is given. Find the difference between the digits of the number.
 
-                                     Eg: The diﬀerence between the two numbers is 18.
+                                     Eg: The difference between the two numbers is 18.
 
                                             Ans:42
 
@@ -73,7 +73,7 @@ technique.
 
   I have men(cid:415)oned linux in my resume so he asked few commands like
 
-how to ﬁnd running process id and to kill the process.
+how to find running process id and to kill the process.
 
   He asked me to write a coding ques(cid:415)on to sort only the even
 
@@ -96,9 +96,9 @@ he was working there and what was his experience.
 
 were asked. It went for almost 30 minutes.
 
-  He asked to introduce myself ﬁrst.
+  He asked to introduce myself first.
   Then asked to explain the projects as on overview. Then he asked
-what are the diﬃcul(cid:415)es you have faced during your project.
+what are the difficul(cid:415)es you have faced during your project.
 
   He asked an ap(cid:415)tude ques(cid:415)on.
 
@@ -107,24 +107,24 @@ Qn: The car has 5 (cid:415)res ,4 on the wheel and one on the back.
 Each (cid:415)re can run 2000 km. What is the distance the car can travel.
                                                       Ans:2500 km
 
-  He is very sa(cid:415)sﬁed with that answer.
+  He is very sa(cid:415)sfied with that answer.
   He asked to write code to reverse the given number.
   Then he asked linux commands to list all the directory and to kill the
 
 running process.
 
-  Then he asked sql ques(cid:415)on which was diﬃcult for me.
+  Then he asked sql ques(cid:415)on which was difficult for me.
 
             Qn: The table contains user name, id, login (cid:415)me ,logout (cid:415)me
 
-  He asked to display the diﬀerence between each user login and
+  He asked to display the difference between each user login and
 
-logout (cid:415)me and the diﬀerence between the login (cid:415)me of the same
+logout (cid:415)me and the difference between the login (cid:415)me of the same
 user. I can’t able to do that but he is ok with that.
 
   At last he asked which role do you prefer for. I told it could be be(cid:425)er
 if it was a development roll because I have done projects related to
-that, but I can also manage whatever the you oﬀer me.
+that, but I can also manage whatever the you offer me.
 
 Prepara(cid:415)on (cid:415)ps:
 

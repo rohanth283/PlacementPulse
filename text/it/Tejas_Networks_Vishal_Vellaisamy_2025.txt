@@ -6,7 +6,7 @@ About the Company
 
 Tejas Networks is an Indian R&D organiza6on developing cu<ng-edge op6cal and data
 networking products for India and the world. Founded in 2000, it is the only Indian
-homegrown electronic hardware design company to achieve many ﬁrsts, such as successfully
+homegrown electronic hardware design company to achieve many firsts, such as successfully
 demonstra6ng hitless LCAS on Ethernet hardware and running 100G interfaces over FPGAs,
 now deployed globally. As the #1 op6cal aggrega6on provider in India and among the top 10
 globally, Tejas has pioneered the “Make in India” ini6a6ve by not only designing but also
@@ -30,7 +30,7 @@ About the role
 • Data Structures, Algorithms and their complexity/performance.
 • Design/development/debugging in Java.
 • Middleware like Hibernate, Ac6veMQ & Rela6onal DBs like MySQL/Oracle.
-• Familiarity with Sogware Deﬁned Networking (SDN) concepts, and SDN controllers like
+• Familiarity with Sogware Defined Networking (SDN) concepts, and SDN controllers like
 ODL or ONOS is desirable. Good to have: NMS/EMS/OSS/BSS domain experience.
 
 Selec2on Process
@@ -41,7 +41,7 @@ The test was conducted on the Pro Hire plaVorm, which was smooth and user-friend
 notable aspect was that there was no camera proctoring during the test, allowing for a more
 comfortable experience. This round was a mix of ap6tude and coding ques6ons, designed to
 challenge both logical thinking and problem-solving abili6es. The coding sec6on consisted of
-three problems of varying diﬃculty, covering a range of algorithmic and programming
+three problems of varying difficulty, covering a range of algorithmic and programming
 concepts.
 
 2.First Technical Round
@@ -89,7 +89,7 @@ An SQL query ques6on involving joins.
 4.HR Round
 
 This round was light and conversa6onal, aimed at understanding my aspira6ons,
-communica6on skills, and cultural ﬁt within the organiza6on. Some of the key ques6ons
+communica6on skills, and cultural fit within the organiza6on. Some of the key ques6ons
 asked were:
 
 •
@@ -123,7 +123,7 @@ overcome it?
 
 It’s not 100% about solving the problem or providing the exact right output. What
 
-Be conﬁdent and polite throughout the interview.
+Be confident and polite throughout the interview.
 If you don’t know the answer, let the interviewer know by saying, “I’m not sure, but I
 
 Let the interviewer know if you have experience working with any networking tools.

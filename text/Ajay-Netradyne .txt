@@ -66,7 +66,7 @@ o Asked to Draw ER diagram for book my show with required entities and
 Asked questions about primary key, super key etc… 
 o How do you Differentiate between booked and non-booked seats in Book My 
 Show?. 
-o The interviewer asked many ques5ons related to data handling and data ﬂow, 
+o The interviewer asked many ques5ons related to data handling and data flow, 
 and I was able to provide sa5sfactory answers. 
  
 • Time Complexity and Space Complexity Questions: These were kind of tricky, but 

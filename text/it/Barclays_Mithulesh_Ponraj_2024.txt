@@ -4,11 +4,11 @@ Mithulesh P - 2020115049
 
 Barclays, a prominent global bank founded in 1690, operates in over 40 countries, offering
 
-a wide range of ﬁnancial services from retail and corporate banking to investment services.
+a wide range of financial services from retail and corporate banking to investment services.
 
 Barclays consistently ranks among the top global banks, often featuring in the top 10 for
 
-ﬁnancial services and investment banking.
+financial services and investment banking.
 
 It focuses on digital transformation, leveraging
 
@@ -68,7 +68,7 @@ further about how often we held reviews and why Agile is advantageous compared t
 
 methods.
 
-As we continued, he inquired about cloud management, speciﬁcally regarding the type of
+As we continued, he inquired about cloud management, specifically regarding the type of
 
 storage and security groups I used in Azure, and also asked some questions about NodeJS.
 
@@ -78,9 +78,9 @@ some follow-ups.
 
 Next up were coding questions,
 
-including two about binary trees. The ﬁrst was about
+including two about binary trees. The first was about
 
-checking if a binary tree is balanced, and the second was about ﬁnding the Least Common
+checking if a binary tree is balanced, and the second was about finding the Least Common
 
 Ancestor. For both, I had to write out the code. He also asked me to explain a question from
 
@@ -92,7 +92,7 @@ there and what my plans for higher studies were. These were the types of HR ques
 
 which were asked.
 
-The company conducted only one technical interview round. 14 students were ﬁnally
+The company conducted only one technical interview round. 14 students were finally
 
 selected based on their performance and I was one of them.
 

@@ -4,7 +4,7 @@ Ezhil Dhiraviya J (2022 - 2026)
 
 About Nokia:
 
-Inﬁnera, a leading ﬁber optics company, was acquired by Nokia in February 2025.
+Infinera, a leading fiber optics company, was acquired by Nokia in February 2025.
 Nokia’s  optical  network  solutions  provide  scalable,  secure,  and  reliable
 connectivity,  enabling  operators  to  support  new  services  and  applications  while
 simplifying network operations.
@@ -68,7 +68,7 @@ standard introduction round (projects, strengths, weaknesses).
 I explained my Data Structures project from the 4th semester, which used
 a graph data structure with Dijkstra’s algorithm.
 
-●  Screen sharing was not allowed, so I verbally explained the approach, ﬂow,
+●  Screen sharing was not allowed, so I verbally explained the approach, flow,
 
 and the code.
 
@@ -98,7 +98,7 @@ other than a vector?
 ●  Which language did you use for coding?
 ●  Was the code entirely written by you?
 ●  Write the code that you wrote to store the graph.
-●  What algorithm did you use to ﬁnd the shortest path?
+●  What algorithm did you use to find the shortest path?
 ●  Write the entire code and explain the algorithm.
 ●  He asked me to explain each and every line of code that I wrote.
 ●  Are you familiar with data hiding and other OOPS terminologies?
@@ -117,7 +117,7 @@ He asked some basic questions related to the Flask server.
 I was asked if 5>>1 and -5>>1 are the same or different and to write their outputs.
 
 Given  a  linked  list’s  head  with  one  node  connected  to  its  head,  my  task was to
-ﬁnd  if  the  linked  list had a loop or not. I was asked to write the code for this and
+find  if  the  linked  list had a loop or not. I was asked to write the code for this and
 explain the time complexity.
 I suggested 2 methods.
 
@@ -166,7 +166,7 @@ company in the PPT?
 ●  On a scale of 1 to 5, how much would you rate your Python skills?
 ●  Some logical questions were asked based on my projects.
 ●  What were your team projects and mention your team members’ names.
-●  Apart from DSA, what other roles are you conﬁdent about?
+●  Apart from DSA, what other roles are you confident about?
 
 Round 4: (HR round, 15 to 20 minutes)
 Questions asked:
@@ -185,17 +185,17 @@ previous day, and it was noted on my resume.
 ●  This included: how many rounds did you attend in the SAP Labs interview?
 ●  What was the thing that you corrected to do better for this interview?
 ●  They also questioned me about the hackathons I had attended.
-●  Joining B.Tech IT, what are the things that you are conﬁdent about?
+●  Joining B.Tech IT, what are the things that you are confident about?
 ●  Finally, they asked me if I had any questions.
 
 Finally, 4 people were offered the role of Software Developer..
 
 Tips for interview:
 
-1.  Be conﬁdent.
-2.  Start the interview with a smile and conﬁdence.
+1.  Be confident.
+2.  Start the interview with a smile and confidence.
 3.  Explain very clearly.
-4.  Don’t say even a single word if you are not conﬁdent about it.
+4.  Don’t say even a single word if you are not confident about it.
 
 5.  If  you’re  asked  a  question  you  don’t  know,  it’s  okay  to  let  the  interviewer
 
@@ -230,8 +230,8 @@ internship.
 
 is:  never  stop  preparing,  even  if  you  get  your  summer
 
-Remember  that  every  ﬂower  blooms  only  in its season, and there is a season for
-every ﬂower to bloom. So never lose hope. Prepare rigorously so that nobody who
+Remember  that  every  flower  blooms  only  in its season, and there is a season for
+every flower to bloom. So never lose hope. Prepare rigorously so that nobody who
 interviews you will think of rejecting you.
 
 For people who are already preparing, great job, you are already on the right track.

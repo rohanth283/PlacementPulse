@@ -996,6 +996,13 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.classList.add('exp-card');
             const dept = exp.department || 'CSE';
+            const showPackage = exp.package && exp.package.toLowerCase() !== 'not specified' && exp.package.toLowerCase() !== 'null' && exp.package.trim() !== '';
+            const packageHTML = showPackage ? `
+                    <div class="exp-detail-item">
+                        <i data-lucide="banknote"></i>
+                        <span>${exp.package}</span>
+                    </div>
+            ` : '';
             card.innerHTML = `
                 <div class="exp-header">
                     <span class="exp-company">${exp.company}</span>
@@ -1010,10 +1017,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <i data-lucide="briefcase"></i>
                         <span>${exp.role || 'Software Engineer'}</span>
                     </div>
-                    <div class="exp-detail-item">
-                        <i data-lucide="banknote"></i>
-                        <span>${exp.package || 'Not Specified'}</span>
-                    </div>
+                    ${packageHTML}
                 </div>
             `;
             card.addEventListener('click', () => openExperienceDetails(exp.id));
@@ -1064,6 +1068,7 @@ document.addEventListener('DOMContentLoaded', () => {
             panelCandidateName.textContent = "Loading...";
             panelCompanyBadge.textContent = "---";
             panelRoleInfo.innerHTML = '<i data-lucide="briefcase"></i> Loading...';
+            panelPackageInfo.style.display = '';
             panelPackageInfo.innerHTML = '<i data-lucide="banknote"></i> Loading...';
             panelDifficultyBadge.textContent = "---";
             panelYearBadge.textContent = "---";
@@ -1085,7 +1090,13 @@ document.addEventListener('DOMContentLoaded', () => {
             panelCandidateName.textContent = doc.candidate_name;
             panelCompanyBadge.textContent = doc.company;
             panelRoleInfo.innerHTML = `<i data-lucide="briefcase"></i> ${doc.role || 'Software Engineer'}`;
-            panelPackageInfo.innerHTML = `<i data-lucide="banknote"></i> ${doc.package || 'Not Specified'}`;
+            
+            if (doc.package && doc.package.toLowerCase() !== 'not specified' && doc.package.toLowerCase() !== 'null' && doc.package.trim() !== '') {
+                panelPackageInfo.style.display = '';
+                panelPackageInfo.innerHTML = `<i data-lucide="banknote"></i> ${doc.package}`;
+            } else {
+                panelPackageInfo.style.display = 'none';
+            }
             
             panelDifficultyBadge.className = 'badge';
             panelDifficultyBadge.classList.add(doc.difficulty);

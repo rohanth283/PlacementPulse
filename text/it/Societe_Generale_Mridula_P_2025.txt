@@ -3,23 +3,23 @@ Engineer Intern & FTE in SOCIETE GENERALE
 
 About the Company
 
-Societe Generale is one of the leading European ﬁnancial services groups. Based on a
-diversiﬁed and integrated banking model, the Group combines ﬁnancial strength and proven
+Societe Generale is one of the leading European financial services groups. Based on a
+diversified and integrated banking model, the Group combines financial strength and proven
 expertise in innovation with a strategy of sustainable growth. Committed to the positive
 transformations of the world’s societies and economies, Societe Generale and its teams seek to
 build, day after day, together with its clients, a better and sustainable future through responsible
-and innovative ﬁnancial solutions.
+and innovative financial solutions.
 
 Active in the real economy for over 150 years, with a solid position in Europe and connected to
 the rest of the world, Societe Generale has over 117,000 members of staff in 66 countries and
 supports on a daily basis 25 million individual clients, businesses and institutional investors
-around the world by offering a wide range of advisory services and tailored ﬁnancial solutions.
+around the world by offering a wide range of advisory services and tailored financial solutions.
 
 About the Role
 
 The Software Engineer is a crucial role of the company to translate the needs of users and the
-company into functional and eﬃcient software solutions.The main tasks of the role is analyzing
-the needs of users and clients and establishing the software speciﬁcations, designing software
+company into functional and efficient software solutions.The main tasks of the role is analyzing
+the needs of users and clients and establishing the software specifications, designing software
 architectures and developing applications and software by choosing the appropriate
 programming language and then coding them.They also collaborate with development teams
 and other departments within the company.By leveraging advanced technologies and global
@@ -51,7 +51,7 @@ SHE->1985)
 2. There is a supermarket where if the price is a Golden no ie sum of the digits of the
 
 number is equal to the largest digit in the number, ,there is a discount on that product.
-Given input range of price ie from x to y, ﬁnd the number of products where the person
+Given input range of price ie from x to y, find the number of products where the person
 can avail a discount.
 
 39 students were shortlisted for the interview process of Software Engineer Intern & FTE.
@@ -65,7 +65,7 @@ after that time duration. So especially for aptitude sections it’s important t
 time stuck upon questions and rather move to the next one.
 
 For the coding section I had used python and it’s important to remember built-in functions that
-will save you time from unwanted manipulations/conversions. Eg: For the ﬁrst question to
+will save you time from unwanted manipulations/conversions. Eg: For the first question to
 convert the alphabets to integers the usage of the ord() function which takes a string argument
 of a single Unicode character and returns its integer Unicode value(ASCII value) was very useful
 and time saving.
@@ -78,11 +78,11 @@ The panel consisted of a single member.
 The interviewer had asked to explain my projects, the tech stacks used in it, etc.
 
 While explaining a few functionalities in my project I was also asked to write sample code
-related to how I had implemented those speciﬁc functionalities and there were also follow-up
+related to how I had implemented those specific functionalities and there were also follow-up
 questions to test both my coding knowledge on the tech stack which was questioned.
 
 Then I was asked a few more questions on MongoDB and related implementations in my
-project. I was asked what is state and component in Reactjs and how it is more eﬃcient than
+project. I was asked what is state and component in Reactjs and how it is more efficient than
 basic HTML as a front-end and follow up questions like Virtual DOM concepts,etc.
 
 Then the interviewer asked which programming language I knew better, Java or Python and I
@@ -99,9 +99,9 @@ Interview Round 2:
 
 This round also had both technical questions and project-based questions.
 
-The interviewer started with a small random question enquiring if I remembered who my ﬁrst
+The interviewer started with a small random question enquiring if I remembered who my first
 interviewer was and asked to describe him( just to assess our observational skills).
-Then again I was asked a lot about the project I had done and how the workﬂow of the project
+Then again I was asked a lot about the project I had done and how the workflow of the project
 was, challenges I faced technically and personally and how I handled it and also a detailed
 explanation of my solution.
 
@@ -127,7 +127,7 @@ personal problem statement)
 ● My thoughts on women stopping work after marriage and if I’m ok with night shifts.
 ● Any questions for him
 
-He was very much satisﬁed with my answers and the round went smoothly.
+He was very much satisfied with my answers and the round went smoothly.
 
 Finally the announcements were made that 17 students were selected including me and I was
 elated.
@@ -139,10 +139,10 @@ pitch yourself as someone apt for the candidature both as a personality and your
 expertise. An unprepared answer always puts on a bad impression that you aren't able to
 present yourself, which is a bare minimum expected.
 
-Be conﬁdent in giving your answers and be attentive to the response of the interviewers and
+Be confident in giving your answers and be attentive to the response of the interviewers and
 respond aptly.
 
 I usually make sure I ask about the work culture of the company, current projects, tech stacks
-used in the company, their work experience and learning arcs for the ﬁnal “Do you have any
+used in the company, their work experience and learning arcs for the final “Do you have any
 questions for me ?” question.
 

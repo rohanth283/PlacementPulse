@@ -38,16 +38,170 @@ except ImportError:
     print("[ERROR] google-genai is not installed. Please run: pip install google-genai")
     sys.exit(1)
 
+LIGATURE_MAP = {
+    "Ɵ": "ti",
+    "Ʃ": "tt",
+    "Ō": "ft",
+    "ƞ": "tf",
+    "ﬁ": "fi",
+    "ﬂ": "fl",
+    "ﬀ": "ff",
+    "ﬃ": "ffi"
+}
+
+def clean_text_ligatures(text: str) -> str:
+    if not text:
+        return text
+    for lig, rep in LIGATURE_MAP.items():
+        text = text.replace(lig, rep)
+    # Correct any previous run errors where tf was incorrectly mapped to ft
+    text = text.replace("Plaftorm", "Platform")
+    text = text.replace("plaftorm", "platform")
+    return text
+
+def normalize_company_name(name: str) -> str:
+    name = name.strip()
+    name_lower = name.lower()
+    
+    if name_lower in ["amex", "american express", "americanexpress", "american_express"]:
+        return "American Express"
+    if name_lower in ["citi", "citicorp", "citigroup", "citi bank", "citicorp services"]:
+        return "Citi"
+    if name_lower in ["wells fargo", "wellsfargo", "wells_fargo"]:
+        return "Wells Fargo"
+    if name_lower in ["sap labs", "saplabs", "sap_labs", "sap"]:
+        return "SAP Labs"
+    if name_lower in ["bny mellon", "bny", "bny_mellon", "bny-mellon"]:
+        return "BNY Mellon"
+    if name_lower in ["goldman sachs", "goldmansachs", "goldman_sachs", "goldman"]:
+        return "Goldman Sachs"
+    if name_lower in ["walmart", "walmart global tech", "walmart labs", "walmart global tech india"]:
+        return "Walmart"
+    if name_lower in ["mathworks", "math work", "math works"]:
+        return "Mathworks"
+    if name_lower in ["microsoft", "ms"]:
+        return "Microsoft"
+    if name_lower in ["nvidia", "nvida"]:
+        return "NVIDIA"
+    if name_lower in ["tcs", "tata consultancy services"]:
+        return "TCS"
+    if name_lower in ["bank of america", "bank_of_america", "bankofamerica", "bofa"]:
+        return "Bank of America"
+    if name_lower in ["lti", "ltimindtree", "lti mindtree"]:
+        return "LTI"
+    if name_lower in ["dover", "dover india"]:
+        return "Dover India"
+    if name_lower in ["standard chartered", "standard_chartered", "standard chartered gbs", "standard chartered bank"]:
+        return "Standard Chartered"
+    if name_lower in ["codestaxai", "codestax ai"]:
+        return "CodeStax.ai"
+    if name_lower in ["congruent", "congruent solutions", "congruent solution pvt lmt"]:
+        return "Congruent Solutions"
+    if name_lower in ["lister", "lister technologies"]:
+        return "Lister Technologies"
+    if name_lower in ["thirdwave", "thirdwave corporation", "thirdwave_corporation"]:
+        return "Thirdwave Corporation"
+    if name_lower in ["ramco", "ramco systems", "ramco_systems"]:
+        return "Ramco Systems"
+    if name_lower in ["eucloid", "eucloid data solutions", "eucloid_data_solutions"]:
+        return "Eucloid Data Solutions"
+    if name_lower in ["icanio", "icanio technologies", "icanio_technologies"]:
+        return "Icanio Technologies"
+    if name_lower in ["j k fenner", "j.k. fenner", "j_k_fenner", "j.k.fenner"]:
+        return "J.K. Fenner"
+    if name_lower in ["john deere", "johndeere", "john_deere"]:
+        return "John Deere"
+    if name_lower in ["larsen & toubro", "larsen turbo", "larsen_turbo", "l&t"]:
+        return "L&T"
+
+    words = name.replace("_", " ").split()
+    return " ".join(w.capitalize() for w in words)
+
+def parse_company_from_filename(filename: str) -> str:
+    base = os.path.splitext(filename)[0]
+    if "-" in base:
+        parts = base.split("-", 1)
+        company = parts[1].strip()
+        return normalize_company_name(company)
+    
+    lower_base = base.lower()
+    multi_word_companies = {
+        "american_express": "American Express",
+        "amex": "American Express",
+        "bank_of_america": "Bank of America",
+        "blue_yonder": "Blue Yonder",
+        "d_e_shaw": "DE Shaw",
+        "de_shaw": "DE Shaw",
+        "eucloid_data_solutions": "Eucloid Data Solutions",
+        "idfc_first_bank": "IDFC First Bank",
+        "icanio_technologies": "Icanio Technologies",
+        "j_k_fenner": "J.K. Fenner",
+        "john_deere": "John Deere",
+        "larsen_turbo": "L&T",
+        "lister_technologies": "Lister Technologies",
+        "morgan_stanley": "Morgan Stanley",
+        "ncr_voyix": "NCR Voyix",
+        "ncr_work": "NCR Voyix",
+        "ramco_systems": "Ramco Systems",
+        "sap_labs": "SAP Labs",
+        "standard_chartered_gbs": "Standard Chartered",
+        "standard_chartered": "Standard Chartered",
+        "tata_digital": "Tata Digital",
+        "tejas_networks": "Tejas Networks",
+        "thirdwave_corporation": "Thirdwave Corporation",
+        "vivriti_capital": "Vivriti Capital",
+        "wells_fargo": "Wells Fargo",
+        "worlder_team": "Worlder Team",
+        "nokia_infinera": "Nokia Infinera",
+        "oracle_ofss": "Oracle OFSS",
+        "randomwalkai": "RandomWalk.ai"
+    }
+    
+    for prefix, normalized_name in multi_word_companies.items():
+        if lower_base.startswith(prefix + "_") or lower_base == prefix:
+            return normalized_name
+            
+    parts = base.split("_")
+    company = parts[0]
+    return normalize_company_name(company)
+
 def extract_metadata_heuristics(filename: str, content: str) -> Dict[str, Any]:
     """Helper to extract basic metadata from filename and text using heuristics."""
-    # 1. Parse filename (Format: Candidate Name-Company.txt)
+    # Clean the input content first
+    content = clean_text_ligatures(content)
+    
+    # 1. Parse filename (Format: Candidate Name-Company.txt or COMPANY_CandidateName_Year.txt)
     base = os.path.splitext(filename)[0]
-    parts = base.split("-", 1)
-    
-    candidate_name = parts[0].strip()
-    company_name = parts[1].strip() if len(parts) > 1 else "Unknown"
-    
-    company_name = re.sub(r'\s+', ' ', company_name).strip()
+    if "-" in base:
+        parts = base.split("-", 1)
+        candidate_name = parts[0].strip()
+        company_name = normalize_company_name(parts[1].strip())
+    else:
+        company_name = parse_company_from_filename(filename)
+        parts = base.split("_")
+        comp_parts_count = 1
+        lower_base = base.lower()
+        multi_word_companies_keys = [
+            "american_express", "bank_of_america", "blue_yonder", "d_e_shaw", "de_shaw",
+            "eucloid_data_solutions", "idfc_first_bank", "icanio_technologies", "j_k_fenner",
+            "john_deere", "larsen_turbo", "lister_technologies", "morgan_stanley",
+            "ncr_voyix", "ncr_work", "ramco_systems", "sap_labs", "standard_chartered_gbs",
+            "standard_chartered", "tata_digital", "tejas_networks", "thirdwave_corporation",
+            "vivriti_capital", "wells_fargo", "worlder_team", "nokia_infinera", "oracle_ofss"
+        ]
+        for key in multi_word_companies_keys:
+            if lower_base.startswith(key + "_"):
+                comp_parts_count = len(key.split("_"))
+                break
+                
+        rem = parts[comp_parts_count:]
+        if rem and re.match(r'^202[2-6]$', rem[-1]):
+            rem.pop()
+        candidate_name = " ".join(rem).strip() if rem else base
+        if not candidate_name:
+            candidate_name = base
+            
+    candidate_name = clean_text_ligatures(candidate_name)
     
     # 2. Extract Package (e.g. 25.5 LPA, 18 Lakhs)
     package_match = re.search(r'\b(\d+(?:\.\d+)?)\s*(LPA|Lakhs|Lakh|L\.P\.A\.)\b', content, re.IGNORECASE)
@@ -174,7 +328,7 @@ def main():
         dept = entry["department"]
         try:
             with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
-                content = f.read().strip()
+                content = clean_text_ligatures(f.read().strip())
                 if not content:
                     continue
                 

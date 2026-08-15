@@ -14,7 +14,7 @@ confluence, react native, test driven developments, principles of programming
 Placement Drive experience:
 
 I felt compared to other companies idfc was easy going in their interviews and tests,
-just know the basics of programming, be conﬁdent while explaining your projects, learn oops
+just know the basics of programming, be confident while explaining your projects, learn oops
 and dsa thoroughly.
 
 Get to know details about their policies, slogans, ambassadors, mainly the CEO. this is a
@@ -28,7 +28,7 @@ Try to use different programming languages based on the questions, for example f
 string base questions python will be easier to code, for dp based questions java or c++ is easy
 to code.
 
-Just be conﬁdent in what you are saying, and if you say something wrong, learn to accept the
+Just be confident in what you are saying, and if you say something wrong, learn to accept the
 fact and express it that you have learnt.
 
 Preparation docs or playlists:

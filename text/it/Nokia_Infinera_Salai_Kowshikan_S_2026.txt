@@ -4,7 +4,7 @@ Salai Kowshikan S
 
 About Nokia:
 
-Inﬁnera,  a  leading  ﬁber  optics  company,  was  acquired  by  Nokia  in  February  2025.
+Infinera,  a  leading  fiber  optics  company,  was  acquired  by  Nokia  in  February  2025.
 Nokia’s optical network solutions provide scalable, secure, and reliable connectivity, enabling
 operators to support new services and applications while simplifying network operations.
 
@@ -88,11 +88,11 @@ would you approach debugging?”
 
 ○
 
-I suggested checking ﬁrewall ACLs, using ping and traceroute to
+I suggested checking firewall ACLs, using ping and traceroute to
 examine the topology and hops, and verifying DNS propagation.
 
 ●  Difference between types of hypervisors.
-●  Several questions were project-speciﬁc.
+●  Several questions were project-specific.
 
 Technical Interview 2 (Virtual)
 
@@ -105,7 +105,7 @@ which I eventually arrived at.
 ●  DSA coding task – Reverse a linked list on an online compiler (screen shared).
 The interviewer guided me through missed semicolons and later asked me to
 use pointers to modify the list directly rather than assigning a new head.
-●  Exception handling in C++ – I mistakenly used a ﬁnally block (which exists in
+●  Exception handling in C++ – I mistakenly used a finally block (which exists in
 
 Java, not C++), but the interviewer was understanding.
 ●  Diamond problem – Explained in C++, Python, and Java.
@@ -125,7 +125,7 @@ in the company.
 
 Technical Interview 3
 
-This round was very short (around 3 minutes) and felt like a rapid-ﬁre session:
+This round was very short (around 3 minutes) and felt like a rapid-fire session:
 
 ●  Postgres – Why I chose it for my project over other persistence storage
 
