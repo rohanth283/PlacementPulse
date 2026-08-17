@@ -152,13 +152,15 @@ document.addEventListener('DOMContentLoaded', () => {
             await loadInitialData();
             await loadConversations();
             
-            // Restore Collapsed Sidebar Preference
+            // Restore Collapsed Sidebar Preference safely
             const isCollapsed = localStorage.getItem('sidebarCollapsed') === 'true';
-            if (isCollapsed) {
+            if (isCollapsed && appSidebar && appContainer) {
                 appSidebar.classList.add('collapsed');
                 appContainer.classList.add('collapsed');
-                const icon = btnSidebarCollapse.querySelector('i');
-                if (icon) icon.setAttribute('data-lucide', 'chevron-right');
+                if (btnSidebarCollapse) {
+                    const icon = btnSidebarCollapse.querySelector('i');
+                    if (icon) icon.setAttribute('data-lucide', 'chevron-right');
+                }
             }
             
             showAppContent();
@@ -191,8 +193,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function setupUserProfile() {
         if (!state.username) return;
-        userDisplayName.textContent = state.username;
-        userInitials.textContent = state.username.substring(0, 2).toUpperCase();
+        if (userDisplayName) userDisplayName.textContent = state.username;
+        if (userInitials) userInitials.textContent = state.username.substring(0, 2).toUpperCase();
         
         try {
             const res = await fetch('/api/auth/me', {
