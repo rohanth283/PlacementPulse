@@ -77,13 +77,54 @@ document.addEventListener('DOMContentLoaded', () => {
     // Data Verification Pane
     const verifiedSourcesContainer = document.getElementById('verified-sources-container');
 
-    // Initialize marked option for safety
-    marked.setOptions({
-        breaks: true,
-        highlight: function(code, lang) {
-            return hljs.highlightAuto(code).value;
+    // Initialize marked option safely (handles API changes in newer marked versions)
+    if (typeof marked !== 'undefined') {
+        try {
+            if (typeof marked.use === 'function') {
+                marked.use({
+                    breaks: true
+                });
+            } else if (typeof marked.setOptions === 'function') {
+                marked.setOptions({
+                    breaks: true,
+                    highlight: function(code, lang) {
+                        try {
+                            if (typeof hljs !== 'undefined') {
+                                return hljs.highlightAuto(code).value;
+                            }
+                        } catch (err) {
+                            console.warn("Highlight.js error:", err);
+                        }
+                        return code;
+                    }
+                });
+            }
+        } catch (e) {
+            console.warn("Failed to configure marked options:", e);
         }
-    });
+    }
+
+    function parseMarkdown(text) {
+        if (!text) return '';
+        if (typeof marked === 'undefined') return text;
+        if (typeof marked.parse === 'function') {
+            return marked.parse(text);
+        }
+        if (typeof marked === 'function') {
+            return marked(text);
+        }
+        return text;
+    }
+
+    function createLucideIcons() {
+        if (typeof lucide !== 'undefined' && typeof lucide.createIcons === 'function') {
+            try {
+                lucide.createIcons();
+            } catch (e) {
+                console.warn("Lucide error:", e);
+            }
+        }
+    }
 
     // ----------------------------------------------------
     // Authentication Flow (Prevents Login Page Flash)
@@ -122,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             showAppContent();
             activateTab('chat'); // Default landing
-            if (typeof lucide !== 'undefined') lucide.createIcons();
+            createLucideIcons();
         } catch (error) {
             console.error("Auth check failed:", error);
             logoutUserLocal();
@@ -234,7 +275,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const icon = btnToggleKeyVisibility.querySelector('i');
             if (icon) {
                 icon.setAttribute('data-lucide', isPassword ? 'eye-off' : 'eye');
-                if (typeof lucide !== 'undefined') lucide.createIcons();
+                createLucideIcons();
             }
         });
     }
@@ -519,7 +560,7 @@ document.addEventListener('DOMContentLoaded', () => {
             badge.innerHTML = `<i data-lucide="file-text"></i> ${exp.source_file}`;
             verifiedSourcesContainer.appendChild(badge);
         });
-        lucide.createIcons();
+        createLucideIcons();
     }
 
     // ----------------------------------------------------
@@ -686,7 +727,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             sidebarChatHistory.appendChild(item);
         });
-        lucide.createIcons();
+        createLucideIcons();
     }
 
     async function saveNewChatOrder() {
@@ -905,7 +946,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         if (role === 'system') {
             contentDiv.classList.add('markdown-body');
-            contentDiv.innerHTML = marked.parse(rawText);
+            contentDiv.innerHTML = parseMarkdown(rawText);
         } else {
             contentDiv.textContent = rawText;
         }
@@ -941,7 +982,7 @@ document.addEventListener('DOMContentLoaded', () => {
         messageDiv.appendChild(avatarDiv);
         messageDiv.appendChild(wrapperDiv);
         chatMessages.appendChild(messageDiv);
-        lucide.createIcons();
+        createLucideIcons();
     }
 
     function appendLoadingIndicator() {
@@ -967,7 +1008,7 @@ document.addEventListener('DOMContentLoaded', () => {
         messageDiv.appendChild(avatarDiv);
         messageDiv.appendChild(contentDiv);
         chatMessages.appendChild(messageDiv);
-        lucide.createIcons();
+        createLucideIcons();
         return id;
     }
 
@@ -988,7 +1029,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p>No experiences match your filters. Try adjusting them.</p>
                 </div>
             `;
-            lucide.createIcons();
+            createLucideIcons();
             return;
         }
 
@@ -1023,7 +1064,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.addEventListener('click', () => openExperienceDetails(exp.id));
             experiencesGrid.appendChild(card);
         });
-        lucide.createIcons();
+        createLucideIcons();
     }
 
     function filterExperiences() {
@@ -1111,12 +1152,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 panelDeptBadge.classList.add(d.toLowerCase());
             }
             panelFilename.textContent = doc.source_file;
-            panelExperienceText.innerHTML = marked.parse(doc.text);
+            panelExperienceText.innerHTML = parseMarkdown(doc.text);
             
             panelExperienceText.querySelectorAll('pre code').forEach((el) => {
                 hljs.highlightElement(el);
             });
-            lucide.createIcons();
+            createLucideIcons();
         } catch (error) {
             console.error(error);
             panelExperienceText.textContent = `Error: Failed to load candidate placement experience. ${error.message}`;
@@ -1157,6 +1198,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderCharts() {
+        if (typeof Chart === 'undefined') {
+            console.warn("Chart.js is not loaded. Skipping chart rendering.");
+            return;
+        }
         if (!state.experiences.length) return;
         
         const companyCounts = {};
@@ -1276,7 +1321,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 sideIcon.setAttribute('data-lucide', 'chevron-left');
             }
         }
-        lucide.createIcons();
+        createLucideIcons();
     }
 
     if (btnSidebarCollapse) {
