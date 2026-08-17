@@ -579,27 +579,27 @@ class KeyUpdateRequest(BaseModel):
 # ----------------------------------------------------
 @app.get("/")
 def get_index():
-    return FileResponse(os.path.join(BASE_DIR, "index.html"))
+    return FileResponse(os.path.join(BASE_DIR, "index.html"), media_type="text/html")
 
 @app.get("/admin")
 def get_admin_page():
-    return FileResponse(os.path.join(BASE_DIR, "admin.html"))
+    return FileResponse(os.path.join(BASE_DIR, "admin.html"), media_type="text/html")
 
 @app.get("/style.css")
 def get_css():
-    return FileResponse(os.path.join(BASE_DIR, "style.css"))
+    return FileResponse(os.path.join(BASE_DIR, "style.css"), media_type="text/css")
 
 @app.get("/app.js")
 def get_js():
-    return FileResponse(os.path.join(BASE_DIR, "app.js"))
+    return FileResponse(os.path.join(BASE_DIR, "app.js"), media_type="application/javascript")
 
 @app.get("/favicon.svg")
 def get_favicon_svg():
-    return FileResponse(os.path.join(BASE_DIR, "favicon.svg"))
+    return FileResponse(os.path.join(BASE_DIR, "favicon.svg"), media_type="image/svg+xml")
 
 @app.get("/favicon.ico")
 def get_favicon_ico():
-    return FileResponse(os.path.join(BASE_DIR, "favicon.svg"))
+    return FileResponse(os.path.join(BASE_DIR, "favicon.svg"), media_type="image/svg+xml")
 
 # ----------------------------------------------------
 # Authentication Routes
