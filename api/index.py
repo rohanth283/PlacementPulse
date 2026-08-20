@@ -486,8 +486,22 @@ def get_experiences(
     if department:
         results = [doc for doc in results if doc.get("department", "").lower() == department.lower()]
     if q:
-        q_lower = q.lower()
-        results = [doc for doc in results if q_lower in doc.get("text", "").lower() or q_lower in doc.get("candidate_name", "").lower()]
+        q_lower = q.lower().strip()
+        is_company_match = any(q_lower in doc.get("company", "").lower() for doc in results)
+        if is_company_match:
+            results = [
+                doc for doc in results 
+                if q_lower in doc.get("company", "").lower() 
+                or q_lower in doc.get("candidate_name", "").lower()
+                or q_lower in doc.get("role", "").lower()
+            ]
+        else:
+            results = [
+                doc for doc in results 
+                if q_lower in doc.get("text", "").lower() 
+                or q_lower in doc.get("candidate_name", "").lower()
+                or q_lower in doc.get("role", "").lower()
+            ]
         
     meta_results = []
     for doc in results:

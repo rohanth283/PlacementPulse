@@ -13,7 +13,7 @@ export default function Sidebar({
   
   const navItems = [
     { id: 'chat', label: 'AI Advisor', icon: MessageSquare },
-    { id: 'explorer', label: 'Experiences Explorer', icon: Library },
+    { id: 'explorer', label: 'Experiences', icon: Library },
     { id: 'insights', label: 'Insights & Analytics', icon: BarChart3 },
     { id: 'settings', label: 'Settings', icon: Settings },
   ];

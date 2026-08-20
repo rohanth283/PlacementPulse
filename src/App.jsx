@@ -156,7 +156,7 @@ export default function App() {
 
   const tabTitles = {
     chat: { title: "PlacementPulse", desc: "" },
-    explorer: { title: "Experiences Explorer", desc: "Search and filter placement experiences from 250+ candidates." },
+    explorer: { title: "Experiences", desc: "Search and filter placement experiences from 250+ candidates." },
     insights: { title: "PlacementPulse Insights", desc: "Insights, Trends, and Placement Analytics." },
     settings: { title: "Settings", desc: "Configure your API credentials and preferences." }
   };
