@@ -10,7 +10,7 @@ import {
   Legend,
   ArcElement
 } from 'chart.js';
-import { TrendingUp, Briefcase, Award, Users, MessageSquare, KeyRound, Activity } from 'lucide-react';
+import { TrendingUp, Briefcase, Award, Users, MessageSquare, KeyRound, Activity, Shield } from 'lucide-react';
 
 ChartJS.register(
   CategoryScale,
