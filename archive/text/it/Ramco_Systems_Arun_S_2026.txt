@@ -1,0 +1,193 @@
+Ramco Interview Experience
+
+                                                         - Arun S
+
+About Ramco:
+
+Ramco Systems is an Indian multinational enterprise software
+
+company headquartered in Chennai, specializing in cloud-based
+
+solutions. It is widely recognized for its Global Payroll and HR
+
+software, which serves numerous large corporations across diverse
+
+industries.The company also provides advanced Enterprise Resource
+
+Planning (ERP) and Asset Management solutions, with a strong focus
+
+on the aviation and logistics sectors. Leveraging modern
+
+technologies like AI and automation, Ramco aims to streamline
+
+complex business processes for its clients. With a global presence, it
+
+operates across several countries, including the US, Canada, Europe,
+
+and the Middle East.
+
+About the Role:
+
+Project Trainee for first 6 months then full time employee. That’s it. It
+is all that i was informed. (later in the interview i was informed that i
+will work on any kind of technology based on the project we would
+assign to)
+
+Selection Process:
+
+Day 1:
+
+Online Assessment
+
+Day 2:
+
+Offline Written Assessment
+
+Technical round 1
+
+Technical round 2
+
+Round 1: Online Assessment
+
+[  1 hr 30 mins]
+
+The online round has 2 coding questions:
+
+1) Related to Linked list(Medium)
+
+2) Related to Recursion(Hard)
+
+The only condition is to write the code in “C”. That’s it.
+
+Round 2: Offline Written Assessment
+
+[  1 hr 30 mins]
+
+We were given pen and paper and asked to write code for the 3
+coding question in any language.
+
+The question are like easy, medium and hard and each carry
+different score. I finished first in about half an hour but i didn’t think
+there is any special mark for the time taken to complete or anything.
+I got the easy one wrong and the other 2 correct. Mostly solving 1 is
+enough to move to the next round but Every rounds score will be
+taken for the final selection and based on my assumption the higher
+the score you have in the initial rounds the easier the following
+rounds would be.
+
+Round 3: Technical Round 1
+
+[  1 hr ]
+
+The interviewer started with the basic standard introduction
+questions then she started to ask questions in all the core subjects
+(DBMS, OS, Networking, OOPS) everything is a standard question
+like “What is polymorphism? Diff btwn runtime and compile time
+polymorphism, What is context switching”,...)
+Asked the basic overview of my projects.
+
+For others they also asked some general quizes.
+
+Round 4: Technical Round 2
+
+[  1 hr 30 mins]
+
+In the last round i was interviewed by the VP of the company
+through online. He asked 1 puzzle
+https://www.geeksforgeeks.org/aptitude/puzzle-distribute-the-
+water/
+
+and 1 simple coding question about counting the frequency of the
+characters in the given string and some basic questions
+
+For others they have also asked the indepth of their projects, system
+design, Core, API, and what not. This round was totally based on
+who is your interviewer.  There is no HR round in Ramco but it may
+be included for the upcoming batches as the total structure of
+interview is different for each year.
+
+My Preparation Strategy:
+
+For DSA i followed strivers A-Z sheet and his youtube channel . Have
+a separate note and for each question you solve write the question
+and the ways to solve it with diagram if needed to revise it before
+interview. This is not just for this placement season but will help you
+throughout your career. “Striver is the best”. Anyway nowadays even
+striver sheet became old , always search for new sheets for new
+coding questions.
+
+For core important topic , i used gemini and chatgpt and for indepth
+concepts go for geeksforgeeks. Having a written mindmap for each
+subjects would be usefull.
+
+For quizzes i used the geeksforgeeks (Must for Ramco interview)
+
+For projects, the one i am going to suggest is the best way . Just
+upload your project description, description you
+put in resume and the code(if possible) to the
+gemini and ask to do “Deep research” to list all the
+possible questions that might be asked from this
+project . Trust me ,it is all you need . The questions
+i prepared where the exact questions that were
+asked for me in interviews like Ramco, Apple,
+Netradyne, ... Most important thing is to built a
+story for every choice you made through out your
+project (Just make it up)
+
+Have notes for each project like this -->
+
+Previous Interviews list:
+
+Internship: De Shaw, Fidelity, Accenture
+
+Placement: Tekion, Netradyne, Apple
+
+Key Suggestions and Tips from My Experience:
+
+Take notes of everything you learn so that you won’t forget and it’s
+easy to revise. If you spent 2 months learning something and after
+10 days you don’t remember most of it , you better use that 2
+months watching some good series. So take notes.
+
+For most of the interview, the main focus would be DSA and project
+so spend most time to work on it. Start preparation as early as
+possible.
+
+For project, initially tell the overview of the project ( in STAR method)
+and if asked for indepth explanation, ask for paper and explain the
+workflow by drawing the Architectural diagram or workflow of the
+project.
+
+For HR interview just speak like you live and die for the company.
+Learn about the company and “Why you want to join them?”. I
+especially fussed up this round for Netradyne and Apple.
+
+On the interview day, If you know the PR , ask him to assign you to a
+good panel if possible .Based on my experience, Senior interviewer
+won’t expect much from the freshers so they will select you even if
+you mess up something. Ask the ones who interviewed before you
+what they were asked because most the time the questions will be
+repeated. If you didn’t know the answer don’t just say “I don’t know”.
+Just say something related to it and mention that you will learn
+about it. If you are explaining your project , “confidence” is the
+answer . Hope that your interviewer is not a specialist in that
+domain. Interviewers are also people that works in a company in a
+specific domain like AI/ML, blockchain, AI agents.... Only some
+people know all the domain (Thats your bad luck there). Even more
+better option is to know the name of the interviewers in the panel
+on the interview day by any means(ask the PR or the person who
+went to the interview first) and search their name in linkedIn to
+know where their expertise lies. If you have knowledge in those
+domain use it to impress them else don’t even talk about those
+topics.
+
+Contact Information:
+
+Name: Arun S
+
+Mobile No: 9629147418
+
+EmailId: arunarun8055007@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/arun-sundaramoorthy/
+

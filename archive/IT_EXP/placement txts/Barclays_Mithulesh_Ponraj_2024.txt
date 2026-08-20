@@ -1,0 +1,106 @@
+PLACEMENT EXPERIENCE 2023
+
+Mithulesh P - 2020115049
+
+Barclays, a prominent global bank founded in 1690, operates in over 40 countries, offering
+
+a wide range of ﬁnancial services from retail and corporate banking to investment services.
+
+Barclays consistently ranks among the top global banks, often featuring in the top 10 for
+
+ﬁnancial services and investment banking.
+
+It focuses on digital transformation, leveraging
+
+technology to enhance customer experiences and streamline operations For software
+
+development engineers, Barclays presents dynamic career opportunities in a tech-driven,
+
+evolving environment.
+
+Hiring Role: HTD Technology Graduate Analyst
+
+Round - 1
+
+The test was open to all students who applied and met the eligibility criteria for CGPA. It
+
+was conducted on HackerEarth and consisted of two sections: one MCQ section and one
+
+coding section.
+
+The test included 12 MCQs, 1 SQL query, and 1 coding question. The questions were based
+
+on Java, C, C++, pseudocode output, DBMS, SQL, and OOPs. Having a strong knowledge of
+
+CS fundamentals and SQL will help you clear this round. Practice more technical aptitude
+
+and output prediction questions.
+
+The SQL query was straightforward and easy, framed within a lengthy paragraph.
+
+Coding question:
+
+Lexicographically smallest string
+
+Reference:https://leetcode.com/discuss/interview-question/4006812/string-generati
+
+on-oa-question/2045987
+
+Technical Round
+
+Around 45 students were selected for the technical interview, and I was among them. My
+
+interviewer is working as a Vice President. When I introduced myself, mentioning my role
+
+as the NSS General Secretary, the interviewer seemed intrigued and asked me to share a
+
+problem I solved in that role. After that, he shifted to technical questions and wanted me to
+
+explain one of my projects. I chose to explain the more complex one.
+
+The interviewer was keen to know more about my project, including the tech stack we used
+
+and the purpose behind it. Since it was a departmental project and I only handled a part of
+
+it, he asked about the software methodology we used. I mentioned Agile, and he probed
+
+further about how often we held reviews and why Agile is advantageous compared to other
+
+methods.
+
+As we continued, he inquired about cloud management, speciﬁcally regarding the type of
+
+storage and security groups I used in Azure, and also asked some questions about NodeJS.
+
+Then came two SQL questions: one about joins and another about aggregation, including
+
+some follow-ups.
+
+Next up were coding questions,
+
+including two about binary trees. The ﬁrst was about
+
+checking if a binary tree is balanced, and the second was about ﬁnding the Least Common
+
+Ancestor. For both, I had to write out the code. He also asked me to explain a question from
+
+a contest where I had won a prize.
+
+To wrap things up, he asked a few questions about Barclays, such as why I wanted to work
+
+there and what my plans for higher studies were. These were the types of HR questions
+
+which were asked.
+
+The company conducted only one technical interview round. 14 students were ﬁnally
+
+selected based on their performance and I was one of them.
+
+P. S. Don’t expect simple questions. In interviews with other companies like Oracle and
+
+BNY, I have encountered questions on topics such as multithreading in Java, dynamic
+
+programming, recursive SQL queries and procedures, designing database schema,
+
+system design, and operating systems (like LFU cache implementation).
+

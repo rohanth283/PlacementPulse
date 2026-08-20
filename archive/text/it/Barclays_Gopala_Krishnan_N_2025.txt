@@ -1,0 +1,102 @@
+Gopala Krishnan N-Information Technology
+
+Technology Summer Intern at Barclays (2025)
+
+About the Company:
+
+Barclays is a prominent multinational financial services company with a history dating
+back to 1690. Headquartered in London, Barclays operates globally, offering a broad range
+of services such as retail, commercial, and investment banking. The Barclays Global
+Service Centre in India provides world-class technology and operations support to
+Barclays' global businesses.
+
+Barclays has been at the forefront of innovation in the financial industry, being the first to
+introduce credit cards in the UK and consistently evolving to meet the needs of a digital
+economy. The company’s emphasis on values such as Respect, Integrity, Service,
+Excellence, and Stewardship (RISES) reflects its dedication to building long-term
+relationships with customers, employees, and communities alike.
+
+About the Role:
+
+Role: Technology Summer Intern
+
+Description:
+The role involves designing and developing scalable applications and microservices,
+creating server components, and implementing functional solutions. It includes
+collaborating with product owners and end users to gather requirements, conducting unit
+tests, and coordinating software releases. The position requires participating in code
+reviews , while also providing support for applications' business-as-usual activities.
+
+Overview of the Selection Process:
+
+The selection process for the  Intern role involved two rounds:
+
+1.  Online Coding Round
+
+2.  Interview Round (Technical + HR)
+
+1. Online Coding Round:
+
+The online assessment had three sections:
+
+•  Section 1: 12 MCQs on topics like OOPS concepts, code output prediction, and
+
+error detection.
+
+•  Section 2: 1 medium-level Data Structures and Algorithms (DSA) question related
+
+to strings.
+
+•  Section 3: 1 SQL question requiring a query based on a given table structure.
+
+29 students were shortlisted for the interview round after the online coding round.
+
+2. Interview Round (Technical + HR):
+
+The interview was a single session, combining both technical and HR questions, with two
+panel members. They were both chill, making the experience stress-free. I first introduced
+myself and then the interview continued with both technical and HR questions.
+
+Technical Questions:
+
+•  Basic DSA question: Swapping two variables without using a temporary variable.
+•  SQL: Questions related to different types of joins.
+•  Computer Networks: Protocol-related questions.
+•  Discussion about my projects, including the tools and technologies I used.
+
+HR Questions:
+
+•  Who is your role model?
+•  What do you expect from Barclays?
+•  Scenario-based question: How would you meet a project deadline if you were an
+
+employee?
+
+•  Where do you see yourself in 5 years?
+
+Finally, they asked me if I had any questions for them. I asked the panel members:
+
+•  What are the responsibilities of the intern?
+
+•  What should the intern learn before starting the internship?
+
+Among 29 students, 14 students were given the Internship opportunity at Barclays.
+
+Resources:
+
+1. https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-
+sheet-2/
+2.Roadmap (neetcode.io)
+3. https://www.youtube.com/@takeUforward
+
+Preparation Tips:
+
+1.  DSA Preparation: Follow Striver's DSA sheet  and Neetcode for DSA preparation.
+2.  Technical Subjects: Be strong and learn fundamental concepts in Computer
+
+Networks, OOPS  and DBMS.
+
+3.  Understand the questions thoroughly and answer with confidence during interview.
+4.  Prepare regularly and stay consistent with your efforts.
+5.  Ensure you convey your answers clearly and be calm during the interview.
+

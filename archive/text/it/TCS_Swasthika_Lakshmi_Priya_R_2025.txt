@@ -1,0 +1,84 @@
+**PLACEMENT EXPERIENCE: TCS**
+
+**SWASTHIKA LAKSHMI PRIYA. R -2021115115**
+
+**ABOUT TCS:**
+
+Tata Consultancy Services (TCS) is an Indian multinational IT services and consulting company that provides business solutions to global businesses.
+
+**ROLE: SOFTWARE ENGINEER (NINJA: 3LPA)**
+
+**PREPARATION STRATEGY:**
+
+* **DSA Practice**: Focus on Striver's A2Z CP Sheet and Striver's SDE Sheet for problem-solving. Be consistent and avoid jumping directly to solutions.
+* **Technical Subjects**: Prioritize DBMS, OOPS, and OS.
+* **Reference Materials**: Use top interview questions and last-minute notes to brush up on core concepts of technical subjects.
+* **SQL Concepts**: Concentrate on mastering joins and subqueries, as these are frequently asked.
+* **Project Technologies**: Ensure you have a solid understanding of the technologies used in your project to confidently explain them.
+* **Aptitude Preparation**: Use IndiaBIX for consistent practice in aptitude questions. You can also refer to youtube channel (Online study for you).
+
+**PLACEMENT EXPERIENCE:**
+
+**ROUND 1:(Online assessment – NQT Phase-1 test)**
+
+* The test was conducted in a specific site the company has created for this assessment.
+* First 5 sections of aptitude questions.
+* **Coding Question** 1: Given a input and a math formula we have code it in any comfortable language and print the output.
+* **Coding Question 2:** Given a range of numbers find all its factorial values.
+
+NOTE: The entire code has to written by us and not only the function logic.
+
+Aptitude has more weightage.
+
+**ROUND 2:(Technical interview at TCS office)**
+
+The technical interview was held at TCS office Sholinganallur. It is basically only one round, all technical, behavioural and HR questions will be asked. It began with the typical "Tell me about yourself" question, after which I was asked about my family background and about relocation. Then I was asked about two of my projects. This was the only technical question I was asked. I had interview for about 15 minutes.
+
+**Key tip**: Be confident and talk jovially. Also be crisp and clear with all your answers. All they except is good communication.
+
+**TIPS AND TRICKS**
+
+* Repeatedly practice DSA problems (frequently asked problems) using Striver's sheet to strengthen your problem-solving skills.
+* Be clear with basic mathematical logics in programming.
+* Consistent practise of aptitude is very important because this is given more weightage.
+* Interact actively during the interview and avoid being too silent.
+* Maintain confidence and composure throughout the interview, even if nervous.
+* Be sure of your projects and the technologies used when discussing them.
+* Only list skills and experiences on your resume that you are strong in and avoid exaggeration.
+* Enhance your communication skills to clearly convey your thoughts and ideas during the interview.
+
+**PREPARATION MATERIALS:**
+
+*DSA:*
+
+<https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2>
+<https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/>
+
+*OOPS:*
+
+<https://www.interviewbit.com/oops-interview-questions/>
+
+<https://career.guru99.com/top-50-oops-interview-questions/>
+<https://www.geeksforgeeks.org/oops-interview-questions/>
+
+*DBMS:*
+
+<https://www.geeksforgeeks.org/last-minute-notes-dbms/>
+
+<https://www.interviewbit.com/dbms-interview-questions/>
+
+<https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/>
+
+*SQL:*
+
+<https://www.geeksforgeeks.org/sql-tutorial/>
+
+<https://leetcode.com/studyplan/top-sql-50/>
+
+*OS:*
+
+<https://www.geeksforgeeks.org/last-minute-notes-operating-systems/>
+
+<https://www.geeksforgeeks.org/operating-systems-interview-questions/>
+
+<https://www.interviewbit.com/operating-system-interview-questions/>

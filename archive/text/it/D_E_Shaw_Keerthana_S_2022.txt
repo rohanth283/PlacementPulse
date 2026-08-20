@@ -1,0 +1,82 @@
+Interview Experience
+
+Name: Keerthana S
+RollNo: 2018115047
+Company: D. E. Shaw India Pvt. Ltd.
+
+Round 1:
+
+It was an online test consist of 3 sections
+
+1)  General aptitude
+2)  Technical aptitude
+3)  Coding(2)
+
+One of the questions asked :
+
+Given an array, find no of possible combinations of A and B such that all the
+elements to the left of A is lesser than that and all the elements to right of B
+is greater than that.
+
+Round 2 (Technical Interview – 1):
+
+1)  I was asked to explain top two projects in my resume
+2)  Coding question
+
+Array1 = {2,1,2,5,7,1,9,3,6,8,8}
+Array2 = {2,5,7,8}
+Output = {2,2,5,7,8,8,1,1,3,6,9}
+Question is how can I get the output array using Array1 and Array2. I
+asked him few hints and derived at the answer => Array2 elements
+that are present in Array1 should be printed first followed by
+elements in Array1(in asc order) that are not present in Array2.
+I was asked to write a code for it. I solved it using map and it passed
+all the testcases
+
+3)  Questions from dbms, os, sorting algorithms, oops
+
+•  Asked two queries
+•  Deadlock and it’s handling methods
+•  Necessary condition for deadlock to occur
+•  Belady’s anomaly
+•  External sorting
+
+•  Stable and unstable sort and asked to give real life scenario
+
+for stable sort
+
+•  Abstract class and few more questions from oops
+
+Round 3 (Technical Interview – 2):
+
+Since he asked lot of questions in between, I don't exactly remember all here is how
+much I can recollect
+
+1)  Coding question (Binary tree)
+
+Find the sum of all the nodes present at the given level
+
+2)  Coding question on graph
+
+I was asked to tell the approach and all the possible testcases for the
+specific problem. Also the testcases that generally needs to be
+considered while creating a coding contest.
+
+3)  Gave a puzzle to solve. He asked few more questions by expanding
+
+its description.
+
+4)  Asked few questions in OS
+
+Take away:
+
+The interviews mainly focus on testing the coding knowledge and the way I
+approach the problem statement. Prepare to code in a limited time. Be cool
+and interactive. Keep asking them questions until you understand it.
+
+All the best!!!
+
+Regards,
+
+Keerthana S
+

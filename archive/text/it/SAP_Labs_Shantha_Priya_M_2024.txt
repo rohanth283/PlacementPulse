@@ -1,0 +1,221 @@
+*Shantha Priya M- Information Technology – Summer Intern at SAP Labs India*
+
+**About the Company**:
+
+***Overview of SAP:***
+
+SAP is a German multinational software company based in Walldorf (Germany). It develops enterprise software to manage business operation and customer relations. Company is the world's leading enterprise resource planning (ERP) software vendor.
+
+***Overview of SAP Labs India:***
+
+SAP Labs India (SLI) is the fastest growing subsidiary of SAP, a multinational company that provides customers with world-class business solutions. SAP Labs India drives SAP's product strategy, is responsible for SAP core solutions and provides product localization and India specific solutions.
+
+SAP Labs India is present in 5 locations – Bangalore, Gurgaon, Pune, Mumbai and Hyderabad.
+
+What is unique to SAP Labs India is that it represents the entire breadth of SAP product portfolio and contributes to SAP flagship products like the following:
+
+* Business Technology Platform
+* SAP S/4 HANA
+* Financial Management
+* Supply Chain Management
+* CRM and Customer Experience
+* Spend Management
+* RISE with SAP
+* Sustainability and Business Networks
+
+**About the Intern Cohort**:
+
+This summer internship cohort at SAP Labs India is called the iXp (Intern Experience Program).
+It was a 2 month, on-site Internship program at SAP campus located in Whitefield Bangalore.
+To know more about IXP intern program at SAP: <https://jobs.sap.com/content/internships/?locale=en_US>
+
+Unlike placements during summer internship interviews at SAP we weren’t informed about the roles that we would work in. In fact the IXP interns at SAP could be put in any role under any team and each of the newly hired intern will be given a buddy to guide, mentor and clear doubts if in case you have any.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* An Online coding contest in SHL platform
+* TECH - Interview Round 1
+* TECH - Interview Round 2
+* HR Round
+* **NOTE:** for Orange tags All of these 3 rounds of interview were online with Webcam on Mandatory in Microsoft Teams
+
+**Online coding Round**:
+
+* Platform: SHL
+* Duration: 45 minutes
+* Number of Questions: 2 (Only coding, No Aptitude)
+
+The coding contest was conducted in SHL platform. Normally, if an online test is conducted in SHL platform, it would be easier than Hackerrank, Hackerearth or any other platform of the company itself. So don’t worry about the difficulty of the contest. Unlike other Companies SAP’s coding round did not have any aptitude section.
+
+You can come back and revisit the first question after answering second question. No negative markings.
+
+**Both questions were simple.**
+
+1. Given a string input remove the continuous(adjacent) occurrence of a given character say “\*”, now return the count of “\*” in the string.
+   **NOTE: remove only adjacent occurrences of “\*”, not all the occurrences.**
+2. Given 2 arrays/list namely num1 and num2 (not in sorted order), return the array/list of non-common elements in both num1 and num2 in sorted order.
+
+22 students were shortlisted for the further interview process.
+
+**TIPS for Online Test:**
+
+Always remember that if a test is easy, you have to race with time. If more people solve the given questions, then obviously the deciding criteria would be either how fast you did than others or who wrote the most optimised code in terms of time (how long did your program take to run).
+
+* **priority 1: Getting All test cases passed**
+* **Priority2: Race with Time (submit it as soon as all test cases are passed, sometimes need not even worry about the optimised code/brute force code. If your code passed all the test cases that would suffice for getting shortlisted in the test)**
+* **Priority3: Code that runs faster (efficient and optimised code)**
+* **NOTE: Space complexity doesn’t matter much here.**
+* **Sometimes Brute force = optimal (not aways though)**
+
+Whether you do in brute force or in an efficient way, have an eye on timing. Both the questions I got was very much simple and straight forward, so simple, clear code would suffice because there were no 3 methods of solving it like brute, better, optimal anol **(In the case of questions that I got brute force were the only and optimal method to solve it)**. The moment a question t passed all the test cases, I finished the question and moved on to next. I submitted the test within first 15 minutes, which greatly helped me get selected for the next round.
+
+**Interview Round 1 (Based on Resume):**
+
+**This round went for 45 mins:**
+
+This round was purely technical. Questions and their complexity depend on the interviewer. My interviewer asked me to introduce myself after giving a brief introduction about himself. Always keep a brief intro about yourself ready, it should cover who you are, a little about your background, what are your interest in technology, what are your strengths, what projects/internships/prior tech experience you have had before. Now during the introduction itself highlight your interests and technically sound/strong subjects.
+
+For example if you have prepared OOPS and OS well, then during your into mention that your relevant course works include papers like OOPS and OS, it could even include the programming language you are comfortable in. Most of the times interviewers tend to ask questions from those subjects or topics you mentioned.
+
+**Question 1:** **Share screen, Open notepad and code for Fibonacci sequence.**
+
+**Question 2:** **easy DSA – code for most frequent element in an array/list**
+
+My interviewer asked “Do you know networks?”
+
+I said I’m currently studying networks as a part of 5th semester curriculum, So I knew the basics of it but have not learnt Networks completely In depth.
+
+He said that’s okay and went on with third question
+
+**Question 3:** **What are the different OSI layers, name them.**
+
+Since it was easier I listed out all the 7 Layers in OSI model and explained briefly each layer in 1 or 2 sentences and listed out atleast one protocol for each layer (eg : HTTP and SMTP in Application Layer) and said him whatever I knew about these protocols like port number etc.
+
+**Question 4: Explain the working of Gmail with respect to networks using protocol.**
+since I recently learnt about SMTP in 5th sem, I was able to answer it, I said him about SMTP’s working. Listed out important terms like “Mail Box” and “Message Queue” and **port number :25** for SMTP to send mails and the went on explaining **IMAP** **and POP3** (2 protocols related to receiving mails in inbox).
+
+**Question 5: He asked me about a MERN stack project I listed out in my resume.**
+
+**Question 6: Explain the features of Mongo and one real life application where Mongo is used?**
+
+I highlighted that it was a non-relational/non-sql database, stores data in the form of key value pairs like a json file, one real life example of Mongo usage is by YouTube to store vast amounts of user analytics and channel performance data.
+
+**Question 7: He asked me why did I choose ReactJS for front end and about it’s benefits?**
+I said him that I did not very consciously analyse the advantages of ReactJS and choose it for the project rather I choose it because I wanted to learn a new Tech-Stack and that’s why I picked up MERN stack and proceed with ReactJS.
+
+**Question 8: Have you worked with cloud or ever hosted or deployed something in cloud?**
+
+I said him that I have not really deployed much of my projects in cloud, but I have hosted a few of my projects in Render and vercel which is free. But I also have a basic knowledge of AWS cloud like EC2, S3, EBS and what is a bucket anol. I also said him that while working on a website for a club I got to deploy our website in AWS, so I do have a basic knowledge of hoe to buy a domain name from GoDaddy, how to add SSL certificate to your website while deploying it for security and safety concerns etc.
+
+**finally he asked me if I had anything to ask him**
+
+**14 out of 22 were selected for second technical round**
+
+**TIP:**
+
+**If the interviewer asks a question that you do not know, do not remain silent rather try answering something relevant to it, but do not give a completely wrong answer with a complete misconception of the question because this might create a bad impression. Sometimes the interviewer will themselves will give obvious clues for you to guess the answer easily. Even though you do not answer the question exact to the point, if you somehow give relevant key points or words the interviewer might get satisfied.**
+
+**Interview Round 2 (Technical):**
+
+**This round went for 1 Hour**
+
+This round was also technical but mostly based on Resume and descriptive questions from subjects like DBMS, OOPS etc.
+
+* This round did not have DSA but had to write simple DBMS queries with Aggregate functions like sum, count, max, avg etc
+* **Question 1: He asked me an aptitude question to solve.**I don’t exactly remember the question but it was a question were 3 number in the series were given and I had to find the 4th number.
+  + Must have been an Arithmetic or geometric progression I guessed , but it was neither AP nor GP. It did not fit into the formula of progressions.
+  + So I asked him for hints/clues, for which he asked me to explain what did I try figuring out initially.
+  + I explained him that it was neither AP nor GP but some other pattern hidden in the series
+  + He then said yeah it’s not progression
+  + Even though I wasn’t able to find the answer to the question exactly, I kept on talking to the interviewer and kept explaining him whatever I tried.
+  + Then he moved to the next question
+* **Question 2: He gave me an employee database with 2 tables:**
+  + Table 1: employee details with employee id
+  + Table 2: department details with employee id
+  + Query 1: How will you map the employees to their department in 2 different tables
+    - I answered saying with employee id being common in both the table we could identify employee easily either using a **WHERE condition OR using an INNER-JOIN**
+    - While explaining this I spoke **about primary key and foreign key.**
+  + Query 2: Identify top employee names with top 3 highest salaries in each dept
+    - I had to use **INNERJOIN**, **MAX** on salary**, GROUP BY** department and **LIMIT** to less than 3.
+  + Query 3: Another similar question where I had to use cross join for finding employees who are managers to other employees and he also asked another question where I had to use more than one aggregate functions.(I don’t remember the question exactly)
+    - I did not answer the last question correctly.
+* **Question 3: What do you know about OOPS?**
+  + I proceeded explaining 4 pillars of OOPS:
+    - Inheritance
+    - Polymorphism
+    - Abstraction
+    - Encapsulation etc
+* **Question 4: explain any instance where you had to use OOPS in any of the projects you worked on**
+  + I did a small restaurant delivery website for web technologies lab where I used classes and objects for each hotel and each delivery partner, I also highlighted that I used Java servlets and JSP in this project
+* **Question 5: He then went on asking about my projects especially a lot of time discussing about my web development projects and summer project (which was also web development)**
+  + Since it was an online interview I asked him I could share the screen and presented him the summer project that I deployed in vercel.
+  + I also presented to him another web development project (an event management project) that I did with conventional HTML, CSS, JS, PHP and PostgreSQL and explained him the CRUD applications in it using PostgreSQL and DBeaver interface
+* **Follow up question: After knowing I used ReactJS for my summer project, he asked me few features of ReactJS**
+  + I explained him that it has features like components, states, hooks and routers and described how we can change the state and how a single component can be used multiple times.
+* I kept explaining him all my projects sharing the screen in detail with code and logic and Database schema and tables. Here and there he asked me few questions, that I was able to easily answer.
+* **Question 6: What do you know about cloud?**
+* **Question 7: Have you heard of any SAP’s products? If so what is it?**
+  + I did my part of research about SAP, after getting to know I was shortlisted for interview rounds, where I read about few of their products like SAP Integration suite, S4 HANA Public cloud and a few others
+* **Question 8: how much would you rate yourself in programming?**
+* **Any questions for him**
+  + I asked him that I heard SAP is an ERP related company, so what exactly is SAP, He patiently explained me about what ERP (Enterprise Resource Planning) actually is
+* 10 out of 14 ppl went to Next HR round
+
+**HR Round:**
+
+It went for around 15 – 20 mins. The HR introduced herself to me and it was like a casual talk.
+
+* Typical Tell me about yourself question:
+  + Where do you come from?
+  + A little of family background
+    - Siblings? Yes or no? if yes how many?
+    - Parent’s occupation
+  + Your hobbies and interest
+  + What do you do in free time and leisure she asked
+* Any real-life situation where you had to resolve conflicts?
+* Any real-life situation where you expressed your leadership skills?
+* Why do you want to join SAP?
+* Discussed about location preference and clarified about stipend details and duration of Internship.
+* Any questions for him
+
+She was satisfied with my answer
+
+And finally all the 10 ppl who went to the HR Round did get selected for the summer internship. I was one among them.
+
+**TRICKS THAT I FOLLOWED**:
+
+* As said earlier, I completed the online test as soon as possible
+* During an online interview always share screen and present your projects, that will be impressive to the interviewer.
+* The moment I came to know that I was selected for the interview, I started preparing Company specific DSA questions from Geeks for Geeks.
+* I did read the SAP internship interview experience from various websites like Glassdoor.
+* Did gather knowledge about what kind of company it is? Where is their headquarters? That’s when I got to know about SAP’s products.
+* In every round, they’ll ask “Do you have any questions for us?” as the last question.
+  Never say that I do not have any question, always do ask some(max 2 or 3) meaningful and reasonable/genuine questions.
+  + What kind of softwares do they develop or what what exactly do they do?
+  + Tech stacks they use
+  + kind of projects that we do in intern either a stand-alone new project or working as a part of already existing project?
+  + Work location
+  + Work culture in the company in your perspective, etc
+  + Your questions will determine your eagerness to work in the company.
+
+**MY PREPARATION STRATEGY:**
+
+* I didn’t do extensive coding prep in my 4th sem in fact did not know it’s seriousness during semester holidays. I had spent my holidays in my summer project, a bit on intern preparation and in leisure. Only After the schedule of internships and placements were given by the CUIC, Reality hit me hard.
+* I was neither a naturally quick learner nor a very brilliant student with quick grasping power.
+* I took my time and did prepare harder and dedicated. I wasn’t able to complete my intern prep when I sat for first few companies especially I found it challenging to complete trees and graphs. But I made sure to prepare constantly. Take SDE sheets from the internet and solve different types of questions in every topic.
+  + Array/Linkedlist (single/double/circular)
+  + Stack/queues (valid paranthesis/ LRU cache etc)
+  + Trees (inorder/preorder/postorder/lowest common ancestor/Height and diameter of the tree)
+  + Graphs (BFS/DFS/Level order)
+  + Recursion/DP/Greedy
+  + Sorting/Searching
+* I used ACM CODE documents for my preparation that comes topicwise.
+* Even though I wasn’t able to solve much of harder problems mentioned in it, I made sure I solved all the easier ones and atleast some of the medium ones in every topic.
+* I did prepare using TUF (Take you forward) website and YouTube videos where you have comprehensive explanation of brute-force, better and optimal approach.
+* I approached seniors for their inputs and sometimes even to rant. Have good set of friends and family who support you through the rough time.
+* Before every online test/ interview, I would read the past internship experiences of that particular company. Learn from mistakes, never repeat the same mistake you already did.
+* Rejections and failing an interview or not clearing an online test did take a toll on self-confidence. But **whenever you fall down, make sure you come back stronger and built better than before.**
+* Internship and placement seasons would be stressful and might even lead to self doubts at times.
+* But hold one belief working hard honestly will always pay you back.

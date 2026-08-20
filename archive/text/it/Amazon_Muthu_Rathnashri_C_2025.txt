@@ -1,0 +1,176 @@
+MUTHU RATHNASHRI C – INFORMATION TECHNOLOGY
+
+SOFTWARE DEVELOPMENT ENGINEER IN AMAZON
+
+About the Company:
+
+Amazon, a global leader in e-commerce and cloud computing, is known
+
+for its customer-centric approach and innovative technologies. Central to its
+"Day 1 culture" is a commitment to constant innovation, agility, and a focus on
+customers. As a software development engineer at Amazon, you’ll work in a
+dynamic environment that values creativity and technical excellence. The
+company emphasizes scalable solutions and robust architecture, impacting
+millions of customers globally.
+
+About the Role:
+
+Software Development Engineers (SDEs intern cum placement) at
+
+Amazon play a vital role in shaping the company’s technology. They design,
+develop, and maintain scalable software solutions that drive Amazon’s services,
+including e-commerce and cloud computing. Their responsibilities include
+optimizing backend systems, enhancing data processing, and developing
+innovative features for applications. By leveraging advanced technologies and
+collaborating with a diverse team, SDEs contribute to Amazon’s innovation and
+operational excellence, ensuring exceptional customer experiences and
+maintaining industry leadership.
+
+Overview of the Process:
+
+The overall process includes
+
+•  An online coding contest in Hackerrank platform
+•  Interview Round (Technical) – online mode (Amazon chime)
+
+Online coding contest in Hackerrank platform:
+
+During my online test, which was conducted on the HackerRank
+
+platform, I encountered two coding questions (1 easy level  & 1 medium
+
+level)focused on algorithmic problem-solving involves array manipulation and
+pattern matching.
+
+Question 1:
+
+Given an array of product costs, the task is to find the number of pairs
+(i,j) where i < j and the sum of the costs is divisible by a given number x.
+
+Example:
+
+Input: x=10, costs = [3, 7, 27, 23]
+
+Output: 4
+
+Explanation: (3,7), (27,3), (7,23), (27,23) these 4 pairs divisible by 10
+
+Question 2:
+
+Given an array of regex strings containing lowercase letters and wildcard
+characters ('?'), the task is to find a common pattern with the minimum
+number of '?' characters. This pattern must intersect with all the given
+strings, meaning the '?' characters can be replaced to form a matching
+string across all patterns.
+
+Example:
+
+Input: n = 3 , Patterns[] = {“bug” , “gub” , “g?a”}
+
+Output: 2
+
+Explanation: Choose “?u?” with 2 question marks.
+
+I have solved both questions. After completing the coding test, they conducted
+HR-type multiple-choice questions. Make sure to carefully read and answer
+each one thoughtfully. Nearly 86 students got selected to next round technical
+interview.
+
+Interview Round (Technical):
+
+This round was purely based on data structures and algorithm. In my panel there
+are 2 members one for asking questions and another person for observing my
+performance during interview.
+
+➢  First, they both introduce about themselves and ask me tell me about
+
+yourself
+
+➢  Then they directly jump into DSA questions since this interview process
+
+help in online mode through amazon chime they have also shared me link
+of liveCode amazon for code during interview.
+
+➢  They asked me two DSA questions and carefully analyzed my approach
+
+to solving the problems, focusing on my choice of data structures and the
+complexity of my code. They also observed how I explained my solution
+during the dry run, specifically inquiring about time and space
+complexity, and asked me to justify my reasoning.
+
+1)  Longest substring without repeating characters.
+2)  Boundary traversal of binary tree.
+
+➢  Before starting to code, I shared my intuition and explained the approach
+I planned to take. After discussing my strategy, I began coding. Once I
+completed the solution, the interviewer asked me to perform a dry run of
+the code to demonstrate its correctness.
+
+➢  At the end of the interview, I was given the opportunity to ask questions.
+inquired about the nature of the work I would be involved in if selected,
+particularly focusing on the responsibilities and tasks at the early stages
+of an internship.
+
+Tips and tricks that I followed:
+
+•  When I came to know that I had been shortlisted for the next round, I
+
+began researching previous interview experiences on Glassdoor and GFG
+archives. This gave me an idea of the areas they focus on.
+
+•  Additionally, in the pre-placement talk, they mentioned that they would
+primarily assess knowledge of data structures and algorithms. Amazon
+typically emphasizes concepts related to Trees and Graphs.
+
+•  Try to solve problems by effectively using dry runs to demonstrate your
+
+problem-solving skills and approach.
+
+•  Clearly explain both the brute-force and optimized solutions, then
+
+implement the optimized one. Ensure you have a solid understanding of
+the time and space complexity of your program.
+
+My preparation strategy:
+
+•  During my two-month leave in the 6th semester, I dedicated myself to
+
+preparing for data structures and algorithms (DSA).
+
+•  I solved daily problems on LeetCode and GFG and participated in virtual
+
+contests to test my skills.
+
+•  I used materials from our seniors for CS fundamentals, ACM CODE, and
+
+Striver’s AtoZ and SDE sheets to strengthen my understanding.
+
+•  In addition to DSA, I made sure to spend at least an hour each day on a
+
+mini project I started during this preparation period.
+
+•  On alternate days, I practiced aptitude questions from IndiaBix to keep
+my problem-solving skills sharp. Throughout this time, I focused on
+staying disciplined and making the most of every moment, avoiding
+distractions and unnecessary tasks.
+
+•  I have spent 1 weeks to study entire portion of our core subjects like OS ,
+
+OOPS, CN, SQL queries, DBMS and DSA.
+
+•  I made it a habit to take notes on every problem I solved, recording the
+
+question, the brute-force approach, and the better and optimal methods to
+solve it. This practice was extremely helpful for quick revision, especially
+in the final moments before an interview.
+
+•  First, focus on solving all easy to medium problems within 45 minutes.
+
+Once you feel confident, start tackling the harder problems.
+
+•  I prefer using Overleaf for creating resumes due to its excellent
+
+formatting and spacing options. A well-formatted resume is crucial for
+making a professional impression and effectively showcasing your skills
+and experience.
+

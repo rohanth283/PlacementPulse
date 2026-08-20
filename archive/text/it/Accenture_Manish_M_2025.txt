@@ -1,0 +1,70 @@
+Intern Drive Experience – Accenture
+Manish M (IT Purple)
+
+About the company:
+
+Accenture is a global professional services company offering services in strategy, consulting,
+digital, technology, and operations. It helps businesses improve performance and navigate
+change through technology and industry expertise. Accenture has a notable presence in India
+and across the globe, working in areas such as digital transformation, cloud, and AI to assist
+businesses in their growth.
+
+Role: Advanced Application Engineering Intern
+
+Round 1 – Cognitive and Technical Assessment:
+
+The test consisted of 90 questions to be completed in 90 minutes. It was divided into six
+sections covering topics like verbal, aptitude, reasoning, pseudocode outputs, MS Office, and
+basics of networking and cloud.
+
+Those who cleared the test proceeded to the coding assessment, which took place immediately
+afterwards.
+
+Round 2 – Coding Assessment:
+
+There were two coding questions, and 45 minutes were provided. Both the questions were
+fairly straightforward and involved arrays and sorting for me. One thing to note is that you had
+to handle both the input and output yourself, rather than just filling in a function as in typical
+tests. Those who are unfamiliar with this can find similar questions on platforms like CodeChef
+and Codeforces.
+
+68 students were shortlisted after this round.
+
+Round 3 – Communication Assessment:
+
+The test took about half an hour and was AI-based. It assessed reading, listening, and speaking
+skills through tasks such as reading sentences aloud, repeating phrases, and retelling a narrated
+story.
+
+This was not an elimination round.
+
+Round 4 – Virtual Interview:
+
+The interview was held online on Accenture’s platform and was 25-30 minutes long. My
+interview was not too technical, focusing instead on general and behavioural questions.
+The interviewer concentrated on my projects, discussing the experiences and skills gained
+while working on them. Apart from that, there were questions about academics, as well as
+some HR-related ones.
+
+Five students were shortlisted for the internship.
+
+Preparation Tips:
+
+  Keep Leetcoding and keep strengthening your DSA.
+  Build a strong resume, highlighting projects, certifications, achievements, and
+
+anything else that adds value.
+
+  Focus on projects and explore trending areas like AI and machine learning.
+  For coding rounds, practice a wide range of problems and participate in contests
+
+across various platforms.
+
+  For interviews, first and foremost, ensure you have a strong resume with solid
+projects. Be thorough with each of your projects and prepare to answer any
+questions about them. Be well-versed in OS, DBMS, OOP, SQL. and have strong
+communication skills. Prepare for frequently asked questions and go through past
+interview questions and experiences.
+
+ALL THE BEST ;)
+

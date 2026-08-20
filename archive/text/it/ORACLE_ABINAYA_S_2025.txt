@@ -1,0 +1,160 @@
+ABINAYA S – INFORMATION TECHNOLOGY
+
+ORACLE PLACEMENT PROCESS EXPERIENCE:
+
+ABOUT THE COMPANY:
+
+Oracle Corporation is a leading global technology company specializing in
+database software, cloud services, and enterprise software solutions. Known for
+its flagship Oracle Database, the company also provides a comprehensive suite
+of cloud computing services, including infrastructure, applications, and security
+solutions. Oracle's significant acquisitions, such as PeopleSoft, Sun
+Microsystems, and NetSuite, have expanded its product portfolio, making it a
+key player in various industries. Additionally, Oracle owns the Java
+programming language and integrates AI and machine learning into its offerings
+to drive innovation and automation.
+
+OVERVIEW OF THE PROCESS:
+
+The placement selection process consisted of several stages, starting with an
+online test, followed by technical interviews, and finally an HR round.
+
+1. Online Test
+
+The first stage was an online test, which was a mix of technical and aptitude-
+based questions. It included:
+
+- MCQs related to Operating Systems (OS), Database Management Systems
+(DBMS), Computer Networks(CN) and Aptitude.
+
+- Comprehension questions to evaluate reading and understanding abilities.
+
+- 1 coding question titled "Efficient Harvest." The question involved calculating
+the maximum profit by selecting segments of data and optimizing it using a
+sliding window technique.
+
+2. Technical Interview-1
+
+The first technical interview began with questions about my resume and a few
+questions like "Tell me about yourself." They focused on checking my
+
+understanding of Object-Oriented Programming (OOP) concepts. The
+interviewer asked me to explain the following with real-time examples:
+
+- Polymorphism
+
+- Abstraction
+
+- Encapsulation
+
+- Inheritance (with a discussion on types of inheritance)
+
+The questions were asked to evaluate not just theoretical knowledge but also the
+logic behind OOP concepts. Additionally, I was asked to compare Array vs.
+Linked List, and there were discussions on the use of `this` pointer and
+`super()`.
+
+For the coding part, I was asked to:
+
+- Find the first duplicated element in an array, for which I had to provide
+brute-force, better, and optimal solutions while discussing their time and
+space complexities.
+
+3. Technical Interview-2
+
+The second technical interview focused on SQL queries and coding. The
+interviewer gave me two database tables and asked me to write several SQL
+queries for like 10-15 scenarios:
+
+- Basic SELECT queries
+
+- ORDER BY, GROUP BY, JOINS, and sub-queries
+
+I was then given an application format and was asked to write HTML and CSS
+code according to specific requirements.
+
+For coding part, the problem was to find the sum of composite numbers from
+1 to `n`. I was again expected to provide brute-force, better, and optimal
+solutions while discussing the efficiency of each approach.
+
+The interviewer also asked me about my project domain (NLP) and the use of
+APIs in my project.
+
+4. HR Interview
+
+The HR interview focused on assessing my communication skills and overall
+personality. The questions included:
+
+- Tell me about yourself
+
+- Strengths and weaknesses
+
+- Details about my project
+
+- Hobbies: I mentioned that I enjoy reading, and I was asked to name a few
+books I had read recently, the author, reasons for choosing those books, and a
+summary of each book.
+
+- My experience with learning the French language was also discussed,
+specifically why I chose to learn it.
+
+The HR interview was mostly conversational to know how well I could express
+myself and my thought process.
+
+TIPS AND TRICKS:
+
+- Platforms like LeetCode, HackerRank, and Codeforces are great for practicing
+coding problems.
+
+- Start with basic data structures like arrays, linked lists, stacks, and queues to
+strengthen your foundation.
+
+- Gradually proceed to complex ones like trees, graphs, heaps, and tries.
+
+- Always analyze the time and space complexity of every problem you work on.
+
+- Develop the habit of solving problems using brute force first, then move to
+better and optimal solutions.
+
+- Maintain a separate notebook to note down key concepts, approaches, and
+solutions.
+
+-I used resources like Striver's A-Z DSA sheets, SDE sheets, and placement
+materials from seniors for preparation.
+
+-Read technical subjects such as OS, DBMS, CN, and OOP, and make note of
+key points for last-minute revision.
+
+- Once shortlisted for an interview, research the company and look for interview
+experiences online or from seniors.
+
+- Prepare for common HR questions and practice speaking to avoid hesitation.
+
+- Always think of optimal solutions (in terms of time and space complexity)
+when solving coding questions.
+
+- Be able to explain OOP concepts like inheritance, polymorphism, abstraction,
+and encapsulation with real-world examples.
+
+- Know how to solve common Data Structures and Algorithms (DSA) problems
+like sorting, searching, and traversing arrays, trees, and linked lists. Be prepared
+to explain the time and space complexity of your solution.
+
+- Practice SQL queries on various scenarios, including joins, subqueries, and
+grouping functions.
+
+- Explain your approach clearly and logically when writing code on a paper.
+
+- Know your project inside-out. Be able to explain your role, technologies used,
+and how you solved specific problems. Be prepared for detailed technical
+discussions on APIs and the domain.
+
+-Practice your self-introduction with your academic background, projects, skills,
+and interests.
+
+-Prepare yourself for question like your strengths and weakness beforehand and
+don’t think of a new answer at the time of interview.
+
+- HR rounds mostly test our communication skills. Stay calm, and answer
+questions about hobbies, books, and languages fluently.
+

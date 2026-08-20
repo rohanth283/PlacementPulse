@@ -1,0 +1,36 @@
+COMPANY : BLUE YONDER ( Product Based - Supply Chain Management)
+
+ROLE : Associate Software Engineer
+
+Placement Drive Experience:
+
+Online Assessment - Aptitude and Computer Fundamentals
+Technical Interview Round 1 :
+
+OOPS Concepts in C++ and DBMS.
+Basics of DSA questions
+Projects that have mentioned in the Resume
+
+Technical Interview Round 2 :
+
+Kind of Technical+Managerial Round
+OOPS Concepts, Computer Fundamentals and he asked questions related to the
+
+skills that I mentioned in the resume
+
+Projects that have mentioned in the Resume
+
+HR Round :
+
+He asked about the strength and weakness and common HR questions
+
+Tips:
+
+Do practice Coding in any of the platforms like LeetCode, GFG,....
+Be Strong in OOPS, DBMS queries+joins, Computer Fundamentals
+DSA - Arrays, Strings ( Try to cover Sorting algorithm, searching - Binary Search, Stack,
+
+queue and basic to medium level DSA questions)
+
+Be Confident and Bold During Interview
+

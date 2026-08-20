@@ -1,0 +1,105 @@
+|     |       |     |             | Citi Placement |        |                | Drive Experience |     |
+| --- | ----- | --- | ----------- | -------------- | ------ | -------------- | ---------------- | --- |
+|     |       |     |             |                | Ganesh | S (2022115035) |                  |     |
+| 1   | About |     | the Company |                |        |                |                  |     |
+Citicorp Services India Private Limited provides financial services. The company offers com-
+mercial vehicle and construction equipment lending, trade advances, loans against securities,
+and consumer loan services. Citicorp Services India serves customers worldwide.
+| 2   | About |     | the Role |     |     |     |     |     |
+| --- | ----- | --- | -------- | --- | --- | --- | --- | --- |
+The PBWM (Personal Banking & Wealth Management) division at Citi focuses on offering
+financialservicesandpersonalizedsolutionstoindividualclients,rangingfromeverydaybanking
+to wealth management and investment services. This division plays a crucial role in managing
+clientrelationships,addressingtheirfinancialneeds,andhelpingthemachievepersonalfinancial
+goals. TheroleinvolvedproductdevelopmentasanApplicationProgrammerwiththetechstack
+| primarily |             | based | on Java. |          |     |     |     |     |
+| --------- | ----------- | ----- | -------- | -------- | --- | --- | --- | --- |
+| 3         | Preparation |       |          | Strategy |     |     |     |     |
+• Focusonmasteringbasic-mediumaptitudequestionsincludingcomprehensions,statement-
+based questions, and mathematical aptitude such as number systems, probability, and
+|     | equations |     | solving. |     |     |     |     |     |
+| --- | --------- | --- | -------- | --- | --- | --- | --- | --- |
+• Strengthentechnicalskillsindatabases(PostgreSQL,MySQL),ObjectOrientedProgram-
+ming (C++ or Java), and common data structures (arrays, linked lists, stacks, queues).
+•
+|     | Practice | coding |     | questions | similar to | those | in placement | tests |
+| --- | -------- | ------ | --- | --------- | ---------- | ----- | ------------ | ----- |
+• Be well-prepared with projects mentioned in your resume, especially coding and database
+|     | management |      | aspects.  |       |            |     |     |     |
+| --- | ---------- | ---- | --------- | ----- | ---------- | --- | --- | --- |
+| 4   | Placement  |      |           | Drive | Experience |     |     |     |
+| 4.1 | Online     |      | Test      |       |            |     |     |     |
+| The | online     | test | comprised | four  | sections:  |     |     |     |
+• Section 1: Basic-medium aptitude questions (14 questions in 14 minutes) involving com-
+|     | prehensions |     | and | statements. |     |     |     |     |
+| --- | ----------- | --- | --- | ----------- | --- | --- | --- | --- |
+•
+Section 2: Mathematical aptitude (16 questions in 16 minutes), including problems on
+|     | number | systems, |     | profit/loss, | probability, |     | and equation | solving. |
+| --- | ------ | -------- | --- | ------------ | ------------ | --- | ------------ | -------- |
+• Section 3: Technical MCQs (12 questions in 15 minutes), which covered program outputs,
+|     | error | correction, |     | and database | management |     | (DBMS) | concepts. |
+| --- | ----- | ----------- | --- | ------------ | ---------- | --- | ------ | --------- |
+•
+|     | Section | 4:        | Coding | questions:  |          |       |         |             |
+| --- | ------- | --------- | ------ | ----------- | -------- | ----- | ------- | ----------- |
+|     |         | – Finding | the    | largest and | smallest | prime | numbers | in a range. |
+– Counting characters in a string that are neither alphabets nor whitespaces.
+| Around |     | 25 students | were | shortlisted | for | interviews | after | this round. |
+| ------ | --- | ----------- | ---- | ----------- | --- | ---------- | ----- | ----------- |
+1
+
+| 4.2 Technical | Interview |     |     |
+| ------------- | --------- | --- | --- |
+The technical interview had two interviewers. Key highlights include:
+• Introduction and project discussion: I explained one of my projects.
+• SQL questions: I created a table in MySQL and discussed SQL injection, including pre-
+vention methods like parameterized queries and filtering operations. I was asked to write
+| the code | for this. |     |     |
+| -------- | --------- | --- | --- |
+• C++ coding: I wrote the Fibonacci series using both recursive and iterative methods to
+| demonstrate | my understanding | of C++. |     |
+| ----------- | ---------------- | ------- | --- |
+•
+API usage: I explained the use of APIs in my project, and I was asked to write code
+for linking Google Maps API, which I implemented using the Oauth library in a Flask
+environment.
+•
+Generalquestions: WhyCiti? WhatdoyouknowaboutCiti? Ialsodiscussedmyfavorite
+| subject, | Java, from the | current semester | in web technologies. |
+| -------- | -------------- | ---------------- | -------------------- |
+Thirteen students were selected for the HR interview from this round.
+4.3 HR Interview
+This round was short for most candidates due to time constraints, but I extended mine by
+preparing well:
+• The interviewer asked if there was anything I had not mentioned in my resume. I shared
+real-world problem-solving projects, which were not part of the coursework projects listed
+on my resume.
+• I discussed my experience with a project aimed at helping the homeless, pitched during
+a 7-day camp organized by Thozhan. The interviewer appreciated my initiative and
+motivation.
+• We also had a conversation about hobbies and work-life balance. The interviewer asked
+what I would be doing if there was no engineering domain, and I answered ”service.”
+In the PBWM domain, 6 students were selected, while 7 students were selected in the ICG
+| (React, Angular | JS-based) | domain. |     |
+| --------------- | --------- | ------- | --- |
+| 5 Tips and      | Tricks    |         |     |
+• CITI usually does not focus heavily on Data Structures and Algorithms (DSA) from
+my experience. Instead, ensure you’re strong in database management (PostgreSQL,
+MySQL), object-oriented programming (C++ or Java), and basic aptitude puzzles.
+• At the same time, have a good grasp of data structures like arrays, linked lists, stacks,
+| and queues | to stay in | a safe zone. |     |
+| ---------- | ---------- | ------------ | --- |
+•
+Do not include skills or projects in your resume if you’re not confident about them.
+• Generate possible questions from your resume and projects, and be prepared to code or
+| explain | anything listed | there. |     |
+| ------- | --------------- | ------ | --- |
+•
+During interviews, even if you’re unsure about something, handle it calmly and politely.
+| Be confident | while speaking. |     |     |
+| ------------ | --------------- | --- | --- |
+• GPA is not everything—if you have a lower GPA, make up for it by shining with extra
+| skills and | eagerness | to learn. |     |
+| ---------- | --------- | --------- | --- |
+2

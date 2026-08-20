@@ -1,0 +1,39 @@
+K Nithya Sree - Information Technology Development/QA/CE intern in Starten Systems
+
+**About the Company**:
+
+Starten Systems develops secure and reliable solutions that are innovative, intelligent, and efficient. With a focus on cutting-edge technologies like cloud-native infrastructure, AI/ML, automation, GUI, and embedded systems, the company thrives on building high-quality software. Their fast-paced, entrepreneurial environment is ideal for individuals seeking to grow in a dynamic workspace. Their development approach integrates CI/CD methodologies for automated delivery, ensuring robust and efficient software solutions.
+
+**About the Role**:
+
+In Development roles, you will be responsible for designing, coding, and implementing software solutions using the latest technologies. QA (Quality Assurance) focuses on testing these solutions to ensure they meet functional, performance, and security standards. This involves creating test cases, identifying bugs, and collaborating with developers to resolve issues. CE (Customer Engineering) supports the deployment and customization of software for clients, ensuring smooth integration and handling technical issues. All roles work closely with cross-functional teams, utilize CI/CD pipelines, and ensure the delivery of high-quality, reliable products.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* Interview Round 1 (Based on Resume Shortlisting)
+* Interview Round 2 (Technical and HR Round) – in CUIC
+
+**Interview Round 1 (Based on Resume Shortlisting):**
+
+In the first interview round, which was based on resume shortlisting, I ensured my projects were clearly detailed. I included all the essential content, focusing on the key aspects and outcomes of each project. The format was well-structured, making it easy for the interviewer to understand my technical contributions and skills. Each project highlighted the technologies used, my role, and the impact or success metrics. By presenting them in a concise yet comprehensive manner, I demonstrated both technical proficiency and effective communication. This approach likely played a role in advancing my application through the process.
+
+**Interview Round 2 (Technical and HR Round):**
+
+In the second interview round, which included both technical and HR questions, I was extensively questioned about the projects I had highlighted in my resume. I explained the sources from where I obtained my datasets, detailing how I accessed open data repositories or used synthetic data generation techniques. When asked about the difficulties faced during the projects, I discussed specific challenges, such as data cleaning and model optimization, and how I implemented iterative problem-solving strategies to overcome them.
+
+The outcomes of my projects were also scrutinized, and I presented quantifiable metrics demonstrating their success, like accuracy improvements and user engagement statistics. Questions regarding teamwork included how I coped with diverse opinions and facilitated collaboration through regular communication and feedback.
+
+On the technical side, I faced questions about Object-Oriented Programming (OOP) concepts, where I explained polymorphism and inheritance, including the diamond problem scenario. In networking, I was asked about the TCP/IP protocol, and in operating systems, I discussed real-time operating systems (RTOS), interrupts, scheduling types, and their applications.
+
+During the HR portion, I addressed my adaptability to new situations by sharing examples of how I quickly acclimated to new technologies and methodologies. I articulated my expectations for growth within the company and discussed my commitment to continuous learning through online courses and workshops to upskill myself regularly.
+
+**MY PREPARATION STRATEGY:**
+
+* I started my preparation during the 6th semester, utilizing the 2-month holiday effectively to focus on key concepts and skills.
+* I leveraged Striver's playlist, which provided a structured approach to problem-solving and data structures.
+* Alongside this, I practiced coding problems on platforms like LeetCode and HackerRank to build my algorithmic skills.
+* Set a daily study schedule, dedicating specific hours to theory and practice to ensure balanced preparation.
+* Reviewed previous year’s interview questions to understand the types of queries commonly asked.
+* Meanwhile sought guidance from seniors who had already navigated the interview process successfully, benefiting from their insights and experiences.

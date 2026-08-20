@@ -1,0 +1,111 @@
+Barclays Technology Summer Intern – My
+Interview Experience (2025)
+
+Purushothaman V
+
+2023115035
+
+Contact:9677257928
+
+LinkedIn
+
+About the Company
+
+Barclays is a leading global bank, founded in 1690 and headquartered in London. It
+operates across more than 40 countries and offers services in retail, commercial, and
+investment banking. In India, the Barclays Global Service Centre supports its worldwide
+operations with cutting-edge technology and innovation.
+
+Selection Process
+
+The recruitment had three main rounds:
+
+1. Online Assessment
+
+  Total 25 questions.
+  20 MCQs:
+
+o  Topics included C++, Java, OOPs concepts, DBMS, and output prediction
+
+from code snippets.
+
+  5 SQL questions:
+
+o  Required writing queries (joins, subqueries, etc.).
+
+This round tested both programming fundamentals and database knowledge.
+
+2. Technical Interview (20–25 minutes)
+
+The panel started with an introduction and project discussion.
+
+Questions I faced:
+
+  Tell me about yourself.
+  Explain your projects.
+  Why did you choose the tech stack for your project?
+  Project-related follow-up questions.
+  Write two SQL queries on paper:
+
+o  One using JOIN
+o  One using a SUBQUERY
+
+ (I was able to answer both).
+
+  Do you know Python? (I said I’m at an intermediate level, and they asked a few basic
+
+Python questions).
+
+3. HR Interview (taken by another panel member, lasted ~30 minutes)
+
+The HR was also technical in nature, but with additional general questions.
+
+Questions I faced:
+
+  Tell me about yourself again.
+  More questions about my project.
+  Questions about  GitHub .
+  Given a bar chart of developer workloads, I was asked to write Python code .
+  General HR questions like:
+
+o  What do you do in your free time?
+o  Difference between ChatGPT and DeepSeek.
+o  Do you use AI? Do you think it is useful?
+
+Preparation Tips (From My Experience)
+
+1.  DSA & Programming Basics
+
+                          a. DSA Preparation: Follow Striver's DSA sheet for DSA Preparation
+
+                           b.Revise OOPs ,OS,DBMS fundamentals.
+
+2.  SQL Practice
+
+a.  Be very comfortable with JOIN, GROUP BY, SUBQUERIES.
+b.  Practice writing queries .
+
+3.  Projects
+
+a.  Know your project inside-out.
+b.  Be ready to explain why you chose your tech stack and what could be
+
+improved.
+
+4.  Python & AI Awareness
+
+a.  If you mention Python/ML in your resume, expect practical questions.
+b.  Stay updated on AI tools and current tech trends.
+
+5.  HR Prep
+
+a.  Prepare a clear “Tell me about yourself”.
+b.  Be ready for general questions about hobbies, teamwork, and using AI tools.
+c.  Answer confidently, even if you don’t know everything.
+
+Final Note
+
+The interviewers were very friendly and made the whole process stress-free. My biggest
+takeaway is that Barclays focuses not only on technical skills but also on how you
+explain your projects and adapt to new technologies like Python and AI.
+

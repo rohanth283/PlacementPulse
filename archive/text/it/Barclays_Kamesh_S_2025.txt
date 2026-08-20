@@ -1,0 +1,45 @@
+**Kamesh S – INFORMATION TECHNOLOGY
+Barclays Intern**
+
+**About the Company:**
+ Barclays is a major multinational bank and financial services company headquartered in London, United Kingdom. Founded in 1690, it is one of the oldest banks in the world with a rich history in the financial sector. Barclays operates in over 40 countries and provides a wide range of financial services, including retail banking, commercial banking, investment banking, and wealth management. They are actually the first company to introduce credit cards in the UK. Barclays Global Service Centre, India is a global capability centre providing best-in-class Technology, Operations, and Functions services to Barclays businesses and customers globally.
+
+**Overview of the process:**The overall process consists of:
+ • Online round (MCQ questions, coding question, and SQL question) (Online)
+ • Interview round -I (Technical & HR) (Offline)
+ • Interview round -II (Based on resume) (Offline)
+
+**Online Round:**
+ • In this round, there were MCQs from the basics of OOPs, especially Java, and some questions in SQL.
+ • One medium-level programming question, with no restriction on the programming language.
+ • One basic SQL question, again with no restriction on the language used for coding.
+
+**Technical Round:**
+ • For me, this round lasted about 20 minutes.
+ • They asked about the resume. Make sure to know every single point in your resume.
+ • The questions were technical: What was your role in the project? What programming languages do you know? Explain each project. What languages have you studied on your own?
+ • They also asked if I had experience with cloud technology and how I used it in my projects.
+ • Since Barclays is a fintech company, they asked simple questions about stocks to test basic knowledge.
+
+**HR Round:**
+ • After 2 hours, they told me I had the HR round (sometimes there is only one round where the technical round includes HR).
+ • This round lasted about 20+ minutes.
+ • Before this round, make sure to know about Barclays' Values (RISES).
+ • They asked me to introduce myself and posed a single question:
+ • What would you do if your team member is not completing his job on time but is trying to do his work?
+ • Here, they looked into how I would solve the problem in different ways and wanted multiple answers.
+
+Finally, they announced the result: 14 of us were selected from 29 students.
+
+**Tips:**
+ • Don’t worry too much about the interview; make sure to have a strong answer for "Tell me about yourself?" since it is the first question, and it sets the tone.
+ • Learn OOP concepts thoroughly and be able to connect them to real-world examples.
+ • Know basic SQL queries, especially if you've claimed knowledge of databases. Be prepared to discuss normalization, procedures, triggers, and possibly code.
+ • Be familiar with basic OS concepts like booting, boot loader, page table, IPC, etc.
+ • If you've used any cloud-based database like Firebase, make sure to know the cloud basics.
+ • Finally, know every part of your resume. If you've mentioned that you are good at explaining concepts, they might ask you to teach them. If you've mentioned that you write poetry, they might ask you to write a poem!
+ • If you feel tense during the interview, take a deep breath.
+
+If you have any doubt in the questions, make sure to ask with the interviewer.
+
+LinkedIn: [Kamesh S](https://www.linkedin.com/in/kamesh-s-194384247/)

@@ -1,0 +1,25 @@
+ROHAN SRIDHAR
+
+2020115067
+
+COMPANY NAME: STANDARD CHARTERED GLOBAL BUSINESS SERVICES
+
+ABOUT THE COMPANY:
+
+SCB is a bank. It’s a product-based company so all their projects are for their own purposes. In Chennai, most of the roles are related to full stack development, automation testing and devops. Bangalore has some projects related to data engineering. Work culture is very chill and wfh option is given. They might ask you to come once or twice a week. It depends on your team. First 2 months training is a headache though so you can enjoy only after the training period.
+
+ABOUT THE ROLE:
+
+I haven’t been assigned my role yet. I’m still in training, or, as they call it, the bootcamp. During my internship here I was in the automation testing team. We had to create test scripts using cucumber framework and genie (java-selenium). Chances are, I’ll be assigned to the same or similar role as my internship.
+
+PREPARATION STRATEGY:
+
+I didn’t do anything special. Just practice leetcode and hackerrank for the OA. Brush up on core computer science concepts in OS, algorithms and data structures. Interview questions were very easy only.
+
+PLACEMENT DRIVE EXPERIENCE:
+
+Im not sure I remember the order correctly but we had a hackkerrank test (your standard 2 questions and mcqs) and we had a behavioral assessment which is a set of what would you do situation questions. Read the question and take your time while answering. Always choose the option like you’re pretending to be the most well-behaved boy/girl in your friend’s house. After that there is a psychometrics test. It supposedly captures your personality and they check if you’re gonna be a match for their work environment. It’s a series of games so you don’t have any control on the outcome. Don’t worry about it. The actual physical technical interview was easy. He asked me about my resume. He asked what my favorite subject was. I told him “Algorithms” and he asked me questions related to that like “explain binary search”, “difference bw array and linked list and where they are used”. For me, there was just one technical interview then my HR interview was very basic. She asked me where I am from, any plans of higher studies, etc.
+
+TIPS and TRICKS:
+
+None that I can think of. Honesty during interviews is important. Just be nice and keep your cool always.

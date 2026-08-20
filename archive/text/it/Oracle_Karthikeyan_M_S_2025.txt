@@ -1,0 +1,71 @@
+| KARTHIKEYAN |              |        | M S       | - Information |            | Technology |
+| ----------- | ------------ | ------ | --------- | ------------- | ---------- | ---------- |
+|             | –            | Oracle | Interview |               | Experience |            |
+| About       | the Company: |        |           |               |            |            |
+Oracle is leading the digital revolution by helping nearly half amillionbusinessessucceedinaworld
+of growing connections.ThecompanyoffersspecializedsolutionsthroughnineGlobalBusinessUnits
+(GBUs) that focus on different industries such as Retail, Communications, Utilities, Construction,
+Financial Services, Health, Food & Beverages, and Hospitality. Known for its innovative software,
+Oracleisamajorplayerinthesefieldsandcontinuestoshapethefutureoftechnology.
+| Overview | of the | Process: |     |     |     |     |
+| -------- | ------ | -------- | --- | --- | --- | --- |
+Theoverallprocessconsistedof
+| ●      | AnOnlinecodingcontestinHackerrankplatform |               |     |           |     |     |
+| ------ | ----------------------------------------- | ------------- | --- | --------- | --- | --- |
+| ●      | InterviewRound1(Technical)–inCUIC         |               |     |           |     |     |
+| ●      | InterviewRound2(Technical)–inCUIC         |               |     |           |     |     |
+| ●      | HRRound                                   |               |     |           |     |     |
+| Online | coding contest                            | in Hackerrank |     | platform: |     |     |
+Thecodingroundwasdividedintosections
+● AptitudeMCQ
+● MCQonEnglish
+● 1codingQuestion
+The coding question I got was based on Arrays and it was quite simple only.Makesurethat
+you submit your answer soon. ForMCQsdon’tspendtoomuchtimeifyoudon’tknowany1
+or2questions.Timeplaysamajorroleinshortlistingfromonlineassessments.
+| Interview | Round | 1 (Technical): |     |     |     |     |
+| --------- | ----- | -------------- | --- | --- | --- | --- |
+In the first round I got questions from topics like OOPS, DBMS, 1 Mathematical Aptitude
+question, and a question from HTML CSS. In my resume I mentioned that I'm good atLinux
+and after seeing that the interviewer startedaskingalotofquestionsfromlinux.Aftersome
+easy and moderate questions, I got 2 hard questions fromlinuxcommandsforwhichIknew
+only halfoftheanswerandItoldtheinterviewerthatIdon't knowtheanswerfully.Thenhe
+asked me to write the search query i will use to search for the solution in google. He also
+asked me on a scale of 5 how I would rate myself in linux skill and I answeredas3outof5.
+The interview took around 45 mins and at last he asked if I had any questions for himandI
+
+asked2questionsthataroseinsidemeduringthePPT.Pleasenotethatthecomplexityofthe
+questionsaskedwillvaryfordifferentpanels.
+Interview Round 2 (Technical):
+The second round took around 1 hour. The first question was what was my favourite programming
+language and then the question shifted to the difference between Java and C++. Iwasalsoaskedto
+drawtheflowdiagramofthelifecycleofajavaprogramfromsourcecodetooutput.
+Then the topic shifted to the projects that I've mentioned in my resume. I was asked to explain my
+favouritepartofmyproject.
+To my surprise, he was also interested in my linux skills and asked the same 2 questions that were
+asked in the first round. Luckily i already referred the solutionforthosequestionsinmylunchbreak
+soigotthebounty
+Then came the DSA part. I was not asked to write code for any questions, rather he told me to
+explain the difference between any tree and a graph. I tookBinarySearchTreevsGraph.Irandomly
+chose some numbers and insertedtheminthedatastructuresandIperformedsearchoperations.In
+the graph I explained aboutBFSandDFSandthatwasallaboutmyDSApartinmyinterview.Againit
+depends onyourinterviewer.Iheardthatmyfriendgotaround10codingquestionsinthe2ndround
+inadifferentpanel.
+After that I got a Verbal aptitude questionandthenaLogicalAptitudequestion.AtrickIwillsuggest
+is to interact with people who finished some rounds of the interview. Because Ifoundthataptitude
+questionskeptonrepeatingamongthedifferentpanels.
+HR Round:
+Itwentforaround10mins.Thequestionswhere
+● Tellmeaboutyourself
+● whatisyourweakness
+● Tellmeaboutatimewhenyoufeltveryhappyinyourlife
+● Doyouhaveanyquestionsforme?
+andthat'sit.
+TIPS:
+● Finishtheonlinetestassoonaspossible
+● Neverputanythinginyourresumewithoutknowingaboutit
+● It's helpful to put unique things in your resume to stand out of thecrowdbutmake
+surethatyouhaveastrongfoundationonit
+● Interactwithfellowpeoplewhofinishedanyroundsbeforeyou
+● Askquestionstotheinterviewer
+● Keepcoolanddon'tgettensed

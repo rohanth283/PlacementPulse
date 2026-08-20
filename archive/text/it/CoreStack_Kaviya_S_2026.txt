@@ -1,0 +1,67 @@
+**CORESTACK INTERVIEW EXPERIENCE**
+
+**About CoreStack:**
+
+CoreStack is a AI-powered NextGen Cloud governance platform that mainly focuses on cost optimization and security. It helps us manage all our cloud resources under a single platfrom.
+
+**About the role:**
+
+CoreStack has four main domains namely CloudOps, FinOps, SecOps and AppSecOps, under this they do have Quality Assurance and Customer success management team. We will get a chance to work in any of their products under this team. No specific role was mentioned during the hiring process.
+
+**Selection process:**
+
+There were three rounds.
+
+Online coding round
+
+One technical and one techno-managerial round.
+
+**Round 1:Online test**
+
+There were two coding questions in which python was the only option given.
+
+One SQL question was asked which was hard to solve.
+
+**Round 2:Technical interview(Virtual)**
+
+Asusual the first question was to explain the projects mentioned. Then since I had mentioned python in my resume, the interviewer sent me a json file having name, mail\_id, password and mobile\_number and he asked me to extract name and mail\_id and store it in another file.
+
+I used pandas to solve this efficiently.
+
+Since this is a cloud based company they asked to deliver my cloud knowledge and I spoke about cloud service models, cloud governance, cloud networking, AWS, Azure and GCP. That’s all about the first round and finally he ended up by asking do you have any questions. (Prepare something interesting to ask)
+
+**Round 2:Techno-managerial round(Virtual)**
+
+Vice President began the interview by letting me to introduce myself and he asked about my family.
+
+He asked some basic questions on Polymorphism and its real life examples, How does a binary search work.
+
+He also asked on Availability zones in cloud which I was not sure to answer.
+
+**Preparation strategy:**
+
+Prepare according to the company you attend and remember to check experiences in GFG, Glassdoor and interviewBit.
+
+**Previous interview list:**
+
+Wells Fargo (I was not strong in technical python)
+
+Trimble(I was not able to solve aptitude and logical array problem)
+
+Ramco(I cleared the first round but the second round was graph and so I couldn’t clear it)
+
+**Suggestions and Tips:**
+
+Don’t lose hope, try your’e level best.
+
+What is meant to be your’s will always be your’s.
+
+**Contact Information:**
+
+Kaviya S
+
+6380990949
+
+Kaviya4003@gmail.com
+
+**All the best!!**

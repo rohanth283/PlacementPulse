@@ -1,0 +1,63 @@
+Placement Experience
+
+Introduction:
+
+Name : Sasikumar N
+
+Branch : IT
+
+Graduation Year : 2024
+
+Company Placed : Standard Chartered GBS
+
+Role : Development Engineer
+
+Selection Process:
+
+Round 1:
+
+For  me  the  round  was  the  technical  round  in  which  they  asked  me  to  design  the
+problem statement they had given
+
+PS: Need a design a system for the persons waiting in the lobby for an interview in
+which the time is allotted for 30mins. If the interview has not completed within the
+given  time  a  notification has  to  be  sent  to  the  interviewer  and  after  30  mins that
+person name has to be deleted in the waiting list and to put in the completed list.
+
+Solution: Database Design in which the concepts of triggers and procedures to be
+used for notification.
+
+and basic SQL queries and my current project working
+
+Round 2:
+
+No technical Questions were asked. Only general questions
+
+Asked about any Experience in AI & ML and IOT related stuff
+
+Round 3:
+
+Full personal questions and nothing related to tech or general questions
+
+Tips:
+
+Constantly  do  coding  in  any  of  the  online  platforms  like  leetcode,
+
+hackerrank, codecheef.
+
+Start with easy and then gradually progress to medium and hard.
+
+Top  companies  may  go  for  tough  questions  but  mostly  questions  will  be
+
+easy to medium.
+
+Don’t  get  too  stressed  for  missing  companies,  obviously  with  some  little
+
+efforts you can get placed easily.
+
+Include  what  you  know  confidently  in  the  resume.  Mostly  interviewers
+
+won’t prepare questions themselves. Upon seeing your resume they ask questions.
+
+-------------------------------------------- All the Best! ---------------------------------------
+

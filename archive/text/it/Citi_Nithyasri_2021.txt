@@ -1,0 +1,28 @@
+Name: Nithyasri
+Register Number: 2018115063
+Company: Citi Corps
+Month and Year: September, 2020 (Internship+PPO)
+
+The selection process was held in three rounds.
+
+Online Round:
+This round had an aptitude and coding portion. There were two coding questions to be done
+on the amcat platform.
+
+Technical Interview:
+Started with an icebreaker, Tell me about yourself.
+Asked which language I was comfortable in.
+Asked about polymorphism.
+Asked about malloc, calloc
+Asked for the logic to rotate a matrix through 90*n degrees
+Asked about previous internships and projects
+Asked about the SRP(Socially Relevant Project) we were doing that semester
+Asked about ideas for FYP
+
+HR Interview
+Spoke about general topics, like hobbies and favourite books
+Complete walk through of the resume
+Asked why I would want to work in citi - Fintech, rather than a product company like
+Amazon.
+Asked how I used my  time in Lockdown.
+

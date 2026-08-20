@@ -1,0 +1,152 @@
+Interview Experience
+
+Name: Praghadeesh.S
+
+Reg No: 2018115069.
+
+Email: meetpragha@gmail.com
+
+Company: Tata Digital.
+
+Resume:
+
+S.Praghadeesh_resume.pdf
+
+Tata Digital’s recruitment process had 3 rounds.
+
+Round 1: Coding Round
+
+This round had 6 questions which includes 3 mcqs(technical questions)
+
+and 3 questions(coding questions) which was conducted in Hackerrank
+platform. The questions weren't the same for all.
+
+I got two coding questions (Easy and Medium) and an SQL query to find
+
+the 7-day Moving-average of sale of an item(Medium level). Those students
+who solved all the questions were shortlisted for the next round.
+
+Round 2: Technical Interview
+
+The shortlisted students received mails for the interviews. The interview
+
+was conducted in Microsoft Teams and of 40 minutes duration. There were
+two interviewers and both of them were very kind and helpful throughout the
+interview.
+
+Initially, I was asked to introduce myself. Since I mentioned OOPS as one of my
+areas of interests, I was asked questions regarding OOPS. The following are the
+questions:
+
+1. What is OOPS and why do we need OOPS?
+2. What are the features of OOPS?
+3. What is the difference between Encapsulation and Data Abstraction.
+4. Then a detailed discussion about data abstraction.
+5. What is abstract class,abstract methods?
+6. Difference between abstract class and interface?
+
+Then he came to my next interest which is Data Structures.
+
+1. He asked me about Linked List and he asked me to create a linked list
+(1->2->3->4->5) from scratch. After coding, he asked me to give a brief
+explanation of the code.
+
+2. He asked me to find the middle element of that linked list. I gave him
+two solutions and I was asked about the time complexities of both.
+
+Then the other interviewer asked me about DBMS(which was also one of my
+areas of interests that I mentioned in my resume). Some of the questions were:
+
+1. What is DBMS? Why do we need DBMS?
+2. What is Normalization?
+3. What is a Sub-Query ?
+4. What is ETL (Data Warehouse)?
+5. What do you know about JOINS? Explain in brief about the types of
+
+JOINS.
+
+6. What is INNER JOIN and explain it with an example?
+7. SQL-QUERIES:
+
+a) How to create a table with the schema of an existing table?(I was
+asked to create tables with the data of the existing table and
+without too. The query was asked to explain in detail and she
+asked various questions in the query.)
+b) What is the operator for pattern matching?
+c) How do you extract a particular string from a string(Eg. “Pragha”
+
+from “Praghadeesh”)? I was asked to write a query for it.
+d) Questions on the aggregate methods and also on “Group by”
+
+clause.
+
+8. What do you know about Cloud computing?
+
+The overall interview was based on my areas of interests but DBMS was asked
+to every student. The technical interview was of Medium level.
+
+Round 3: Managerial/HR Interview
+
+Those students who cleared the interview got a phone call and
+then the managerial interview was scheduled. There were 2 interviewers
+who interviewed me. Interview was  conducted in Microsoft Teams.
+Questions were very tricky to answer but the overall interview was good.
+
+Some of the questions were:
+
+1. Tell me about yourself that wasn't on my resume.
+2. What technology do you like and why?
+3. A detailed talk about my project and the technologies used. After
+
+all my explanation, he just asked me if that project could be
+successful when deployed in real life.
+
+a.
+
+I answered in a polite and in a positive way. I said that was a
+big one for me because we worked hard as a team because
+of the limited time. Since many technologies were used in
+that project, we explored a lot and learnt a lot in this project.
+Moreover, that project can be considered as a base of my
+future career. (He was impressed by the way I answered).
+
+4. Since I mentioned cryptocurrencies in my resume, I was asked
+questions regarding that. He asked me the following questions,
+
+a. There are a lot of cryptocurrencies right now and according
+to you which currency is the best and why is that the best.
+
+b. Who invented the first cryptocurrency?
+c. A small talk about cryptocurrency trading and my trading
+
+journey.
+
+5.
+If you were Sundar Pichai, what would you change in Youtube?
+6. What would you do if you get an unusual error and nobody is there
+
+around you and you don’t have Internet access?
+
+7. You are the team lead for a project. The project is completed and
+tested and ready for deployment in 2 weeks. The client suddenly
+needs to change/add something. What would you do in such a
+situation?
+
+8. What do you know about Agile and waterfall models?
+9. What do you know about Tata Digital?
+10.Why do you want Tata Digital?
+
+Overall experience:
+
+The interview was overall good and medium level questions were
+asked. In the technical interview, I didn’t know a few questions and I said
+them in a polite way.(Even if you guys don’t know any question, tell them
+politely that you aren’t aware of that and you will explore that soon). The
+managerial round was completely of situational questions and
+
+approaching everything in a positive way helped me clear the interview.
+Be strong with the areas of interests that you mention and also with your
+resume.
+
+ALL THE BEST!
+

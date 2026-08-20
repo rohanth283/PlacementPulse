@@ -1,0 +1,78 @@
+![Decoding the Amazon Logo: Meaning and Design Secrets](data:image/png;base64...)
+
+Amazon Interview Experience
+
+Intern + FTE (Based on performance)
+
+* Stephen T(2022115017)
+
+About Amazon:
+
+Amazon is one of the world’s largest technology-driven companies, founded in 1994 by Jeff Bezos. What started as an online bookstore has grown into a global leader across e-commerce, cloud computing, artificial intelligence, digital streaming, and logistics technology. Amazon operates with a strong customer-first philosophy, focusing on speed, reliability, scalability, and innovation.
+
+On the software and technology side, Amazon is best known for Amazon Web Services (AWS), which powers millions of applications worldwide. AWS provides services such as cloud storage, computing, databases, networking, serverless architectures, and AI/ML platforms. Internally, Amazon builds highly scalable distributed systems using microservices, big data, and automation to support products like Amazon Prime, Alexa, and Fire TV.
+
+About the Role:
+
+The Software Development Engineer (SDE) Intern role at Amazon gives students hands-on experience by working on real-world software projects that impact customers. Interns design, code, test, and deploy solutions while collaborating with experienced engineers through code reviews and design discussions. With strong mentorship and learning resources, the internship helps interns grow technically and professionally and can lead to a full-time SDE role.
+
+Selection Process:
+
+* An Online coding contest in Hackerank platform
+* Interview Round 1 (Only DSA & Problem Solving)
+
+Round 1: Online Assessment
+
+[ 90 mins]
+
+In the Amazon online assessment conducted on HackerRank, I was given two coding problems of medium to hard difficulty. These questions tested core concepts such as arrays, strings, dynamic programming, graphs, prefix sums, and binary search.
+
+A key highlight of the Amazon online test is the inclusion of behavioral questions after the coding section. Even if all test cases are not fully cleared in the coding problems, strong performance in the behavioral section can greatly improve the chances of being shortlisted.
+
+I solved one out of the two coding problems, and I carefully answered the behavioral section, taking time to ensure my responses were clear and well thought out.
+
+Round 2: Face to face Interview
+
+[ 60 mins]
+
+Two batches of interviews were conducted. The first batch was held in virtual mode, and the second batch was a face-to-face interview conducted at Sathyabama College. I was part of the second batch.
+
+I was interviewed by two panel members. There was no introduction, and my resume was not asked for. Right from the beginning, they started with DSA questions. I was given a pen and paper, and they asked which programming language I was familiar with. I said C++, and they asked me two questions:
+
+1.Find the last non-repeating character in a string.
+
+2.Check whether a cycle is present in a linked list. If present, return the starting node of the cycle.
+
+First, they asked me to write test cases covering possible edge cases (a minimum of three test cases) for each problem. Then, they asked me to solve the problems step by step. I was required to dry run each of those test cases in detail with the code. Additionally, they asked me to solve the problems using an alternative approach in the same manner. For both approaches, I was also asked to explain the time and space complexity.
+
+My Preparation Strategy:
+
+For DSA preparation, I followed Striver’s sheet and practiced solving problems on LeetCode. I also attended a few contests conducted by my ISTA. For SQL, I solved problems on LeetCode, and for Operating Systems, I mainly learned by going through interview questions on GeeksforGeeks.
+
+Previous Interviews list:
+
+Trimble, Wex, Aptiv, Codestax, Siemens, Ramco, and Zoho(results not published)
+
+Key Suggestions and Tips from My Experience:
+
+Begin your preparation well before the semester holidays. Once the placement drives begin, there will be very little time left for focused preparation. Use the semester holidays to properly understand core concepts and strengthen your fundamentals.
+
+For technical questions, make sure to explain the concepts in detail and support them with simple, real-world examples. Try to cover all the related concepts you are familiar with that are relevant to the question. Additionally, be very clear about the technologies and tech stacks you have used in your projects, and ensure you thoroughly understand every term and skill mentioned in your resume.
+
+The way you present your thoughts is very important, and it may be challenging at first. With practice, try to improve how clearly and confidently you communicate your ideas.
+
+Feel free to contact for any queries
+
+Contact Information:
+
+*Name: Stephen T*
+
+*Mobile No: 6385734036*
+
+*EmailId: stephenthomes55@gmail.com*
+
+*LinkedIn:* [*Stephen\_T*](https://linkedin.com/in/stephenthomes)
+
+Resume:
+
+![](data:image/png;base64...)

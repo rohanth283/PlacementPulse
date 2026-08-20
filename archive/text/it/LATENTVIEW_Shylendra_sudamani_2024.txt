@@ -1,0 +1,20 @@
+https://www.latentview.com/about-us/
+
+Preparation strategy/tips and tricks:
+
+Pretty much what you’d do for any data analytics interview, do coding problems (methods maybe). The company prefers people who have an ai
+or data science course certificate. Make sure you know atleast the basics of sql and excel as well
+
+Placement drive experience:
+
+Online test- was pretty easy but you might want to be truthful with the generic questions and technical questions are pretty easy if you follow
+prep strategy from above.
+
+GD- talk. Try to talk whenever you get a chance. Does not mean you should interrupt others when they are talking. Be cordial. Just generic gd
+stuff
+
+Technical interview: Try to keep it a conversation. Ask questions, doesn’t matter how trivial, that gives them an impression on your impression.
+
+HR interview: again, ask questions. When asked about your preferences, don’t be scared to voice out your opinions. They are usually open to
+suggestions
+

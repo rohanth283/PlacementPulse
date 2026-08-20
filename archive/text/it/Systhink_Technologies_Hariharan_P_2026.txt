@@ -1,0 +1,232 @@
+Hariharan P: Information Technology  (2022 -2026)
+
+Systhink Technologies Interview Experience
+
+About Systhink Technologies:
+
+Systhink  Technologies  is  a  rapidly  growing  engineering  and  IT
+solutions  provider  specializing  in  Model-Based  Design  (MBD)  and  Model-
+Based  Systems  Engineering  (MBSE).  It  offers  a  wide  range  of  services,
+including engineering automation, tool development, systems integration,
+data  analytics,  machine  learning,  and  full-cycle  software  development
+across  various  domains.  With  a  strong  focus  on  system  thinking,  the
+company  delivers  cost-effective,  high-quality  solutions  tailored  to  client
+needs  through  close  collaboration  and  timely  execution.  Backed  by  an
+experienced  team  with  over  20  years  of  expertise,  it  emphasizes
+innovation,  advanced  technologies,  and  a  holistic  approach  to  solving
+complex  engineering  problems,  establishing  itself  as  a  trusted  partner  in
+engineering and IT automation solutions.
+
+About the Role:
+
+The  specific  role  was  not  defined  during  the  interview  and
+written test stages. During the HR round, it was communicated that
+the role would be assigned as either a Full Stack Developer or a Data
+Analyst  based  on  individual  performance  and  the  company’s
+requirements, following the completion of a 4-month training period.
+
+Selection Process:
+
+1. Written Test (30 MCQ About Aptitude & Logical answering
+& 2 Program writing (1. Problem Solving (Find LCM of 3
+numbers , 2. Oops related Question))
+
+2. Technical Interview -1
+3. Technical & HR Interview
+
+Round 1: Written Test                              [ 90 mins]
+
+A total of 158 students participated in the written test. The test
+comprised  30  multiple-choice  questions  focusing  on  aptitude  and
+logical reasoning, assessing problem-solving ability, numerical skills,
+and  analytical  thinking.  In  addition  to  the  MCQs,  there  were  two
+programming questions: one problem-solving task (finding the LCM
+of
+three  numbers)  and  another  based  on  Object-Oriented
+Programming (OOP) concepts, designed to evaluate coding skills and
+understanding of core programming principles.
+
+Round 2: Technical Interview -1
+
+Mode :-  Offline At CUIC
+
+Duration :- 40 mins
+Number of Shortlists:- 20
+
+The interview was conducted by a panel of three members, including one
+HR representative. It began with the HR introducing themselves, followed
+by  asking  me  to  introduce  myself.  I  was  also  asked  about  my  family
+background,  and  how  I  balanced  my  academics  with  extracurricular
+activities. I mentioned my experience as an office bearer in more than 8
+clubs  during  my  third  year,  which  led  to  further  discussion  on  time
+management. I was also asked about my short-term and long-term goals.
+
+The interview then moved into the technical segment, where the following
+topics and questions were covered:
+
+•  Questions on database concepts, including explaining triggers and
+
+providing a real-time use case.
+
+•  Explanation of lambda functions and their applications.
+
+•  An  aptitude  problem  involving  ratio  and  coin  distribution  to  test
+
+logical thinking.
+
+•  Basic  questions  on  Object-Oriented  Programming  (OOP)
+
+concepts.
+
+•  Questions based on my resume regarding my experience with AWS
+
+and Google Cloud, including where and how I used them.
+
+•  A detailed explanation of my final year project.
+
+•  A Data Structures and Algorithms (DSA) question on finding the
+
+GCD of 5 numbers.
+
+•
+
+I  was  asked  to  walk  through  my  approach  to  one  of  the
+programming problems from the written test.
+
+•  A conceptual question on why static variables were used instead
+
+of normal variables in my solution.
+
+The  interview  concluded  with  the  panel  asking  if  I  had  any  questions  for
+them.
+
+Round 3: Technical & HR Interview
+Mode: Virtual (via Zoom) with the Director of the organization (attended
+at CUIC)
+Duration: 30 minutes
+Number of Shortlisted Candidates: 8
+
+This round was conducted by the Director and included both technical and
+HR discussions. It began with general questions such as introducing
+myself, explaining my family background, and discussing my short-term
+and long-term career goals.
+
+The technical discussion included:
+
+•  Explaining class and object concepts with real-time examples to
+
+assess my understanding of OOP fundamentals.
+
+•  Questions on React, specifically why React is preferred over plain
+
+JavaScript, focusing on its advantages and use cases.
+
+•  Discussion on my knowledge of cloud services, including
+
+practical exposure and applications.
+
+•  A problem-solving question in Data Structures and Algorithms
+
+(DSA) on selecting the N minimum elements from random
+numbers, testing my logical and coding approach.
+
+In the HR segment:
+
+•
+
+I was asked “Why should we hire you?”, where I explained my
+technical skills, experience with SaaS projects, participation in CTFs,
+and my involvement in various extracurricular activities.
+
+The interview was comprehensive, evaluating both my technical
+knowledge and overall personality, communication, and problem-solving
+abilities. Finally they Hired 2 students .I’m One of that.
+
+My Preparation Strategy:
+
+•  For DSA, I followed the Striver DSA Sheet & ISTA Preparation
+
+•
+
+materials to revise important coding problems .
+ For DBMS, I practiced from InterviewBit, GeeksforGeeks (GFG),
+and TakeUForward.
+
+•  For OS, I revised key concepts from GFG.
+•  For OOPs, I focused on core concepts and implementations.
+•  Be Confident in What you mention in your Resume. Be Fair and Stay
+
+Positive. Also Study System Design concepts.
+
+•  My extra curricular Experiences helps me more in this
+
+interview.Have there atleast one extra curricular activities.It Help
+you more in your interviews.
+
+•  Always have a attitude to learn from failures because this was my
+
+14 th interview in my placement journey.
+
+Previous Interviews list (optional):
+
+•  Intern
+
+1. Barclays
+2. Amex
+
+•  Placements
+
+1. Trimble (Cleared 2 Rounds)
+2. Aptiv (Cleared Technical Round)
+3. Eucloid
+4. Codestax.ai
+5. Ramco Systems (Cleared Technical Round)
+6. Hyundai Autoever
+7. Congruent
+8. Applied Materials
+9. Saturam
+Vhs
+10.
+Systhink Technologies
+11.
+
+Key Suggestions and Tips from My Experience:
+
+1.  I learned to embrace failures as opportunities for growth, as
+
+this was my 13th interview, which strengthened my resilience
+and confidence.
+
+2.  Building a strong foundation in core subjects is essential for
+
+performing well in interviews.
+
+3.  Gaining hands-on experience through extracurricular and co-
+
+curricular activities adds significant value.
+
+4.  Communicating confidently and speaking boldly during
+
+interviews makes a positive impression.
+
+5.  I consistently revised core subjects such as Data Structures
+and Algorithms (DSA), DBMS, SQL, OOPs, System Design,
+and Operating Systems.
+
+6.  I prepared thoroughly for both technical discussions and
+common HR questions, including project explanations.
+7. I tailored my self-introduction to effectively highlight my
+
+academic knowledge along with my extracurricular and co-
+curricular experiences.
+
+Contact Information:
+
+Name: Hariharan P
+
+Mobile No:9994458122
+
+EmailId:hariharan09092004@gmail.com
+
+Resume:
+

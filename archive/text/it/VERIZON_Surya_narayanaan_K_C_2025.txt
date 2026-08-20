@@ -1,0 +1,91 @@
+Placement experience – VERIZON
+
+-  Surya narayanaan KC
+
+About the company:
+
+Verizon  Communications  is  a  prominent  telecommunications  company  and  a  leader  in
+technology and network solutions, consistently ranked among the Fortune 500. Established at
+the turn of the century, Verizon offers a range of services including wireless, broadband, and
+5G connectivity, catering to both businesses and consumers globally. Verizon India has offices
+in major cities like Chennai, Bangalore, and Hyderabad, where it plays a crucial role in driving
+technological advancements and supporting Verizon's global operations.
+
+About the Role:
+
+The position they were hiring for was Engineer 1 (Software Development). According to the
+HR, the role involves working with various technologies and across multiple domains. It’s a
+dynamic position that provides exposure to a broad range of technical areas.
+
+Placement Process
+
+Round 1: Online Assessment
+
+The online assessment was divided into three parts. The first part required us to write a 200-
+word paragraph on a general topic. The second part was a coding round, which included two
+easy-to-moderate level questions. I received one array question and one string-based problem.
+The third part tested our vocabulary and grammar skills, ensuring we had a strong grasp of
+language proficiency.
+
+Round 2: Group Discussion:
+
+In the group discussion round, we were divided into groups of 13. The panellist gave us a
+general topic to discuss, while other panels were assigned specific topics, such as Generative
+AI. The person leading my panel was very approachable, allowing everyone sufficient time to
+speak. I spoke twice during the discussion.
+
+It’s important to remain confident and speak clearly. Listening to others is equally crucial, and
+interruptions should be avoided. Be respectful of others' opinions while expressing your own.
+If you’re unsure about the topic, stay calm and contribute thoughtful points.
+
+Round 3: Technical Interview
+
+The technical interview started with the interviewer reviewing my resume and asking about my
+extracurricular activities. To my surprise, he was familiar with a school near mine and asked
+me about my involvement in the AUSEC club, my role, and my achievements during school.
+Afterward, he inquired about my projects in detail. It’s essential to have a solid understanding
+of the tech stack you’ve used and to be able to explain it in-depth.
+
+The interviewer then posed scenario-based questions related to networking. He asked about IP
+addresses and DNS servers. Additionally, he gave me a scenario to modify a database according
+to specific requirements. Throughout the interview, the interviewer was very patient, giving me
+time to recall the topics and providing helpful hints when needed.
+
+Round 4: HR Interview
+
+The  HR  interview  was  relatively  easy.  The  HR  representative  asked  about  my  location
+preferences, my  family  background, and what  I knew about  the company. It was more of a
+casual conversation to understand my background and motivations.
+
+Preparation Method I Followed
+
+1.  I  focused  on  practicing  problems  on  platforms  like  LeetCode  and  GeeksforGeeks
+
+(GFG) to improve my problem-solving skills
+
+2.  For DSA, I referred to Striver’s A2Z sheet. It provided a clear roadmap for mastering
+
+the essential concepts and algorithms.
+
+3.  I made sure to equally concentrate on core subjects like DBMS, OOPs, and Networking.
+These  are  crucial  for  technical  interviews,  and  a  solid  understanding  of  these  topics
+helped me perform well in scenario-based questions and interviews.
+
+Tips for the Interview:
+
+i.  Remember, the interviewer knows that you're a fresher, so don't panic. Stay calm and
+
+ii.
+
+approach the interview with a positive mindset.
+Instead of treating the interview like a strict Q&A session, try to have a casual, friendly
+conversation. It helps in building rapport and makes the interview more comfortable.
+
+iii.  Be well-versed with everything on your resume. Most of the questions will likely stem
+from your past experiences, projects, and extracurricular activities, so be prepared to
+explain them in detail.
+
+iv.  Confidence is key! Trust in your preparation, stay confident while answering, and don't
+hesitate to admit if you're unsure about something. You can always ask for clarification
+or mention that you’re open to learning.
+

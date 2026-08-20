@@ -1,0 +1,131 @@
+|             |       |     |           |     | Placement | Experience |     |     |
+| ----------- | ----- | --- | --------- | --- | --------- | ---------- | --- | --- |
+| Preparation | steps | I   | followed: |     |           |            |     |     |
+● Coding - arrays, string(both are almost sufficient for online assessment), commonly
+asked graph(bfs, dfs based), trees(traversals), DP(easy,medium), DSA - linked list,
+|     | stack, | queue(given |     | operations | and find | resulting | output | in OA). |
+| --- | ------ | ----------- | --- | ---------- | -------- | --------- | ------ | ------- |
+● Used ACM CEG resources that were shared for summer internship and placement.
+Try solving all easy and medium problems. For arrays and strings you can try hard
+also.
+● Coding websites - leetcode, gfg, hackerrank. Participate in leetcode/other online
+contests and ACM weekly contests for time management. ACM materials and
+|     | contests | are | very useful. |     |     |     |     |     |
+| --- | -------- | --- | ------------ | --- | --- | --- | --- | --- |
+● Resume - clear overview of everything mentioned(don't put false information).
+● Projects - algo used, why u used it, what’s the scope and use of the project, what’s
+your contribution, challenges faced if any and how you overcame. I understood that a
+|     | good project |     | and tech | stack | we have worked |     | on might also | matter. |
+| --- | ------------ | --- | -------- | ----- | -------------- | --- | ------------- | ------- |
+● Tell the interviewer if you don’t know any concept and you’ll learn about it. Or just say
+|     | whatever | you | know(even | basic | things). |     |     |     |
+| --- | -------- | --- | --------- | ----- | -------- | --- | --- | --- |
+● Have a gist on Skills mentioned in the resume - basic/commonly asked interview
+questions. Some interviewers ask preferred coding language - then ask lang specific
+questions.
+● Sorting algorithms - simulation, time complexity, space complexity (For OA MCQ).
+● FYP - what, modules used etc. (definite ques on Fyp mostly during the interview).
+● Go through common HR questions and have a good idea about the company, their
+|     | values | etc. before | attending |     | their interview. |     |     |     |
+| --- | ------ | ----------- | --------- | --- | ---------------- | --- | --- | --- |
+● Refer to gfg articles before an interview for any company. But don't expect similar
+|           | questions  | as  | everything    | depends. |               |             |     |     |
+| --------- | ---------- | --- | ------------- | -------- | ------------- | ----------- | --- | --- |
+| Companies | I attended |     | for interview |          | and questions | I remember: |     |     |
+● Software AG - 2 tech rounds - system design - design a theatre booking website,
+question on image processing(given an image how to separate components in it
+|     | based | on colour). |     |     |     |     |     |     |
+| --- | ----- | ----------- | --- | --- | --- | --- | --- | --- |
+● CitiBank - 1 round - Tech + HR - About Fyp, Projects, HR questions(I applied for
+|     | EIOT so       | mostly | simple     | questions | were | asked). |     |     |
+| --- | ------------- | ------ | ---------- | --------- | ---- | ------- | --- | --- |
+|     | ● Wells Fargo |        | - 2 rounds | -         |      |         |     |     |
+For round 1, Queue based implementation ques(insert, delete from middle), Fyp and
+other old projects - scenarios were given and what will happen in the project was
+asked.
+
+● Natwest - 1 round - Projects, DBMS - cursor, joins, sql queries, HR questions.
+● Barclays - 1 round - 2 simple logic for string, list based question (something with
+conversion of case), tower of hanoi logic, Projects, Why I chose Engineering, having
+taken Biology in 12th?, My Inspiration etc.for HR(Cover RISES from their values).
+|     | ● Bank | of America | - 2 rounds | -   |     |     |     |
+| --- | ------ | ---------- | ---------- | --- | --- | --- | --- |
+For round 1, Merge sort in code pair, Python - my preferred lang - so common ques
+like data types and about a ML project, garbage collection in java, DBMS concepts -
+|     | sql queries, | indexing. |     |     |     |     |     |
+| --- | ------------ | --------- | --- | --- | --- | --- | --- |
+● CPCL - 1 round - My advice is don’t attend - They asked questions from a notebook
+and expected the same answers as it was there - About version control systems, ios
+|     | vs Android | diff, | SQL commands, |     | C vs | C++ etc. |     |
+| --- | ---------- | ----- | ------------- | --- | ---- | -------- | --- |
+● Technip - 1 round - OA was easy but Interview takes into the role GET(They said the
+work covers all departments and will be trained accordingly, so I did not attend the
+interview).
+● IDFC - 2 Tech + HR rounds - Database concepts - relational vs Nosql, api, idea of
+AWS, String operations in python for given use case (As I told I use python), HR
+|        | ques-volunteering/interests, |           |     | Projects    | -   | based | on fyp. |
+| ------ | ---------------------------- | --------- | --- | ----------- | --- | ----- | ------- |
+| Online | Assessment                   | questions |     | I remember: |     |       |         |
+Coding questions were almost all based on arrays, string only. Other DSA and aptitude were
+covered in MCQs. Few companies were language specific. The overview of questions asked
+| in few | companies | that | I have | taken note | of are, |     |     |
+| ------ | --------- | ---- | ------ | ---------- | ------- | --- | --- |
+● Oracle - MCQ+coding - Good subsequences, Rest API max transfer(standard
+|     | question), | LCS. |     |     |     |     |     |
+| --- | ---------- | ---- | --- | --- | --- | --- | --- |
+● Appian - To find the number of values in an array exceeding the threshold. To
+arrange the given data/ file structure in tree format - not sure - allowed only using
+Java.
+● BNY - 4 questions - 1 easy+ 2 medium + 1 hard - Count analogous array, glide
+typing, maximum request count given the bandwidth, Given array of binary numbers
+|     | take | their complement |     | and find | max sum. |     |     |
+| --- | ---- | ---------------- | --- | -------- | -------- | --- | --- |
+● Software AG - Largest possible number formed from an array, longest cycle length in
+|     | undirected | graph, | sorting | an array | based | on  | 2 attributes. |
+| --- | ---------- | ------ | ------- | -------- | ----- | --- | ------------- |
+● Arcadia - word pattern matching count, max prod subarray satisfying perfect square
+rule.
+|     | ● Citi Bank | - aptitude | +   | 2 easy | array based | questions. |     |
+| --- | ----------- | ---------- | --- | ------ | ----------- | ---------- | --- |
+● Vegrow - 3 coding questions(not sure exactly) - 1 question on Coin change DP.
+● Wells Fargo - kth smallest element in an array, konigsberg bridge problem, sorting an
+|     | array         | based on | 2 attributes. |           |               |     |               |
+| --- | ------------- | -------- | ------------- | --------- | ------------- | --- | ------------- |
+|     | ● Caterpillar | - 1st    | round         | - English | comprehension |     | and aptitude. |
+
+● Natwest - Max energy product’s sum(sort the array and find the prod of 2 elements
+on each extreme, return the max), uncommon elements in two arrays.
+● Dover - 60 mcq - Aptitude, coding and logic based questions
+● ARM - Coding to be solved in C/C++.
+● Accolite - MCQ, 2 coding - based on graphs.
+● Verizon - 2 coding, 2 questions to give an english comprehension for a given use
+case.
+● Societe Generale - 2 questions - OOP based coding round.
+● Accenture - 1st round - MCQ, verbal, excel, aptitude - mock tests will be available
+online if needed, 2nd round - 2 medium coding questions based on array and strings.
+● Barclays - MCQ(DSA, OOPS, OS, aptitude, output based) + 1 sql + 1 coding -
+lexicographically smallest string.
+● IDFC - MCQ(tech+aptitude), 2 coding questions - 1 based on binary numbers - don’t
+remember exactly.
+References I used:
+● Resources shared by ACM-CEG - ACM_Materials
+● Youtube - striver for coding, neetcode, abdul bari - for time complexity related
+concepts, jeni’s lecture - for DSA(for understanding how they work), neso academy -
+for theoretical concepts.
+● Indiabix - for aptitude - time and distance, ratios, profit loss, ages, probability, time
+and work, averages, ap and gp, simple and compound interests are mostly covered.
+● Top 25 questions of common topics(interviewbit, gfg) - C++, Java, DMBS - sql,
+normalisation, joins, OS, OOPS - 4 pillars.
+About the company and role: IDFC FIRST Bank - Technology led banking, know the key
+values, vision, mission, some products etc. The role is Application Engineer - software
+development - major work covered in Golang, Java, Python, ReactJS, React Native. DevOps
+roles can also be assigned.
+My Experience: Prepare consistently and don't lose hope. It is really hurting seeing the
+rejections even after much preparation, but the efforts you put in will pay off one day.
+Sometimes we miss tests because of time clashes and sometimes we can’t get shortlisted
+for interviews even if we perform well in online tests/not get selected even if we think we
+performed well in the interview . But concentrate on the next one and try not to miss any
+opportunity from your side. Note down the mistakes you figure out as you attend interviews
+and try not to repeat them. Attend mock interviews conducted by our college. Try getting a
+summer internship as it is a great opportunity(Not much expectations from the company side
+as that of placement). Try your best and All the best!

@@ -1,0 +1,98 @@
+Interview Experience
+
+Name
+Reg No
+Mail id
+Company
+
+: Lavanya S
+: 2018115052
+: lavanyavpvs@gmail.com
+: Bank of America
+
+Bank of America’s recruitment process consists of three rounds. After the initial
+
+application of all eligible students, some of them were shortlisted. The shortlisted students were
+allowed to attend the first and second rounds. Based on the performance in the second round,
+students were shortlisted for the final round.
+
+Round 1 - Video Interview
+
+It was actually a video interview where we’ll be interviewed by software, not by an
+
+individual. It was conducted on a platform called “Hirevue”. We can practice questions
+beforehand which will be given in the mail itself. This video interview consists of five questions
+(3 other questions + 2 coding questions)
+
+1. Tell me how your background and experience fit for this job
+2. Education Background
+3. Coding 1 - Array manipulation question (Easy level)
+4. Coding 2 - Given the numbers in words and we have to return it in integer type
+
+Eg: Input - thirteen
+Output - 13
+
+(Numbers range from -99999 to 99999)
+
+5. How you solved the second coding question and what are the other methods you
+
+think of but you didn’t use it and why?
+
+6. Any other things you want to add to let the company know about you?
+
+Round 2 - Technical Interview
+
+It was a quick 20 minutes interview. This interview was scheduled for all the students
+
+who attended the video interview. The interviewer asked me to introduce myself first. I
+introduced myself along with my clubs and activities details, my interests, just the title and
+technology of my project and my hobbies. Then she asked me to explain about my projects. I
+included 3 of my projects in my resume. I explained all three projects in detail.
+
+Project explanation :
+
+- Name of the project
+
+- Problem statement
+-
+-
+-
+- Challenges we faced and how we solved (if any)
+
+Tech stack (ide, programming languages used, and so on)
+Functional modules (only named all, not gave full description)
+Team or individual project, Modules I personally worked on with the technical workflow
+
+She didn’t interrupt and ask questions about any of the things which I explained
+before. And after that, she asked which language I’m comfortable with and whether I’m
+able to work with MySQL. She finally asked whether I have any questions from my side
+and she concluded the interview.
+
+Round 3 - Technical / HR Interview
+
+I’m one of the shortlisted students after Round 2. I was asked technical questions in this
+
+round also. But some of my friends had HR questions. It depends on the interviewer it seems.
+The interviewer directly gets into interview questions even without introduce phase. The
+questions were
+
+1. He specifically picked one project from my resume and asked me to explain it. It was
+actually a game project which I did under an elective subject “Game Programming”. I
+explained this project in the same format as I mentioned before.
+
+2. He asked whether I know OOPS concepts. I started explaining it with what is actually
+oops and its characteristics, advantages, four fundamental concepts (Inheritance,
+polymorphism, encapsulation, and abstraction) When I was about to finish the
+explanation of Inheritance with its example, he interrupted me to stop and said it’s fine
+already and no need to explain furthermore.
+
+3. He asked whether I know the Software development cycle (SDLC) I explained each and
+
+every phase of SDLC with two sentences of explanation for each.
+
+4. Finally, he asked whether I’m aware of Agile methodology and I explained.
+
+Fortunately, it was also a 20 minutes quick interview session and it got over with
+
+these questions.
+

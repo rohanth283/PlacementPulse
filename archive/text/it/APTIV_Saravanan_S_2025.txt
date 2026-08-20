@@ -1,0 +1,131 @@
+Saravanan S – Information Technology
+
+Intern + FTE in Aptiv
+
+**About the Company:**
+
+**Aptiv is a global technology company that designs, develops, and manufactures software and hardware solutions to enable a safer, greener, and more connected future of mobility. Our solutions help automotive OEMs around the world to create vehicles with advanced safety features, electrified architectures, and intelligent connectivity.**
+
+**About the Role:**
+
+**Role: Software Developer**
+
+**We’re looking for developers who want to work on challenging technology problems to develop and test software that makes vehicles safer, greener, and more connected. We work with a mix of technologies but don’t hire developers based on coding language.**
+
+**- Ability to learn and adapt quickly**
+
+**- Experience reading and writing code in a programming language**
+
+**- Experience working collaboratively toward project goals and deadlines**
+
+**Selection Process:**
+
+**1. Online Assessment (In Offline Mode)**
+
+**2. Technical Round**
+
+**3. Technical + Managerial Round**
+
+**4. HR Round**
+
+**I. Online Assessment:**
+
+**OA taken by around 192 members (CS / IT / ECE / EEE / E&I) and conducted in HackerRank.**
+
+**2 Coding Questions + 20 MCQs (1 hr 30 mins)**
+
+**--Qn 1: Given an array of integers, perform some number `k` of operations. Each operation consists of removing an element from the array, dividing it by 2, and inserting the ceiling of that result back into the array. Minimize the sum of the elements in the final array.**
+
+**--Qn 2:\*\* A system has multiple pods connected in regions, where pods directly or indirectly connected belong to the same region. Each pod writes data to a database unless its connection fails, in which case it forwards data to the active pod with the smallest ID in the same region. If no active pods are available, the data is lost.**
+
+**--Queries:**
+
+**1. A data-sending query of the form `1 pod\_id` - Find and output the active pod with the smallest ID in the same region to write the data. If none, output -1.**
+
+**2. A database-connection-failure query of the form `2 pod\_id` - Mark the specified pod as inactive.**
+
+**Objective: For each data-sending query, output the ID of the pod that writes the data, or -1 if no active pods are available.**
+
+**MCQs based on the following topics:**
+
+**1. Find the output of the given code.**
+
+**2. Flip-flop related questions**
+
+**3. Type of system**
+
+**4. Embedded C programming-related questions (basic level questions)**
+
+**90 members shortlisted from this round**
+
+**II. Technical Round (80 – 90 mins): (time depends on panel members)**
+
+**1. Self-introduction**
+
+**2. Project explanation - what technology was used in the project.**
+
+**(Tip: IoT projects add more value)**
+
+**3. Function overloading in polymorphism**
+
+**4. Types of constructors with examples**
+
+**5. Use of constructor**
+
+**6. Pointer concepts**
+
+**7. Call by value and call by reference**
+
+**8. Fibonacci series**
+
+**9. Some HR questions (Why Aptiv? Which job location do you prefer?)**
+
+**10. Any questions for me**
+
+**III. Technical + Managerial Round (40 mins) : (35 members attended this round)**
+
+**1. Self-introduction**
+
+**2. Which language are you most comfortable with?**
+
+**3. Why did you choose that language?**
+
+**4. OOP concepts with real-time examples**
+
+**5. Copy constructor**
+
+**6. OS scheduling algorithms and some computer network questions**
+
+**7. How do you overcome tough situations?**
+
+**8. Personal questions (profession of family members)**
+
+**9. Any questions for me or about the company?**
+
+**HR Round (30 - 40 mins) : ( 20 members attended this round)**
+
+**a. Your hobbies**
+
+**b. Future goals**
+
+**c. Why Aptiv?**
+
+**d. How many interviews have you attended before?**
+
+**e. Location preference**
+
+**f. Any questions for me**
+
+**After all these rounds, they finalized 15 members, and I was one of them.**
+
+**All the best, guys!**
+
+**Feel free to contact me if you have any doubts,**
+
+**Saravanan S.**
+
+**Information Technology,**
+
+**+91 9944837661**
+
+**Saravanan20030205@gmail.com**

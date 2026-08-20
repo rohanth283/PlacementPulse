@@ -1,0 +1,61 @@
+| About | the Company: |     |     |     |     |     |
+| ----- | ------------ | --- | --- | --- | --- | --- |
+Verizon is a global leader in telecommunications, offering a range of products and services
+including wireless communications, broadband, and digital media. The company is known for its
+innovation and customer-first approach, providing employees with opportunities to work on
+| cutting-edge   | technologies | in a      | dynamic | environment. |     |     |
+| -------------- | ------------ | --------- | ------- | ------------ | --- | --- |
+| About          | the Role:    |           |         |              |     |     |
+| Role: Software |              | Developer |         |              |     |     |
+As a software developer at Verizon, my primary responsibilities include designing, developing,
+and maintaining software systems and applications. The role demands a strong foundation in
+programming, problem-solving, and an understanding of data structures and algorithms. The
+team emphasizes collaboration, so good communication and teamwork are essential.
+| Preparation | Strategy:  |                |        |     |     |     |
+| ----------- | ---------- | -------------- | ------ | --- | --- | --- |
+| 1. Data     | Structures | and Algorithms | (DSA): |     |     |     |
+A solid understanding of DSA is key for both the online coding round and technical interviews. I
+focused on topics like arrays, linked lists, trees, graphs, dynamic programming, sorting and
+| searching | algorithms. | For this, | I relied heavily | on: |     |     |
+| --------- | ----------- | --------- | ---------------- | --- | --- | --- |
+- GeeksforGeeks (GFG): For understanding concepts and practicing common interview
+problems.
+- LeetCode: For problem-solving practice and preparing for the coding round.
+2. HR Questions:
+| For the | HR interview, | I prepared      | answers   | to common | questions | like: |
+| ------- | ------------- | --------------- | --------- | --------- | --------- | ----- |
+| - "Tell | me about      | yourself."      |           |           |           |       |
+| - "Why  | do you        | want to work at | Verizon?" |           |           |       |
+- "Tell me about a time you faced a challenge and how you handled it."
+- Behavioral questions about teamwork, leadership, and problem-solving.
+| Placement | Drive  | Experience: |     |     |     |     |
+| --------- | ------ | ----------- | --- | --- | --- | --- |
+| 1. Online | Coding | Round:      |     |     |     |     |
+The first round was an online coding assessment that tested my problem-solving skills using
+Data Structures and Algorithms. Preparation on LeetCode helped a lot in this round.
+
+| 2. Technical | Interview: |     |     |     |     |     |
+| ------------ | ---------- | --- | --- | --- | --- | --- |
+Questions revolved around core programming concepts, data structures, and algorithms. Apart
+from coding, I was also asked about my previous projects, specifically how I approached
+| problem-solving |     | and | decision-making |     | in those projects. |     |
+| --------------- | --- | --- | --------------- | --- | ------------------ | --- |
+3. HR Interview:
+The HR interview was more about personality, motivation, and fit for the company. Questions
+were typical HR-style, focusing on why I wanted to work for Verizon, my strengths and
+| weaknesses,  | and     | how  | I handle | challenges | in a team | environment. |
+| ------------ | ------- | ---- | -------- | ---------- | --------- | ------------ |
+| Tips and     | Tricks: |      |          |            |           |              |
+| 1. Be strong | in      | DSA: |          |            |           |              |
+Most technical interviews revolve around your ability to solve problems using Data Structures
+and Algorithms, so make sure you have a firm grasp on the fundamentals.
+| 2. Practice | coding | problems |     | on platforms | like LeetCode | and GFG: |
+| ----------- | ------ | -------- | --- | ------------ | ------------- | -------- |
+Regular practice on these platforms helps improve problem-solving speed and accuracy,
+| which is   | essential | for           | the coding | rounds. |     |     |
+| ---------- | --------- | ------------- | ---------- | ------- | --- | --- |
+| 3. Prepare | for       | HR questions: |            |         |     |     |
+Don't neglect the HR interview. Be ready to articulate your motivations, experiences, and
+| career goals | clearly |     | and confidently. |     |     |     |
+| ------------ | ------- | --- | ---------------- | --- | --- | --- |
+Good luck!

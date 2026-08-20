@@ -1,0 +1,98 @@
+PLACEMENT EXPERIENCE – APPIAN
+
+NAME: HEMACHANDAR K (2022115092) - Product Engineer Role
+
+ABOUT THE COMPANY:
+Appian is a soCware company that automates business processes. The Appian AI-Powered
+Process PlaLorm includes everything you need to design, automate, and opOmize even the
+most complex processes, from start to ﬁnish. They have oﬃce locaOons all over the world
+and in Chennai in India.
+
+PROFILE:
+The ﬁrst important thing is your resume, where you will list all your projects, internship
+experiences, and the experiences you have gained from various clubs in our college. Make
+sure everything is clear and organized, and present each valid point in a separate secOon.
+
+Personally, I developed my resume from scratch, ensuring that it included the most
+important secOons — Experience and Projects. These two are essenOal, along with your
+Skills, such as the programming languages you know.
+
+One important Op: interviewers will not usually ask quesOons on every skill you list, but
+they will deﬁnitely ask which language you are strongest in. So, make yourself strong in one
+parOcular language and have a proper, complete understanding of it.
+
+In addiOon, make sure you have solid foundaOonal knowledge in all core computer science
+subjects, such as Computer Networks, DBMS, and OperaHng Systems. Aim for an in-depth
+understanding of these concepts.
+
+Maintain a clean and clear resume. Don’t exaggerate or include things you don’t know.
+Include all your projects and experiences — don’t leave anything relevant out. Present your
+informaOon in bullet points for clarity. Always ﬁll the key secOons: Experience, Projects,
+and Skills, as these are the most important parts of your resume
+
+CODING ROUND:
+In the coding round, they asked DSA quesOons. One of the quesOons was the Josephus
+problem. I think this quesOon was also asked in the previous year, so make sure to go
+through it thoroughly, it’s a commonly repeated quesOon.
+
+Another quesOon was based on the sliding window approach. Unfortunately, I can’t recall
+the other two problems, but there were a total of around four DSA problems. You need to
+solve all four in the ﬁrst coding round.
+
+TECHNICAL INTERVIEW :
+The ﬁrst technical interview was conducted in person and lasted around one hour for me.
+The interview started with puzzles — the interviewer gave me two puzzles.
+
+The ﬁrst puzzle was: You have to make three slices on a cake, but with those three slices,
+you should get a total of eight pieces.
+
+ACer the puzzles, the interview moved to DSA quesHons. I was asked around three DSA
+problems:
+
+1.
+
+Power StaHon Problem – There are N power staOons to be implemented around the
+city. For each power staOon, a speciﬁc cost and reward are given, along with a total
+budget. The task is to choose which power staOons to implement so that the total
+cost is less than or equal to the budget, while maximizing the total reward.
+
+2. Missing Number Problem – You are given an array containing numbers from 0 to N
+in any order, but one number is missing. You need to ﬁnd the missing number.
+
+3.
+
+Sorry, I couldn’t recall the third quesOon.
+
+Apart from the DSA quesOons, they also asked several quesOons on DBMS and OOP
+concepts. They further discussed my internship experience in detail.
+
+That’s how the ﬁrst technical round went for me.
+
+BEHAVIOURAL ROUND 2:
+The second round was a behavioural round, conducted in virtual mode. It lasted around 10
+to 15 minutes.
+
+They mainly asked quesOons about my projects and resume. I was asked to explain my
+most recent project in detail. They also asked about the role I had applied for —
+speciﬁcally, "What do you know about the role?" and "What do you know about the
+company?"
+
+HR ROUND:
+The ﬁnal HR round involved quesOons about my personal details. They then explained the
+role and provided informaOon about the company and what they do. This round was brief,
+lasOng around 5 to 10 minutes.
+
+PREPARATION STRATEGY:
+For the DSA preparaHon strategy, just follow Striver’s A to Z DSA course. For studying
+concepts, you can get the materials from our department resources — that’s where I got
+all my resources, and I studied from those only.
+
+For coding pracOce, apart from Striver’s material, try solving addiOonal problems related to
+the company you are applying for.
+
+For computer science concepts, you can refer to our department placement materials.
+You can also refer to GeeksforGeeks for studying these concepts.
+
+Feel free to reach me if you need any help or have more quesOons at 8778624248.
+ALL THE BEST!
+

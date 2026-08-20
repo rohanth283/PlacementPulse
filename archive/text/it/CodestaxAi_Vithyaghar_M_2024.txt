@@ -1,0 +1,41 @@
+**Navigating Internships and Placement Preps: My Journey**
+
+Embarking on the journey of internships and placements is a pivotal phase in every student's life. For me, this journey was marked by overcoming challenges, particularly dealing with arrears, while honing my technical and soft skills. This article reflects on how I managed these hurdles and prepared myself for a successful placement season.
+
+**Arrears: The Turning Point**
+
+My academic journey wasn't smooth, as I encountered my first arrear early on. This setback was daunting, but I saw it as an opportunity to reassess my approach to studies. When new arrears surfaced in subsequent semesters, I knew I had to change my strategy.
+
+Handling arrears required a fine balance between stress management and academic rigor. I ensured that no new arrears cropped up by adopting a disciplined study routine. Weekly studies and consistent skimming through subjects helped me stay on track. I learned not to take arrears lightly, especially after realizing that poor internal marks often resulted from insufficient effort during the first attempt. Time management became crucial, with weekends dedicated to clearing arrears while maintaining focus on the present semester, placement preparations, and the final year project (FYP), which I worked on closely with my team.
+
+**Opportunities for Students with Arrears**
+
+It’s a common belief that most MNCs prefer freshers with no arrears, and while this holds true, there are exceptions. Some MNCs allow students with arrears to attend six-month internships, provided they clear their arrears before graduation. Startups, on the other hand, are more flexible and often have a high demand for freshers, especially those proficient in the latest tech stacks. They offer a variety of opportunities but also come with high expectations.
+
+**Building Tech Skills**
+
+To stay relevant in the tech industry, I made it a point to learn new stacks and keep myself flexible. I delved into mobile app development with React Native and Flutter, offering suggestions based on my experiences with both. For web development, I explored ReactJs, Svelte, and Vue.js, alongside backend technologies like NodeJs and SQL. Additionally, I familiarised myself with AWS services like Lambda, EC2, and S3, ensuring that my skillset was application-based and ready for real-world challenges.
+
+**Mastering Data Structures and Algorithms (DSA)**
+
+DSA is the backbone of technical interviews, and I approached it with a structured plan. While there are numerous roadmaps and guides available, I found Striver's Sheet to be particularly effective. My focus was on dynamic programming (DP), greedy algorithms, recursion, and understanding time and space complexity. Platforms like GeeksforGeeks (GFG) provided valuable puzzles, both logical and coding, which I regularly practiced.
+
+**Project Development**
+
+Developing technical skills is one thing, but applying them through projects is where the real learning happens. I concentrated on building projects that showcased my proficiency in the stacks I had learned. When it came to project selection, I ensured that each project served a dual purpose: improving my skills and enhancing my portfolio.
+
+Creating a portfolio isn’t about following templates; it’s about creativity, theme selection, and incorporating graphics and animations. Whether it’s an e-commerce standard project or something entirely unique, the goal is to reflect one's originality and technical prowess.
+
+**Crafting the Perfect Resume**
+
+In today's competitive job market, having multiple resumes tailored to different job descriptions (JDs) is essential. I kept one generic resume that aligned with most JDs but also prepared specific resumes highlighting different aspects of my skillset, such as frontend development, DevOps, or backend work.
+
+Why multiple resumes? The answer lies in the fact that most resumes today are not manually checked. Instead, AI-driven systems scan resumes against JDs and assign a score. Having a resume that aligns closely with the JD can significantly improve your chances of getting noticed.
+
+**Pursuing Additional Courses**
+
+In addition to the core curriculum, I explored various online courses to further my knowledge. Platforms like Coursera, IBM, Google, and AWS offer certifications that are highly valued in the industry. These courses helped me stay ahead of the curve and added credibility to my skillset.
+
+**Conclusion**
+
+Preparing for internships and placements is a multi-faceted process that goes beyond academics. It requires a blend of technical skills, strategic planning, and continuous self-improvement. By managing my arrears, building a strong tech portfolio, mastering DSA, and crafting tailored resumes, I positioned myself for success in the placement season. My journey serves as a testament that with determination and the right strategy, even the toughest challenges can be overcome.

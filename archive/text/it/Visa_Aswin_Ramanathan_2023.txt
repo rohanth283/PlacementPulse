@@ -1,0 +1,149 @@
+About the company
+
+VISA is a payment facilitator. It facilitates electronic funds transfers throughout the
+world, most commonly through Visa-branded credit cards, debit cards and prepaid
+cards. Contrary to public opinion, they aren’t a bank or a credit card company.
+
+Role Details
+
+Summer Internship – Software Engineering Intern
+
+Preparation Strategy
+
+•  Work through the problems of LeetCode and GFG.
+•  Pick a youtuber of your choice and then refer their SDE sheet. Stick to one
+sheet and aim to cover all the easy and moderate problems in their list.
+•  Refer takeuforward on YT for various algorithms. The channel is entirely in
+
+English.
+
+•  Try mycodeschool for pointers. Your understanding of pointers should be rock
+solid as it forms the base of almost all the other data structures. So take your
+time with this.
+
+•  Refer GFG for algorithms
+•  Get the basics right: arrays, pointers, trees, linked lists, stack, queue, heap,
+
+•
+
+binary search, tree traversals, etc
+In my opinion, you don’t need to know complex topics like DP, graphs,
+segment tree for internship interviews. However, it helps if you know it as they
+will be asked during placements.
+
+•  Try Codechef, Codeforces and Codewars if you are interested in CP. This will
+help you down the line. Regularly give contests on these platforms. Don’t
+worry about your ratings. Pick up problem-solving skills
+
+•  Try to get 6-stars for problem solving on hackerrank. This badge covers
+
+almost all the important topics you’d need.
+
+•  Learn CPP. Don’t use Python for coding as it quite slow. I wouldn’t
+
+recommend Java either because it is verbose. CPP is the ideal language for
+competitive programming.
+
+•  For CPP, refer The Complete C++ Reference by Herbert Schildt. It covers all
+
+the topics.
+
+•  Almost all the big companies allow you to use STL. Make sure you know how
+each data structure works in STL. You can refer Schildt’s book or articles on
+GFG for this. Don’t worry if the syntax seems scary at first. With enough
+practice, you should get the hang of things.
+
+•  Have two or three projects on your preferred domain. Make sure you
+
+•
+
+understand each line of code.
+If you are into data science or other related domains, check out Kaggle. Give
+community-contests regularly.
+
+•  Before you put some fancy buzzword like AI, ML, blockchain, cloud computing
+etc on your resume, make sure you have enough knowledge about it. You can
+expect to be asked tons of questions on these topics if you put them on your
+resume. My advice would be to put them in the interests section rather than
+the skills section.
+
+•  Work on your typing speed and accuracy. This will give you an edge over
+
+others during contests and coding rounds.
+
+•  For aptitude, refer Indiabix and puzzles on GFG. Devote enough time to this
+as a majority of fintech companies have an aptitude section in the first round.
+
+•  Focus on the core subjects like Operating Systems, Computer Networks,
+
+DBMS, and Design & Analysis of Algorithms. For these topics, it is more than
+enough if you pay attention in class. For last minute preparation, refer the
+Frequently Asked Questions(FAQs) on takeuforward. You can also watch
+Abdul Bari’s YT channel. He explains concepts in a simple, easy-to-
+understand way.
+
+•  Prepare for HR questions. This is the make-or-break part of interviews. Have
+
+a solid introduction before your interview. This should cover your interests and
+tell the interviewer who you are as a person rather than being an audio
+version of your resume. Look up standard HR interview questions and
+prepare for them ahead of time.
+
+•  Refer company-wise questions on a website of your choice. Ideally, this
+
+should be done a few days before the actual test and interview
+
+•  Keep up with the C.O.D.E initiative of ACM-CEG and regularly give practice
+
+contests
+
+•  Familiarise yourself with various platforms such as hackerrank, hackerearth
+etc. The online tests will happen in these platforms, and it really helps if you
+know the layout of the platform.
+
+•  You will be given a 50-day break after the fourth semester. Use this break to
+
+prepare for the internship season that’s coming up. Aim to solve 3 problems a
+day and slowly increase the number of problems you are solving towards the
+end of the break.
+
+•  Finally, stay hopeful. The intern season can be rough. You will get rejected for
+
+no reason. It may seem like your hard work isn’t paying off. Please stay
+optimistic. Give the online tests and interviews to the best of your abilities and
+you will definitely crack them.
+
+Preliminary round
+
+We were asked to give the online tests in college. The test was conducted on
+hackerrank platform. We were all given a different set of coding questions. The
+questions were moderate. We didn’t have any OS, CN, DBMS questions in the
+online test.
+
+The questions asked were:
+
+•  Brute-force based question. The catch here was to optimise it sufficiently. The
+question was moderate-hard. It was similar to the concept of limiting reagent
+in chemistry. I was able to pass 14/16 test cases.
+
+•  An easy-moderate question on arrays. I got this fully right.
+
+No aptitude-based questions were asked.
+
+Final Round
+
+The final round happened on Microsoft Teams. The interview began with a quick
+introduction from the interviewer, and I was asked to introduce myself. The interview
+was primarily focused on my projects and interests. There was a tree-based question
+on hackerrank code-pair. The interviewer was satisfied with my approach, so I wasn’t
+asked to code. We continued to talk about my projects and interests. I was quizzed
+on my achievements mentioned in my resume. I was also asked to explain the
+working of a few of my projects. Plenty of HR questions were asked. The interview
+went on for about 40 minutes.
+
+Aswin Ramanathan
+
+Batch of 2024
+
+You can reach out to me on: Aswin's LinkedIn Profile
+

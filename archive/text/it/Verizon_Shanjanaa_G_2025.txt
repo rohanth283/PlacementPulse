@@ -1,0 +1,102 @@
+VERIZON PLACEMENT DRIVE EXPERIENCE
+
+                             -SHANJANAA G (IT)
+
+About the Company:
+Verizon is a leading global telecommunications provider, offering an extensive range of
+services, including wireless connectivity, ultra-fast broadband, and enterprise-level digital
+solutions. Focused on next-generation technologies like 5G, Internet of Things (IoT), and
+media streaming, Verizon empowers both individuals and businesses to stay seamlessly
+connected. The company fosters a culture of innovation and a customer-centric approach,
+providing employees with the opportunity to work with groundbreaking technology in a
+vibrant, forward-thinking environment dedicated to shaping the future of digital
+experiences.( Google the company before your interview—It really helps!)
+
+About the Role:
+Role: Software Developer
+In my role as a Software Developer at Verizon, my primary responsibilities include designing,
+developing, and maintaining critical software applications. I also contribute to strategic
+initiatives, supporting Verizon’s commitment to innovation and delivering reliable
+technology solutions.(Just go through the job description provided by the company)
+
+Placement Drive Process:
+
+Round 1 : Online Assessment
+
+The initial assessment was an online evaluation that tested my coding skills and proficiency
+in English communication. It included a medium-level coding question focused on data
+structures and algorithms (DSA), along with evaluations of logical reasoning and critical
+thinking. I found that preparing with platforms like LeetCode and HackerRank was extremely
+beneficial for this round.
+
+Round 2: Group Discussion
+
+The second round was a group discussion, where we were split into teams of 12 for the
+same. We were presented with two topics: one focused on the impacts of COVID-19 on
+education and the other on the effects of generative AI on creativity. We chose to discuss
+the latter.
+
+During the discussion, I made sure to articulate my points clearly and concisely, ensuring
+that my contributions were well-understood by all participants. I actively engaged with my
+peers, adding relevant points and building on their ideas, while also allowing space for
+others to share their perspectives. Staying updated with current news and trends
+significantly aided my contributions, as I could reference relevant examples and data to
+support my arguments. This preparation allowed me to maintain a balanced and informed
+dialogue throughout the discussion.
+
+Round 3: Technical Interview
+
+The next round was technical interview where the interviewer conducted a thorough review
+of my resume. It was essential to be well-acquainted with every detail, as the interviewer
+delved deeply into my internship experiences and the projects I had mentioned. I was
+questioned on all relevant topics associated with my work, so a solid understanding of the
+technologies used in my projects was crucial.
+
+Following the resume review, we moved on to several questions related to data structures
+and algorithms, databases, and machine learning, particularly since I had completed a
+project in that area, cloud computing, cryptography which included questions on linked lists,
+normalization, transactions, encryption algorithms, keys in encryption, machine learning
+models applied to speech and image data, etc.
+
+Additionally, I was presented with a logical thinking puzzle,
+
+There are three light bulbs inside a room and two switches outside the room. You are
+
+allowed to enter the room only once and could use the switches only twice. The challenge
+was to determine which switch corresponds to each bulb.
+
+Overall, it was a pleasant and positive experience. The interviewer was very approachable
+and calm, genuinely listening to my responses and creating an encouraging atmosphere
+throughout the discussion.
+
+Round 4: HR interview
+
+The final round was an HR interview that focused on my background, motivations, and
+career aspirations. This discussion was more generalized, allowing me to share my personal
+journey and I appreciated the opportunity to articulate my passion for the industry and how
+my goals align with the company's vision.
+
+The conversation was engaging and provided a platform for me to ask questions about the
+company's future and opportunities for growth. It was a constructive and enlightening
+experience.
+
+Key takeaways:
+
+1.  Familiarize yourself with data structures, algorithms, and the technologies
+
+mentioned in your resume to excel in technical assessments.
+
+2.  Stay informed about industry trends, particularly in areas like 5G, IoT, and AI, to
+
+enhance your contributions during group discussions.
+
+3.  Be well-versed in the projects listed on your resume and prepare to discuss the
+
+experiences you highlight.
+
+4.  Emphasize how your personal and professional goals align with Verizon’s mission of
+
+innovation and customer-centricity.
+
+5.  Be ready with a few questions about the company or the role to ask the interviewer.
+

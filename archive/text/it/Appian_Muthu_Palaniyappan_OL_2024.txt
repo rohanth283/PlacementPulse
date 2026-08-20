@@ -1,0 +1,91 @@
+|                  | PLACEMENT    |                 | EXPERIENCE | – APPIAN |
+| ---------------- | ------------ | --------------- | ---------- | -------- |
+| Name: Muthu      | Palaniyappan | OL (2020115054) |            |          |
+| Department:      | IT           |                 |            |          |
+| Year Of Passing: | 2024         |                 |            |          |
+CGPA: 8.54
+Appian is a software company that automates business processes. The Appian AI-Powered
+Process Platform includes everything you need to design, automate, and optimize even the
+most complex processes, from start to finish. They have office locations all over the world and in
+| Chennai in | India.   |     |     |     |
+| ---------- | -------- | --- | --- | --- |
+| CANDIDATE  | PROFILE: |     |     |     |
+First step of getting placed in a company is getting shortlisted for an interview. So try to maintain
+a CGPA of at least above 8.0 because many companies do filter based on CGPA. Don’t fill
+resumes with things you don't know. Whatever is in your resume will reach the company before
+you go for an interview. Be strong with basics and have good projects in your resume. Have a
+| perfect understanding | of     | your choice | of tech stack | for your projects. |
+| --------------------- | ------ | ----------- | ------------- | ------------------ |
+| PRELIMINARY           | ROUND: |             |               |                    |
+The first round was an Online Assessment which was held on Glider platform. It had 2 sections
+| – MCQ and | Coding. |     |     |     |
+| --------- | ------- | --- | --- | --- |
+The MCQ section had 5 easy questions which were a mix of debugging and output questions.
+The coding section had 2 questions – one easy and one medium. We had to code only in Java.
+- The first question was an easy leetcode problem related to arrays and hashmap.
+- The second question was a medium one which was breadcrumbs on a website. Given an
+ArrayList<ArrayList<String>>navigations generate the actual navigation tree.
+
+I was able to solve both the questions. 38 students were shortlisted for the interviews.
+| TECHNICAL | ROUND |     | 1 (40 mins): |     |     |
+| --------- | ----- | --- | ------------ | --- | --- |
+This was an offline interview at CUIC. Firstly, I was asked to introduce myself and then one
+problem solving question was asked. I was asked to solve a majority element and there was a
+| follow up | question | to solve | it in O(1) space. | I was able | to solve both. |
+| --------- | -------- | -------- | ----------------- | ---------- | -------------- |
+| TECHNICAL | ROUND    |          | 2 (40 mins):      |            |                |
+This round consisted of problem solving and resume related questions. The problem solving
+question was based on binary search with a few modifications. I gave the easy approach and
+later optimized it. I made some mistakes when I was trying to solve the problem but my
+approach to solving the problem was right. The interviewer asked me to talk about my favorite
+| project and | then | he asked | too many questions | regarding | it. |
+| ----------- | ---- | -------- | ------------------ | --------- | --- |
+| HR ROUND    | (10  | mins):   |                    |           |     |
+There were a few simple questions like where I come from, my family and academics. A few
+questions from my resume were also asked. And finally he asked if I had any questions for him.
+| PREPARATION |       | STRATEGY: |     |     |     |
+| ----------- | ----- | --------- | --- | --- | --- |
+| - Follow    | these | sheets:   |     |     |     |
+- https://neetcode.io/roadmap
+- https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-proble
+ms/
+| - Follow | these | YT  | Channels |     |     |
+| -------- | ----- | --- | -------- | --- | --- |
+- https://www.youtube.com/@takeUforward
+- https://www.youtube.com/@NeetCode
+- https://www.youtube.com/@RachitJain/videos
+| - Practice |     | Here: |     |     |     |
+| ---------- | --- | ----- | --- | --- | --- |
+- https://leetcode.com/
+- https://www.geeksforgeeks.org/
+| - Learn | DBMS, | OS, | Networking |     |     |
+| ------- | ----- | --- | ---------- | --- | --- |
+- Do good projects (A Project is considered as good only you have invested a lot of time to
+solve some problem, it should not be generic project, it should be interesting enough to
+| keep | interviewer |     | engaged) |     |     |
+| ---- | ----------- | --- | -------- | --- | --- |
+TIPS:
+| - Have | all | the notes | for DBMS, OS, | Networking |     |
+| ------ | --- | --------- | ------------- | ---------- | --- |
+
+- They could ask you to design fully normalized database for a system and then
+|     | ask you to write | queries |     |     |
+| --- | ---------------- | ------- | --- | --- |
+- They could ask you what’s TCP/UDP and Difference between them
+- Have all your project’s repo link and demo links updated and ready
+- If its a online interview instead of explaining the project just show a demo of the project,
+| if its a | live hosted project | do send | the link of | the project to interviewer |
+| -------- | ------------------- | ------- | ----------- | -------------------------- |
+- Do know all the components and tech stacks you used in your project and give clear
+| reason | why you choose | that tech stack |     |     |
+| ------ | -------------- | --------------- | --- | --- |
+- You should steer the conversation with interviewer to focus on the strong areas of you
+- Have a solid foundation of basics for whatever concept you're talking about, they judge a
+lot about your basics. If you dont know better say that you don't know.
+| - Do prepare | for standard | questions |     |     |
+| ------------ | ------------ | --------- | --- | --- |
+- Sometimes interviewer will give you clues, be ready to use these clues they are there to
+| help you |     |     |     |     |
+| -------- | --- | --- | --- | --- |
+Mail: muthu892542@gmail.com
+Linkedin: https://www.linkedin.com/in/muthu-palaniyappan-ol-162422201/

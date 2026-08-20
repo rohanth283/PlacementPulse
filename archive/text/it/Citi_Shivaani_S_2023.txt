@@ -1,0 +1,81 @@
+Internship Interview Experience – CITI
+
+Shivaani S -2020115082
+
+About the Company
+
+Citigroup
+bank and financial services corporation headquartered in New York City.
+
+Inc. or Citi (stylized as citi)
+
+an
+
+is
+
+American  multinational investment
+
+Profile:
+
+Mention  all  the  recent  projects,  put  courses  if  you  have  done  any,  keep  the  format  of  the
+resume simple and formal. Try to keep your resume to one or maximum to two pages.
+
+Rounds OA(2 hours):
+
+It  consisted  of  5  sections-  Logical  Reasoning,  Mathematical  Aptitude,  Verbal  Reasoning,
+Technical MCQs and 2 coding questions. The coding questions were:
+
+•  Print  the  trapezium  pattern-  https://www.geeksforgeeks.org/program-to-print-the-
+
+trapezium-pattern/
+
+•  Generate  a  2d  array  with  a  given  integer  (increment  each  entry  by  1)  and  print  the
+
+product of that array with its transpose.
+
+Eg: if 3 is given and n=2 and m=2
+
+Then the matrix would be 3 4
+
+      5 6
+
+I passed all the cases of the second question and 9/11 cases of the first question.
+
+ 62 students were selected for the next round.
+
+Technical Round (30-45 mins):
+
+Questions were based on my resume, about my projects. Other basic questions like what is a
+data structure, give the application of a data structure were asked. I was also asked to write
+the code for finding prime numbers in an array (I wrote the code using the usual brute force
+approach and then was asked if any other ways can be used-it wasn’t optimal). I was asked
+to describe the oops concepts. They also asked where I would want to see myself in the next
+five years and if I had any questions for them.
+
+Know your resume thoroughly. Know the basic concepts of OOPS, OS and DBMS.
+
+About 35 were selected for HR.
+
+HR Round:
+
+This round lasted only for 5-10 mins. The questions were very general – tell me about yourself,
+talk about your family, who is your motivator and what do you know about Citi.
+
+23 students were selected for internship.
+
+Know  whatever  you  put  in  your  resume.  For  basic  concepts  you  can  refer  interview  bit  or
+geeksforgeeks  for  OS,DBMS  and  OOPS(like:  https://www.interviewbit.com/oops-interview-
+questions/ ). For Coding: Leetcode, GeeksforGeeks,.
+
+Look  at  the  GFG  archives  before  attending  the  interview  or  test  for  any  company.  It  really
+helps.  If you don’t know the answer for a question, tell them your not sure or you don’t know.
+Know  about  the  company  before  attending  the  interview.  Stay  calm.  Be  prepared  for  HR
+questions like “why citi?”,”Your Strengths and weakness” and “what would you do when…”
+situation type questions.
+
+Shivaani S
+
+9444257125
+
+All the best!.
+

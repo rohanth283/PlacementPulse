@@ -1,0 +1,113 @@
+Interview Experience
+
+Name :  A. Murugan
+
+Reg. No : 2018115059
+
+Company :  Lister Technologies
+
+Month & Year : OCT 2021
+
+Lister Technologies Recruitment process contains four rounds and they offer
+two packages:
+
+1). Samurai Programmer – 9 LPA
+
+2). Power Programmer – 7 LPA
+
+Round 1 : (Online Test)
+
+It contains general aptitude questions and two programming questions.
+
+We can crack this round if we knew all the basic concepts in aptitude and
+practice it.
+
+They asked 2 coding questions. One is easy and one is moderate level question.
+We can solve these questions if we practice programming regularly/daily in
+GFG/Leetcode/HackerRank/HackerEarth.
+
+The candidates shortlisted from Round 1 attended the PPT. 59 students
+shortlisted to attend PPT.
+
+Round 2: ( Behavioural Assessment)
+
+It is a non-elimination round.
+
+Round 3 : ( Techno-Managerial Round)
+
+This round went for like 90 minutes.
+
+Interview started with introduce yourself.
+
+Then he asked to elaborate the project which I mentioned in introduce yourself.
+
+I explained the project for 15 minutes and he asked questions from that.
+
+Then he asked about my Final Year Project which we completed only less than
+15% at that time. I explained about the Final Year Project and he asked some
+questions and also give suggestions to improve it a bit. This discussion went for
+like 15 minutes.
+
+Then he asked me about how I am managing my time because I mentioned I am
+part of 3 to 4 clubs and having some role to play in more than 2 clubs.
+
+After that he started asking questions from Data Structures, Algorithms, DBMS,
+Operating Systems, Computer Networks, Object Oriented Programming,
+Software Engineering, React Js, Next Js, Ajax and some technologies I
+mentioned that I have hands-on working experience.
+
+In OS, he asked questions from Semaphore, Process Scheduling and Memory
+Management.
+
+In Software Engineering, he asked questions from Agile Methodology and some
+basics.
+
+He asked me to list various data structures and its applications.
+
+He also asked SQL queries and some basic concepts from DBMS.
+
+Finally Interview was over and he asked whether I have any questions.
+
+ I asked him 3 questions at the end.
+
+Be prepared or have some scripted answers for questions like introduce
+yourself, some most common HR/Managerial questions asked in most of
+the interviews ( Refer Google and Youtube), etc.
+
+Have clear knowledge about your projects.
+
+You must ask questions to the interviewers if you get a chance, because it
+should be like two way conversation.
+
+Round 4: (HR)
+
+We made a Powerpoint to introduce ourself. So first she asked me to present the
+PPT to introduce myself.
+
+She asked questions about my family, strengths and weaknesses and other
+typical HR questions. (Be prepared to answer all the HR interview questions
+before the interview itself)
+
+She asked some situation based questions.
+
+I got full marks in online test so she didn’t asked me to explain the answers. She
+asked how I prepared to answer all the questions correctly.
+
+They have our answers as PDFs and they asked questions from that. Some of
+my friends are asked to explain the submitted answers.
+
+At the end, she asked whether I have any questions to ask and I asked some
+questions to her from the Pre-placement Talk. Make sure you listen to the PPT
+well.
+
+Finally, I got selected and got offer for Samurai Programmer.
+
+Note :
+
+•  Don’t give-up and keep practicing code and aptitude.
+•  Be prepared.
+•  We should be at the right place at the right time to get selected so don’t
+get frustrated and stop revising/preparing in the mid of the placements.
+
+All the best and All is well !!!
+

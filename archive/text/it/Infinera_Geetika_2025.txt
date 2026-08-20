@@ -1,0 +1,55 @@
+| GEETIKA |     |         | T K | - INTERN |     |       | + FTE | AT  | INFINERA |     | INDIA |
+| ------- | --- | ------- | --- | -------- | --- | ----- | ----- | --- | -------- | --- | ----- |
+| About   | the | Company |     | and      | the | Role: |       |     |          |     |       |
+Infinera is a company focused on networking, particularly working
+with optical fibers and related technologies. Recently, they have
+also been involved in projects utilizing AI and ML. I have been
+selected for the Software Developer role, with positions also
+| available  | for       | Testers. |           |     |     |         |     |            |     |          |     |
+| ---------- | --------- | -------- | --------- | --- | --- | ------- | --- | ---------- | --- | -------- | --- |
+| Interview  | Process:  |          |           |     |     |         |     |            |     |          |     |
+| All rounds | were      |          | conducted |     |     | offline | and | supervised |     | by CUIC. |     |
+| Round      | 1: Online |          | Test      |     |     |         |     |            |     |          |     |
+The test lasted for about 1 hour and included 10 general aptitude
+questions, 35 technical MCQs (covering OS and Networks), and 1
+| coding     | question     |        | (which        |           | I solved |     | using      | maps | in C++). |      |     |
+| ---------- | ------------ | ------ | ------------- | --------- | -------- | --- | ---------- | ---- | -------- | ---- | --- |
+| Round      | 2: Technical |        |               | Interview |          | 1   |            |      |          |      |     |
+| This round |              | lasted | approximately |           |          |     | 1.5 hours. | It   | began    | with | a   |
+self-introduction, followed by 15 to 20 scenario-based questions on
+| OS and    | OOPs.I |       | was     | then | asked |               | to explain | all            | my    | projects |     |
+| --------- | ------ | ----- | ------- | ---- | ----- | ------------- | ---------- | -------------- | ----- | -------- | --- |
+| mentioned |        | in my | resume. |      | The   | interviewer   |            | then           | moved | on       | to  |
+| Networks, | asking |       | me      | to   | solve | client-server |            | scenario-based |       |          |     |
+questions. I struggled with 2 out of 7 questions of the network
+questions. Additionally, I was asked to write three pieces of code:
+one based on an OOP scenario, one involving string operations in
+| C++,           | and another  |        | for            | socket    |     | programming. |       |         |     |        |     |
+| -------------- | ------------ | ------ | -------------- | --------- | --- | ------------ | ----- | ------- | --- | ------ | --- |
+| Round          | 3: Technical |        |                | Interview |     | 2            |       |         |     |        |     |
+| This interview |              | lasted |                | about     |     | 1 hour.      | I was | given   | two | coding |     |
+| problems,      | which        |        | I successfully |           |     | solved       |       | in C++. |     |        |     |
+1) Find the nth node from the end of a singly linked list with only
+| one traversal |     | and | without |     | using | auxiliary |     | space. |     |     |     |
+| ------------- | --- | --- | ------- | --- | ----- | --------- | --- | ------ | --- | --- | --- |
+
+2) Find the palindrome substring in a string and add characters only
+| on the | left to       | make      | the       | entire | string   | a palindrome. |      |           |     |
+| ------ | ------------- | --------- | --------- | ------ | -------- | ------------- | ---- | --------- | --- |
+| I used | a two-pointer |           | technique |        | to solve |               | both | problems. |     |
+| Round  | 4: HR         | Interview |           |        |          |               |      |           |     |
+This round involved a self-introduction and general questions like
+| "Why    | Infinera?" | No         | filtering | was       | done | in   | this  | round. |       |
+| ------- | ---------- | ---------- | --------- | --------- | ---- | ---- | ----- | ------ | ----- |
+| Overall | Strategy:  |            |           |           |      |      |       |        |       |
+| Prepare | well       | in advance |           | on topics |      | like | OOPs, | OS,    | DBMS, |
+Networks, DSA, and everything mentioned in your resume. During
+the interview, stay relaxed, communicate openly, and learn from the
+| interviewer   | when | you    | make | mistakes. |         |     | It’s all | about | your       |
+| ------------- | ---- | ------ | ---- | --------- | ------- | --- | -------- | ----- | ---------- |
+| communication |      | skills | and  | your      | ability | to  | think    | on    | your feet. |
+My Advice:
+| Consistent | preparation |     |     | can help | you | feel | more | confident. |     |
+| ---------- | ----------- | --- | --- | -------- | --- | ---- | ---- | ---------- | --- |
+Unfortunately, I didn’t do that—I prepared only the night before the
+interview.

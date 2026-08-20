@@ -1,0 +1,196 @@
+Sivasankaramoorthy R – IST
+Barclays Intern
+
+About the company:
+
+Barclays plc is a British multinational universal bank headquartered in
+
+London, England, aiming to be a UK-centered leader in global finance. With a focus on
+operational excellence, customer satisfaction, and robust liquidity and risk management,
+Barclays serves a diverse clientele through five key divisions: Barclays UK, Barclays
+Investment Bank, Barclays UK Corporate Bank, Barclays Private Bank and Wealth
+Management, and Barclays US Consumer Bank. Over the next three years, the bank is
+committed to enhancing its performance by making itself Simpler, Better, and More balanced.
+With a trusted brand and a customer base of over 20 million in the UK and the US, Barclays
+is dedicated to creating a better financial future for its customers, clients, and communities
+while ensuring predictable, attractive returns for shareholders.
+
+About the role:
+
+Technology summer intern 2025
+
+Work on projects & tech on developing highly scalable application. Design
+
+and develop Micro services, GUI, Server components. Implement Functional solutions, unit
+test & coordinate releases and where applicable contribute to design sessions. Interact with
+end users & product owner to understand their requirements and build solution pertaining to
+that.  Work as a part of a local team and liaise regularly with colleagues in other regions.
+Provide support to for the applications BAU work as needed.
+
+Duration: 8 weeks
+
+Overview of the process:
+
+Overall process consists of
+
+•  Online round(MCQ questions & coding question & SQL question)
+•
+•
+
+Interview round -I  (Technical & HR)
+Interview round -II (Based on resume)
+
+Online round:
+
+•  There are 14 questions: 12 MCQ questions, one coding question, and
+
+one SQL question.
+
+•  The MCQ questions cover topics from operating systems, SQL queries,
+
+databases, and programming languages such as C++, Java, and
+pseudocode.
+
+•  The SQL question is simple and can be solved by joining the tables.
+•  Everyone has a common tricky coding question based on strings.
+
+•  Given two strings, String A is a non-empty string, and String B
+consists of 'T' and 'F'. The task is to return a resultant string if a
+particular index in String B has 'T' and the resultant string has String A
+as a substring at that index.
+
+•  Twenty-nine students were shortlisted for the interview round. The
+
+results were announced two days later.
+
+•  Solve the coding question and sql question as it carries more marks and
+try to make all the MCQ questions is enough to get selected for the
+next round.
+
+Interview round -I (Technical & HR):
+
+•  This round started at 10:30 AM, and naturally, the interview began
+
+•
+
+with introductions.
+I was feeling frustrated at the start, but the panel member (she) tried to
+calm my nerves.
+
+•  She reviewed my resume and asked me to explain my LLM project
+using system architecture. Since I am currently working on that
+project, I was able to explain it clearly.
+I was asked questions about operating systems , oops and Java basics.
+I presented merge sort and binary search, including code and
+explanations, addressing aspects like time complexity as well.
+•  Two SQL queries were posed, and I answered all the technical
+
+•
+•
+
+questions quite well.
+
+•  As she moved into the HR round, she began asking questions about my
+
+family and hobbies.
+
+•  She asked me two HR questions, and I answered them close to her
+
+expectations. Even though I felt I had responded well, she pointed out
+some flaws in my answers, which caused me to doubt myself.
+
+•  The questions were: "What would you do as a team leader when you
+find out a bug on the penultimate day of project submission to the
+stakeholder?" and "What would you do as a team leader if you forgot
+your login access card on the day of model deployment?"
+
+•  Finally, she asked if I had any questions. I came up with several, such
+as, "What are the expectations when you join Barclays, and will they
+be fulfilled?" I also posed a point-of-view question and asked her to
+reminisce about her college days. This part seemed to change her
+perspective during the HR round.
+•  My interview lasted more than an hour.
+
+Interview round - II(based on my resume):
+
+•  This round focused on my resume.
+•
+
+I was asked about the purpose of my project, the technology stack
+used, and the number of members involved in the project.
+
+•  She inquired about what I would do if I lost my code and how I would
+
+handle a situation where a teammate wasn’t performing well.
+
+•  She also asked whether I had any knowledge of stocks, given that
+
+Barclays is a financial company. I honestly replied that I have a basic
+understanding of finances.
+•
+I responded to all the questions very well.
+•  This round helped me build my confidence.
+•
+•  Overall, I felt that my responses contributed positively to the interview.
+•  This round will last for 20 mins.
+
+I was able to address some technical aspects effectively.
+
+      Barclays HR team announced 14 members were shortlisted. And I was one of them.
+
+My preparations and Key insights:
+
+•
+
+•
+
+I started my coding preparation during my 4th semester holidays.
+While it felt a bit late, I reminded myself that it's never too late to
+begin, and I focused on working through data structures and algorithms
+(DSA) while recalling everything before my interview.
+It's essential to have a solid understanding of the company you're
+interviewing with. For instance, Barclays has values encapsulated in
+the acronym RISES, and they expect candidates to align with these
+values.
+
+•  Being truthful about your resume is crucial. Highlight only the most
+relevant experiences and skills, and approach the interview with
+confidence, as if you truly believe you are the right fit for the position.
+I utilized ACM CODE documents for my preparation and participated
+in numerous coding competitions, which I found incredibly beneficial.
+I highly recommend engaging in all kinds of technical events, as they
+provide valuable experience.
+
+•
+
+•  Don’t hesitate to ask questions if you’re unsure about something. This
+shows your eagerness to understand and learn, which can positively
+attract the interviewer’s attention.
+
+•  When answering HR-related questions, ensure that you provide the
+
+best possible solutions. Take your time to formulate your responses .
+•  Develop your communication skills. Even if you feel nervous and start
+to ramble, make sure to convey enough information for the interviewer
+to understand your thoughts clearly. Being articulate can leave a
+lasting impression.
+
+•  Ultimately, my honesty regarding my resume and the skills I
+
+demonstrated during the interview played a significant role in securing
+my internship.
+
+Name
+
+: Sivasankaramoorthy R
+
+Department     : Information Science& Technology
+
+Batch
+
+: 2022-26
+
+LinkedIN         : Sivasankaramoorthy
+
+All the best for your preparations!!
+

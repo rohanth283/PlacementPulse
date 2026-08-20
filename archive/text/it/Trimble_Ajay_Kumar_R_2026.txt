@@ -1,0 +1,249 @@
+Trimble Placement Experience
+
+-  Ajay Kumar R (Batch 2022- 26)
+
+About the Company
+
+Trimble is a global technology company specializing in positioning, navigation, and
+mapping  solutions.  Founded  in  1978,  it  was  among  the  first  to  commercialize  GPS
+technology for civilian use. The company integrates various technologies like GPS, laser,
+optical, and inertial systems with software and services to enhance productivity across
+different sectors.
+
+Trimble’s solutions are widely used in industries such as construction, agriculture,
+geospatial mapping, and transportation. A core focus of the company is connecting the
+physical and digital worlds to improve efficiency and decision-making.
+
+Previous Experience: Trimble was my first personal interview experience. Prior to this,
+I was shortlisted for Tekion, but I did not clear their coding screening.
+
+Key  Realization:  That  failure  made  me  realize  where  I  stood.  I  had  strong  problem-
+solving  logic  but  lacked  hands-on  coding  experience,  as  I  only  started  serious  coding
+preparation around August (just before placements).
+
+Trimble Recruitment Process
+
+The recruitment process for the Software Engineer role consisted of one coding
+
+round followed by three interview rounds.
+
+Round 1: Coding Round
+
+The coding round was conducted on the Codility platform, which featured a built-
+
+in AI assistant. There were two coding questions.
+
+●  Question 1: Given a string containing ‘?’ and an integer ‘k,’ you can replace each
+‘?’ with any alphabet. Additionally, at most 'k' other characters in the string could
+be  replaced  to  make  it  a  palindrome.  The  task  was  to  return  the  resulting
+palindrome if possible; otherwise, return 'NO'
+
+●  Question  2:  Given  an  m  x  n  matrix,  return  the  count  of  possible  sub-matrices
+where the  sum of the elements inside  the  sub-matrix is equal to  the sum of the
+elements outside of it.
+
+I successfully solved both questions and submitted my solutions way before the
+deadline. The built-in AI assistant on Codility helped  me optimize my approach  for the
+second problem.
+
+Round 2: Technical Interview (70-75 minutes)
+
+35 people were shortlisted for this round. It was a 1:1, in-person interview held at
+CUIC. The interviewer was very calm. I started by honestly rating my DSA skills as 2.5/5,
+explaining that I focus more on real-time solution building (Hackathons) than competitive
+coding.  My  confidence  in  admitting  this  impressed  him.  After  a  discussion  about  my
+coding round experience, we moved directly to the technical questions.
+
+The questions covered the following areas:
+
+●  Data Structures & Algorithms (DSA):
+
+○  Given  a  specific  scenario  (LIFO  based),  identifying  the  correct  data
+
+structure (Stack).
+
+○  Binary  Trees:  How  to  validate  if  a  tree  is  a  Binary  Search  Tree  (BST)?  I
+explained the Inorder Traversal approach (sorted output = valid BST) and
+discussed Pre-order and Post-order traversals.
+
+●  Object-Oriented Programming (OOPS):
+
+○  Asked about the four pillars of OOPS. (I briefly blanked out, took a sip of
+
+water to stay calm, recalled them, and answered).
+
+○  Questions on Inheritance.
+
+●  Database Management Systems (DBMS):
+
+○  What types of databases have you worked with?
+○  Discussion about normalization.
+○  Given two tables, query a specific field requiring data from both. I initially
+wrote a Sub-query, but he asked for an optimization, so I converted it to a
+Join query.
+
+●  Web Development:
+
+○  React: Questions on Hooks and other related concepts.
+○  JavaScript:  Asked  a  specific  question  I  didn't  know;  I  admitted  I  wasn't
+
+familiar with it.
+
+●  Projects & ML: Discussed my ML-based project. Since the interviewer knew ML,
+
+he asked about Gradient Descent and few other basic ML concepts.
+
+●  Sorting: Asked for my favorite algorithm (Merge Sort) and made me simulate the
+
+sorting process on a given set of numbers.
+
+I was able to answer most of the questions correctly. The questions in this round
+were not overly difficult and covered the fundamentals of all core computer science areas.
+The round ended with me asking the interviewer some questions.
+
+Round 3: System Design and Managerial Round (55-60 minutes)
+
+Around 20 candidates were shortlisted for this round. This round was enjoyable as
+we had more of a causal talk than a formal, strict interview setup. This round happened
+immediately after the technical round.
+
+●  DSA Check: He asked if I use LeetCode or any other similar coding platforms. I
+honestly replied that I don't have an account and rely on exploring concepts rather
+than grinding problem counts and added my hackathon experiences.
+
+●  System Design: I was asked to draw the System Design for the same project I
+discussed in the previous round. I spent ~20 minutes explaining the workflow, tech
+stack, and architecture.
+
+●  Hybrid Technical Question: A mix of OS and DSA.
+
+○  Scenario: Page replacement logic using a Queue structure.
+○  Twist: Instead of simple numbers, the input was a tuple where the second
+value  dictated  priority.  I  identified  it  as  a  Queue and  wrote  the  core  logic
+(initially  using  Python  built-ins,  then  implemented  the  logic  from  scratch
+upon request).
+
+●  Managerial & Scenario-Based Questions:
+
+○  "How  do  you  go  about  learning  a  new  skill?",  for  which  I  stated  my  first
+hackathon experience as an example of learning a new tech stack within a
+restricted time frame.
+
+○  "If a co-worker insists on a sub-optimal approach, how do you handle it?”,
+for which I replied I would  not oppose them publicly. I  would discuss it in
+private,  try  to  understand  their  perspective,  and  patiently  explain  the
+fallbacks of their idea.
+
+○  "Where do you see yourself in a few years?", and I replied that I don't have
+a specific location, but I want to be in a place where my heart doesn't feel
+burdened and is happy.
+
+The  interviewer was very impressed. He stood up and  shook my hand as I left,
+which was a great confidence booster.
+
+Round 4: HR - Personal Experience Round (40 minutes)
+
+11-13  people  were  shortlisted  for  this  final  round.  The  discussion  was  centered
+around my personal experiences and background. I was the second person called for HR.
+The interviewer took notes on her laptop but eventually stopped to engage directly.
+
+●  She asked about my hackathon experiences, my strengths and weaknesses, and
+
+my family background.
+
+●  She  asked  why  I  hadn't  cleared  previous  companies  (Tekion,  etc.)  for  which  I
+
+admitted I started late but pointed out that sitting in front of her was proof of my
+
+rapid progress and ability to learn.
+
+●  She asked what is my goal for which I used a "Bus Metaphor": "If I miss a crowded
+
+bus, I should be free enough to wait for the next one." Which means I want the
+
+freedom  to  be  happy  with  what  I  have  ("Go  with  the  flow")  while  being  strong
+
+enough to move forward.
+
+●  She asked why I chose to study at CEG and why Trimble. I tied my answers back
+
+to  my "Go  with  the  flow"  philosophy.  For  CEG,  it  was the  best  option  within the
+
+constraints I had. For Trimble, she smiled and finished my sentence: "Go with the
+
+flow, right?"
+
+●  The  HR representative  noticed  that my friend  Varun,  who  is  also my hackathon
+
+teammate, and I had worked on common projects is there in the list of candidates
+
+who got selected for the HR round and asked me about our shared experiences.
+
+(We both ultimately received an offer).
+
+In the end, six of us received an offer, and I am happy to be one of them. The interview
+process  primarily  focused  on  my  understanding  of  core  concepts,  system  design
+capabilities, and the projects I had worked on.
+
+My Preparation Strategy:
+
+●  Platform-Agnostic:  I  did  not  use  LeetCode  or  specific  YouTube  channels.  I
+
+focused on the logic behind important DSA topics rather than memorizing code.
+
+●  Method: I looked at optimal solutions to understand how they were derived. If a
+
+new data structure was used, I stopped to learn it before moving on.
+
+●  Language: I used Python.
+
+○  Suggestion: I chose Python because I was short on time. If you have time,
+
+stick to  Java  or C++. Only switch to  Python if you are late to preparation
+
+and need to focus on logic over syntax.
+
+●  Core Concepts:  I relied on GeeksforGeeks and my academic coursework.
+
+●  Projects: My deployed projects and hackathon experience were incredibly helpful
+
+during the interviews.
+
+Tips:
+
+●  Don’t  over-exaggerate  your  resume.  Even  if  it’s  minimal,  make  sure  you  truly
+
+understand everything you put on it.
+
+●  Be Honest: If you don't know an answer (like the JS question), admit it. It's better
+
+than bluffing.
+
+●  Don’t get demotivated if you don’t get placed early; stay confident and focus on the
+
+process.
+
+●  Don't  Panic:  If  you  forget  something  simple  (like  I  forgot  OOPS  pillars),  take  a
+
+moment. Drink some water. Panic kills memory; calmness restores it.
+
+●  Confidence  is  Key:  Even  if  your  rating  of  yourself  is  low  (like  my  2.5/5),  your
+
+explanation and confidence matter more than the number.
+
+●  Know Your Projects: You should be able to draw, design, and explain every inch
+
+of the projects on your resume.
+
+●  Meaningful experiences from projects, hackathons, and clubs cannot be gained at
+the last minute. My participation in hackathons, in particular, taught me a lot.
+●  Go  at  Your  Pace:  Don't  be  intimidated  by  people  solving  1000+  problems.
+
+Understanding the core logic of a few concepts is often enough.
+
+By,
+Ajay Kumar R (2022115086)
+Email: r.ajaykumars@gmail.com
+LinkedIn: https://www.linkedin.com/in/ajay-kumar-r2004/
+Phone: 9500202444
+

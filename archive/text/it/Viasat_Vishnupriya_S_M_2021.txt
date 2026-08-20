@@ -1,0 +1,65 @@
+Interview Experience
+
+Name :  S.M.Vishnupriya
+Email : muanvide3@gmail.com
+Company : Viasat Inc.
+Month and Year : February 2021 (Internship)
+
+Reg No : 2018115133
+
+Viasat recruitment process consists of three rounds. Eligible shortlisted students were
+
+allowed to attend the round 1. Based on the performance on each round, students can progress to
+next levels.
+Round 1 : Assessment round :
+
+The test contains quantitative aptitude, verbal and logical reasoning and technical aptitudes.
+
+MCQ format questions. The test was conducted on First Naukri platform.
+
+Round 2 : Technical Interview - 1 :
+
+The shortlisted students were scheduled one-on-one interview for 30 minutes. The meeting
+
+was conducted on zoom. You might have to share your screen and code lively. This round started
+with self-introduction. Then I was asked to explain my projects. They inquired some queries when I
+was explaining. Like why I used a particular technology for a particular module in my project.
+I was asked to share my screen and write code for an array problem. They expect optimised solution.
+Then I was asked to write some DBMS queries followed by questions on your preferred
+programming language. Brief explanation on the OOPS concept. Lastly they gave some 2-3 riddles.
+They expected a clear explanation on your approach to solve the puzzle.
+
+Round 3 : Technical Interview – 2 :
+
+Based on the performance on round 2, shortlisted students received mail for 2nd technical
+interview. This was also conducted on zoom meetings. This round went on for 1.15 hours. Started
+with introduction from both ends. Briefly explained my projects. Then I was asked to share my
+screen and write code to print prime numbers between the given range [optimised solution with less
+time complexity].
+Then I was asked the following questions :
+•  How do you login into your router?
+•
+•  About Router internals
+•  Switch vs Hub
+•  How messages are sent and received between two users on the internet?
+•  Questions on the various network protocols
+•  Have you ever worked on network? [For this, I thoroughly explained my Computer Networks
+Course project which is an RFC implementation. Some questions on the working of the RFC]
+
+If your wi-fi stops working what will you do?
+
+•  Why Viasat and my future plans? And followed by some behavioural questions.
+•
+
+Lastly, ended with solving some puzzle questions.
+
+NOTE : The networks related questions were asked because I said Computer Networks is my
+favourite course among the given choices[Cloud Computing, Computer Networks, Compiler
+Engineering, etc]. Still though other students were also asked some network questions as Viasat is a
+network based Company.
+The selected students from this round were offered internship opportunity. I did my internship
+virtually for 2 months as Software Engineer. Later, I was offered PPO for the role of Software
+Engineer – 1.
+
+All the Best !!!
+

@@ -1,0 +1,128 @@
+| SENTHIL    |     | KUMAR    |             |     | J - | INFORMATION |         |           | TECHNOLOGY |          |
+| ---------- | --- | -------- | ----------- | --- | --- | ----------- | ------- | --------- | ---------- | -------- |
+| Technology |     |          | Development |     |     |             | Program | Associate |            | at Optum |
+| About      | the | Company: |             |     |     |             |         |           |            |          |
+Optum, part of the UnitedHealth Group family of businesses, is a leading
+information and technology-enabled health services company, serving more
+than 132 million consumers and delivering the right care when and how it’s
+needed. We are dedicated to evolving healthcare so everyone can have the
+| opportunity |     | to live | their | healthiest |     | life. |     |     |     |     |
+| ----------- | --- | ------- | ----- | ---------- | --- | ----- | --- | --- | --- | --- |
+| About       | the | Role:   |       |            |     |       |     |     |     |     |
+The Technology Development Program (TDP) at Optum is an entry point into
+the world of health technology, providing recent graduates the opportunity to
+gain hands-on experience in developing, implementing, and supporting
+advanced technological solutions that improve healthcare services.
+As a Software Engineering Associate within TDP, you’ll contribute to projects
+across multiple domains, including artificial intelligence, data analytics, and
+application development, all while supporting the modernization of healthcare.
+| Overview |           | of the  | Process:   |           |        |          |            |            |     |     |
+| -------- | --------- | ------- | ---------- | --------- | ------ | -------- | ---------- | ---------- | --- | --- |
+| The      | selection | process |            | consisted |        | of three | stages:    |            |     |     |
+|          | 1. Online | Test    | - Included |           | coding | and      | conceptual | questions. |     |     |
+2. HR Round - A 15-minute virtual interview covering basics and interest
+|     | in  | Optum. |     |     |     |     |     |     |     |     |
+| --- | --- | ------ | --- | --- | --- | --- | --- | --- | --- | --- |
+3. Technical Interview - Conducted in CUIC, where technical skills and
+|     | project | experience |     | were | discussed |     | in depth. |     |     |     |
+| --- | ------- | ---------- | --- | ---- | --------- | --- | --------- | --- | --- | --- |
+
+| 1. Online | Test      |       |       |           |     |           |
+| --------- | --------- | ----- | ----- | --------- | --- | --------- |
+| Coding    | Round:    |       |       |           |     |           |
+|           | ● Problem | Type: | Graph | Traversal |     | (BFS/DFS) |
+● Problem Summary: The task involved finding the shortest path in an
+unweighted graph to deliver a gift from John to Dave, given a network of
+|     | people | connected | by  | direct | relationships. |     |
+| --- | ------ | --------- | --- | ------ | -------------- | --- |
+● Approach: Solved using BFS to determine the minimum number of steps
+|            | required | for the | gift | delivery. |     |     |
+| ---------- | -------- | ------- | ---- | --------- | --- | --- |
+| Conceptual |          | MCQs:   |      |           |     |     |
+● The MCQs covered OOPs, DBMS, OS, and programming snippets, along
+|       | with        | cognitive | ability | questions. |      |              |
+| ----- | ----------- | --------- | ------- | ---------- | ---- | ------------ |
+| After | this round, | around    | 58      | students   | were | shortlisted. |
+2. HR Interview
+The HR interview began with a casual introduction, where the interviewer
+introduced himself and asked about my background and interest in Optum. Key
+| questions | included: |       |           |            |     |                       |
+| --------- | --------- | ----- | --------- | ---------- | --- | --------------------- |
+|           | ● Tell me | about | yourself: | I provided |     | a brief introduction. |
+● What do you know about Optum?: I shared my knowledge of the
+|     | company | and its | goals. |     |     |     |
+| --- | ------- | ------- | ------ | --- | --- | --- |
+● Relocation: I confirmed my openness to relocation if required.
+● Why Optum?: I discussed why I believe Optum is a good fit based on its
+|              | values | and work  | culture. |     |     |     |
+| ------------ | ------ | --------- | -------- | --- | --- | --- |
+| 3. Technical |        | Interview |          |     |     |     |
+In the technical interview, which took place in the afternoon, I covered a lot
+about my projects and technical skills. I started with a quick introduction about
+myself and my background before diving into my project experience.
+
+Project Discussion:
+● First Project: I talked about a summer project we worked on during my
+2nd year. I explained the tech stack we used, some challenges we faced,
+and the collaborative side of working as a team. We used MongoDB for
+the project, and I shared why we chose it over PostgreSQL, especially
+emphasizing MongoDB's sharding feature, which allows better data
+distribution.
+● Next Project: Then, we discussed another project from my resume. I
+walked the interviewer through the algorithms and features we
+implemented, using diagrams to give a clear idea of the implementation.
+He seemed interested in the details, which made it easy to explain our
+approach and the reasons behind our design choices.
+Technical Questions:
+● Authentication vs. Authorization: I gave an overview of both concepts,
+breaking down how each one works in a typical application.
+● Favorite Subject (Computer Networks): Since I picked networks as my
+favorite, he asked about specific layers. I explained the network and data
+link layers and how IP and MAC addresses operate within them.
+● SQL Problem: He gave me a query to solve, which I initially approached
+using subqueries. Then, I used joins to make it more efficient.
+● DSA Problem: For the DSA question, I outlined my approach and coded
+the solution on paper, explaining its space and time complexity. I also
+pointed out an additional optimization, which he appreciated.
+Learning New Tech Stacks: The interviewer was curious about how I learn
+new tech stacks. I shared that I usually combine team insights with my own
+research. For example, when I learned React, I took advice from teammates and
+also did my own deep dive before reaching a conclusion.
+Why Optum?: Finally, we discussed why I was interested in Optum. I
+mentioned the points from their presentation that stood out to me—like their
+work in health technology and how their projects impact real people.
+We wrapped up with a quick chat about the role of new technologies, including
+ChatGPT, in improving workflows. It was a positive way to end, and we both
+agreed on the power of tech in making life easier.
+
+Outcome:
+In total, 15 students were selected for the TDP Associate role at Optum.
+My favourite part of the process was how they focused on understanding the
+| candidates'  | approaches | and | thought | processes. |     |
+| ------------ | ---------- | --- | ------- | ---------- | --- |
+| My Placement | Journey    |     |         |            |     |
+| Foundational | Focus:     |     |         |            |     |
+In the last 6-8 months, I focused on building a strong foundation in data
+structures and algorithms (DSA) and gaining practical project experience for
+| campus       | placements. |           |     |     |     |
+| ------------ | ----------- | --------- | --- | --- | --- |
+| DSA Learning | and         | Practice: |     |     |     |
+I spent a lot of time diving deep into DSA basics like arrays, sliding window,
+two pointers, linked lists, stacks, queues, graphs, and dynamic programming.
+Striver's A2Z sheet was a game-changer. I practiced on coding platforms to
+improve problem-solving skills, which helped me in the Optum online test,
+| especially | with the shortest-path |     |     | problem. |     |
+| ---------- | ---------------------- | --- | --- | -------- | --- |
+Web Development:
+I picked a web development course on Udemy, learned React, and built a fitness
+| app, which | was a great  | boost | to my    | preparation. |     |
+| ---------- | ------------ | ----- | -------- | ------------ | --- |
+| Guidance   | from Seniors | and   | Friends: |              |     |
+I had valuable conversations with seniors Mithulesh, Arunachalam, and Jovina
+about placement preparation. Mithulesh Anna, in particular, shared many
+insights that were incredibly helpful. Shoutout to my batchmates Dharsan and
+| Gogilarasan | for their     | support | throughout |     | this journey. |
+| ----------- | ------------- | ------- | ---------- | --- | ------------- |
+| Support     | from Faculty: |         |            |     |               |
+I’d like to express my gratitude to Dr. K. Vani ma’am for her constant
+encouragement and positive insights during the placement season.

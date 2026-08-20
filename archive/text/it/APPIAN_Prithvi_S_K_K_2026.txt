@@ -1,0 +1,184 @@
+Name: Prithvi S K K
+Roll No: 2023115090
+Mobile: 7448450523
+Mail: prithviskk02@gmail.com
+
+Appian Corporation is an American cloud computing and enterprise software company
+headquartered in McLean, Virginia, part of the Dulles Technology Corridor. The company
+sells a platform as a service (PaaS) for building enterprise software applications. It is focused
+on low-code development, process mining, business process management, and case
+management markets in North America, Europe, the Middle East, and Southeast Asia.
+Appian offers a low code platform with a visual interface and pre-built development modules.
+As with other low-code platforms, it enables businesses to create apps and automations using
+little or no code.
+
+There are founds rounds of interview
+
+1.  Coding round
+2.  Technical round
+3.  Techno - Behavioural round
+4.   HR round
+
+Role: Software Engineer
+
+ Coding Round:
+
+Candidates were sent a link to attend the online coding round, which was held on the Glider
+platform. We had to solve three questions in 75 mins.
+
+Question 1: Given a sorted array and a value x, find the first and last occurrence of value x in
+the array and return them. If x is not found in the array, return {-1, -1}.
+
+ Link : https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
+array/description/
+
+This is a well-known binary search problem.
+
+Question 2: Given a sorted array which contains non – overlapping intervals and a new
+interval which need to be inserted into the appropriate position and return them . The answer
+should also need to be in sorted order, and there should not be any overlapping intervals .
+
+Link : https://leetcode.com/problems/insert-interval/description/
+
+ Since the array is sorted, we can solve this question using a greedy approach
+
+Question 3: Given a 1-D array which contains numbers from 1 to n where n is size of the
+array. It must contain a duplicate number and a missing number. A 2-D array in the size of M
+* 2 will be given, where M is the number of rows in the 2-D array and this 2-D array remains
+the same for every test case. Find the duplicate and missing number from the 1-D array and
+check whether both of them occur as a pair in the 2-D array.
+
+If the pair occurs more than 1 time, return the pair with the string as “Multiple teams found”
+Else if the pair occurs only 1 time, then return the pair with the string “A Team found”
+
+Else return {-1 , -1 , “No team found”}
+
+ Link : https://leetcode.com/problems/set-mismatch/description/
+
+This problem involves finding the duplicate and missing number .
+
+I was able to solve all the problems with an optimal solution. Even if you are finding it
+difficult to find the optimal solution try brute force method, as submitting the test before time
+gives you an edge over  others .  42 of us were shortlisted for the interview process.
+
+Technical Round:
+
+When I walked into the interview room, I’ll admit I was a bit anxious at first. Thankfully, the
+interviewer’s friendly demeanour helped me relax. We began with an introduction, after
+which he moved on to questions about the skills listed on my resume — and he went deep
+into the fundamentals.
+
+Some of the questions I remember included:
+
+  Distributed Systems: What is consistency? What do you think about the consistency in
+
+a distributed environment and type of consistency that MongoDB uses?
+
+  Databases: Difference between SQL and NoSQL, and ACID vs BASE properties.
+  Web Technologies: Why HTML replaced XML?
+
+
+JSON: How would an image be sent in JSON format? If it were sent as a string, how
+would you escape double quotes inside the string, and what is that process called?
+  Networking: What’s the average latency allowed between a client request and server
+
+response?
+
+  HTTP: Difference between GET and POST; how would an HTTP request look?
+  Security: What is JWT and how does it work internally? What are  vulnerabilities?
+
+
+JavaScript: Difference between setTimeout() and setInterval().How do you limit the
+number of times a setInterval() is executed?
+I was also asked to walk through the end-to-end flow of how a website works, right from the
+user’s request to the server’s response. including security aspects.
+
+
+
+Then came the only DSA question:
+
+"If there are crores of numbers in a stream where the range is [1,100], and only one number
+is not duplicated while the rest are duplicated multiple times, how would you find it
+optimally?"
+
+I first suggested a frequency map (hash map) solution — O(n) time, O(n) space. He asked for
+further optimization. I proposed counting occurrences directly using an array/bitset, and since
+only one number is non-duplicated, we could maintain a counter — once we’ve seen
+duplicates for 99 numbers, the remaining one is the answer. This avoids extra space and
+works efficiently for the given range. He seemed satisfied with this approach.
+
+Solution I suggested :
+
+int count[101] = {0};
+int duplicatesFound = 0;
+for (number in stream) {
+    count[number]++;
+    if (count[number]==2){
+        duplicatesFound++;
+        if (duplicatesFound==99){
+            for (int i = 1; i <= 100; i++) {
+                if (count[i] == 1) {
+                    return i;
+                }
+            }
+        }
+    }
+}
+
+This round lasted an hour and felt intense but rewarding.
+
+Technical Round II:
+
+This was more of a technical + behavioural conversation. This round was virtual .It started
+with my introduction and the interviewer inquired about my area of interest to which I
+answered “Web Development"  and he asked some questions related to it , some of the
+question  I could recall:
+
+  Why is Next.js preferred over React?
+  Difference between var, let, and const in JavaScript.
+  Difference between Express.js and Node.js.
+  Difference between TCP and UDP
+  What are Web Sockets? What is the protocol that uses Web Sockets?
+
+I was also asked “Why Appian?”   to which I was able to answer confidently.
+
+We also had some general web development discussions. The round lasted for about 15
+minutes.
+
+HR Round:
+
+This round was casual and focused on my background, interests and some general ideas.The
+round lasted for about 10 minutes.
+
+Finally the results were published around 9pm and I was fortunate to be one of them . 12 of
+us (8 from CEG and 4 from MIT were selected).
+
+Bonus Tip:
+
+At the end of each round, I was given the chance to ask my own questions. This is a great
+opportunity — prepare smart, interesting questions that can leave a lasting impression.
+
+My Preparation and strategies:
+
+
+
+It’s never too late to begin your DSA journey. Consistency matters more than speed
+— solving even one or two problems a day is enough if done regularly.
+
+  Strengthen your core fundamentals in OS, DBMS, and Computer Networks.
+
+Platforms like GeeksforGeeks and InterviewBit are great resources to revise and
+practice these concepts.
+
+  For structured DSA preparation, I recommend working through Striver’s A2Z Sheet.
+If you enjoy reading in depth, explore “Beyond Cracking the Coding Interview” or
+curated content from interviewing.io.
+
+  While solving problems, focus on recognizing patterns — most questions revolve
+
+around recurring approaches once you start identifying them.
+
+  Be thorough with your resume. Every single word on it can lead to a question in the
+
+interview. Be transparent, and communicate your thoughts with confidence.
+

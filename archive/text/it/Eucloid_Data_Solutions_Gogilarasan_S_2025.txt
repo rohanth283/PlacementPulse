@@ -1,0 +1,86 @@
+GOGILARASAN S
+
+B.tech Information Technology
+
+EUCLOID DATA SOLUTIONS – INTERVIEW EXPERIENCE 2024
+Role : Data Engineer
+
+Eucloid  visited  our  campus  for  recruitment  for  the  first  time.  The
+process started with a PPT, followed by an online test. The next day,
+we had the interview. (All process Virtual)
+
+Round 1: Online Test
+
+As mentioned, the first round was an online test consisting of basic
+multiple-choice  questions.  The  questions  were  designed  to  assess
+analytical  thinking,  logical  reasoning,  and  problem-solving  skills.
+Topics included aptitude, mathematics, statistics, verbal ability, and
+even a few puzzles. Notably, there were no coding questions.
+
+Out of 99 students who took the assessment, 42 were shortlisted for
+the technical interview. There was a slight delay in announcing the
+results, but it was communicated by the placement cell around 11
+AM the following day.
+
+Round 2: Technical Interview
+
+The  technical  interview  was  conducted  via  Microsoft  Teams.  It
+started  with  a  self-introduction,  after  which  the  interviewer  asked
+me to discuss my web development projects, particularly one I had
+listed on my resume. I used the STAR (Situation, Task, Action, Result)
+method to explain the project. The interviewer asked several follow-
+up questions, especially about AWS, since I had deployed my project
+
+using  cloud  services.  I  provided  a  detailed  explanation  of  EC2
+instances and the steps involved in setting them up.
+
+Technical Questions asked were:
+
+•  What is a Data Engineer?
+•  Can you explain the Star Schema?
+•  How would you rate yourself in SQL on a scale of 1 to 10?
+•  What is the difference between Drop and Truncate?
+•  What is the difference between WHERE and HAVING clauses?
+•  Which window function is used to access the value in the next
+
+row?
+
+•  I  responded  with  "LEAD  function"  and  elaborated  on  the
+boundary conditions. The interviewer asked further questions
+about  window  functions,  such  as  the  differences  between
+RANK and DENSE_RANK.
+
+•  How would you rate yourself in problem-solving?
+•  Solve the Water Jug problem: Water Jug Puzzle Solution
+•  Solve the 8 Balls Puzzle: Puzzle Link
+•  Solve the Cake Cutting Puzzle: Cake Puzzle
+
+I provided the correct solutions and explained my approach to the
+puzzles.  The  interviewer  was  kind  and  professional,  and  he
+concluded  by  asking  if  I  had  any  questions.  I  inquired  if  there  was
+anything I could improve, and he responded positively, saying he was
+fully satisfied with my performance.
+
+A total of 13 candidates were shortlisted for the next round.
+
+Round 3: Interview with Leadership team (Technical and HR)
+
+This round was conducted by the Director of Data Engineering. He
+began by asking how my previous interview went and then shifted to
+questions about my project.
+
+He was particularly interested in my cloud experience, so I shared my
+screen  and  explained  him  through  both  the  code  and  the  user
+interface of my project, explained sequelize ORM elaborately used in
+my backend.
+
+He asked why I had made specific technical decisions, and I explained
+each feature in detail.
+
+He  also  asked  about  my  experience  as  a  domain  director  for  my
+college clubs, as this was mentioned on my resume. Finally, he posed
+another puzzle: Man Fell in the Well Puzzle.
+
+At the end of the process, five candidates received offers, and I was
+so happy to be one of them.
+

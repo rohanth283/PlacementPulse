@@ -1,0 +1,89 @@
+Interview Experience
+
+Optum, Gurgaon / Hyderabad - Optum_Campus Hiring
+
+Role: Full Stack Engineer
+
+Round 1 :
+
+Online test:
+
+Online test took about 1.5hrs. It consists of 4 sections each focusing on Aptitude, Cognitive thinking,
+English Grammar and one Coding Question. The first 3 sections are of easy to intermediate level. The last
+One coding question was of Medium level (as of Leetcode). The question is like to
+
+“The game: there are N players, and Player P starts with the ball. The goal: Pass the ball around but
+make sure after X passes, it’s back in Player P's hands.
+
+One rule: you can’t pass the ball back to the same person you just got it from. Keep it moving and mix
+it up”
+
+Note: A game is considered as "complete" if the ball ends up with the player
+who started it.
+
+input1: An integer value N, representing the number of
+players,
+input2: An integer value P, representing the player who starts
+the game.
+input3: An integer value X, representing the maximum number of moves allowed to pass the ball.
+Output Specification:
+Return an integer value representing the number of possible ways to complete the game.
+input1: 3
+input2: 2
+input3: 4
+
+Output: 3
+
+Solution: I did used the brute force that involves starting from one person and then implemented DFS
+algorithm starting from the player P as they mentioned and explored all the possible ways.
+
+Around 59 students got shortlisted(including myself)
+
+Round 2 : HR Interview
+
+The HR interview is pretty easier, it was conducted in cuic (but virtual), cuic provided everything for
+attending the interview all you need is to prepare only. The interviewer asked to introduce myself and
+asked basic managerial questions related to the projects like
+
+“How you do manage conflicts with your teammates?”
+
+“What approach you used for learning?”
+
+“How do you face failure?”
+
+Tips: The interviewer expects you to be honest and he/she doesn’t expect any fake stories. So be honest.
+
+Round 3: Technical Interview
+
+The technical interview takes off with casual discussion on academics and some basic questions like
+
+“why you choose IT?”
+“why you choose optum?”
+
+“Optum is a product or Service company?”(listen to their preplacement talk properly)
+
+Then the actual tech questions begin. He asked about the tech stacks I used to make the projects
+
+I used mern, flutter with dart and etc,. He asked me more and more on their fundamentals and
+differentiating between tech stacks.
+
+Then he asked the following:
+“Buy and sell stocks (second level ) available in leetcode. It is find the no of ways to attain the max
+profit).”
+
+I told him the  dynamic programming approach but he was satisfied with recursion code itself.
+
+“Print the output and tell the no of tuples in output after joining the two tables with all types of joins”
+
+“Suppose if you have server that is accessed by multiple clients simultaneously, how will you ensure
+the efficieny?”
+
+I believe I have answered the above question correctly. At last he was satisfied with me .
+
+Tips : Be prepared with some questions that you can ask back to the interviewer at last. Then prepare for
+the core concepts and wire your brain to solve problems by practicing regularly.
+
+16 got selected(including myself)
+
+Thankyou for reading this article. Hope you find something useful ✨
+

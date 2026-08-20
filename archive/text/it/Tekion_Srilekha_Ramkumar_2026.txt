@@ -1,0 +1,113 @@
+INTERVIEW EXPERIENCE
+
+Role: Frontend / Backend developer
+6-month internship + FTE
+
+About the Company:
+
+Tekion Corp is a cloud technology company founded in 2016 by former Tesla CIO Jay Vijayan.
+The company is headquartered in Pleasanton, California, with a major technology center in
+Chennai and Bangalore.
+
+The platform, Automotive Retail Cloud (ARC), is an end-to-end, cloud-native solution designed
+for automotive dealerships. ARC integrates multiple modules such as CRM, DMS, digital retail,
+service management, analytics, and AI-powered insights. Tekion also offers Automotive
+Enterprise Cloud (AEC), which connects OEMs and dealerships through digital tools like
+configurators, online payments, and advanced analytics.
+
+Selection Process:
+
+Online Assessment  ->  Offline Coding round 1  ->  Offline Coding round 2  ->  Technical Interview
+->  HR interview
+
+Online Assessment:
+It had 10 MCQs, 1 Coding question and 1 SQL query.
+
+MCQ: Focused on DSA, DBMS, OOPS
+
+Coding:
+Each candidate was given a different question and the complexity varied from person to person.
+Mine was something like this : Given an array, find the number of pairs of subarrays such that
+the sum of the left subarray is greater than the sum of the right subarray.
+Approach: Prefix Sum, Passed all testcases.
+
+SQL:
+Check and return the number of Saturdays and Sundays from the given timestamp along with
+group by and order by conditions.
+It had something to do with this concept:
+
+www.geeksforgeeks.org/postgresql/how-to-extract-day-of-week-from-date-field-in-postgresql/
+I was not aware of this during the assessment so this one passed only a few testcases.
+
+Offline Coding Round 1:
+
+There were tasks for both frontend and backend.
+
+Frontend: Create a dynamic form with UI implementation
+I created a static form with HTML, CSS and Javascript.
+
+Backend: 2 questions
+- First one was simple: classic buy and sell stocks sum
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+- Second was a bit complex: Given input in the format of Json (like visitor log), find the number
+of people who are regular visitors of a browser based on some given conditions like they should
+have visited more than twice a day, more than two sites visited, etc.
+
+Offline Coding Round 2:
+
+1. Classic recursion problem: https://leetcode.com/problems/word-break/description/
+2. A variant of optimization problem: Not more than 2 same letters should be together,
+I attempted brute force with priority queues
+Eg: a = 7, b=2, c=1  ->  Result: aabaabaaca
+
+Both these rounds were eliminatory. It all depended on how we presented to the evaluator in
+the given 2 3 minutes.
+
+Technical Interview:
+
+•  Stared with frontend, asked me rate myself in Html.
+•  Html4 vs HTML5, Padding vs margin, Border, All relevant tags, Datatypes we can get as
+
+input, The form we did earlier that day, explain the javascript working.
+
+•  Navigated to backend – Python, Java, C, C++
+•  Showed a python code snippet, asked to explain and give output. Complex nested
+
+functions.
+Java inheritance, deep and shallow copy, == vs .equals()
+
+•
+•  new vs malloc, what will malloc() return, static and volatile variables
+
+•  Threads, multiprogramming, child parent process, zombie process, orphan process,
+
+order of printing during thread execution.
+
+•  Asked to explain any of my projects.
+•  Fastapi vs Flask vs Django cause we had used Fastapi in our project
+•  Some cross questions about taxes cause that was what our project was about.
+
+HR Interview:
+
+Introduce yourself
+I said I read books, so asked about my current read, favorite author
+Internship experience
+
+•
+•
+•
+•  Since you've worked already, what are your expectations here?
+•  Project any one, again explained the tax one
+•  Apart from studies what do you do in college?
+•  What is your role in these clubs? How does it affect you? How do you manage?
+•  Asked if I preferred Frontend or backend
+
+I said backend cause obviously we've been learning that for the past years throughout my
+course. But with frontend, though I am not currently experienced to work with code, I have the
+design immunity, like a frontend team needs both coders and designers, I said I could do the
+designer job with my knowledge.
+
+Then she said nice meeting you, wait outside.
+
+We were informed that we got the position in under 10 mins.
+

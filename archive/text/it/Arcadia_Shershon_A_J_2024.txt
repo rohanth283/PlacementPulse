@@ -1,0 +1,19 @@
+**Placement Experience - Shershon A J**
+
+**Company name: Arcadia**
+
+**Online test:**
+
+The online test happened around late evening - night on August 24th, 2023. There were two DSA questions. Each candidate had a different set of two questions, both of easy-medium difficulty. There were some tricky edge cases and my code passed around 8 out of 10 test cases for both. Around 20-25 candidates were shortlisted for the next round and I was lucky to be one of them.
+
+**Interview(Offline):**
+
+The interview happened on August 30th. There were 2 or 3 rounds of interviews depending on the interviewer of the first round. Candidates who had the first interview online(They had to attend it from CUIC), had another interview with the offline panel. I had my initial interview with the offline panel. The questions were based mostly on my projects and the technologies that I had used in them. I talked about my experience in hackathons and projects. They also asked me some generic interview questions like “Why this company?”, “My expectations from the company” and so on. After the initial round of interviews, 4 of us were shortlisted for the next/final round.
+
+For the final round, we had the company’s Engineering Head(from the US) as the interviewer. It was less detailed than the first round and had more questions about the projects that I had worked on, the difficulties I faced when working on them etc. It went well and I came to know the next day, that I was one of the two candidates who got selected.
+
+**Things to remember:**
+
+* Have strong projects in your resume. By strong, I mean a project where you had good learning and used relevant tech stack to develop.
+* Communication is the key. You should be able to answer clearly and on point.
+* Be confident and have faith in yourself. People might not think it’s very important, but it always makes an impression on the interviewers.

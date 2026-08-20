@@ -1,0 +1,45 @@
+**Mphasis interview Experience**
+
+**About Mphasis:**
+
+Mphasis Limited is a global information technology services and consulting company headquartered in Bengaluru, India. Founded in 2000, the company provides end-to-end technology solutions including application development, cloud computing, artificial intelligence, data analytics, cybersecurity, and business process services. Mphasis primarily serves clients in banking, financial services, insurance, healthcare, and logistics sectors, with a strong focus on digital transformation through its Front2Back™ approach. The company operates across multiple countries and works with several Fortune 500 clients, making it a well-known IT services provider in India and globally.
+
+**About the Role:**
+
+**Software Engineer ( Intern + Full Time )**
+
+**Selection Process:**
+
+1. **Online Test**
+2. **Technical Interview**
+3. **HR interview**
+
+**Online Test:**
+
+The online test was conducted on the HirePro platform. It consisted of 55 multiple-choice questions covering Aptitude, English, and Computer Programming, along with one programming (coding) question. Around 96 candidates were shortlisted.
+
+**Round 1 - Technical Interview [40 Mintues] :**
+
+The interview began with my self-introduction, followed by questions about my project. I explained my projects, and the interviewer asked several related questions, which I answered. Later, I was asked two questions on Data Structures, followed by questions on Operating Systems and Database Management Systems (DBMS) AND OOPS. The interviewer also asked about the programming languages I am confident in, specifically Python and Java.
+
+**Round 2- HR Interview: [10 Mintues]**
+
+The HR interview focused on my willingness to relocate and my certifications. I also clarified details regarding my package and joining date. Finally, 60 candidates were shortlisted, and I was one of them.
+
+**My preparation Strategy:**
+
+I practiced problem-solving on LeetCode using the Striver A–Z Sheet. During my initial coding practice, I worked on problems from the ACM problem sheet. I revised core computer science concepts using GeeksforGeeks and InterviewBit, covering DBMS, Operating Systems, OOPS, Computer Networks, and System Design.
+
+In my placement journey, during the initial period, I was not able to clear the online tests. However, after about one and a half months of consistent preparation, I cleared my first online test. That first interview gave me confidence in the placement process. I gained valuable experience and confidence, as I had no prior interview experience except for mock interviews.
+
+Through virtual interviews, I learned the importance of checking camera, microphone, and internet connectivity beforehand to avoid technical issues.
+
+I attended four interviews, and Mphasis was the fifth company where I attended an interview. I performed well, but I was not selected for the next round. During that time, I experienced a lot of stress and self-doubt. However, I learned an important lesson: trust the process. Do not lose hope. Prepare consistently and never give up. Patience is key in the placement journey—never lose hope and trust the process.
+
+Kavitha E
+
+2022115022
+
+9345603407
+
+Kavithaelumalai2005@gmail.com

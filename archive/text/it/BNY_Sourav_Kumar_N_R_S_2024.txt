@@ -1,0 +1,106 @@
+PLACEMENT DRIVE – BNY Mellon
+
+Batch : ( 2023-24 )
+
+      - Sourav Kumar N R S
+
+About the Company
+
+The Bank of New York Mellon Corporation, commonly known as BNY, is an American
+multinational Investment banking services holding company headquartered in New York City.
+It is by far the world's largest custodian bank and asset servicing company BNY Mellon is an
+investment company, that provides investment management, investment services, and
+wealth management helping institutions and individuals succeed in markets all over the
+world.
+
+About the Role:
+
+We were offered a Full Stack Developer Role. The day-to-day job at BNY includes working
+with Angular, Springboot, Python, Git, etc. This role requires us to understand the business
+requirements and provide them with an efficient system that serves the client with the best
+experience. They offered the option to do a 6-month semester internship with them too.
+
+Preparation Strategy:
+
+I would divide the preparation strategy into two
+
+1.  Long Term preparation
+2.  Short Term preparation
+
+Long Term Preparation:
+
+One should always start their preparation early and keep learning consistently. Join
+
+the Headfirst, CODE program conducted by ACM and Placement/Internship training provided
+by the seniors from ISTA. Consistently learn. Long-term preparation is when you have ample
+of time for your placement or intern drive. Try to cover all the topics that are given in the
+CODE program or ISTA’s program.  Leverage the free content available on YouTube for your
+learning.
+
+Short Term Preparation.
+
+This is when you have companies fast approaching you. Once you know what company is
+coming in your placement/intern drive. Prepare the previously asked and most frequently asked
+questions from those companies for each round. Go through this company well and know its
+leadership principles if you are through the online round.
+
+Interview Experience
+
+Online Round
+
+In the online round, we were asked 4 coding questions. 1 easy, 2 Medium, and 1 Hard
+
+question was asked. One of the questions asked was a variation of the knapsack problem (DP). The
+test was conducted on the Hackerrank platform with the duration being 1 hour.
+
+Round 1
+
+  The next three rounds were face-to-face (offline) interviews conducted in CUIC. In this
+
+round, I was asked to write the code for inserting a node in the linked list in the A4 sheet. The
+interviewer reviewed the code and questioned about the corner cases in the problem. Apart from
+this, I was asked one question on each of the computer science topics like DBMS, OS, CN, Distributed
+systems, OOPS, Java, etc. Apart from this, I was asked questions from my projects too. The prominent
+question was how I implemented security features in the Chat application I developed.
+
+Round 2
+
+In this round, I was asked to write the code for finding the number of pairs in an array that
+
+sum up to K. Following the coding questions, I was asked few technical questions, few resume-based
+questions, and a few behavioral test questions.
+
+Round 3
+
+This was the final round. Here I was asked a slightly harder coding problem. I was asked to
+
+write the logic on an A4 sheet. I wrote the better approach in the paper, but he was not satisfied
+with that. Then after a few minutes of discussion, I came up with the optimal approach and
+explained it to him. I didn’t write that on paper. After the coding questions, I was asked to draw the
+architecture diagram for one of my projects and explain it. Following this I was asked a few questions
+technical questions and the interview was over. Within 2 hours the results were announced and I got
+selected.
+
+Tips and Tricks
+
+1.  Start the preparation early
+2.  Cover as many topics as possible
+3.  Learn to approximately estimate time complexity based on the constraints given in the
+
+coding problem
+
+4.  Take notes in the class for each subject and revise them before going for placements
+5.  Have a great mindset with fighting spirit because the placement/Intern drive will be very
+
+mentally tiring
+
+Preparation Materials
+
+Striver’s SDE Sheet – Top Coding Interview Problems (takeuforward.org)
+
+Leetcode DSA sheet by Fraz - Google Sheets
+
+(165) take U forward - YouTube
+
+All the Best
+

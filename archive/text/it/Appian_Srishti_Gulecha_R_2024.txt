@@ -1,0 +1,97 @@
+|       |                 | PLACEMENT      | EXPERIENCE | – APPIAN |
+| ----- | --------------- | -------------- | ---------- | -------- |
+| NAME: | SRISHTI GULECHA | R (2020115094) |            |          |
+| ABOUT | THE COMPANY:    |                |            |          |
+Appian is a software company that automates business processes. The Appian AI-Powered
+Process Platform includes everything you need to design, automate, and optimize even the
+most complex processes, from start to finish. They have office locations all over the world and in
+| Chennai   | in India. |     |     |     |
+| --------- | --------- | --- | --- | --- |
+| CANDIDATE | PROFILE:  |     |     |     |
+The most important thing is resume. A lot of templates are available on websites with the help
+of which you can develop one. I used Canva to build my resume. It can be divided into the
+following sections – personal details, educational qualification, projects (a short description of
+each – what it is and technologies used), skills, co-curricular activities and
+certifications/achievements (if any). You can highlight your best projects if you have worked on
+many. It is advisable to fit your resume to one page and add your photo too. Also, you should be
+completely aware of what you add in your resume because interviewers will ask a lot of
+questions based on it. So do not add anything that you don’t know.
+| PRELIMINARY | ROUND: |     |     |     |
+| ----------- | ------ | --- | --- | --- |
+The first round was an Online Assessment which was held on Glider platform. It had 2 sections
+| – MCQ | and Coding. |     |     |     |
+| ----- | ----------- | --- | --- | --- |
+The MCQ section had 5 easy questions which were a mix of debugging and output questions.
+The coding section had 2 questions – one easy and one medium. We had to code only in Java.
+- The first question was an easy leetcode problem related to arrays and hashmap.
+- The second question was a medium one which was breadcrumbs in a website. Given an
+ArrayList<ArrayList<String>>navigations generate the actual navigation tree.
+I was able to solve the first question fully and the second one partially with a few testcases
+| failing. | 38 students | were shortlisted | for the interviews. |     |
+| -------- | ----------- | ---------------- | ------------------- | --- |
+
+| TECHNICAL |     | ROUND | 1:  |     |     |     |
+| --------- | --- | ----- | --- | --- | --- | --- |
+This was an offline interview at CUIC. This round went for 25-30 mins. Firstly, I was asked to
+introduce myself and then one problem solving question was asked. I don't remember the exact
+one but it was related to 2-D arrays. It was something like given threads insert them into
+increasing buckets in a circular manner. I told her my approach first before coding. Once it was
+right I started coding and handled all the edge cases as well. Finally she asked me about my
+| area      | of interests | and if | I have | any questions | for | her. |
+| --------- | ------------ | ------ | ------ | ------------- | --- | ---- |
+| TECHNICAL |              | ROUND  | 2:     |               |     |      |
+This round consisted of problem solving and resume related questions. The problem solving
+question was based on binary search with a few modifications. I gave the easy approach and
+later optimized it. The interviewer asked me to talk about my favorite project and then he asked
+a few questions regarding it. Since my resume had React JS in my skills I was asked a few
+basic questions on it. He finally asked if I had any questions for him. The round lasted for about
+30 mins.
+HR ROUND:
+This was the final round and it went for 10-15 mins. There were a few simple questions like
+where I come from, my family and academics. A few questions from my resume were also
+| asked.      | And | finally he asked | if  | I had any | questions | for him. |
+| ----------- | --- | ---------------- | --- | --------- | --------- | -------- |
+| PREPARATION |     | STRATEGY:        |     |           |           |          |
+- Start from basics. Get familiarized with coding platforms like geeksforgeeks and
+leetcode.
+- If you are comfortable with C++, learn STL first. https://www.studytonight.com/cpp/stl/
+- Make a schedule on how you want to cover the topics and stick to it. Firstly, cover these
+topics – Arrays, strings, linked list, graphs (BFS and DFS), Trees, sort and search. Later
+|     | focus     | on – DP,  | backtracking  |           | and bit manipulation. |                |
+| --- | --------- | --------- | ------------- | --------- | --------------------- | -------------- |
+|     | - Towards | the end,  | practice      | questions | on                    | a daily basis. |
+|     | - For     | CP I used | the following | links:    |                       |                |
+https://neetcode.io/practice
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+| - For | DBMS I referred | the following | links: |     |
+| ----- | --------------- | ------------- | ------ | --- |
+https://www.javatpoint.com/dbms-interview-questions
+https://www.interviewbit.com/dbms-interview-questions/
+https://www.tutorialspoint.com/dbms/dbms_transaction.htm
+| - For | OS and OOPS: |     |     |     |
+| ----- | ------------ | --- | --- | --- |
+https://www.geeksforgeeks.org/commonly-asked-operating-systems-interview-questi
+ons/
+https://docs.google.com/spreadsheets/d/1j05cmJ5JI8O9S4bIdKbw_jd0Y4KMZ_5liwy
+L8vjEbCw/edit#gid=0
+| - For | Aptitude: https://www.indiabix.com/ |     |     |     |
+| ----- | ----------------------------------- | --- | --- | --- |
+TIPS:
+| - Stay | calm and composed. | Do not | get tense. |     |
+| ------ | ------------------ | ------ | ---------- | --- |
+- Know everything that you’ve put in your resume. Make sure you know everything about
+| your   | projects.        |             |          |     |
+| ------ | ---------------- | ----------- | -------- | --- |
+| - Have | a good knowledge | about DBMS, | OOPS and | OS. |
+- Make sure to communicate with the interviewer. Do not remain silent. Feel free to tell
+| them      | how you are thinking | of approaching | the problem. |     |
+| --------- | -------------------- | -------------- | ------------ | --- |
+| - Prepare | some standard        | HR questions.  |              |     |
+- At the end of the interview, you will be asked if you have any questions for them. Do not
+say “no”. Ask them a few questions like – what kind of projects will I get to work, the work
+| culture | and something     | like that.   |               |     |
+| ------- | ----------------- | ------------ | ------------- | --- |
+| - Read  | about the company | before going | to interview. |     |
+Feel free to reach me if you need any help or have more questions at 7299955218. ALL THE
+BEST!

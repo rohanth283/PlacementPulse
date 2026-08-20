@@ -1,0 +1,149 @@
+Amazon Internship Interview Experience
+
+- Dhanya Venkateswaran ( 2020115026 )
+
+About the company
+Amazon.com, Inc. is an American multinational technology company that focuses on
+e-commerce, cloud computing, digital streaming, and artificial intelligence. Some of its famous
+products/services include Alexa, Kindle, Amazon Web Services, Prime Video, etc.
+
+Role details
+Offered role: SDE intern (Software Development Engineer)
+Tenure: 2 months
+
+Candidate Profile
+The candidate's profile is the first thing that an interviewer sees and thus, sets the topic of
+discussion for the interview. So, building a strong resume is of utmost importance. Do not
+hesitate to mention any kind of achievement/award you have received be it
+technical/non-technical. Give a crisp but detailed description of the projects you have worked on
+and internships (if any) and be honest about your work/contributions.
+
+During the intern season, you will hear a lot about having a one-page resume and how
+advantageous it is. I would say that as long as you have good points to put on your resume, you
+need not worry about how long it is. But try your best to keep it crisp and do not add unnecessary
+information.
+
+Preparation Strategy
+The time taken by a person to achieve the same level of coding proficiency as another varies a
+lot. Thus, the first step would be to assess yourself and see where you stand. Generally, 2 to 3
+months of consistent coding would be sufficient but if you think you would need more time to
+become confident, please give yourself more time.
+
+Along with data structure and algorithms, interviewers might also pose questions on subjects like
+OS, DBMS, etc. So, it is advised to have an overview of some of the important concepts in these
+subjects like fragmentation, critical section problem, ACID properties, etc. When focusing on
+coding, it is important to learn why we are using certain functions as questions based on
+important concepts like OOPs can be asked. Time complexity is one of the most important things
+that is looked at in an interview so be thorough with it.
+
+Another taboo that I would like to address is that companies prefer students who can code in
+C++/C and coding in languages like python would not be suitable. I attended the online test and
+interviews of about 6 companies and I coded in python in all of them. What the companies look
+
+for is if you are able to communicate with them and understand the question and come up with
+an optimized solution within the given time. The language you use is not important as long as
+you are able to write optimized code for any question.
+
+Some useful books/youtube channels that you could refer to include:
+
+● Cracking the coding interview (Book)
+● Grokking algorithms (Book)
+● Striver (Youtube Channel)
+● CodeBasics (Youtube Channel)
+● Jacob Sorber (Youtube Channel)
+● Apna College (Youtube Channel)
+● William Lin (Youtube Channel - mainly for students interested in competitive
+
+programming)
+
+Preliminary Round
+The preliminary round was an online round that was conducted on amazon's own coding
+platform. 2 coding questions were asked in this round and 1.5 hours were given to solve them. I
+don't remember the exact questions but one of them was a variant of binary search and the other
+was a DP problem. The questions were fairly easy and I had solved similar questions in the past
+so I was able to finish the test in 15 minutes and it passed all test cases.
+
+Note that you need to come up with an efficient solution as fast as possible to get shortlisted as
+somebody who was able to solve the same in an hour may not get selected because of the time
+they took as most companies have a set limit to the number of people they can qualify to the next
+round.
+
+After the coding test, we were asked to take a work-style assessment which took about 15
+minutes to finish.
+
+Technical Round(s)
+Around 300 students attended the online test and out of that only 75 students got selected for the
+next round. They scheduled one 45-minute coding interview for all of us.
+
+My interview started off with a bunch of questions based on my resume. One of the questions
+was to name the most interesting project I have worked on till now and why I found it
+interesting. If you are posed with a similar question, I would suggest you talk about the project
+where you learned the most and be honest about the difficulties you faced and how you
+overcame them. Use any opportunity to highlight your strengths when such questions are posed.
+
+After this, the first question was presented to me. The question was to detect a cycle in a linked
+list. This is a very common question so I was able to solve it in around 10 minutes and I was
+asked a bunch of questions on how it would work against edge cases and the time and space
+complexity.
+
+Once the interviewer was convinced, he posed the next question which was to explore all
+possible paths in a binary search tree and find and print the path at which the sum of the node
+values is maximum. For this question, I was asked to come up with my edge cases to test the
+code. I used DFS to solve the question. A follow-up question was asked where I was also asked
+to print the level at which the maximum sum is encountered but I had run out of time before I
+could finish coding it out fully.
+
+The interview ended with me asking a couple of questions about the interviewer's area of work
+and his experience working at amazon.
+
+Result
+The waiting period was grueling and terrifying as the internship season is very hard on your
+mental health. If an interview doesn't work out, you would not have much time to get over it as
+the interview for the next company would be days away. I got my result exactly a week after my
+interview and I was over cloud nine (and still am 😉) when I got to know that I got the
+internship.
+
+Tips
+Here are some things that I wish somebody told me before I went through this entire process:
+
+● Go through internship experience blogs
+
+On the day before your interview, read the internship experience blogs of people who attended
+interviews at that company. If you are lucky, you might even get the same questions. But either
+way, you would be able to understand what they look for in a candidate and how you are
+expected to tackle situations.
+
+● Have a good connection with your seniors
+
+Seniors will be your best friends during this season as they would have faced very similar things
+in the past. Have a good rapport with them and ask all your questions (dumb or not) to them and
+be very clear about the decision you take.
+
+● Manage your time well
+
+In an interview, you are only given 45 to 60 minutes to impress a stranger that you have the skills
+to work in their company. In the given time, around 10 to 15 minutes would be taken up in
+giving the general introduction. Try to prepare a standard answer to the "Tell me about yourself"
+question that covers all your strengths. Thus, try to keep the discussion short and crisp and give
+yourself more time to code and showcase your coding skills.
+
+● Understand the hiring process at CUIC
+
+CUIC is the placement/intern cell of anna university. To ensure all students get placed, they have
+certain rules in place. One such is that if you get an internship at a company, you will not be
+allowed to attend the tests for the companies coming henceforth. So you either have to accept the
+offer or leave the hiring process. If you reject the offer, you will not be allowed to attend the tests
+of other companies. The solution is to have a good mix of good companies and safe bets that you
+attend the test of.
+
+● It is okay to feel bad
+
+It sucks to face rejections especially when you thought you would get it. Understand that it is
+okay and sometimes even luck plays a role in the selection and you might be left off. When you
+get rejected, you have to pull your morale up somehow and analyze what you think went wrong.
+It is completely okay to rant but do not let it derail you from the process.
+
+Please reach out to me via my phone number if you have any doubts: +91 9789002028.
+
+I hope this was useful and wish you all the best for your interviews!
+

@@ -1,0 +1,106 @@
+| Citi | Interview | Experience | for Internship |
+| ---- | --------- | ---------- | -------------- |
+(On-Campus) 2022
+| Rishitha    | N          |     |     |
+| ----------- | ---------- | --- | --- |
+| Information | Technology |     |     |
+2020115065
+| About | the Company |     |     |
+| ----- | ----------- | --- | --- |
+Citigroup Inc. or Citi is an American multinational investment bank and
+financial services corporation headquartered in New York City. The company
+was formed by the merger of banking giant Citicorp and financial
+conglomerate Travelers Group in 1998; Travelers was subsequently spun off
+| from the | company | in 2002. |     |
+| -------- | ------- | -------- | --- |
+Citigroup is the third largest banking institution in the United States; alongside
+JPMorgan Chase, Bank of America, and Wells Fargo, it is one of the Big Four
+banking institutions of the United States. It is considered a systemically
+important bank by the Financial Stability Board and is commonly cited as
+being too big to fail. It is one of the nine global investment banks in the Bulge
+Bracket.
+| Role:      | Technology | Analyst Intern |     |
+| ---------- | ---------- | -------------- | --- |
+| Locations: | Chennai,   | Pune           |     |
+| Round      | 1          |                |     |
+Out of all the students from all branches from all the campuses under Anna
+University (MIT, CEG, ACT, SAP), 225 were shortlisted for the first round -
+Online Assessment. The test was conducted on AMCAT platform and was
+fully proctored. It had a total of 5 sections - Aptitude, Logical reasoning, Verbal
+ability, Technical and Coding. Each section was timed and the movement to
+| previous | questions | was prohibited. |     |
+| -------- | --------- | --------------- | --- |
+
+| 1. CS | fundamentals |      |       | MCQs | (25        | Questions |     | in 35 minutes)   |             |
+| ----- | ------------ | ---- | ----- | ---- | ---------- | --------- | --- | ---------------- | ----------- |
+|       | ●            | MCQs | based |      | on stacks, | queues,   |     | trees, searching | and sorting |
+techniques, output prediction, basic programming questions, OOPS
+|     |     | concepts, |     | etc. |     |     |     |     |     |
+| --- | --- | --------- | --- | ---- | --- | --- | --- | --- | --- |
+To clear this round, good knowledge of the CS fundamentals is required.
+| 2. Aptitude |     | (16 | Questions |     | in  | 16 minutes) |     |     |     |
+| ----------- | --- | --- | --------- | --- | --- | ----------- | --- | --- | --- |
+● MCQs on topics like work and time, probability, permutations and
+combinations, percentages, ages, profit and loss, etc. The questions
+|     |     | were | of medium |     | level | of difficulty. |     |     |     |
+| --- | --- | ---- | --------- | --- | ----- | -------------- | --- | --- | --- |
+Time management is important. It is required that we don’t get stuck in the
+| questions  |     | for       | too long. |     |               |     |     |             |     |
+| ---------- | --- | --------- | --------- | --- | ------------- | --- | --- | ----------- | --- |
+| 3. Logical |     | Reasoning |           |     | (14 Questions |     | in  | 14 minutes) |     |
+● It consisted of questions like finding the odd one out, finding the next
+|     |     | number | in  | the | sequence, |     | etc. |     |     |
+| --- | --- | ------ | --- | --- | --------- | --- | ---- | --- | --- |
+Having a basic knowledge of these types of questions is enough as the
+| questions |     | were      | mostly |     | of easy-medium |     |     | difficulty. |     |
+| --------- | --- | --------- | ------ | --- | -------------- | --- | --- | ----------- | --- |
+| 4. Verbal |     | Reasoning |        | (22 | Questions      |     | in  | 18 minutes) |     |
+● Antonyms, synonyms, prepositions and passage comprehension,
+etc.
+
+● Three passages were given, and for each one 2-3 questions were
+asked. The questions might be a little confusing, but reading the
+|     |     | passage | once | will be | sufficient. |     |     |     |
+| --- | --- | ------- | ---- | ------- | ----------- | --- | --- | --- |
+In this section, managing the time is very important, one has to be really quick
+| in reading |     | the passage |     | and choosing      | the    | appropriate |       | option.     |
+| ---------- | --- | ----------- | --- | ----------------- | ------ | ----------- | ----- | ----------- |
+| 5. Coding  |     | section     | (2  | Questions         | in 60  | minutes)    |       |             |
+|            | ●   | Trapezium   |     | Pattern Printing. | Passed |             | 11/11 | test cases. |
+● Maximum number of calls to a special function (which returns an
+unique permutation of an array) to get a permutation that is in
+|     |     | ascending |     | order. Passed | 9/13 | cases. |     |     |
+| --- | --- | --------- | --- | ------------- | ---- | ------ | --- | --- |
+This round is not about whether the candidate is able to pass all cases or not.
+| It    | is to | test the      | problem | solving | approach | of  | the students. |     |
+| ----- | ----- | ------------- | ------- | ------- | -------- | --- | ------------- | --- |
+| Round |       | 2 - Technical |         | + HR    |          |     |               |     |
+It was conducted in physical mode in the CUIC building. The interview panel
+consisted of two members from the Support Business Unit of Citi, Chennai.
+This round was all about the resume. They asked questions related to all the
+| sections |     | of my resume, |     | like : |     |     |     |     |
+| -------- | --- | ------------- | --- | ------ | --- | --- | --- | --- |
+About the projects and the difficulties faced working on any of them.
+About my role in various club activities and how I manage them.
+About my hobbies and the technologies in my bucket list that I wish to learn.
+They also asked me to ask them questions. It was mostly like a conversation
+| where | we  | were | asking | questions | to each | other | alternatively. |     |
+| ----- | --- | ---- | ------ | --------- | ------- | ----- | -------------- | --- |
+
+Conversational skills is another aspect that is given importance to. Along with
+technical skills, they also expect the candidates to have good speaking and
+| listening   | skills. |              |             |     |     |
+| ----------- | ------- | ------------ | ----------- | --- | --- |
+| Round       | 3 - HR  |              |             |     |     |
+| 35 students | were    | selected for | this round. |     |     |
+The round lasted for at most 5 minutes for all the candidates.
+While for few it happened in virtual and for few it was in physical mode.
+| Basic HR  | questions      | were asked.    | Some | of them are | :   |
+| --------- | -------------- | -------------- | ---- | ----------- | --- |
+| Tell me   | about yourself |                |      |             |     |
+| Things    | that motivate  | you            |      |             |     |
+| Tell me   | about your     | family members |      |             |     |
+| Any quote | that you       | keep recalling |      |             |     |
+Any family member who works in Citi or is a government official
+23 students were finally selected based on their performance in all the three
+rounds.

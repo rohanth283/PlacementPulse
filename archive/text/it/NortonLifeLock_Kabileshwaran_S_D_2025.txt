@@ -1,0 +1,237 @@
+Gen Digital (Norton Lifelock) Interview Experience
+
+-Kabileshwaran SD (2021115046)
+
+About the company
+
+Gen Digital, formerly known as NortonLifeLock, is a cybersecurity company that provides a
+range of products designed to protect users' online identities, devices, and data. Their flagship
+product, Norton 360, offers comprehensive antivirus protection, a VPN for secure browsing, and
+tools for online privacy. The company also offers Norton Password Manager, which helps users
+securely manage and generate passwords, and Norton Safe Search, ensuring safe browsing
+experiences.
+
+Additionally, Gen Digital provides solutions like LifeLock, which monitors personal information
+and alerts users to potential identity theft. Their products cater to individuals and families,
+focusing on safeguarding digital lives through advanced security features, identity protection,
+and real-time alerts, all aimed at providing peace of mind in an increasingly digital world.
+
+Role details Offered role:
+
+Final Semester - 6 months Internship cum Placement - based upon performance during internship
+period
+
+Preliminary Round
+
+The preliminary round was conducted online using the Deselect coding platform. In this round,
+participants were required to solve three coding questions within a time limit of two hours:
+
+1.  Coin Change Problem: The first question was similar to the classic coin change
+
+problem, where candidates needed to determine the number of ways to make a certain
+amount using a given set of coin denominations.
+
+2.  Password Validation: The second question involved checking a password against
+
+specific constraints to determine its validity. Candidates were required to implement logic
+to assess whether the provided string met the defined password criteria.
+
+3.  Longest Substring Divisible by 3: The third question presented a string sss of length
+mmm. The task was to find the length of the longest substring whose sum of ASCII
+values is divisible by 3. If no such substring existed, the candidate was to return 0.
+
+Technical Interview-1:
+
+Around 250 students attended the online test, and from that group, 85 students were selected for
+the next round at CUIC. The interviewer began with his introduction, followed by mine. During
+my introduction, I mentioned my strong proficiency in data structures and algorithms (DSA).
+After that, he quickly moved on to DSA questions.
+
+The first question presented was about an array of product prices and the number of coupons, K,
+that could be applied to reduce the prices such that it should be minimum among all the
+possibilities. For example, given the product prices of 100, 50, and 10, and K equal to 2, we can
+apply the first coupon to the price of 100, reducing it to 50. We can then apply the second
+coupon to the price of 50, further reducing it to 25. The new prices would then be 50, 25, and 10,
+leading to a final sum of 85. So here we need to apply coupon for the products whose price was
+high among all. I initially explained a brute-force approach using sorting, followed by an optimal
+solution utilizing a priority queue(max heap). The interviewer seemed satisfied with my
+explanation.
+
+He then presented me with a medium-level problem from LeetCode, which involved evaluating a
+mathematical expression provided in string format (Basic Calculator II)
+https://leetcode.com/problems/basic-calculator-ii/solutions/1734060/c-solution-evaluation-of-
+infix-expression/.
+
+I explained my approach using a stack, wrote the code, and conducted a dry run with a sample
+test case, which he found satisfactory.
+
+Next, he inquired about my knowledge of SQL and PostgreSQL. He provided three tables and
+asked me to write queries that involved joins, CASE statements, GROUP BY, ORDER BY, and
+LIKE clauses.
+
+The interviewer then shifted to operating systems topics, asking about multiprocessing, threads,
+context switching, shared memory, mutexes, and semaphores. For each topic, I attempted to
+clarify my explanations with diagrams.
+
+He also asked me about the projects I had completed during my internship. He showed interest in
+the technology stack I utilized and posed questions to better understand my projects. I illustrated
+the architecture of my internship project to provide clarity.
+
+Following this, he asked me several questions related to object-oriented programming (OOP),
+including topics such as inheritance, abstract classes, and interfaces.
+
+Finally, he asked if I had any questions for him. I inquired about the technology stack used at
+Gen, the work culture, and the types of projects interns would be involved in. After our
+discussion, he provided positive feedback, stating that I demonstrated a strong understanding of
+my projects. He also mentioned that I performed very well in the interview and congratulated me
+on progressing to the next round and advised me to ask more testcases during solving DSA.
+
+This round lasted approximately 30 to 40 minutes, while some students spent around an hour,
+particularly those who focused heavily on solving the DSA questions.
+
+Technical Interview-2:
+
+The interviewer shook my hand and introduced himself. He was a senior-level manager with 15
+years of experience at Gen Digital (Norton). He reviewed my technical interview papers for
+about five minutes, where I had documented my answers for coding, SQL, project architecture,
+and a separate scoring sheet that included remarks on various topics such as DSA, DBMS,
+System Design, and Operating Systems.
+
+After this initial review, he asked me to rate my proficiency in DSA on a scale of 1 to 5. I rated
+myself a 4 out of 5. He then posed a question about finding the angle between the hour and
+minute hands of an analog clock based on their positions. I clarified the question by asking a few
+questions to ensure my understanding. Through calculations, I determined that if the hour hand is
+at 3 and the minute hand is at 6 (30 minutes), each hour represents 36012=30\frac{360}{12} =
+3012360=30 degrees, and each minute represents 36060=6\frac{360}{60} = 660360=6 degrees.
+Therefore, the angle can be calculated as the absolute difference between hour×30\text{hour}
+\times 30hour×30 and minute×6\text{minute} \times 6minute×6. He confirmed this was correct
+but noted that it would not yield accurate results in all cases. He provided a counterexample with
+the time set to 3 hours and 30 minutes, explaining that the hour hand would actually be between
+3 and 4. I acknowledged this and adjusted my calculations accordingly, which satisfied him. (For
+reference, this question is similar to LeetCode's Angle Between Hands of a Clock problem.)
+
+The next DSA question involved determining if string B is a substring of string A. I suggested
+using the substr function in C++, but he asked me to explain how it works and the underlying
+algorithm. I mentioned the KMP algorithm. He then inquired if I was familiar with the trie data
+structure. I admitted that I only knew the basics, and he mentioned that the substr function
+utilizes a trie. Although he decided to move on to the next question due to my lack of familiarity
+with tries, he subtly asked how a Google search engine functions, specifically how it
+recommends searches based on a single letter input. I explained that this also involves a trie data
+structure and illustrated how it could be represented in a tree-like format.
+
+Next, he presented the course schedule problem, which is well-known in graph theory and
+typically involves topological sorting. I explained my approach and he asked me to write the
+code. After I completed the coding and dry ran it with various sample inputs, he expressed his
+satisfaction.
+
+He then asked me, “What is the worst challenge you have faced in Computer Science, and how
+did you overcome it?” Since I mentioned AWS in my resume, he inquired about the projects I
+completed during my internship, specifically any challenges I faced while working at Amazon. I
+explained the use of Amazon SQS in my project and discussed how it supports parallel
+processing. When he asked what happens if data sent to one of the parallel processing units fails,
+I initially mentioned that the data would be lost. He corrected me, explaining the concept of
+visibility timeout in SQS.
+
+He also asked me to differentiate between RDBMS and NoSQL, explaining why horizontal
+scaling is a challenge for RDBMS. I discussed the benefits of NoSQL and sharding, explaining
+how data is managed when adding additional units to the system. He seemed pleased with my
+responses.
+
+Finally, he asked if I had any questions. I inquired about the technology stack his team uses and
+requested feedback on my interview performance. He remarked that I demonstrated strong skills
+in DSA and expressed confidence in my ability to advance to the next round.
+
+This round lasted approximately one hour. However, when I spoke with friends who attended the
+same round, I learned that their interviews primarily focused on projects, OOP, DBMS, and a
+single DSA question related to arrays, stacks, or strings. This indicated that the nature of
+questions can vary based on the interview panel and the introductory statements made at the
+beginning of the interview.
+
+Technical Interview – 3 – (Techno Mangerial round):
+
+The interviewer began by asking for my introduction and then introduced himself, mentioning
+that he previously worked at Samsung Research Institute in Bangalore. However, he relocated to
+Gen Digital (Norton) in Chennai for family reasons and he was a senior-level manager with 10
+years of experience at Gen Digital (Norton). He then reviewed the score sheets from my first and
+second rounds, which had been filled out by previous interviewers. They noted that I was "strong
+in DSA" and scored me a perfect 10 out of 10. He inquired about the level of DSA questions
+asked during those rounds, and I responded that they covered topics up to graphs and tries. He
+remarked that I demonstrated a strong understanding of DSA and indicated that he would not be
+asking any further questions from DSA.
+
+Instead, he transitioned to asking about React, specifically the virtual DOM and hooks, and I
+answered those questions confidently. He then asked why I was interested in Gen (Norton) and
+what I knew about the company. I discussed the cybersecurity products that Gen develops,
+prompting him to ask for my definition of cybersecurity. I explained the concept and outlined
+various types of cyber attacks, including malware, ransomware, phishing, SQL injection, DDoS
+attacks, and man-in-the-middle attacks. He expressed surprise at my knowledge of man-in-the-
+middle and DDoS attacks and asked me to explain them or move on to the next question. I chose
+to explain both concepts in detail.
+
+Next, he inquired about my experience with cloud-level projects and whether I would be
+comfortable working on client-level projects. Unfamiliar with the term "client-level projects," I
+asked for clarification and confirmed that I would be open to such work.
+
+He then posed a few HR-related questions, such as how I would manage multiple tasks if I
+realized I couldn't complete them all within the given deadline. I provided my responses to those
+scenarios.
+
+The interview concluded on a positive note, with him advising me to speak louder during online
+meetings, as lower volume can hinder listeners' ability to hear clearly. I also asked him questions
+regarding the transition from intern to full-time employment and related topics.
+
+This round went for around 15 minutes.
+
+Conclusion:
+
+I am pleased to share that I was selected for the position. Having previously attended interviews
+at Amazon and Apple, I found the interview process at Gen Digital (Norton) to be of particularly
+high standards and expectations. In the Amazon interview, candidates are typically asked only
+two DSA questions; successfully answering them is often sufficient for selection. At Apple, there
+are two rounds that include basic questions about projects, fundamental computer science
+concepts, managerial inquiries, and one DSA question.
+
+In contrast, the process at Gen Digital consisted of three rounds, in addition to the online coding
+round. In the first two rounds, I encountered six DSA questions, which ranged from medium to
+hard difficulty on LeetCode, along with in-depth inquiries about distributed systems and
+database management systems (DBMS). This rigorous process underscored the emphasis Gen
+places on strong technical knowledge and problem-solving abilities.
+
+Tips:
+
+•  Always start by explaining the brute-force solution, even if you already know the optimal
+
+approach as they will assess your thought process too.
+
+•  Stay engaged during the interview; avoid being silent.
+
+•  Be clear while explaining your thought process/approach
+
+Preparation Docs:
+
+❖  To cover all patterns, I followed Striver's A2Z DSA Sheet. For example, when learning
+
+graphs, start with BFS, DFS, and distance algorithms, then practice related problems on
+
+LeetCode and GeeksforGeeks.
+
+❖  Develop a strong understanding of time and space complexity.
+
+❖  Learn various data structures and their standard problems.
+
+❖  If you can't immediately solve a problem, discuss your approach and thought process.
+
+❖  Focus on solving a diverse range of problems rather than just a high volume of similar ones.
+
+This strategy prepares you for unexpected questions and enhances your understanding of
+
+DSA concepts.
+
+All the very best! Feel free to reach out to me if you have any doubts.
+
+LinkedIn Profile: Kabileshwaran SD
+
+Contact Number: +91 6380178240
+
+Email: kabilsrinivasan2004@gmail.com
+

@@ -1,0 +1,85 @@
+**INTERVIEW EXPERIENCE**
+
+Name: Hussain Imthiaz Hussain
+
+Reg No: 2018115039
+
+Company: Citicorp Services India Private Limited, Chennai
+
+Month & Year: September 2021
+
+1. Online Test Experience :
+
+Please refer to **Citicorp\_2018115113\_Subhadharshini.pdf** in the same folder
+
+2. Technical Interview Questions asked
+
+Tell me about your projects
+
+Python:
+
+In Python, how good are you?
+
+What projects have you done in python?
+
+What libraries have you used?
+
+Flutter:
+
+What is flutter? (Since I did a project on Flutter)
+
+What is diff btw Flutter and dart?
+
+What are widgets in Flutter?
+
+What are types of widgets?
+
+What database you used and how you connected?
+
+Why did you choose flutter?
+
+DBMS:
+
+Diff between sql and nosql?
+
+Acid properties in DBMS?
+
+Normalizing in DBMS?
+
+De normalizing in DBMS?
+
+What are triggers, stored procedures, functions?
+
+Updating table query?
+
+What are other technologies you have explored?
+
+ML:
+
+What is preprocessing?
+
+How will you fix noise in data?
+
+Cloud:
+
+Have you done cloud computing?
+
+Explain models of cloud?
+
+What is open stack?
+
+Citi is moving to cloud, are there any disadvantages?
+
+Managerial :
+
+Asked about Guindy times and my work there
+
+Why citi?
+Who is the CEO of Citi?
+
+3. HR Questions
+
+Apart from general HR questions, the following were asked:
+What do you know/expect about fintech?
+
+What are your personal expectations and what do you expect from the company side?

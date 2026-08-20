@@ -1,0 +1,89 @@
+Mukilarasan V
+| About | the Company |     |     |     |     |
+| ----- | ----------- | --- | --- | --- | --- |
+Bank of America (BoA) is dedicated to enhancing financial lives through responsible
+growth, prioritizing employee well-being, diversity, and flexibility. Operating in India as BA
+Continuum India, BoA’s Global Business Services (GBS) offers integrated tech and operations
+support across banking, trading, and risk functions worldwide. GBS is known for its strong
+| execution, | risk | management, | and innovation. |     |     |
+| ---------- | ---- | ----------- | --------------- | --- | --- |
+Job Role
+The freshers from our college are initially recruited for the role of GET (Graduate
+Engineering Trainee) but the campus role at BoA offers opportunities across diverse areas,
+1. Development: Building advanced FinTech solutions for banking, trading, and risk using
+technologies like AI, ML, and cloud, focusing on areas like algorithmic trading,
+|     | anti-money | laundering, | and digital | banking. |     |
+| --- | ---------- | ----------- | ----------- | -------- | --- |
+2. Testing: Ensuring product quality through functional and technical testing, risk
+assessment, and performance optimization using tools like Selenium and JIRA.
+3. Risk Management: Entry-level analysis in cloud governance, cybersecurity, and
+|     | operational | risk to | enhance BoA's | control | environment. |
+| --- | ----------- | ------- | ------------- | ------- | ------------ |
+4. Infrastructure Operations: Software development to meet both functional and
+non-functional business needs, focusing on DevOps, testing, and automated release.
+5. Production Support: Event management, incident handling, and maintaining high
+|     | availability | in network | and infrastructure |     | operations. |
+| --- | ------------ | ---------- | ------------------ | --- | ----------- |
+6. Cybersecurity: Safeguarding systems against cyber threats with technologies like SIEM,
+|     | Splunk, | and identity | management | tools. |     |
+| --- | ------- | ------------ | ---------- | ------ | --- |
+7. Identity & Access Management (IAM): Controlling access and managing compliance
+across various tech environments, ensuring security and governance.
+8. Core Security: Monitoring for security incidents, vulnerability assessments, and ethical
+|          | hacking      | to protect    | BoA’s digital | assets. |     |
+| -------- | ------------ | ------------- | ------------- | ------- | --- |
+| Overview | of           | the interview | process       |         |     |
+|          | 1. Video     | Interview     |               |         |     |
+|          | 2. Interview | - 1           |               |         |     |
+|          | 3. Interview | - 2           |               |         |     |
+Video Interview
+Your video interview will take up to 90 minutes to complete. Please set aside enough
+| time | to complete | your interview | at one | time. |     |
+| ---- | ----------- | -------------- | ------ | ----- | --- |
+● I was asked to solve 2 programming questions along with 3 HR questions.
+
+● The coding questions were mostly based on arrays and strings, and they were
+|     |     |     | quite | easy to | solve and | understand. |     |     |     |     |
+| --- | --- | --- | ----- | ------- | --------- | ----------- | --- | --- | --- | --- |
+● They asked me to explain both questions and the approach I used to solve them
+in the next segment. We also need to explain the issues we faced while solving
+|     |     |     | those | questions. |     |     |     |     |     |     |
+| --- | --- | --- | ----- | ---------- | --- | --- | --- | --- | --- | --- |
+● Coming to the HR part, you need to provide a self-intro along with the projects
+you’ve worked on and skills acquired while working on those projects.
+● They ended my interview by asking the standard interview question, “Why should
+|           |     |     | we hire | you?” |     |     |     |     |     |     |
+| --------- | --- | --- | ------- | ----- | --- | --- | --- | --- | --- | --- |
+| Interview |     | - 1 |         |       |     |     |     |     |     |     |
+Interview (round 1) is a technical interview, following is the list of questions I was asked
+| during | the | first | interview, |          |            |     |          |      |     |     |
+| ------ | --- | ----- | ---------- | -------- | ---------- | --- | -------- | ---- | --- | --- |
+|        |     | ●     | Introduce  | yourself | (including |     | projects | too) |     |     |
+● They asked about my language preference, and once I opted for CPP/Python,
+|     |     |     | They | asked | me to explain |     | the | entire OOPs | concept | in 10 minutes. |
+| --- | --- | --- | ---- | ----- | ------------- | --- | --- | ----------- | ------- | -------------- |
+● Once I had finished my explanation, they asked me to write a program to explain
+|      |        |             | inheritance | and        | polymorphism  |     |         | among classes. |           |     |
+| ---- | ------ | ----------- | ----------- | ---------- | ------------- | --- | ------- | -------------- | --------- | --- |
+| Some | of     | the basic   | questions   |            | include       |     |         |                |           |     |
+|      | 1. Is  | it possible |             | to compile | a program     |     | without | a main         | function? |     |
+|      | 2. Can | inline      | functions   |            | be recursive? |     |         |                |           |     |
+3. Explain the difference between a list and an array and write the appropriate syntax.
+| Interview |           | - 2          |        |       |                 |          |              |               |     |     |
+| --------- | --------- | ------------ | ------ | ----- | --------------- | -------- | ------------ | ------------- | --- | --- |
+|           | Interview |              | (round | 2)    | was a technical |          | cum          | HR interview. |     |     |
+|           | ● Self    | Introduction |        | along | with            | Identity | verification |               |     |     |
+● I did four projects on various timelines and they asked me to explain those in
+|     | chronological |     |     | order. |     |     |     |     |     |     |
+| --- | ------------- | --- | --- | ------ | --- | --- | --- | --- | --- | --- |
+● He asked me about the sensors that I used in my IoT project and their uses.
+● Questions about data preprocessing and classification models that I used in my Machine
+|     | Learning |     | project.        |     |                |     |         |     |     |     |
+| --- | -------- | --- | --------------- | --- | -------------- | --- | ------- | --- | --- | --- |
+|     | ● Linked |     | list - sorting, |     | identification |     | of loop |     |     |     |
+● Hash Map - Allocation of memory on various fronts, factors affecting the allocation of
+memory.
+● SQL query to find the second-largest salary of the employee in a specific department.
+|     | ● Python |     | code | to find | if the word | is  | present | in a specific | sentence. |     |
+| --- | -------- | --- | ---- | ------- | ----------- | --- | ------- | ------------- | --------- | --- |
+● My experience in ISTA as the head of courses and the work that I do.

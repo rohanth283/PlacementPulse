@@ -1,0 +1,148 @@
+Mridula P - Information Technology – Software
+Engineer Intern & FTE in SOCIETE GENERALE
+
+About the Company
+
+Societe Generale is one of the leading European ﬁnancial services groups. Based on a
+diversiﬁed and integrated banking model, the Group combines ﬁnancial strength and proven
+expertise in innovation with a strategy of sustainable growth. Committed to the positive
+transformations of the world’s societies and economies, Societe Generale and its teams seek to
+build, day after day, together with its clients, a better and sustainable future through responsible
+and innovative ﬁnancial solutions.
+
+Active in the real economy for over 150 years, with a solid position in Europe and connected to
+the rest of the world, Societe Generale has over 117,000 members of staff in 66 countries and
+supports on a daily basis 25 million individual clients, businesses and institutional investors
+around the world by offering a wide range of advisory services and tailored ﬁnancial solutions.
+
+About the Role
+
+The Software Engineer is a crucial role of the company to translate the needs of users and the
+company into functional and eﬃcient software solutions.The main tasks of the role is analyzing
+the needs of users and clients and establishing the software speciﬁcations, designing software
+architectures and developing applications and software by choosing the appropriate
+programming language and then coding them.They also collaborate with development teams
+and other departments within the company.By leveraging advanced technologies and global
+talent, this team ensures that Societe Generale can operate smoothly, innovate continuously,
+and provide reliable, high-quality services to clients worldwide.
+
+Overview of the Process:
+
+The overall process consisted of
+
+● An Online test in HirePro platform
+● Interview Round 1 (Technical) – in CUIC
+● Interview Round 2 (Technical) – in CUIC
+● Interview Round 3 (HR Round) – in CUIC
+
+Online coding test in HirePro platform:
+
+The online coding test was conducted on the HirePro platform. It consisted of 3 sections,
+namely 2 aptitude sections and a coding section.
+
+The aptitude sections consisted of simple aptitude questions, technical mcqs majorly covering
+concepts of DBMS,OS, Software Engineering, etc.The 3rd section consisted of 2 coding
+questions; both were simple questions.
+
+1. Print a corresponding number sequence of the given string inputs(eg: CAB->312,
+
+SHE->1985)
+
+2. There is a supermarket where if the price is a Golden no ie sum of the digits of the
+
+number is equal to the largest digit in the number, ,there is a discount on that product.
+Given input range of price ie from x to y, ﬁnd the number of products where the person
+can avail a discount.
+
+39 students were shortlisted for the interview process of Software Engineer Intern & FTE.
+
+TIPS for Online Test:
+
+Always remember the time within which we complete the test is also important as given the
+right answers especially in case the test is easy. All the sections have stipulated time within
+which you have to complete answering all the questions and you can’t go back to the section
+after that time duration. So especially for aptitude sections it’s important to not waste too much
+time stuck upon questions and rather move to the next one.
+
+For the coding section I had used python and it’s important to remember built-in functions that
+will save you time from unwanted manipulations/conversions. Eg: For the ﬁrst question to
+convert the alphabets to integers the usage of the ord() function which takes a string argument
+of a single Unicode character and returns its integer Unicode value(ASCII value) was very useful
+and time saving.
+
+Interview Round 1:
+
+This round both technical questions and Resume-based questions. The questions were general.
+The panel consisted of a single member.
+
+The interviewer had asked to explain my projects, the tech stacks used in it, etc.
+
+While explaining a few functionalities in my project I was also asked to write sample code
+related to how I had implemented those speciﬁc functionalities and there were also follow-up
+questions to test both my coding knowledge on the tech stack which was questioned.
+
+Then I was asked a few more questions on MongoDB and related implementations in my
+project. I was asked what is state and component in Reactjs and how it is more eﬃcient than
+basic HTML as a front-end and follow up questions like Virtual DOM concepts,etc.
+
+Then the interviewer asked which programming language I knew better, Java or Python and I
+said Python.
+He asked a few technical questions like if there is a JSON collection, how would I read the
+collection using python and I was asked to write code for the same. There were also questions
+related to tuples and dictionaries and sets and differences between them, slicing of lists,
+implementing default parameters in Python functions.
+
+Then I was asked questions on basics of data science involving basic implementations using
+numpy libraries and a few OOPs implementation questions.
+
+Interview Round 2:
+
+This round also had both technical questions and project-based questions.
+
+The interviewer started with a small random question enquiring if I remembered who my ﬁrst
+interviewer was and asked to describe him( just to assess our observational skills).
+Then again I was asked a lot about the project I had done and how the workﬂow of the project
+was, challenges I faced technically and personally and how I handled it and also a detailed
+explanation of my solution.
+
+Then I was asked to write a few SQL queries on given scenarios from the on the lines of my
+project and then a few JOIN query questions.
+A few questions on DSA were asked as in what data structure I would implement for the given
+scenarios and how.
+Then, I was asked what made me choose the company and my knowledge of what the company
+is and how it functions. I put forth my thoughts and explained how the company’s values aligned
+with something I would like to follow in my workspace and he also explained the functioning of
+the company in more detail. After a few follow up questions, this round also ended.
+
+Interview Round 3:
+
+This was purely a HR round.The HR introduced himself to me and it was more like a casual talk.
+
+● Tell me about yourself, family, etc.
+● Why did I choose engineering?
+● About my projects (more on the lines of whether the project’s solution was based on a
+
+personal problem statement)
+
+● My thoughts on women stopping work after marriage and if I’m ok with night shifts.
+● Any questions for him
+
+He was very much satisﬁed with my answers and the round went smoothly.
+
+Finally the announcements were made that 17 students were selected including me and I was
+elated.
+
+TIPs I followed:
+
+Be prepared for your ‘Tell me about yourself” question and articulate it in such a way that you
+pitch yourself as someone apt for the candidature both as a personality and your technical
+expertise. An unprepared answer always puts on a bad impression that you aren't able to
+present yourself, which is a bare minimum expected.
+
+Be conﬁdent in giving your answers and be attentive to the response of the interviewers and
+respond aptly.
+
+I usually make sure I ask about the work culture of the company, current projects, tech stacks
+used in the company, their work experience and learning arcs for the ﬁnal “Do you have any
+questions for me ?” question.
+

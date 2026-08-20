@@ -1,0 +1,88 @@
+About the Company
+
+The Bank of New York Mellon Corporation, commonly known as BNY
+Mellon, is an American multinational Investment banking services
+holding company headquartered in New York City. It is by far the world's
+largest custodian bank and asset servicing company BNY Mellon is an
+investment company, which provides investment management,
+investment services and wealth management helping institutions and
+individuals succeed in markets all over the world.
+
+Online Round (Coding)
+
+Timing: 90mins.
+
+The first round of selection process was Coding round. There were 4
+coding questions with varying points based on their difficulty and no
+aptitude questions were asked in the first round.The platform used was
+Hackerrank. Out of these 4 questions, one was categorised as easy, two
+were medium and one was hard. Around 25 students were selected for
+next round based on their points they got in the coding round.
+
+Round 2: Technical Round - 1
+
+Timing: 30mins.
+
+This round was conducted in Physical mode held at CUIC. It started with
+my self-introduction. Then the interviewer asked my resume and he
+asked me about my projects which I mentioned in my resume. I did a
+project on Machine learning most of the questions were asked form that
+project. No technical questions other than my projects were asked for
+me in this round.
+
+Round 3: Technical Round -2
+
+Timing 40mins.
+
+In this round it started with my introduction. Then basic OOPs questions
+were asked, then he gave a situation and asked me to write SQL query
+based on inner join. After that one programming question was asked it
+was related to grouping anagrams in a given list of strings. After that he
+explained me what are all the technologies are used by the company
+and projects he is working on.
+
+DSA problem related to: https://leetcode.com/problems/group-anagrams/
+
+In this round, for the programming question and SQL query we were
+asked to write it in Pen- paper mode. So for some of the students 3rd
+round was conducted like a Hybrid one in which both Technical round-2
+and HR questions were asked but for some students separate HR
+Round was conducted.
+
+Round 4: HR Round
+
+Timing 30mins.
+
+This Round was conducted like having a casual conversation with
+someone. Because my interviewer asked me questions from the things
+happened in my Life like, the recent problem I faced in my life and steps
+taken to solve it and biggest achievement in my life and some of the
+basic HR questions were asked.
+
+Finally, after completing all the four rounds of Interviews, Around 16
+students were selected for the Internship.
+
+TIPS
+
+•  Practice coding problems consistently form any of the platforms
+
+like Hackerrank, leetcode and try to attend contests in codeforces
+regularly.
+
+•  Have 2-3 Projects from different domain and especially from web
+
+development using Angular JS and a project using JAVA.
+•  Be Confident and be yourself while answering questions in
+
+Interview.
+
+•  Be strong in the basics of OOPs and DBMS.
+•  Be ready to answer the questions asked from your projects you
+
+mentioned in your resume.
+
+All the best!!!
+
+This is Srirambabu from CEG IT of Batch 2024 If you have any queries,
+you can reach me at srirambabu1005@gmail.com.
+

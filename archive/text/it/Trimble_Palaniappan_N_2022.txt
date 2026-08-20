@@ -1,0 +1,70 @@
+Interview Experience
+
+Name: Palaniappan N
+
+Reg No: 2018115066
+
+Company: Trimble
+
+Trimble’s hiring process consists of 6 rounds.
+
+Round1: Theoretical Computer Science
+
+                 This round contains 11 questions related to computer science, here we were asked to
+solve those questions and type those answer with the procedure in the given text field and also
+we can upload the photos of the rough sheet. This round was conducted in Hackerearth. Test
+Duration: 45 mins
+
+Round2: Math & Aptitude
+
+                 This round contains 5 questions in basic math and aptitude, here we were asked to
+solve those questions and type those answer with the procedure in the given text field and also
+we can upload the photos of the rough sheet. This round was also conducted in Hackerearth.
+Test Duration: 30 mins
+
+Round3: Programming
+
+                 This round contains 3 questions, the coding questions were difficult and I tried to
+solve just one question (Count of Numbers in a range where digit d occurs exactly k times). At
+first I tried brute force to solve this question but the time limit exceeded then I tried to solve
+this question using DP and then I finally solved this question. This round was conducted in
+Hackerearth. Test Duration: 1 hour 30 mins.
+
+After these three rounds 11 students were shortlisted for the interview.
+
+Round4: Technical Interview 1
+
+                 In this round there were 2 interviewers, they first introduced them and asked me to
+introduce myself. At first they asked me how I solved those questions in programming round
+
+and I just said them what I did, like a simple procedure and then they shared me a google docs
+which consists of three questions. I was asked to solve those questions and just write a pseudo
+code for those 3 questions. I solved all the 3 questions but I was just able to write the pseudo
+code for just 1 question due to time constraints. And also we discussed about the time and
+space complexity for these questions.
+
+Questions:
+
+•  Addition of two numbers represented by linked list
+•  Vertical sum in BST
+•  Rat and Maze problem (Back tracking)
+
+      They also asked about the best approach for these questions.
+
+Round5: Technical Interview 2
+
+                   In this round there were 2 interviewers but just one of them questioned me. At first I
+introduced myself, then he told me to design a application to navigate in malls and we
+discussed a lot about that and then he asked me to explain about my internship experience. At
+last he asked some technical questions related to OOPS, DBMS and OS and then he asked that I
+have any questions for him, I just asked about his experience in Trimble and then he explained
+me about that.
+
+Round6: HR Interview
+
+                  In this round there was only one interviewer, he asked me to introduce myself and
+then he asked about my financial status, my family, my goals and my strength and weakness
+and then he told me about the salary package.
+
+Four students got selected and lucky I was one of them
+

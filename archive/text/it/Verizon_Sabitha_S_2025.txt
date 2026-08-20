@@ -1,0 +1,74 @@
+VERIZON INTERVIEW EXPERIENCE
+
+Name: Sabitha – 2021115087
+
+About the company:
+
+Verizon Communications is a global leader in communications, providing
+technology and services for voice, data, video, broadband, and both local and
+long-distance voice services. The company offers high-performance networks,
+including 5G, and serves a diverse customer base, including consumers,
+businesses, and government organizations. It also supports network access for
+IoT services and products. Verizon has a global presence, with business
+operations across the Americas, Europe, the Middle East, Africa, and Asia-
+Pacific.
+
+Role offered: Software Developer
+
+Placement Drive Experience:
+
+Round 1: Online Test
+
+The online test had 3 sections:
+
+1: Written English Test – A topic was given, and we needed to write an essay.
+My topic was "What Should Adults Learn from Children."
+
+2: Coding Test – Two medium-level coding questions.
+
+3: Gamified Test
+
+Round 2: Group Discussion
+
+In this round, we were divided into groups of 12. The topic was "Is AI
+Decreasing Our Creativity and Impacting Our Security?" I focused on the
+quality of my points rather than the quantity.
+
+Round 3: Technical interview
+
+The technical questions were primarily based on my resume, including the
+projects I had worked on, the challenges I encountered, and the technical
+concepts involved. I was asked about difficulties I faced in my life and how I
+managed them.
+
+The interviewer asked me to write code for counting duplicate elements in an
+array and some SQL queries related to aggregate functions, joins, and
+subqueries. Additionally, they asked me to explain OOP concepts, cloud
+computing, MVC, real-world examples of data structures, and a few questions
+about Splay trees. I was also asked basic questions on APIs, their types, and
+NLP. The interviewer made me feel comfortable, which allowed me to answer
+calmly.
+
+Round 4: HR interview
+
+The HR interview began with a self-introduction, followed by questions about
+my background and a few behavioral questions. I was also asked why I chose
+Verizon and if I had any questions for the interviewer.
+
+Overall, I had a positive experience.
+
+Tips:
+
+•  Be thorough with your resume, as most questions will come from it.
+
+Ensure you understand the concepts you mention, especially in projects.
+
+•  Stay calm while answering questions; if you don’t know a concept,
+
+politely say you're not familiar with it.
+
+•  Have some knowledge about the company you are interviewing with
+•  Prepare a few questions to ask the interviewer at the end.
+
+ALL THE BEST!!!
+

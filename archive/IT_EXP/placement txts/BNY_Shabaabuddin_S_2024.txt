@@ -1,0 +1,93 @@
+My Interview Experience
+
+Round 1(BNY): Online Coding
+
+My ﬁrst round of coding was an online test for BNY. We had 4 ques(cid:415)ons that
+we had to ﬁnish within around 60 to 90 mins. The ques(cid:415)ons were in ascending
+order in terms of diﬃculty. The topics in these ques(cid:415)ons included algorithms
+whose prior knowledge is key to solving. Arrays, Strings and Dynamic
+Programming ques(cid:415)ons. The ques(cid:415)ons were tough ones. The selec(cid:415)on was
+done even if the candidate had not solved all 4 ques(cid:415)ons. So the more you
+solve the be(cid:425)er chances and keep an eye out to solve as many test cases as
+possible. Sorry although I do not remember the ques(cid:415)ons exactly.
+
+On-Campus Interview (BNY):
+
+The whole process consisted a total of 3 rounds. Many interviewers had shown
+up and the ques(cid:415)ons put out by them are diﬀerent, based on the interviewer
+alone, so the diﬃculty may vary for sure.
+
+So, in my ﬁrst round I was asked about my personal projects men(cid:415)oned in my
+resume. Most of my projects were full-stack hence I was asked about my
+interests as well, like why web-development or what about other technologies
+currently trending and so on. I was asked ques(cid:415)ons based on React and
+concepts around it. I was also asked in what ways can one map OOPs concepts
+that I had studied in C++ to concepts in React.
+
+There were ques(cid:415)ons about my projects, about the workﬂow and why I had
+used a par(cid:415)cular concept. So be thorough with the projects men(cid:415)oned in your
+resume. There is also a high chance companies ask you to draw ER diagrams for
+your projects and ques(cid:415)on about it. The majority of this round was about
+projects, concepts like threads, OOPs & SQL. I was also asked about projects in
+other domains like Machine Learning. I was also asked my work outside of
+college projects, extracurricular ac(cid:415)vi(cid:415)es if any and projects that were not part
+of college syllabus.
+
+The next round was a li(cid:425)le more lightweighted on the technical side and had a
+few more HR related ques(cid:415)ons as to why BNY? Why ﬁntech? Why not a
+Product based company? What do I know about BNY? And so on. The technical
+
+aspect was again few generic ques(cid:415)ons about C++ & SQL. Some ques(cid:415)ons
+about my projects and Domain interests.
+
+My last round was with a Director from BNY. I was again asked about my
+projects and explain one of them and their use-case. He later gave me a
+scenario as follows:
+
+“A busy man needs to pay his maid, cash only. He goes to a nearby ATM only to
+ﬁnd out that cash is not available in the ATM. How would improve his
+experience as a customer, give 3 possible solu(cid:415)ons to enhance customer
+sa(cid:415)sfac(cid:415)on.”
+
+So that was my interview experience in total.
+
+Other Interview Experiences:
+
+I have 2 other experiences. One for my summer internship with SCB and
+another during placements with Appian.
+
+So SCB was more of projects and SQL based. Lot of why ﬁntech and SCB
+ques(cid:415)ons as well. ER diagrams and more database related ques(cid:415)ons based on
+Joins, Create, Update and other concepts if you have used in your projects.
+
+Appian was actually looking for proper java developers. Although they did
+allow us to code in c++ but from scratch and not pre-deﬁned testcase type
+ques(cid:415)ons how one would solve in leetcode. So added diﬃculty. They asked a
+lot of Dynamic Programming and Tree based ques(cid:415)ons.
+
+Some Useful (cid:415)ps perhaps:
+
+There will be a lot of technical, resume and HR related ques(cid:415)ons, make sure to
+be clear, honest and speak conﬁdently with the knowledge you have in a very
+respec(cid:414)ul manner.
+
+Do Strivers crash sheet incase you are only star(cid:415)ng with your coding, watch
+videos and try to grasp concepts. Do not spend excess (cid:415)me if you are not able
+to solve a par(cid:415)cular problem. Tensions will be high alongside huge peer
+pressure when friends and fellow classmates get placed. Try to be op(cid:415)mis(cid:415)c
+and prac(cid:415)ce as hard as you can and give full eﬀort. Refer NeetCode sheet as
+well, that can be helpful. So prac(cid:415)ce well, keep basic coding syntax and
+knowledge in mind.
+
+Go through Concepts like Networks, OOPs, Threads and more which are the
+theore(cid:415)cal concepts in your syllabus. Focus more on interview websites that
+have pre-deﬁned ques(cid:415)ons, helps in covering topics quicker.
+
+Know (cid:415)me complexity of various searching and sor(cid:415)ng algorithms. Keep the
+coding strong, prac(cid:415)ce and cover as much as DSA as possible.
+
+Hope my experience and (cid:415)ps/advice can help y’all. Stay calm, have faith and do
+well and work hard.
+
+ALL THE BEST!!
+

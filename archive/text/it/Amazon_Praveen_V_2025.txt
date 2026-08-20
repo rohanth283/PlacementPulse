@@ -1,0 +1,83 @@
+|     | Praveen | V   | - Amazon | Interview | Experience |     |
+| --- | ------- | --- | -------- | --------- | ---------- | --- |
+Aboutthecompany
+Amazon
+Amazon.com,Inc., doing businessas Amazon, isanAmerican multinational
+technology company, engaged ine-commerce, cloud computing, online advertising,
+| digitalstreaming, |     | and artificialintelligence |     |     |     |     |
+| ----------------- | --- | -------------------------- | --- | --- | --- | --- |
+Asof 2024, it istheworld's largest onlineretailer and marketplace,smart
+speaker provider, cloud computing service through AWS,live-streaming service
+through Twitch, and internet company asmeasured by revenue and market share
+AbouttheRole:
+The Software Development Engineer (SDE) Intern role at Amazon offers students a
+unique opportunity to gain hands-on experience in software development within one
+of the world’s leading technology companies. As an SDE intern, you will work on real
+projects that directly impact Amazon’s customers, involving tasks such as designing,
+coding, testing, and deploying software solutions. You ’ ll collaborate with
+experienced engineers, participate in code reviews, and engage in design discussions,
+all while solving complex technical problems that require innovative approaches.
+Amazon provides a supportive environment with mentorship and access to internal
+resources to help you grow professionally. This internship not only allows you to apply
+your programming skills and problem-solving abilities but also gives you a chance to
+contribute to meaningful projects that can shape the future of Amazon’s services.
+For those who excel, the internship often serves as a pathway to a full-time SDE
+positionat Amazon, making ita valuable stepping stone in your technology career.
+| Overview                   | ofthe Process: |        |         |                      |     |     |
+| -------------------------- | -------------- | ------ | ------- | -------------------- | --- | --- |
+| Theoverallprocessconsisted |                |        |         | of                   |     |     |
+|                            | An Online      | coding | contest | inHackerRankplatform |     |     |
+●
+|     | Interview | Round | 1 (Only | DSA &Problem | Solving)– Online | mode |
+| --- | --------- | ----- | ------- | ------------ | ---------------- | ---- |
+●
+Round-1
+ First round wasanonlinetest conducted in HackerRankplatform.The questions
+weremedium questions.First questionwas based onDP and other onewas based
+| onBinary | search |     |     |     |     |     |
+| -------- | ------ | --- | --- | --- | --- | --- |
+Next there weresome behaviouralquestions asked .Dont ignore this part asthis
+
+| section | also carriessome |     | weightage | to theselectioncriteria. |     |     |
+| ------- | ---------------- | --- | --------- | ------------------------ | --- | --- |
+
+Isolved thefirst problem fully and wasable topass half thetest casesin second
+
+one
+ Out of more than 400 participants, 85 candidates were shortlisted for the next
+round.
+Round-2
+Round 2wasalso conducted inonline mode onAmazon chime.There weretwo DSA
+questionswhich were of medium and easy difficulty .First question wasa modification
+ofNumber of Islands problem inleetcode.Second question wasfinding the pivot
+index ofthe array(index wherethe sum of elements tothe right and sum of elements
+tothe left isequal).Both the questionswere popularand standard DSA questions.
+| Number | ofIslands |     |     |     |
+| ------ | --------- | --- | --- | --- |
+https://leetcode.com/problems/number-of-islands/description/
+Pivotindex
+https://leetcode.com/problems/find-pivot-index/description/
+| Preparationstrategy | and | Tips |     |     |
+| ------------------- | --- | ---- | --- | --- |
+ Tryto learnallthe Data structures and the standard question onthose data
+structures
+ Communicate wellwith the Interviewer and explain theintutionwhile trying to
+| find | the logic ofthe | problem |     |     |
+| ---- | --------------- | ------- | --- | --- |
+Beforediving into the solution alwaysgivesome bruteforce approach to the
+
+| problem | and givetheoptimized | solution |     |     |
+| ------- | -------------------- | -------- | --- | --- |
+Learnthetime and spacecomplexity of allthedata structure operations and
+
+algorithms
+ Evenif you cantarriveat asolution giveyour thoughts onapproaching the
+problem
+|  Follow | theStriversSDE | sheet and tryto | learn allthose | topics |
+| -------- | -------------- | --------------- | -------------- | ------ |
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
+| Feelfreeto | contact meon |     |     |     |
+| ---------- | ------------ | --- | --- | --- |
+Email:praveenanand333@gmail.com
+| Linkedin: | linkedin.com/in/praveen-v-4725bb224 |     |     |     |
+| --------- | ----------------------------------- | --- | --- | --- |

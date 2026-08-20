@@ -1,0 +1,28 @@
+| About | the company: |     |     |     |     |     |
+| ----- | ------------ | --- | --- | --- | --- | --- |
+Vivriiti Capital is a FinTech company, which, around the time that they
+came for hiring, was considered as a startup company. Now it’s been 7
+years since the start of the company, so its not much of a startup. Its
+| good        | to get   | your early  | experiences | in  | startups like | this. |
+| ----------- | -------- | ----------- | ----------- | --- | ------------- | ----- |
+| Role:       | Software | Engineering |             |     |               |       |
+| Preparation |          | Strategy:   |             |     |               |       |
+I only prepared for the DSA questions and the projects that were there in
+my resume.
+| Placement | Drive | Exp: |     |     |     |     |
+| --------- | ----- | ---- | --- | --- | --- | --- |
+First round - 1 easy level leetcode question and a medium level leetcode
+question( i do not remember this question, but it was something like
+| grouping      | up      | palindrome | strings) |            |            |         |
+| ------------- | ------- | ---------- | -------- | ---------- | ---------- | ------- |
+| Second        | round   | - Simple   | DSA      | questions, | reflection | upon my |
+| fundamentals, |         | and my     | projects | in my      | resume     |         |
+| Tips and      | Tricks: |            |          |            |            |         |
+Well, I do not have anything to say on this. You guys know what to do, so
+| keep | at it! |     |     |     |     |     |
+| ---- | ------ | --- | --- | --- | --- | --- |
+In the end, it's just a game of luck. You get placed in a good company if
+you are lucky and crafty. It also depends on your goals. If you are willing
+to pursue higher education, this company is more than enough. But if
+not, then I would maybe suggest you to hold back on this option, and try
+for other companies. This company is pretty good for freshers, though.

@@ -1,0 +1,52 @@
+| About     | the Company  |       |          |     |     |
+| --------- | ------------ | ----- | -------- | --- | --- |
+| Accenture | is a service | based | company. |     |     |
+It hires students from all departments so it's a good opportunity for non-circuit branch
+| students | also.    |     |     |     |     |
+| -------- | -------- | --- | --- | --- | --- |
+| About    | the role |     |     |     |     |
+Usually service based companies hire for a flexible role. Officially the role name is
+Application Engineer but my responsibilities and Tech stack is not predetermined.
+| Preparation | Strategy |     |     |     |     |
+| ----------- | -------- | --- | --- | --- | --- |
+This is a low-tier company and their interview syllabus is wide but not deep.(covers a lot of
+| topics | but not in depth). |     |     |     |     |
+| ------ | ------------------ | --- | --- | --- | --- |
+If you are already from CS or IT dept, only the basic course subjects like
+| (OOPS,DBMS,OS,Computer |     |     | Networks) | are enough. |     |
+| ---------------------- | --- | --- | --------- | ----------- | --- |
+General aptitude preparation is required as they have a separate section for aptitude in the
+| online | assessment | (use | IndiaBIX). |     |     |
+| ------ | ---------- | ---- | ---------- | --- | --- |
+For coding rounds it's usually only strings , loops and hashing topics.[Easy to medium].
+Placement Drive experience (online test, GD, technical and HR interviews)
+| 200+ students | participated                             |     | initially | but only 7 were | selected. |
+| ------------- | ---------------------------------------- | --- | --------- | --------------- | --------- |
+| Round1:       | CognitiveandTechnicalAssessmentfor90mins |     |           |                 |           |
+Questionsasked:Aptitude,Predicttheoutputforgivencode,OOPS,DBMS,OS ,Computer
+Network(IPaddress),MSEXCEL.
+Round 2 : it happened on the same day . Coding Round for 45 mins.
+| 2 questions | were asked      |           | .          |     |     |
+| ----------- | --------------- | --------- | ---------- | --- | --- |
+| Difficulty  | : leetcode      | easy      | to medium. |     |     |
+| Topic :     | Strings , Loops | , Hashing | .          |     |     |
+[If u have done 100 leetcode problems then you can be confident to solve the coding round
+too.]
+| Round         | 3: Communication |        | Test for  | 20 mins |     |
+| ------------- | ---------------- | ------ | --------- | ------- | --- |
+| Basic English | speaking         | and    | listening | test.   |     |
+| School        | level difficulty | .      |           |         |     |
+| Round         | 4: Interview     | for 30 | mins      |         |     |
+My on campus interview was very simple. Started with an introduction . No technical
+questions asked .No DSA asked. Talked about my projects for some time. Asked about my
+
+| future goals.  | And it was   | over .              |                     |               |     |
+| -------------- | ------------ | ------------------- | ------------------- | ------------- | --- |
+| Try to explain | technical    | details             | about your projects | or internship | .   |
+| That's it.     | Overall it's | a simple interview. |                     |               |     |
+But a word of advice - Accenture is a service based company which is very different from a
+product based company .It is more suitable and practically a jackpot for non circuit branches.
+Roles or tech stack or location are very flexible(Not fixed even after joining) .You won't even
+know what you gonna work on after joining.Try to keep accenture as your plan B.
+| But still, accenture | is  | a good start | for beginners. |     |     |
+| -------------------- | --- | ------------ | -------------- | --- | --- |

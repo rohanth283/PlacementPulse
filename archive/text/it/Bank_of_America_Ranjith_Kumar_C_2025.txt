@@ -1,0 +1,29 @@
+**BANK OF AMERICA (RANJITH KUMAR C)**
+
+**SELECTION PROCESS:**
+
+1) The company conducted three rounds. The first round was an online coding round with a requirement to post a video solution. The next two rounds were technical interviews.
+
+2) In the online coding round, they asked two standard problems:
+
+1. String problem
+
+2. Balanced parenthesis checker
+
+After solving both problems, candidates were required to record a video solution for any one problem. The video also included general questions asked by the company and had to be uploaded on the platform.
+
+3) Technical Interview 1:
+
+* They asked basic questions on core concepts like OOPS and DBMS.
+* They also asked the logic and code for “Reversing a Linked List”.
+
+4) Technical Interview 2:
+
+* In the second round, they discussed my projects and asked me to write code for specific features of one of my projects.
+
+**MY PREPARATION STRATEGY:**
+
+* I started solving easy problems randomly on LeetCode during my second year. After getting comfortable with easy problems, I switched to medium-level problems.
+* After solving problems randomly, I realized that the quantity of problems you solve doesn't matter as much as the quality. So, I referred to the Striver SDE Sheet and began solving the problems listed in it.
+* In my third year, I started learning the MERN stack using Angela Yu’s course on Udemy. However, I did not focus much on projects, which turned out to be a major mistake.
+* I started preparing for core concepts during the semester break after my 6th Semester.

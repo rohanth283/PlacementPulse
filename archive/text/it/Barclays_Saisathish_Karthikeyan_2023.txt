@@ -1,0 +1,151 @@
+SAISATHISH KARTHIKEYAN
+
+PLACEMENT EXPERIENCE – BARCLAYS GSC
+
+Note: Internship to Full-Time Conversion
+
+Before  transitioning  into  my  current  full-time  role  at  Barclays  GSC  Chennai,  I  initially  joined  the
+company as a summer intern. The process I am about to describe reflects the experience I had during
+my internship placement. This internship was later converted into a full-time position, based on my
+performance. Therefore, the steps and experiences detailed below pertain specifically to the internship
+selection process.
+
+ABOUT THE COMPANY
+
+Barclays is a British multinational investment bank and financial services company headquartered in
+London.  With  a  history  dating  back  over  325  years,  Barclays  operates  in  more  than  40  countries,
+offering products and services across personal, corporate, and investment banking. The company is
+committed  to  helping  customers  and  clients  achieve  their  financial  goals  through  innovation  and  a
+focus on responsible banking.
+
+Barclays  in  India:  Barclays  has  established  a  strong  footprint  in  India,  where  it  operates  through
+various  business  units.  The  bank  provides  services  in  areas  such  as  investment  banking,  where  it
+advises companies on mergers, acquisitions, and capital raising; corporate banking, offering tailored
+financial  solutions  to  large  corporations;  and  wealth  management,  catering  to  high-net-worth
+individuals with bespoke investment strategies.
+
+Barclays  Global  Service  Centre  (GSC):  Barclays  GSC  is  an  integral  part  of  Barclays’  global
+operations, providing critical services that support the bank’s business worldwide. Barclays GSC is a
+network of centres that support the bank's operations worldwide, with a focus on delivering technology
+and  operational  services.  These  centres  are  critical  to  Barclays’  ability  to  operate  efficiently  and
+innovate in the competitive financial services industry.
+
+At Barclays GSC Chennai, where I work, the focus is on delivering technology-driven solutions and
+operational support that are crucial to Barclays’ global business operations. The centre specializes in
+areas  like  data  engineering,  software  development,  and  operational  risk  management.  Teams  here
+collaborate with global counterparts to ensure the smooth functioning of Barclays’ operations across
+various regions, playing a pivotal role in the bank's success.
+
+ABOUT THE ROLE
+
+Internship Role: During my internship at Barclays GSC Chennai, I worked as a UI Developer. My
+primary responsibility was to develop a documentation portal intended for internal use by other team
+members.  The  team  I  was  part  of  specializes  in  creating  UI  libraries  for  other  departments  within
+Barclays.  The  portal  we  developed  served  as  a  comprehensive  documentation  resource  for  these
+libraries.
+
+The project involved using front-end technologies such as React.js and HTML to create a dynamic and
+user-friendly  interface.  Additionally,  we  utilized  a  tool  called  Docusaurus,  which  automates  the
+creation of documentation websites by generating content from codebase documentation. This was not
+just a static website; it dynamically pulled and displayed documentation, making it easier for users to
+access and understand the UI components. I collaborated closely with another intern on this project,
+and we successfully delivered a functional and well-documented portal over the course of our two-
+month internship.
+
+SAISATHISH KARTHIKEYAN
+
+Current Full-Time Role: After my internship, I transitioned into a full-time role at Barclays GSC
+Chennai, where I now work as a Data Engineer. In this role, I am responsible for managing the ETL
+(Extract, Transform, Load) process, a critical component of data engineering. My work involves using
+a specialized tool called Ab Initio, which streamlines and automates the ETL process, ensuring that
+data is efficiently processed and made available for analytical and operational use.
+
+PREPARATION STRATEGY
+
+To prepare for the placement/intern process, I focused on strengthening my problem-solving skills and
+revisiting  key  technical  concepts.  I  spent  time  practicing  coding  problems  on  HackerRank,  which
+helped me brush up on essential DSA topics. Additionally, I reviewed the basics of DBMS, SDLC,
+computer networks as well as all the other core subjects. These areas were crucial for the online test
+round.
+
+The online test round included two coding questions of easy to medium difficulty, mainly focused on
+basic DSA concepts, and several multiple-choice questions (MCQs) covering various topics such as
+DBMS, networks, and SDLC. Preparing for these topics allowed me to approach the test confidently.
+
+Once  I  cleared  the  online  test,  I  intensified  my  preparation  by  revisiting  core  subjects,  including
+DBMS, SDLC, and DSA, as well as other fundamental topics. This thorough review was essential for
+the next stage of the selection process—the interview.
+
+PLACEMENT  DRIVE  EXPERIENCE
+TECHNICAL AND HR INTERVIEWS)
+
+(ONLINE  TEST,  GD,
+
+The  placement  process  consisted  of  two  rounds:  the  online  test  and  a  combined  technical  and  HR
+interview.
+
+Online  Test:  The  online  test  featured  two  coding  questions  that  were  relatively  straightforward,
+focusing  on  basic  DSA  concepts.  These  questions  were  not  too  challenging  and  did  not  involve
+complex topics like graphs. Additionally, there were multiple-choice questions that covered a wide
+range of subjects, including DBMS, networks, and SDLC. The preparation I had done prior to the test
+proved very helpful in navigating this round successfully.
+
+Interview: After passing the online test, I participated in an online interview with a senior colleague
+based in Pune. The interview followed a standard format, beginning with an introduction. I was asked
+a series of questions on DBMS, which were fairly basic. When asked about my  favourite subject, I
+mentioned Operating Systems (OS), leading to a few questions on that topic as well.
+
+The interviewer also inquired about my projects, specifically asking how I contributed to them and
+their current status. Since the interview was conducted online, I was able to demonstrate my work by
+showing project demos, which I had prepared in advance. Additionally, I was asked a question related
+to computer networks. The interview concluded with a question about why I wanted to join Barclays,
+which provided an opportunity to express my interest in the company. Overall, the placement process
+was  straightforward,  with  only  two  rounds—the  online  test  and  the  combined  technical  and  HR
+interview.
+
+SAISATHISH KARTHIKEYAN
+
+TIPS AND TRICKS
+
+1.  Strengthen Core Subjects and Fundamentals
+
+Revisiting and mastering the fundamentals of your core subjects is crucial. Whether it’s DBMS,
+Operating Systems, or Networks, having a solid understanding of these topics will set you up for
+success, especially during technical interviews.
+2.  Focus on Data Structures and Algorithms (DSA)
+
+DSA concepts are instrumental in clearing the first round—typically the online test—of most
+placement processes. This round is often the most challenging, so regular practice of DSA
+problems is essential. Use platforms like HackerRank or LeetCode to hone your skills.
+
+3.  Build a Strong Portfolio with Project Demos
+
+A well-rounded portfolio with diverse projects is a great way to showcase your skills. Whenever
+possible, have demos ready for your projects, as this can significantly enhance your profile
+during interviews. Working on various projects across different tech stacks not only broadens
+your knowledge but also boosts your confidence.
+
+4.  Craft a Simple and Clear Resume
+
+Your resume should be concise and focused, ideally fitting on a single page. It should clearly
+outline your skill set, projects, experience, and education. Don’t forget to include any
+certifications, technical events, or competitions you’ve participated in.
+
+5.  Participate in Technical Events and Hackathons
+
+Engaging in intra- and inter-college technical events, as well as hackathons, is highly beneficial.
+These experiences not only help you learn new concepts but also enhance your resume. Plus, they
+provide valuable experience working under pressure and in team settings.
+
+6.  Be Honest and Confident in Interviews
+
+During interviews, confidence is key. Speak clearly and be honest about what you know. If you
+don’t know the answer to a question, it’s better to admit it than to try and bluff your way through.
+Authenticity goes a long way in making a positive impression.
+
+7.  Research the Company
+
+Before any interview or even the online test round, take the time to research the company. You’ll
+likely be asked why you want to join the company, so being well-prepared with knowledge about
+their mission, values, and recent projects will help you answer confidently and convincingly.
+

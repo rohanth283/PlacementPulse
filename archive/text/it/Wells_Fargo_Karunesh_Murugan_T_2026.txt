@@ -1,0 +1,133 @@
+**Wells Fargo Summer Intern Selection Process**
+
+**About Company:**
+
+Wells Fargo & Company (NYSE: WFC) is a leading global financial services company headquartered in San Francisco (United States). Wells Fargo has offices in over 30 countries and territories. Our business outside of the U.S. mostly focuses on providing banking services for large corporate, government and financial institution clients. We have worldwide expertise and services to help our customers improve earnings, manage risk, and develop opportunities in the global marketplace. Our global reach offers many opportunities for you to develop a career with Wells Fargo. Join our diverse and inclusive team where you will feel valued and inspired to contribute your unique skills and experience.
+
+We are looking for talented people who will put our customers at the canter of everything we do. Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+**About the Role:**
+
+Internship includes performing various assignments to become familiar with the organization and gain basic work experience. Work assignments are augmented by classroom training, self-study assignments, workshops, networking and/or other events.
+
+**Overview Of Selection Process:**
+
+1. Online Test (Coding + Aptitude)
+2. Interview Rounds:
+3. Interview Round 1 (Tech)
+4. Interview Round 2 (Tech + HR)
+5. HR Round
+
+**1) Online Test ( SHL Platform ) :**
+
+The test comprised 4 rounds: 2 Coding Sections, 1 Verbal Aptitude and 1 Business Aptitude. Navigation was strictly linear – going back to previous question/section is not allowed.
+
+* **Section 1 (Coding – 1 Hr) :**
+
+For this Coding Section alone, **Java was the only programming language allowed**. The question did vary for others.
+
+**My Question (Simplified Version) was:**
+
+“ Given a currency value ( Ex: ₹2700), find the minimum number of notes( ₹2000, ₹500, ₹200, ₹100, ₹50, ₹20, ₹10, ₹5, ₹1 Notes Possible) and display them in the specified format ”.
+
+**I/P :** 1950
+
+**O/P :**
+
+500 | 3
+
+200 | 2
+
+50 | 1
+
+**Solution Logic:** Can be solved through 2 methods: One is using mod (Fast/Efficient) , and another is repeated subtraction till 0 (Easier to Understand)
+
+* **Section 2 ( Verbal Aptitude – 12 Mins ) :**
+
+10 Questions. This section tested English vocabulary and reading comprehension. Were asked to do:
+
+* Synonyms and anonyms (6 Questions) for underlined words
+* Given a comprehension passage, some questions(4 questions) related to that one passage.
+* **Section 3 ( Business Aptitude – 25 Mins ) :**
+
+12 questions in total. This round felt like the deal-maker among all sections. 4 Graphic Visualization problems were given:
+
+Tables, Venn Diagrams, Bar Charts, and Candlestick charts.
+
+Due to time constraint, I was able to attempt only about half the questions. It required quick math and logical relations.
+
+* **Section 4 ( Automata – 40 Mins ) :**
+
+2 Questions with any preferred languages allowed. (Again, questions varied for others) Questions I got was (Simplified) :
+
+**Q1)** **Given m days and n profit entries, return the max profit for each day.**
+
+**Number of Test Cases:** 14
+
+**Q2)** **Very lengthy. Can recollect the total question:**
+“ A house can be represented as a cell. Thus, a group of houses with each house having adjacent house can be said as group of cells, where each house can be either active (1) or inactive (0) . When it’s the next day, if only one of its either neighbour is active/inactive (not both), then it will be turned active. If both of it’s neighbours are active/inactive, it will be turned inactive. It can be assumed the left neighbour and right neighbour of 1st cell and last cell respectively are inactive always. Provided an array of n cells state and m days, find and return the cells state after m days. “
+
+**Sample I/P :**
+
+1 (No of days)
+
+1 0 1 1 0 0 1 (Stream of data)
+
+**Sample O/P :**
+
+0 0 1 1 1 1 0 (States after 1 day)
+
+**Number of Test Cases:** 122
+
+**Approach I took:** I went for a simple logic, which is to find the XOR of each cell’s neighbours ( both left and right ) to determine its next day state. For the first and last cells, which have only one neighbour, I directly used that neighbour’s state (XOR of 0 and x = x).
+
+**2) Interview Rounds:**
+
+In total 3 rounds. **Every round required a self-introduction** and some question related to your resume was asked by the interviewers.
+
+* **Tech Round:**
+
+The interviewer began by asking what course subjects I liked the most. I mentioned Advanced Data Structures and DBMS. He followed up with questions from DBMS, including concepts like **ETL**, **ELT**, **MDM**, and **CDC**.
+
+Then, we shifted to **Data Structures**. I was asked to open a notepad and write a pseudo code to check whether a given string is a palindrome using pointers. As I typed, I explained the logic and reasoning behind each line.
+
+Satisfied with my explanation, He moved on to the difference between Singly Linked List and Double Linked List - how it differs actually in code, their use cases and real-world examples.
+
+Then, we discussed sorting. He asked for a detailed comparison between bubble sort and merge sort, including procedures , strategies and time complexities. I explained both in Notepad with examples.
+
+* **Tech + HR Round:**
+
+The HR reviewed my whole resume and asked me to elaborate on my previous intern experience and some of the projects I worked on.
+
+Toward the end of the discussion, he asked a single question:
+
+“What’s the use of a pointer? From Programmer’s Perspective”.
+
+He clarified he wanted an answer that’s not the usual one “To store it in a variable” and that a layperson can - without diving into topics like Operating Systems or Computer Architecture.
+
+In a nutshell, I explained pointers by starting with a university system example—where we don’t know how many students will enrol in advance. First, I Gave a simplified, real-world explanation of pointers, finally tying it back to dynamic memory management. It went more like a formal conversation with some back-and-forth.
+
+* **HR Round:**
+
+The HR round was quite relaxed. After a brief self-introduction, they asked some questions related to my resume. Towards the end : two questions, “Why should we hire you?” and “Why choose us?”. I answered both together by stating my interest and my desire to contribute in finance domain through this role.
+
+Before wrapping up, they advised me to **improve my Java Skills** as 80% of their systems rely on Java.
+
+**Interview Advice:**
+
+* Most interviews are quite chill. Just stay calm and focused throughout any interviews and you will do good.
+* My interviewers weren’t worried much about not knowing some technical concepts. For me, they were looking at how well you could communicate and whether you could explain a topic clearly to anyone.
+
+**My Preparation Strategy:**
+
+* I actually started my intern prep quite late – just about a month before the whole process kicked off. While most of my peers had been practicing since the start, I knew I had to work in that month itself.
+* My plan wasn’t rigid or structured. I took a few courses (Free ones) and relied heavily on GeeksforGeeks & ACM questions for brushing up concepts and solving problems. What I took seriously was not just solving questions—but **understanding them deeply**. I made sure I knew why a solution worked, not just how.
+* My mindset was kind of simple: Keep working until you can crack the test. And at the same time, I made sure my communication skills are good enough, like I said, that mattered the most out of anything else.
+
+**All the Best and Good Luck!**
+
+**Name :** Karunesh Murugan T
+
+**Roll No :** 2023115050 (IT 3rd Year – Grey Tag)
+
+**Email:** tkaruneshmurugan@gmail.com (For Contact)

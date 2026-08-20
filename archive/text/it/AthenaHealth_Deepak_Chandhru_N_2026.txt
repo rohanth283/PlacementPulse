@@ -1,0 +1,313 @@
+Athenahealth Interview Experience
+
+Intern + FTE (Based on Performance)
+
+-  Deepak Chandhru N (2022115112)
+
+About Athenahealth:
+
+At athenahealth we’re using technology to transform the
+way our friends and family get medical care and how doctors
+treat patients. We bring cloud-based web and mobile software
+to the healthcare industry to build an information backbone
+with the power to transform health delivery.
+
+      AthenaOne is athenahealth’s integrated EHR (Electronic
+Health Records), medical billing & practice management, and
+patient engagement solution that leverages AI to transform
+your performance.
+
+About the Role:
+
+Role: Product Engineering
+
+We’re looking for developers who want to work on challenging
+technology problems to create products that medical
+professionals and patients use every day.
+
+We work with a mix of technologies, but don’t hire developers
+based on particular coding language.
+
+• We're more interested in folks with raw talent and a burning
+desire to succeed. The most important requirement for
+
+applying is a passion to learn and to make a difference
+developing enabling technologies.
+
+• Ability to learn and adapt quickly
+
+• Experience reading and writing code in a programming
+language
+
+• Experience working collaboratively towards project goals and
+deadlines
+
+• Computer Science (CS) or relevant technical degree program
+is a plus, though we will consider non-traditional, non-CS
+degreed applicants.
+
+Selection Process:
+
+Day 1:
+
+1. Online Assessment (In Offline Mode)
+
+2. Technical Round
+
+3. Technical + Managerial Round
+
+Day 2:
+
+4. HR Round
+
+Round 1: Online Assessment
+
+[1 hr 30 mins]
+
+Online Assessment was conducted at CUIC in hacker rank
+under the monitoring of company staffs. The online assessment
+had 3 parts
+
+i)  MCQ question on OOPS – 2
+ii)  MCQ question on Data Structure – 5
+iii)  Coding Question – 2
+
+1) Minimum Number of swaps required to make the
+valid parenthesis.
+
+https://leetcode.com/problems/minimum-number-of-
+swaps-to-make-the-string-balanced
+
+2) Lexicographically Smallest Palindrome - LeetCode
+
+From the online assessment, 34 of us has shortlisted
+
+for interview. The online test was conducted in morning.
+The Interview process started in the afternoon of the
+same day.
+
+If the online assessment was conducted in CUIC,
+
+don’t wait for optimal approach. Try to pass all the
+provided testcases with even brute-force approach and try
+to finish faster.
+
+Round 2: Technical Interview
+
+[50 - 60 mins]
+
+The interview started with introduction. Then he told me to
+explain about the project I have mentioned in my resume.
+
+Project (Tech Stack) based Questions:
+
+1. What is use-Effect in React?
+
+2. Which type of React components (Class component or
+Function Component) is used in my project?
+
+3. What is redux?
+
+4. What is bi-LSTM?
+
+DBMS:
+
+1. What are the normalisation forms?
+
+2. What is indexing? What are the types of Indexing?
+
+3. A SQL query: Return the book title and the number of times
+each book is borrowed.
+* Book (ID, title)
+
+* Reader (ID, name)
+
+* Borrow (BookId, ReaderId)
+
+OOPS, DSA:
+
+1. Explain the 4 pillars of OOPS in C++? (Since, I mentioned I
+am using C++ for DSA in my intro)
+
+2. Application of stack
+
+3. What is linked list?
+
+4. Simulation of Quick sort for the given array.
+
+Coding:
+
+1. Moving zeros to the end of array.
+
+Eg: [4,0,2,0,8,5] -> [4,2,8,5,0,0]
+
+2. Find the index where the left and right subarray product will
+be equal.
+
+Eg: [2,3,4,8,6,4].
+Output: 3 (left: [2*3*4] = right: [6 * 4])
+
+Then the interviewer asked, do you have any questions. I have
+asked about his work experience in AthenaHealth. He explained
+about his past project works and also the project and tech
+stack that the company was currently working on.
+
+Round 3: Managerial Round
+
+[45 - 50 mins]
+
+This round was a little tricky one. In this round, the interview
+was purely based on the resume. He almost asked questions
+from each and every section in the resume. So, be clear about
+the details you have mentioned in your resume. He also asked,
+
+1. What do you know about the company?
+
+I told the company project details explained by my previous
+round interviewer.
+
+2. What are the past interviews you have attended? Why
+
+you are rejected in those interviews?
+
+I have acknowledged the mistakes I have done during one
+of my interviews and what I have done to correct my mistakes.
+[You should not be harsh on company. Try to acknowledge your
+mistakes and also explain how you overcome it, in a polite
+way]
+
+3. Which programming language you will prefer? Python
+
+or Java?
+      I have answered python.
+
+       4. What is GenAI? [Since the python team is working on
+GenAI and OCR based EHR product]
+
+The interview lasted for nearly 50 minutes.
+
+Round 4: HR Interview
+
+[20 mins]
+
+1. Tell me about yourself
+2. Explain any one of your projects
+3. Scenario - based question: You are working in a project
+with a team of 4 members. One of your teammates has
+a health issue. What would you do to finish the project
+within the deadline?
+4. What is your strength?
+5.  The works you have done in the clubs?
+6.  Explain the situation you have worked as a leader in a
+
+team.
+
+7.  What is AthenaHealth?
+8.  What are the past interviews attended and why they
+
+have rejected you?
+9. Family background
+10.  Are you comfortable with relocation?
+
+Finally, 6 of us were selected.
+
+My Preparation Strategy:
+
+For DSA preparation, Striver’s Sheet will be very useful.
+
+C.O.D.E Series and the ISTA weekly contests have helped me.
+Try to participate in many coding events and online contests to
+get familiar in coding.
+
+For SQL, try to solve the SQL 50 series in Leetcode in
+
+order. This will help you understand the key SQL concepts for
+interviews.
+
+       For Core subjects, refer GeeksforGeeks and Neso academy
+
+For Aptitude, refer IndiaBix: https://www.indiabix.com/
+
+For Puzzles, refer GFG Puzzles.
+
+For HR questions, there is no exact answer for it. So,
+
+prepare answers for the common HR interview questions in
+your own unique way.
+
+Previous Interviews list:
+
+Internship: Microsoft, VeGrow, Citi
+
+Placement: Tekion
+
+Key Suggestions and Tips from My Experience:
+
+Start the preparation before the semester holidays. Once
+
+the placement drive starts, there won’t be much time for
+preparation.
+
+In the semester holidays, try to understand the things you
+
+are not comfortable and start working on improving it.
+
+For the coding interviews, start with brute force approach.
+
+Don’t directly go with optimal approach. This was the mistake
+which led to my VeGrow interview rejection. So, always start
+solving with brute force and try to give many possible
+approaches. Explain the time and space complexity for your
+code and ask for edge cases. They will only check your
+understanding, so syntax does not matter much.
+
+For DSA preparation, try to solve coding problems in an
+organized way. The random problem solving will not give the
+conceptual understanding. Try to solve more coding problems
+in each topic. Though the quantity varies, solve many problems
+until you are clear about the ‘basic syntax and question format’
+of that topic.
+
+For the technical questions, try to explain the concepts in
+
+details and also provide a simple real-time example. Try to
+explain all the concepts you have known relevant to that
+question.
+
+Be clear with the tech stacks you have used in your
+
+projects. Be clear with all the terms you have mentioned in
+your resume.
+
+For the HR questions, Be honest and confident.
+
+Do the homework about ‘the company and the products
+
+they are working on’, before going to interview. Even this
+homework might help for your result.
+
+Even after the good preparations, the panel luck and
+
+many things that are not in our control also matters.
+
+Still the good preparation only will make you grab the
+
+available opportunity when things work in your way. Trust the
+Process.
+
+I hope you will crack your very next interview.
+
+Feel free to contact for any queries.
+
+Contact Information:
+
+Name: Deepak Chandhru N
+
+Mobile No: 8248178686
+
+Email Id: deepakchandhru2004@gmail.com
+
+LinkedIn: deepak-chandhru
+
+Resume:
+

@@ -1,0 +1,82 @@
+                                                        Interview Experience
+
+Name:        YOHESHWAR S
+
+Reg. No:     2018115137
+
+Company:  Trimble
+
+1)  ONLINE TEST:  It contained 3 rounds.
+
+Round 1: Technical Aptitude (45 mins)
+
+This round had 11 questions which were not mcqs and they were kind of fill ups where we were
+supposed to type the solution or logic in the text area given or we were allowed to write the
+solution, scan and upload it. It contained questions from Operating Systems, OOPS, DMBS, Data
+Structures, Computer Networks. This round was conducted in Hackerearth.
+
+Round 2: Quantitative Aptitude (30 mins)
+
+This round had 5 questions. Here also we were supposed to give the complete solution with steps or
+we could write, scan and upload it. This round was conducted in Hackerearth.
+
+Round 3: Programming (1 hour 30 mins)
+
+This round had 3 questions. The questions were not that difficult, but maintaining the time
+complexity was the difficult task. I solved one question with brute force which passed me half of the
+test cases. But by solving the remaining questions with brute force did not pass me any of the test
+cases. So I opted DP even though it did not pass me all the test cases. So don’t opt for brute force
+method even it passes half of the test cases. Go for DP. This round was conducted in Hackerearth.
+
+After these three rounds, 13 students were shortlisted for the interviews.
+
+2)  INTERVIEWS:
+
+Round 4: Technical Interview (2 hours):
+
+There were two interviewers. First I was asked to introduce myself. Then they shared a document
+which had a question on multilevel queue scheduling, which I solved in Round 1 (technical
+aptitude).
+
+They asked me how did I solve that question. I explained the logic and the order in which the
+processes would be scheduled. Then I was asked to solve three questions.
+
+  Construct a linked list from scratch and find the sum of two numbers represented in linked
+
+list.
+
+  Construct a binary tree from scratch and find the sum of numbers in each vertical order of a
+
+binary tree.
+
+  Graph: Given a 2d matrix, a source and a destination. Find the shortest path between source
+
+and destination. I solved this question using breadth first search (bfs).
+
+I was asked with the time complexity, space complexity and better approach for each and every
+question.
+
+Round 5: Technical Interview (1 hour 30 mins):
+
+In this round there was only one interviewer. First I was asked to introduce myself. And then he
+started with one of the projects which is a 3d game done using unity and asked me to explain it. I
+was asked many scenario based questions within the project itself, like “What difficulties would I
+face when that game was a multiplayer game and if it was controlled by a same server?” and etc .
+Then he asked me about Raycasting in detail. And he gave me a scenario and asked me to arrive
+with the data structure which would suite that scenario and he asked me to design a security
+system. Then he asked me some scenario based questions and some HR questions about my family.
+
+Round 6: HR Interview (15 mins):
+
+Here there was only one interviewer. He asked me to introduce myself. And then he asked about my
+family, my financial status, my interest on higher studies and then he started speaking about the job
+description, salary package and benefits.
+
+Finally four students were given FTE.
+
+NOTE:
+
+  Be casual and friendly to the interviewers. Don’t get tensed at any point of time. Be
+
+thorough with all the data structures and all your projects.
+

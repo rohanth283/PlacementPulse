@@ -1,0 +1,152 @@
+![Standard Chartered Logo and symbol, meaning, history, PNG, brand](data:image/png;base64...)
+
+**Standard Chartered Interview Experience**
+
+**About Standard Chartered:**
+
+**Standard Chartered** is a leading international banking and financial services company headquartered in London. It operates in more than 50 countries, with a strong presence across Asia, Africa, and the Middle East. The bank offers services in retail banking, corporate banking, wealth management, and investment banking. Founded in 1969 through the merger of the Standard Bank and Chartered Bank, it focuses heavily on emerging markets and global trade.
+
+**About the Role:**
+
+Standard Chartered visited our campus offering the **Development Engineer** role. The position focuses on developing and maintaining software applications for digital banking systems, writing efficient code, and collaborating with teams to build secure and scalable solutions.
+
+**Selection Process:**
+
+• **Round 1**: Pymetrics Assessment (16 Games – Behavioral and Cognitive Evaluation)
+• **Round 2**: Value-Based Assessment (Video-based Situational Judgement Questions)
+• **Round 3**: Online Coding Test (2 Coding Questions – Array and Sliding Window Based Problems)
+• **Round 4**: Technical Interview 1 (Resume Discussion, Projects, OOPS Concepts, Basic DSA Problems)
+• **Round 5**: Technical Managerial Interview (Detailed Discussion on Internship, Projects, and Real-life Scenarios)
+• **Round 6**: HR Interview (Background Check, Career Plans, and General HR Questions)
+
+**Round 1: Pymetrics Assessment** [No Time Limit]
+
+This round consisted of **16 games** that evaluated skills like attention, decision making, learning pattern, and risk-taking. It was a **major elimination round**, where nearly **two-thirds of the candidates were filtered out**. The main focus was on **consistency in decision making across different games**.
+
+**Round 2: Value-Based Assessment** [No Time Limit]
+
+This round included **12 video-based workplace scenarios** with five response options each. Candidates had to **drag and rank the responses between “Effective” and “Non-Effective.”** The round evaluated **decision making, teamwork, professional behaviour, and alignment with company values**.
+
+**Round 3: Online Coding Test** [90 mins.]
+
+This round consisted of **two easy to medium level coding questions**.
+
+**Question 1: Minimum Number of Partitions After Rearranging Data**
+Candidates were given n storage partitions where each partition had used[i] amount of data and a maximum capacity[i]. Data could be moved and split across multiple partitions without exceeding the capacity. The objective was to rearrange the data such that it occupies the **minimum number of partitions**.
+
+**Approach:**
+
+* Calculate the **total used data** across all partitions.
+* **Sort the capacity array in descending order**.
+* Select partitions with the **largest capacities first**.
+* Keep adding capacities until the **total capacity becomes greater than or equal to the total used data**.
+
+The number of selected partitions gives the minimum number required. This greedy approach works because using larger capacities first reduces the total partitions needed.
+
+**Question 2: Maximum of Minimum Disk Space in Segments**
+An array space[] representing disk space of computers and an integer x representing segment length were given. For each contiguous segment of size x, the **minimum disk space** had to be determined. Finally, the **maximum value among all these minimums** had to be returned.
+
+**Approach:**
+A **Sliding Window technique with a Monotonic Deque** was used:
+
+* Maintain a deque storing indices in **increasing order of values**.
+* Remove elements from the back that are **greater than the current element**.
+* Remove elements from the front that fall **outside the current window**.
+* The **front of the deque always gives the minimum element of the window**.
+* Track the **maximum among these minimum values** as the window slides.
+
+This approach ensures efficient computation with **O(n) time complexity**.
+
+**Round 4: Technical Interview** [Approx. 25–30 mins]
+
+This round mainly focused on **resume discussion, projects, and basic programming concepts**. The interviewer asked detailed questions about the **projects mentioned in the resume**, including implementation details, technologies used, and challenges faced.
+
+Topics covered included:
+
+* **Object-Oriented Programming concepts** (Encapsulation, Inheritance, Polymorphism, Abstraction)
+* Difference between **OOP and procedural programming**
+* Questions related to **internship or project work**
+* Discussion on **data structures used in the project**
+
+Coding questions included:
+
+* **Check whether a string is a palindrome**
+* **Convert a sentence into proper casing using Regex**
+* Some **basic string manipulation problems**
+
+The interviewer mainly evaluated **problem solving approach and clarity of explanation**.
+
+**Round 5: Technical Managerial Interview**
+
+[Approx. 30 mins]
+
+This round was more discussion-oriented and focused on **internship experience, project details, and real-life problem solving situations**.
+
+Some questions asked:
+
+* Explain your **internship project in detail**.
+* What **technologies and tools** did you use?
+* What was the **most challenging problem** you faced?
+* How did you **solve that problem**?
+* How do you **handle pressure situations**?
+* Describe a **real scenario in college where you handled pressure or tight deadlines**.
+* How do you **prioritize tasks when multiple deadlines exist**?
+* If a **team member is not contributing**, how would you handle it?
+
+This round mainly evaluated **communication skills, teamwork ability, and practical thinking**.
+
+**Round 6: HR Interview** [Approx. 10 mins]
+
+The HR round was mainly focused on understanding the candidate’s **background, career plans, and stability**.
+
+Some questions asked included:
+
+* Tell me about yourself.
+* Why do you want to join **Standard Chartered**?
+* Are you planning to pursue **higher studies**?
+* Do you have any idea about **start-ups**?
+* Do you have any **interest in politics**?
+* Is anyone in your **family involved in politics or business**?
+* Why not try **government exams**?
+* Are you willing to **relocate if required**?
+
+This round mainly checks whether the candidate is **serious about the role and willing to work with the organization long term**.
+
+* **Finally 9 candidates were selected, and I was one among them.**
+
+.
+
+**My Preparation Strategy:**
+
+• I consistently practiced **DSA problems**, covering topics like **arrays, strings, dynamic programming, backtracking, and graphs**, although most interview questions mainly focused on **arrays and string manipulation**.
+• I revised **core computer science concepts** such as **OOPS, DBMS, Operating Systems, and Computer Networks** before the interview rounds.
+• I made sure to **clearly understand and explain my projects and internship work**, since most technical questions were based on resume discussions.
+• I practiced solving **coding problems regularly** on platforms like LeetCode and HackerRank to strengthen problem-solving skills.
+• I discussed technical concepts and interview questions with my **friends and peers**, which helped in clarifying doubts quickly.
+• I also prepared for **managerial and HR questions** by thinking about real-life situations where I handled pressure or worked in a team.
+• I reviewed **previous interview experiences** to understand the pattern of questions asked in technical and HR rounds.
+
+**Previous Interviews list** :
+
+* Amazon
+* HSBC
+* Applied Materials
+* Ramco
+* Tekion
+
+**Key Suggestions and Tips from My Experience:**
+
+* Be **consistent during the Pymetrics games**, as the platform tracks behavior patterns.
+* During coding rounds, focus on **writing clean and correct logic rather than overly complex solutions**.
+* Be **thorough with your resume and projects**, since interviewers ask many questions from them.
+* Practice **basic DSA problems, especially arrays and strings**.
+* During interviews, **explain your thought process clearly while solving problems**.
+* Prepare examples from your experience to answer **situational and managerial questions** confidently.
+
+Contact Information:
+
+*Name: Vignesh Sekar*
+
+*Mobile No: +91 7904109457*
+
+*EmailId:* *vigneshsekar339@gmail.com*

@@ -1,0 +1,31 @@
+About Company:
+Bank of America offers a range of financial services, including banking, investing, asset
+| management, | and risk management. |     |     |     |
+| ----------- | -------------------- | --- | --- | --- |
+| About the   | role:                |     |     |     |
+They took us for a role Software Engineer.Domain will vary for respected team.All are
+informed after joining date.Training period is there.Through that we can learn that particular
+| domain more | effectively. |     |     |     |
+| ----------- | ------------ | --- | --- | --- |
+| Preparation | Strategy:    |     |     |     |
+Have to be strong in DSA CONCEPT ,SQL,OOPS,DBMS AND CODING.confident in
+yourself.Solve some Puzzle questions also.And be strong with your resume and projects.SDE
+| sheet is fine. |     |     |     |     |
+| -------------- | --- | --- | --- | --- |
+Placement Drive experience (online test, GD, technical and HR interviews):
+| 2 Coding questions | asked            | for an online  | test.   |           |
+| ------------------ | ---------------- | -------------- | ------- | --------- |
+| First question     | 1 got in arrays. | Sorry Question | I don't | remember. |
+| Interview Mode     | : Online         |                |         |           |
+2 rounds
+| 1. Technical | Round:    |            |           |     |
+| ------------ | --------- | ---------- | --------- | --- |
+| Questions    | based on  | DBMS,NOSQL | AND OOPS. |     |
+| Coding       | question: |            |           |     |
+Need to find the numbers palindrome or not.then find which is largest.
+| 2. Tech     | +HR round:        |               |           |                  |
+| ----------- | ----------------- | ------------- | --------- | ---------------- |
+|             | Need to solve     | a puzzle and  | Armstrong | number question. |
+|             | And Basic         | HR questions. |           |                  |
+| All         | the Best!!!       |               |           |                  |
+| Please call | me if any doubts. |               |           |                  |

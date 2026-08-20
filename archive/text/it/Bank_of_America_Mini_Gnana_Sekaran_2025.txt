@@ -1,0 +1,73 @@
+Mini Gnana Sekaran- Information Technology – FTE at Bank of America
+
+About the Company: Bank of America is a leading multinational financial institution that
+provides a wide range of financial services to individual consumers, small and middle-market
+businesses, and large corporations. The bank is known for its commitment to innovation,
+leveraging advanced technology to deliver secure and efficient financial solutions. With a strong
+emphasis on customer satisfaction, Bank of America continuously invests in cutting-edge
+technology to enhance service delivery and operational efficiency. It is one of the “Big Four”
+banks in the United States, dedicated to offering reliable financial services across the globe.
+
+About the Role: They came for 16 job roles.
+
+Overview of the Process: The selection process for this included:
+
+1.  Technical Interview Round 1 (Coding and Problem-Solving)
+2.  Technical and HR Interview Round 2 (Project-Based and Behavioral Questions)
+
+Interview Round 1 (Technical): This round was fully technical, testing coding and
+problem-solving abilities. Here are some key aspects:
+
+●  DSA Questions: The interview focused on data structure and algorithm questions that
+required coding in Python and C++. The problems covered essential DSA topics and
+tested my ability to implement efficient solutions.
+
+●  Aptitude Questions: There were questions related to profit and loss, which tested my
+
+analytical and problem-solving skills.
+
+●  Project Discussion: I was asked about the projects on my resume, where I explained
+
+the tech stacks used and the project scope.
+
+Tips for Technical Round 1: Focus on mastering data structures and algorithms and practice
+implementing solutions in multiple programming languages (Python and C++). Also, be
+prepared to explain your projects in detail, particularly in terms of technical challenges and key
+learning outcomes.
+
+Interview Round 2 (Technical and HR): The second round was a combination of technical and
+HR questions.
+
+●  Resume-Based Questions: This round focused on my resume, with questions about
+projects, internships, and leadership experiences. I was asked about my role in each
+project, the technologies used, and how I addressed specific challenges.
+
+●  Simple Coding: I was asked to write simple code, such as checking for palindromes.
+●  HR Questions: Group project my role in that, how to resolve conflicts.
+
+Preparation Strategy:
+
+●  DSA and Dynamic Programming: I practiced solving data structure and algorithm
+
+questions, with a focus on dynamic programming.
+
+●  Aptitude Preparation: I reviewed basic aptitude questions.
+●  Research on Bank of America: I researched Bank of America’s work culture, recent
+
+innovations, and their focus on technology, which helped me tailor my responses in the
+interview.
+
+Tricks and Tips I Followed:
+
+1.  Complete Each Round Quickly: Focusing on accuracy and speed was key in the
+
+coding test.
+
+2.  Review Company Background: Learning about Bank of America’s values, mission,
+
+and focus areas helped me connect my answers to the company’s goals.
+
+3.  Ask Relevant Questions: Showing genuine interest by asking questions about projects,
+the tech stack, and the work culture in the bank helped demonstrate my enthusiasm and
+curiosity.
+

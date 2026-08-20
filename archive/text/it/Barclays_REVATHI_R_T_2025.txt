@@ -1,0 +1,138 @@
+ BARCLAYS INTERN EXPERIENCE
+
+About the Company – Barclays :
+
+Barclays is a global bank offering banking, credit cards, wealth, and other
+forms  of  financial  provision.  It  is  one  of  the  companies  majorly  focusing  on
+innovation  and  technology.  The  company  utilizes  young  talents  and  provides
+them with an opportunity to work on scalable applications, microservices, and
+functional solutions in an interactive environment.
+
+Role -  Technology Summer Intern :
+
+In the role of Barclays internship, application and microservices should be
+designed  and  developed  in  a  scalable  manner.  Server  components  and  the
+functional solution should be created and implemented. Its main tasks include
+collaborating with product owners and the end-users to elicit requirements and
+do unit testing and planning the release of the software. The role also includes
+code  reviews  as  well  as  support  given  for  business-as-usual  (BAU)  activities
+related to the applications.
+
+Duration: 8 weeks
+
+Overview of the process:
+
+The selection process began with an online coding round that tested different
+skill sets in three sections:
+
+1.  Section 1: 12 multiple-choice questions (MCQs) covering object-oriented
+programming  (OOP)  concepts,  code  output  predictions,  and  error
+detection.
+
+2.  Section  2:  One  medium-level  Data  Structures  and  Algorithms  (DSA)
+
+question related to strings.
+
+3.  Section 3: One SQL query-based question involving a table structure.
+
+How I Cleared the First Round :
+
+I  prepared  for  this  round  by  working  extensively  with  the  Standard
+Template  Library  (STL)  and  solving  problems  on  platforms  like  LeetCode.
+Although I wasn’t deeply into competitive programming (CP), I gradually learned
+to solve problems more efficiently. By focusing on simpler techniques and using
+STL containers effectively, I was able to enhance my problem-solving approach.
+
+This  not  only  improved  my  understanding  of  algorithms  but  also  helped  me
+utilize these techniques for solving complex problems.
+
+I  particularly  enjoyed  solving  SQL  queries,  which  allowed  me  to  apply  new
+techniques and gain practical insights. With a better grasp of efficient problem-
+solving strategies, I cleared the online round, where 29 students were shortlisted
+for the interview.
+
+Interview Process :
+
+I was asked to bring three resumes, and I made sure to have a clear format that
+presented  my  skills  and  experience  well.  The  interview  process  had  both
+technical  and  HR  components,  conducted  by  two  senior  employees  –  one  of
+them the head of the interview process, and the other a database (DB) head.
+
+•
+
+Introduction: I started the interview by introducing myself without being
+prompted, mentioning that I’m a 3rd-year student at CEG and expressing
+my interest in full-stack projects and DSA. I also highlighted my soft skills,
+such as being organized, adaptable, and having leadership qualities, which
+helped me make a strong first impression.
+
+•  Technical Questions:
+
+o  The technical discussion began with database-related questions. I
+was  asked  to  explain  how  databases  work,  the  requirements  for
+designing a database, and to provide a real-time example of how a
+distributed  database  management  system  (DDBMS)  works,  using
+Amazon as a case study.
+
+o
+
+o
+
+I was also asked to explain my machine learning (ML) project and
+how databases integrated with it.
+
+I was asked to write pseudocode and SQL queries related to joins,
+subqueries, and functions.
+
+•  Situational and Behavioral Questions:
+
+o
+
+o
+
+I was presented with a situation where my colleague disagreed with
+my  idea  and  suggested  a  new  one.  I  had  to  explain  how  I  would
+handle the situation.
+
+I was asked why I chose Barclays, to which I responded confidently
+based on the research I had done about the company’s work culture
+and values.
+
+I also discussed my hobbies, which include reading Tamil books, writing Tamil
+poems, and doing pencil sketches. They asked me to recite one of my poems and
+explain its meaning, as well as describe my favorite artwork.
+
+ Tips for Future Applicants :
+
+1.  Research the Company: Make sure to thoroughly research the company’s
+background,  work  culture,  and  values.  This  will  help  you  confidently
+answer HR questions like “Why Barclays?” and give you an edge in making
+a positive impression.
+
+2.  Technical  Preparation:  Focus  on  both  DBMS  and  DSA  topics,  as  many
+technical questions in interviews may revolve around these areas. Revise
+key  concepts  and  practice  regularly  on  platforms  like  LeetCode  to  gain
+exposure to  a wide  variety of problems. Solving problems in  a  step-by-
+step manner using simpler techniques can help in tackling more complex
+challenges later. Make use of STL (in C++) for efficient coding, especially if
+you’re  into  competitive  programming  (CP).  Additionally,  regularly  solve
+SQL queries to enhance your database knowledge.
+
+3.  Mock Interviews: Practice mock interviews focusing on both technical and
+HR  questions.  Be  prepared  for  situational  questions  to  showcase  your
+problem-solving and interpersonal skills.
+
+4.  Resume Preparation: Ensure your resume is clear, concise, and formatted
+well.  It  should  effectively  present  your  strengths  and  make  it  easy  for
+interviewers to grasp your experience.
+
+Wishing you the best—approach the process with confidence and have
+hope. Hope in the only thing I have throughout my process. May that helps
+you feel good ra. Here luck and blessings play a few role I feel so :)
+
+Name : Revathi R T ( 2022115111 )
+
+Department : Information Science and Technology
+
+Year : 3
+

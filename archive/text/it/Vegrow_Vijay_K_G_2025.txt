@@ -1,0 +1,154 @@
+INTERNSHIP INTERVIEW
+EXPERIENCE
+
+ABOUT THE COMPANY:
+
+Vegrow, India's leading B2B fruits marketplace, was founded in 2020 by IIT alumni. The
+company has established a strong presence in India's large, unorganized fruits sector, which is
+ripe for tech-driven disruption due to its fragmented and localized operations, characterized
+by multiple intermediaries facilitating transactions. Vegrow maximizes farmers' income by
+accurately grading produce and efficiently matching it with the most suitable demand
+channels. This creates a virtuous cycle, attracting more farmers through competitive pricing,
+as well as more buyers who seek consistency in both price and quality.
+
+INTERVIEW EXPERIENCE:
+
+ROUND 1 (Coding):
+
+The round 1 is basically an offline coding contest conducted in a hacker rank portal
+
+comprising of four different questions.
+
+0/1 Knapsack Problem:
+
+This is a classic Dynamic programming problem where you have to pick items within
+
+a weight limit with max profit that can be achievable. This problem is a must to know (both
+the recursive and optimised approach).  To know more: https://www.geeksforgeeks.org/0-1-
+knapsack-problem-dp-10/
+
+SQL Query:
+
+A SQL query to retrieve students` name whose marks is higher than 75 sorted by the
+
+lexicographical order of their last three letters of their names if they were similar then it
+should be further sorted using their id. Hint: use aggregate functions such as substr ().
+
+Best time to buy and sell stock:
+
+In this problem, an array with value of the stocks in a day will be given, our task is to
+
+find the maximum profit we can achieve by buying and selling a stock. For reference:
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
+Reward Distribution Problem:
+
+An array will be given where array[i] represents the productivity rating of a field i.
+
+Our task is to assign rewards to these fields such that the field with more productivity rating
+than the adjacent fields must have higher rewards.
+
+TECHNICAL INTERVIEW
+
+ROUND 1:
+
+First and foremost, I was asked to introduce myself, during which I highlighted my
+achievements and interests. I mentioned my passion for Data Structures and Algorithms
+(DSA) and stated that I have solved over 250 problems on LeetCode. They then asked for my
+LeetCode profile and inquired about my favourite data structure. I told them that I love trees.
+Following that, they asked me a question similar to the  house robber on LeetCode.
+
+Note: Even if you know the optimized approach to a problem, it's best to start by explaining
+the brute-force method first.
+
+I wrote pseudocode for the problem, and while there were some logical mistakes, the solution
+was acceptable to them. Interviewers often focus on how you approach and think through a
+problem rather than on providing a completely flawless solution.
+
+Next, they gave me their laptop and asked me to solve the problem. I managed to find an
+approach that worked. Then, they asked about the SQL query from the coding round and
+gave me a modified query problem to solve. They also asked whether I was proficient in the
+Standard Template Library (STL), to which I responded that I was comfortable with it.
+
+They inquired about the difference between unordered map and map, and I explained the
+complexity of both in terms of insertion and how they are implemented. Lastly, they asked
+me a few questions related to my resume. As a final challenge, they expected me to solve a
+problem with the most optimized approach in terms of both time and space complexity.
+
+ ROUND 2:
+
+For this round, five of us were shortlisted. First, they asked me about the projects on
+my resume. While I was explaining one of my projects, which involved working with a map,
+they posed some questions about the process of finding the shortest path between two points.
+
+After that, they asked me two DSA questions:
+
+1. You are given a string, and the task is to remove characters that have adjacent similar
+elements. We have to continue removing characters as long as they share adjacent
+similarities, even after removal. (Hint: Use a Stack)
+
+2. They also asked me to write pseudocode for printing the nodes that are visible in the
+bottom view of a tree. You can refer to this Bottom View of Binary Tree problem.
+
+Finally, an aptitude-based puzzle question was asked, which you can refer to here: Puzzle 18:
+Torch and Bridge.
+
+RESOURCES
+
+1.  https://github.com/singhsanket143/Data-Structures-Algorithms-Problem-
+
+Solving/blob/master/README.md
+
+2.  https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-
+
+Algorithms-Problems-during-
+Interviews/blob/main/%E2%9C%85%20%20Pattern%2001%20%3A%20Sliding%20Window.md
+3.  https://docs.google.com/document/d/1jfaa6loWq4oJ7zGv_np8HO84HaB0OIhEapQzSS-c5l4/edit
+4.  https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+5.  https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ
+
+_BHz
+
+TIPS TO LEARN SMART
+
+2.
+
+1.  Focus on the problem-solving patterns like sliding window, two pointers, etc.., rather than solving
+the individual problem. There’s always a pattern in every problem waiting to be found. So, focus
+on finding the strategy and understand the strategy.
+It is always the case that you feel often demotivated and stagnated in the same level but really here
+consistency matters. Noone knows the right and optimised solution for a problem right away. It
+really takes a vast amount of time to build the intuition. So don’t be frustrated, see and learn from
+the answer and implement it by yourself which is the best strategy to learn and grow.
+If you have done solving the problem look into the top submissions, there’s always lot to learn
+from the top submissions. It really holds the key to improve your code.
+
+3.
+
+4.  Start with simple data structures like arrays and linked list and climb up into graph and trie, etc...,
+
+Most of the companies never bother about very hard data structures and algorithm.
+
+5.  Always express your thought process to the interviewer. The interviewer looks for the thought
+
+process while solving a problem rather than a complete solution to the problem. Even if you are
+not able to solve the problem just convey your thoughts.
+
+6.  Finally have insane luck even though most of the above points matter. The luck really determines
+
+where you would really end up. (It’s hard but it’s the reality thou).
+
+ALL THE BEST
+
+From,
+
+VIJAY K G
+
+2022115063
+
+B. TECH IT
+
+Batch of 2026
+
+Reach me at 8438938916
+

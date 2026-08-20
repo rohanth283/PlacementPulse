@@ -1,0 +1,112 @@
+![unnamed.png](data:image/png;base64...)
+
+Siemens Technology and Services Private Limited Interview Experience
+
+About Siemens Technology and Services Private Limited:
+
+Siemens Technology and Services Private Limited (STSS) operates as the global technology and innovation hub for Siemens, supporting product engineering, research, software development, and digitalization initiatives across the organization. The unit plays a key role in enabling Siemens’ worldwide businesses by providing advanced engineering services, domain expertise, and end-to-end technology solutions that align with Industry 4.0, automation, and digital transformation requirements.
+
+The organization focuses on delivering high-value engineering and IT services to Siemens’ business units in energy, mobility, industrial automation, and smart infrastructure. With strategic locations across India, including Chennai, it supports innovation, operational efficiency, and global delivery. Through collaboration, R&D capability, and a strong engineering workforce, Siemens Technology and Services contributes directly to Siemens’ competitiveness and long-term technology leadership.
+
+Selection Process:
+
+Day 1:
+
+1. Online Assessment (In Online Mode)
+
+Day 2:
+
+2. Technical Round
+
+3. Technical + Managerial Round
+
+Day 3:
+
+4. HR Round
+
+Round 1: Online Assessment
+
+[ 1hr 45 mins]
+
+MCQ - 50 questions based on the following topics
+
+* Analytical Aptitude
+* Core - OOPS, OS, DBMS, DSA
+* English Aptitude
+
+Round 2: Technical Interview
+
+[ 60 mins]
+
+In this technical round, most of the questions that are asked for me was based on my resume.
+
+Each and every section of my resume including my projects were asked in detail. Some of the important topics are,
+
+* System Design of Projects mentioned
+* Design principles in OOPS, I explained SOLID, singleton, adaptor, factory, etc…
+* Tech stack used for my projects - why I chose it for my project and how it helped.
+* DSA - guess the word [Player should start guessing the word of specific length, for me it was 5 letter word, if the letter and position matches then flag it as ‘G’(green), if letter is present in the word but position mismatched then flag it as ‘Y’(yellow) and if the letter is not in the word then flag it as ‘R’(red).
+* DBMS - draw the schema of any of the database of my project and also some simple questions based on indexing.
+* Web Dev - Questions related to pagination and APIs (scenario based questions)
+* Finally, I asked some questions to the interviewer.
+
+Round 3: Managerial Round
+
+[20 - 25 mins]
+
+The following questions where asked in this round
+
+* Tell me about yourself.
+* Tell me about your family.
+* Given a list of numbers and the task is to identify the prime numbers from the list.
+* Why you chose Siemens?
+* How will you see yourself after 5 years?
+
+Normal chit chat with manager.
+
+Finally, I asked some questions to the interviewer.
+
+Round 4: HR Round [Phone Call]
+
+[5 mins]
+
+The following questions where asked
+
+* Tell me about yourself.
+* Family Background.
+* What is Siemens?
+* How will you see yourself after 5 years?
+* Are you comfortable with the stipend and flexible with internship timing and duration?
+* Any doubts about the internship?
+
+My Preparation Strategy:
+
+* Consistency is the key.
+* Had mock interviews with chatGPT AI voice assistant daily for 30min.
+* Kept myself updated in Tech World.
+* Documented materials used for studying so that I can revise periodically.
+* Kept track of my progress.
+
+Key Suggestions and Tips from My Experience:
+
+* For SQL - Top 50 SQL in LeetCode.
+* For DSA - Top 150 problems in LeetCode.
+* For System Design - YouTube Channel like ByteMonk, Bytebytego etc…
+* For Computer Networks - YouTube Channel named NetworkChuck.
+* For Devops - YouTube Channel named TechWorld with Nana.
+* For Documentation - Obsidian.
+* Being genuine during the interview is very important, especially for Siemens.
+
+Contact Information:
+
+*Name: Syed Sharaafeth Hassan S*
+
+*Mobile No: 9677773688*
+
+*EmailId: syedsharashree@gmail.com*
+
+*LinkedIn:* [Syed-Sharaafeth](http://www.linkedin.com/in/syedsharashree329122)
+
+Resume:
+
+![Screenshot 2025-12-18 at 11.37.37 AM.png](data:image/png;base64...)

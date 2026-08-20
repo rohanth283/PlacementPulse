@@ -1,0 +1,519 @@
+Internship Write Up - VISA
+By R. Ramya (2020115062) - Batch of 2024
+
+09/09/2002
+
+About Visa :
+Visa Inc. (/ˈviːzə, ˈviːsə/; stylized as VISA) is an American multinational financial services corporation headquartered
+in San Francisco, California.It facilitates electronic funds transfers throughout the world, most commonly through
+Visa-branded credit cards, debit cards and prepaid cards. Visa is one of the world's most valuable companies.
+
+Visa was founded in 1958 by Bank of America (BofA) as the BankAmericard credit card program. In response to
+competitor Master Charge (now Mastercard), BofA began to license the BankAmericard program to other financial
+institutions in 1966. By 1970, BofA gave up direct control of the BankAmericard program, forming a consortium with
+the other various BankAmericard issuer banks to take over its management. It was then renamed Visa in 1976.
+
+VISA has achieved the zenith by becoming the world's leader in digital payments technology. The company strives to
+accomplish its mission to connect the world through the most creative, reliable and secure payment network -
+enabling individuals, businesses, and economies to thrive. Visa provides secure and reliable payments around the
+world, and is capable of handling more than 65,000 transaction messages a second with Visanet. Millions of users
+are now able to travel as far as they want, even overseas with a single card that can be used with ease and comfort
+for all transactions. Visa has instilled this feeling of trust and reliability in one and all. The company perseverently and
+tirelessly works towards the dream of transforming the lives of people through technology. It primarily focuses on
+building a cashless future for everyone, everywhere.
+
+Job Profile Description As Given By The Company :
+Job Profile : Software Engineering Intern
+Location : Bengaluru, Karnataka, India
+
+What is Visa?
+
+WE ARE NOT A BANK, WE ARE NOT A CREDIT CARD COMPANY!!
+Visa is the world's leader in digital payments technology!
+At Visa, your individuality fits right in. Working here gives you an opportunity to impact the world, invest in your career
+growth, and be part of an inclusive and diverse workplace. We are a global team of disruptors, trailblazers, innovators
+and risk-takers who are helping drive economic growth in even the most remote parts of the world, creatively moving
+the industry forward, and doing meaningful work that brings financial literacy and digital commerce to millions of
+unbanked and underserved consumers.
+You're an Individual. We're the team for you. Together, let's transform the way the world pays. Behind the Visa brand
+are our talented employees who continuously raise the bar with innovative solutions and products that deliver the
+convenience and security of digital currency to more people all over the world. We are currently looking for
+candidates for our 2021 Summer Internship Program. Visa interns gain real-world experience working for one of the
+world's most recognized brands.
+During this intensive 10-12 week internship, you will work on challenging and rewarding assignments, gain exposure
+to Visa business leaders and executives, and participate in social and networking opportunities.
+
+So what are we looking for in a Software Engineering Intern?
+• HTML, CSS, Javascript, Responsive Design, Accessibility, Objective C, and/or Android SDK
+• Training in C/C++ and Object Oriented design is preferred
+• Familiarity with software development methodology that is used to structure, plan, and control the process of
+software development
+• Experience with user research and user centered design.
+• Experience with usability (e.g., as a tester, analyst, or developer using user-centered data)
+• Experience with accessibility (Section 508 and/or WCAG 2.0) a plus
+• Knowledge of user interface design as applied to Web-based applications and mobile devices. • Knowledge of both
+Macs and PCs helpful
+
+1
+
+• Proficiency in MS Excel, Word and PowerPoint is required
+
+The below skills will help us differentiate you with your peer group :
+• Strong ability to collaborate
+• Highly motivated, resourceful and ability to work independently with initial guidance and direction
+• Teamwork, interpersonal & relationship-building skills, and ability to lead by influence and example
+• Project management skills and attention to detail
+• Strong written and oral communication, including large-group presentations
+• Proven ability to prioritize and manage multiple projects simultaneously
+
+Candidate Profile Framing :
+The key four areas to be touched upon for building a resume are :
+
+●
+
+Technical Knowledge/Skillset/Interests :
+
+○
+
+○
+
+Talk about the technical knowledge and skills you possess i.e the various programming and
+scripting languages, tools, etc that you know and the various database management systems,
+operating systems, etc that you are familiar with.
+You can also mention the domains you are passionate about like AI-ML, Computer Vision, Data
+Science, etc.
+
+●
+
+Projects :
+○
+
+Projects play a salient role in defining your candidature in any professional environment. This
+section can drastically strengthen or weaken your profile. Thus, it is important to do innovative and
+unique projects and include them in your resume.
+Include all the projects that you have done so far till then and the ongoing projects too.
+Ensure your project implements a significant coding concept, be it data structures, web
+development or domain-centric projects on AI,ML or Data Science.
+
+○
+○
+
+○ Choose product-based project ideas that are usable and can be deployed.
+○
+○
+
+Build a project that solves a real time problem.
+If you did the project as a team, do mention it.
+
+●
+
+Internships (if any) : If you have undertaken any internships in a corporate firm in prior, do mention about
+that. Include details about your role or job profile, etc.
+
+● Courses : You can mention here about the online certified courses that you have undertaken through
+
+platforms like Coursera, Udemy, NPTEL, etc.
+● Non-Technical Skillset/Interests, Soft Skills :
+
+○ Here, you can enunciate upon your skills outside of your IT/CS domain.
+○
+○
+
+You can mention other activities you are interested in like sports, writing, art, etc.
+You can also stress upon your soft skills like professional writing, creative writing,
+speaking/orations, etc.
+
+Preparation Strategy For Competitive Programming:
+
+●
+
+●
+
+●
+
+Starting off your preparation for Competitive Programming (CP) early is a big advantage. You get to explore
+and learn slowly and an early starter gets to cover a vast expanse of problems.
+For CP, first you have to find your niche i.e find your perfect programming language that you are strong at by
+analyzing your strengths and liabilities while solving problems using various languages. Explore thoroughly
+before you make a choice as shifting programming languages amidst your preparation might create havoc.
+It is advised to stick to the order of recommended languages below :
+
+○ C++/Python (Highly Recommended, especially C++)
+○
+○ C
+
+Java (Also a good choice)
+
+● My choice of language was Python as I really admire and revere the language and I was accustomed to it
+
+since high school. Learning a new language like C++ from scratch was tough for me. Python was
+comfortable and I never faced any issues with that. But a majority of people recommend C++. Java is a
+good choice as well. On the other hand, C is quite less preferred.
+
+2
+
+● CP will take you to a completely different realm of coding and programming. CP requires a problem solving
+
+approach which would be entirely different from the normal monotonous coding problems with more
+remembering involved that you solve pertaining to the syllabus courses.
+The biggest change begins from a small step. So start off by solving a few simple problems with difficulty
+level ‘easy’ from the sites given below :
+
+●
+
+○ Hackerrank
+○
+Leetcode
+○ Geeksforgeeks
+
+● Develop a conceptual learning approach towards programming rather than a theoretical approach. Focus
+
+●
+
+more on building ideas rather than just getting the output by typing the code.
+Before jumping into the perspective of coding it out, channelise your focus to crack the logic. After the logic
+is figured out, coding it out is easy. Getting a strong foothold on CP is possible only when you have a
+vehement flow of ideas as a culmination of ideas and logic forms the basic foundation of CP.
+
+● Gradually bring in the time component as given below and see if you are able to solve a problem with the
+
+target :
+
+○
+Easy : 5 Minutes
+○ Medium : 15 Minutes
+○ Hard : 30 Minutes
+
+●
+●
+●
+
+If you are unable to, strive to achieve it by strengthening your practice.
+Slowly advance to higher difficulty levels and try solving more problems.
+Then, gradually start expanding various concepts of CP as per the following order :
+
+Arrays
+Strings
+Searching and Sorting Algorithms
+Stacks And Queues
+Linked Lists
+Trees
+
+○
+○
+○
+○
+○
+○
+○ Graphs
+○ DP
+○
+○
+
+Back-tracking
+Bit Manipulation
+
+●
+
+●
+
+●
+
+The only key to unlock the skill of CP is rigorous practice. Consistently practice and solve more and more
+problems. Attempt as many contests as you can to gain exposure. Explore and solve as much as you can.
+You may not be able to always work on a daily basis given the tight schedules, but being consistent in
+solving problems is what matters. Keep getting back to solving the next day even if you miss a day. Long
+gaps will prove to be a great impediment to your flow of practice.
+And, it is not advised to use solutions readily available on the internet. However, after you solve, you can
+refer to a few sites (only trusted authentic sites) to see if your solution can be improvised.
+
+Interview Preparation :
+The above guidelines focus on how to prepare consistently on a daily basis. But the guidelines below throw light on
+how to prepare for the approaching upcoming interviews :
+
+General Preparation :
+
+● Revise the important concepts in CP. Practice the problems you feel are important and frequently asked and
+
+●
+
+refresh the approaches used.
+Take a glance at important concepts of significant courses in our syllabus like Data Structures, OOPs,
+Algorithms, OS, DBMS to prepare yourself to answer technical questions.
+
+Company Specific Preparation :
+
+● Go through and practice the past years’ questions of the particular companies from the archives.
+● Websites For Archives :
+○ Geeksforgeeks
+Interviewbit
+○
+
+3
+
+● Refer the archives for the coding, technical and aptitude questions asked in online assessments and
+
+interview rounds.
+
+● Do a detailed research and study about the company.
+
+Selection Process :
+
+Round 1 : Online Coding Assessment :
+Duration : 1 hour
+No. of Qs : 2
+
+Question 1 :
+
+Concept Covered : Arrays
+
+Gist of The Question :
+It was a very simple and direct team formation question. Given an array of strengths of various members, form teams
+as pairs of people with the same strengths. The program finally returns the no. of teams that can be possibly formed.
+
+Approach :
+●
+●
+
+Take the frequencies of each element and divide by too (floor division) and add them.
+To ensure no repetitions of iterations for same array elements, convert the python list into a set and compute
+frequencies.
+
+Estimated Time : Less Than 5 Minutes
+No. of Test Cases Passed : All 15/15
+Difficulty Level : Easy (In My Opinion)
+
+Question 2 :
+
+Concept Covered : Simple Logical Computations With Good Geometry Visualization
+
+Gist of The Question :
+Given the cartesian coordinates of 3 vertices of a triangle ABC and 2 points P and Q on the cartesian plane.
+
+We had to find which one of these 5 cases is true for the given input :
+
+1. The vertices A, B and C cannot form a triangle.
+2. The vertices A, B and C can form a triangle and the points P and Q both lie inside the triangle.
+3. The vertices A, B and C can form a triangle and the points P and Q lie inside and outside of the triangle
+
+respectively.
+
+4. The vertices A, B and C can form a triangle and the points P and Q lie outside and inside of the triangle
+
+respectively.
+
+5. The vertices A, B and C can form a triangle and the points P and Q both lie inside the triangle.
+
+The function should return 5 different integers corresponding to those 5 cases.
+
+To Find If Vertices A, B and C Can Form A Triangle :
+
+Approach :
+
+● Compute the distance of the edges using the distance formula.
+●
+●
+
+Take the 3 possible combinations of pairs of edges.
+The sum of the lengths of those 2 edges should be greater than the third edge.
+
+To Find If A Point P Lies Inside The Triangle ABC :
+
+4
+
+Approach 1:
+●
+●
+
+Find the minimum and maximum x and y coordinate among A, B and C.
+If x coordinates of P are lesser than the minimum x coordinate or greater than the maximum x coordinate or
+if similarly y coordinates of P are lesser than the minimum y coordinate or greater than the maximum y
+coordinate, then P is not situated inside the triangle.
+
+Estimated Time For Approach 1 : Less Than 5 Minutes
+
+Mistake in Approach 1 :
+
+This concept of min and max draws a rectangle that inscribes the triangle which is wrong as P may also lie inside the
+rectangle and outside the triangle.
+
+Approach 2:
+
+● Compute the equations of the 3 lines AB, BC and AC using their coordinates in the form ax+by=c.
+●
+● Considering the points A, B and C are in clockwise direction, LHS should be greater than c for AC and
+
+Substitute P’s x and y in the LHS and see if it is lesser or greater than c.
+
+lesser for AB and BC.
+
+Estimated Time For Approach 2: 10 Minutes
+No. of Test Cases Passed After Approach 2 : All 15/15
+Difficulty Level of The Question : Medium (In My Opinion)
+
+After the assessment, on resolving, A Better Approach :
+
+● We can compute the area of a triangle with the 3 vertices’ coordinates.
+●
+●
+
+Find the areas of ABC, ABP, ACP and BCP.
+If the sum of areas of ABP, ACP and BCP equals the area of ABC, then P lies inside tri.ABC.
+
+Round 2 : Interview (Technical + HR) : [ 14 Student Shortlisted]
+Platform : Microsoft Teams
+[ We were asked to turn on our videos ]
+
+Introductory Interaction Questions Asked:
+
+5
+
+Tell me about yourself.
+
+●
+● Highlight your technical and non-technical skillset.
+●
+
+Enunciate your strengths and weaknesses.
+
+Tip :
+
+It is advised to prepare for these questions and frame an answer in advance as you will face these questions in any
+interview you take up.
+
+Resume - Based Questions :
+
+●
+I was asked to explain any one completed project from my resume (I explained my DSA project).
+● Questions : What did you learn from the project? & What problems did you face while working on it?
+
+Coding Questions : (No. of Questions : 2)
+
+How the Coding Round Was Carried :
+
+●
+
+●
+
+A hackerrank code pair link was given to us where we can type our code and obtain the output. The
+interviewer will have a live view of whatever we code.
+A question was given to us and we were asked to solve it quickly without explaining.
+Tip :
+Usually it is advised to be interactive while coding out your solution. Always think aloud and discuss your
+flow of ideas with the interviewer and they will help you out when you are stuck as well. Also, any mistake or
+mishap in your logic will be spotted in advance and you can change it then and there without wasting time.
+But, for us, due to the time constraint of only 1 hour for both technical and HR questionnaires.
+The code that we put forth should be optimized.
+
+●
+● Once we were done, we should report it to the interviewer.
+●
+
+Then they would ask you to explain the code and answer the follow up questions.
+
+Question 1 :
+
+Concept Covered : Matrices, Binary Search
+
+Tip : Always be thorough with commonly used searching and sorting algorithms.
+
+Given an m x n matrix, we have to search for a value k.
+
+Each row of the matrix is sorted and the last element of a row is always less than the first element of the next row.
+
+Approach 1 :
+
+●
+●
+
+Populate all the entries to a 1D array of size mn.
+Perform binary search.
+
+[ I was told that converting to a 1D array is not allowed ] So, to solve , Perform 1 binary search to find the row. Then,
+Perform another binary search to locate the element k in that row.
+(Requires 2 Loops)
+
+Follow Up Q : Can this be done without using 2 loops? Ans : No, since we are not allowed to convert into 1D, there
+should definitely be 2 searches, one to find the row and one more to locate the element in that row.
+
+Question 2 :
+
+Concept Covered : Arrays
+The simple and very familiar two-sum question. To find pairs of integers in an array that yield a sum k.
+
+6
+
+Approach :
+
+● Convert the array to python set.
+●
+●
+●
+
+Traverse the set for each element i.
+If k-i is also in i, add the key-value pair (i,k-i) to a dictionary.
+Print the pairs.
+
+[ Tip : In this interview, we had no questions from technical concepts like DSA, DBMS, OS, etc. But they are sure to
+be asked in a majority of the interviews and cannot be neglected.]
+
+Aptitude Question :
+
+● Q : You have 2 ropes. Each rope will burn completely in 30 mins. Measure a time duration of 45 minutes
+
+using the 2 ropes.
+So, here we definitely burn one rope entirely to measure 30 minutes.
+The catch is to find how to measure 15 mins with the second rope.
+
+●
+●
+● My Answer : It is 15 minutes when the rope burns half its length.
+●
+● My Answer : Folding the rope to get midpoint.
+●
+●
+
+[ But there is no instrument to measure half
+
+[ But the rope doesn’t stay homogenous. It doesn't burn at a uniform rate throughout ]
+After thinking for a minute, My Answer : Burn the rope at both ends (Irrespective of rate of burning, lighting it
+at 2 ends doubles the speed at which the matter in the write burns, Speed doubled is time halved. So 15
+mins can be measured) [ Right Answer ]
+
+Company - Based Questions :
+
+● Why VISA? ( Tip : As mentioned earlier, one should be aware of the company to answer such questions. )
+● Do you have any questions for us? ( Tip : Here, do not say that you have no questions. Do ask something
+
+about the company that you are curious to know about. [ Eg: I asked about the security mechanisms used in
+VISA that have formed a foundation to instill a sense of trust and reliability to millions of users across the
+globe. ] )
+
+General Tips To Be Kept In Mind During The Interview.
+
+●
+●
+
+Be calm and poised throughout the interaction.
+Speak fluently without fumbling and put forth your points with confidence.
+
+Final Result : Selected! [ 11 Students Selected  From AU]
+
+Feel free to reach me for doubts at..
+Phone : 6383767821
+Mail : melodyramya@gmail.com
+LinkedIn : www.linkedin.com/in/ramya-r-3356a9256
+
+Overall Message :
+
+This phase may be tough. You may face rejections despite acing the interview rounds. Never see this rejection as a
+factor that pulls you down. Stay motivated and never lose hope. A vehement learner gets gratified in the experiences
+and doesn’t blindly expect good outcomes. Keeping that in mind, enjoy the course of learning and keep striving
+tirelessly towards your goal. Achievers never quit until they achieve the impossible. Remember always that the best
+awaits you. Keep up your perseverance in learning more and more and that indeed paves the way for you to triumph.
+
+Hope this was useful to you! Wish you all the best for your preparation! You are sure to hit it up the park
+and ace your interviews!
+
+7
+

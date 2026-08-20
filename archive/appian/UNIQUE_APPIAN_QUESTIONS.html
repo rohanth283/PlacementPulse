@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appian Master Interview Questions</title>
+    <!-- Google Fonts Import -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Base Styles & Typography */
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            color: #333; /* Sleek dark grey body text */
+            line-height: 1.6; /* Elegant line height */
+            margin: 0;
+            padding: 1.5in; /* 1.5in margins */
+            background-color: #ffffff; /* Clean white background */
+            font-size: 1.05em; /* Slightly larger base font for readability */
+        }
+
+        /* Headings */
+        h1, h2, h3 {
+            font-family: 'Outfit', sans-serif;
+            color: #1A2C42; /* Deep indigo accent color for headers */
+            margin-top: 2.5em;
+            margin-bottom: 0.8em;
+            page-break-after: avoid; /* Keep heading with its content */
+            page-break-inside: avoid; /* Prevent heading itself from breaking */
+        }
+
+        h1 {
+            font-size: 3em;
+            font-weight: 700;
+            text-align: center;
+            margin-top: 1.5em;
+            margin-bottom: 1.2em;
+            letter-spacing: -0.02em;
+        }
+
+        h2 {
+            font-size: 2.2em;
+            font-weight: 600;
+            border-bottom: 2px solid #e0e0e0; /* Light background border */
+            padding-bottom: 0.6em;
+            margin-top: 3.5em;
+            page-break-before: always; /* Force new major sections to new page for print */
+            letter-spacing: -0.01em;
+        }
+
+        h3 {
+            font-size: 1.7em;
+            font-weight: 600;
+            margin-top: 2.5em;
+            margin-bottom: 0.9em;
+            color: #2C3E50; /* Slightly lighter deep blue for sub-headings */
+        }
+
+        p {
+            margin-bottom: 1.2em;
+        }
+
+        /* Lists */
+        ul {
+            list-style: disc;
+            padding-left: 1.5em;
+            margin-bottom: 1.5em;
+            page-break-inside: avoid; /* Keep unordered lists together */
+        }
+
+        ol {
+            list-style: decimal;
+            padding-left: 1.5em;
+            margin-bottom: 1.5em;
+            page-break-inside: avoid; /* Keep ordered lists together */
+        }
+
+        li {
+            margin-bottom: 0.7em;
+            padding-left: 0.5em;
+            line-height: 1.6;
+            page-break-inside: avoid; /* Prevent list items from breaking across pages */
+        }
+
+        /* Inline Elements */
+        strong {
+            font-weight: 600;
+            color: #444; /* Emphasize important text */
+        }
+
+        em {
+            font-style: italic;
+            color: #555;
+        }
+
+        code {
+            font-family: 'Menlo', 'Consolas', monospace;
+            background-color: #f0f4f8; /* Light blue-grey background for code */
+            padding: 0.2em 0.4em;
+            border-radius: 4px;
+            font-size: 0.9em;
+            color: #c7254e; /* Distinct color for code snippets */
+            white-space: nowrap; /* Prevent inline code from wrapping awkwardly */
+        }
+
+        /* Horizontal Rule */
+        hr {
+            border: none;
+            border-top: 1px solid #e0e0e0; /* Light background border */
+            margin: 3.5em 0;
+        }
+
+        /* Print-specific styles */
+        @media print {
+            body {
+                padding: 0.5in 1in; /* Adjust print margins for common paper sizes */
+                color: #000; /* Ensure black text for better contrast/readability on print */
+                font-size: 1em; /* Standard font size for printing */
+            }
+
+            h1, h2, h3 {
+                color: #000; /* Print headers in black */
+            }
+
+            h2 {
+                border-bottom: 1px solid #ccc; /* Lighter border for print */
+            }
+
+            code {
+                background-color: #f8f8f8; /* Lighter background for code in print */
+                color: #333; /* Darker text for code in print */
+                box-shadow: none;
+            }
+
+            /* Ensure main content blocks don't break awkwardly */
+            div.section-container, ul, ol, p {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <p>Here is a unified, deduplicated, and categorized master list of Appian interview questions compiled from 53 candidate placement reports. This list is designed to be a comprehensive resource for interview preparation.</p>
+
+    <hr>
+
+    <h1>Appian Master Interview Questions</h1>
+
+    <h2>1. Coding & DSA Questions</h2>
+    <p>This section covers common coding challenges, data structure and algorithm questions, and logical puzzles.</p>
+
+    <h3>Standard DSA Problems & Variations</h3>
+    <ul>
+        <li><strong>Arrays & Searching:</strong>
+            <ul>
+                <li><strong>Insert Interval (Leetcode variant):</strong> Given a list of non-overlapping intervals (sorted by start time) and a new interval, insert the new interval and merge any overlapping intervals. The result should remain sorted and non-overlapping. (Leetcode 57)</li>
+                <li><strong>Find First and Last Position of Element in Sorted Array (Leetcode variant):</strong> Given a sorted array of integers and a target value, find the starting and ending position of the target. If the target is not found, return <code>[-1, -1]</code>. (Leetcode 34)</li>
+                <li><strong>Find Missing and Repeating Numbers (GeeksForGeeks/Leetcode variant):</strong> Given an array of <code>n</code> numbers (typically from 1 to <code>n</code>) where one number is missing and one is duplicated, find both numbers.
+                    <ul>
+                        <li><em>Variation 1 (Team Validation):</em> With the missing and duplicate numbers, also determine if they belong to a specific "team" (a given 2D array of pairs/tuples). Output status like "Valid Team", "Multiple Teams", or "No Team Found".</li>
+                    </ul>
+                </li>
+                <li><strong>Two Sum (Leetcode variant):</strong> Given an array of integers and a target sum, return indices of the two numbers such that they add up to the target.
+                    <ul>
+                        <li><em>Variation:</em> Given two arrays, generate pairs (one element from each array) whose sum equals a target value. Optimize beyond brute-force.</li>
+                    </ul>
+                </li>
+                <li><strong>Merge Overlapping Intervals (Leetcode variant):</strong> Given an array of intervals, merge all overlapping intervals and return a new array of non-overlapping intervals that cover all input intervals. (Leetcode 56)</li>
+                <li><strong>Majority Element (Leetcode variant):</strong> Find the element that appears more than <code>n/2</code> times in an array. Optimize for constant space and linear time (e.g., Moore’s Voting Algorithm).
+                    <ul>
+                        <li><em>Follow-up:</em> Find an element that occurs more than <code>40%</code> of the time with constant space.</li>
+                    </ul>
+                </li>
+                <li><strong>Subarray Sum Equals K (Leetcode Hard):</strong> Find the total number of continuous subarrays whose sum equals <code>k</code>. (Leetcode 560)</li>
+                <li><strong>Number of Islands (Leetcode):</strong> Given a 2D grid of '1's (land) and '0's (water), count the number of islands. (Leetcode 200)</li>
+                <li><strong>Find Maximum Element in an Array:</strong> Simple problem.</li>
+                <li><strong>Get Non-duplicated Elements (Single Number):</strong> Given an array with duplicates and uniques, return elements that appear only once. (Leetcode 136)</li>
+            </ul>
+        </li>
+        <li><strong>Strings & Character Manipulation:</strong>
+            <ul>
+                <li><strong>Check if String is Palindrome:</strong> Write a program to check if a given string is a palindrome. Consider edge cases (empty, whitespace, case sensitivity).</li>
+                <li><strong>Reverse Vowels in a String:</strong> Given a string, reverse only the vowels within the string, keeping other characters in their original positions.</li>
+                <li><strong>Check if String is Alphabetically Sorted:</strong> Given a string, determine if its characters are sorted alphabetically.</li>
+                <li><strong>Permutation Palindrome Check:</strong> Given a string, determine if any permutation of it can form a palindrome.</li>
+                <li><strong>Sum of Alphabetical Indices:</strong> Given a string, find the sum of alphabetical indices (e.g., A=1, B=2) of its first and last characters. Return "Blue" if even, "Red" if odd.
+                    <ul>
+                        <li><em>Follow-up:</em> Is a HashMap necessary for this?</li>
+                    </ul>
+                </li>
+                <li><strong>Remove Duplicate Strings from Array:</strong> Remove duplicate strings from a given string array.</li>
+            </ul>
+        </li>
+        <li><strong>Data Structures & Trees:</strong>
+            <ul>
+                <li><strong>Breadcrumbs / Navigation Tree Construction:</strong> Given a list of paths (e.g., <code>[['Main', 'Dashboard', 'Settings'], ['Main', 'Profile', 'Uploads']]</code>), construct a hierarchical navigation tree, where 'Main' is the root. Implement with modifications and edge cases (e.g., handling two paths to the same page).</li>
+                <li><strong>Parenthesis Matching Problem:</strong> Given a string containing parentheses, check if the parentheses are balanced.</li>
+            </ul>
+        </li>
+        <li><strong>Sorting & Time Complexity:</strong>
+            <ul>
+                <li><strong>Time Complexity of Quick Sort:</strong> Explain best, worst, and average case time complexities and justify them.</li>
+                <li><strong>Explain Bubble Sort:</strong> Describe Bubble Sort and its time complexity.</li>
+            </ul>
+        </li>
+        <li><strong>Stream Processing:</strong>
+            <ul>
+                <li><strong>Fibonacci Numbers from a Stream:</strong> Identify Fibonacci numbers from a continuous stream of incoming numbers where the next number is unknown. Explain the logic.</li>
+                <li><strong>Odd Numbers from a Stream:</strong> Write code to find and print odd numbers from a stream.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Appian-Specific / Custom Coding Challenges</h3>
+    <ul>
+        <li><strong>Josephus Problem Variant (Ticket/Queue Management):</strong> Simulate a queue reordering system (e.g., concert tickets, IPL fans). Given <code>n</code> people, a starting offset <code>m</code>, and a step size <code>k</code> (can be positive or negative), determine the order in which tickets are distributed cyclically until all are gone.</li>
+        <li><strong>Group Rearrangement / Reorganize Queue:</strong> Given a line of people and their group assignments, rearrange the line such that:
+            <ol>
+                <li>People from the same group stand together, maintaining their relative order within the group.</li>
+                <li>If all members of a group are present and adjacent, replace their individual names with the group name.</li>
+            </ol>
+            <ul>
+                <li><em>Variation (Multiple Teams):</em> If a person is in multiple groups, they are claimed by the team with the earliest occurrence.</li>
+            </ul>
+        </li>
+        <li><strong>Generating Next Unique Booking Reference Code:</strong> Given a sequence of integers representing a unique booking reference (e.g., <code>1, 2, 3</code>), generate the next greater ordered arrangement (permutation). If it's the last possible arrangement, reset to the smallest order.</li>
+        <li><strong>Mall Treasure Hunt (Shortest Path):</strong> Given a grid of rooms (<code>'S'</code>=start, <code>'O'</code>=open, <code>'X'</code>=blocked, <code>'T'</code>=treasure), find the shortest path (minimum steps) from 'S' to any 'T'. (BFS/DFS on a grid)</li>
+        <li><strong>Hotel Room Occupancy:</strong> Given a list of bookings with start and end dates, calculate the maximum number of hotel rooms occupied simultaneously.</li>
+        <li><strong>Passport Office Efficiency:</strong> Determine how many additional counters are needed to serve vulnerable applicants (children and senior citizens) based on ages and fixed counter capacity.</li>
+        <li><strong>Store Inventory Search:</strong> Implement a search system to count how many times a query appears in each product name string and identify relevant inventory items.</li>
+        <li><strong>Scholarship Eligibility:</strong> Implement logic to determine scholarship eligibility based on input details like grades and extra-curriculars (using lists, loops, if-elif-else).</li>
+        <li><strong>2D Vector Search:</strong> Given a 2D vector of strings and a keyword, search for the keyword. Return count of occurrences and corresponding strings.</li>
+        <li><strong>Age Array Calculation:</strong> Given an array of ages, find the number of ages less than 14 and greater than 60. Return <code>ceil(count) // 3</code>.</li>
+        <li><strong>Power Station Problem:</strong> Given <code>N</code> power stations (each with a cost and a reward) and a total budget, choose stations to maximize total reward while staying within budget (similar to Knapsack).</li>
+        <li><strong>Mobile Battery Drain Simulation (problem-solving):</strong> Custom problem involving simulation logic.</li>
+        <li><strong>Longest Word based on ‘BIG’ characters (problem-solving):</strong> Custom problem involving string/character logic.</li>
+        <li><strong>Distribute Total Value by Weights:</strong> Write pseudocode to distribute a total value according to weights in an array.</li>
+    </ul>
+
+    <h3>Puzzles & Logical Reasoning</h3>
+    <ul>
+        <li><strong>Heavier/Lighter Coin Puzzle:</strong> There are 8 or 9 identical-looking coins, one of which is either heavier or lighter. Using a two-pan balance scale, find the odd ball in just two weighings.</li>
+        <li><strong>Circular Cake Slices:</strong> Cut a circular cake into 8 pieces (not necessarily equal) using only 3 straight lines.</li>
+        <li><strong>Why Manholes are Circular:</strong> Explain the reasoning behind circular manhole covers.</li>
+        <li><strong>Server Failure:</strong> If a server consistently fails only on Fridays, what could be a possible reason?</li>
+    </ul>
+
+    <h3>General Coding & Programming Tasks</h3>
+    <ul>
+        <li><strong>Implement a List in React:</strong> Implement a list component in a React functional component.</li>
+        <li><strong>Write SQL Query (Highest CGPA):</strong> Given a table schema (e.g., <code>Students(ID, Name, Department, CGPA)</code>), write an SQL query to select the highest CGPA from each department.</li>
+        <li><strong>JSON Format for Image:</strong> Describe or write the JSON format for sending an image.</li>
+        <li><strong>Simple Java Class & OOPs:</strong> Write a simple Java class on paper and explain OOP concepts related to it (e.g., interfaces, inheritance).</li>
+        <li><strong>"Happy Birthday" Login Feature:</strong> Design the backend logic for displaying a "Happy Birthday" message if an employee logs in on their birthday (e.g., using Java Servlets with PostgreSQL).</li>
+        <li><strong>JavaScript Questions:</strong>
+            <ul>
+                <li>Difference between <code>setTimeout()</code> and <code>setInterval()</code>.</li>
+                <li>How to limit the number of times <code>setInterval()</code> is executed.</li>
+                <li>Difference between <code>var</code>, <code>let</code>, and <code>const</code> in JavaScript.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <hr>
+
+    <h2>2. Technical & Core CS Concepts</h2>
+    <p>This section covers foundational computer science topics and specific technologies.</p>
+
+    <h3>Object-Oriented Programming (OOPs)</h3>
+    <ul>
+        <li><strong>Explain OOP Concepts:</strong> Detail the four pillars (Encapsulation, Inheritance, Polymorphism, Abstraction) with real-world examples and practical implementation scenarios.
+            <ul>
+                <li><strong>Inheritance:</strong> Explain different types of inheritance (single, multiple, multilevel, hierarchical, hybrid) and their use cases.</li>
+                <li><strong>Polymorphism:</strong> Provide a real-world example.</li>
+                <li><strong>Classes and Objects:</strong> Explain these fundamental concepts.</li>
+                <li><strong>Constructors and Destructors:</strong> Explain their purpose and usage.</li>
+                <li><strong>Method Overriding:</strong> Explain its concept.</li>
+                <li><strong>Virtual Functions:</strong> Explain their role in C++ polymorphism.</li>
+                <li><strong>Interfaces (Java):</strong> Explain their purpose and usage.</li>
+                <li><strong>Java Keywords:</strong> Difference between <code>final</code>, <code>finally</code>, and <code>finalize</code>.</li>
+                <li><strong>Java Environment:</strong> Difference between <code>JDK</code>, <code>JVM</code>, and <code>JRE</code>.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Database Management Systems (DBMS)</h3>
+    <ul>
+        <li><strong>Relational Database Concepts:</strong>
+            <ul>
+                <li><strong>Schema vs. Table:</strong> Explain the difference.</li>
+                <li><strong>Many-to-Many Relationships:</strong> Explain what a many-to-many relationship is in RDBMS, how it is resolved, and how many tables are typically required (and why).</li>
+                <li><strong>Normalization:</strong> Explain the concept and importance of database normalization (e.g., perform <code>1NF</code> on a given table).</li>
+                <li><strong>Indexing:</strong> Discuss the role of indexing in databases.</li>
+                <li><strong>Database Constraints & Attributes:</strong> Questions on various database constraints and attributes.</li>
+                <li><strong>ACID vs. BASE Properties:</strong> Compare these properties for database transactions.</li>
+            </ul>
+        </li>
+        <li><strong>SQL Queries:</strong>
+            <ul>
+                <li><strong>Basic Data Retrieval:</strong> Write basic SQL queries (e.g., using keywords, retrieving data).</li>
+                <li><strong>Aggregate Functions:</strong> Write a SQL query to select the total count of each item bought by students (given a schema).</li>
+            </ul>
+        </li>
+        <li><strong>Database Types:</strong>
+            <ul>
+                <li><strong>SQL vs. NoSQL:</strong> Explain the differences and when to use each.</li>
+                <li><strong>MongoDB vs. MySQL/PostgreSQL:</strong> Compare specific databases and discuss reasons for choosing one over the other in different project scenarios.</li>
+                <li><strong>NoSQL Schema Design:</strong> Given RDBMS tables, how would you model them in a NoSQL database schema?</li>
+                <li><strong>MongoDB Consistency:</strong> What type of consistency does MongoDB use?</li>
+            </ul>
+        </li>
+        <li><strong>Database Design Scenarios:</strong>
+            <ul>
+                <li>Design an appropriate database schema for an e-learning platform.</li>
+                <li>Design a database schema for student and parent details in an educational institution. Write a SQL query to find siblings in this schema.</li>
+                <li>Draw an ER Diagram for a given scenario (e.g., Stationery Management in a Campus) and represent it in table format.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Computer Networks (CN)</h3>
+    <ul>
+        <li><strong>Web Request Flow:</strong> Explain what happens step-by-step when a URL is typed into a browser, including DNS resolution, web server interaction, and response.</li>
+        <li><strong>APIs:</strong>
+            <ul>
+                <li><strong>Explain API:</strong> What is an API?</li>
+                <li><strong>Types of APIs:</strong> What are the different types of APIs and their purposes?</li>
+                <li><strong>API Fire/Hit Rate:</strong> Explain this concept.</li>
+            </ul>
+        </li>
+        <li><strong>Protocols:</strong>
+            <ul>
+                <li><strong>TCP vs. UDP:</strong> Explain the differences and use cases.</li>
+                <li><strong>HTTP Methods:</strong> Difference between <code>GET</code> and <code>POST</code> requests. Describe how an HTTP request looks.</li>
+                <li><strong>Web Sockets:</strong> What are Web Sockets? What protocol do they use?</li>
+            </ul>
+        </li>
+        <li><strong>Latency:</strong> What is the average latency allowed between a client request and server response?</li>
+    </ul>
+
+    <h3>Operating Systems (OS)</h3>
+    <ul>
+        <li>(No specific OS-only questions were frequently mentioned; concepts often intertwined with networking or system design.)</li>
+    </ul>
+
+    <h3>System Design & Architecture</h3>
+    <ul>
+        <li><strong>Database Schema Design:</strong> (See DBMS section for specific scenarios).</li>
+        <li><strong>Designing a New Feature:</strong> Describe how you would approach adding a new feature to an existing product (e.g., multilingual support). Explain the process from collecting metrics to designing and defending decisions.</li>
+        <li><strong>End-to-End Website Flow:</strong> Walk through the end-to-end flow of how a website works, from user request to server response, including security aspects.</li>
+        <li><strong>Deployment Architecture:</strong> Discuss deployment architecture (e.g., related to projects, use of Kubernetes, Azure).</li>
+    </ul>
+
+    <h3>Web Technologies & Frontend/Backend</h3>
+    <ul>
+        <li><strong>React JS:</strong>
+            <ul>
+                <li>Advantages of using React.</li>
+                <li>What is prop drilling?</li>
+                <li>Explain the <code>UseContext</code> hook.</li>
+                <li>What is JSX? Advantages of <code>JSX</code> over traditional JavaScript.</li>
+                <li>Implementing a list in a React functional component.</li>
+            </ul>
+        </li>
+        <li><strong>Angular:</strong> Questions about Angular directives (e.g., <code>ngFor</code>, <code>ngIf</code>, <code>ngOptimizedImage</code>) and their updated versions (<code>@if</code>, <code>@for</code>).</li>
+        <li><strong>Authentication:</strong>
+            <ul>
+                <li>How <code>JWT</code> (JSON Web Tokens) based authentication works.</li>
+                <li>What happens if a token is stolen/modified (Man-in-the-Middle attack)?</li>
+                <li>How to prevent token theft in <code>JWT</code> authentication.</li>
+            </ul>
+        </li>
+        <li><strong>Frontend Frameworks:</strong> Why is Next.js preferred over React (or vice-versa)?</li>
+        <li><strong>Backend Frameworks:</strong>
+            <ul>
+                <li>Difference between Express.js and Node.js.</li>
+                <li>FastAPI vs. Flask: Differences, <code>ASGI</code> vs. <code>WSGI</code>.</li>
+            </ul>
+        </li>
+        <li><strong>Containerization & Virtualization:</strong>
+            <ul>
+                <li>What is Docker?</li>
+                <li>Docker vs. Virtual Machines: Differences and reasons for using Docker.</li>
+            </ul>
+        </li>
+        <li><strong>APIs:</strong> How do you test your API endpoints?</li>
+        <li><strong>HTML vs. XML:</strong> Why HTML replaced XML (or vice-versa, depending on context).</li>
+        <li><strong>JSON:</strong>
+            <ul>
+                <li>How would an image be sent in JSON format?</li>
+                <li>If an image were sent as a string, how would you escape double quotes inside the string? What is that process called?</li>
+            </ul>
+        </li>
+        <li><strong>Single Page Applications (SPAs):</strong> What they are and how they work.</li>
+    </ul>
+
+    <h3>Quality Engineering (QE) & Testing</h3>
+    <ul>
+        <li><strong>Types of Testing:</strong> Explain Unit, Integration, System, Acceptance, Regression, White Box, Black Box, and Grey Box testing.</li>
+        <li><strong>Tester vs. Quality Engineer:</strong> What is the difference between these roles?</li>
+        <li><strong>Test Case Design:</strong> Write test cases for a date of birth field that validates age between 18 and 65.</li>
+        <li><strong>AI in Testing:</strong> Can Artificial Intelligence design all test cases? Why can't AI test a project it developed?</li>
+        <li><strong>Automation Tools:</strong> How did you use Selenium to test a login page? Describe the process from browser initiation to graceful shutdown.</li>
+    </ul>
+
+    <h3>Artificial Intelligence & Machine Learning</h3>
+    <ul>
+        <li><strong>Large Language Models (LLMs):</strong> What LLMs do you use/have you worked with?</li>
+        <li><strong>LLM Fine-Tuning:</strong> Explain methods, concepts, and practical applications of LLM fine-tuning.</li>
+        <li><strong>AI Agents:</strong> Discuss their architecture, decision-making process, and real-world applications.</li>
+        <li><strong>Tesseract OCR:</strong> How does Tesseract OCR work, and how did you implement it in a project?</li>
+        <li><strong>AI Tools:</strong> What AI tools have you used?</li>
+        <li><strong>Thoughts on AI:</strong> What are your general thoughts about Artificial Intelligence?</li>
+    </ul>
+
+    <h3>Other Technical Concepts</h3>
+    <ul>
+        <li><strong>Data Structures (Real-world examples):</strong> Explain how data structures like stacks, queues, and trees have real-world applications (away from computers).</li>
+        <li><strong>Asymptotic Notations:</strong> Explain big O, omega, theta notations.</li>
+        <li><strong>Git Commands:</strong> Explain <code>rebase</code>, <code>stash</code>, <code>merge</code>, <code>reset</code> (soft/mixed/hard) and their real-world use cases.</li>
+        <li><strong>Favorite Programming Language:</strong> What is your favorite programming language and why?</li>
+        <li><strong>Firebase:</strong> Tell me more about Firebase.</li>
+        <li><strong>Scala:</strong> Characteristics of Scala and explain functional programming.</li>
+        <li><strong>Recent Trends:</strong> What are recent trends in the field of space (Astrophysics)? (Context-dependent, possibly asked due to a candidate's background).</li>
+    </ul>
+
+    <hr>
+
+    <h2>3. Project, Resume & HR Questions</h2>
+    <p>This section combines questions about a candidate's practical experience, personal background, and fit for the company and role.</p>
+
+    <h3>Project & Internship Discussions</h3>
+    <ul>
+        <li><strong>Explain Your Projects:</strong>
+            <ul>
+                <li>Provide a detailed explanation of one or more of your projects (e.g., purpose, origin, functionality, execution).</li>
+                <li>What was your favorite project, and what was the motivation behind it?</li>
+                <li>Discuss the tech stack used and architecture decisions. Justify your technology choices (pros and cons).</li>
+                <li>What challenges or difficulties did you face during your projects, and how did you overcome them? What lessons did you learn?</li>
+                <li>Have you deployed your projects? How?</li>
+                <li>What new technologies did you learn through your projects?</li>
+                <li>Draw the complete architectural diagram and/or ER diagram for a key project.</li>
+                <li>How did your project stand out from similar platforms?</li>
+            </ul>
+        </li>
+        <li><strong>Internship Experience:</strong>
+            <ul>
+                <li>Describe your internship experience in detail.</li>
+                <li>What tasks did you perform, and what were your contributions?</li>
+                <li>What technologies did you work with (e.g., Kubernetes, AI at Amazon)?</li>
+                <li>How did you perform within the team? What was your role as a lead (if applicable), and how did you support your team?</li>
+                <li>What was the hardest part of your internship, and how did you overcome it?</li>
+            </ul>
+        </li>
+        <li><strong>Resume Deep Dive:</strong>
+            <ul>
+                <li>Discuss every line in your resume, including projects, work experience, skills, achievements, and extracurricular activities (e.g., clubs, certifications, Hackerranks).</li>
+                <li>What are your preferred programming languages (if not covered under technical questions)?</li>
+                <li>Which data structures did you use in your projects and why were they beneficial?</li>
+                <li>Discussion on college coursework and subjects studied.</li>
+                <li>How did you learn the skills and topics mentioned in your resume?</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Behavioral & Scenario-Based Questions</h3>
+    <ul>
+        <li><strong>Self-Introduction:</strong> "Tell me about yourself." (Frequently asked in multiple rounds).</li>
+        <li><strong>Motivation & Aspirations:</strong>
+            <ul>
+                <li>What motivates you? What demotivates/upsets you?</li>
+                <li>What type of professional do you aspire to be?</li>
+                <li>What are your goals and future career plans? Do you intend to pursue higher studies (e.g., Master's)?</li>
+            </ul>
+        </li>
+        <li><strong>Learning & Problem Solving:</strong>
+            <ul>
+                <li>How do you approach learning new skills or technologies?</li>
+                <li>What new things have you been learning recently?</li>
+                <li>What was the most interesting problem you solved (e.g., on LeetCode)?</li>
+                <li>What difficulties have you faced when learning new technologies, and how did you address them?</li>
+            </ul>
+        </li>
+        <li><strong>Teamwork & Conflict Resolution:</strong>
+            <ul>
+                <li>How would you handle a conflict or disagreement within a team (e.g., over a feature design)?</li>
+                <li>If you have an idea and the team is not supportive, how would you handle the situation?</li>
+                <li>What did you do as a lead that you wouldn’t have typically done as a team member?</li>
+            </ul>
+        </li>
+        <li><strong>Communication & Professionalism:</strong>
+            <ul>
+                <li>How would you respond differently to a customer vs. a stakeholder when you do not know the answer?</li>
+                <li>If you were to convince your junior or friend to learn your favorite programming language, how would you do so?</li>
+                <li>What lessons have you learned from your experiences?</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Company-Specific & Role-Specific Questions</h3>
+    <ul>
+        <li><strong>Why Appian?</strong>
+            <ul>
+                <li>What do you know about Appian (the company, its work culture, specific projects)?</li>
+                <li>Why did you choose Appian over other firms (e.g., Amazon)?</li>
+                <li>What is one main reason why we should hire you/you need to join Appian?</li>
+                <li>What if you weren't selected for the next rounds?</li>
+                <li>Would you join their company even if you received a PPO from your internship company?</li>
+                <li>Do you have any other offers?</li>
+            </ul>
+        </li>
+        <li><strong>Role Fit:</strong>
+            <ul>
+                <li>Why are you interested in this specific role (Software Engineer, Quality Engineer, Product Engineer, UX Design Intern, Product Management Intern)?</li>
+                <li>What do you know about the responsibilities of this role?</li>
+                <li>Are you better suited for a different role (e.g., QE vs. SE, PE vs. SE)? Are you comfortable with the QE role?</li>
+                <li>Would you switch from design to development within the company?</li>
+                <li>How do your skills and background make you a good fit for this role? Provide real-life examples.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Personal & Academic Background</h3>
+    <ul>
+        <li><strong>Academics:</strong>
+            <ul>
+                <li>Questions about your schooling and college performance.</li>
+                <li>What is your current CGPA, and your 10th, 11th, and 12th-grade marks/scores?</li>
+                <li>What was your JEE Mains percentile (if applicable)?</li>
+                <li>Where would you rank in your class based on CGPA? Who had the highest CGPA and why was there a difference?</li>
+                <li>What was your choice of engineering as a career path?</li>
+                <li>What was your favorite/least favorite subject (in general and in computer science) and why?</li>
+                <li>What was the subject where you scored the lowest, and what could you have done to improve?</li>
+            </ul>
+        </li>
+        <li><strong>Personal Details:</strong>
+            <ul>
+                <li>Tell me about your family background, hometown, and residence.</li>
+                <li>What are your hobbies (as mentioned in your resume)?</li>
+                <li>What YouTube channels or books have you referred to for learning programming/tech?</li>
+                <li>What is the meaning of your name?</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h3>Questions for the Interviewer</h3>
+    <ul>
+        <li>"Do you have any questions for us/me?" (This is almost always asked at the end of each round, so candidates should always prepare thoughtful questions about the role, team, company, or challenges).</li>
+    </ul>
+</body>
+</html>

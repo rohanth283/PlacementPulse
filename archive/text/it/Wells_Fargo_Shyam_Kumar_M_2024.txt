@@ -1,0 +1,38 @@
+WELLS FARGO INTERN PROCESS
+
+The Selection Process consisted of an online programming and aptitude round followed by 3 rounds of interview.
+
+The online round consisted of questions based on logic driven thinking and DSA. These where on Medium level as DSA was not asked in depth. Along with that there were also aptitude questions which had a considerable weightage.
+
+For the Offline Selection Process there were 3 rounds:
+
+1. Technical round (around 30 to 40 min)
+2. Technical round 2 (around 30 min)
+3. HR round (10 min)
+
+Technical Round 1:
+
+Just gave a brief intro about myself and directly started into question answers. The interviewer asked questions from various domains such as OOPS, OS, DBMS, System Designs etc.
+Also He Asked about how each language is different from each other, why do you prefer certain language over other in particular situations and so on. Asked about my projects briefly like what is the project, technologies, purpose etc..,. Also some questions where based on real life scenarios(application based) rather than direct questions from the topics. It went for about 30 to 40 min and the interviewer seemed pleased.
+
+Technical Round 2:
+
+Similar to 1st round with few more questions and also enquired about my IIT degree which I was pursuing simultaneously along with our btech course. Asked about the subjects that were there, what was the difference from here, what was the current subject that went there… what I liked there and what I learnt new etc (both generally and technically). It to went for around 30 min.
+
+HR round:
+
+It was a relaxed round which lasted for 10 – 15 min general convo with the HR interviewer. Asked general questions, Shared about her own experience with the company and so on. Finally for formality asked about why I choose Wells Fargo and the interview process came to a conclusion.
+
+Tips that I recommend (personal view):
+
+1. It is as important to concentrate on your aptitude along with your core as most of the companies have those in online round to filter people. So concentrate on them and train them side by side along with your coding and core subjects.
+ 2. If the questions are easy try to solve it as fast as u can as it will surely be a filtering criteria.
+
+1. On the other side, if the questions are hard and if you can’t solve the problems, try to imply your logic as companies may do code review and will see your logic and u might have an upper hand on the selection process
+2. Discuss with Your seniors/ refer youtube about the company specific interview process on what topic they ask etc and prepare accordingly as the preference change from company to company. For an example I attended D.E.Shaw and their interview process was more coding and DSA oriented whereas in wells it was more subject and fundamentals oriented.
+3. Be strong with the fundamentals of Core subjects such as OOPS, OS, DBMS, CN etc.
+   Before the day of interview brush up these topics.
+4. Know about the company briefly, the role and its need, and prepare questions to ask them before going to the interview.
+5. Be relaxed in the interview process, take your time for thinking and answer. They too know we are freshers. Don’t panic in any situation.
+
+All The Best to All of You and hope You all do well

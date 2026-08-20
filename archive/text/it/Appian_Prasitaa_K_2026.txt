@@ -1,0 +1,65 @@
+Name:  Prasitaa Kannadasan
+
+Batch: 2022 – 2026
+
+Role: Product Engineer
+
+ABOUT THE COMPANY:
+
+Appian is a product-based software company that creates and automates business processes with its
+low-code platform. There are two types of developers: high code developers who construct the
+Appian platform (Software Engineers) and low code developers who automate business processes
+with the low code platform (Product Engineers). Their offices are located in 18 countries throughout
+the world, including the one in India's OMR World Trade Centre in Chennai.
+
+ABOUT THE ROLE:
+
+I was recruited as a Product Engineer. It involves building and automating business processes using
+the Appian platform. You must be proficient in the core subjects like OOPS, DSA and DBMS. You must
+also have a compelling and genuine resume. Impressive projects are undoubtedly beneficial,
+especially if they demonstrate your ability to adapt and learn quickly.
+
+PLACEMENT EXPERIENCE:
+
+ONLINE ASSESSMENT:
+
+We had 4 coding questions for the role of Product Engineer which were based on DSA.
+
+TECHNICAL ROUND 1:
+
+All three rounds of interview were in offline mode at CUIC. This round lasted for almost 40 minutes. I
+was asked to explain one of my projects in detail. I was also given an OOPS question in which I was
+required to check for all edge cases for a specific function and write the code for them. I was also
+questioned on a subject of my choice. Additional questions about my resume and achievements
+were also asked.
+
+BEHAVIOURAL ROUND – 1:
+
+This round was a virtual one and it lasted for 10 minutes. I was asked to introduce myself and was
+questioned about the company and the job role. I was also asked of my plans for any further studies
+in the future.
+
+BEHAVIOURAL ROUND – 2:
+
+This was the final round and it lasted for around 15 minutes. Personal questions regarding my family,
+academics, and residence were posed. In addition, several questions about my resume were asked.
+
+TIPS:
+
+  Make your answers elaborative and interactive.
+
+
+Impressive projects are definitely beneficial and explain your projects in a way that impresses
+the interviewer and feel free to use a pen and a paper for clarity.
+
+  Ensure that your resume is compelling, authentic and genuine.
+  Get to know about the company and the role before appearing for the interview.
+  Focus on core subjects like OOPS, DBMS and DSA and prepare yourself for basic HR
+
+questions.
+
+  At the end of the interview, you’ll be prompted for further questions from your side. Make
+
+sure to have some real and impressive questions that will demonstrate your true interest and
+help you stand out.
+

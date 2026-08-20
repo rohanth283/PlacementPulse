@@ -1,0 +1,108 @@
+Mini Gnana Sekaran- Information Technology –6 months intern at Logitech
+
+About the Company: Logitech is a globally recognized technology company specializing in
+designing and manufacturing computer peripherals and software. The company is known for its
+innovative approach to product development, delivering high-quality solutions in areas such as
+gaming, video collaboration, and AI-driven advancements. With a strong focus on user
+experience and technological innovation, Logitech continuously evolves to meet the needs of
+both consumers and businesses.
+
+About the Role:
+
+Logitech offered two job roles for this internship:
+
+1.  Frontend Development
+2.  Generative AI
+
+Overview of the Process:
+
+The selection process included three rounds:
+
+1.  Written Test (Technical Aptitude + Domain-Specific)
+2.  Technical Interview (DSA, OOP, OS, Resume-Based)
+3.  HR Interview (Behavioral, Leadership, and Project Discussion)
+
+Interview Process
+
+Round 1: Written Test
+
+●  The written test consisted of two sections:
+
+○  C++ Programming Questions (Mandatory for all candidates)
+○  Specialized Test: Candidates could choose between a JavaScript test (for the
+
+Frontend role) or a Generative AI test.
+
+●  The test evaluated problem-solving skills, coding proficiency, and understanding of
+
+role-specific concepts.
+
+Round 2: Technical Interview
+
+●  Data Structures and Algorithms: I was tested on various DSA topics, requiring efficient
+
+implementations in C++.
+
+●  Object-Oriented Programming: Questions focused on core OOP principles, including
+
+inheritance, polymorphism, and design patterns.
+
+●  Operating Systems: The interview covered key OS concepts such as memory
+
+management, process scheduling, and concurrency.
+
+●  Resume-Based Questions: The interviewer asked in-depth questions about my
+
+projects, the tech stack used, and my problem-solving approach.
+
+●  Leadership & Teamwork: I was asked about my leadership experiences, team projects,
+
+and how I handled challenges.
+
+Round 3: HR Interview
+
+●  Resume Discussion: The HR round focused on my previous experiences, including
+
+internships, projects, and extracurricular leadership roles.
+
+●  Project Discussion: I explained the project I would be working on at Logitech, detailing
+
+the technologies involved and expected contributions.
+
+●  Behavioral Questions: Questions included how I handle conflicts, work in a team, and
+
+adapt to new technologies.
+
+Preparation Strategy
+
+●  DSA & Problem Solving: Practiced coding problems, focusing on commonly asked
+
+DSA topics.
+
+●  OOP & OS Concepts: Revised core principles, ensuring a strong understanding of
+
+system design and OS fundamentals.
+
+●  Domain-Specific Knowledge: Prepared for the JavaScript and GenAI test by revisiting
+
+frameworks, tools, and recent advancements in AI.
+
+●  Company Research: Studied Logitech’s latest innovations, products, and company
+
+culture to align my answers with their goals.
+
+Tips & Tricks
+
+●  Choose the Right Track: Pick a test paper (JavaScript or GenAI) based on your
+
+strengths and interests.
+
+●  Master the Basics: Focus on strong foundational knowledge in DSA, OOP, and OS.
+●  Showcase Leadership & Problem-Solving: Be ready to explain how you led teams,
+
+tackled challenges, and optimized solutions.
+
+●  Ask Meaningful Questions: Engage with the interviewer by asking about the work
+
+environment, projects, and growth opportunities.
+

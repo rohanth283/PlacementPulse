@@ -1,0 +1,6 @@
+**Barclays Interview Experience: OOP, DBMS, DSA, DP**
+
+1. **OOP Concepts**: Questions revolved around basic OOP principles like inheritance, polymorphism, abstraction, and encapsulation. I was asked to explain with examples and how they are implemented in real-life applications. One scenario-based question involved designing a class hierarchy for a banking system.
+2. **DBMS**: Key focus was on SQL queries, normalization, indexing, and transactions. I was given a problem to design a database schema for an e-commerce platform, and write complex SQL queries involving joins, aggregations, and subqueries.
+3. **DSA**: This section had coding questions based on arrays, linked lists, and trees. I was asked to solve a problem on finding the longest increasing subsequence and another problem on implementing a LRU (Least Recently Used) cache.
+4. **Dynamic Programming (DP)**: I had to solve a DP-based problem where I was asked to implement a solution for the "Knapsack Problem." They tested my understanding of both top-down and bottom-up approaches.

@@ -1,0 +1,119 @@
+S.K.Anulatha - Information Technology –Software developer intern at
+
+KLA Tencor
+
+**About the Company**:
+
+KLA Corporation, KLAC (NASDAQ) - a leading provider of process control and yield management solutions, partners with customers around the world to develop state-of-the-art inspection and metrology technologies. These technologies serve the semiconductor, data storage, LED, and other related nano electronics industries. With a portfolio of industry-standard products and a team of world-class engineers and scientists, the company has created superior solutions for its customers for over 40 years. Headquartered in Milpitas, California, KLA has dedicated customer operations and service centres around the world. KLA research, develop, and manufacture the world's most advanced inspection and measurement equipment for the Semiconductor and Nano electronics Industries. KLA enables the digital age by pushing the boundaries of technology, creating tools capable of finding defects smaller than a wavelength of visible light. KLA creates smarter processes so that technology leaders can manufacture high-performance chips—the kind in that phone in your pocket, the tablet on your desk and nearly every electronic device you own—faster and better. KLA is passionate about creating solutions that drive progress and help people do what wouldn't be possible without them. The future is calling.
+
+**About the Role**:
+
+KLA-Tencor has openings for Software Development Engineering intern roles in its multiple product divisions, which designs and manufactures metrology, inspection & review equipment for semiconductor manufacturing industry. Based in Chennai, India, the Software Engineer intern will be responsible for but not limited to -
+
+• Acquire and demonstrate technical knowledge on existing software platforms
+
+• Perform requirements analysis, software design, development and unit testing on small independent features
+
+• Ensuring that detailed designs, code, and unit tests are consistent, robust, future-proof and scalable
+
+• In conjunction with the technical mentor, review, highlight and mitigates technical risks
+
+• Able to uncover root cause and to devise and drive innovative analyses and solutions for complex problem
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* An Online coding contest in HackerEarth Platform
+* Interview Round 1 (Technical) – in their KLA head office at Chennai
+* Interview Round 2 (Technical) – in their KLA head office at Chennai
+* Interview Round 3 (Technical plus Resume) – in their KLA head office at Chennai
+* Round 4 (HR Round) - in their KLA head office at Chennai
+
+**Online coding contest in HackerEarth platform**:
+
+The coding contest was conducted on the HackerEarth platform. There were totally 2 questions asked and those were coding questions that we were asked to complete in under 90 mins. Also there was no negative marking, and we can navigate from one question to another. The questions varied from medium to hard level and there were some places where we were supposed to read the question carefully, understanding is the key!
+
+The 2 coding questions were
+
+1. Based on finding the consecutive repetition of numbers and finding only the even number of subsets in it.
+2. It was based on returning the highest digit in the given number which has to be mapped with other numbers in the array, the mapped number must be a perfect number.
+
+3 students were shortlisted for the interview process of Software developer intern.
+
+TIPS for Online Test:
+
+Make sure that you attempt all the questions, irrespective of whether you solve it or not, the number of test cases that your code passes matters ,hence make it a point you try your best to solve it. Next important thing is the timing - it always works on the rule of “Fastest hands first!” . Also concentrate on the whole test when you are taking it up, never get distracted.
+
+**Interview Round 1 (Technical round):**
+
+This round was a Technical round that went on for 1 hour. We had questions on graphs and simple DSA questions, the interview was highly formal and we were asked to write the code in any coding language that we were proficient in.
+
+1. Write a code to implement the consecutive set of prime numbers in a given array and fill in a stack of numbers that has already got a set of integers in it, the numbers must not be repeated.
+2. Write a code to find the distance between any two end points provided the path in which people should move.
+
+I personally felt that these questions were far more tricky than the ones that were asked in the coding round. The most important part was, they just made sure whether we were constantly responding to the questions that they asked and how quickly we moved on to alternate ways of solving that problem. Observation is the key here so focus and respond fast, they were very strict with the timings, so if you feel that you are running out of time, explain the algorithm even if you failed to write the code.
+
+**Interview Round 2 (Technical):**
+
+This round went for 1 hour. Again we had 2 questions here and they were only on graphs. We were asked to explain only the algorithm to the questions.
+
+1. Finding the shortest distance to a destination being provided that we are supposed to traverse at least ‘n’ number of destinations from one point to another.
+2. This was also related to graph and matrix
+
+They were particular about the algorithm names and whether we remembered them, they expected us to answer the method in which they worked, the best and the worst cases. Time complexity mattered here. Again they expected us to be quick enough in giving solutions, the interviewers will be highly helpful and polite, they will drop you some hints, we should be able to develop them and answer to the point as questions will be of really hard level. Don’t panic, as it is normal and try to stay calm, they will note all those factors. Leave them the impression that you are inquisitive and curious to learn things.
+
+**Interview Round 3 (Technical plus Resume):**
+
+This round was for 1 hour. The interviewers were very friendly and made us really comfortable.
+
+In this round we mainly discussed my resume and focused on real time practical questions.
+
+I had questions on some basics of DSA and why I chose python as my coding language. He interviewed me on general questions like “What is the reason for India’s poverty?” and stuff like that. We even had some questions on GK like what’s the population of India etc. My kind advice would be, if you don’t know answers for the GK questions, be honest enough in accepting that you are not aware of it instead of beating around the bush, whereas in coding questions try to keep giving them answers, feel free to ask them doubts if you have any.
+
+**HR Round:**
+
+It went for around 15 – 20 mins. The HR introduced himself to me and it was a casual talk.
+
+* Tell me about yourself, hobbies, projects, family, etc.
+* How many of the interviews have I attended so far, and in how many of them I have faced rejections in.
+* Why did you choose KLA, how did you get to know about us.
+* Any questions for him
+
+He was satisfied with my answer and 6 candidates from colleges like 2 from Sastra, 2 from Thiagarajar College of Engineering and 2 from Anna University got intern and I’m one among them.
+
+**TRICKS THAT I FOLLOWED**:
+
+* Try to complete your online test as soon as possible, try to give an attempt to all the questions, the number of test cases that pass matters a lot!
+* Try to attend the PPT if the company has organised one, this will give you great insights about the company.
+* Solve previous year questions and focus mainly on the company's goal and motto.
+* Focus on places that you feel that you are weak at, it might be on your communication skills, outwardness, your attitude etc. try being yourself, don’t feel shy to interact with your fellow interviewees there. We had a constant eye on whether we were interacting with everyone who came for the interview there
+* The interview was common for all so there were nearly 40 students who were shortlisted in the first online round, so all were asked to report to their head office in Chennai. Try to be punctual and feel free to ask for directions, please don’t depend on someone who came for the interview there as we were noted on those factors too.
+* Most of the employees who interviewed us were managers, so they had like minimum of atleast 5 to 6 years of experience at KLA Tencor. So try to make the best out of them. Never fail to ask questions at the end of every interview round to make them feel that you are highly interested to be a part of the organization.
+* If you don’t know an answer for a particular coding question or if you blanked out, don’t feel bad or put yourself down, try to answer and find a way, keep thinking! Never lose your confidence as it might reflect in your performance.
+* Show them that you are open to new technologies and even if you are not aware of it, you will be able to learn them.
+
+**MY PREPARATION STRATEGY:**
+
+* So first of all, all you need is the guts to start something new. It will be really difficult at first to push yourself from your comfort zone and make it a point that you start coding every single day. To be honest I started preparing in my fourth semester and infact I didn’t know where to start from. Find out coding platforms that you feel that you are comfortable working on and make it easier for you to solve and understand. I practiced in Coding Ninjas - the solutions that they provided were easier to understand and the best part is that, all the testcases will be visible to you, so there might have been cases where we wouldn't have thought of, so yeah it made me to understand the importance of thinking about the worst cases too.
+* Since I had been concentrating only on the coding part, I failed to understand the importance of soft skills, how to talk in an interview, how to connect to different people, the importance of the skills that you have mentioned in your resume etc. It took nearly 1 month for me to master those skills. So kindly focus on that too, there will be stages like where you will be stressed out coding and managing your academics so during that time - try to watch some youtube videos and ted talks to improve your skills.
+* Try to do more and more mini projects - it can be really short and something even not like a project, still if you have learned something new and if you had tried them out and if you have a strong in-depth knowledge in it - add it to your resume. Never add skills that you are not strong in or that you are not aware of, it is always advisable to have your resume highly professional and truthful.
+* When you are starting at first to concentrate on solving easier problems, it can be like just a sum of 2 numbers questions too. When you start solving sums and when you find that you are able to solve them, it will motivate you a lot to solve more and more coding questions and you will eventually be interested in solving them. Consistency is the key. Have the quest to learn something new everyday.
+* Aptitude - Often(including myself) I have seen students taking aptitude easily- never do that, solve them consistently as many of the banking companies like Citi, Barclay’s Wells Fargo etc. had questions on aptitude and critical thinking. Platforms such as IndiaBix played a major role in my preparation.
+* Make it up - If you failed to solve questions for 2 days or even for a week - that is perfectly alright, but make it a point that you work 2X times better than what you had been working on all the days, try to make up the days that you have missed so far. Remember brakes are needed, so let it go at places where you feel like you need a break, but make sure that you come back again with full of energy and motivation to achieve what you had been dreaming of !
+
+**MY EXPERIENCE:**
+
+There are days where I have felt really low and where I have had no motivation to work and learn something, that’s completely normal. We will feel stressed out, the question of whether we will be able to make it to some company and whether the efforts that we had put in will work will always keep running in our mind. Remember that HARD WORK never pays off! All it takes is time and a bit of luck. If it all falls into the right place and at the right time, things will seem like magic for us.
+
+I got shortlisted for the interview process like in 4 companies before KLA and KLA was my 5th company to get shortlisted. In all the 4 companies that I attended, I got rejected at the final HR round in every company. I lost my confidence and there were days where I never put myself up and moved on to what’s next. It happens, and one greatest lesson that I learnt was - something best is waiting for you always! keep putting in your efforts irrespective of whether you have got the desired result or not. Keep running towards your goal, never settle. It’s easier said than done but remember - “Difficult roads often lead to beautiful destinations!”.
+
+The journey is really hard. But the end result is the one that you can relish upon. Surround yourself with people who feel that your success is their success and motivate you to move forward in your life. Spend time with those who value you and let your feelings out, never stuff things within yourself as that might lead you to depression. Never self doubt yourself on your talents and your skills, as you are unique and distinct and one can never be you! It’s ok to let your emotions and your feelings out to your parents and to your friends. Stay calm and composed - persistence is the key.
+
+I motivate myself by listening to music and by even watching movies. One of the best quotes that I always keep telling myself is from the movie Kanaa where the heroine’s mother says - “Onuthuku aasa pata matu pathathu, adam pidikanum!”. So start moving towards your goal, keep working you will definitely reach the destination that you had been longing for!
+
+I would personally thank my parents here who had been my greatest pillar of support and had always been with me irrespective of anything that happened in my life. I would like to extend my gratitude to my friends too who have supported me and travelled with me this far.
+
+So good luck guys, you will definitely rock! Stay confident, stay healthy and remember,
+
+“If not this… something best is always waiting for you!”

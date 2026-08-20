@@ -1,0 +1,224 @@
+# **Appian Interview Experience**
+
+**Product Engineer (On-Campus Placement)**– *Rakshitha T*
+
+## **About Appian:**
+
+**![Image](data:image/jpeg;base64...)**
+
+Appian is a global enterprise software company that provides a **low-code automation platform** to help organizations design, automate, and optimize business processes.
+
+The platform integrates **workflow automation, data fabric, AI, and case management**, enabling companies to rapidly build scalable enterprise applications.
+
+# **Selection Process**
+
+### **1️ Technical Online Test**
+
+### **2️ Technical Interview – Round 1**
+
+### **3️ Managerial / Leadership Round (US Head) – Round 2**
+
+### **4️ HR Round – Round 3**
+
+All three interview rounds were conducted **on the same day** after shortlisting from the online test.
+
+# **Technical Online Test**
+
+**Focus: DSA (3–4 Coding Questions)**
+
+The online assessment was purely technical and DSA-focused.
+
+### **Topics Covered:**
+
+* Arrays
+* Strings
+* Recursion
+* Sorting
+* Hashing
+* Time & Space Complexity
+
+The questions were easy - medium level and required clear logic building.
+
+Strategy that worked for me:
+
+* Started with brute-force approach
+* Clearly optimized step-by-step
+* Paid attention to edge cases
+* Managed time effectively
+
+Shortlisted candidates moved to interviews.
+
+# **Round 1: Technical Interview (Core + Resume + OOPS)**
+
+**Duration: ~40–45 minutes**
+
+This round was conducted offline.
+
+### **🔹 Part 1 – Resume Deep Dive (First 20 Minutes)**
+
+The interviewer spent significant time discussing my resume:
+
+* Detailed explanation of my projects
+* Tech stack used
+* Architecture decisions
+* Challenges faced
+* My leadership role as **President of IEEE WIE**
+* Research wing initiatives under IEEE
+
+They were particularly impressed with:
+
+* My research initiatives
+* My club leadership experience
+* How I balanced technical and organizational responsibilities
+
+They evaluated:
+
+* Depth of understanding
+* Ownership
+* Communication clarity
+* Real contribution vs superficial involvement
+
+### **🔹 Part 2 – OOPS (Python Focus) (Next 20 Minutes)**
+
+They asked me which language I was comfortable with. I chose **Python**.
+
+Interestingly:
+
+* They already had a **printed sheet of OOPS questions in Python**.
+* I was asked to **write code on paper** in front of them.
+* It was a very basic fill in the blanks type of question. There were pre-defined Classes and I was asked to write functions for those classes.
+
+### **OOPS Topics Covered:**
+
+* Classes and Objects
+* Inheritance
+* Polymorphism
+* Encapsulation
+* Constructors
+* Method Overriding
+* Practical implementation scenarios
+
+They checked:
+
+* Concept clarity
+* Syntax awareness
+* Logical structuring
+* Clean code thinking
+
+This round tested **fundamentals more than complexity**.
+
+# **Round 2: Managerial / Leadership Round**
+
+**(Google Meet with US Head – Conducted at CUIC)**
+
+This round was more conversational.
+
+Questions asked:
+
+* Why do you want to join Appian?
+* What are your future career plans?
+* Do you have any other offers?
+* What motivates you?
+
+I clearly explained:
+
+* My interest in product-building
+* My long-term goal of becoming a **Product Manager**
+* How Product Engineering at Appian gives strong product exposure
+
+They appreciated:
+
+* Clarity of vision
+* Honest communication
+* Long-term alignment
+
+# **Round 3: HR Round**
+
+This round focused on:
+
+* Role explanation
+* Offer intention confirmation
+
+I mentioned that:
+
+I aim to transition into Product Management in the future, and starting as a Product Engineer at Appian is the perfect path to build strong technical-product foundations.
+
+The HR appreciated the clarity and ambition.
+
+# **My USP (What Made Me Stand Out)**
+
+**Student Business Card with QR Code**
+
+I had a personal student business card that included:
+
+* My name & role
+* A QR code linking directly to my resume
+
+![](data:image/png;base64...)
+
+When they scanned it and saw the resume instantly, it created a strong first impression.
+
+It reflected:
+
+* Professionalism
+* Branding mindset
+* Attention to detail
+* Product thinking
+
+This small detail left a memorable impact.
+
+# **Key Takeaways from My Experience**
+
+### **1️ Be Very Clear About Your Resume**
+
+They can question anything mentioned.
+Never bluff.
+
+### **2️ Fundamentals > Fancy Knowledge**
+
+OOPS clarity mattered more than advanced frameworks.
+
+### **3️ Leadership Matters**
+
+My role as IEEE WIE President and research initiatives added strong weight.
+
+### **4️ Career Clarity Impresses**
+
+Having a long-term goal (PM path) showed maturity.
+
+### **5️ Personal Branding Helps**
+
+Something as simple as a QR resume card can differentiate you.
+
+# **Preparation Strategy**
+
+### **DSA:**
+
+* Solved topic-wise problems
+* Practiced [neetcode.io](http://neetcode.io) 150 questions
+* Focused on explaining approach verbally
+
+### **OOPS:**
+
+* Practiced implementing concepts in Python
+* Reviewed inheritance, overriding, polymorphism deeply
+
+### **Resume:**
+
+* Prepared explanations for every single bullet point
+* Prepared impact statements for each project
+* Don't put anything on your resume that you can't vouch for or explain.
+
+# **Final Advice**
+
+* Start preparation early
+* Master fundamentals
+* Build leadership exposure
+* Be authentic
+* Think long-term
+* Add small differentiators
+
+Preparation + Clarity + Personal Branding = Strong Impact
+
+I hope this helps you crack your next interview.
+Feel free to reach out for any queries!

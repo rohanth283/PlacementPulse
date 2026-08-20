@@ -1,0 +1,109 @@
+SRIVISHWA P – INFORMATION TECHNOLOGY
+
+FTE in Mindgate Solutions
+
+About the company:
+
+Mindgate  Solutions  is  a  leading  global  fintech  company  specializing  in
+real-time  payment  solutions  and  digital  banking  technologies.  Established
+with a vision to revolutionize the financial sector, Mindgate works closely with
+major  banks,  payment  service  providers,  and  enterprises  to  offer  cutting-edge
+solutions in UPI, mobile banking, payment gateways, and AI-driven financial
+services. Their innovative approach has made them a trusted partner for secure
+and scalable transaction processing worldwide.
+
+About the role:
+
+Role: Trainee Software Developer
+
+Mindgate  Solutions  offers  the  role  of  Trainee  Software  Developer,
+providing  an  opportunity  to  work on  real-time payment solutions  and banking
+technologies.  This  role  involves  developing  secure  and  scalable  financial
+applications, gaining exposure to Java, Spring Boot, APIs, and microservices, and
+working closely with banking clients
+
+Overview of the Process
+
+The company usually conducts four rounds, starting with an online test, followed
+by interviews. However, since the number of candidates was limited, they skipped
+the online test for us. The selection process included the following rounds:
+
+1.  Technical Interview
+
+2.  Managerial Interview
+
+3.  HR Discussion
+
+Technical Interview:
+
+This round focused mainly on writing code in Java, particularly POJO classes and
+OOP concepts. There were also questions about the Spring Boot framework and
+microservices.
+
+Managerial Interview:
+
+In this round, the interviewer also emphasized Java programming, asking
+how I write and execute Java code, as well as the types of programs I have worked
+on.  Additionally,  I  was  asked  about  Java  packages.  The  interviewer  then
+presented a DSA question—deleting an element from a linked list—and requested
+a pseudo-code solution, but I wrote the Java implementation instead.
+
+HR Discussion:
+
+After successfully clearing the technical and managerial rounds, the  HR
+discussion was more of a formal conversation. They had already selected me, so
+the HR representative mainly confirmed if I was comfortable with the tech stack
+and the role. She also provided details about the role, package, and benefits, to
+which I agreed and accepted the offer.
+
+Preparation Strategy:
+
+•  Focus on DSA and fundamental computer science concepts.
+•  Be proficient in the programming language you choose for your career.
+•  Have  a strong understanding of your resume and be prepared to discuss
+
+every detail.
+
+•  Gain  knowledge  of  backend  or  frontend  frameworks,  as  they  help  in
+
+securing a developer role.
+
+Tips and Tricks:
+
+•
+
+Improve your communication skills and speak with confidence.
+
+•  Continuously revise DSA concepts to stay sharp.
+
+•  Avoid being blank when faced with questions—think logically and attempt
+
+an answer.
+
+•  Ask insightful questions to the interviewer at the end of the interview.
+
+•  Maintain  a  well-structured  resume  that  highlights  your  skills  and
+
+achievements effectively.
+
+•  Strive  to  clear  the  online  test,  as succeeding  in  it  makes  the  subsequent
+
+rounds easier.
+
+Preparation Materials:
+
+❖  For DSA preparation, follow Striver’s A2Z DSA Sheet for a structured
+
+approach.
+
+❖  For  Java  development,  check  out  the  Telusko  Youtube  Channel,  as  it
+provides excellent tutorials by an experienced Java instructor with over 12
+years of expertise.
+
+❖  Alternatively,  you  can  enroll  in  Telusko's  Udemy  Course  for  a  more
+
+structured and in-depth learning experience.
+
+ALL THE BEST FOR YOUR CAREER
+THANK YOU
+

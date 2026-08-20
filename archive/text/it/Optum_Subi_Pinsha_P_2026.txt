@@ -1,0 +1,157 @@
+T E C H N O L O G Y   D E V E L O P M E N T   P R O G R A M   A S S O C I A T E   A T   O P T U M
+
+ROLE:
+
+Full Stack Engineer
+
+ABOUT THE COMPANY:
+Optum, part of the UnitedHealth Group family of businesses, is a leading
+information and technology enabled health services company serving more
+than 132 million consumers, delivering the right care when and how it’s
+needed. We are dedicated to evolving health care so everyone can have the
+opportunity to live their healthiest life.
+
+ABOUT  THE ROLE:
+The Technology Development Program (TDP) at Optum begins with a 4-
+week bootcamp, followed by a 12 month development experience that
+includes two 6-month rotations and concludes with a grad placement. As a
+TDP Associate, you’ll gain invaluable experience across a variety of domains,
+benefit from mentorship by technology leaders, and engage in networking
+and collaboration opportunities across the technology organization. The
+program’s cohort-based structure fosters a more personalized employment
+experience, helping to build community and drive engagement beyond that
+of a traditional hire.
+
+OVERVIEW OF THE PROCESS:
+The overall process consists of:
+
+An online test
+HR Round – in CUIC
+Technical Interview – in CUIC
+
+ONLINE TEST:
+
+This assessment consisted of a single question (full-stack based), and the most
+important aspect was that you were allowed to use your preferred tech stack
+from a predefined list of stacks. The question had multiple tiers of
+requirements and was graded based on your ability to attempt all the
+subsections. The highest-scoring attempt was considered as the final score.
+
+Points were awarded even for partial solutions, so candidates were
+encouraged to submit their code even if they were unable to complete
+everything.
+
+This was an AI co-piloted assessment, similar to the Copilot version
+(Cosmo), which was provided to help you complete tasks more efficiently.
+You were expected to make use of the AI co-pilot as much as needed.
+
+Note: *This assessment was unlike those of the previous years.
+
+*Make sure you use check the mails sent from the company regarding
+
+the assessments.
+
+HR ROUND : (30 mins approx.)
+
+This round was so easy to clear as the HR who interviewed me was so chill
+and only a normal  convo – like questions were asked. It was to make sure
+your English communication is good.
+
+Introduce yourself
+Asked about native , and how are you adapted to Chennai
+Hobbies and interests
+Apart from that , what do you do?
+Clubs and participations
+
+How do you manage along with your studies
+Projects
+
+  Why optum? If it is your fav, why?
+
+Any questions for her?
+
+Note: *Communicate well. Don’t panic.
+
+TECHNICAL INTERVIEW : (1:45 hrs)
+
+My interviewer is a backend developer at Optum (one of our IT department
+alumni), a very knowledgeable and experienced person.
+He asked to introduce myself and proceeded on with the tech questions.
+OOPS, DBMS, SQL, and DSA was concentrated. Networks wasn’t a part but
+doesn’t mean we can neglect it. Some companies ask networks in deep too. Be
+very clear in your projects.
+OOPS:
+           The regular questions like abstract class, interface, polymorphism and
+how is it in java,c++ and python. Refer gfg and your textbooks.
+
+DBMS SQL:
+
+•  Two simple queries were asked.
+•  Normalization, joins, indexing, and some more.,
+•  Explain- SAAS, PAAS, IAAS
+
+Since it is a full stack role , I brushed up the concepts regarding the web dev
+part also.
+Every question he asked was through my resume. He kept on striking out the
+part that were done asking for. Eg questions:
+•  Differentiate html and React
+•  Why MongoDB is mostly used in your works?
+•  How do you secure API?
+•  Why does a backend infrastructure is required?
+•  Why a page suddenly logs out if unused for some time?
+•  What are APIs and why do you need that?
+
+•  What happens when we build a project? What does the build folder
+
+contain?
+
+•  How many HTML files are there in react, how does this html file work
+
+in react?
+
+There were more built on questions from the answers I gave.
+
+DSA:
+      Second smallest number in the array.
+      Generate all the subarrays given an array.
+Questions like why optum? Any questions for me? were asked.
+
+*Use brute force too but I forgot it at the moment yet the interviewer was
+happy.
+*One advice from the interviewer: Learn everything in depth.
+
+TIPS:
+
+•  I documented materials used for studying and revised periodically.
+•  Used strivers A-Z sheet for DSA.
+•  Solved SQL 50 in leetcode.
+•  Learnt core concepts (OOPS, SQL, DBMS, CN, System Design.,)
+•  Have good projects in hand .. would be a great hit in interviews. My
+projects mostly aligned with the company’s domain and was of great
+help.
+
+•  Sharing ideas and learning with friends is important.
+•  After  attending  each  online  tests,  if you  were  not able  to  solve  the
+
+question, try it aftermath the coding test.
+
+•  Use your 6th sem holidays efficiently.
+•  Be genuine. If you don’t know the answer accept it. Believe me,my
+
+interviewer taught me those.
+
+•  It doesn’t matter if you fail;make sure to fail better the next time and
+
+eventually you will pass.
+
+Maybe you are waiting for a bedtime story; meanwhile, the universe is
+writing a fairytale for you.
+All the best for your placements and feel free to contact me!
+
+9 people(including me) got placed.
+Contact Information:
+Name: Subi Pinsha P
+Mobile No: 8825712793
+EmailId: subipinsha@gmail.com
+LinkedIn: www.linkedin.com/in/subipinsha
+

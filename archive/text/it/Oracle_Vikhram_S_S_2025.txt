@@ -1,0 +1,146 @@
+|     |     | Vikhram |     | S   | S - | Information | Technology |
+| --- | --- | ------- | --- | --- | --- | ----------- | ---------- |
+Oracle
+| About | the Company |     |     |     |     |     |     |
+| ----- | ----------- | --- | --- | --- | --- | --- | --- |
+Oracle India Pvt Ltd, a subsidiary of Oracle Corporation, is a leading provider of enterprise
+software and cloud solutions in India.The company offers a wide range of products and
+services, including cloud applications, database management, and enterprise software
+solutions, while also driving significant research and development efforts in areas such as AI
+and big data.
+Oracle plays a pivotal role in transforming sectors like finance and infrastructure through its
+advanced technology solutions. In finance, Oracle provides robust software and cloud solutions
+that help financial institutions manage operations, risk, and compliance efficiently. Through its
+partnerships, innovation, and corporate social responsibility initiatives, Oracle India is at the
+forefront of digital transformation in the country, helping businesses and government entities
+| harness           | the power | of technology |           | for       | growth   | and efficiency. |     |
+| ----------------- | --------- | ------------- | --------- | --------- | -------- | --------------- | --- |
+| Role: Association |           | Applications  |           | Developer |          |                 |     |
+| Employment        | Type:     | Intern        | (6        | months)   | &        | FTE             |     |
+| Location:         | Bangalore | /             | Hyderabad |           | / Mumbai |                 |     |
+Overview
+| Number | of rounds  | : 3               |           |              |            |           |     |
+| ------ | ---------- | ----------------- | --------- | ------------ | ---------- | --------- | --- |
+| 1)     | Online     | Test - Hackerrank |           |              |            |           |     |
+| 2)     | Round      | 1 - Technical     | Interview |              | ( Offline) |           |     |
+| 3)     | Round      | 2 - Technical     | +         | HR Interview |            | (Offline) |     |
+| Online | Assessment |                   |           |              |            |           |     |
+The online assessment was conducted in Hackerrank Platform consisting of coding and multiple
+choice questions.
+| Time limit: | 1hr | 30 min |     |     |     |     |     |
+| ----------- | --- | ------ | --- | --- | --- | --- | --- |
+1 Coding Question → Medium level ( Depends on the set usually Easy to Medium Level )
+The coding question was of medium difficulty. Initially, some test cases did not pass. Instead of
+spending too much time on the coding question, I switched between the MCQs. By the end of
+the test, I was able to pass all the test cases and aimed to score as high as possible in the MCQ
+section.
+
+| 35 MCQ’s | covering |     |     |     |     |     |     |     |
+| -------- | -------- | --- | --- | --- | --- | --- | --- | --- |
+● Aptitude
+● OOPS
+● DBMS
+| ●   | Operating |     | Systems and | Computer |     | Networks |     |     |
+| --- | --------- | --- | ----------- | -------- | --- | -------- | --- | --- |
+The Multiple choice questions focussed on the computer science fundamentals.I made use of
+the full allotted time given to complete the test. However, it is advised to complete the test as
+| quickly | as possible |     | to get shortlisted |     | for | the subsequent | rounds |     |
+| ------- | ----------- | --- | ------------------ | --- | --- | -------------- | ------ | --- |
+Tips
+● Think twice, code once : Understand the question thoroughly before starting to write
+code.
+● Ensure proper lighting and a quiet environment to minimize distractions since its an
+|     | online | AI proctored | test |     |     |     |     |     |
+| --- | ------ | ------------ | ---- | --- | --- | --- | --- | --- |
+● Complete the test within the given time and aim to work as efficiently as possible.
+● Focus on smart work by optimizing your approach and managing your time effectively.
+There were two roles offered by Oracle, one in the Infrastructure Sector and other in the finance
+domain. 22 students were shortlisted for the interview process for the finance sector domain and
+| I was one | of  | them. |     |     |     |     |     |     |
+| --------- | --- | ----- | --- | --- | --- | --- | --- | --- |
+No filtering was done based on CGPA throughout the whole process . However it does not work
+with all the companies and it is always required to have a decent CGPA.
+| Round | 1 - | Technical | Interview |     |     |     |     |     |
+| ----- | --- | --------- | --------- | --- | --- | --- | --- | --- |
+The interview lasted around 45 minutes. The interviewer on my panel introduced himself and
+then asked me to introduce myself. Based on my introduction, he started asking questions and
+| proceeded     | with | a few     | technical | questions.. |     |     |     |     |
+| ------------- | ---- | --------- | --------- | ----------- | --- | --- | --- | --- |
+| The following |      | questions | were      | asked       |     |     |     |     |
+● Simple coding questions like reverse a string,etc were asked. I was asked to write the
+code in the paper in C++ as well as in Java. The interviewer expected me to know Java.
+| ●   | Exception |           | Handling and   | its | types         | in Java |                    |     |
+| --- | --------- | --------- | -------------- | --- | ------------- | ------- | ------------------ | --- |
+| ●   | OOPS      | questions | - particularly |     | encapsulation |         | and its advantages |     |
+● Triggers
+● DBMS - given some scenario I was asked to write queries ( using DDL,DML commands)
+| ●   | Challenges |           | faced during | the | project | and how | I had handled | it  |
+| --- | ---------- | --------- | ------------ | --- | ------- | ------- | ------------- | --- |
+| ●   | General    | questions | regarding    |     | banking | and     | finance       |     |
+
+| Resume | and Project |     |     |     |
+| ------ | ----------- | --- | --- | --- |
+During the interview, I was asked to explain one of my projects in detail, followed by a few
+| questions | related to | it. |     |     |
+| --------- | ---------- | --- | --- | --- |
+The interviewer also thoroughly examined my resume, asking questions about various aspects,
+| including | my volunteering | activities | and achievements. |     |
+| --------- | --------------- | ---------- | ----------------- | --- |
+Tips
+● Technical knowledge is crucial, especially proficiency in Java and DBMS ( for Oracle)
+● While writing code, explain your thought process clearly. If you get stuck, don’t hesitate
+|     | to ask for hints. |     |     |     |
+| --- | ----------------- | --- | --- | --- |
+● Be prepared to handle unexpected questions, as they can arise at any time.
+● Communicate your thoughts clearly and confidently when answering questions.
+| Round | 2 - Technical | + HR Interview |     |     |
+| ----- | ------------- | -------------- | --- | --- |
+The interviewer began by asking me to introduce myself and then proceeded with questions
+based on my introduction.I was asked about the latest technologies and to explain my projects,
+| focusing | on my specific | contributions. |     |     |
+| -------- | -------------- | -------------- | --- | --- |
+● Technical Questions - Finding middle of the linked list, recursion based questions, etc
+| ●   | Questions on     | Java      |        |     |
+| --- | ---------------- | --------- | ------ | --- |
+| ●   | HR questions     |           |        |     |
+| ●   | Simple questions | on System | Design |     |
+The interview lasted for around 30 minutes. The interview went very well and I felt confident
+| about my | performance. |     |     |     |
+| -------- | ------------ | --- | --- | --- |
+Tips
+● Always try to articulate your thoughts properly before explaining your answer
+● Take control of the interview by guiding the conversation with your answers and
+explanations
+● In most of the interviews, subsequent questions often depend on your previous
+responses. So be honest and clear in whatever you tell the interviewer
+| ●   | Always try to | stay calm and | confident throughout | the process |
+| --- | ------------- | ------------- | -------------------- | ----------- |
+
+| Preparation Strategy |     |     |     |
+| -------------------- | --- | --- | --- |
+● Data structures and Algorithms play a very crucial role in most of the Online
+assessments and interviews. Choose one coding sheet or youtube channel to follow
+consistently, and prioritize solving quality questions over the quantity of problems.
+| Platforms: | Leetcode, | GFG, Hackerank, | Codeforces |
+| ---------- | --------- | --------------- | ---------- |
+Attend coding contests to find out your strengths and weaknesses. Revise a few
+| standard interview | problems | before the interview | rounds. |
+| ------------------ | -------- | -------------------- | ------- |
+● Have a strong command on the basic CS fundamentals. Prepare them when you find
+free time or semester holidays which will be very useful when you want to revise before
+the interview since you’ll have very little time once the placements start.
+Resume: Be honest and thorough with your resume. Be familiar with the details of each
+project, including the tech stack used, the reasons for choosing those technologies, and the
+| project’s purpose | and impact. |     |     |
+| ----------------- | ----------- | --- | --- |
+● Communicate Effectively - Clearly explain your thought process and project details
+| during | interviews. |     |     |
+| ------ | ----------- | --- | --- |
+● Stay prepared and calm and do not compare yourselves with others,
+● Rejections help you to grow better and gain a better understanding of the interview
+process
+Hope is a good thing, maybe the best of things, and no good thing ever dies
+| Vikhram S S            |     |     |     |
+| ---------------------- | --- | --- | --- |
+| Information Technology |     |     |     |
+Batch of 2025

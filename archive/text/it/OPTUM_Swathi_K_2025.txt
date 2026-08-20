@@ -1,0 +1,81 @@
+SWATHI K – INFORMATION TECHNOLOGY
+
+-TDPA FTE IN OPTUM
+
+**About the Company:**
+
+Optum, part of the UnitedHealth Group family of businesses, is a leading information and technology enabled health services company serving more than 132 million consumers, delivering the right care when and how it’s needed. We are dedicated to evolving health care so everyone can have the opportunity to live their healthiest life.
+
+**About the Role:**
+
+The Technology Development Program (TDP) at Optum is an entry point into the world of health technology, providing recent graduates the opportunity to gain hands-on experience in developing, implementing, and supporting advanced technological solutions that improve healthcare services. As a Software Engineering Associate within TDP, you’ll contribute to projects across multiple domains, including artificial intelligence, data analytics, and application development, all while supporting the modernization of healthcare.
+
+**Overview of the Process:**
+
+The overall process consists of
+
+* An online test
+* Technical Interview – in CUIC
+* HR Round – in CUIC
+
+**Online coding contest:**
+
+* Solved a problem to find the largest square of true values in a 2D boolean matrix that appears at least twice, using dynamic programming to calculate square sizes and count occurrences efficiently.
+* Encountered questions on various programming topics:
+  + **OOPS:** Inheritance, Polymorphism.
+  + **Java:** Exception handling.
+  + **SQL:** Writing queries to filter data.
+  + **Artificial Intelligence:** Approaches such as Machine Learning, Knowledge Representation, and Searching.
+
+Overall, the test covered a wide range of technical concepts, requiring both problem-solving skills and theoretical knowledge.
+
+**HR :**
+
+The HR interview started with a casual introduction. It was around 15–20 minutes, covering the basics and my interest in Optum.
+
+* **Tell me about yourself**
+* **What do you know about Optum?**
+* **Project discussion:** She asked me to describe one project in detail—covering the problem statement, what it does, and challenges I faced. She wanted it to be clear and concise.
+* **Relocation:** Am I open to relocation?
+* **Why Optum:** Why do I think Optum is a good fit for me?
+
+My interview started with HR, followed by the Technical round, while others had it in reverse. She seemed satisfied with my responses, and I was selected for the next interview round.
+
+**Interview (Technical):**
+
+Duration: ~ 1 hour 45 mins
+
+1. **Introduction** and resume review.
+2. **DSA Questions:**
+   * Asked about my DSA learning and practice experience.
+   * Given a question on a right-rotated sorted array to find the rotation count:
+   * Suggested brute-force solution (O(n)), then optimized to O(log n) with hints provided.
+3. **Project Discussion:**
+   * Discussed two projects (one Full Stack, one Python based):
+   * Explained which were collaborative vs. solo.
+   * He asked for a deeper understanding of how the code works internally.
+   * Questions on collaboration, time management, and project deployment.
+   * Asked why I hadn’t deployed the project for public use if it’s for people’s benefit.
+4. **Technical Concepts:**
+   * ReactJS: Why it evolved beyond HTML, JS, CSS—focused on Virtual DOM.
+   * DBMS Normalization: When to use normalized vs. denormalized tables and the reasons.
+5. **Wrap-Up:**
+
+He shared insights on IT life—advice on adapting, managing workload, and what freshers can expect in the work environment.
+
+**Tips and Tricks:**
+
+* Focus on DSA: Know both brute-force and optimal solutions.
+* Cover a range of topics: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, DP (even a week of prep can help!).
+* Master core theory: OOP, DBMS, SQL, OS, CN.
+* Stay calm: Answer confidently, keep a subtle smile.
+* It’s okay to miss a question or two—stay positive!
+
+**Preparation Journey:**
+
+* I consistently prepared during my 6th-semester holidays.
+* I realized that it’s not about how long you prepare, but rather covering all necessary topics and practicing effectively.
+* For resources, I used ACM CODE documents and researched past experiences of candidates who interviewed at specific companies. This helped me gauge test difficulty and expectations.
+* While rejections impacted my confidence, I learned to bounce back and developed a more relaxed attitude after attending multiple interviews, which helped me cope with failures.
+* I acknowledge that the placement season is challenging, with continuous assessments alongside academics and FYP. It was tough to manage everything until I figured out a balance.
+* Whenever I felt overwhelmed, I shared my feelings with friends and family, which relieved some stress. Keeping it all bottled up only adds to the burden.

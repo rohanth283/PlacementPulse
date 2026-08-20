@@ -1,0 +1,185 @@
+APTIV Placement Experience
+
+                                                    Kaviya G (2022115106)
+
+About the Company – Aptiv
+
+Aptiv is a global technology company focused on making vehicles safer, greener,
+and more connected. It operates primarily in the automotive and mobility domain,
+developing advanced solutions for modern and future vehicles.
+
+Aptiv operates across two major business segments:
+
+  Advanced Safety and User Experience: Advanced Driver Assistance Systems
+
+(ADAS), autonomous driving support, and in-vehicle infotainment and
+connectivity solutions.
+
+  Smart Vehicle Architecture and Electrical Systems: wiring systems, high-
+
+voltage and low-voltage architectures, and vehicle connectivity platforms.
+
+The company plays a key role in enabling next-generation, software-defined vehicles
+by combining software, hardware, and data-driven technologies. Aptiv works closely
+with leading OEMs (Original Equipment Manufacturers) worldwide to design
+scalable, reliable, and future-ready vehicle platforms.
+
+Aptiv has a strong global presence, operating in nearly 50 countries with
+manufacturing and engineering centers across North America, Europe, Asia, and
+South America, including India. The company employs around 190,000 professionals
+globally, with a significant focus on engineering, innovation, and research.
+
+Preparation Strategy for Aptiv
+
+Coding:
+• Focus on basic coding questions rather than very complex problems. Practice
+consistently on platforms like LeetCode and HackerRank. Prepare bit manipulation
+topics.
+
+Core CS Fundamentals:
+• Have a strong conceptual understanding of OS, OOPS, DBMS, and CN.
+Interviewers mainly test concept clarity, not definitions.
+
+Resume:
+• Keep the resume simple, honest, and relevant to the role.
+• Be prepared to explain everything mentioned in the resume, especially projects.
+
+Round 1: Online Coding Assessment (1 hour 30 minutes)
+
+The first round was an online coding assessment conducted on the test platform.
+
+Assessment Pattern
+
+  20 Multiple Choice Questions (MCQs)
+
+  1 Coding Question
+
+The MCQs mainly tested core programming fundamentals, including:
+
+  C / C++ basics
+
+  Data structures
+
+  Logical reasoning
+
+  Basic problem-solving concepts
+
+Coding Question
+
+  The score of an array is defined as the number of elements whose value is
+
+equal to their 1-based index.
+
+  Given an array of integers, we are allowed to delete any element any number
+of times (as long as the array length is greater than 1), without changing the
+order of remaining elements.
+
+  The goal was to determine the maximum possible score that can be achieved
+
+after performing optimal deletions.
+
+Round 2: Technical Interview (30–40 minutes)
+
+The interviewer began by giving a brief self-introduction and asked me to introduce
+myself as well. He asked about my favorite programming language, to which I replied
+C++. Then, he started asking questions related to C programming concepts.
+
+The questions covered (as far as i remember)
+
+  Storage classes in C
+  Pointer-related concepts
+
+He then asked me to rate my coding skills out of 5, followed by a few coding
+questions.
+
+After that, I was asked to explain my projects in detail. The interviewer patiently
+listened to my explanations and waited until I completed each answer without
+
+interrupting. Toward the end, I was given time to ask my questions, and the round
+concluded smoothly.
+
+Round 3: Techno-Managerial Interview (60 minutes)
+
+The interviewer introduced himself and mentioned that he has 18 years of industry
+experience. I then gave my self-introduction.
+
+He asked me to show proof of my project work, such as a project video or report. I
+shared my GitHub account and showed the video demo, report of my project
+available there.
+
+Most of the discussion revolved around my projects He presented a problem
+statement and asked how I would approach it. The interview was very interactive, he
+kept asking “what if” scenarios and followed up on my answers to understand my
+thinking process and decision-making ability.
+
+He also asked a logical puzzle:
+
+There are 3 switches on the ground floor and 1 bulb on the first floor. How will you
+identify which switch controls the bulb in just one attempt?
+
+Later, he asked:
+
+  What I know about Aptiv
+
+I answered his question, also mentioned the previous interviewer’s role, his role, and
+explained how my projects align with this role. He asked about my location
+preferences as well.
+
+The interview was very engaging and conversational. He listened attentively,
+appreciated my answers, and even praised my approach. I asked a few questions at
+the end, and the round concluded on a positive note.
+
+Round 4: HR Interview (20–30 minutes)
+
+The HR interview was conducted by a Senior HR. This round was non-technical.
+After introductions, the questions were mostly based on my responses.
+
+The HR asked about:
+
+  My family background
+  What I look for when choosing a problem statement
+  How I approach and solve problems
+  What are the two skills you would develop before joining Aptiv, and why?
+
+Although the interviewer maintained a serious expression, I answered confidently
+and with a smile. At last, she asked about my location preference.
+
+The final results were announced after one week.
+
+Preparation Resources
+
+DSA:
+LeetCode Top 150 Questions (Easy and Medium) and Striver’s SDE Sheet for
+building strong problem-solving skills and coding fundamentals.
+
+SQL:
+LeetCode Top 50 SQL Questions to practice queries and understand database
+concepts.
+
+Core Subjects:
+Platforms like InterviewBit and GeeksforGeeks to prepare OOPS,OS,DBMS,CN, with
+a focus on concept clarity.
+
+Be confident in whatever you are answering, relate your projects to the company and
+the role, and be honest throughout the interview. Make sure you are aware of and
+can confidently explain every word mentioned in your resume, as most questions will
+be based on your answers and the content of your resume.
+
+If you do not get selected, it does not mean you didn’t work hard or give your best.
+Focus on doing your duty by attending the placement process confidently and
+sincerely, without being attached to the result.
+
+“கடமைமை செை் , பலமை எதிர்பாராதே”
+
+Contact Info:
+
+Name : KAVIYA G
+
+Register Number : 2022115106
+
+Phone : 6380542988
+
+Mail: Kaviya080904@gmail.com
+
+Linkedin: www.linkedin.com/in/kaviya-g-110a4a298
+

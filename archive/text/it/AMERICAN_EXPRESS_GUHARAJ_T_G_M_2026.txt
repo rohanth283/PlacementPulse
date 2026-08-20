@@ -1,0 +1,221 @@
+Summer Internship Interview Experience – American Express
+
+ Guharaj T G M
+
+2023115093
+
+About The Company
+
+American Express (Amex) is an American bank holding company and a global financial
+services corporation specializing in payment cards. It leverages advanced data
+analytics, cloud infrastructure, secure APIs, and machine learning to deliver
+personalized experiences. A hybrid cloud environment ensures secure, seamless, and
+efficient operations. Amex invests heavily in fraud prevention, regulatory compliance,
+and customer engagement, making it a leader in the digital finance space.
+
+Position: Technology Intern/Apprentice
+No. of Applicants: 472
+Students Selected for Interview: 16
+Students Selected for Internship: 4
+
+Out of 472 students who applied for the internship at American Express, only 16 were
+shortlisted based on their performance in an Online Coding Round. I was fortunate to
+be one among them. The interview process then comprised two rounds – a Technical
+Round and an HR Round, both conducted online.
+
+Online Coding Round
+
+1.  Largest Subarray Sum with Equal Ends – You are given an array of positive
+
+integers. Find a subarray (at least 2 elements) where the first and last elements
+are the same. Among all such subarrays, return the maximum possible sum.
+
+2.  Trash Collection Time – There are N houses on a street, each storing bags of
+
+trash: Plastic (P), Glass (G), and Metal (M). Three trucks (one per trash type) start
+from the beginning, collect their respective bags, and return. Travel between
+houses takes given times, and loading each bag takes 1 minute. Find the
+minimum time needed until all trucks finish.
+
+3.  Assassin Sneak on Guarded Board – You have an N×M board. Each cell may be:
+empty ., obstacle X, a guard facing <, >, ^, or v (seeing straight until blocked), or
+an assassin A. The assassin can move up, down, left, or right on empty cells.
+Determine if the assassin can reach the bottom-right cell without being seen by
+any guard.
+
+Technical Round
+
+The technical interview began with my self-introduction. The session mainly focused on
+Object-Oriented Programming (OOP) concepts and Data Structures & Algorithms (DSA).
+
+Key Technical Questions Asked:
+
+•  What is a constructor and destructor?
+
+•  What is the use of the scope resolution operator?
+
+•  What is the use of the this operator?
+
+•  Explain the diamond problem. How is it overcome in Java and C++?
+
+•  What is the volatile keyword?
+
+•  Difference between malloc and new.
+
+•  What does malloc return?
+
+•  Use of the delete keyword.
+
+•  Types of inheritance.
+
+•  Operators that cannot be overloaded.
+
+•  Types of constructors. What is a copy constructor?
+
+•  Types of polymorphism.
+
+•  Static vs. Dynamic binding.
+
+•  Use of static keyword.
+
+•  Call by value vs. Call by reference.
+
+•  What is a friend class and friend function?
+
+•  Function overloading vs. Operator overloading.
+
+•  What is an abstract class?
+
+•  What is a virtual function? Difference between virtual and pure virtual function.
+
+•  Can we instantiate an abstract class?
+
+•  Can destructors be overloaded?
+
+•  What are access modifiers?
+
+Coding Questions:
+
+1.  Array Problem: Given an array, return another array where each index contains
+
+the count of elements lesser than the element at that index.
+
+2.  String Problem: Find the first non-repeating character in a string.
+
+I was asked to write the solutions in Notepad and share my screen.
+
+Outcome: Out of 16 candidates, 10 were shortlisted for the HR round, including myself.
+
+HR Round
+
+The HR round was conducted by a Director of Software Development at American
+Express. The environment was friendly, and the questions were mostly resume-based
+and situational.
+
+Key HR Questions:
+
+•  Explanation of my Machine Learning project (Hate Speech Detection) and
+
+justification for the chosen model.
+
+•  Why I used Bootstrap in my e-commerce frontend project and how I made the
+
+website responsive.
+
+•  Questions related to my awards and justification of soft skills like leadership,
+
+time management, and team management.
+
+Situational Questions:
+
+1.  If you are on the way to catch a flight for an interview, but due to traffic, you can
+
+either break rules and reach on time or miss the flight, what will you do?
+
+2.  In a team project, if there is a conflict where two innovative solutions are
+presented, both equally good, which solution will you choose and why?
+
+Personal Questions:
+
+•  Asked about my 12th-grade scores and whether I regretted losing marks.
+
+•  Resume-oriented discussions on achievements, skills, and experiences.
+
+Candidate’s Question to HR:
+I asked, “What skills should I develop to cope with the AMEX environment and
+contribute effectively to the team?”
+
+The HR responded:
+“What I’m about to say isn’t just for AMEX—it applies to every company. Always question
+everything. If you are asked to do a task, first ask why it is needed. Questioning is not a
+sign of doubt, it’s a sign of clarity and ownership. This mindset is essential anywhere you
+work.”
+
+Outcome: Out of 10 candidates, only 4 were selected for the internship. I was privileged
+to be among them.
+
+The internship interview at American Express was a highly valuable experience that
+tested both my technical knowledge (OOPs, DSA, Coding) and personal attributes
+(decision-making, teamwork, adaptability, and communication skills). Being selected
+among 4 out of 472 applicants was an achievement that boosted my confidence and
+reinforced my passion for learning and contributing to challenging environments.
+
+Tips for Students
+
+I started my internship preparation during my 4th semester holidays, but I strongly
+recommend you to start right from the 4th semester itself. Early preparation helps you
+build consistency and reduces stress later.
+
+Here are some key takeaways from my experience that might help future aspirants:
+
+1.  Strengthen Your Fundamentals – OOP, DSA, DBMS, and core programming
+concepts are always tested. Don’t just memorize; understand them deeply.
+
+2.  Follow a Structured Plan + Practice Consistently – I used Striver’s A–Z DSA
+
+Sheet for a systematic approach and solved problems regularly on LeetCode to
+get hands-on practice.
+
+3.  Solve at Least One Problem Daily – Consistency matters. Even one problem
+
+every day improves your problem-solving skills over time.
+
+4.  Be Comfortable Explaining Your Code – Interviews often involve live coding.
+
+Practice explaining your thought process while solving problems.
+
+5.  Know Your Resume Inside-Out – Projects, skills, and achievements you
+mention will definitely be asked. Be prepared to justify your choices.
+
+6.  Prepare for Project-Related Questions – Even if you did the project yourself,
+you should be ready to answer any question about it. Anticipate questions and
+prepare in advance.
+
+7.  Work on Soft Skills – Communication, teamwork, and decision-making are
+
+equally important in HR rounds.
+
+8.  Prepare for Situational Questions – Think logically and ethically when
+
+answering real-life scenarios.
+
+9.  Ask Good Questions – Show curiosity about the company’s work culture and
+
+values. It leaves a strong impression.
+
+10. Stay Calm and Confident – Even if you don’t know an answer, explain your
+
+approach. Confidence matters as much as correctness.
+
+11. Learn to Question – As the HR said, questioning isn’t negativity; it’s about clarity,
+
+ownership, and professional growth.
+
+12. Take Every Interview as a Learning Opportunity – Whether selected or not,
+
+each experience adds value to your journey.
+
+Feel free to reach out anytime on LinkedIn :)
+
+Guharaj Muralitharan
+

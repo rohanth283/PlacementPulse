@@ -1,0 +1,136 @@
+MAHIMA S:  INFORMATION TECHNOLOGY (2025)
+
+      ENGINEER TRAINEE IN AMERICAN EXPRESS
+
+About the Company:
+
+The American Express Company, or Amex, is an American bank holding company and multinational
+financial services corporation specializing in payment cards. They leverage advanced data analytics,
+cloud infrastructure, secure APIs, machine learning, and a hybrid cloud environment to provide a
+seamless, secure, and personalized experience for users. The company’s technological investments
+support not only transaction processing but also fraud prevention, regulatory compliance, and
+customer engagement, making it a leader in the digital finance space.
+
+About the role:
+
+The Engineer Trainee role at American Express involves developing scalable, mission-critical
+applications on cloud platforms using languages such as Java, Python, and JavaScript. The work spans
+various tech domains, including real-time transaction processing, big data, AI/ML, and omnichannel
+solutions for mobile and social integrations. The role includes collaborating with skilled engineers on
+design, coding, and Software Development Life Cycle (SDLC) tasks. It also fosters a culture of
+innovation, continuous learning, and experimentation with cutting-edge technologies.
+
+Overview of the process:
+
+•  Coding test (Online)
+
+•  Technical Interview (Online)
+
+•  HR Interview (Online)
+
+Online coding test:
+
+The coding test was conducted on the Codility platform. It included three coding questions, focused
+on String manipulation, Greedy approach and Graph. Only three test cases were visible, while the
+rest were hidden. Scores were based on the number of hidden test cases that passed, so it was
+essential to handle all edge cases correctly for successful completion.
+
+Interview Round I:
+Duration: 1 hour 15 mins
+Platform: Webex
+Panel: 2 interviewers
+
+The interview was mainly project and tech-stack focused.
+
+•
+
+•
+
+I was asked to explain my projects in detail, along with the technologies used.
+
+Since I had mentioned Honours, they asked a few questions related to that area.
+
+•  Questions on recursion and different sorting techniques were included.
+
+•  They asked about DBMS concepts, with a particular focus on SQL queries and indexing.
+
+•  My AI/DL project was discussed in depth—especially the workflow and the BiLSTM model I
+
+had implemented.
+
+•
+
+Some non-technical questions were also asked, such as “Where do you see yourself in the
+future?” and even “Do you see yourself in our position someday?”
+
+•  The round ended with “Do you have any questions for us?”
+
+Interview Round II:
+Duration: 45 mins
+Platform: Webex
+Panel: 1 interviewer
+
+This round was a mix of technical and aptitude.
+
+•
+
+Started with “Tell me about yourself”.
+
+•  A coding problem on strings was given, and I was asked to share my screen and run the
+
+code.
+
+•  An aptitude question on ratio and proportion followed.
+
+•  Project-related questions, along with concepts from Keras and TensorFlow, were discussed.
+
+•
+
+I was also asked about React Native components and DBMS normalization.
+
+•  Behavioral and HR-type questions included “Why Amex?” and “Where do you see yourself in
+
+the future?”
+
+•
+
+Finally, the interviewer asked if I had any questions for them.
+
+Tricks I Followed:
+
+•  Went through interview experiences from GFG and other websites.
+
+•
+
+I brushed up on DSA, DBMS, SQL, OOPS, System Design and OS.
+
+•  Prepared both project explanations and common HR answers .
+
+•  Tailored my self-introduction as per the job description.
+
+•  Had a few questions ready for the interviewer to show genuine interest in the role.
+
+Preparation Strategy
+
+•
+
+•
+
+•
+
+For DSA, I followed the Striver DSA Sheet to revise important coding problems.
+
+For DBMS, I practiced from InterviewBit, GeeksforGeeks (GFG), and TakeUForward.
+
+For OS, I revised key concepts from GFG.
+
+•
+
+For OOPs, I focused on core concepts and implementations.
+
+•  The CUIC training sessions helped me strengthen my aptitude preparation.
+
+•  Be Confident in What you mention in your Resume. Be Fair and Stay Positive. Also Study
+
+System Design concepts.
+

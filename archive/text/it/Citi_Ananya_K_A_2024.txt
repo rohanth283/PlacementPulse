@@ -1,0 +1,119 @@
+INTERNSHIP EXPERIENCE
+ANANYA K A
+Dept. of IST
+
+Company Name : Citi
+Role: EO&T Intern
+
+About Citi and the Role:
+
+Citi Solutions Center (CSC) is a global hub for innovation and operations within Citigroup,
+providing comprehensive solutions and support across various functions like technology,
+operations, finance, and risk management. They contribute to the bank's ability to deliver
+seamless financial services, supporting Citi's mission to be a trusted partner to its clients
+globally.
+
+Enterprise Operations and Technology (EO&T) within Citi Solutions Center (CSC) is the backbone
+of Citigroup's global operations, responsible for delivering essential technology and operational
+services that support the bank's vast network. EO&T at CSC focuses on developing and
+maintaining the infrastructure that powers Citi's banking services, ensuring security, scalability,
+and efficiency. This includes everything from managing data centers, cybersecurity, and cloud
+computing to optimizing financial transactions and risk management systems. By leveraging
+advanced technologies and global talent, EO&T within CSC ensures that Citi can operate
+smoothly,
+innovate continuously, and provide reliable, high-quality services to clients
+worldwide.
+
+Overview of the Hiring Process:
+
+There were a total of 3 rounds of interviews which happened in CUIC and a coding test that took
+place in the SHL platform.
+
+There were a total of 3 roles offered to us from which we had to choose any one of our choice
+before the coding test. The tests were curated specific to the roles so make sure you thoroughly
+read the docs the company provides before opting for the role.
+
+Online Coding Test
+
+The online coding round was conducted in the SHL platform and had multiple sections,precisely
+3. There was a time duration of 2 hours to complete the test.
+
+First Section: This was a purely aptitude-based section where speed was the key. The questions
+were MCQs and were of easy level but needed to be solved faster in order to gain an edge. Try
+to go for option elimination here instead of going for the hard way of finding every answer as
+that saves a lot of time.
+
+Second Section: This was also a MCQ-based section where all the questions were tech-themed.
+The main topics covered here were DSA, OS and DBMS. Just get your foundations thorough on
+these topics and you’re done. Again, speed plays a major role here too, so find your own
+strategies to get to the answer fast and look at various types of problems in your freetime.
+
+Coding Section: This was of easy-medium level and there was ample time to solve the 2
+questions given to us. But here’s a catch too..since the questions were of easy-medium level,
+optimizing them could gain you extra points and yeah,the time matters too. So, I gave the best
+approaches to solve the problems and was done with the test before time. Sometimes, we tend
+to ignore the edge cases in order to finish fast, so ensure that all edge cases are covered while
+thinking of a feasible solution.
+
+14 of us were shortlisted for the interview process that happened at CUIC.
+
+Interview Process
+
+Round 1 - Technical Round: This round consisted of questions mostly from the Resume and
+other general questions such as hobbies, projects, co-curriculars, motive behind the projects,
+social relevance of the projects and some language and tech-stack-specific questions that were
+used in the project. In this round,they mostly check for the validity of your Resume and the
+experiences that you state ,so be very truthful about them. Also,make sure that you talk in
+detail about all the projects or internships that you have done to a point where they can
+visualize what your projects are about or their motto is. Try to have meaningful projects in your
+resume in order to rule this round. Remember one thing, the interviewers want to help you, so
+when they ask you any question, try to bring out your approach completely, just start off with it
+and you will progress as you delve further and further into it! The first question for every round
+is ‘Introduce yourself’ and the last question is ‘Any questions for us’. Try to keep a clear idea of
+the answers for these questions beforehand.
+
+Round 2 - Technical Round:
+This round was a purely technical round where I was asked to
+write code for a couple of questions of medium to hard level in the language of my choice.
+Questions on projects were also asked from the Resume and this time it was much more in
+detail, questioning the validity and functioning of the projects. Whenever they ask coding
+questions, make sure you explain your approach in detail to them before writing and then start.
+
+And always start with the brute-force approach and code your way to optimization. Toward the
+end of this round, I was also asked a puzzle which involved aptitude and math that tested my
+presence of mind.Focus on the logic to solve any problem and clearly define your approaches.
+
+Round 3 - HR Round:
+This round is the no-code round where your communication-skills,
+teamwork, collaboration and conflict-resolution skills are tested. The HR asked me about my
+projects here, but from a soft-skills perspective. All your knowledge about the company and role
+is tested here.
+
+A total of 4 of us were selected for the EO&T role .
+
+General tips from my side:
+
+Always keep your basics strong and keep revising them on a regular basis.
+Read the complete role description thoroughly before applying for any company.
+Ensure that you provide an optimized approach to your code and do it quickly.
+Try to cover all edge cases that are possible for the given scenario as they eliminate the
+issue of partial test cases getting done.
+Pay attention to the PPT closely as they give you tons of points to talk about in the HR
+round.
+Complete the online test as soon as you can and don’t stare at the screen simply.
+Before going for any interview, try texting the people working there or past people who
+have worked there or people who have gone through the hiring process through
+LinkedIn in order to get a complete picture of the process and what you can expect.
+Try to focus on basics such as OOPS concepts, DBMS , DSA and OS , which means not
+only the code but also the concepts involved behind that code.
+Have 2 strong languages and keep the others as a standby. You don’t need to know many
+languages,the depth of your understanding matters.
+Never underestimate any question, it may sound simple but there is always a catch
+attached to it.
+Try looking for the company archives in geeksforgeeks etc before your interview.
+Striver’s DSA datasheet and ACM’s CODE are good resources that can be used for
+end-to-end preparation for all coding tests.
+
+If you have any more queries, feel free to reach out
+LinkedIn : https://www.linkedin.com/in/ananya-k-a-735742232/
+

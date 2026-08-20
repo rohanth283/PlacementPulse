@@ -1,0 +1,59 @@
+Interview Experience
+
+Name : Harinarayanan K S
+
+Reg. No : 2018115034
+
+Company : Searce
+
+Month & Year : SEP 2021
+
+Round 1 : (Online Test)
+
+It contains general aptitude questions. 45 questions had to be solved in
+one hour.
+
+Around 90 students were selected for the next round.
+
+Note: The number of rounds varied from person to person.
+
+Round 2: (Technical round)
+
+This was a technical round where I was asked the following questions
+
+- Real world applications of trees, graphs, linked lists, queue and
+
+stacks.
+
+- Different software development lifecycles
+- Purpose of cloud based applications with example
+
+Round 3 : (Technical round)
+
+I was asked to introduce myself, and then I started talking about my
+projects, and there were some project related questions asked. This
+went on for about 10-15 minutes. Then I was asked this puzzle
+https://en.wikipedia.org/wiki/Water_pouring_puzzle#Standard_example
+
+Round 4: (HR)
+
+This round also started similar to the previous rounds with introduction
+and projects. I was then asked about the tech stacks that I am familiar
+with and why I chose software engineer role.
+
+Next I was asked if I had to decide a venue for a cricket match to be held
+and the proﬁt had to be maximized, which venue would I choose and
+why? My answer to this was it would depend on who is playing the
+match. For example, if Dhoni is playing it would make sense to host the
+match at Chennai. The interviewer was satisﬁed with the response.
+
+Round 5: (HR)
+
+Again I was asked to introduce myself and talk about my projects and
+just basic HR questions like why Searce, and preferred location. Finally, I
+was told that I was selected by the HR itself.
+
+All the rounds were of about 15-20 minutes.
+
+ALL THE BEST!
+

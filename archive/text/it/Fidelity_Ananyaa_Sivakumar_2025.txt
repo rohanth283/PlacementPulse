@@ -1,0 +1,60 @@
+|           | INTERN  | DRIVE | EXPERIENCE |         | - FIDELITY | INVESTMENTS |
+| --------- | ------- | ----- | ---------- | ------- | ---------- | ----------- |
+|           |         |       |            | ANANYAA | SIVAKUMAR  |             |
+| About the | Company |       |            |         |            |             |
+Fidelity Investments is a prominent multinational financial services corporation
+founded in 1946 and headquartered in Boston, Massachusetts. Renowned as
+one of the largest asset management firms in the world, Fidelity provides a
+comprehensive range of services, including investment management, retirement
+planning, wealth management, brokerage, and financial advisory services.
+| Overview | of the       | Process   |            |           |      |     |
+| -------- | ------------ | --------- | ---------- | --------- | ---- | --- |
+| ● Round  | 1: Online    |           | Assessment |           |      |     |
+| ● Round  | 2: Technical |           | Interview  | – at      | CUIC |     |
+| ● Round  | 3: HR        | Interview |            | – at CUIC |      |     |
+| Online   | Assessment   |           |            |           |      |     |
+The assessment consisted of four sections on English Proficiency, Technical,
+| Coding | and Algorithm. |     |     |     |     |     |
+| ------ | -------------- | --- | --- | --- | --- | --- |
+Section 1: Contained questions that assessed reading comprehension, sentence
+| arrangement, | synonyms, |     | and | other related | skills. |     |
+| ------------ | --------- | --- | --- | ------------- | ------- | --- |
+Section 2: Technical multiple-choice questions covering a range of topics such
+as Computer Networks, Operating Systems, Object-Oriented Programming, C++,
+| Recursion, | and Data | Structures |     | & Algorithms. |     |     |
+| ---------- | -------- | ---------- | --- | ------------- | --- | --- |
+Section 3: This section had 2 coding questions; primarily focused on logic and
+manipulation of Arrays and Strings, testing candidates' coding skills.
+Section 4: We were required to write two algorithms, one of which involved
+finding a subsequence for a given string of bits. Pseudocode was also
+| acceptable  | for this   | task.       |     |                 |            |     |
+| ----------- | ---------- | ----------- | --- | --------------- | ---------- | --- |
+| 54 students | were       | shortlisted |     | for the offline | interview. |     |
+| Technical   | Interview: |             |     |                 |            |     |
+The interview panels were assigned randomly, and this round lasted
+approximately 30 to 40 minutes. I was asked to introduce myself, after which I
+
+was questioned about the projects I had listed on my resume. The interviewer
+inquired about various technical aspects of these projects. Additionally, I was
+asked to write several SQL queries and a function based on manipulation of
+strings.
+| 25-30 | students |     | were shortlisted |     | for | the HR round. |     |
+| ----- | -------- | --- | ---------------- | --- | --- | ------------- | --- |
+HR Interview:
+This round aimed to evaluate my interpersonal skills and overall suitability for the
+organization. During this round, the interviewer focused on understanding how I
+| interact | and      | communicate |         | effectively. |             |     |     |
+| -------- | -------- | ----------- | ------- | ------------ | ----------- | --- | --- |
+| 12       | students | were        | offered | the          | internship. |     |     |
+| Tips     | and      | Tricks:     |         |              |             |     |     |
+● If you’re not sure with an answer or an entire language syntax itself, just
+|     | say    | so and   | give | an appropriate |           | alternative | for it. |
+| --- | ------ | -------- | ---- | -------------- | --------- | ----------- | ------- |
+|     | ● Keep | yourself | calm | and            | composed. |             |         |
+● Have a constant brush up of core topics like DBMS, OS, DSA.
+● Research the company thoroughly and present your ideas in such a way
+|     | that | it aligns | with | the company’s |     | motive |     |
+| --- | ---- | --------- | ---- | ------------- | --- | ------ | --- |
+● Reach out to seniors who have prior experience with the interview process
+|     | at  | the company. |     |     |     |     |     |
+| --- | --- | ------------ | --- | --- | --- | --- | --- |

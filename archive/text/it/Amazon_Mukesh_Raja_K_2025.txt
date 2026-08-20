@@ -1,0 +1,39 @@
+**AMAZON PLACEMENT PROCESS**
+
+**ABOUT THE COMPANY:**
+
+Amazon is a multinational technology and e-commerce company founded by Jeff Bezos on July 5, 1994. Initially launched as an online bookstore, Amazon has grown into one of the largest global retailers, offering a wide range of products including electronics, apparel, home goods, and digital content. In addition to its retail operations, Amazon is a leader in cloud computing through Amazon Web Services (AWS), which provides cloud-based solutions to businesses worldwide. The company is also known for innovations like the Kindle e-reader, Echo smart speakers, and its popular subscription service, Amazon Prime.
+
+**ABOUT THE ROLE:**
+
+The Software Development Engineer (SDE) role at Amazon is a highly technical position focused on designing, developing, and maintaining software systems that can scale to meet Amazon's massive customer demands. SDEs work on solving complex problems in areas like distributed systems, cloud computing, optimization, and machine learning. They collaborate closely with cross-functional teams, including product managers, designers, and other engineers, to build innovative, customer-centric solutions. SDEs are responsible for writing high-quality, efficient code, improving system architecture, and ensuring scalability and reliability of services. The role demands strong problem-solving skills, a deep understanding of data structures, algorithms, and system design, and proficiency in programming languages like Java, C++, or Python.
+
+**OVERVIEW OF THE PROCESS:**
+
+The Placement Process for Amazon India consists of the following stages:
+
+1.**Online Test:** Conducted on the Hackerrank platform and lasts for 70 minutes. It consists of two coding questions:
+
+1. **TwoSum Divisible by a Number**: Given an array and a number, you are required to return the count of two-sum pairs that are divisible by the given number. This problem tests your understanding of hash maps and efficient counting techniques. The **difficulty level** is **medium.**
+2. **Regex Intersection**: You are given an array of regex patterns consisting of lowercase English letters and wildcard characters ('?'). Two patterns are said to intersect if the wildcard characters can be replaced to form the same string from both patterns. You are tasked with finding the minimum number of '?' characters in a pattern that intersects with all patterns. The **difficulty level** for this problem is **medium**, as it involves complex string manipulation and optimization with time complexity constraints (1 ≤ m\*n ≤ 1e5).
+
+The test also includes a **behavioural round**. If you perform well in this round, even if you do not fully solve the coding problems, you still have a chance of being shortlisted, as Amazon emphasizes leadership principles and customer-centric problem-solving.
+
+Out of 1100 participants, 85 participants were shortlisted for interview round.
+
+**INTERVIEW ROUND 1:**
+
+After starting with an introduction where the interviewer asked me to explain my project, then the interviewer moved on to coding challenges. The problems were:
+
+1. **Find the Maximum Element in Each Subarray of Size K**: You are given an array, and the task is to find the maximum element in every continuous subarray of size K. For example, given [1,2,3,4,5] with K=3, the result would be [3, 4, 5]. Initially, a brute force solution can be presented, followed by an optimized solution using a deque (double-ended queue) to maintain the window of maximums efficiently. The **difficulty level** is **medium**.
+2. **Cycle Detection in a Linked List**: The problem involves detecting if there is a cycle in a linked list. The optimal approach is to use Floyd’s Tortoise and Hare algorithm, which uses two pointers to detect cycles efficiently. The **difficulty level** is **medium**.
+
+The interviewer also pays attention to your problem-solving approach, communication, and thought process during the interview.
+
+**MUST DO IN CODING INTERVIEW:**
+
+* **Understand the Problem**: Clarify the problem statement and ensure you fully grasp the requirements before starting. Ask questions to resolve any ambiguities.
+* **Plan Your Approach:** Outline a clear strategy and discuss it with the interviewer. Explain your choice of algorithms and data structures before coding.
+* **Write Clean, Efficient Code:** Write organized, readable code with meaningful variable names. Aim for optimal solutions in terms of time and space complexity.
+* **Test Your Solution:** Validate your code with different test cases, including edge cases, to ensure correctness. Be thorough in checking for potential errors.
+* **Communicate Clearly:** Verbally walk through your thought process and code. Explain your reasoning and be open to feedback, showing your problem-solving skills and adaptability.

@@ -1,0 +1,33 @@
+Interview Experience
+Name:SelshiaTeresa
+RegNo.:2018115099
+Company:WellsFargo
+Monthandyear:Sept2020(Internship)
+Round1:(OnlineTest)
+| Aptitudequestions(logicalandbanking |     | related)-15 |
+| ----------------------------------- | --- | ----------- |
+Codingquestions-2
+Round2:(TechnicalInterview)
+Explainaboutaspecificproject.(Onseeingresume)
+Howaretransactionsmadesecure?
+| HowareACID | propertiesimplemented | inadatabase?(MySQL) |
+| ---------- | --------------------- | ------------------- |
+Whatisthestateofasystemwhen2operationsattempttooccuratthesametime?(race
+condition)andhoware theyhandled?
+Round3:(TechnicalcumManagerialInterview)
+Explainaboutaspecificproject.(Onseeingresume)
+| Whatare thetypes                        | ofdatastructures?         |                 |
+| --------------------------------------- | ------------------------- | --------------- |
+| Explainspecificuse-casesfortreeandarray |                           | datastructures? |
+| Whatare theunique                       | featuresofNoSQL?(MongoDB) |                 |
+Talkaboutanytechnologyofinterest.(Blockchain)
+| Whatwas thehardest | situationyoufaced? |     |
+| ------------------ | ------------------ | --- |
+Round4:(HRInterview)
+| Whatare theunique | featuresofNodeJS? |     |
+| ----------------- | ----------------- | --- |
+Whichpartofthe applicationareyou interestedinwhileworkingasateam?(UI/front-end
+orServer-side/back-end)
+| Whatare youhobbiesandtechnicalinterests? |     |     |
+| ---------------------------------------- | --- | --- |
+WhywouldyouliketojoinWellsFargo?

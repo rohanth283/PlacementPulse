@@ -1,0 +1,79 @@
+Internship Experience at Fidelity Investments
+
+                                                                                                              -By Vishnu Priya K (IT)
+
+About the Company:
+
+Fidelity is one of the leading financial investment companies in the U.S., known
+for promoting a perfect work-life balance. It fosters an environment where
+there's ample opportunity to learn and explore, with innovation and interest
+being key drivers for success. The team is highly supportive and inclusive.
+
+About the Role:
+
+I was assigned as a Data Engineer, where I worked with a tech stack that
+included Python, Snowflake, Oracle DB, PowerApps, and Git. I focused on
+mastering databases, data warehousing, and ETL processes in this role. I
+regularly applied Python and SQL, gained hands-on experience with cloud
+service platforms, and worked on real-world projects involving end-to-end data
+pipelines, significantly enhancing my technical skills.
+
+Preparation Strategy:
+
+To prepare, I focused on solving competitive programming questions on
+platforms like LeetCode and HackerRank, and worked through Striver's DSA
+sheet to strengthen my understanding of Data Structures and Algorithms. I also
+dedicated time to mastering DBMS concepts (Geek For Geeks) and practicing
+SQL. Additionally, I practiced logical reasoning to improve puzzle-solving and
+problem-solving skills. I referred to the intern preparation document provided
+by IT department and ACM.
+
+Internship Drive Experience:
+
+Round 1:
+
+Coding and MCQ Assessment (HirePro Platform): This round included multiple-
+choice questions related to Java, Computer Networks, APIs, DSA, and Logical
+Reasoning. Additionally, there were two DSA coding questions: one medium-
+difficulty question and another hard-level question focused on Tree data
+structures.
+
+Outcome: Approximately 20-25 students were shortlisted for the next round.
+
+Round 2:
+
+Technical Round (40-45 mins): This round involved in-depth technical
+questioning, primarily focusing on the candidate's understanding of core
+computer science concepts and problem-solving abilities.
+
+Outcome: Around 10-12 students advanced to the final round.
+
+Round 3:
+
+Technical + HR Round (20-25 mins): This combined round evaluated both
+technical skills and cultural fit. The discussion also included HR-related topics.
+
+Outcome: 6 students received internship offers.
+
+My interview rounds covered a range of topics, including:
+
+▪  OS, Computer Architecture, and Compiler Engineering concepts
+▪  SQL queries
+▪  Tree and Heap Data Structures-related coding questions
+▪  Discussions on Machine Learning models and concepts
+▪  Concepts and implementation logic involved in my project work
+
+Tips and Tricks:
+
+▪  Develop confident communication skills; clear articulation of your
+
+thoughts can make a significant difference.
+
+▪  Focus on understanding core concepts rather than just memorizing
+
+them.
+
+▪  Practice coding regularly to improve problem-solving speed.
+▪  Be familiar with the company's tech stack and prepare accordingly.
+▪  Review your projects thoroughly, as in-depth questions might be asked.
+

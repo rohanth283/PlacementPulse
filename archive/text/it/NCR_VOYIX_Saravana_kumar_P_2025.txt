@@ -1,0 +1,76 @@
+**Saravana Kumar P - Information Technology**
+**Intern + FTE at NCR Voyix**
+
+**Company Overview:**
+
+NCR Voyix is a leading provider of next-generation technology solutions, specializing in industries such as banking, retail, hospitality, and telecommunications. With a global presence, NCR Voyix offers innovative software and services that help businesses improve operational efficiency and customer engagement. The company is known for its cutting-edge technologies in automation and digital transformation, making it a prominent player in the tech industry.
+
+**Online Assessment Round:**
+
+**Coding Questions:**
+
+1. **3Sum Problem:** The task was to find all unique triplets in an array that sum up to zero. I was required to implement an efficient approach to solve this problem, avoiding duplicate triplets while maintaining optimal time complexity.
+
+**MCQs:**
+
+There were 30 multiple-choice questions covering topics such as:
+
+* Object-Oriented Programming (OOPS)
+* Database Management Systems (DBMS)
+* Operating Systems (OS)
+* Docker
+* Kubernetes
+
+These questions tested my theoretical understanding of core concepts in these subjects. The coding round was conducted on HackerRank.
+
+**Technical + Managerial Interview Round:**
+
+**Project Discussion:**
+
+I was asked to explain my projects in detail. I discussed:
+
+1. **File Compressor** – A web-based file compression tool using JavaScript that features an intuitive UI and uses the Huffman coding algorithm for compressing and decompressing files, enabling efficient storage and reliable data retrieval.
+2. **Chat Website** – A MERN stack-based project with Socket.io integration, allowing real-time communication through one-to-one and group chats. It also featured secure authentication using bcrypt and JWT.
+
+I explained the goals, challenges, technologies used, and outcomes of these projects. The interviewer showed interest in understanding the real-world application of my work.
+
+**Coding Questions:**
+
+1. **3Sum Problem:** The interviewer asked me to walk through both brute-force and optimized approaches to solve the 3Sum problem that I encountered during the online assessment round. I explained the brute-force solution first, discussing its time complexity, followed by the optimized approach using two-pointer and sorting techniques to improve efficiency.
+
+**SQL Questions:**
+
+During the interview, I was given several scenario-based SQL problems. I was asked to:
+
+* Write SQL queries to address given scenarios.
+* Explain how normalization works and how it helps reduce redundancy and improve data integrity.
+* Discuss the importance of indexing in databases and how it can optimize query performance.
+* Solve problems involving joins, set operations, and nested subqueries, which tested my ability to work with complex database operations.
+
+**HR Interview Round:**
+
+**Personal Questions:**
+
+In the HR interview, I was asked about my family background and future plans, including whether I plan to pursue a master's degree. There were questions about my interest in NCR Voyix and where I see myself in five years. Additionally, the interviewer asked how I handle conflicts within a team and my involvement in extracurricular activities.
+
+**Company-Specific Questions:**
+
+* Why did I choose NCR Voyix?
+* What attracts me to this role and the company's culture?
+
+I also asked about the roles and responsibilities for the position and the technologies used within the company.
+
+**Preparation Strategy & Advice:**
+
+1. **Start Early:** Although I started preparing towards the end of my third year, I recommend starting earlier to have more time for practice.
+2. **Focus on Fundamentals:** It is crucial to have a strong understanding of DBMS, OOPS, and DSA concepts. I found Striver Sheet useful for practicing DSA.
+3. **Problem-Solving Approach:**
+   * Start with a brute-force solution.
+   * Progress to more optimized approaches with explanations on time and space complexity.
+4. **Theory Topics:** Use resources like InterviewBit and GeeksforGeeks for theory preparation on topics like OOPS, DBMS, OS, and Cloud technologies.
+5. **Soft Skills:** Communication is key. Practice explaining your problem-solving process and your experiences clearly.
+6. **Behavioral Questions:** For behavioral questions, I used examples from my projects, internships, and extracurricular activities to demonstrate my skills and experience.
+7. **Learn from Seniors:** Speaking with seniors who’ve gone through the interview process gave me valuable insights into the company’s recruitment patterns.
+8. **Stay Calm:** It is important to remain calm and methodical throughout the interview process. Keeping a clear head helps in approaching problems effectively.
+
+Overall, my interview experience at NCR Voyix was highly engaging and tested my technical, problem-solving, and communication skills thoroughly.

@@ -1,0 +1,97 @@
+    INTERN DRIVE EXPERIENCE- FIDELITY INVESTMENTS
+
+                                                               -SOUMYA R (IT)
+
+About the Company:
+
+Fidelity Investments is one of the leading financial services companies globally,
+with a mission to help customers and clients achieve their financial goals.
+Known for its strong work-life balance, Fidelity fosters a supportive and
+inclusive environment. The team is collaborative, and the company is
+committed to making a positive impact in the financial world.
+
+PREPARATION STRATEGY:
+
+For my intern drive preparation, I focused on competitive programming by
+practicing problems on HackerRank and GeeksforGeeks. I stayed in regular
+touch with Data Structures and Algorithms through YouTube lectures. I also
+brushed up on concepts from core subjects like DBMS, Operating Systems and
+Object-Oriented Programming. Additionally, I utilized the materials provided by
+ACM(C.O.D.E Series) and ISTA.
+
+OVERVIEW OF THE INTERN DRIVE:
+
+Round 1: Online Assessment (Hirepro Platform)
+This round consisted of four sections, each with its own time limit:
+
+Section 1:
+Multiple-choice questions on English, including reading comprehension,
+sentence arrangement, synonyms, and more.
+
+Section 2:
+Multiple-choice technical questions covering topics such as Computer
+
+Networks, Operating Systems, OOP, C++, Recursion, and Data Structures &
+Algorithms (DSA).
+
+Section 3:
+Coding questions: There were two problems, one of medium difficulty and
+another of a hard level, focused on Arrays and Strings.
+
+Section 4:
+Writing pseudocode: We were asked to write pseudocode/algorithms for two
+problems. The time for this section was more limited compared to the others.
+
+Around 54 students were shortlisted for the next round.
+
+Round 2: Technical Interview (at CUIC) (30-35 mins)
+
+This round involved questions from all core topics like DBMS, OOP, DSA, Cloud
+Computing, OS, Computer Architecture and also in-depth questions from
+projects and technical skills mentioned in the resume.
+
+Around 25 students were shortlisted for the next round.
+
+Round 3: HR Interview (at CUIC) (30-35 mins)
+
+This round assessed both technical and behavioral skills. It primarily included
+questions about role preferences and the reasoning behind those choices.
+
+ 12 candidates received internship offers.
+
+TIPS AND TRICKS:
+
+  Focus on improving your communication skills in English which is highly
+important- Make sure your answers are to the point and do not make
+them sound confusing.
+
+  Practice competitive programming and DSA on a regular basis.
+  Get a clear understanding of all the core subjects and keep brushing up
+
+the concepts.
+
+  Include only those projects and topics in your resume that you are
+
+confident in, as the interviewer asks questions in-depth from whatever
+you specify as your areas of interest.
+
+  When the interviewer asks you if you have any questions for them
+
+towards the end, please do ask questions. Only then the interviewer will
+get to know you’re looking forward to being a part of their company.
+  During the interview, stay calm and avoid panicking. Do your best in
+answering all the questions. If you absolutely have no idea about
+something, acknowledge it politely and express your willingness to learn.
+
+  Before going to the interview, make sure you look into platforms like
+
+InterviewBit and Glassdoor for previously asked questions specific to the
+company. Also get to know what the company basically does as there
+might be questions related to their business and operations.
+
+  Every interview is a learning experience. Particularly, in my technical
+round, the interviewer, besides asking questions, explained a few
+concepts which were beyond my level stating that it could be of help at
+some point of time in future. So regardless of the outcome, every
+interview offers you a good learning opportunity!
+

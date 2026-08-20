@@ -1,0 +1,233 @@
+|     | Interview |     | Experience |     | Document |     |     | - Wells | Fargo |     |
+| --- | --------- | --- | ---------- | --- | -------- | --- | --- | ------- | ----- | --- |
+(Placements)
+|       |       |           |     |       |          | -   | Ramya         | R   | [Batch    | 2020-24] |
+| ----- | ----- | --------- | --- | ----- | -------- | --- | ------------- | --- | --------- | -------- |
+| About | The   | Company:  |     |       |          |     |               |     |           |          |
+| Wells | Fargo | & Company |     | is an | American |     | multinational |     | financial |          |
+services company with a significant global presence. The company
+operates in 35 countries and serves over 70 million customers
+worldwide. It is a systemically important financial institution according
+to the Financial Stability Board, and is considered one of the "Big Four
+Banks" in the United States, alongside JPMorgan Chase, Bank of
+| America, | and | Citigroup. |     |     |     |     |     |     |     |     |
+| -------- | --- | ---------- | --- | --- | --- | --- | --- | --- | --- | --- |
+It is the fourth-largest bank in the United States by total assets and is
+also one of the largest as ranked by bank deposits and market
+capitalization. It has 8,050 branches and 13,000 automated teller
+| machines |     | and 2,000 | stand-alone |     | mortgage |     | branches. |     | It is | the |
+| -------- | --- | --------- | ----------- | --- | -------- | --- | --------- | --- | ----- | --- |
+second-largest retail mortgage originator in the United States,
+originating one out of every four home loans and services $1.8 trillion
+in home mortgages, one of the largest servicing portfolios in the
+U.S.[8] It is one of the most valuable bank brands. Wells Fargo is
+ranked 47th on the Fortune 500 list of the largest companies in the
+U.S.
+In addition to banking, the company provides equipment financing via
+subsidiaries including Wells Fargo Rail and provides investment
+| management |     | and | stock | brokerage | services. |     | A key | part | of  | Wells |
+| ---------- | --- | --- | ----- | --------- | --------- | --- | ----- | ---- | --- | ----- |
+Fargo's business strategy is cross-selling, the practice of encouraging
+existing customers to buy additional banking services. This led to the
+| Wells | Fargo | cross-selling |     | scandal. |     |     |     |     |     |     |
+| ----- | ----- | ------------- | --- | -------- | --- | --- | --- | --- | --- | --- |
+
+| Link | to the | Job | Description |     |     | shared | by  | the | Company: |     |     |     |
+| ---- | ------ | --- | ----------- | --- | --- | ------ | --- | --- | -------- | --- | --- | --- |
+https://drive.google.com/file/d/105VeqJ6YN6ZlxGYDNohEwO2JgvEe6
+5fp/view?usp=sharing
+|     |                 |            |          |     | Interview |     | Experience:   |           |           |     |         |         |
+| --- | --------------- | ---------- | -------- | --- | --------- | --- | ------------- | --------- | --------- | --- | ------- | ------- |
+|     | Coding          | Assessment |          |     | [Mode:    |     | Online        | Platform: |           | SHL | AMCAT]: |         |
+| The | online          | assessment |          |     | contained |     | the following |           | sections: |     |         |         |
+|     | 1. Quantitative |            | Aptitude |     |           | and | Business      |           | Aptitude: |     | This    | section |
+had a few questions on aptitude, logical reasoning along with a
+|     | few            | business | aptitude |     | questions  |     | involving |     | data | and | chart |     |
+| --- | -------------- | -------- | -------- | --- | ---------- | --- | --------- | --- | ---- | --- | ----- | --- |
+|     | interpretation |          | and      |     | analytics. |     |           |     |      |     |       |     |
+2. Verbal Aptitude: This section had questions testing our english,
+|     | knowledge, |       | vocabulary |          |     | and          | general  | grammar. |            |     |     |     |
+| --- | ---------- | ----- | ---------- | -------- | --- | ------------ | -------- | -------- | ---------- | --- | --- | --- |
+|     | 3. Coding  |       | Qs: This   | section  |     | had          | 3 coding |          | questions: |     |     |     |
+|     | 1. Array   | Based |            | Question |     | [Difficulty: |          | Easy]    |            |     |     |     |
+Given
+|     | A binary |     | array | S[N]   | indicating |     | if a | system | in  | a network |     | of N |
+| --- | -------- | --- | ----- | ------ | ---------- | --- | ---- | ------ | --- | --------- | --- | ---- |
+|     | systems  |     | is up | or not |            |     |      |        |     |           |     |      |
+And
+An array L[N-1] indicating the lengths of cables to connect the
+|     | systems |          | to adjacent |            | systems, |        |     |             |     |          |         |     |
+| --- | ------- | -------- | ----------- | ---------- | -------- | ------ | --- | ----------- | --- | -------- | ------- | --- |
+|     | To      | find the | minimum     |            | cable    | length |     | needed      | to  | get the  | systems |     |
+|     | down    | to       | run by      | connecting |          | cables |     | to adjacent |     | systems. |         |     |
+Solution: Write a simple efficient code to spot the down systems
+|     | and | calculate |     | the minimum |     |     | of the | cable | length | required |     | to  |
+| --- | --- | --------- | --- | ----------- | --- | --- | ------ | ----- | ------ | -------- | --- | --- |
+
+connect to the left-adjacent and right-adjacent system. Sum all
+|     | the lengths |       | and | return  |     | the          | value |     |         |     |     |     |
+| --- | ----------- | ----- | --- | ------- | --- | ------------ | ----- | --- | ------- | --- | --- | --- |
+|     | 2. Graph    | Based |     | Problem |     | [Difficulty: |       |     | Medium] |     |     |     |
+A problem that asks us to find the number of islands in a matrix
+|     | of 0s | and | 1s  | that | can | be solved |     | by simple | DFS. |     |     |     |
+| --- | ----- | --- | --- | ---- | --- | --------- | --- | --------- | ---- | --- | --- | --- |
+https://www.geeksforgeeks.org/find-the-number-of-islands-using-
+dfs/
+|     | 3. Recursion |          | Based |     | Problem  |     | [Difficulty: |     | Easy]    |          |     |     |
+| --- | ------------ | -------- | ----- | --- | -------- | --- | ------------ | --- | -------- | -------- | --- | --- |
+|     | A direct     | question |       |     | to solve |     | the Tower    |     | of Hanoi | problem. |     | The |
+direct simple recursive code to solve the problem answers the
+question.
+https://www.geeksforgeeks.org/cses-solutions-tower-of-hanoi/
+|       |             |           |           | Interview  |       |     | [Mode:       | Offline]: |     |     |     |     |
+| ----- | ----------- | --------- | --------- | ---------- | ----- | --- | ------------ | --------- | --- | --- | --- | --- |
+| Round | 1:          | Technical |           | Interview: |       |     |              |           |     |     |     |     |
+| What  | Was         | Asked?    |           |            |       |     |              |           |     |     |     |     |
+|       | ● Introduce |           | yourself! |            |       |     |              |           |     |     |     |     |
+|       | ● To write  | the       | pseudo    |            | code  |     | to implement |           |     |     |     |     |
+|       | a.          | Stack     | using     |            | queue |     |              |           |     |     |     |     |
+|       | b.          | Queue     | using     |            | stack |     |              |           |     |     |     |     |
+● Storing book details - Design a simple data structure and justify
+|     | why        | [ Expected |             | Answer |     |              | : Key - | Value | Association |     | Data |     |
+| --- | ---------- | ---------- | ----------- | ------ | --- | ------------ | ------- | ----- | ----------- | --- | ---- | --- |
+|     | Structures |            | - hashmaps, |        |     | dictionaries |         |       | ]           |     |      |     |
+● Discussion of hashing, hashing techniques, collisions, collision
+|     | handling,    |     | collision |           | avoidance |      | techniques |     |     |       |        |     |
+| --- | ------------ | --- | --------- | --------- | --------- | ---- | ---------- | --- | --- | ----- | ------ | --- |
+|     | ● Comparison |     | of        | different |           | data | structures |     | and | their | search |     |
+complexities
+|     | ● Moving  | to  | resume, |     | Questions |     | on               | Java | features     | and | how | it is |
+| --- | --------- | --- | ------- | --- | --------- | --- | ---------------- | ---- | ------------ | --- | --- | ----- |
+|     | different |     | from    | C++ | [ More    |     | than theoretical |      | comparisons, |     |     | he    |
+
+expected me to talk in the POV of a developer and analyze how
+| coding |     | in Java | is different |     |     | from | C++ | ]   |     |     |     |
+| ------ | --- | ------- | ------------ | --- | --- | ---- | --- | --- | --- | --- | --- |
+● Explain OOPs concepts with simple real world examples rather
+| than | technical |     | definitions. |     |     |     |     |     |     |     |     |
+| ---- | --------- | --- | ------------ | --- | --- | --- | --- | --- | --- | --- | --- |
+● In detail questions on the Summer Intern project with follow ups
+| on  | the | project | workflow, |     | its | impact |     | on the | corporate |     | systems |
+| --- | --- | ------- | --------- | --- | --- | ------ | --- | ------ | --------- | --- | ------- |
+● Talk about your project : Parkinson’s Disease Prediction Using
+| Deep | Learning |     | - Techniques |     |     | used, |     | Future | Scope |     |     |
+| ---- | -------- | --- | ------------ | --- | --- | ----- | --- | ------ | ----- | --- | --- |
+● System Design Question: To design a system to simulate google
+maps
+Tips:
+● Have a thorough understanding of data structures. Learn in the
+| logic | perspective |     | more |     | than | memorizing |     |     | pseudo | codes | and |
+| ----- | ----------- | --- | ---- | --- | ---- | ---------- | --- | --- | ------ | ----- | --- |
+implementation.
+● While writing pseudo code, make it clear and readable. Explain
+| while      | coding. |     |           |     |      |           |     |         |              |     |     |
+| ---------- | ------- | --- | --------- | --- | ---- | --------- | --- | ------- | ------------ | --- | --- |
+| ● Be       | clear   | on  | whatever  | you |      | mentioned |     | on      | your resume. |     | Any |
+| questions  |         | can | be asked  |     | from | technical |     | skills, | projects     |     | and |
+| experience |         |     | sections. |     |      |           |     |         |              |     |     |
+● More than your ability to theoretically curate definitions and
+| answers,   |          | you    | are tested |      | on        | how        | well      | you           | understand |        | concepts |
+| ---------- | -------- | ------ | ---------- | ---- | --------- | ---------- | --------- | ------------- | ---------- | ------ | -------- |
+| and        | whether  |        | you are    | able |           | to clearly |           | explain       | in         | layman | terms.   |
+| ● Keep     | bringing |        | ideas      | and  | continue  |            | to        | communicate   |            |        | them,    |
+| especially |          | in     | the system |      | design    |            | question. |               |            |        |          |
+| ● Answer   |          | system | design     |      | questions |            | in        | an end-to-end |            |        | design   |
+perspective and not just the software and functional aspects.
+
+Round 2: Technical + Managerial Interview:
+What Was Asked?
+● Introduce yourself!
+● Talk about the project Sentiment Analysis on Mahabharata -
+Features, Use cases, NLP Techniques used, Deep Learning
+Algorithms
+● Talk About the project - Parkinson’s Disease Prediction Using
+Deep Learning - How is the disease detected? How to scale the
+work in real time to examine a group of people at a time and
+detect the disease instantly? How can such a work be used in
+Wells fargo?
+● From resume, a discussion on Tensorflow - What is it? What
+features of it have you leveraged in the projects you have done?
+● Talk about the project - IoT Based Smart Cart Using RFID - How
+it works? How can it be scaled?
+● What are your short-term(2 years), mid-term(5 years) and
+long-term(10 years) goals?
+● QnA to the interviewer.
+Tips:
+● This round requires more brainstorming than technical
+knowledge. Think dynamically and fast. Keep talking your ideas
+aloud. The interviewer will help you connect the threads.
+● It is completely natural to get stuck. But keep telling aloud
+whatever you think. (I got stuck while answering the question:
+How can we use the Parkinson’s Disease Detection project in
+Wells Fargo? - But I was able to gather ideas as I kept
+communicating my mind out)
+
+● The interviewer was really interested in the projects mentioned in
+| the         | resume |             | and          | asked    | in       | depth | about  |          | each of them. |      |       |
+| ----------- | ------ | ----------- | ------------ | -------- | -------- | ----- | ------ | -------- | ------------- | ---- | ----- |
+| ● Project   |        | discussions |              | demand   |          |       | you    | to think | in a business |      | and   |
+| functional  |        |             | perspective. |          |          |       |        |          |               |      |       |
+| Round       | 3: HR  | Interview:  |              |          |          |       |        |          |               |      |       |
+| What was    | Asked? |             |              |          |          |       |        |          |               |      |       |
+| ● Introduce |        |             | yourself!    |          |          |       |        |          |               |      |       |
+| ● Tell      | me     | about       | your         | family.  |          |       |        |          |               |      |       |
+| ● Why       | did    | you         | choose       |          | to major |       | in IT? |          |               |      |       |
+| ● What      | are    | your        |              | hobbies? |          | How   | have   | they     | changed       | over | time? |
+● What are the things you did in college apart from the academic
+arena?
+| ● How | have |     | you | contributed |     | to  | society | in  | your college |     | life? |
+| ----- | ---- | --- | --- | ----------- | --- | --- | ------- | --- | ------------ | --- | ----- |
+● Describe the kind of work you did as a Content Organiser in CTF.
+| What | impact |     | does | your | work |     | have | on  | society? |     |     |
+| ---- | ------ | --- | ---- | ---- | ---- | --- | ---- | --- | -------- | --- | --- |
+● As part of the events team of CSAU, how was your experience?
+| What      | do        | you | do        | in CSAU? |             | Did       | you | achieve | your           | club’s  | motto of |
+| --------- | --------- | --- | --------- | -------- | ----------- | --------- | --- | ------- | -------------- | ------- | -------- |
+| learning  |           | and | spreading |          | the         | knowledge |     |         | of technology? |         |          |
+| ● How     | important |     |           | is event | management? |           |     |         | What was       | a major |          |
+| challenge |           |     | you       | faced    | while       | planning  |     | an      | event?         |         |          |
+● What do you think is the key to crack your interviews? What
+| mistakes |     | did  | you    | make | in  | your | previous |     | interviews? |     | Did you |
+| -------- | --- | ---- | ------ | ---- | --- | ---- | -------- | --- | ----------- | --- | ------- |
+| correct  |     | them | today? |      |     |      |          |     |             |     |         |
+● How was the transition in education and learning techniques
+| during, |     | before |     | and after |     | Covid? | How | did | it impact | you? |     |
+| ------- | --- | ------ | --- | --------- | --- | ------ | --- | --- | --------- | ---- | --- |
+● How will you handle conflict of interests at the workplace?
+| ● What | is  | more | important |     |     | in building |     | a career | - money |     | or  |
+| ------ | --- | ---- | --------- | --- | --- | ----------- | --- | -------- | ------- | --- | --- |
+knowledge?
+
+| ● Where |       | do you       | see          | yourself |     | in   | 5 years? |      |               |       |       |
+| ------- | ----- | ------------ | ------------ | -------- | --- | ---- | -------- | ---- | ------------- | ----- | ----- |
+| ● Why   | Wells |              | Fargo?       | Justify  |     | with | evidence |      | how you       | found | these |
+| about   |       | the company. |              |          |     |      |          |      |               |       |       |
+| ● What  |       | are the      | 2            | reasons  | to  | hire | you?     |      |               |       |       |
+| ● What  |       | are the      | 2            | reasons  | to  | not  | hire     | you? |               |       |       |
+| ● What  |       | are your     | expectations |          |     | from | Wells    |      | as a company? |       |       |
+● QnA to the interviewer - Do you have any questions about the
+company?
+Tips:
+| ● Keep |     | calm | and | stay | as natural |     | as  | possible. | Answer | with |     |
+| ------ | --- | ---- | --- | ---- | ---------- | --- | --- | --------- | ------ | ---- | --- |
+confidence.
+| ● Focus      |           | on how   | you   | improved |               | as     | a   | person       | through  | college     | - in |
+| ------------ | --------- | -------- | ----- | -------- | ------------- | ------ | --- | ------------ | -------- | ----------- | ---- |
+| both         | the       | academic |       | and      | co-curricular |        |     | perspective. |          |             |      |
+| ● This       | interview |          | can   | also     | be            | a test | of  | your         | attitude | and         |      |
+| temperament. |           |          | Don’t | be       | perturbed     |        |     | by how       | the      | interviewer | is   |
+interacting. They may show disinterest and also try to contradict
+| your | ideas |     | to gain | different |     | perspectives. |     |     |     |     |     |
+| ---- | ----- | --- | ------- | --------- | --- | ------------- | --- | --- | --- | --- | --- |
+● Don’t answer diplomatically. Have clear thoughts and take proper
+sides, but expect contradictory thoughts to your side. Even if it
+| happens, |     | try | to  | not change |     | your | stand. |     |     |     |     |
+| -------- | --- | --- | --- | ---------- | --- | ---- | ------ | --- | --- | --- | --- |
+● Anything you say about the company, have supporting evidence
+| as  | to how | you | got | to  | know | it. |     |     |     |     |     |
+| --- | ------ | --- | --- | --- | ---- | --- | --- | --- | --- | --- | --- |
+Contact:
+Ramya
+6383767821
+melodyramya@gmail.com
+www.linkedin.com/in/ramya-r-3356a9256

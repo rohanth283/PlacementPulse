@@ -1,0 +1,140 @@
+My Tekion Interview Experience
+Backend Developer Role
+About Tekion
+Tekion Corp is a cloud technology company founded in 2016 by former Tesla CIO Jay Vijayan.
+ThecompanyisheadquarteredinPleasanton, California, withAsia-Pacificoperationsincluding
+a major technology center in Chennai, India.
+The company’s flagship platform, Automotive Retail Cloud (ARC), is an end-to-end,
+cloud-native solution designed for automotive dealerships. It integrates multiple modules such
+as Customer Relationship Management (CRM), Dealer Management System (DMS), digital
+retail, service management, parts, analytics, and AI-powered insights.
+In 2022, Tekion also introduced the Automotive Enterprise Cloud (AEC), a unified
+digital ecosystem that enables vehicle purchases directly from OEM brand websites through
+dealerships. It offers configurator tools, e-signature options, online payments, and advanced
+analytics—bridging the gap between manufacturers and dealerships.
+—
+My Interview Process and Experience
+The Tekion recruitment process I went through was structured across five main stages. Each
+round had a distinct purpose, focusing on different skill sets.
+Round 1: Online Assessment
+This was the initial shortlisting stage I took online. It included:
+• 8 Multiple Choice Questions (MCQs) covering DBMS, Operating Systems, and Data Struc-
+tures & Algorithms (DSA).
+• 1 medium-level coding question (example: split-array pattern problem).
+• 1 SQL query-based problem to test database knowledge.
+From this round, approximately 50 candidates including myself were shortlisted for the next
+stage.
+—
+Round 2: Offline Coding Round
+The second round I attended took place in an offline setting with two categories of tasks:
+• Frontend Task: I had to build a form interface supporting multiple input types, a preview
+option, and JSON export functionality. My implementation was around 90% complete.
+• Backend Tasks: I solved algorithmic problems such as the “Buy and Sell Stock” optimiza-
+tion and a visitor log analysis problem.
+About 20 candidates including myself advanced to the next stage.
+—
+1
+
+| Round | 3: Offline |     | Coding | (DSA-Focused) |     |     |
+| ----- | ---------- | --- | ------ | ------------- | --- | --- |
+This stage tested my algorithmic thinking and problem-solving speed. The problems I encoun-
+tered included:
+| • Word | break | / dictionary |     | segmentation | problem. |     |
+| ------ | ----- | ------------ | --- | ------------ | -------- | --- |
+•
+| Prefix | sum | variant | requiring | optimized | cumulative | computations. |
+| ------ | --- | ------- | --------- | --------- | ---------- | ------------- |
+Although I attempted brute-force solutions, I managed to qualify along with 10 other can-
+| didates | for the | technical |     | interviews. |     |     |
+| ------- | ------- | --------- | --- | ----------- | --- | --- |
+—
+| Round | 4: Technical |     | Interview |     |     |     |
+| ----- | ------------ | --- | --------- | --- | --- | --- |
+This round focused on hands-on and experience-based technical discussions rather than purely
+| theoretical | questions. |     | Key | areas I discussed | were: |     |
+| ----------- | ---------- | --- | --- | ----------------- | ----- | --- |
+•
+Detailed exploration of my past projects, such as my internship experience at Citi and
+| hackathon |     | participation. |     |     |     |     |
+| --------- | --- | -------------- | --- | --- | --- | --- |
+•
+Comparisons between frameworks (e.g., Apache Camel vs. Spring Boot) based on my expe-
+rience.
+• Code snippet debugging and analysis that I worked through with the interviewer.
+•
+Proof-of-concept (POC) designs and Redis-based caching implementations I had worked on.
+• Designing agents and microservices for real-world scenarios based on my understanding.
+Out of 11, only 5 candidates, including myself, progressed to the HR round.
+—
+| Round | 5: HR | Interview |     | (Final | Round) |     |
+| ----- | ----- | --------- | --- | ------ | ------ | --- |
+The HR discussion I had revolved around personality, company fit, and career aspirations.
+| Questions | I   | was asked | included: |              |            |                    |
+| --------- | --- | --------- | --------- | ------------ | ---------- | ------------------ |
+| • “What   | do  | you       | know      | about Tekion | and why do | you want to join?” |
+• My internship learnings, hackathon takeaways, and teamwork experiences.
+| • My | favorite | projects |     | and opinions | on current | AI trends. |
+| ---- | -------- | -------- | --- | ------------ | ---------- | ---------- |
+• My thoughts on pros and cons of live coding rounds and how I approach stress situations.
+| At  | the end | of this | round, | all 5 of | us received | final offers. |
+| --- | ------- | ------- | ------ | -------- | ----------- | ------------- |
+—
+| My Final  |            | Offer       |           |     |     |     |
+| --------- | ---------- | ----------- | --------- | --- | --- | --- |
+| The offer | I received |             | consisted | of: |     |     |
+| • A       | 6-month    | internship. |           |     |     |     |
+•
+Conversion to Full-Time Employment (FTE) upon successful completion.
+—
+2
+
+| Key Suggestions | and         | Tips from My | Experience |
+| --------------- | ----------- | ------------ | ---------- |
+| Technical       | Preparation |              |            |
+• Master all projects and technologies listed on your resume - I was thoroughly questioned
+| about everything | on  | mine. |     |
+| ---------------- | --- | ----- | --- |
+• PrioritizeproblempatternsonLeetCodeoversolvinghundredsofproblemsrandomly-this
+| approach | helped me | significantly. |     |
+| -------- | --------- | -------------- | --- |
+• Build impactful real-world projects and actively participate in hackathons - my hackathon
+| experience | was a major | talking point. |     |
+| ---------- | ----------- | -------------- | --- |
+•
+Gain familiarity with modern backend stacks and core AI/ML fundamentals - these came
+| up frequently | in my    | technical discussions. |     |
+| ------------- | -------- | ---------------------- | --- |
+| Interview     | Strategy |                        |     |
+• Clear communication often outweighs incomplete technical answers - I found this to be
+crucial.
+• Be honest and composed—admitting uncertainty is better than guessing, which I learned
+| during | my interviews. |     |     |
+| ------ | -------------- | --- | --- |
+•
+Relatealgorithmsandtechnicalknowledgetopractical,real-worldscenarios-thisimpressed
+| my interviewers. |     |     |     |
+| ---------------- | --- | --- | --- |
+•
+Remember, preparation outweighs luck in the long run - my thorough preparation made
+| all the | difference. |     |     |
+| ------- | ----------- | --- | --- |
+Mindset
+• Prioritize quality over quantity in problem-solving - this approach served me well.
+•
+Focus on learning deeply through projects, not just theoretical study - my hands-on expe-
+| rience was | highly valued. |     |     |
+| ---------- | -------------- | --- | --- |
+• Stay adaptable and curious about evolving technologies - this mindset helped me in dis-
+cussions.
+• Confidence grows with hands-on practice and self-driven learning - I experienced this first-
+hand.
+—
+| Contact Information |     |        |           |
+| ------------------- | --- | ------ | --------- |
+|                     |     | Ganesh | Sriramulu |
+#
+ganeshsriramulu2@gmail.com
+|     |     | (cid:131)    | +91 7305900924    |
+| --- | --- | ------------ | ----------------- |
+|     |     | Best of luck | for your journey! |
+3

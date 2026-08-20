@@ -1,0 +1,66 @@
+**INTERVIEW EXPERIENCE AT FIDELITY INVESTMENTS**
+ **-ABINAYA S M**
+
+**ABOUT THE COMPANY:**
+Fidelity is one of the leading financial investment companies in the U.S., known for promoting a perfect work-life balance. It fosters an environment where there is ample opportunity to learn and explore, with innovation and interest being key drivers for success. The team is highly supportive and inclusive.
+
+**PREPARATION STRATEGY:**
+
+I started my preparation in the beginning of 5th semester and then I alloted some time for the preparation. I would practice problems daily. Initially I would take lot of time to solve a single problem but after practising it gradually decreased and my logical thinking ability was increased. To prepare, I focused on solving competitive programming questions on platforms like LeetCode, HackerRank, and Coding Ninjas, and worked through Striver's DSA sheet to strengthen my understanding of Data Structures and Algorithms. I also dedicated time to mastering DBMS concepts (using Geeks for Geeks and W3Schools) and practicing SQL. Before every online test I would search for previously asked questions and interview experience of that company. In addition, I approached my seniors and asked some tips for last minute preparation.If I don’t know the answers for the questions which are asked in the online test once after the completion of the test I would try to solve it and find the solution for that.
+
+**INTERNSHIP DRIVE EXPERIENCE:**
+
+**Round 1 (ONLINE ASSESSMENT):**
+The online assessment consisted of 4 sections:
+
+**SECTION 1:**
+Technical MCQs related to Computer Networks, DSA, OOPS, DBMS, and SQL queries.
+
+**SECTION 2:**
+This section consisted of MCQs to test our communication skills.
+
+**SECTION 3:**
+This is the coding section. We were asked to solve 2 questions related to DSA.
+
+**SECTION 4:**
+In this section, we were asked to type the algorithm to solve questions. One of the questions was converting an infix expression to a prefix expression.
+
+**Round 2 (TECHNICAL INTERVIEW):**
+This round involved in-depth technical questioning, primarily focusing on the candidate's understanding of core computer science concepts and problem-solving abilities. This round was purely based on the contents that I included in my resume. First, the interviewer asked me to explain one of my projects in my resume. Then she asked some questions related to that. After that, I was asked to write code for 2 questions:
+
+**Q1)** Reversing a linked list.
+**Q2)** Finding the middle element of the linked list.
+
+The interviewer asked me to explain all the approaches that can be applied to solve the questions. Then she chose the optimal approach and asked me to write the code. She also asked questions related to Operating Systems, which included topics like IPC, methods used in IPC, Bootstrap program; DBMS topics included ACID properties, the difference between RDBMS and DBMS, normalization methods with examples, and advantages of DBMS over the file system; OOPS topics included pillars of OOPS, etc. After this, she asked me whether I had any questions for her. I asked two questions: First, how is the work culture at Fidelity, and second, what skills are required for a fintech company. This round went on for about 40-45 minutes.
+
+**Round 3 (HR ROUND):**
+This round included only HR questions. Most of the questions were based on what I was telling.
+
+1. Tell me about yourself.
+2. I mentioned that I like photography, so he asked questions related to that.
+3. I mentioned that I am pursuing an honors degree, so he asked questions related to that, like why honors, which subjects you are learning, etc.
+4. What is your favorite subject and why?
+5. Which subject do you dislike the most and why?
+6. What changes would you implement in your academics?
+7. What do you know about the company?
+8. Tell me about a day in your life.
+9. Do you have any questions to ask me?
+
+This round lasted for about 20-30 minutes.
+From the online test, nearly 54 students were selected for the interview.
+After the technical interview, 25-30 students were selected for the HR interview.
+Finally, 12 students were selected for the internship.
+
+**TIPS AND TRICKS:**
+
+* Develop confident communication skills.
+* Focus on understanding core concepts rather than just memorizing them.
+* Practice coding regularly to improve problem-solving speed.
+* Be familiar with the company's tech stack and prepare accordingly.
+* Review your projects thoroughly, as in-depth questions might be asked.
+* Solve questions that were asked in your previous interviews. For instance, my first interview was with BNY Mellon, where I was asked to solve the reversing a linked list question; the same question was asked at Fidelity as well.
+* Since most of the questions will be based on your resume, include only what you know well in your resume.
+* Don't hesitate to ask the panel member questions when you are asked to write the code for a question.
+* Go through Geeks for Geeks interview questions for last-minute preparation.
+* Be prepared for answering questions like "Tell me about yourself," as most of the questions in the HR round will be based on that, "What do you know about the company," and "Do you have any questions to ask me."
+* Don’t worry if you are not selected for the interview or not able to solve the problem or getting rejected in the interview , learn from that and try not to make the same mistake.

@@ -1,0 +1,47 @@
+SHADHANI TT – INFORMATION TECHNOLOGY
+
+**About the Company:**
+
+CodeStax.ai is a pioneering enterprise in the field of digital transformation, specializing in AI-powered and no-code solutions. Its mission is to empower businesses with tools that enhance adaptability, innovation, and operational efficiency. CodeStax.ai offers platforms like FlowStax, a no-code workflow management system that simplifies process optimization, and FinStax, designed to streamline financial product management. These solutions cater to diverse industries, including finance, healthcare, and etc.
+
+**Overview of the Process:**
+
+The overall process consisted of
+
+* An Online coding contest in Hackerrank
+* Interview Round 1 (Technical) – in Department
+* Interview Round 2 (Technical) – Online mode
+
+**Online coding contest in Hackerrank:**
+
+The coding contest was conducted in Hackerrank. It consisted of 4 coding questions.
+
+1. Count Pairs
+2. Matching Braces
+3. Min Processing Time
+4. Get Maximum Power
+
+18 students were shortlisted for (Round 1) interview process.
+
+**Interview Round 1 (Technical) – Offline mode:**
+
+This round went for 50 to 55 minutes.
+
+* They started by asking me to introduce myself.
+* They asked about a problem I face in my daily life and how I solved it.
+* They inquired about a challenge I encountered during my project and the steps I took to resolve it.
+* They posed some questions related to my project.
+* They asked, “What is a subnet?” and related it to my project.
+* They gave a question about subsets and expected me to solve it by drawing a tree.
+* They asked me to write and explain the logic for Merge Sort.
+* They requested me to write a program or pseudocode for Merge Sort.
+* Any questions for him?
+
+**Interview Round 2 (Technical) – Online mode:**
+
+This round went for 30 minutes.
+
+* They began by asking me to introduce myself.
+* I was asked to explain all my projects.
+* The interviewer highlighted one specific project, asked me to explain it in detail, and followed up with some related questions.
+* I was tasked to code a "Two Sum" program using an online compiler.

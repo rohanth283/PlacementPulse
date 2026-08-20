@@ -1,0 +1,88 @@
+ICANIO TECHNOLOGIES
+
+About Company:
+
+Icanio Technologies offers a comprehensive range of services, including
+
+software development, AI/ML solutions, cloud and DevOps services, quality
+
+engineering, support, and training programs.
+
+About Role:
+
+A Software Developer Engineer at Icanio Technologies is responsible for
+
+designing, developing, and maintaining software applications using various
+
+technologies.
+
+Preparation Strategy:
+
+I have prepared aptitude (IndiaBix), arrays, and string (SDE sheet
+
+geeksforgeeks) based questions for the initial coding round as I didn’t get any
+
+proper resources about the previous test pattern about this company.
+
+Technical round preparation was general preparation on core subjects like
+
+OOPS, DataStructures, DBMS, OS, and CN, and also prepared on the projects
+
+mentioned in the resume.
+
+Overview of the process:
+
+The interview process is an online test, technical interview, and HR round,
+
+and 100+ students participated initially.
+
+Round 1 (Aptitude and coding):
+
+It was a 3 hrs online test that happened in CUIC. There were a few aptitude
+
+questions and 2 coding questions, one was an array sort of question and the other
+
+was a matrix question conducted in coderbyte.
+
+1.  Return the minimum count to sort the number
+
+2.  Return the number of moves where queen capture the king
+
+Round 2 (Technical and HR):
+
+10 members were shortlisted from the online test for a technical round
+
+interview and for an HR round happened in CUIC, the questions asked in the
+
+technical round were based on data structures, OOPS, and DBMS asked me to
+
+solve an array coding question(in our convenient programming language I choose
+
+python), 2 SQL queries, and a debugging question.
+
+●  What is polymorphism
+
+●  What is abstract class
+
+●  What is hashmap
+
+●  What is frontend and backend and list few technologies used in
+
+frontend and backend
+
+●  What is database and why it is required
+
+●  Anagram of string without using inbuilt functions(coding)
+
+●  Queries to create and insert, and update the table
+
+●  Gave a program with 4 function and one main function and asked me
+
+to explain the logic and print the output of each function
+
+HR round is all about self-introduction, learnings from past interviews, and
+
+future goals. The company is located in Tirunelveli so they ensured the relocation
+
+too.
+

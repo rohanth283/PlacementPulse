@@ -1,0 +1,59 @@
+Edumba Vannia Raja T – Dover
+
+About the Company
+
+Dover is an industrial company, which is a conglomerate of 16 operating companies.
+
+From the digital POV, it has several teams which cater to the software and digital
+requirements of the opcos.
+
+About the role
+
+Every recruited candidate from campus placements from CS/IT background is
+onboarded as a software engineer. You’ll get to work on full stack projects, train deep
+learning models, devops. Each digital team uses a different full stack language based on
+their requirements. So overall I can assure you that having strong full stack development
+skills in any language can get you into dover.
+
+Preparation Strategy
+
+Prepare DSA well. Be strong in core concepts like Networks, OS and Database. Be
+confident of all the projects you’ve put in the resume. Think of a problem which you’ve
+solved in one of your projects, and deliver it to the interviewer stressing, how you solved
+it, with your skills.
+
+Placement Drive experience (online test, GD, technical and HR interviews)
+
+Dover:
+
+In online test I had 60 MCQs which covered math, aptitude and DSA. Out of 60
+
+participants in the first round 14 got shortlisted for the interviews.
+
+I had 3 sets of interviews. In the first round, questions were simple. He asked me a
+simple DSA problem and asked me some simple questions from Networks and OOPS,
+and asked a bit about my projects.
+
+From 14, 4 people were shortlisted to the second round. In another 15 minutes I was
+let known that I was shortlisted for the second round. In round 2, I was asked to explain
+about a project in detail, which was network request rate limiter. Once he was done
+asking questions about the project, he asked me about experience in java and what other
+languages, I’ve used in full stack development. He asked questions pertaining to
+software engineering principles and system design. And at the end since I had time, I
+explained about my other projects as well.
+
+From 4, 2 people were shortlisted to the third round. Again in another 15 minutes, I
+
+was called for the HR round. I gave a short introduction. HR round mostly revolves
+around the question of location preference and having an idea of doing masters. I
+answered them aptly and that’s what I’d suggest you as well. From the  2 people in the
+last round, I was offered placement.
+
+Tips and Tricks
+
+Core concepts knowledge, Projects, confidence :)
+
+Preparation docs or playlists (if any)
+
+Striver’s DSA sheet, SDE sheet and his videos
+

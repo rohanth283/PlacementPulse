@@ -1,0 +1,89 @@
+Gokul.V – Technology Engineer Interview Experience
+at Thirdwave Japan
+
+About the Company
+
+Thirdwave  Japan  is  a  renowned  technology  solutions  provider  focused  on  innovation  in  hardware  and
+
+software systems. Headquartered in Tokyo, the company has a global presence and offers cutting-edge
+
+tech solutions in embedded systems, AI, robotics, and industrial IoT. With a strong emphasis on quality,
+
+precision,  and  continuous  improvement,  Thirdwave  collaborates  internationally  to  develop  smart
+
+solutions aligned with Japan’s legacy of technological excellence.
+
+About the Role
+
+Technology  Engineer  at  Thirdwave  Japan  involves  hands-on  contributions  to  software  development,
+
+embedded  systems,  and  R&D;  initiatives.  The  role  is  expected  to  contribute  toward  real-time  system
+
+development, debugging, and deployment in live environments. Collaboration with Japanese engineers
+
+is a core part of the role, promoting cross-cultural work ethics, continuous learning, and problem-solving
+
+through advanced tools and techniques.
+
+Interview Process
+
+The  selection  process  was  simple  and  direct,  with  a  single  interview  round  where  4  candidates  were
+
+interviewed together in a group setting.
+
+The evaluation was based primarily on:
+
+- How well we communicated our thoughts and ideas
+
+- How confident we appeared while answering
+
+- The level of willingness and enthusiasm we showed toward working and adapting to life in Japan
+
+The process was interactive and focused more on personality, clarity, and passion, rather than technical
+
+depth.
+
+Interview Questions
+
+The panel mainly focused on understanding:
+
+- Self-Introduction: A crisp summary of education, key strengths, and career aspirations.
+
+-  Internship  Experience:  Described  the  domain,  responsibilities,  tech  stack,  outcomes,  and  technical
+
+learning.
+
+- Major Project Explanation: Covered the problem statement, tools used, challenges, and results.
+
+- Interest in Working in Japan: Expressed admiration for Japanese tech culture, learning work ethics, and
+
+enthusiasm for innovation.
+
+Interview Experience
+
+- The atmosphere was formal but encouraging.
+
+- Though it was a group interview, each candidate was given a fair chance.
+
+- The panel appreciated clarity in answers, sincerity, and willingness to adapt to Japanese culture.
+
+- No technical coding test was conducted; the focus was on communication and technical clarity.
+
+My Preparation
+
+1. Covered all the basic concepts like OOPs, DSA, SQL, OS, and Computer Networks.
+
+2. Developed a structured mind map for the projects mentioned in my resume, which helped me explain
+
+them effectively during the interview.
+
+3. Attended mock interviews to build confidence and improve communication skills.
+
+4.  Completed  a  Full  Stack  Web  Development  course,  which  served  as  an  additional  skill  to  boost  my
+
+resume.
+
+5.  Learned  more  about  the  company  and  gave  my  own  few  ideas  that  could  be  implemented  for  their
+
+growth.
+

@@ -1,0 +1,70 @@
+|             |                   |         | Amazon |                | Interview | Experience |
+| ----------- | ----------------- | ------- | ------ | -------------- | --------- | ---------- |
+| Hiring      | Process Overview: |         |        |                |           |            |
+| 1)An online | coding            | contest | on     | the HackerRank | platform  |            |
+2)Interview Round 1 (Focused on DSA & Problem Solving) – Conducted online
+| HackerRank | Online | Round | Experience: |     |     |     |
+| ---------- | ------ | ----- | ----------- | --- | --- | --- |
+I was given 2 coding questions from the pool of 6-8 to be solved in 70 min.
+| 1)Binary | Search on | Answer |     |     |     |     |
+| -------- | --------- | ------ | --- | --- | --- | --- |
+Given an array of length n (representing the number of delivery persons), where each index
+indicates the current number of orders assigned to each person, and an integer "k" representing
+| additional | orders to | be distributed |     | among | them. |     |
+| ---------- | --------- | -------------- | --- | ----- | ----- | --- |
+Minimize the maximum number of orders any person will have after distributing the additional
+orders.
+1<=n,k<=1e5;
+| 2)Ad-Hoc | problem |     |     |     |     |     |
+| -------- | ------- | --- | --- | --- | --- | --- |
+Given three vectors of the same length n (representing the number of people), each index in
+these vectors corresponds to the three different powers each person possesses. In a
+tournament, every person competes against every other person. Each match consists of three
+rounds, where the participants can use their powers in any order. A person is declared the
+winner of a match if they win at least two out of the three rounds. A round is won if the power
+used by a person is strictly greater than their opponent’s power for that round.
+For example, if person1 has powers [7, 4, 3] and person2 has powers [6, 5, 2], both can win
+depending on the permutation of powers they choose. However, if person1 has powers [10, 9, 2]
+and person2 has powers [4, 3, 1], person2 cannot win in any permutation.
+Return a boolean vector of size n, where each value indicates whether a person can win every
+| match | against all other | participants. |     |     |     |     |
+| ----- | ----------------- | ------------- | --- | --- | --- | --- |
+2<=n<=1e5;
+After the online test, you were directed to behavioral questions, which play a crucial role in the
+| selection | process.                |     |     |             |                   |     |
+| --------- | ----------------------- | --- | --- | ----------- | ----------------- | --- |
+| Out of    | over 1100 participants, |     |     | 85 students | were shortlisted. |     |
+
+| Interview | Round 1 (DSA | Round): |     |     |
+| --------- | ------------ | ------- | --- | --- |
+1)Given an array that represents the number of tools needed, along with "k" representing the
+total available tools, we need to distribute the tools sequentially in a circular manner.
+| Return | the index at which | the tools | run out. |     |
+| ------ | ------------------ | --------- | -------- | --- |
+1<=k<=1e9;
+2)https://leetcode.com/problems/possible-bipartition/description/
+| Finally | 15 students were     | selected. |     |     |
+| ------- | -------------------- | --------- | --- | --- |
+| Must Do | in Coding interview: |           |     |     |
+1)Think out Loud: Articulate your thought process and reasoning during problem-solving to keep
+| the interviewer | engaged | and to clearly | communicate | your approach. |
+| --------------- | ------- | -------------- | ----------- | -------------- |
+2)Understand the Crux of the problem: Before jumping into the solution, make sure you fully
+grasp the problem by asking any needed clarifying questions.Make observations from the
+problem
+3)Approach: Start with a Brute-Force Solution. Discuss the brute-force approach initially to show
+you can identify a basic starting point. Then, work on optimizing the solution if possible.
+| General | Preparation | Tips: |     |     |
+| ------- | ----------- | ----- | --- | --- |
+When practicing coding questions, start with daily problems on LeetCode and gradually
+transition to competitive programming sites like CodeForces. Instead of relying solely on
+YouTube tutorials, focus on learning from problem editorials. Use SDE sheets primarily for
+revision rather than as your primary resource. Understand how much time to allocate to a
+specific problem, and make sure to consistently participate in contests to improve your rating
+and time management skills. Above all, maintain consistency in your practice.
+All the best.
+Sasank K,
+CEG IT’25.
+| Email    | ID: sasankkoneti@gmail.com                           |     |     |     |
+| -------- | ---------------------------------------------------- | --- | --- | --- |
+| Contact: | https://www.linkedin.com/in/sasank-koneti-b32220279/ |     |     |     |

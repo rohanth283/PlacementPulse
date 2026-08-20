@@ -1,0 +1,73 @@
+**Placement Experience**
+
+**About Company: Complyance**
+
+We Simplify Global E-invoicing compliance and Ensure Seamless E-Invoicing API Integration Worldwide for Flawless Operations.
+
+**Role:** Full stack developer(Intern)
+
+**Preparation Strategy:**
+
+At First start with basic coding problems in geeks for geeks, leetcode, coding ninja, hackerrank, etc. Use all coding platforms at the initial stages to know about variety of coding problems.
+
+Master coding problems in arrays and strings because 70% of companies ask questions from them. Graph, Tree and linked list are asked in other 30% of companies with array and string problems. Use coding ninjas platform more because it gives company specific coding problems where they give most repeated coding questions by each companies for free. And try to optimize codes after solving the problem which enhance your coding skills.
+
+Side by side learn all concepts of oops, os, dsa little by little which can be useful in aptitude rounds and technical interviews. 50% of companies ask aptitude with coding questions but coding has more weightage and sometimes aptitude marks can save you as well.
+
+General aptitude questions can come from probability, permutations, quantitative, rational and proportion like blood relation, 2 man does work in 5 days, pipe fills bucket in ….., etc.
+
+**Placement drive experience (Complyance):**
+
+**Online Test:**
+
+Round 1- aptitude questions with probability, permutations, quantitative, rational and proportion.
+
+Round 2- there were 3 questions
+
+1. 3 sum equal to 0
+2. Word search(graph)
+3. Trapping rain water between blocks.
+
+**Technical:**
+
+They asked questions from only projects, what technologies are used, why they are used, they asked me to explain the working of project in depth.
+
+They asked for any extra projects and about internship.
+
+**HR:**
+
+More about the technical questions that I missed and asked some more technical questions about the technologies used in the company (like API).
+
+Explained more about company and office environment.
+
+Results were released 1 week later.
+
+**Tips and Tricks:**
+
+Practice at least 2 coding questions a day, and increase then number of problems per day in weekly basis.
+
+Participate in some mock interviews.
+
+In resume, add variety of projects, don’t only have python projects. Have a mixture of projects like 1 from Java, 1 from Python and other from C++ or something but Java is a must.
+
+Have full knowledge of the project that you have put in resume and learn some frontend technologies as well like javascript, React js, etc.
+
+Be confident in technical interviews because the interviewer only watches if you confident even you answer the question wrong. Just keep talking intechnical interviews even if the answer is a single line or word, try to elaborate the answer to 2 paragraphs.
+
+Try solving problem of the day in coding ninjas and company wise problems.
+
+**Preparation playlist:**
+
+I used striver sheet at the initial stages.
+
+<https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2>
+
+<https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/edit#gid=0>
+
+Just use it for getting thorough with concepts.
+
+**Bonus:**
+
+**Be persistent in problem solving and daily learning. Just don’t give up, your time will come when its right because many people had 10 to 15 rejections before getting to a better company and I had to wait for 6 months. There may be many politics inside or outside of placement process but just analyze on why it is not happening right if its not going your way and ignore the politics as it is not in our hands. Just don’t cheat and be true to yourself.**
+
+**Finally, I wanna thank all the people that have supported me and been around me in the past 6 months.**

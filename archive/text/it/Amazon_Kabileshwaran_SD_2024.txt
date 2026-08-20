@@ -1,0 +1,140 @@
+Amazon Internship Interview Experience
+
+-Kabileshwaran SD ( 2021115046 )
+
+About the company
+
+Amazon is a global tech company that started as an online bookstore and grew into one of the
+largest e-commerce platforms. It lead in cloud computing with AWS, innovate with devices
+like Echo, and focus on customer obsession, operational excellence, and continuous
+innovation.
+
+Role details Offered role:
+
+SDE Intern (Software Development Engineer)
+Tenure: 2 months
+
+Preliminary Round
+
+The preliminary round was conducted online using Amazon's own coding platform. In this
+round, there were 2 coding questions that needed to be solved within 1.5 hours. While I don't
+recall the exact wording of the questions, the first question was like
+
+You are given a list of product names as strings, representing the order in which customers
+have interacted with them on Amazon's platform. You need to determine the order of these
+product names based on their frequency of occurrence. If two product names have the same
+frequency, the one that appears second or more times before the other should come first.
+Write a function that returns a list of product names sorted by these criteria.
+
+Input:
+
+A list of strings where each string represents a product name.
+
+Output:
+
+A list of strings sorted by frequency of occurrence. If two product names have the same
+frequency, the one that appears for the last time before the other in the input list should
+appear first in the output list.
+
+Example:
+
+Input: ["Laptop", "Phone", "Tablet", "Laptop", "Phone", "Tablet", "Tablet"]
+Output: ["Tablet", "Laptop", "Phone"]
+
+Explanation:
+
+
+
+
+"Tablet" appears 3 times.
+"Laptop" appears 2 times.
+
+
+
+"Phone" appears 2 times.
+
+Since "Tablet" has the highest frequency, it appears first. "Laptop" and "Phone" have the
+same frequency, but "Tablet" appears before "Phone" for the second time, so "Tablet" comes
+before "Phone" in the output.
+
+The second question was related to some mathematical operation with the string. I can’t
+remember the exact question and it was a medium level question.
+
+I managed to solve both coding problems in the preliminary round within 20-25 minutes.
+After the coding test, there was a mandatory work-level assessment, consisting of around 60
+questions focused on Amazon's Leadership Principles. Many candidates mentioned that they
+completed both coding problems but chose to skip this work-level assessment, which resulted
+in them not being shortlisted. Therefore, it is crucial to complete the work-level assessment to
+proceed in the selection process.
+
+For more information on Amazon's Leadership Principles, you can refer to this link.
+
+Technical Interview:
+
+Around 400 students attended the online test and out of that only 20 students got selected for
+the next round.
+
+We received a 1-hour time slot for an online interview the day before the interview, which
+took place on Amazon Chime. At the start of the interview, the interviewer sent a code editor
+link via email, where he pasted the question. I was required to write my solution directly in
+that code editor.
+
+The interviewer, an SDE-II from Amazon's Bangalore office, briefly introduced himself and
+mentioned that he had reviewed my resume, so he did not need an introduction from me. The
+interview began with a question related to a payment system project I had worked on. After
+explaining my solution, he seemed satisfied. He then casually asked how my day was going,
+to which I mentioned that I had a compiler exam that morning. This led to questions about the
+usefulness of studying compilers, which I answered by explaining their relevance.
+
+The interviewer then moved on to the coding question, which was a variation of the three-
+sum problem. The task was to return all unique combinations, even if there were repetitive
+elements. I first explained the brute-force approach and then moved on to the optimal
+solution, detailing the time and space complexities for each. After the explanation, he asked
+me to write the code in the code editor, and we conducted a dry run together. He also inquired
+about the time complexities of operations like insertion, search, and delete in map and set.
+
+During the interview, the interviewer briefly asked me to explain Binary Search Trees (BST).
+He then gave me a BST-related question: I was asked to perform preprocessing on a given
+BST so that after this preprocessing, a preorder traversal would return the values in
+descending order. I explained and implemented a solution using the mirror algorithm.
+Reference. The interviewer was surprised that I solved it within 5 minutes. He then asked
+about the time complexity of this recursive solution, followed by questions about space
+complexity, such as the number of stacks created, the worst-case conditions, and the number
+
+of stacks if the tree is skewed. We discussed further details related to both time and space
+complexities.
+
+At the end of the interview, he asked if I had any questions. I inquired about the work culture
+at Amazon and asked him about his personal experience working there.
+
+Result: The following afternoon, I was preparing for my Lab exam when, around 11 am, I
+received news from CUIC that out of 20 candidates, only 2 had been shortlisted, and I was
+one of them. I was so happy about the result that I almost forgot I had an exam that
+afternoon! 😅
+
+Tips:
+
+  Always start by explaining the brute-force solution, even if you already know the
+
+optimal approach as they will assess your thought process too.
+
+  Stay engaged during the interview; avoid being silent.
+
+Preparation Docs:
+
+For my preparation, I personally followed Striver's A2Z DSA sheet, which you can find here.
+This resource helped me understand and cover most of the patterns in DSA. After learning
+each new topic, I also solved random questions from LeetCode and GeeksforGeeks to
+reinforce my understanding. Additionally, I followed Abdul Bari's DSA Algorithms playlist,
+which provided a solid foundation in various algorithms.
+
+Instead of focusing on solving a large number of similar problems, I recommend trying to
+solve a variety of different patterns. This approach not only prepares you for unexpected
+questions but also builds a deeper understanding of DSA concepts.
+
+All the very best! Feel free to reach out to me if you have any doubts.
+
+  LinkedIn Profile: Kabileshwaran SD
+  Contact Number: +91 6380178240
+  Email: kabilsrinivasan2004@gmail.com
+

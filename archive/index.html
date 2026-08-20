@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PlacementPulse | Prep AI Dashboard</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Highlight.js for Code Highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+    <!-- Marked.js for Markdown Parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Chart.js for Insights Dashboard -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- SortableJS for Smooth Drag and Drop Chat Reordering -->
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+    <!-- Custom Style -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- App Loading Screen (Prevents auth reload flashes) -->
+    <div class="app-loading-screen" id="app-loading-screen">
+        <div class="app-loading-spinner"></div>
+        <div class="app-loading-text">PlacementPulse</div>
+    </div>
+
+    <!-- Authentication Screen Overlay -->
+    <div class="auth-overlay hidden" id="auth-overlay">
+        <div class="auth-card">
+            <div class="auth-header">
+                <div class="auth-logo">
+                    <i data-lucide="sparkles"></i>
+                </div>
+                <h2>PlacementPulse</h2>
+                <p id="auth-subtitle">Log in to access candidate experiences & placement chat</p>
+            </div>
+            
+            <div class="auth-toggle">
+                <button class="toggle-btn active" id="btn-toggle-login">Log In</button>
+                <button class="toggle-btn" id="btn-toggle-signup">Sign Up</button>
+            </div>
+            
+            <form id="auth-form" class="auth-form-fields">
+                <div class="form-group">
+                    <label for="auth-username">Username</label>
+                    <input type="text" id="auth-username" placeholder="Enter username" required autocomplete="username">
+                </div>
+                <div class="form-group">
+                    <label for="auth-password">Password</label>
+                    <input type="password" id="auth-password" placeholder="Enter password" required autocomplete="current-password">
+                </div>
+                <div class="auth-error-msg" id="auth-error"></div>
+                <button type="submit" class="auth-submit-btn" id="auth-submit-btn">Log In</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Main App Container -->
+    <div class="app-container hidden" id="app-container">
+        
+        <!-- Mobile Sidebar Dim Overlay -->
+        <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+        <!-- Sidebar Navigation (ChatGPT style, collapsible) -->
+        <aside class="sidebar" id="app-sidebar">
+            <div class="logo-area">
+                <div class="logo-icon">
+                    <i data-lucide="sparkles"></i>
+                </div>
+                <div class="logo-text">
+                    <h1>PlacementPulse</h1>
+                    <span>Dashboard</span>
+                </div>
+                <button class="sidebar-collapse-btn" id="btn-sidebar-collapse" title="Collapse Sidebar">
+                    <i data-lucide="chevron-left"></i>
+                </button>
+            </div>
+            
+            <!-- ChatGPT style New Chat button -->
+            <button class="new-chat-btn" id="btn-new-chat">
+                <i data-lucide="plus"></i>
+                <span>New Chat</span>
+            </button>
+            
+            <!-- Conversation History List (ChatGPT style) -->
+            <div class="sidebar-section-title">Recent Chats</div>
+            <div class="chat-history-list" id="sidebar-chat-history">
+                <!-- Populated dynamically -->
+            </div>
+            
+            <div class="sidebar-section-title">Navigation</div>
+            <nav class="nav-menu">
+                <button class="nav-item active" data-tab="chat">
+                    <i data-lucide="message-square"></i>
+                    <span>Placement Chat</span>
+                </button>
+                <button class="nav-item" data-tab="explorer">
+                    <i data-lucide="search"></i>
+                    <span>Experiences Explorer</span>
+                </button>
+                <button class="nav-item" data-tab="insights">
+                    <i data-lucide="bar-chart-3"></i>
+                    <span>Insights Dashboard</span>
+                </button>
+                <button class="nav-item" data-tab="settings">
+                    <i data-lucide="settings"></i>
+                    <span>Settings</span>
+                </button>
+            </nav>
+            
+            <!-- Settings & Profile Footer -->
+            <div class="sidebar-footer">
+                <div class="user-profile-bar">
+                    <div class="user-avatar" id="user-initials">U</div>
+                    <div class="user-info">
+                        <span id="user-display-name">Username</span>
+                        <span id="user-role-label">Candidate</span>
+                    </div>
+                    <button class="logout-btn" id="btn-logout" title="Log Out">
+                        <i data-lucide="log-out"></i>
+                    </button>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="content-header">
+                <div class="header-left-group">
+                    <button class="mobile-toggle-btn" id="btn-mobile-toggle" title="Toggle Sidebar">
+                        <i data-lucide="menu"></i>
+                    </button>
+                    <button class="desktop-toggle-btn" id="btn-desktop-toggle" title="Toggle Sidebar">
+                        <i data-lucide="sidebar"></i>
+                    </button>
+                    <div class="header-title">
+                        <h2 id="tab-title">PlacementPulse</h2>
+                        <p id="tab-desc">Insights, Trends, and Placement Analytics.</p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <div class="help-dropdown-wrapper">
+                        <button class="help-btn" id="btn-help" title="Contact Support">
+                            <i data-lucide="help-circle"></i>
+                            <span>Help</span>
+                        </button>
+                        <div class="help-dropdown-menu" id="help-menu">
+                            <p>If you encounter any bugs or issues, please reach out to:</p>
+                            <a href="mailto:rohanths@gmail.com">rohanths@gmail.com</a>
+                        </div>
+                    </div>
+                    <div class="api-indicator">
+                        <span class="status-dot"></span>
+                        <span class="status-text">RAG Active</span>
+                        <span class="indicator-divider">|</span>
+                        <i data-lucide="cpu"></i>
+                        <span>Gemini 3.5 Flash</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Tab Content: Chat -->
+            <section class="tab-panel active" id="panel-chat">
+                <div class="chat-layout">
+                    <div class="chat-messages-container" id="chat-messages">
+                        <!-- Welcome message -->
+                        <div class="message system">
+                            <div class="avatar"><i data-lucide="bot"></i></div>
+                            <div class="message-wrapper">
+                                <div class="message-content markdown-body">
+                                    <p>Hi there! I am **PlacementPulse**. I have indexed 250+ candidate placement experiences across top tech companies.</p>
+                                    <p>Ask me anything about the selection process, coding questions asked, SQL tasks, interview durations, packages, or preparation tips. I will answer based *only* on actual candidate transcripts and provide citations.</p>
+                                </div>
+                                <div class="message-meta">PlacementPulse • Just now</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Quick Suggestions -->
+                    <div class="suggestion-chips">
+                        <button class="suggestion-chip">What coding questions did Amazon ask?</button>
+                        <button class="suggestion-chip">What is the selection process at Appian?</button>
+                        <button class="suggestion-chip">Give me tips for Wells Fargo</button>
+                        <button class="suggestion-chip">Which companies asked DBMS questions?</button>
+                    </div>
+
+                    <!-- Input Area -->
+                    <div class="chat-input-container">
+                        <div class="filter-bar-mini">
+                            <div class="filter-label"><i data-lucide="sliders-horizontal"></i> Filter Context:</div>
+                            <select id="chat-company-filter" class="mini-select">
+                                <option value="">All Companies</option>
+                                <!-- Populated dynamically -->
+                            </select>
+                        </div>
+                        <form id="chat-form" class="chat-input-form">
+                            <input type="text" id="chat-input" placeholder="Ask about packages, rounds, coding questions..." required autocomplete="off">
+                            <button type="submit" class="send-btn" id="send-button">
+                                <i data-lucide="send"></i>
+                            </button>
+                        </form>
+                    </div>
+
+                    <!-- Warning Area when API key is missing -->
+                    <div class="chat-key-warning hidden" id="chat-key-warning">
+                        <div class="warning-content">
+                            <i data-lucide="key-round" class="warning-icon"></i>
+                            <h4>Gemini API Key Required</h4>
+                            <p>To ask questions and search student interview experiences using AI, you need to configure your personal Gemini API Key first.</p>
+                            <button class="settings-redirect-btn" id="btn-chat-go-to-settings">
+                                <span>Go to Settings</span>
+                                <i data-lucide="arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab Content: Explorer -->
+            <section class="tab-panel" id="panel-explorer">
+                <div class="explorer-toolbar">
+                    <div class="toolbar-left-side">
+                        <div class="search-box">
+                            <i data-lucide="search"></i>
+                            <input type="text" id="search-input" placeholder="Search candidates, questions, or topics...">
+                        </div>
+                        <div class="filter-controls">
+                            <div class="select-wrapper">
+                                <i data-lucide="building-2"></i>
+                                <select id="filter-company">
+                                    <option value="">All Companies</option>
+                                    <!-- Populated dynamically -->
+                                </select>
+                            </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="calendar"></i>
+                                <select id="filter-year">
+                                    <option value="">All Years</option>
+                                    <option value="2026">2026</option>
+                                    <option value="2025">2025</option>
+                                    <option value="2024">2024</option>
+                                    <option value="2023">2023</option>
+                                </select>
+                            </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="briefcase"></i>
+                                <select id="filter-role-type">
+                                    <option value="">All Types</option>
+                                    <option value="Placement">Placement</option>
+                                    <option value="Internship">Internship</option>
+                                </select>
+                            </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="bar-chart"></i>
+                                <select id="filter-difficulty">
+                                    <option value="">All Difficulties</option>
+                                    <option value="Easy">Easy</option>
+                                    <option value="Medium">Medium</option>
+                                    <option value="Hard">Hard</option>
+                                </select>
+                            </div>
+                            <div class="select-wrapper">
+                                <i data-lucide="graduation-cap"></i>
+                                <select id="filter-department">
+                                    <option value="">All Departments</option>
+                                    <option value="CSE">CSE</option>
+                                    <option value="IT">IT</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Direct Redirect Links -->
+                    <div style="display: flex; gap: 0.65rem; align-items: center; flex-wrap: wrap;">
+                        <a href="https://placement.cseaceg.org.in/" target="_blank" rel="noopener noreferrer" class="csea-redirect-btn">
+                            <span>Go to CSEA Portal</span>
+                            <i data-lucide="external-link"></i>
+                        </a>
+                        <a href="https://istaceg.in/placement" target="_blank" rel="noopener noreferrer" class="ist-redirect-btn">
+                            <span>Go to IST Portal</span>
+                            <i data-lucide="external-link"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="explorer-grid" id="experiences-grid">
+                    <!-- Cards populated dynamically -->
+                </div>
+            </section>
+
+            <!-- Tab Content: Insights (Active on load) -->
+            <section class="tab-panel" id="panel-insights">
+                <!-- Stats Overview -->
+                <div class="insights-stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon purple"><i data-lucide="users"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-total-experiences">0</span>
+                            <span class="stat-label">Total Candidate Experiences</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon pink"><i data-lucide="building-2"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-total-companies">0</span>
+                            <span class="stat-label">Companies Represented</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon blue"><i data-lucide="award"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-avg-rounds">4</span> <!-- Standardized to positive integer 4 instead of 4.2 -->
+                            <span class="stat-label">Avg. Interview Rounds</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon orange"><i data-lucide="trending-up"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-val" id="stat-top-package">25.5 LPA</span>
+                            <span class="stat-label">Highest Package Mentioned</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Charts Area -->
+                <div class="insights-charts-grid">
+                    <div class="chart-card">
+                        <h3>Top Companies by Experience Submissions</h3>
+                        <div class="chart-container">
+                            <canvas id="companyChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Interview Difficulty Distribution</h3>
+                        <div class="chart-container">
+                            <canvas id="difficultyChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Data Source Verification Panel -->
+                <div class="insights-verification-card">
+                    <div class="verification-header">
+                        <i data-lucide="shield-check" class="verified-icon"></i>
+                        <h3>Data Source Verification</h3>
+                    </div>
+                    <p class="verification-subtitle">All aggregates, charts, and chatbot answers are compiled from 256 student interview transcript files. Verifiable text source list:</p>
+                    <div class="verified-sources-list" id="verified-sources-container">
+                        <!-- Populated dynamically by app.js -->
+                    </div>
+                </div>
+                
+                <!-- Insights text summary -->
+                <div class="insights-summary-card">
+                    <div class="summary-header">
+                        <i data-lucide="lightbulb" class="lightbulb-icon"></i>
+                        <h3>Key Trends & General Candidate Tips</h3>
+                    </div>
+                    <div class="summary-body">
+                        <ul>
+                            <li><strong>Resume Veracity:</strong> Candidate transcripts heavily stress that interviewers go line-by-line through the resume. Bluffing is easily caught.</li>
+                            <li><strong>Speak Your Mind:</strong> In coding rounds, interviewers value communication. Explain your approach while coding and start with a brute-force before optimizing.</li>
+                            <li><strong>Core Foundations:</strong> DSA, DBMS (specifically joins, aggregation, normalisation), and Operating Systems (mutex, critical sections) are tested across almost all technical rounds.</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Tab Content: Settings -->
+            <section class="tab-panel" id="panel-settings">
+                <div class="settings-container">
+                    <div class="settings-card">
+                        <div class="settings-header">
+                            <i data-lucide="key-round"></i>
+                            <h3>Gemini API Configuration</h3>
+                        </div>
+                        <p class="settings-subtitle">Enter your personal Gemini API Key. Your key is securely saved in the database and only used to compute query embeddings and response contexts during your sessions.</p>
+                        
+                        <div class="settings-body">
+                            <form id="settings-key-form">
+                                <div class="form-group">
+                                    <label for="settings-api-key">Gemini API Key</label>
+                                    <div class="api-key-input-wrapper">
+                                        <input type="password" id="settings-api-key" placeholder="AIzaSy..." autocomplete="off">
+                                        <button type="button" id="btn-toggle-key-visibility" class="toggle-visibility-btn" title="Toggle visibility">
+                                            <i data-lucide="eye"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="settings-status-message" id="settings-key-status"></div>
+                                <div class="settings-actions">
+                                    <button type="submit" class="settings-submit-btn" id="btn-save-key">Save API Key</button>
+                                    <button type="button" class="settings-delete-btn" id="btn-delete-key">Remove Key</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    
+                    <div class="settings-card info-card">
+                        <div class="settings-header">
+                            <i data-lucide="info"></i>
+                            <h3>How to get a Gemini API Key?</h3>
+                        </div>
+                        <div class="settings-body">
+                            <ol class="setup-steps">
+                                <li>Go to the <a href="https://aistudio.google.com/" target="_blank" rel="noopener noreferrer">Google AI Studio <i data-lucide="external-link"></i></a>.</li>
+                                <li>Sign in with your Google account.</li>
+                                <li>Click on the <strong>"Get API key"</strong> button in the sidebar.</li>
+                                <li>Click <strong>"Create API key"</strong>, select a project, and copy the generated key.</li>
+                                <li>Paste the key in the input above and click <strong>"Save API Key"</strong>.</li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Slide-over panel for viewing full candidate experience -->
+        <div class="slide-panel-overlay" id="panel-overlay"></div>
+        <div class="slide-panel" id="detail-panel">
+            <div class="panel-header">
+                <div class="panel-title-area">
+                    <span class="panel-company" id="panel-company-badge">Company</span>
+                    <h3 id="panel-candidate-name">Candidate Name</h3>
+                    <p class="panel-meta-info">
+                        <span id="panel-role-info"><i data-lucide="briefcase"></i> SDE</span>
+                        <span id="panel-package-info"><i data-lucide="banknote"></i> 25.5 LPA</span>
+                    </p>
+                </div>
+                <button class="close-panel-btn" id="close-panel-btn">
+                    <i data-lucide="x"></i>
+                </button>
+            </div>
+            <div class="panel-body">
+                <div class="meta-pills">
+                    <div class="meta-pill"><span class="label">Dept:</span> <span id="panel-dept-badge" class="badge">CSE</span></div>
+                    <div class="meta-pill"><span class="label">Difficulty:</span> <span id="panel-difficulty-badge" class="badge">Medium</span></div>
+                    <div class="meta-pill"><span class="label">Year:</span> <span id="panel-year-badge" class="badge">2025</span></div>
+                    <div class="meta-pill"><span class="label">Type:</span> <span id="panel-type-badge" class="badge">Placement</span></div>
+                    <div class="meta-pill"><span class="label">File:</span> <span id="panel-filename">filename.txt</span></div>
+                </div>
+                <hr class="panel-divider">
+                <div class="experience-text-content markdown-body" id="panel-experience-text">
+                    <!-- Text content loaded here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script Entry -->
+    <script src="app.js"></script>
+</body>
+</html>

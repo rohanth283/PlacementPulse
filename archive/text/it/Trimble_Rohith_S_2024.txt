@@ -1,0 +1,29 @@
+**About the Company**
+
+**Trimble** is a global company that specializes in providing innovative software, hardware, and services to a wide range of industries such as construction, agriculture, transportation, and government. The company's solutions help customers enhance productivity and streamline workflows.
+
+**About the Role**
+
+The role involves UI development in the Building and Construction domain for Trimble Access, primarily using C++ with a focus on the Qt and QML frameworks.
+
+**Preparation Strategy**
+
+1.Communication Skills: Develop strong communication skills to build confidence and clarity, which is crucial for interactions with interviewers.
+
+2. Coding Practice: Focus on coding problems, especially on platforms like LeetCode, targeting key areas like arrays and strings, as these concepts are frequently tested.
+
+3. Approach to Problem-Solving: Even if you are familiar with a problem, act as if you are encountering it for the first time. Provide the best solution without dragging out the explanation.
+
+4. Concept Clarity: Be precise with the concepts and terminology you use. Avoid mentioning topics you are unsure of, as interviewers often dive deeper based on your responses.
+
+**Placement Drive Experience**
+
+- Online Test: Focus on passing test cases efficiently, considering both accuracy and time taken, to clear this round successfully.
+
+- Technical Interview: Maintain clarity on concepts, avoid mentioning uncertain topics, and handle each question with confidence. If stuck, move on to the next question to manage time effectively.
+
+- HR Interview: Beyond technical skills, emotional intelligence (EQ) is evaluated. Showcase leadership qualities and handle situational questions tactfully.
+
+**Tips and Tricks**
+
+- If you find yourself unclear or stuck during an answer, smoothly shift the conversation toward your areas of strength.

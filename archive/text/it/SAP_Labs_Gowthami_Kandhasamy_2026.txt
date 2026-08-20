@@ -1,0 +1,122 @@
+Campus Recruitment Experience – SAP Labs
+
+About the company:
+
+SAP (Systems, Applications, Products in Data processing) is a German multinational company, headquartered
+
+in Walldorf, Germany. Founded in 1972, the company is the world’s largest vendor of Enterprise Resource Planning
+(ERP) software, integrating business-critical processes like finance, human resources, accounting, supply chain and
+analytics into a unified system.
+
+About the role:
+
+The position offered was Developer Associate (Software Design and Development) with placement in
+the SAP S/4HANA product line, the company’s flagship ERP suite. S/4HANA is built on SAP’s in-memory database and
+serves as the digital core for enterprises, meant to cover all day-to-day processes of an enterprise and core
+capabilities.
+
+Recruitment Process:
+
+1.  Online Assessment:
+
+Questions:
+
+•  Adjust the multiset of {0,1,2} elements by additions or deletions until each element’s frequency equals
+
+its value.
+
+•  Given an array of maximum heights of skyscrapers, return a strictly unique set of actual skyscraper
+
+heights. Validity is guaranteed; any correct solution suffices.
+
+•  Duration: 100 minutes
+•  Candidates: ~280
+•  Shortlisted for Interview: 89
+
+2.  Technical Round I:
+
+The discussion here was focused on the projects and skills listed on the resume. There were also questions from
+DSA, OS, DBMS, and system design.
+
+DSA:
+
+•  An array-based DSA question based on odd and even indices which I don’t recall fully. I explained my
+
+approach and had to write out the full code in a language of my choice.
+
+DBMS:
+
+•  The database schema of one of my full-stack projects was inquired about.
+•  Design the normalized schema as well as the optimal query for a given scenario.
+
+System Design:
+
+1
+
+•  The question was framed as a scenario but it was to design a ticket booking system to prevent multiple
+
+bookings of the same seat.
+
+•  Duration: 1 hour
+•  Shortlisted: ~35
+
+3.  Technical Round II:
+
+There were two DSA questions:
+
+•  Design an algorithm for random number generation.
+•  The second one was a modified graph ordering problem under constraints. Since I was able to come up
+
+with the optimal solution early on, I was not asked to code it out.
+
+There were a variety of extended questions from core subjects and my projects such as:
+•  RESTful API design
+•  How to remediate corrupted JWT tokens?
+•  Explain different types of access control vulnerabilities
+
+•  Duration: 1.5 hours
+•  Shortlisted: ~15 + waitlist
+
+4.  Managerial Round:
+
+This round was focused on my behavioural and situational skills—how I would deal with conflicts within team
+and with upper management, what I would do if I were leading a discordant team, etc. Current affairs were
+discussed. When I mentioned the industry trends I was following, there were a lot of follow-up questions that
+probed for depth of understanding and critical analysis. Additional topics included opinions on AI regulation,
+personal strengths and weaknesses, and approach to team leadership.
+
+•  Duration: ~40 minutes
+
+5.  HR round:
+
+This round included one technical question related to a project and a set of personal questions. There was a
+briefing on my role, the department I'll work in, team, compensation, relocation, reimbursements, etc.
+
+•  Duration: 30 minutes
+•  Final offers extended: 10
+
+General tips:
+
+1.  Prepare core subjects (DSA, DBMS, OS, CN, OOPS) at an applied level.
+2.  Think aloud and communicate concisely. Interviewers are more interested in your thought process rather
+
+than the perfect solution.
+
+3.  Always clarify context with the interviewer before proposing the solution.
+4.  Be transparent. List only skills you actually possess and say “I don’t know” when you don’t.
+5.  Use the closing discussion to evaluate what they’re offering you. The ROI is mutual.
+
+2
+
+6.  An interview is a two-way discussion of fit between you and the organization, not an evaluation of individual
+
+worth.
+
+Wishing you success in your future endeavours.
+
+Best Regards,
+
+Gowthami Kandhasamy (IT 22-26)
+
+3
+

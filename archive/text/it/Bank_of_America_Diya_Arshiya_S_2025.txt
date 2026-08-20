@@ -1,0 +1,73 @@
+**Diya Arshiya S**
+
+**Bank Of America Placement Experience**
+
+**About the Company:**
+
+Bank of America is a leading global financial institution committed to improving financial lives through responsible growth. Guided by its core values of integrity, inclusion, and purpose, the company serves clients, communities, and shareholders with a focus on innovation and sustainability. In India, it operates through BA Continuum India Private Limited (BACI), its wholly-owned non-banking subsidiary, which supports the bank’s Global Business Services (GBS). BACI delivers integrated technology and operations support across banking, trading, and risk management functions worldwide. Renowned for its strong execution, risk management, and commitment to employee well-being, Bank of America fosters a culture of diversity, flexibility, and innovation to drive excellence on a global scale.
+
+**Overview of the interview process:**
+
+1. Video Interview round
+2. Technical Interview 1 (at CUIC)
+3. Technical + HR Interview 2 (at CUIC)
+
+**Video interview/coding round (90 mins):**
+
+* This online round consisted of 5 questions, 3 Hr Questions and 2 coding questions.
+* The coding questions were based on Arrays and strings , Hr questions had to be recorded with your camera and microphone switched on and the questions were “Explain the logic behind your code” , “Introduce yourself” and “Why do u think you are fit for the role at Bofa”.
+
+**Technical Interview 1 (40 mins)**
+
+The interview started with a simple introduction, where I talked about myself, my academic background, and my key projects. After that, they jumped straight into my projects. I was asked to explain each one in detail. They also asked if I had used Object-Oriented Programming (OOPs) in any of them, and when I said yes, they asked me to write a quick code snippet to show how I used it.
+
+For my web development project, they were curious about how I connected to the database and wanted me to walk them through the entire workflow of the project. I explained the tools and technologies I used, how I handled the backend, and the overall functionality.
+
+Next, they asked about my machine learning project. They tested me on some basic machine learning concepts and asked how I implemented the project , like what dataset and algorithms I used.
+
+Then they asked 2 coding questions , the first one was to reverse the words in a sentence and the second question was to find the longest subarray with a sum equal to k .After coding, they asked me to solve the classic "bag of coins" puzzle from GeeksforGeeks. I shared my logical approach and solved it.
+
+They followed this up with a quick SQL query to find the second largest salary in a table. Towards the end, they asked me a few basic questions on C++ and Python, covering things like memory management, data types in C++, Python libraries etc.
+
+**Technical + HR Interview 2 (35 mins):**
+
+This round was a mix of technical and HR questions.
+
+On the technical side, the focus was mainly on SQL and Python.
+
+* For SQL, they asked about all kinds of joins—inner join, left join, right join, self join, equi join, etc. I had to explain them and write examples.
+* They also gave me a simple subquery question to solve and asked if I had worked with triggers and procedures. I explained the basics and wrote down the syntax for both.
+* Write the code for detecting a loop or cycle in a linked list.
+
+For Python, they asked:
+
+* The difference between lists and tuples.
+* Some common dictionary operations and how dictionaries are used.
+* To write a simple palindrome-checking program.
+* List 10 built-in Python functions and explain their use cases.
+
+On the HR side, they asked questions like:
+
+* How I would handle a conflict with a team member.
+* What are my future aspirations and where I see myself in five years.
+* To talk about my achievements and a few other personal questions.
+
+One thing to note is that they repeatedly asked Python-related questions, even though I mentioned my core programming language is C++. So, my advice would be to brush up on Python if you’ve included it in your resume, as they might focus on it regardless of your primary language.
+
+**Preparation Tips:**
+
+* Be prepared to answer questions about anything you’ve mentioned in your resume. If you’ve listed a skill or a technology, make sure you know it in depth. Interviewers often test your understanding by asking detailed questions.
+* Practice explaining your projects step by step, including their purpose, your role, the technologies used, and any challenges you faced. Be ready to dive into technical details if asked.
+* Even if you’re unsure about something, stay calm and try to explain your thought process. If you don’t know the answer to a question, it’s okay to admit it rather than trying to guess or bluff.
+* Revise core concepts related to your primary programming language , OOPs, DBMS, OS , CN etc.
+
+**Preparation Resources:**
+
+**Coding Practice:** Regularly solve coding problems on platforms like LeetCode to strengthen your problem-solving skills.
+
+**GeeksforGeeks:** Use it to understand specific types of problems and practice puzzles, especially the **Top 100 puzzles** list. Their **Last Minute Notes** are great for subjects like Computer Networks (CN) and Operating Systems (OS).
+
+**Love Babbar Cheatsheets:** For a quick yet thorough revision, refer to these cheatsheets:
+
+* **OOPs:** [Love Babbar OOPs Cheatsheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
+* **DBMS:** [Love Babbar DBMS Roadmap](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)

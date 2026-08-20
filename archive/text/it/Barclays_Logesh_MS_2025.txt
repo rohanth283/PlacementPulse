@@ -1,0 +1,180 @@
+LOGESH M S -   IST 3rd year
+
+BARCLAYS INTERN
+
+About company :
+
+In India, Barclays plc is one of the largest UK employers and
+
+employs over 23,000 people spread across its banking, technology and shared
+services operations.
+
+Wealth & Investment Management, which operates through Barclays Securities
+& Investments Pvt Ltd (BSIPL), has attained a leading position within just five
+years of being set up and has been voted the Best Private Bank in India by The
+Asset for three years in a row.
+
+Through its subsidiaries - Barclays Shared Services and Barclays Technology
+Centre India - the Barclays Group employs high-quality talent that supports the
+bank's global operations and technology development.
+
+About the role:
+
+Technology Summer Intern- 2025
+
+Work on projects & tech on developing highly scalable application.
+
+Design and develop Micro services, GUI, Server components. Implement
+Functional solutions, unit test & coordinate releases and where applicable
+contribute to design sessions. Interact with end users & product owner to
+understand their requirements and build solution pertaining to that. Work as a
+part of a local team and liaise regularly with colleagues in other regions.
+Provide support to for the applications BAU work as needed
+
+Duration – 8 weeks
+
+Interview process:
+
+I had 3 rounds in the process.
+
+1.  Online test (Technical )
+2.  Interview Round – I
+3.  Interview Round –II
+
+Online test :
+
+o  The online test consist of 14 questions of which 12 are MCQ and 1
+
+coding question and one SQL query.
+
+o  MCQ questions covered the topics of simple logical questions in
+
+C++,java and some were given as pseudocode.
+
+o  Other than this there were conceptual questions on the above
+
+topics and SQL.
+
+o  Then there was a Coding question based on strings which was a
+
+medium level question .
+
+o  Last one was a SQL question where tables where given and we
+
+need to write a query to retrieve the required data.
+
+o  Weightage for coding and SQL questions were more than the
+
+other MCQ.
+
+Interview rounds:
+
+Round 1:
+
+o  The results came after two days and 29 students were shortlisted
+
+from CS and IT from both campuses.
+
+o  The interview had 2 rounds .
+o  The first round is a technical round where we were interviewed
+
+based on our resume and it was a pure technical round.
+
+o  The first thing I was asked was to introduce about myself in non
+
+academic terms(This was so different from my previous experience
+)
+
+o  I was asked to explain about my projects and its tech stack .Then
+they asked about logic and algorithms I used for one particular
+project .
+
+o  They asked me why I choose a particular method and tech stack .
+o  Then  there were questions on DSA focusing on stack ,queue,
+
+heaps and trees.
+
+o  Questions on specific programming languages were also asked.
+o  Then in DBMS I was asked questions on basic concepts and I was
+
+given some questions on joins .
+
+o  Then there was a discussion on where my project could be
+
+implemented .
+
+o  In the end I was given a chance to ask some questions to the
+
+interviewer .
+
+o  The interview went for about 25 minutes and 2 interviewers
+
+interviewed me
+
+Round 2:
+
+o  This was a HR round and the questions were testing how I would
+have reacted and what I would have done in scenarios of relating
+to projects and technical experiences
+
+o  The interview started by explaining about my projects
+o  I was asked about the coding experience I had in those projects
+o  Then based on my project experience I was asked certain HR
+interview questions which were like ‘ Did you come under this
+situation? If yes what you did to overcome ‘ . These questions
+were based on the company’s values RISES. The questions were
+expecting a answer on how I valued my team and their
+contributions , how I balanced every circumstances.
+o  They also kept an eye on our communication skills
+o  Then they gave a brief note on the company and gave a chance to
+
+ask some questions.
+
+o  With this the interview ended.
+o  This round went for around 15 – 20 minutes
+
+Preparations :
+
+o I started preparing for the coding rounds towards the end of  my 4 th
+semester and in the beginning I couldn’t find the right way to prepare.
+
+Our seniors then gave us a weekly intern preparation competitions .Then
+I became clear on how to continue the journey
+
+o Later in my semester holidays I utilized ACM CODE documents and
+contests for my preparations from which I started to involve more in
+problem solving in GeeksforGeeks and leetcode.
+
+o I continued these preparations even after my holidays and I gained
+confidence on problem solving and cleared some coding rounds.
+o Next thing is the resume. It is not about what experiences and projects
+you have in your resume. It’s on what you know about the projects and
+how you did that .The experiences and technical learning that you did in
+the projects matters the most for a intern interview .
+
+o I would suggest to be confident on your resume as the interviewer will
+
+continue the interview based on your resume .
+
+o Before going for an interview make sure you are good in the basics of
+
+OOPS ,DSA  concepts as most interview take a lead from the answers you
+give for these questions . Revise all subjects conceptually as well recall all
+the logics and algorithms you learnt in your course. Always be ready to
+explain everything in paper too.Gain some knowledge about the
+company and their values.
+
+o During the interview make sure that you speak about the things that you
+
+are clear and confident about.
+
+o Be  ready to ask questions to them as this will be  helpful to asses your
+curiosity.  Be calm and face the interviewer with full confidence.
+
+o The things that helped me to get this opportunity is my confidence and
+knowledge in my resume and projects. So my suggestion is to involve in
+projects , gain experiences and be strong with your resume to clear a
+interview round.
+
+ALL THE BEST FOR YOUR PREPARATIONS !!
+

@@ -1,0 +1,58 @@
+Interview Experience
+
+Name: Bharathi Selvakumar                                                                           Roll No: 2018115019
+
+Company: Searce Inc
+
+     The recruitment process consists of 4 rounds each being an eliminating round.
+
+Round 1 Online Test:
+
+It consists of logical reasoning, analytical questions. Had graph-based data interpretation
+
+questions. Quantitative questions including basic mathematical questions from mensuration. Nearly
+50 questions to be solved in 60 minutes.
+
+Round 2 Interview:
+
+The interviewer was very friendly asked me to introduce myself. The interview was mix of HR and
+technical questions. Some questions are:
+
+1.  Tell me three things which are note mentioned in your resume
+2.  The decision which you would like to change in your life and why?
+3.  About your passion in Life.
+4.  Why would you like to work in Searce?
+5.  Difference between linked list and array.
+6.  Explain about project and tech stack used for each. State your role in each project.
+7.  Some puzzles.
+
+                Round 3 Technical Interview:
+
+He asked some questions on my resume and about the certificates mentioned. Some questions are:
+
+1.  What is friend function and friend class?
+2.  Why do we need friend function?
+3.  What is shallow copy and deep copy?
+4.  What is inheritance, polymorphism?
+5.  What are virtual functions? Where do we use them?
+
+Coding Question: A string replacement question (language of our choice).
+
+Round 4 Interview :
+
+The interviewer was very friendly asked me to introduce myself. Asked some HR questions. Some
+questions are:
+
+1.  Calculate the yearly revenue of OLA.
+2.  Explain about Google cloud.
+3.  Explain about scope of your project.
+
+Round 5 HR Interview:
+
+The interviewer asked me to introduce myself. He asked preferred work location.I was
+
+informed by HR that I was also selected for SDE role. Totally 18 students were selected for various
+roles.
+
+                  ALL THE BEST !!!
+

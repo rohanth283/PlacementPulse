@@ -1,0 +1,96 @@
+    Placement Experience – TRIMBLE
+
+Online test(Codility):
+
+● 2 coding questions (matrix, string)
+● Coding questions were based on string and matrix concepts. If you covered arrays and
+strings thoroughly then you can easily solve these questions.
+● Test was for one and half hour
+● They provided us with Trimble'AI during the test for syntax clarification and to clarify
+our doubts regarding the questions or the approach by which we are gonna solve.
+
+Interview:
+
+● First round:
+Formal Self introduction and a walk through of my
+profile.
+During my ppt itself they told us for the first round they will ask questions from  DSA,
+DBMS, OS, OOPS so that they asked me to choose any one from these to start the
+interview.
+I started with OOPS (where they asked me to give real life examples for abstraction,
+polymorphism in the interview room itself)
+In DSA( They asked me which Data structure will be suitable for storing 1000 nodes and
+also accessing it have to be easy for that data structure and also the data structure can
+also be scalable in future - BST tree)
+In PUZZLES (they asked me to solve 9 coin problem in 3 iteration and then they asked
+me to optimise it for 2 iteration)
+In DBMS(They asked me to explain normalization concept)
+In SQL ( asked me to solve a question - i solved it using self join)
+In OS (They asked me “What is semaphore”)
+
+● Second round(System design):
+
+I was asked to explain about my projects( I explained my recent SRP project- Unity
+Connect)
+
+They asked how innovative I am while doing projects- I explained about my stack
+animation model for this question.
+
+They asked me to explain the Dikshtra algorithm with an example.
+
+They asked some situation based questions like (Being a team leader how will you
+assign work to your team mates, How will you plan to  manage your project deadlines)
+
+They asked my opinion about success and how will i react while someone criticise me
+
+They asked me some questions regarding my Club Activities (CSAU - Deputy head of
+HR and Logistics, GT- Mentor for Tamil article writing, CTF, Saas - volunteer, coordinator
+during cultural).
+
+● Third round(HR):
+
+This is basically general questions about you
+and your profile
+And some family background questions.
+
+They asked me which approach I tried to solve the online test questions.
+
+They asked about the codility platform experience and Trimble's AI experience.
+
+They asked about my strengths and weaknesses.
+
+General talk regarding family support and relocation possibilities.
+
+Tips for your interview:
+
+▪ Understand Your Resume Thoroughly:
+ Be prepared to discuss every line on your resume — projects, internships, skills, and
+achievements. The interviewer may pick any point to test your depth.
+
+▪ Be Clear About Your Strengths and Weaknesses:
+ Have 2–3 genuine strengths and 1–2 weaknesses ready. Be honest, but show that
+you’re working to improve your weaknesses.
+
+▪ Practice Basics from Core Subjects:
+ Revise your fundamentals — the interviewer often checks clarity in core concepts rather
+than advanced topics.
+
+▪ Know Your Projects Well:
+ Be ready to explain your project flow, tools used, your contribution, and the impact.
+Practice explaining it in simple, confident language.
+
+▪ Dress Professionally:
+ First impressions count. Wear neat, formal clothes and maintain proper grooming.
+
+▪ Be Honest When You Don’t Know:
+ If you don’t know an answer, admit it politely instead of guessing wildly. Say something
+like “I’m not sure right now, but I’d love to learn more about it.”
+
+▪ Keep a Positive Attitude:
+ Even if one round doesn’t go well, stay positive for the next. Interviewers notice how you
+handle pressure and setbacks.
+
+▪ Ask Thoughtful Questions:
+ At the end, when given a chance, ask about the company’s work culture, team, or
+upcoming projects. It shows curiosity and enthusiasm.
+

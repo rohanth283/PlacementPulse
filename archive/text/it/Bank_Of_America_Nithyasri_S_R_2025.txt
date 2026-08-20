@@ -1,0 +1,211 @@
+                             NITHYASRI S R
+
+About the Company
+                   Bank of America(BoA) is a multinational financial institution offering wide
+range of banking and financial services to individuals, businesses, and corporations. It
+is renowned for its consumer banking, wealth management through investment
+banking, and global markets operations. The bank is recognized for its innovation in
+digital banking and committed to sustainability and community development, it
+actively promotes affordable housing, financial literacy, and renewable energy
+initiatives. With a strong global presence and focus on diversity, it remains a key
+player in the global financial landscape.
+
+About the role
+
+The freshers from our college are initially recruited for the role of GET (Graduate
+Engineering Trainee) but the campus role at BoA offers opportunities across diverse
+areas.
+1. Development: Building advanced FinTech solutions for banking, trading, and risk
+using technologies like AI, ML, and cloud, focusing on areas like algorithmic trading,
+anti-money laundering, and digital banking.
+
+2. Testing: Ensuring product quality through functional and technical testing, risk
+assessment, and performance optimization using tools like Selenium and JIRA.
+
+3. Risk Management: Entry-level analysis in cloud governance, cybersecurity, and
+operational risk to enhance BoA's control environment.
+
+4. Infrastructure Operations: Software development to meet both functional and
+non-functional business needs, focusing on DevOps, testing, and automated release.
+
+5. Production Support: Event management, incident handling, and maintaining high
+availability in network and infrastructure operations.
+
+6. Cybersecurity: Safeguarding systems against cyber threats with technologies like
+SIEM,Splunk, and identity management tools.
+
+7. Identity & Access Management (IAM): Controlling access and managing
+compliance across various tech environments, ensuring security and governance.
+
+8. Core Security: Monitoring for security incidents, vulnerability assessments, and
+ethical hacking to protect BoA’s digital assets.
+
+Preparation Strategy
+
+✓  I started my preparation in my 6th semester leave (2 months).
+✓  Started with basics of DSA concepts(Arrays, Strings, LinkedList, Stack Queue,
+Recursion) and then advanced concepts(Binary Search, Trees, Graphs, DP)
+
+✓  DBMS and OOPs concept are important, side by side I covered that too.
+✓  Computer Networks and Operating System questions depends on the company,
+
+so I just learnt only basics of both.
+
+✓  System design is very important.(Try practicing project system design)
+
+Placement Drive Experience
+
+1.Online Video Assessment
+
+This assessment is a video interview where the questions will be on left side.
+
+✓  Tell me about yourself and how my qualifications & experience will relate to job
+
+role.
+
+✓  I was asked to solve 2 coding questions.
+
+                            1.Find intersection (string input)
+                            2.Find duplicates
+        We have to explain approach of both questions.
+
+✓  Another approach we thought to solve the coding questions and why we used this
+
+approach
+
+The video assessment will be for 90mintues.
+
+2. Interview Round 1
+
+I was asked to go first in my panel. The interviewer took 5 minutes to go through my
+resume. He asked top to bottom from my resume.
+
+✓  He introduced himself first and asked to introduce myself.
+✓  As I completed my internship in Amazon, he asked me to explain my internship
+
+project first (Just an overview, not in depth).
+
+✓  And then projects, I have included 3 projects in my resume. He asked about the
+
+technologies and database used.
+
+✓  As I have done project named online book store, he asked to explain what are the
+
+difference between my project and amazon book store?
+
+I was asked to explain all 3 projects completely.
+
+Then he came to skills part in my resume. I have mentioned C++, java, python
+languages.
+
+✓  Difference between C ++, python, java
+✓  I have to rate my skills for all programming languages (out of 10).
+✓  Generate random number between 1 to N.
+✓  As I have done blood donation application where I used firebase to store donor
+
+and recipient details. He asked me about the details stored in donor and
+recipients.
+
+✓  By using donor table, I was asked to update blood group of person where name =
+“xxxx” (by using SQL).  If there are multiple person of same name, what will be
+the condition? I said I will include name and userId(which is unique)
+
+✓  What are joins and different types of joins with example.
+✓  Asked me to write self-join query and explain it
+✓  What are DML,DDL,DCL?
+✓  Difference between inheritance and polymorphism.
+
+And then he came to roles and responsibilities part in resume.
+
+✓  What are all the things I did in that role?
+✓  How is my campus life?
+✓  What happens in college culturals? Like this type of questions
+✓  What do you know about Bank of America?
+✓  Why do you want to join BoA?
+✓  Where do you want to see yourself in next 5 years?
+✓  Any questions for them?
+
+That’s the end of my interview round 1. It took nearly 45 minutes, whereas some of
+my friends interview was only for 20 to 30 minutes.
+
+I came out and within five minutes, I was asked to go to another panel for my second
+round
+
+3. Interview Round 2
+
+✓  Tell me about yourself
+✓  Starts with my internship projects. She was asked me to explain complete project,
+What are the algorithms used? How I overcame difficulties in my project ? I used
+
+git commands in my project, she asked nearly 15 to 20 git commands and how it
+works?
+
+✓  How did you test whether your project is working fine? And ensures it doesnot
+
+affect other. I have done testing in internship project, so I am able to explain well
+about the testing process.
+
+✓  If some tests were failed, how do you know the reason for failure? How do you
+
+rectify it?
+
+And then she came to my projects
+
+✓  I was asked to explain blood donation application completely
+
+o  About frontend and backend
+o  How do you connect frontend with backend
+o  How do you use firebase in your project, how it works
+o  Asked me to write API code
+o  About User Interface
+o  System design of project
+o  What will you do if multiple requests comes at at time, which request would
+
+you prioritize first and why?
+
+✓  In IoT project, how hardware is connected with software?
+✓  What is the sensor range?
+✓  Asked me to write code for removing duplicates (Given string input like
+
+{“animal”,”horse”,”tiger”,”monkey”})
+
+✓  Define class and object in OOPs?
+✓  Define encapsulation , polymorphism, abstraction, inheritance with example
+✓  Difference between overriding and overloading
+✓  Write query to automatically assign value to each row by increment of 1000 (like
+
+1000,2000,3000,..)
+
+✓  Add unique key and primary key in SQL query
+✓  Add two columns as single primary key
+✓  Difference between unique key and primary key
+✓  What is normalization and purpose of normalisation
+✓  What is your strength and weakness?
+✓  Why should we hire you?
+✓  Where do you want to see yourself in next five years?
+✓  Any questions?
+
+Atlast I asked about my feedback, she said I did very well and my communication was
+excellent.
+
+That’s the end of my interview round 2.
+
+Tips and Tricks
+
+✓  Solve DSA problems consistently
+✓  Starts with basics and go to advance concepts
+✓  Side by side, start preparing OOPs, CN , OS DBMS concepts
+✓  Learn about system design
+✓  Before going to the interview, refer previously asked interview questions of the
+
+company so that you can get an idea of it.
+
+Materials
+
+✓  DSA – Take U Forward playlist (Strivers A-Z sheet and Strivers SDE sheet)
+✓  OOPs – Jenny’s lecture
+✓  Computer Networks , Operating System – Interviewbit questions
+✓  DBMS – Jenny’s Lecture & most asked top 50 SQL queries (google it)
+
+All the best!!!
+

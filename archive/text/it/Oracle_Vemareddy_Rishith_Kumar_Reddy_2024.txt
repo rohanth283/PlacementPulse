@@ -1,0 +1,48 @@
+* About the Company
+
+Oracle is Product based company, their main area is Databases (ATP), Automations, Cloud.
+
+They have their own tools and technologies (ex: java is owned by oracle now)
+
+* About the role
+
+Associate Software Developer is the one assigned to me, but I am working as a Cloud Engineer
+
+Every application I work is Cloud based and very tough to understand at the start, so many new terms and technologies to be learned
+
+* Preparation Strategy
+
+Striver Sheet, Know about ur projects clearly, Strong Fundamentals
+
+* Placement Drive experience (online test, GD, technical and HR interviews)
+
+We will be having three rounds
+
+**Round 1:**
+
+They asked me few Linux cmds, GK(who's our finance minister), DBMS related theory
+
+**Round 2:**
+
+For me it was totally not technical and asked few puzzles and a general talk
+
+**Round 3:**
+
+They gave me a case and told to write the DB query, and then full into technical stuff, discussion about the projects
+
+\*Each round 20 to 30min
+
+\*For few it went on for an 1hr (depends on the recruiter)
+
+\*DBMS we need to be strong in fundamentals
+
+\*What we mentioned in resume only they focused on
+
+* Tips and Tricks
+  1. Be confident.
+  2. Don’t be silent, whatever comes to ur mind just let it out (show them that u r trying ur best)
+  3. When they ask “do u have any Q to me?”, just ask smt related to their product
+  4. Research about the company before the interview
+  5. Make them feel that u r willing to learn things.
+  6. Prepare ur intro and goo (not more than 3min)
+* Preparation docs or playlists – Mostly online

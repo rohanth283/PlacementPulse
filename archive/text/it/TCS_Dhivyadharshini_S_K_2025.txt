@@ -1,0 +1,38 @@
+**PLACEMENT EXPERIENCE: TCS**
+
+**DHIVYADHARSHINI S K 2021115030**
+
+**ABOUT TCS:**
+
+Tata Consultancy Services (TCS) is an Indian multinational IT services and consulting company that provides business solutions to global businesses.
+
+**ROLE: SOFTWARE ENGINEER (NINJA: 3.6 LPA)**
+
+**PREPARATION STRATEGY:**
+
+* **DSA Practice**: Focus on Striver's A2Z CP Sheet and Striver's SDE Sheet for problem-solving.
+* **Technical Subjects**: Prioritize DBMS, OOPS,CN and OS.
+* **SQL Concepts**: Concentrate on mastering joins and subqueries, as these are frequently asked.
+* **Project**: Know the technologies used in your project and flow of your project.
+* **Aptitude:** Solve attitude from IndiaBix website
+
+**PLACEMENT EXPERIENCE:**
+
+**ROUND 1:(Online assessment – NQT Phase-1 test)**
+
+* The test was conducted in a TCSiON digital centre.
+* There were Aptitude questions which includes quantitative aptitude, verbal ability and numerical ability.
+* There were 2 coding questions both are easy questions.
+
+**ROUND 2:(Technical interview at TCS office)**
+
+The technical interview was held at TCS office Sholinganallur. It is basically only one round, all technical, behavioural and HR questions were asked. It began with the typical "Tell me about yourself" question, after which I was asked about my family background and about relocation. Then I was asked about two of my projects. And I were asked about basics of OOPS, DBMS and OS concepts. I were asked about leadership skills, problem solving skills and some questions on extra-curricular activities
+
+**TIPS AND TRICKS**
+
+* Practice aptitude consistently.
+* Interact actively during the interview and avoid being too silent.
+* Maintain confidence throughout the interview, even if nervous.
+* Be sure of your projects and the technologies used when discussing them.
+* Enhance your communication skills to clearly convey your thoughts and ideas during the interview.
+* Don’t miss any placement opportunities because of package. Try your best in all the places.

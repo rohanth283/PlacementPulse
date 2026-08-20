@@ -1,0 +1,75 @@
+BNY Mellon Internship Interview Experience
+
+About the Company
+
+The Bank of New York Mellon Corporation, commonly known as BNY
+
+Mellon, is an American multinational Investment banking services holding
+company headquartered in New York City. It is by far the world's largest
+custodian bank and asset servicing company BNY Mellon is an investment
+company, which provides investment management, investment services and
+wealth management helping institutions and individuals succeed in markets all
+over the world.
+
+Coding Round 1
+
+Timing: 90mins.
+Mode : Online
+
+Alike all the companies, Coding round was BNY Mellon's first level of
+selection process. There were 4 coding questions distributed across various
+domains and rated under different difficulty levels. The platform used was
+hackerrank. Out of these 4 questions, one was categorised as easy, two were
+medium and one was hard. Around 25 candidates were shortlisted based on
+the number of test cases passed and points, for the next round.
+
+Round 2: Technical Interview 1
+
+Timing: 40mins.
+Mode : Offline
+
+This round started with my self-introduction.The interviewer asked me to
+solve an aptitude question which is to find the next number in a sequence then
+he asked me to write the logic for the coding question - find all pairs of
+anagrams in list of strings and he asked about the fundamentals of sql and he
+asked to write the sql query for a easy question. He asked to explain the
+projects which I mentioned in my resume and also asked me about the recent
+technologies which inspired me the most and he asked some questions
+related to that. We are asked to write the answers in pen-paper mode. After
+answering all the questions he gave and he mentioned, to perform well in the
+next round.
+
+Round 3: Technical + HR interview
+
+Timing: 40mins.
+Mode: Offline.
+
+This round started with my self-introduction.The interviewer asked me
+to solve a  maths question based on Pythagorean theorem . He tested my
+knowledge of Oops, to explain the features of Oops with some real life
+examples. After I had explained to him, he asked me to explain my projects
+and he asked some questions related to that. He also asked me about
+some basics of cyber security like sql injection, phishing , XSS etc. Since
+my project was a team project, he asked about my ability to work as a team
+and how I used to manage team members when their performance is low.
+Then he asked me how I would keep myself up to date and what steps I
+made to learn new technologies apart from my curriculum.
+
+16 candidates were given the offer for summer internships.
+
+Tips:
+
+● Practice coding questions and attend contests on platforms like
+
+Leetcode, GFG , Hackerrank and codeforces.
+
+● Thorough with basics of OOPS and DBMS.
+● Make sure you have 2-3 good projects. It would be better if you have
+projects on Angular Js and Java (company may expects from you, not
+compulsory)
+
+● Most of the interview questions will be from the resume.
+
+This is Kanivan S from IT CEG of batch 2024.
+If you have queries, you can contact me on skanivan12@gmail.com
+

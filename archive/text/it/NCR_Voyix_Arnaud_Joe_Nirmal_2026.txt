@@ -1,0 +1,159 @@
+| Placement | Experience |     |        |     |          |           |        |
+| --------- | ---------- | --- | ------ | --- | -------- | --------- | ------ |
+|           | Arnaud     | Joe | Nirmal | A - | Software | Developer | Intern |
+arnaudjoenirmalceg@gmail.com — www.linkedin.com/in/arnaudjoenirmal
+| About | NCR | Voyix |     |     |     |     |     |
+| ----- | --- | ----- | --- | --- | --- | --- | --- |
+NCRVoyixCorporation(NYSE:VYX)isaleadingglobalproviderofdigitalcommercesolutionsfortheretail
+and restaurant industries. NCR Voyix transforms retail stores and restaurant systems with comprehensive,
+platform-ledSaaSandservicescapabilities. NCRVoyixisheadquarteredinAtlanta,Georgia,withcustomers
+| in more  | than 35 countries | across   | the globe. |                |            |     |     |
+| -------- | ----------------- | -------- | ---------- | -------------- | ---------- | --- | --- |
+| • #1 POS | Software          | Provider | for Retail | and Restaurant | industries |     |     |
+•
+| 100K+   | stores powered | by        | NCR Voyix         | retail solutions |               |     |     |
+| ------- | -------------- | --------- | ----------------- | ---------------- | ------------- | --- | --- |
+| • $227B | transactions   | processed | monthly           | through          | our platforms |     |     |
+| • 700M+ | transactions   | daily     | enabled worldwide |                  |               |     |     |
+As a strong product company, NCR Voyix drives transformation across industries:
+• Retail-PoweringmodernshoppingexperienceswithPOS,self-checkoutanddigitalcommerceplatforms.
+• Restaurants - Delivering seamless dining experiences through self-ordering kiosks, mobile ordering, and
+| loyalty | solutions. |     |     |     |     |     |     |
+| ------- | ---------- | --- | --- | --- | --- | --- | --- |
+• Payments - Secure, real-time payment processing solutions enabling trusted transactions.
+• Cybersecurity - Protecting mission-critical systems and ensuring safe, reliable commerce.
+•
+Field Engineering Services - Global support and innovation delivery through one of the industry’s
+| largest | service networks. |     |     |     |     |     |     |
+| ------- | ----------------- | --- | --- | --- | --- | --- | --- |
+From self-checkout systems and digital banking platforms to cloud-based SaaS solutions, NCR Voyix trans-
+| forms consumer | interactions | into        | meaningful | experiences. |     |     |     |
+| -------------- | ------------ | ----------- | ---------- | ------------ | --- | --- | --- |
+| Role:          | Software     | Engineer    |            | Intern       |     |     |     |
+| Program:       | India Campus | Hiring      | (B.E./B.   | Tech - CSE,  | IT) |     |     |
+| Duration:      | 6 months     | (conversion | based on   | performance) |     |     |     |
+| Location:      | NCR Voyix    | India       | Offices    |              |     |     |     |
+| About          | the Role     | (Software   |            | Intern)      |     |     |     |
+IhavebeenselectedforaSoftwareInternpositionatNCRVoyix,wheretheinternshipincludesastructured
+6-month training period. During this time, I will be working under the guidance of senior engineers to
+gain hands-on experience in software development, debugging, testing, and understanding enterprise-level
+workflows.
+This internship is performance-based, meaning that full-time employment is not guaranteed but may be
+considereddependingonmyperformanceduringthetrainingperiod. Theroleprovidesexposuretoreal-world
+
+| Placement |     | Experience |     |     |     |     |     |     |
+| --------- | --- | ---------- | --- | --- | --- | --- | --- | --- |
+projects, modern technologies, and professional development practices, allowing me to build industry-ready
+| skills within | a global | product-based |           |     | company. |     |     |     |
+| ------------- | -------- | ------------- | --------- | --- | -------- | --- | --- | --- |
+| Overview      |          | of the        | selection |     | process  |     |     |     |
+Our Online Assessment And Interviews all happened at CUIC . We had four rounds:
+| 1. Online     | coding    | round     | in      | Hackerank        | (40   | Got shortlisted) |        |     |
+| ------------- | --------- | --------- | ------- | ---------------- | ----- | ---------------- | ------ | --- |
+| 2. Technical  |           | Interview | (20     | got shortlisted) |       |                  |        |     |
+| 3. Managerial |           | Interview | (10     | got shortlisted) |       |                  |        |     |
+| 4. HR         | Interview | (All      | 10 were | selected         | for   | the internship)  |        |     |
+| Round         | 1 :       | Online    |         | coding           | round |                  | (1 hr) |     |
+TheonlinecodingtestwasconductedatCUICthroughtheHackerRankplatform. Weweregiventwocoding
+problems, one easy and one hard. The harder problem was pretty challenging , so just try to pass as many
+| test cases | even | if they | are somewhat |     | hard coded. |     |     |     |
+| ---------- | ---- | ------- | ------------ | --- | ----------- | --- | --- | --- |
+| Question   | 1:   |         |              |     |             |     |     |     |
+You are given a set of points on a Cartesian plane. These points collectively form multiple squares, and
+inafewsquaresonepointismissing. Thetaskistofindandreturnthemissingpointforincompletesquares.
+Tip: This can be solved cleanly using an XOR-based method or by using set operations to
+| identify | the missing |     | coordinate. |     |     |     |     |     |
+| -------- | ----------- | --- | ----------- | --- | --- | --- | --- | --- |
+| Question | 2:          |     |             |     |     |     |     |     |
+Similar to this question https://leetcode.com/discuss/post/7366207/atlassian-question-how-to-solve-this-by-
+rjuij/
+Tip: I initially attempted a BFS + factorial-based approach, which gives the correct logic but
+exceeds the time limit due to constraints. So i just did hardcoding to pass some more test
+| cases which | we’re | vital     | in  | the selection      |     | for the | next | round. |
+| ----------- | ----- | --------- | --- | ------------------ | --- | ------- | ---- | ------ |
+| Round       | 2 :   | Technical |     | Interview(Offline) |     |         |      | (1 hr) |
+Letmestartwithanimportanttip: alwayswalkintotheinterviewroomwithasmileandoptimisticenergy.
+My interview panel consisted of two interviewers, one of whom had a managerial/HR role. Since I entered
+cheerfully and greeted them with a warm smile, they actually commented that it was a good gesture. While
+first impressions shouldn’t be the sole way to assess someone, in interviews they certainly matter.
+Aftertheself-introductoryquestions, theyaskedmetoexplainmyapproachtotheRound1DSAquestions.
+Since I had thoroughly reviewed where I went wrong the previous night, I was able to present all three
+solutions, brute force, better, and optimal for that particular problem. This is why it’s crucial to always
+| review your | Round | 1 questions |     | before | the actual | interview. |     |     |
+| ----------- | ----- | ----------- | --- | ------ | ---------- | ---------- | --- | --- |
+Following this, the interview became an extremely deep dive into my resume. They asked questions about
+every single thing I had listed starting from projects, internship experiences, OOPs, Computer Networks,
+DBMS, everything was examined in great detail. This experience taught me two important lessons: first,
+
+| Placement |     | Experience |     |     |     |     |     |
+| --------- | --- | ---------- | --- | --- | --- | --- | --- |
+have thorough knowledge of everything you mention in your resume, and second, never add unnecessary or
+| superficial | content | to your | resume. |     |     |     |     |
+| ----------- | ------- | ------- | ------- | --- | --- | --- | --- |
+This round lasted approximately one hour. I gave my interview around 11 AM, and they informed me I was
+| shortlisted | for | the next     | round during | lunchtime.     |     |     |         |
+| ----------- | --- | ------------ | ------------ | -------------- | --- | --- | ------- |
+| Round       | 3   | : Managerial |              | Round(Offline) |     |     | (45min) |
+Ididn’texpecttosaythis,butthiswasthetoughestroundofalltheinterviewsIhaveeverattended. Sinceit
+wasn’t technical, it required pure adrenaline and the ability to think on your feet, building on whatever first
+comestomindwithoutgettingstuckanywhere. IgotreallyluckyherebecauseIhadanothertestscheduled,
+and they called me in the middle of it. I genuinely thought my interview was over at that point.
+The questions were purely situation-based, and honestly, it felt like a nightmare. I was smiling and trying
+to stay composed, while the interviewer maintained a completely neutral expression, showing no emotions
+whatsoever. Thiswasclearlyintentional,theyweretestinghowwebehaveunderpressureandhowwehandle
+| uncomfortable |     | situations. |     |     |     |     |     |
+| ------------- | --- | ----------- | --- | --- | --- | --- | --- |
+My advice: always prepare for situational and behavioral questions when preparing for interviews. These
+rounds can be more challenging than technical ones because there are no right or wrong answers, only how
+| well you | articulate | your | thought            | process | and handle | the pressure. |     |
+| -------- | ---------- | ---- | ------------------ | ------- | ---------- | ------------- | --- |
+| Round    | 4          | : HR | Interview(Offline) |         |            | (10min)       |     |
+AroundtencandidateswereshortlistedfortheHRround. TheinterviewwasbriefandfocusedonbasicHR-
+orientedquestionssuchaswhyIchoseNCRVoyix,myfamilybackground,andmywillingnesstorelocateor
+work from cities like Bengaluru or Chennai. This was the quickest round of the day, and all ten candidates
+were selected.
+Theentirerecruitmentprocessstartedataround8:30AMandwentonuntil11:00PM,makingitoneofthe
+longest interview days ever conducted at CUIC. When we came out of CUIC it was 12:00 PM. I know it is
+the worst feeling , you can’t even focus on studying. I would recommend to chill for sometime , but do get
+into the preparatory zone once you know you’re next or somewhere in the line, because that’ll help to slide
+| back right  | into | where you | left off. |     |     |     |     |
+| ----------- | ---- | --------- | --------- | --- | --- | --- | --- |
+| Preparation |      | Strategy  |           |     |     |     |     |
+For DSA, I mainly followed Striver’s A2Z Sheet and the NeetCode 150 list. I started really late , but i was
+focused and so i could leetcode daily even though when i don’t feel like leetcoding. Try to atleast solve 2-3
+problems daily and make it a habit. I pretty much followed only Striver’s youtube videos and Nikhil Lohia
+| since he | was using | Java. |     |     |     |     |     |
+| -------- | --------- | ----- | --- | --- | --- | --- | --- |
+For DBMS, I practiced the LeetCode SQL 50 problems and HackerRank SQL challenges. SQL 50 was an
+eye opener , it made me think and feel SQL in a different way. Highly recommend if you struggle with SQL
+| Queries | as i was | in the | beginning. |     |     |     |     |
+| ------- | -------- | ------ | ---------- | --- | --- | --- | --- |
+For the core CS subjects, I didn’t follow separate dedicated material. Instead, I revised important concepts
+from Operating Systems and Computer Networks using quick summaries and explanations from ChatGPT
+| just before | the | night of | the interview, | if I | was shortlisted. |     |     |
+| ----------- | --- | -------- | -------------- | ---- | ---------------- | --- | --- |
+
+| Placement | Experience |               |     |         |     |
+| --------- | ---------- | ------------- | --- | ------- | --- |
+| A Note    | Before     | the Interview |     | Process |     |
+Before going into the interview process, I want you to know that you are doing a really good job. Let that
+sink in first. I know these times are very difficult with everything that’s going on. Life hits you in every
+possible way, whether it be personal or academic, which is really stressful. Final year projects, assignments,
+| assessments | etc , there’s | so much | to juggle all | at once. |     |
+| ----------- | ------------- | ------- | ------------- | -------- | --- |
+Rejectionswillcome. You’llgetselectedforinterviews,movetothesecondround,andsometimesevenreach
+the HR round only to face rejection. Believe me, I get this. NCR Voyix was my 5th interview, and I was
+rejected in two HR rounds before this. Life can be cruel, but it always comes back to you at the right time.
+Another important thing is CGPA , we would have heard that CGPA doesn’t matter, It is enough if one
+has 7.5 etc. But this is absolutely not the case. Companies first say the criteria is 7.5 but then proceed to
+do an internal screening based on CGPA if the number of students is more for online assesments. So try to
+| maintain | a CGPA above | 8 as much | as possible. |     |     |
+| -------- | ------------ | --------- | ------------ | --- | --- |
+Forwhoeverisreadingthis,pleasedon’tmakethemistakesImade. Focusonthestepsyoutakeratherthan
+obsessing over the goal you want to achieve. Luck plays a significant role in placements, and you need to
+accept everything life throws at you. I know it’s easier said than done, but do try. I believe in you—you’ve
+| got this. | I’m hoping | you’ll get placed | in a good | company | soon. |
+| --------- | ---------- | ----------------- | --------- | ------- | ----- |
+In case you want to talk about anything , I’m always ears. Here’s my number you can always call or leave a
+message :)
++91-7395916834

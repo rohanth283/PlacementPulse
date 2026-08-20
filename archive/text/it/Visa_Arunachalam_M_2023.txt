@@ -1,0 +1,130 @@
+VISA Interview Experience
+
+-  Arunachalam M
+
+About the company
+
+Visa Inc. is an American multinational financial services corporation headquartered in San
+Francisco, California. It facilitates electronic funds transfers throughout the world, most
+commonly through Visa-branded credit cards, debit cards and prepaid cards.
+
+Role details
+
+The role offered by Visa was for a Software Engineer Intern.
+
+Candidate Profile
+
+I had made 2 projects each covering a different set of skills. The first one was a movie
+booking project using XAMPP stack. The other project was finding the shortest path between
+any 2 buildings in CEG campus which can implemented to any campus using Dijkstra.
+
+My first project covered my DBMS and web development knowledge and my second one
+covered my DSA skills. Try having a project like a web/app on a different topic unlike the
+standard hotel reservation system etc as interviewers prefer different types of project
+irrespective of the stack used. Also try to have at least 2 projects in your resume.
+
+Mention the skills that you are confident in your resume and never lie in your resume as it
+creates a bad impression and more chances of rejection are created.
+
+Preparation Strategy
+
+Preparing for interviews require consistency and dedication. With these 2 skills, you can
+easily crack any coding interview.
+
+First strengthen your language skills in C++,java or python. I would recommend C++ as its
+fast, easy to learn and code. Try the basic HackerRank C++ sums to understand the nuances
+of the language. Learning STL is a must for C++. For python or java their respective
+Collections library.
+
+Next step is to take one topic at a time and solve many sums on them. Take a topic for ex
+arrays, practice lots of sums based on arrays from Geeksforgeeks and leetcode until you are
+confident with arrays. Then move on to the next topic, strings linked list etc
+
+Keep solving in gfg and leetcode regularly. Attend the biweekly and weekly contests of
+leetcode and any programming contest hosted by gfg as they help you prepare on how to
+solve sums in a limited time frame.
+
+Try solving sums from codeforces upto 1200 rating level as those sums are asked in the
+online assessment round of many companies. These sums also help in improving your
+problem solving skills a lot.
+
+Another important thing I would like to mention is to document and store your solutions for
+important sums. Don’t store for necessarily all the sums, store only the important sums that
+uses a particular concept like two pointer, sliding window etc. I would recommend opening a
+github repository as it is online and can be accessed anywhere from your phone or from any
+device. Write your approach, intuition, logic, code and the time and space Complexity. This
+helped me a lot to prepare for interviews
+
+Instead of solving random sums, experienced youtubers have created sheets which can be
+followed to move towards the right direction.
+
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+The above link contains an amazing curated sheet of problems which covers all the topics.
+This sheet has been curated by Striver who is currently working at Google
+
+Other resources I had used were :
+
+DP series :
+https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY
+
+https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+
+Tree series :
+
+https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk
+
+Graph series :
+
+https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw
+
+Basically follow Striver’s channel as it has everything covered!!
+
+Preliminary Round
+
+The first round was an online assessment round which was conducted on HackerRank in
+offline mode proctored by dept staff. Two questions were asked and the duration was 1 hour
+
+The questions asked were :
+
+1.  Find the maximum difference of the max and min element of every component in the
+
+graph.
+
+2.  You are given two teams of sizes a and b. The total number of participants are n. Find
+the minimum number of teams that can be formed using all the n participants into
+either teams of sizes a or of size b
+
+Solution :
+
+1.  This is a standard graph problem which can be solved by DFS or BFS
+2.  This is an adaptation of the Minimum number of Coins sum (Dynamic Programming)
+
+I was able to solve both the sums within 1 hour and later I was shortlisted for the next round
+
+Technical Round(s)
+
+The 2nd round was a technical DSA round which was conducted in Microsoft teams at CUIC.
+
+My interviewer joined on time and started a friendly conversation about my educational and
+family background. Then he started to slowly moved towards my projects in my resume.
+
+He asked why I did this project and what is the unique feature of your project that
+distinguishes yours from the other ones out there. Then he asked few more technical
+questions regarding the projects.
+
+Next he asked me to join the HackerRank code-pair link and gave me a DSA question
+
+Given a string and a number as input, rotate each and every character of the string
+
+according to the number mentioned. Ex : string : abc, number : 1, then output is bcd
+
+The number can also be negative and error messages should also be displayed for edge cases
+like when there is an empty string, or an alphabet instead of a character etc.
+
+I was able to solve the sum and the subsequent edge cases and follow up questions that were
+asked.
+
+My interview round lasted for 1 hour 10 minutes. After a few hours, the results were out and I
+was selected.
+

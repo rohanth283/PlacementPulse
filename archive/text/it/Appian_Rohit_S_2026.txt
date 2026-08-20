@@ -1,0 +1,203 @@
+Intern Drive Experience – Appian
+Rohit S - IT Grey
+
+Role: Software Engineering Intern
+
+Round 1 – Coding Round (Glider.ai)
+
+This was an online coding round and was conducted on the Glider.ai
+platform, which is heavily proctored so make sure you’re in a quiet
+environment and avoid unnecessary movements. There were 3 easy
+questions:
+
+1.  Finding the First and Last Index of an Element in an Array
+2.  Insert Interval
+3.  Find the Duplicate and Missing Number in a Sequence
+
+Explanation: You’re given numbers from 1 to n, but one number is
+missing and another appears twice. Find both, and check if they form
+a specific “pair” as per the given condition.
+
+From what I observed, most people solved all three questions. I think the
+shortlisting was based on:
+
+●  Time taken to solve
+●  CGPA
+●  Number of warnings received
+
+Out of 318 students who attended 41 were selected for the interviews.
+
+Round 2 – Technical Interview
+This round was held at CUIC. The type of questions you get depends
+heavily on your panel, so be ready for all aspects — DSA, DBMS, OOPS,
+OS, Networks, and your own projects.
+
+Since I had mentioned participating in multiple hackathons and building
+several real-world projects, my interviewer focused almost entirely on
+project-based discussion.
+
+I was asked to explain each project in detail:
+
+●  How the idea originated
+●  How we built it
+●  Challenges faced
+●  New technologies learned
+
+He also picked specific skills from my resume and made sure to ask at
+least one question from each.
+
+Never list skills you aren’t confident in, and choose your words
+carefully ,they might dig deep into anything you mention.
+
+Technical Questions I Was Asked based on my projects :
+
+●  Why MongoDB in one project and PostgreSQL in another.
+●  How I decide which database to use for different scenarios.
+●  Single Page Applications (SPAs) — what they are and how they
+
+work.
+
+●  LLM Fine-Tuning — methods, concepts, and practical applications.
+●  Git Commands — rebase, stash, merge, reset (soft/mixed/hard) and
+
+their real-world use cases.
+
+●  FastAPI vs Flask — differences, ASGI vs WSGI.
+●  AI Agents — architecture, decision-making process, and real-world
+
+applications.
+
+●  How Tesseract OCR works and how I implemented it in my project.
+●  Docker vs Virtual Machines — differences and why docker is used.
+●  DSA Question: Number of Islands (Asked to write algorithm and
+
+explain my approach)
+
+He asked if I had any questions for him. Asking thoughtful questions leaves
+a much stronger impression than generic ones like “How’s the work-life
+balance at Appian?” or “What’s an intern’s day like?”.I asked:
+
+“Appian is a no-code platform — how does it differentiate itself from
+other no-code and low-code platforms using generative AI?”
+
+This sparked a conversation about:
+
+●  His journey at Appian
+●  How the company started
+●  The innovative AI-driven project he is currently leading
+
+Tips From This Round
+
+●  Strong, real-world projects are a huge advantage — provided you
+
+built them yourself and know them inside out.
+
+●  The challenges you faced and how you solved them often matter
+
+more
+
+●  If you don’t have projects, expect theory-heavy questions from
+
+DBMS, OOPS, OS, and Networks, plus extra DSA with optimization
+constraints.
+
+●  Choice of words matters — answer carefully, as interviewers might
+
+dig deep into anything you say.
+
+●  Panel dynamics matter — Questions may vary drastically based on
+the panel you get and your responses. Try to understand what your
+interviewer expects and adapt your answers accordingly.
+
+Round 3 Technical + HR
+
+The next round was also a technical + HR round.
+
+Again, most of the questions from previous rounds repeated — I explained
+my projects, how they originated, and pretty much went through the same
+explanations as before.
+
+I wasn’t asked any additional DSA, OOPs, or DBMS questions in this
+round. Instead, the interviewer seemed quite impressed by my projects and
+started asking very minute details about how they worked.
+
+HR questions:
+
+●  How I got into building projects
+●  How I would handle a conflict in a team
+
+I also repeated the question I asked in the previous round — he was quite
+impressed with that too.
+
+There was round-wise filtering — only if you cleared a round, you moved to
+the next. The first round went for about 45 minutes, and the second round
+for about 30 minutes.
+
+If you’re immediately called for the next rounds after your previous one,
+chances are high that you’re already on the selection track.
+
+Final Round
+
+This round was directly with the Regional Head of Appian. He mentioned
+that he personally likes to review the candidates he selects.
+
+The interview began with some background questions:
+
+●  My CGPA, 12th and 11th marks, and even my JEE score.
+●  He then asked who had the highest CGPA in my class and why there
+
+was a difference between mine and theirs.
+
+●  He also asked where I would rank in my class based on CGPA.
+
+It felt a little strange, but later he explained that he just wanted to see if
+academic performance matched technical skills.
+
+Like the previous rounds, most of the time was spent on my projects.
+
+He asked only one DBMS question, which he said has been Appian’s
+“classic” question for years:
+
+“What is the minimum number of tables needed for a many-to-many
+relationship?”
+ I wasn’t 100% sure at the time but reasoned it out and said 2, adding that I
+wasn’t exactly sure. (2 turned out to be correct.)
+
+He then asked about my personal background and family.
+
+Finally, he asked if I had any questions for him.
+
+I said I was “repeating” the question from the previous round to get his
+opinion. He got slightly annoyed and said questions should be genuine, not
+just for formality. He was quite a serious person, so I quickly asked a fresh
+question and moved on.
+
+In the end, 12 people were chosen out of the 41 for the SWE Intern role —
+and I was one of them.
+
+Key Takeaways & Tips
+
+●  Be yourself and be honest — don’t try to fit into a mold or pretend to
+be someone you’re not. If you don’t know something, share your
+thought process, admit you don’t know, and show eagerness to learn.
+
+●  Find your learning style for DSA and stick to resources that work for
+
+you.
+
+●  People will often tell you to use C++ for DSA and not Python.
+
+Honestly, it doesn’t matter as long as you understand the concepts
+and how things work under the hood.
+
+●  I went with Python because it is simpler and Python’s built-in
+
+functions let me focus on solving the problem, not remembering STL
+syntax.
+
+All the best
+
+Feel free to contact for any doubts:
+Rohit S (2023115085)
+9384799275
+

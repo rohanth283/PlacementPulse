@@ -1,0 +1,129 @@
+Dhanushkumar Sankar - Information Technology
+
+Intern + FTE in RAMCO Systems
+
+About the Company
+Ramco Systems is a global enterprise software company based in Chennai, India,
+specializing in cloud-based ERP, HCM, and aviation solutions. It serves industries
+like manufacturing, logistics, and aviation. The company has a global presence,
+supporting clients in over 20 countries. Known for innovation,
+it offers
+opportunities to work on cutting-edge technologies and diverse industries.
+
+About the Role
+Role: Full Stack Developer
+
+As a full-stack developer for aviation software, your role involves building and
+maintaining both frontend and backend systems. You will work on features like fleet
+management, maintenance tracking, and operational analytics,
+integrating
+technologies like cloud, AI, and databases to enhance performance and user
+experience.
+
+Selection Process
+1. Online Assessment
+
+2. Technical Round 1
+
+3. Technical Round 2
+
+Online Assessment (2 hrs 15 mins)
+- Conducted via SHL, taken by around 200 candidates (CS/IT/ECE).
+- 27 MCQs focused on debugging outputs and technical questions on CS
+fundamentals.
+- Full-Stack Question:
+
+- Initial code provided.
+- Task: Write backend routes in Django and frontend functions in React.js.
+
+Result: 40 candidates shortlisted from this round.
+
+Technical Round 1 (30 mins)
+Focus Areas:
+
+- Projects, DSA, and OOPs.
+- Questions asked:
+
+1. Find Duplicates in Sorted Array
+2. Robot Return to Origin
+
+Result: 4 candidates shortlisted.
+
+Technical Round 2 (Nearly 2 hrs)
+Focus Areas:
+
+- DSA, Problem Solving, and Thinking.
+- Questions asked:
+
+1. Binary Tree Level Order Traversal
+2. Create a custom data structure for Notepad (copy, cut, paste functionality).
+3. Puzzle: Minimum number of coins needed to provide any amount between
+
+1-100.
+
+Answer: 7 coins {1, 2, 4, 8, 16, 32, 64}.
+
+Outcome: All 4 candidates were selected.
+
+Previous Interview Experience
+In my previous interview at Everstage, DSA helped me reach the last round.
+However, I was rejected due to weak theoretical knowledge. This taught me the
+importance of balancing DSA preparation with theory subjects. Don't ignore theory;
+study it alongside DSA.
+
+Preparation Strategy
+
+DSA
+DSA highlights your ability to solve problems. Focus on Striver’s SDE Sheet and
+Leetcode Interview 150 for targeted preparation.
+
+Resources:
+
+- Striver's playlists on YouTube.
+
+- Striver’s resources provide everything needed to excel in DSA.
+
+Revise these playlists before interviews to showcase your skills effectively.
+
+Projects
+Know your project thoroughly. Common questions include:
+
+1. Why did you choose this tech stack/database? Why not another?
+2. What was your role?
+3. Explain the architecture and flow of your project.
+4. Challenges faced during implementation.
+
+Avoid adding fake projects to your resume. Learn basic GitHub commands to
+demonstrate project management knowledge.
+
+SQL
+Practice basic SQL Questions and try to do SQL 50 from LeetCode
+
+Resume
+Keep your resume concise, listing only the skills you're confident about. Companies
+don’t expect you to know their tech stack but want to assess how well you can apply
+what you know.
+
+Theory Subjects
+Focus on key topics from InterviewBit and GeeksforGeeks (GFG):
+- OOPs: OOPs Sheet, GFG.
+- DBMS: InterviewBit, GFG.
+- OS: GFG.
+- CN: GFG.
+- Git: W3Schools.
+
+Understand these concepts thoroughly instead of memorizing everything.
+
+General Tips
+-Don't lose hope ,keep trying
+
+All the best Guys !
+
+Feel Free to contact if you have any Doubt,
+
+Dhanushkumar Sankar
+
+9025635359
+
+dhanushit419@gmail.com , LinkedIn
+

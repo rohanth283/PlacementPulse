@@ -1,0 +1,291 @@
+Sanmitha V S - Information Technology
+– EO&T intern in Citi
+
+About the Company:
+
+Citi Solutions Center (CSC) is a global hub for innovation and operations within Citigroup, providing
+comprehensive solutions and support across various functions like technology, operations, finance,
+and risk management. These centers are strategically located worldwide, enabling Citi to leverage
+diverse talent and drive efficiency through centralized services. CSCs play a crucial role in enhancing
+Citi's global operations by implementing cutting-edge technologies, optimizing processes, and
+ensuring compliance with regulatory standards. They contribute to the bank's ability to deliver
+seamless financial services, supporting Citi's mission to be a trusted partner to its clients globally.
+
+About the Role:
+
+Enterprise Operations and Technology (EO&T) within Citi Solutions Center (CSC) is the backbone of
+Citigroup's global operations, responsible for delivering essential technology and operational services
+that support the bank's vast network. EO&T at CSC focuses on developing and maintaining the
+infrastructure that powers Citi's banking services, ensuring security, scalability, and efficiency. This
+includes everything from managing data centers, cybersecurity, and cloud computing to optimizing
+financial transactions and risk management systems. By leveraging advanced technologies and global
+talent, EO&T within CSC ensures that Citi can operate smoothly, innovate continuously, and provide
+reliable, high-quality services to clients worldwide.
+
+Overview of the Process:
+
+The overall process consisted of
+
+● An Online coding contest in SHL platform
+● Interview Round 1 (Based on Resume) – in CUIC
+● Interview Round 2 (Technical) – in CUIC
+● Interview Round 3 (Technical) – in CUIC
+● HR Round
+
+Domains offered for Intern:
+
+EO&T – Enterprise Operations and Technology
+
+ICG
+
+PBWMT – Product Development
+
+Online coding contest in SHL platform:
+
+The coding contest was conducted in SHL platform. Normally, if a online test is conducted in
+SHL platform, it would be easier than Hackerrank, Hackerearth or any other platform of the
+company itself. So don’t worry about the difficulty of the contest. It consisted of 3 sections
+namely 2 aptitude sections and a coding section.
+
+The aptitude section consisted of simple aptitude questions, technical mcqs, etc. But the
+thing in SHL is you can’t move to the next question without answering the current question.
+And once you have moved from a question, you can’t move to that question. No negative
+markings.
+
+The 3rd section consisted of 2 coding questions; both were simple questions.
+
+1) Reversing a number
+2) Given an array of numbers. Return the sum of 2 numbers whose product is
+
+maximum. The numbers can be positive or negative.
+
+14 students were shortlisted for interview process of EO&T intern.
+
+TIPS for Online Test:
+
+Always remember that if a test is easy, you have to race with the time. If more
+people solve the given questions, then obviously the deciding criteria would be how
+fast you did than others. Whether you do in brute force or in an efficient way, have
+an eye on timing. I did the 2nd question in brute force but passed all the test cases.
+The moment it passed all the test cases, I didn’t optimise my code. I just finished the
+test before 30 – 45 minutes which greatly helped me get selected for the next round.
+
+Interview Round 1 (Based on Resume):
+
+This round was purely based on our Resume. The questions were general. The panel
+consisted of 2 members and there were several panels. Questions and their complexity
+depend on the panel. Some panel members even asked DSA questions.
+
+● They had asked us explain our projects, the tech stacks used in it, etc.
+● One of the panel members asked my favourite language and favourite project.
+
+I said Python and I did a project with deep learning which was my favourite. He
+asked me why did you choose that project, various steps involved in that project, etc
+● Then they asked about the subjects which I study in my 5th semester and which is
+
+favourite in it.
+I said compiler engineering and Unix internals.
+
+● Since I said Unix internals, he asked what do you study in that and asked How to
+terminate a process that took all the memory while other processes are waiting for
+memory.
+
+● What’s your ambition?
+● Any questions for him?
+
+Interview Round 2 (Technical):
+
+This round went for 45 minutes.
+
+● They started with my introduction and stuff.
+● What's a data structure? List out the data structures that you know
+● Then they gave me a CSV file with fields – Roll number, Name, Semester, Course and
+Fees paid. They had asked me to return the students who study Java course and not
+paid their fees.
+Since I know to operate on CSV files in Python, I easily wrote a piece of code. I even
+mentioned them that I’m not perfect with the syntax since I studied this in my 12th.
+But they said syntax doesn’t matter.
+
+● Then they asked me to connect to a database in any language of my preference. I did
+with PHP and Postgres. They had asked me to explain the parameters like host, port,
+uname, password and dbname.
+● What’s your favourite subject?
+● Have you used any apis? How will you call that api? If at all an error occurs in the api
+
+call how will do exception handling in that?
+
+● Difference between get and post methods. Which one is safe? Methods other than
+
+get and post.
+
+● Difference between http and https.
+● Write a code to find the missing number in the given range.
+● Given a table with fields roll number, name, fees, pending fees. They had asked me
+
+to write a procedure to sum up all the fees and pending fees.
+
+● Asked me to write a function for the same.
+● Write a trigger when a record is inserted into a table1 it has to be inserted into
+another table table2. If the table 2 is full and trigger fails will it be updated in table
+1?
+
+● Do u know about synonyms in dbms?
+● Do u know about views in dbms? Can we use dml commands in views?
+● Since I mentioned about compiler engineering as one of my favourite subjects, they
+asked me about which compiler does java use? Do we need to change the compiler
+for java if we change the OS? Which compiler does C uses? What's GCC? Why are so
+many compilers present for C?
+
+● And few small small questions here and there.
+● Any questions for him
+
+They weren’t bothered about the syntax. I mentioned in various places that I’m not sure
+about the syntax and they were fine with that.
+
+For few questions on Java and Compiler engineering, I said that we didn’t come to that level,
+we are just in the basics and they understood my point of view.
+
+For few questions, I got confused and confidently answered the wrong answer. But luckily,
+they selected me for the next round.
+
+Mostly, their first question was beyond the syllabus, operating on CSV files, etc.
+
+Other questions like connect Python with postgres, Write code for insertion and deletion in
+AVL trees in C, etc were also asked for other candidates.
+
+5 students were selected for the next round.
+
+Interview Round 3 (Technical):
+
+This round was conducted only for 3 students. It happened only for 10 mins.
+
+They had given a table,
+
+EMP_ID
+100
+200
+300
+400
+500
+
+EMP_NAME
+A
+B
+C
+D
+E
+
+M_ID
+200
+300
+400
+100
+100
+
+Salary
+40000
+20000
+30000
+20000
+10000
+
+M_ID refers to the manager id to whom they have to report. It means that A is an employee
+and a manager. D and E will report to him.
+
+They asked me to write a query to list out the details of the manager and the count of
+employees who are reporting to him.
+I understood that I have to use INNER JOIN in the query but anyways I wrote a wrong query.
+
+They were happy that I figured out that I have to use INNER JOIN and they explained the
+correct query.
+
+No shortlisting happened after this round. All the 5 candidates attended the HR round.
+
+HR Round:
+
+It went for around 15 – 20 mins. The HR introduced himself to me and it was like a casual talk.
+
+● Tell me about yourself, hobby, projects, family, etc.
+● Do any of your parents are in govt job, had been working in citi, etc
+● Why do you choose citi, etc.
+● Any questions for him
+
+He was satisfied with my answer and yeah… 4 candidates got EO&T intern and I’m one
+among them.
+
+TRICKS THAT I FOLLOWED:
+
+● As said earlier, I completed the online test as soon as possible
+● The moment I came to know that I was selected for the interview, I patiently read the job
+description. They had mentioned that “We are looking for persons who are eager to learn,
+etc” and hence accordingly I framed the answers for “Tell me about yourself”
+● In every round, they’ll ask “Do you have any questions for us?” as the last question.
+
+Do ask a lot of reasonable questions,
+about the company,
+
+tech stacks used,
+kind of projects that we do in intern,
+location of work,
+Could you please tell me your experience in Citi,
+The best thing in Citi according to you
+Work culture in Citi, etc
+Your questions will determine your eagerness to work in the company.
+
+● At the same time, asking more questions seemed uncomfortable for me because that
+seemed to be prepared and hence after asking 2 or 3 questions to the interviewers, I said, “I
+do have a lot of questions but because of time being, I’m limiting myself”
+
+● While asking questions,
+
+I mentioned the full form of EO&T (Enterprise Operations &
+few times which denotes that you have made few searches, read the
+
+Technology)
+documentation which again says your eagerness to work in the company.
+
+● I listened to the PPT which actually helped me to get a view of what they do in Citi. This is my
+advice, if you are selected for the interview, do gather info about the company and recall
+whatever told in the PPT. Also while asking questions or answering the question “Why citi?”, I
+mentioned “In the PPT, they said that…” which again added to my interest to work in Citi.
+
+MY PREPARATION STRATEGY:
+
+● I didn’t prepare in my 4th semester holidays in a daily basis. I had spent my holidays
+in my summer project, a bit on intern preparation and in leisure. But as soon as the
+schedule of internships and placements are given by the CUIC, I did rigorous
+preparation. When I mean rigorous, I map it to its exact meaning without a cheat
+day. I was able to complete my intern training within 2 weeks in addition to the
+college work. I made sure to complete the preparation before the first company
+arrives. The reason why I mention this is, it’s not the duration of your preparation
+matters, covering all the topics, practising the needed matters the most.
+
+● I used ACM CODE documents for my preparation
+● Before every online test/ interview, I would surf the net and read the past internship
+experiences of that particular company. This gives an idea of how difficult the test
+would be, what are their expectations, etc
+
+● And in addition, I approached my seniors who got intern in the concerned company
+Interaction with seniors literally helped me to know
+
+and asked tips if there are any.
+the evaluation pattern, what do they expect, etc
+
+● If I don’t know answers for the questions asked in a test of a company, I made sure to
+
+know that before the test of next company.
+
+● Rejections do affect my confidence. But when you fall down, make sure that you are
+
+getting up from that.
+
+● I had a casual attitude when I got used to the interview process after attending the
+
+tests of 4 – 5 companies. That really helped me to recover when I fail.
+
+● I’m sure that the internship season would be stressful. You’ll have continuous tests,
+interviews, you have to manage your academics as well, lot of club stuffs and lot
+more. It was really difficult to manage all these, till I learnt how to do so. Every time
+when I feel stressed or down, I’ll let out my thoughts to my parents and my friends.
+Always only when you keep the stress with yourself, it hangs with you so let it go.
+

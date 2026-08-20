@@ -1,0 +1,160 @@
+SHIVABALAN M - Verizon Data Services
+Interview Experience
+
+About Verizon:
+
+Verizon is a global telecommunications and technology company
+
+that delivers wireless connectivity, broadband, and enterprise networking
+solutions worldwide. Verizon Data Services plays a critical role by
+handling software development, data analytics, network operations,
+cybersecurity, and automation, ensuring Verizon’s global networks and
+digital platforms run efficiently, securely, and at scale.
+
+About the Role – Engineer 1:
+
+This role is an software development position at Verizon India
+under the Global Network & Technology team. The work mainly involves
+designing and developing software applications, preparing system and
+user documentation, and helping with the day-to-day support and
+maintenance of existing systems and also assisting in integrating third-
+party applications and supporting ongoing technical and managerial
+initiatives.
+
+Selection Process:
+
+The process had 5 stages of selection:
+
+1) Online Coding round
+2) Group Discussion
+3) AI Prompting round (non-eliminatory)
+4) Technical Interview
+5) HR Interview
+
+Round 1: Online Assessment:
+
+The online assessment had 2 sections:
+
+1. Coding
+2. MCQ
+
+The MCQ section had 30 MCQs mostly based on Gen AI and related stuffs.
+They were mostly easy and answerable if we think for a while.
+
+Then the coding section had 2 questions out of which one was easy and
+one was medium. I don’t exactly remember the question. But yeah, If
+you’re a 7/10 guy in DSA you’ll be able to solve both of them without any
+struggles.
+
+80 candidates including me were shortlisted for the further interview
+process.
+
+Round 2: Interview process (At CUIC):
+
+The entire interview process happened in CUIC only and there were
+
+no virtual rounds.
+
+The first and important round of the interview process was the
+
+Group Discussion round. Candidates were divided into group of 9 or 8
+members each. My group was given the topic “Online mode or the
+traditional way of doing things (whether it is shopping, education, or work
+or anything)”. I made sure to speak twice throughout the discussion. I
+also listened to others points which actually helped me shape my points
+and convey them in a better way.
+The concept is simple: Speak with clarity. Listen to others perspective and
+the important thing is Do not speak too much.
+Almost half of the candidates were eliminated in this round.
+
+The Second round was the AI Prompting round. This round was a non-
+eliminatory one. Basically, they gave us few problem statements and we
+have to build solutions for them. But we don’t have to actually build it. We
+just have to give prompt for an AI tool to build the solution. They
+basically check how good we were at giving prompts to AI tools. Though
+this round is non eliminatory they note everything and asked about our
+way of giving prompts during the technical interview round!
+
+The next round was the technical interview round. For me this round was
+entirely based on my resume. In some other panel, there were questions
+on Search and Sort techniques, DSA and basic ML stuffs. So yeah , it
+differs from panel to panel.
+
+The interviewer was actually very patient and took the entire interview in
+a smoother way. As soon as the interview started, I was asked to
+introduce myself. Then he dived into my resume. He basically checked
+how well I knew things that I mentioned in my resume.
+I did an internship during my 4th semester holidays which I explained
+thoroughly and he raised questions on it as well. I made sure I answered
+them with clarity and confidence. Then he questioned about my projects.
+I explained them clearly as well. Then he asked me questions on my way
+of giving prompts based on the prompts that I gave during the AI
+prompting round. Then at the end I asked some questions about the
+operations at Verizon to the interviewer and he explained them to me.
+
+32 candidates including me were shortlisted for the HR round.
+
+The last round was the HR Round. This round was pretty simple. The
+interviewer asked me to introduce myself initially. I introduced myself
+elaborately and he was a bit impressed with that. Then there were
+questions about my family, my goals in next 5 years and simple default
+HR round questions. Then I asked him few questions on the Work culture
+at Verizon and he answered them.
+
+Once every candidates were done with their HR round, They sent us our
+Selection Mail immediately!
+All the 32 candidates were selected!
+
+My Preparation Strategy:
+
+I started DSA late and I realised it was a mistake later . I started
+preparing during my 6th semester holidays only. I recommend you to
+start practicing DSA as early as possible. 2 problems per day will do
+the job! I used Striver’s Sheer and Interview 150 sheet for my DSA
+preparation. And for other core concepts(DBMS, OOPS, CN etc,.) I
+referred Geeks for Geeks.
+
+Previous Interviews:
+
+Before Verizon I attended interviews for Trimble Inc and Roche
+
+Services.Actually the learnings from those 2 interviews helped me a lot
+during my interview for Verizon.
+
+For Trimble, there were 2 coding questions in the online assessment
+round and in the first round of the physical interview process I failed to
+provide an optimal solution for the DSA question and I feel that was the
+reason I was not selected for the further rounds. You can crack Trimble if
+you are good at DSA, Core concepts and importantly System Design.
+
+Then for Roche Services the online assessment had questions from
+Aptitude, Communication and SQL.
+During the interview process we had 4 rounds, the first round was the
+case study round where
+I was given with 5 business cases and asked
+to solve questions from them. The second round was the GD round. Then
+we had the technical interview which completely focused on Data Analysis
+and SQL. The same with the second technical round as well.
+
+Key Suggestions and Tips from My Experience:
+
+-> Start DSA as early as possible.
+-> Focus on your communication skills.
+-> Do not lose hope.
+-> Face the interviews with clarity and confidence.
+-> Mention only things you know about in your resume.
+-> Have a deeper understanding of your projects.
+
+Contact Information: Feel free to contact me in
+case of any doubts :)
+
+Name: SHIVABALAN M
+
+Mobile No: +91 97892 24553
+
+EmailId: shivabalan1810@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/shivabalan-mani/
+
+ALL THE BEST GUYS !!!
+

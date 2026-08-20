@@ -1,0 +1,105 @@
+ABIRAMI S V – INFORMATION TECHNOLOGY
+
+Intern + FTE in SecureW2
+
+About the company
+
+SecureW2 is a SaaS Cybersecurity company pioneering the development of certificate-driven
+enterprise security. It specializes in passwordless security for wired, wireless, VPN, and ZTNA,
+and application security, ensuring an organization is protected from credential and data theft.
+Their clientele ranges from Peloton, STMicroelectronics, The Pokemon Company, Glassdoor,
+American Red Cross, Freshworks, Harvard University, and many other organizations across the
+globe.
+
+About the role
+
+Role: Software Developer
+
+A  Software Developer  is  responsible  for  the  design,  development  and  maintenance  of  web
+applications and websites. Would work on both front end and back-end development as full
+stack  developer.  Responsibilities
+include  coding,  designing  UIs,  collaborating  with
+stakeholders,  testing  applications,  troubleshooting  problems,  maintaining  applications,
+documenting code and research.
+
+Overview of the process
+
+•  Round 1 – Online Coding Test (in CUIC)
+•  Round 2 – Technical Interview 1 (in CUIC)
+•  Round 3 – Written Coding Test (in SecureW2 Office)
+•  Round 4 – Technical Interview 2 (in SecureW2 Office)
+
+ONLINE CODING TEST
+
+The online coding test consisted of 5 questions divided into 2 sections: 3 easy questions and
+2 hard questions. The easy section focused on basic array problems, while the hard section
+had dynamic programming problems. The test duration was 2 hours.
+
+Results were announced immediately after the test and interviews for shortlisted students were
+conducted shortly thereafter.
+
+TECHNICAL INTERVIEW 1
+
+This  round  was  mainly  based  on  my  resume.  The  interviewer  asked  me  detailed  questions
+about the projects I had worked on including why I chose certain technologies over others and
+the challenges faced. He also asked some basic questions about Spring Boot and AngularJS.
+
+Then I was asked to explain the logic for simple problems like binary search. The interviewer
+was happy with my answers and asked if I had any other job offers and if I would accept the
+job if selected. The interview ended on a good note.
+
+The  results  were  announced  the  next  day  and  the  shortlisted  students  were  invited  to  the
+SecureW2 office for the further rounds.
+
+WRITTEN CODING TEST
+
+The test included 4 questions and we were asked to write the code on paper in our preferred
+programming language. One question involved finding the absolute difference between the
+sums of the primary and secondary diagonal elements in an N x N matrix. Another was to find
+all substrings of a given string and count the number of pairs that are anagrams. The remaining
+two  questions  were  situation-based  problems  that  could  be  solved  using  arrays.  The  test
+duration was 1 hour.
+
+The results were announced after 2 hours and the technical interviews for shortlisted students
+were conducted immediately after.
+
+TECHNICAL INTERVIEW 2
+
+The interview was conducted by the company director and the head of the development team.
+It  began  with  the  usual  ‘Tell  me  about  yourself’.  Many  questions  were  asked  about  Java,
+including  multithreading,  collections,  how  ArrayLists  work  internally  and  whether  I  thought
+Java was better than other programming languages, along with a justification.
+
+Next, we moved on to DBMS, where I was asked about normalization and cursors. They also
+asked about my knowledge of the company (make sure to research the company before an
+interview!). Since it is a security company, I was asked some security-related questions, mainly
+about certificates, HTTPS, and SSL/TLS.
+
+Towards the end, they asked about my interview preparation strategy, my location preferences,
+and my feedback on the recruitment process. Although I couldn’t answer a few questions, the
+interviewers were understanding and the interview ended on a positive note.
+
+Finally, 5 students received the offer and the offer letters were given on spot.
+
+General Tips
+
+•  Stay consistent in your DSA preparation.
+•  Be confident during interviews. It’s alright if you don’t know some answers. The focus
+is mainly on how well you can explain what you know and your willingness to learn
+what you don’t know yet.
+
+•  Research  the  company,  its  products,  and  clients.  Have  basic  knowledge  of  the
+
+company’s domain (eg: security in this case).
+
+•  Be strong in the basics of DSA, OOPS, DBMS, OS, Networks.
+•  Be confident about everything you’ve mentioned in your resume.
+•  Most importantly, don’t lose hope! Facing rejections and seeing everyone around you
+
+get placed isn’t easy, but trust the process and keep putting in the effort.
+
+ALL THE BEST!!
+
+PS:  Everyone  at  the  company  was  super  friendly  and  approachable.  They  even  offered  us
+refreshments and lunch. Overall, it was a good experience.
+

@@ -1,0 +1,243 @@
+Wells Fargo Placement Experience
+
+-  Rishi Kumar U (2022115085)
+-  Batch [ 2022 - 2026 ]
+
+About the Company
+
+Wells  Fargo  &  Company  is  a  diversified,  community-based  financial  services  company  with  $2.0
+trillion  in  assets.  Founded  in  1852  and  headquartered  in  San Francisco, Wells Fargo provides a
+wide
+investments,  mortgage,  and
+consumer/commercial finance.
+
+range  of  services
+
+including  banking,
+
+insurance,
+
+The  company  operates  through  more  than  8,500  locations,  13,000  ATMs,  online  banking
+(wellsfargo.com),  and  mobile  platforms.  With  a  global  presence  in  42  countries,  Wells  Fargo
+supports  customers  who  conduct  business  in  the  global  economy.  The  company  employs
+approximately  273,000  team  members  and  serves  one  in  three  households  in  the  United  States.
+Wells Fargo’s vision is to satisfy its customers’ financial needs and help them succeed financially.
+
+About the Role: Enterprise Global Services (EGS)
+
+The role is part of the Enterprise Global Services (EGS) technology team. EGS is a crucial division
+that  enables  global  talent  capabilities  for  Wells  Fargo.  It  supports  over  half  of  the  company's
+business  lines  and  staff  functions  across  four  key  areas:  Technology,  Business  Services,  Risk
+Services,  and  Knowledge  Services.  EGS  operates  from locations in Hyderabad, Bengaluru, and
+Chennai in India, as well as Manila in the Philippines.
+
+As a member of the team, you interact closely with multiple business and technology partners across
+various Wells Fargo locations, contributing to a diverse and inclusive organizational culture.
+
+Preparation Strategy
+
+●  Data  Structures  &  Algorithms  (DSA):  The  online  test  included  a  medium-hard  dynamic
+programming  problem.  While  the  interview  DSA  question  was  basic  (Height  of  a  Binary
+Tree), a strong foundation is essential to clear the initial screening. Practice consistently on
+platforms like HackerRank or LeetCode.
+
+●  Core  CS  Fundamentals:  This  is  non-negotiable.  Interviewers  repeatedly  tested  concepts
+from  OOPS,  DBMS,  Operating  Systems,  and  Computer  Networks.  Ensure  you  have  a
+deep and clear understanding of the fundamentals.
+
+●  Full-Stack  Development:  The  technical  interviews  heavily  emphasized  my  development
+projects.  Be  prepared  to  discuss  your  tech  stack  (React,  Node.js,  Express),  backend
+design, database schema, security policies, and API design in detail.
+
+●  SQL:  The  online  test  featured  a  dedicated  SQL  question,  and  database  concepts  were
+discussed in interviews. You must be comfortable writing complex queries involving joins,sub
+queries and aggregate functions.
+
+●  Software  Development  Life  Cycle  (SDLC):  This  topic  was  brought  up  in  every  single
+interview  round.  It's  critical  to  understand  the  different  phases  of  SDLC  and  be  able  to
+explain how you applied them to your projects.
+
+●  Resume Deep Dive: Be prepared to explain every single line on your resume. Interviewers
+will  ask  follow-up  questions  about  your  projects,  internships, hackathons, and skills. Know
+your story and your work!
+
+Placement Drive Experience
+
+The entire process consisted of four rounds conducted sequentially.
+
+Round 1: Online Test (HackerRank)
+
+This round was purely focused on coding and problem-solving, deviating from the previous pattern of
+including aptitude questions.
+
+The test consisted of three problems:
+
+1.  Regex:  Write  a regular expression to find all words where the starting and ending letters
+
+are the same.
+
+2.  Dynamic Programming (The Taxi Driver Problem):
+
+A taxi driver receives ride requests, each with a pickup, drop, and tip. The earning for a ride
+is calculated as:
+earning=(drop[i]−pickup[i])+tip[i]
+The driver can only accept non-overlapping rides (a new ride's pickup time must be greater
+than  or  equal  to  the  previous  ride's  drop  time).  Given  the  three  arrays,  find  the  maximum
+possible earnings.
+
+3.  SQL Query:
+
+Write  a query to find the total usage time (in seconds) for each task. The usage time is the
+sum of the differences between end_dt and start_dt for all its associated processes. Return
+each task's hash and its total usage time, ordered descending by the usage time.
+
+Round 2: Virtual Technical Interview
+
+(Duration: 50-55 minutes)
+
+This interview was conducted by Varadan S - a developer who was very approachable. After a brief
+self-introduction, he asked follow-up questions on my intro about the hackathons and project expos I
+mentioned.
+
+The interview then progressed as follows:
+
+●  Resume  Deep  Dive:  He  systematically  went  through  my  resume,  focusing  heavily  on  the
+
+development side.
+
+●  Technology Stack:
+
+○  Frontend: In-depth questions on React.
+○  Backend:  Questions  on  Node.js,  Express,  backend  design  structures,  security
+
+policies, etc.
+
+○  Database: Questions on DB design and writing SQL queries.
+
+●  SDLC:  He  asked  how  I  incorporated  SDLC  methodologies  in  my  hackathon  and  personal
+projects.  The  questions  ranged  from  easy  to  difficult,  designed  to  gauge  the  depth  of  my
+knowledge.
+
+●  DSA Check: He asked a simple question: "Find the height of a binary tree,"and asked a few
+
+follow up questions on Trees primarily to check my basic coding fundamentals.
+
+●  Comparison of different data structures and their search complexities.
+●  Core Subjects: Covered the basics of OOPS, DBMS, OS, and Networks.
+●  Explain OOPs concepts with simple real world examples rather than technical definitions.
+●  Project  Discussion:  A  very  detailed  discussion  about my internship and projects. He was
+keen  on  understanding  my  specific  contributions  and  assessing  my  teamwork  and
+collaboration skills.
+
+●  Behavioral  Question:  The  final  question was, "What are the major new challenges that
+you faced in the development of a project?" He specifically asked me to take my time to
+structure  a  good  answer.  I  explained  a  challenge  and  connected  my solution to the SDLC
+framework, which he appreciated.
+
+I concluded by asking him about his experience transitioning from college to a corporate role. Out of
+25 students, around 14-16 were shortlisted for the next round.
+
+Round 3: In-person Technical Interview
+
+(Duration: 40-45 minutes)
+
+This round was even more conversational. The interviewer skipped the self-introduction and started
+by asking about my academic journey and curriculum.
+
+●  My academic journey and curriculum: From how I entered CEG to Courses learnt.
+●  Favorite  Subject  Deep  Dive:  He  asked  about  my  favorite  subject.  I  said  Computer
+Networks, which set the direction for the next 15-20 minutes. I explained everything I knew,
+and  he  listened  with  interest  before  asking  follow-up  questions  on  topics  like  TLDs,  SSL,
+network security, IPv6, and Private Networks.
+
+●  Favorite  Language Deep Dive: He asked for my favorite programming language and then
+
+tested my knowledge from basic to advanced OOPS concepts within that language.
+
+●  Project Discussion: He asked me to pick two projects from my resume and explain them in
+
+detail. The focus was on potential improvements and the application of SDLC.
+
+●  Agentic AI: While discussing ML and DL topics during the interview, he started asking about
+
+Agentic AI.
+
+●  Random CS Fundamentals: He asked several questions on various CS topics to ensure my
+
+fundamentals were strong across the board.
+
+●  Hobbies  &  Personality:  He  noticed  'Photography'  listed  as  a  hobby  on  my  resume  and
+asked about it, including technical aspects like the "rule of thirds." This was a great way for
+him to gauge my personality and passion outside of work.
+
+This  interview  felt  like  a  friendly, technical conversation. Around 8 students, including myself, were
+moved to the final round.
+
+Round 4: Techno-Managerial Interview
+
+(Duration: 15-20 minutes)
+
+This was a final, brief round to assess my overall fit.
+
+It began with a self-introduction.
+
+●
+●  He asked some basic questions on OOPS and DSA.
+●  The  main  focus  was  on  my  projects  and  the  competitions  I  had  won.  I  selected  a  key
+
+project and explained its architecture, challenges, and outcomes in detail.
+
+●  Projects and the knowledge you possess on the topics of the projects is very important.
+●  He completed by asking a few questions on AI, Agentic AI, ML, DL etc.
+●
+
+It  ended  with  me  asking  a  few  questions  to  the  interviewer  about  how  the  company  is
+transforming due to the growth of AI.
+
+Tips and Tricks
+
+●  Honesty  is the Best Policy: During my first interview, the interviewer was trying to assess
+how  honest  I  was  with  my  answers.  Don't  bluff.  If  you  don't  know  something, it's better to
+admit it.
+
+●  Know Your Resume: This cannot be stressed enough. Every single word on your resume is
+fair  game  for  a  deep-dive  question.  Be  prepared  to  defend  and  elaborate  on  everything
+you've written.
+
+●  Master  the  Fundamentals:  Wells  Fargo  places  a high value on strong core CS concepts.
+
+Don't just focus on DSA; revise OOPS, DBMS, OS, and Networks thoroughly.
+
+●  Connect  Projects  to  SDLC:  Simply  building  a  project  is  not  enough.  Be ready to explain
+how  you  built  it  using  principles  from  the  Software  Development  Life  Cycle.  This  shows
+maturity and a professional mindset.
+
+●  Be  Communicative  and  Confident:  The  interviewers  were  chill  and  appreciated  a
+conversational style. Don't just give one-word answers. Explain your thought process clearly
+and confidently.
+
+●  Ask  Insightful  Questions:  Prepare  a  few  good  questions  to  ask  your  interviewers.  This
+
+shows your interest in the role and the company.
+
+Recommended Preparation Resources
+
+●  DSA: Striver's SDE Sheet, LeetCode (Easy/Medium), HackerRank (Problem Solving).
+●  Core  Subjects: GeeksforGeeks articles for all core subjects (OS, DBMS, CN), and refer to
+
+standard university textbooks for deep conceptual clarity.
+
+●  SQL: Leetcode’s SQL 50 is excellent for practice.
+●  Web  Development:  Official  documentation  for  React,  Node.js,  and  other  frameworks  you
+
+have used. Building and deploying a full-stack project is the best preparation.
+
+Contact Info:
+
+Name : RISHI KUMAR U
+Register Number : 2022115085
+Phone : 7010613609
+Alternate Phone : 9677827596
+Mail : rishikumar.devs@gmail.com
+Linked in : https://www.linkedin.com/in/rishi-kumar-b35b6b2a1/
+
