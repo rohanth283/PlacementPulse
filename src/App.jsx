@@ -5,6 +5,7 @@ import ChatLayout from './components/ChatLayout';
 import Explorer from './components/Explorer';
 import Insights from './components/Insights';
 import Settings from './components/Settings';
+import AdminPanel from './components/AdminPanel';
 
 export default function App() {
   const [token, setToken] = useState(localStorage.getItem('token') || null);
@@ -16,6 +17,25 @@ export default function App() {
     localStorage.getItem('sidebarCollapsed') === 'true'
   );
   const [loading, setLoading] = useState(true);
+  const [currentPath, setCurrentPath] = useState(window.location.pathname);
+
+  useEffect(() => {
+    const handleLocationChange = () => {
+      setCurrentPath(window.location.pathname);
+    };
+    window.addEventListener('popstate', handleLocationChange);
+    
+    const originalPushState = window.history.pushState;
+    window.history.pushState = function(...args) {
+      originalPushState.apply(this, args);
+      handleLocationChange();
+    };
+    
+    return () => {
+      window.removeEventListener('popstate', handleLocationChange);
+      window.history.pushState = originalPushState;
+    };
+  }, []);
 
   useEffect(() => {
     verifySession();
@@ -91,6 +111,32 @@ export default function App() {
 
   if (!token) {
     return <AuthCard onLoginSuccess={handleLogin} />;
+  }
+
+  // Handle standalone admin page routing
+  if (currentPath.startsWith('/admin')) {
+    if (!isAdmin) {
+      return (
+        <div className="flex min-h-screen items-center justify-center bg-bg-primary px-4 text-center">
+          <div className="w-full max-w-md glass-card rounded-2xl p-8 space-y-4">
+            <h2 className="text-lg font-bold text-danger-primary">403 Forbidden</h2>
+            <p className="text-xs text-text-secondary">Administrator credentials are required to access this console.</p>
+            <button
+              onClick={() => { window.history.pushState({}, '', '/'); }}
+              className="bg-accent-primary hover:bg-[#b86745] text-white text-xs px-5 py-2.5 rounded-xl cursor-pointer transition-all active:scale-95"
+            >
+              Back to Home
+            </button>
+          </div>
+        </div>
+      );
+    }
+    return (
+      <AdminPanel 
+        token={token} 
+        onBack={() => { window.history.pushState({}, '', '/'); }} 
+      />
+    );
   }
 
   const renderActivePanel = () => {

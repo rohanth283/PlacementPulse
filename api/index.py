@@ -259,6 +259,35 @@ def get_admin_stats(user_id: int = Depends(get_current_user_id)):
         cursor.close()
         conn.close()
 
+# Admin Delete User API
+@app.delete("/api/admin/users/{target_user_id}")
+def delete_user(target_user_id: int, user_id: int = Depends(get_current_user_id)):
+    verify_admin(user_id)
+    
+    if user_id == target_user_id:
+        raise HTTPException(status_code=400, detail="Cannot delete your own admin account.")
+        
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    try:
+        # Check if user exists
+        cursor.execute("SELECT id FROM users WHERE id = %s", (target_user_id,))
+        if not cursor.fetchone():
+            raise HTTPException(status_code=404, detail="User not found.")
+            
+        cursor.execute("DELETE FROM users WHERE id = %s", (target_user_id,))
+        conn.commit()
+    except HTTPException:
+        raise
+    except Exception as e:
+        conn.rollback()
+        raise HTTPException(status_code=500, detail=f"Failed to delete user: {str(e)}")
+    finally:
+        cursor.close()
+        conn.close()
+        
+    return JSONResponse(content={"success": True, "message": "User deleted successfully."})
+
 # ----------------------------------------------------
 # Conversation Management Routes
 # ----------------------------------------------------

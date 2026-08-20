@@ -18,6 +18,18 @@ export default function Sidebar({
     { id: 'settings', label: 'Settings', icon: Settings },
   ];
 
+  const combinedNavItems = [...navItems];
+  if (isAdmin) {
+    combinedNavItems.push({
+      id: 'admin_link',
+      label: 'Admin Console',
+      icon: Shield,
+      onClick: () => {
+        window.history.pushState({}, '', '/admin');
+      }
+    });
+  }
+
   const getInitials = (name) => {
     if (!name) return 'U';
     return name.substring(0, 2).toUpperCase();
@@ -52,13 +64,13 @@ export default function Sidebar({
 
       {/* Navigation items */}
       <nav className="flex-1 px-3 py-4 space-y-1.5">
-        {navItems.map((item) => {
+        {combinedNavItems.map((item) => {
           const Icon = item.icon;
           const isActive = activeTab === item.id;
           return (
             <button
               key={item.id}
-              onClick={() => setActiveTab(item.id)}
+              onClick={item.onClick || (() => setActiveTab(item.id))}
               className={`w-full flex items-center gap-3.5 px-4 py-3 rounded-xl text-sm font-semibold transition-all cursor-pointer ${
                 isActive 
                   ? 'bg-accent-primary/10 text-accent-primary shadow-inner border-l-2 border-accent-primary'
